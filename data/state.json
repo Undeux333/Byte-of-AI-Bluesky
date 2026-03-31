@@ -2,28 +2,6 @@
   "last_collected": "2026-03-31T18:36:33.174847+00:00",
   "queue": [
     {
-      "tweet": "I finally found out why hotel carpets look like a fever dream from the 90s. They're designed specifically to hide stains and manage foot traffic patterns so the staff doesn't lose their minds. Respect the commitment.",
-      "topic_tag": "",
-      "original_url": "https://www.mentalfloss.com/live-smarter/travel/why-hotel-carpets-are-busy-patterned?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Why Are Hotel Carpets So Busy and Patterned?",
-      "source": "Mental Floss",
-      "category": "trivia"
-    },
-    {
-      "tweet": "Tiger Woods admitted he was looking at his phone and messing with the radio right before his crash. We've all been there, just usually at 5mph in a parking lot instead of a highway. I just wanted to be normal about it.",
-      "topic_tag": "#TigerWoods",
-      "original_url": "https://www.espn.com/golf/story/_/id/48356214/tiger-woods-told-authorities-was-looking-phone-crash",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Tiger said he was looking at phone before crash",
-      "source": "ESPN",
-      "category": "sports"
-    },
-    {
       "tweet": "Tottenham fans are threatening to boycott matches if the club hires Roberto de Zerbi. It's honestly impressive how much stress a game can cause people who aren't even on the field. Nobody asked.",
       "topic_tag": "#Tottenham",
       "original_url": "https://www.bbc.com/sport/football/articles/c0mjrnr4ld3o?at_medium=RSS&at_campaign=rss",
@@ -1116,7 +1094,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 22,
+    "total_posted": 24,
     "total_collected": 32
   }
 }
