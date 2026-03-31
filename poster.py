@@ -18,8 +18,8 @@ def refresh_token() -> bool:
 def post_tweet(tweet_text: str, topic_tag: str = "", original_url: str = "", category: str = "other") -> dict:
     """
     Blueskyに投稿する
-    - 本投稿: テキスト + トピックタグ（改行で挿入）
-    - リプライ: 元記事フルURL（リンクカード付き）
+    - 本投稿: テキスト + タグ + SourceURL（全て1投稿に統合）
+    - リンクカードが本投稿に展開される
     """
     main_text = tweet_text.split("\nhttp")[0].split("\nhttps")[0].strip()
 
@@ -38,28 +38,17 @@ def post_tweet(tweet_text: str, topic_tag: str = "", original_url: str = "", cat
         try:
             client = _get_client()
 
-            # ① 本投稿
-            post = client.send_post(text=main_text)
+            # URLをリンクとして本文に追加（タグの下に改行して挿入）
+            if original_url:
+                post_text = client_utils.TextBuilder()                    .text(main_text)                    .text("\n\n🔗 ")                    .link("Source", original_url)
+            else:
+                post_text = main_text
+
+            # 本投稿（URL統合・リンクカード付き）
+            post = client.send_post(text=post_text)
             post_uri = post.uri
-            post_cid = post.cid
             print(f"  [Poster] Posted: {post_uri}")
             print(f"           Text: {main_text[:80]}...")
-
-            # ② リプライ（ソースURL）
-            if original_url:
-                time.sleep(3)
-                try:
-                    reply_text = client_utils.TextBuilder()\
-                        .text("🔗 Source: ")\
-                        .link(original_url[:50] + "..." if len(original_url) > 50 else original_url, original_url)
-                    reply_ref = {
-                        "root": {"uri": post_uri, "cid": post_cid},
-                        "parent": {"uri": post_uri, "cid": post_cid},
-                    }
-                    reply = client.send_post(text=reply_text, reply_to=reply_ref)
-                    print(f"  [Poster] Reply with URL: {reply.uri}")
-                except Exception as e:
-                    print(f"  [Poster] Reply error: {e}")
 
             return {"post_id": post_uri, "success": True}
 
