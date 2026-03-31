@@ -284,15 +284,14 @@ Does it sound like a real American speaking, not writing?
 
 FINAL buzz_score2 = sum of 4 dimensions (max 100)
 90-100: Post as-is — will spark strong reactions
-70-89:  Post as-is — will get likes and reposts
-50-69:  REWRITE — identify the weakest dimension and fix it
-below 50: REWRITE — landing and voice both need work
+80-89:  Post as-is — will get likes and reposts
+below 80: REWRITE — identify the weakest dimension and fix it
 
 REWRITE RULES:
 - Identify the lowest scoring dimension first
 - Fix only that dimension — do not change what's working
 - Re-score after rewriting
-- Maximum 2 rewrite attempts — if still below 70, post as-is
+- Maximum 2 rewrite attempts — if still below 80, post as-is
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 TOPIC TAG RULES
@@ -302,21 +301,23 @@ Choose exactly 1 tag per post. The tag appears on a NEW LINE after the post text
 
 PRIORITY: specific > generic
   #OpenAI > #AI
-  #Space > #DidYouKnow
+  #Space > #Science
   #NBA > #Sports
   #Netflix > #Culture
   #Copilot > #Tech
 
 RULES:
 - Use a proper noun when the story is about a specific brand/org/person/team
-  Examples: #OpenAI #Copilot #Iran #NCAA #MarchMadness #Netflix #Tesla
+  Examples: #OpenAI #Copilot #Iran #MarchMadness #Netflix #Tesla #TaylorSwift
 - A good tag names the SPECIFIC SUBJECT of the story, not its category
-  Wrong concept: tags that describe what TYPE of story it is (#News, #Sports, #Tech, #Culture)
-  Right concept: tags that name WHO or WHAT the story is actually about (#Copilot, #MarchMadness, #Iran)
-  Test: would this tag exist as a dedicated feed topic? If yes → use it. If it's just a broad category word → skip it.
-- SKIP the tag entirely (return "") if the key term already appears naturally in the post text
+  Wrong: tags that describe the TYPE of story (#News, #Sports, #Tech, #Culture, #DidYouKnow)
+  Right: tags that name WHO or WHAT the story is actually about (#Copilot, #MarchMadness, #Iran)
+  Test: would this tag exist as a dedicated community feed? If yes → use it. If it's just a broad category word → skip it.
+- SKIP the tag (return "") if the key term already appears naturally in the post text
   Example: post mentions "OpenAI" → do NOT add #OpenAI
+- SKIP the tag (return "") if no proper noun fits naturally
 - If no tag is needed, return "" — do NOT return "#" alone
+- NEVER use: #News, #Sports, #Tech, #Culture, #DidYouKnow, #Life, #World, #Science, #Business — these are category labels, not tags
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -444,7 +445,6 @@ def score_all(stories: list[dict], state: dict) -> list[dict]:
             continue
 
         topic_tag = sel.get("topic_tag", "").strip()
-        # バリデーション：#から始まり2文字以上のみ有効
         if not (topic_tag.startswith("#") and len(topic_tag) > 1):
             topic_tag = ""
 

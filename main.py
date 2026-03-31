@@ -97,7 +97,6 @@ def run():
                 tweet_text=tweet_text,
                 topic_tag=topic_tag,
                 original_url=original_url,
-                category=category,
             )
             if result.get("success"):
                 sm.mark_posted(state)
