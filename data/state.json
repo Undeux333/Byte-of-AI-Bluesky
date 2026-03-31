@@ -1,27 +1,6 @@
 {
   "last_collected": "2026-03-31T11:32:31.046868+00:00",
-  "queue": [
-    {
-      "tweet": "Max Verstappen is threatening to quit unless the F1 rules get changed. I've seen this move before at my own office.",
-      "original_url": "https://www.bbc.com/sport/formula1/articles/cy41vz2lex7o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Is Verstappen's threat to quit a lever to alter rules? - F1 Q&A",
-      "source": "BBC Sport",
-      "category": "sports"
-    },
-    {
-      "tweet": "Nike is dropping three new colors of the Moon Shoe to keep us buying things we don't need. I just wanted to be normal about my footwear.",
-      "original_url": "https://hypebeast.com/2026/3/nike-moon-shoe-yellow-navy-triple-white-release-info",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Nike Unveils Release Date for Three New Spring Colorways of the Iconic Moon Shoe",
-      "source": "Hypebeast",
-      "category": "entertainment"
-    }
-  ],
+  "queue": [],
   "seen_urls": [
     "https://www.bbc.com/news/articles/cm25ynex2zxo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/news/articles/c5ywgn2n3nqo?at_medium=RSS&at_campaign=rss",
@@ -414,7 +393,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 6,
+    "total_posted": 8,
     "total_collected": 8
   }
 }
