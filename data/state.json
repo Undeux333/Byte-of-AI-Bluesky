@@ -2,28 +2,6 @@
   "last_collected": "2026-03-31T14:01:56.779181+00:00",
   "queue": [
     {
-      "tweet": "Canada is sending their first astronaut to the moon while the government relationship is basically a breakup waiting to happen. It's truly impressive we can coordinate a lunar landing but can't manage a basic trade agreement. The space program and the state department are different documents.",
-      "topic_tag": "",
-      "original_url": "https://www.nytimes.com/2026/03/31/world/canada/canada-astronaut-artemis-ii-mission-moon.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "First Canadian Astronaut Will Travel to the Moon Amid Fraying U.S.-Canada Relations",
-      "source": "NYT World",
-      "category": "world"
-    },
-    {
-      "tweet": "Taylor Swift just dropped a whole aesthetic video for Elizabeth Taylor and I'm currently reconsidering every life choice that didn't involve being a Hollywood icon. She's basically monetizing my Pinterest board at this point. Respect the commitment.",
-      "topic_tag": "#TaylorSwift",
-      "original_url": "https://www.billboard.com/music/pop/taylor-swift-elizabeth-taylor-video-1236211162/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Taylor Swift Drops Lush ‘Elizabeth Taylor’ Video Paying Homage to Legendary Screen Star",
-      "source": "Billboard",
-      "category": "entertainment"
-    },
-    {
       "tweet": "Tottenham is on their third manager of the season and at this point they're just collecting them like baseball cards. They really think Roberto de Zerbi is the missing puzzle piece. Meanwhile my local Sunday league team is still looking for a goalie.",
       "topic_tag": "#Tottenham",
       "original_url": "https://www.bbc.com/sport/football/articles/c5yjgd1dj8vo?at_medium=RSS&at_campaign=rss",
@@ -723,7 +701,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 12,
+    "total_posted": 14,
     "total_collected": 16
   }
 }
