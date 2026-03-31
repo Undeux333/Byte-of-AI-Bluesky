@@ -2,28 +2,6 @@
   "last_collected": "2026-03-31T21:01:00.646155+00:00",
   "queue": [
     {
-      "tweet": "Tottenham fans are threatening to boycott matches if the club hires Roberto de Zerbi. It's honestly impressive how much stress a game can cause people who aren't even on the field. Nobody asked.",
-      "topic_tag": "#Tottenham",
-      "original_url": "https://www.bbc.com/sport/football/articles/c0mjrnr4ld3o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Tottenham Supporters' Trust says it cannot support De Zerbi appointment",
-      "source": "BBC Sport",
-      "category": "sports"
-    },
-    {
-      "tweet": "Pakistan and China just dropped a 5-part peace plan for the Middle East while everyone else is still picking sides. Who exactly is this helping.",
-      "topic_tag": "",
-      "original_url": "https://www.theguardian.com/world/2026/mar/31/pakistan-china-propose-five-part-peace-plan-middle-east",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Pakistan and China propose five-part peace plan for Middle East",
-      "source": "The Guardian",
-      "category": "world"
-    },
-    {
       "tweet": "Trump just dropped the renderings for his presidential library and it's on a donated plot of land in Miami. I was expecting a library, but apparently we're getting a permanent.",
       "topic_tag": "",
       "original_url": "https://www.npr.org/2026/03/31/nx-s1-5768094/trump-presidential-library-renderings-miami",
@@ -1138,7 +1116,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 28,
+    "total_posted": 30,
     "total_collected": 40
   }
 }
