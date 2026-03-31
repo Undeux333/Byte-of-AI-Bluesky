@@ -1,0 +1,10 @@
+{
+  "last_collected": null,
+  "queue": [],
+  "seen_urls": [],
+  "carryover_candidates": [],
+  "stats": {
+    "total_posted": 0,
+    "total_collected": 0
+  }
+}

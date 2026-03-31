@@ -1,0 +1,5 @@
+google-genai>=1.0.0
+feedparser>=6.0.11
+requests>=2.31.0
+python-dotenv>=1.0.0
+atproto>=0.0.50
