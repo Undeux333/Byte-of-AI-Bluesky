@@ -2,28 +2,6 @@
   "last_collected": "2026-03-31T21:01:00.646155+00:00",
   "queue": [
     {
-      "tweet": "Trump just dropped the renderings for his presidential library and it's on a donated plot of land in Miami. I was expecting a library, but apparently we're getting a permanent.",
-      "topic_tag": "",
-      "original_url": "https://www.npr.org/2026/03/31/nx-s1-5768094/trump-presidential-library-renderings-miami",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump shares a look at his future presidential library. Here's what to know about it",
-      "source": "NPR News",
-      "category": "world"
-    },
-    {
-      "tweet": "Billboard is asking us to pick our favorite song from 2006 like that isn't a direct attack on my mortality. I still feel like 2006 was three years ago. Anyway I have to go buy wrinkle cream.",
-      "topic_tag": "",
-      "original_url": "https://www.billboard.com/music/music-news/best-2006-songs-poll-vote-favorite-track-1236211499/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Which Defining Song From 2006 Is Your Favorite 20 Years Later? Vote!",
-      "source": "Billboard",
-      "category": "entertainment"
-    },
-    {
       "tweet": "Olivia Rodrigo told the daughter of the woman who founded Hole that she owes her career to them. It's a nice sentiment until you realize the math makes us all ancient. Respect the lineage.",
       "topic_tag": "#OliviaRodrigo",
       "original_url": "https://www.billboard.com/music/rock/olivia-rodrigo-told-auf-der-maur-daughter-owes-career-hole-1236211533/",
@@ -1116,7 +1094,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 30,
+    "total_posted": 32,
     "total_collected": 40
   }
 }
