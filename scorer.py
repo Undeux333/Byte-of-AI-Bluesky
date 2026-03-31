@@ -127,7 +127,7 @@ STYLE RULES:
 - Sensitive topics OK: sex (as humor/observation, not explicit), politics (irony not partisan),
   mental health (relatable not clinical)
 - The landing should make people want to reply WITHOUT asking them to
-- Target 120-180 characters total. Never exceed 240. Cut ruthlessly — shorter is almost always funnier.
+- Target 200-250 characters total. Never exceed 250. Enough room for hook + substance + landing.
 - Use numerals and abbreviations: $40B not "forty billion", 3pm not "three pm"
 - Use "..." to let a thought trail off when the reader should fill in the rest
 - Omit the period on the landing line when you want it to feel unfinished
@@ -309,8 +309,11 @@ PRIORITY: specific > generic
 
 RULES:
 - Use a proper noun when the story is about a specific brand/org/person/team
-- Fall back to a general topic tag only when no proper noun fits naturally
-- NEVER use: #Trending, #Viral, #News, #Life, #World — too generic
+  Examples: #OpenAI #Copilot #Iran #NCAA #MarchMadness #Netflix #Tesla
+- A good tag names the SPECIFIC SUBJECT of the story, not its category
+  Wrong concept: tags that describe what TYPE of story it is (#News, #Sports, #Tech, #Culture)
+  Right concept: tags that name WHO or WHAT the story is actually about (#Copilot, #MarchMadness, #Iran)
+  Test: would this tag exist as a dedicated feed topic? If yes → use it. If it's just a broad category word → skip it.
 - SKIP the tag entirely (return "") if the key term already appears naturally in the post text
   Example: post mentions "OpenAI" → do NOT add #OpenAI
 - If no tag is needed, return "" — do NOT return "#" alone
