@@ -2,28 +2,6 @@
   "last_collected": "2026-03-31T18:36:33.174847+00:00",
   "queue": [
     {
-      "tweet": "Tottenham is on their third manager of the season and at this point they're just collecting them like baseball cards. They really think Roberto de Zerbi is the missing puzzle piece. Meanwhile my local Sunday league team is still looking for a goalie.",
-      "topic_tag": "#Tottenham",
-      "original_url": "https://www.bbc.com/sport/football/articles/c5yjgd1dj8vo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Seven games to save Tottenham's season - but why De Zerbi?",
-      "source": "BBC Sport",
-      "category": "sports"
-    },
-    {
-      "tweet": "Gao Zhen is on trial in China for making art that mocks Mao, which is a wild way to spend a family vacation. We're living in a world where a sculpture is enough to trigger a national security crisis. They arrested the critic before the art could even finish speaking.",
-      "topic_tag": "",
-      "original_url": "https://www.theguardian.com/world/2026/mar/31/dissident-artist-gao-zhen-tried-china-satirical-mao-sculptures-rights-group",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US-based dissident artist put on trial in China over satirical Mao sculptures, says rights group",
-      "source": "The Guardian",
-      "category": "world"
-    },
-    {
       "tweet": "I finally found out why hotel carpets look like a fever dream from the 90s. They're designed specifically to hide stains and manage foot traffic patterns so the staff doesn't lose their minds. Respect the commitment.",
       "topic_tag": "",
       "original_url": "https://www.mentalfloss.com/live-smarter/travel/why-hotel-carpets-are-busy-patterned?utm_source=RSS",
@@ -1138,7 +1116,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 20,
+    "total_posted": 22,
     "total_collected": 32
   }
 }
