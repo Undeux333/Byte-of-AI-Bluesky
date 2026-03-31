@@ -1,4 +1,4 @@
-name: Threads Bot
+name: Bluesky Bot
 
 on:
   schedule:
