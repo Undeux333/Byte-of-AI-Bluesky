@@ -2,28 +2,6 @@
   "last_collected": "2026-03-31T21:01:00.646155+00:00",
   "queue": [
     {
-      "tweet": "Living in a Summer House style scandal is one thing, but doing it while you're all still sharing a lease is just brave. I've been in messy friend group dynamics before and honestly, I just wanted to be normal about it.",
-      "topic_tag": "",
-      "original_url": "https://sex.cosmopolitan.com/pleasure/confessions/a65543901/sex-with-boyfriends-best-friend/",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "I Lived My Own ‘Summer House’ Scandal When I Hooked Up With My Ex’s Best Friend",
-      "source": "Cosmo Sex & Love",
-      "category": "sex"
-    },
-    {
-      "tweet": "Trump is upset that he can't just renovate the White House ballroom whenever he feels like it. A judge ruled he's a steward, not an owner, so he actually needs Congress to sign off. The safety team left before the launch. Just so you know.",
-      "topic_tag": "#Trump",
-      "original_url": "https://www.npr.org/2026/03/31/nx-s1-5768446/judge-rules-white-house-ballroom-construction-must-halt-until-congress-oks-it",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Judge rules White House ballroom construction must halt until Congress OK's it",
-      "source": "NPR News",
-      "category": "world"
-    },
-    {
       "tweet": "Tottenham fans are threatening to boycott matches if the club hires Roberto de Zerbi. It's honestly impressive how much stress a game can cause people who aren't even on the field. Nobody asked.",
       "topic_tag": "#Tottenham",
       "original_url": "https://www.bbc.com/sport/football/articles/c0mjrnr4ld3o?at_medium=RSS&at_campaign=rss",
@@ -1160,7 +1138,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 26,
+    "total_posted": 28,
     "total_collected": 40
   }
 }
