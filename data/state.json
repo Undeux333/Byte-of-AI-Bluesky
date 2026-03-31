@@ -2,26 +2,6 @@
   "last_collected": "2026-03-31T11:32:31.046868+00:00",
   "queue": [
     {
-      "tweet": "The exact same four schools are heading to the Final Four for the second year in a row. Groundhog Day, but with better jerseys.",
-      "original_url": "https://www.espn.com/womens-college-basketball/story/_/id/48351874/womens-march-madness-2026-final-four-ranking-ncaa-tournament-teams",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Women's March Madness 2026: Ranking the Final Four",
-      "source": "ESPN",
-      "category": "sports"
-    },
-    {
-      "tweet": "They're saying AI picked the first thousand targets in Iran. The algorithm is now officially writing the casualty list.",
-      "original_url": "https://www.aljazeera.com/video/quotable/2026/3/31/ai-helped-pick-the-first-thousand-targets-in?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘AI helped pick the first thousand targets in Iran’",
-      "source": "Al Jazeera",
-      "category": "world"
-    },
-    {
       "tweet": "Disney released an AI Olaf that just collapsed and died in front of a group of kids. Who thought this was the right tech for a theme park",
       "original_url": "https://kotaku.com/disney-ai-olaf-falls-down-disneyland-paris-frozen-2000683527",
       "buzz_score": 95,
@@ -454,7 +434,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2,
+    "total_posted": 4,
     "total_collected": 8
   }
 }
