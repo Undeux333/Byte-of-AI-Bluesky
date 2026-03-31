@@ -2,28 +2,6 @@
   "last_collected": "2026-03-31T14:01:56.779181+00:00",
   "queue": [
     {
-      "tweet": "Indonesia and Australia are officially done with Google and Meta over kids using social media. We're watching countries realize their laws don't actually apply to silicon valley until they pull the plug. At what point do we start calling it a government.",
-      "topic_tag": "",
-      "original_url": "https://www.nytimes.com/2026/03/31/world/asia/indonesia-australia-social-media-ban.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "These Two Countries With Social Media Bans Aren’t Happy With Google and Meta",
-      "source": "NYT World",
-      "category": "world"
-    },
-    {
-      "tweet": "Imagine being so gifted that you see Tuesday in color and I'm over here struggling to remember my passwords. Apparently 1 in 23 people have synesthesia, where their brain literally blends senses. I've been doing this for years and nobody gave me a term for it.",
-      "topic_tag": "",
-      "original_url": "https://bigthink.com/series/the-big-think-interview/cytowic-synesthesia/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The neuroscience behind synesthesia",
-      "source": "Big Think",
-      "category": "trivia"
-    },
-    {
       "tweet": "Canada is sending their first astronaut to the moon while the government relationship is basically a breakup waiting to happen. It's truly impressive we can coordinate a lunar landing but can't manage a basic trade agreement. The space program and the state department are different documents.",
       "topic_tag": "",
       "original_url": "https://www.nytimes.com/2026/03/31/world/canada/canada-astronaut-artemis-ii-mission-moon.html",
@@ -745,7 +723,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 10,
+    "total_posted": 12,
     "total_collected": 16
   }
 }
