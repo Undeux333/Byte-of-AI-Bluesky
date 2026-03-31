@@ -2,28 +2,6 @@
   "last_collected": "2026-03-31T16:33:23.062364+00:00",
   "queue": [
     {
-      "tweet": "Mark Cuban is already out here saying he regrets selling the Mavericks to the Adelson family. It's almost like money isn't the only thing you should trade your legacy for. Meanwhile my bank account.",
-      "topic_tag": "#MarkCuban",
-      "original_url": "https://www.espn.com/nba/story/_/id/48356499/mark-cuban-says-regrets-selling-mavericks-adelson-dumont-families",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Cuban: I regret selling Mavs to Adelson, Dumont",
-      "source": "ESPN",
-      "category": "sports"
-    },
-    {
-      "tweet": "The government just created a special committee to waive endangered species protections so we can drill for more oil in the Gulf. The official name is the God squad. They announced the destruction on the same day as the climate report.",
-      "topic_tag": "",
-      "original_url": "https://www.theguardian.com/us-news/2026/mar/31/gulf-of-mexico-drilling-endangered-species",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘God squad’ waives endangered species law to allow US drilling in Gulf of Mexico",
-      "source": "The Guardian",
-      "category": "world"
-    },
-    {
       "tweet": "Tottenham is on their third manager of the season and at this point they're just collecting them like baseball cards. They really think Roberto de Zerbi is the missing puzzle piece. Meanwhile my local Sunday league team is still looking for a goalie.",
       "topic_tag": "#Tottenham",
       "original_url": "https://www.bbc.com/sport/football/articles/c5yjgd1dj8vo?at_medium=RSS&at_campaign=rss",
@@ -1022,7 +1000,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 16,
+    "total_posted": 18,
     "total_collected": 24
   }
 }
