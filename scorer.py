@@ -96,8 +96,15 @@ CONTENT MIX — pick at most 2 stories from the same category:
 - Chaos / food / feel-good / science facts / TIPS (5%)
 
 POST STRUCTURE — 3 parts, natural sentence flow:
-1. The fact — state it bluntly (1-2 sentences)
-2. The twist — sharp observation or unexpected reframe (1-2 sentences)
+1. The hook — start with YOUR reaction or the most surprising angle of the story.
+   NOT a news headline. Make the reader feel the story before they understand it.
+   Wrong: "OpenAI edited an ad into a developer's PR."
+   Right: "We're at the point where your coding assistant moonlights as a salesperson."
+2. The substance — 1-2 sentences that accurately summarize the KEY FACTS.
+   The reader must understand the full story WITHOUT clicking the link.
+   Include: who did what, why it matters, what's surprising about it.
+   Wrong: vague reaction with no facts
+   Right: "GitHub Copilot was caught silently inserting ads into pull requests without user consent."
 3. The landing — chosen by story diagnosis (see below)
 
 STYLE RULES:
@@ -230,11 +237,13 @@ POST QUALITY — SELF EVALUATION (buzz_score2)
 
 After writing each post, score it on 4 dimensions:
 
-DIMENSION 1 — Instant comprehension (0-25pts)
-Can the reader grasp the point within 2 seconds?
-25: Lands immediately — no rereading needed
-15: Needs one beat to click — acceptable
-5:  Requires rereading or outside context → rewrite
+DIMENSION 1 — First line hook + substance accuracy (0-25pts)
+Two questions:
+A) Does the first line stop the scroll? (hook)
+B) Does the reader understand the full story without clicking the link? (substance)
+25: Hook is immediate AND all key facts are clearly conveyed
+15: Hook works but facts are vague, OR facts are clear but hook is weak
+5:  Reads like a news headline with no hook, OR key facts are missing → rewrite
 
 DIMENSION 2 — Landing line quality (0-25pts)
 Evaluate by landing type:
@@ -286,6 +295,27 @@ REWRITE RULES:
 - Maximum 2 rewrite attempts — if still below 70, post as-is
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TOPIC TAG RULES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Choose exactly 1 tag per post. The tag appears on a NEW LINE after the post text.
+
+PRIORITY: specific > generic
+  #OpenAI > #AI
+  #Space > #DidYouKnow
+  #NBA > #Sports
+  #Netflix > #Culture
+  #Copilot > #Tech
+
+RULES:
+- Use a proper noun when the story is about a specific brand/org/person/team
+- Fall back to a general topic tag only when no proper noun fits naturally
+- NEVER use: #Trending, #Viral, #News, #Life, #World — too generic
+- SKIP the tag entirely (return "") if the key term already appears naturally in the post text
+  Example: post mentions "OpenAI" → do NOT add #OpenAI
+- If no tag is needed, return "" — do NOT return "#" alone
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Here are {n} news stories. Do THREE things:
 1. Pick the BEST {top_n} stories (max 2 from same category, prioritize buzz_score 70+)
@@ -304,7 +334,8 @@ Respond ONLY with valid JSON (no markdown, no explanation):
       "landing_type": "<A|B|C|D|E>",
       "buzz_score2": <0-100>,
       "rewrite_count": <0-2>,
-      "post": "<120-240 chars, no URL, follow all style rules above>"
+      "topic_tag": "<#Tag or empty string>",
+      "post": "<post text only, NO hashtag, NO URL>"
     }}
   ]
 }}
@@ -409,9 +440,15 @@ def score_all(stories: list[dict], state: dict) -> list[dict]:
         if not post_raw:
             continue
 
+        topic_tag = sel.get("topic_tag", "").strip()
+        # バリデーション：#から始まり2文字以上のみ有効
+        if not (topic_tag.startswith("#") and len(topic_tag) > 1):
+            topic_tag = ""
+
         selected_indices.add(idx)
         output.append({
             "tweet":          post_raw,
+            "topic_tag":      topic_tag,
             "short_url":      "",
             "original_url":   story.get("url", ""),
             "buzz_score":     sel.get("buzz_score", 0),
@@ -424,7 +461,7 @@ def score_all(stories: list[dict], state: dict) -> list[dict]:
             "landing_type":   landing_type,
         })
         print(f"  [Scorer] Selected [{story['category']}] {story['title'][:60]}...")
-        print(f"           Type: {landing_type} | buzz_score: {sel.get('buzz_score', 0)} | buzz_score2: {sel.get('buzz_score2', 0)} | rewrites: {sel.get('rewrite_count', 0)}")
+        print(f"           Type: {landing_type} | buzz_score: {sel.get('buzz_score', 0)} | buzz_score2: {sel.get('buzz_score2', 0)} | rewrites: {sel.get('rewrite_count', 0)} | tag: {topic_tag}")
         print(f"           Post: {post_raw[:80]}...")
 
     # 持ち越し候補保存（選ばれなかった上位8件）

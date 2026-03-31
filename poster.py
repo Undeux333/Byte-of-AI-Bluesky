@@ -15,18 +15,23 @@ def refresh_token() -> bool:
     return True
 
 
-def post_tweet(tweet_text: str, original_url: str = "", category: str = "other") -> dict:
+def post_tweet(tweet_text: str, topic_tag: str = "", original_url: str = "", category: str = "other") -> dict:
     """
     Blueskyに投稿する
-    - 本投稿: テキスト + トピックタグ
+    - 本投稿: テキスト + トピックタグ（改行で挿入）
     - リプライ: 元記事フルURL（リンクカード付き）
     """
     main_text = tweet_text.split("\nhttp")[0].split("\nhttps")[0].strip()
 
-    # カテゴリに応じたトピックタグを付与
-    tag = CATEGORY_TAGS.get(category, "")
-    if tag and len(tag) > 1:
-        main_text = f"{main_text}\n{tag}"
+    # Geminiのタグを優先、なければカテゴリタグをフォールバック
+    if topic_tag and topic_tag.startswith("#") and len(topic_tag) > 1:
+        tag = topic_tag
+    else:
+        tag = CATEGORY_TAGS.get(category, "")
+
+    # タグを改行して本文に追加
+    if tag and tag.startswith("#") and len(tag) > 1:
+        main_text = f"{main_text}\n\n{tag}"
         print(f"  [Poster] Topic tag: {tag}")
 
     for attempt in range(3):

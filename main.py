@@ -52,6 +52,7 @@ def run():
             for c in candidates:
                 sm.add_to_queue(state, {
                     "tweet":          c["tweet"],
+                    "topic_tag":      c.get("topic_tag", ""),
                     "original_url":   c.get("original_url", c.get("url", "")),
                     "buzz_score":     c.get("buzz_score", 0),
                     "buzz_score2":    c.get("buzz_score2", 0),
@@ -78,6 +79,7 @@ def run():
             break
 
         tweet_text   = item.get("tweet", "")
+        topic_tag    = item.get("topic_tag", "")
         original_url = item.get("original_url", "")
         category     = item.get("category", "other")
 
@@ -93,6 +95,7 @@ def run():
         else:
             result = poster.post_tweet(
                 tweet_text=tweet_text,
+                topic_tag=topic_tag,
                 original_url=original_url,
                 category=category,
             )
@@ -104,10 +107,13 @@ def run():
                 print(f"[Pipeline] Post {post_num} failed — item returned to queue.")
                 break
 
-        # 2件目の前に5分待機（連投対策）
+        # 2件目の前に5〜10分ランダム待機（連投対策）
         if post_num == 1:
-            print(f"[Pipeline] Waiting 5 minutes before next post...")
-            time.sleep(300)
+            import random
+            wait_seconds = random.randint(300, 600)
+            wait_minutes = wait_seconds // 60
+            print(f"[Pipeline] Waiting {wait_minutes} minutes before next post...")
+            time.sleep(wait_seconds)
 
     sm.save(state)
     stats = sm.get_stats(state)
