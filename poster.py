@@ -61,7 +61,12 @@ def post_tweet(tweet_text: str, original_url: str = "", category: str = "other")
 
     # 本文は300文字以内に収める（URLはembedで表示するのでテキストには含めない）
     if len(main_text) > 300:
-        main_text = main_text[:300].rstrip()
+        trimmed = main_text[:300]
+        # 単語の途中で切れないよう最後のスペースで区切る
+        last_space = trimmed.rfind(" ")
+        if last_space > 200:
+            trimmed = trimmed[:last_space]
+        main_text = trimmed.rstrip()
         print(f"  [Poster] Text trimmed to {len(main_text)} chars")
 
     full_text = main_text
