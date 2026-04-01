@@ -2,28 +2,6 @@
   "last_collected": "2026-04-01T08:29:51.989809+00:00",
   "queue": [
     {
-      "tweet": "Portugal just outclassed the U.S. in Atlanta and now we’re looking at a goal drought. Tough watch.",
-      "original_url": "https://www.espn.com/soccer/report/_/gameId/762259",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Portugal outclasses U.S. amid Pulisic goal drought",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-01T08:29:51.989786+00:00"
-    },
-    {
-      "tweet": "Those Army pilots who hovered over Kid Rock’s house got their suspension lifted. Guess that’s one way to get a private air show.",
-      "original_url": "https://www.npr.org/2026/04/01/nx-s1-5769800/suspension-lifted-helicopter-pilots-kid-rock",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Suspension lifted for helicopter pilots who hovered near Kid Rock's home",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-01T08:29:51.989780+00:00"
-    },
-    {
       "tweet": "Bruce Springsteen is out here covering Prince in Minneapolis. It’s nice to see someone still doing it for real.",
       "original_url": "https://www.billboard.com/lists/bruce-springsteen-tour-minneapolis-best-moments/",
       "buzz_score": 75,
@@ -482,7 +460,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 8,
+    "total_posted": 10,
     "total_collected": 16
   }
 }
