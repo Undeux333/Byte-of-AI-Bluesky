@@ -59,10 +59,18 @@ def post_tweet(tweet_text: str, original_url: str = "", category: str = "other")
     """
     main_text = tweet_text.split("\nhttp")[0].split("\nhttps")[0].strip()
 
-    # SourceURLを2行改行して本文に追加
+    # SourceURLを2行改行して本文に追加（300文字上限を考慮）
     if original_url:
+        max_text_len = 300 - len(original_url) - 2  # 
+
+分を差し引く
+        if len(main_text) > max_text_len:
+            main_text = main_text[:max_text_len].rstrip()
+            print(f"  [Poster] Text trimmed to {len(main_text)} chars")
         full_text = f"{main_text}\n\n{original_url}"
     else:
+        if len(main_text) > 300:
+            main_text = main_text[:300].rstrip()
         full_text = main_text
 
     for attempt in range(3):

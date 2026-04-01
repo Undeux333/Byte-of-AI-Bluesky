@@ -127,7 +127,7 @@ STYLE RULES:
 - Sensitive topics OK: sex (as humor/observation, not explicit), politics (irony not partisan),
   mental health (relatable not clinical)
 - The landing should make people want to reply WITHOUT asking them to
-- Target 200-250 characters total. Never exceed 250. Enough room for hook + substance + landing.
+- Target 180-220 characters total. Never exceed 220. URLs are added separately — leave room for them.
 - Use numerals and abbreviations: $40B not "forty billion", 3pm not "three pm"
 - Use "..." to let a thought trail off when the reader should fill in the rest
 - Omit the period on the landing line when you want it to feel unfinished
