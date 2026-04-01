@@ -2,28 +2,6 @@
   "last_collected": "2026-04-01T14:17:58.856581+00:00",
   "queue": [
     {
-      "tweet": "Chelsea just posted a record loss of 262 million. That’s not a budget, that’s a tragedy.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cm2k3jdylp1o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Chelsea make biggest pre-tax loss in Premier League history",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-01T14:17:58.856567+00:00"
-    },
-    {
-      "tweet": "Over a hundred robotaxis just glitched out and turned a Chinese city into a parking lot. The future is going great.",
-      "original_url": "https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mass robotaxi malfunction halts traffic in Chinese city",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-01T14:17:58.856558+00:00"
-    },
-    {
       "tweet": "HackerNews is officially throwing in the towel because the bots finally outpaced the humans. We had a good run, I guess.",
       "original_url": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
       "buzz_score": 85,
@@ -1154,7 +1132,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 18,
+    "total_posted": 20,
     "total_collected": 44
   }
 }
