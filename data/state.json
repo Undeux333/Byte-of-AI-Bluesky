@@ -2,28 +2,6 @@
   "last_collected": "2026-04-01T08:29:51.989809+00:00",
   "queue": [
     {
-      "tweet": "Imagine going to a flea market and finding an actual Rockstar Games Xbox 360 dev kit for 6 dollars. Some people have all the luck.",
-      "original_url": "https://hypebeast.com/2026/4/xbox-360-with-grand-theft-auto-gta-iv-4-beta-found-flea-market-6-usd",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "A Rockstar Games Xbox 360 Dev Kit Was Reportedly Discovered at a Flea Market for $6 USD",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-01T08:29:51.989775+00:00"
-    },
-    {
-      "tweet": "The World Cup line-up is finally set with those last six teams. It’s gonna be a long summer in 2026.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c3exv0820e4o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The World Cup line-up is complete - here's what you need to know",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-01T08:29:51.989791+00:00"
-    },
-    {
       "tweet": "Portugal just outclassed the U.S. in Atlanta and now we’re looking at a goal drought. Tough watch.",
       "original_url": "https://www.espn.com/soccer/report/_/gameId/762259",
       "buzz_score": 80,
@@ -504,7 +482,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 6,
+    "total_posted": 8,
     "total_collected": 16
   }
 }
