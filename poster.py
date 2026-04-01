@@ -61,9 +61,7 @@ def post_tweet(tweet_text: str, original_url: str = "", category: str = "other")
 
     # SourceURLを2行改行して本文に追加（300文字上限を考慮）
     if original_url:
-        max_text_len = 300 - len(original_url) - 2  # 
-
-分を差し引く
+        max_text_len = 300 - len(original_url) - 2  # \n\n分を差し引く
         if len(main_text) > max_text_len:
             main_text = main_text[:max_text_len].rstrip()
             print(f"  [Poster] Text trimmed to {len(main_text)} chars")
