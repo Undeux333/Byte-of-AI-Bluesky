@@ -63,7 +63,7 @@ def rule_score(story: dict) -> int:
             pass
     return min(100, score)
 
-def preselect(stories: list[dict], n: int = 20) -> list[dict]:
+def preselect(stories: list[dict], n: int = 30) -> list[dict]:
     for s in stories:
         s["rule_score"] = rule_score(s)
     stories_sorted = sorted(stories, key=lambda x: x["rule_score"], reverse=True)
@@ -294,32 +294,6 @@ REWRITE RULES:
 - Maximum 2 rewrite attempts — if still below 80, post as-is
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-TOPIC TAG RULES
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Choose exactly 1 tag per post. The tag appears on a NEW LINE after the post text.
-
-PRIORITY: specific > generic
-  #OpenAI > #AI
-  #Space > #Science
-  #NBA > #Sports
-  #Netflix > #Culture
-  #Copilot > #Tech
-
-RULES:
-- Use a proper noun when the story is about a specific brand/org/person/team
-  Examples: #OpenAI #Copilot #Iran #MarchMadness #Netflix #Tesla #TaylorSwift
-- A good tag names the SPECIFIC SUBJECT of the story, not its category
-  Wrong: tags that describe the TYPE of story (#News, #Sports, #Tech, #Culture, #DidYouKnow)
-  Right: tags that name WHO or WHAT the story is actually about (#Copilot, #MarchMadness, #Iran)
-  Test: would this tag exist as a dedicated community feed? If yes → use it. If it's just a broad category word → skip it.
-- SKIP the tag (return "") if the key term already appears naturally in the post text
-  Example: post mentions "OpenAI" → do NOT add #OpenAI
-- SKIP the tag (return "") if no proper noun fits naturally
-- If no tag is needed, return "" — do NOT return "#" alone
-- NEVER use: #News, #Sports, #Tech, #Culture, #DidYouKnow, #Life, #World, #Science, #Business — these are category labels, not tags
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Here are {n} news stories. Do THREE things:
 1. Pick the BEST {top_n} stories (max 2 from same category, prioritize buzz_score 70+)
@@ -338,7 +312,6 @@ Respond ONLY with valid JSON (no markdown, no explanation):
       "landing_type": "<A|B|C|D|E>",
       "buzz_score2": <0-100>,
       "rewrite_count": <0-2>,
-      "topic_tag": "<#Tag or empty string>",
       "post": "<post text only, NO hashtag, NO URL>"
     }}
   ]
@@ -444,14 +417,9 @@ def score_all(stories: list[dict], state: dict) -> list[dict]:
         if not post_raw:
             continue
 
-        topic_tag = sel.get("topic_tag", "").strip()
-        if not (topic_tag.startswith("#") and len(topic_tag) > 1):
-            topic_tag = ""
-
         selected_indices.add(idx)
         output.append({
             "tweet":          post_raw,
-            "topic_tag":      topic_tag,
             "short_url":      "",
             "original_url":   story.get("url", ""),
             "buzz_score":     sel.get("buzz_score", 0),
@@ -464,7 +432,7 @@ def score_all(stories: list[dict], state: dict) -> list[dict]:
             "landing_type":   landing_type,
         })
         print(f"  [Scorer] Selected [{story['category']}] {story['title'][:60]}...")
-        print(f"           Type: {landing_type} | buzz_score: {sel.get('buzz_score', 0)} | buzz_score2: {sel.get('buzz_score2', 0)} | rewrites: {sel.get('rewrite_count', 0)} | tag: {topic_tag}")
+        print(f"           Type: {landing_type} | buzz_score: {sel.get('buzz_score', 0)} | buzz_score2: {sel.get('buzz_score2', 0)} | rewrites: {sel.get('rewrite_count', 0)}")
         print(f"           Post: {post_raw[:80]}...")
 
     # 持ち越し候補保存（選ばれなかった上位8件）

@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 from atproto import Client
 from config import BLUESKY_HANDLE, BLUESKY_APP_PASSWORD
 
+
 def _get_client() -> Client:
     client = Client()
     client.login(BLUESKY_HANDLE, BLUESKY_APP_PASSWORD)
@@ -49,25 +50,26 @@ def upload_image_blob(client: Client, image_url: str) -> dict | None:
         return None
 
 
-def post_tweet(tweet_text: str, topic_tag: str = "", original_url: str = "") -> dict:
+def post_tweet(tweet_text: str, original_url: str = "", category: str = "other") -> dict:
     """
     Blueskyに投稿する
-    - Geminiが生成したtopic_tagのみ使用（カテゴリフォールバックなし）
-    - tagが空なら何もつけない
+    - 本投稿: テキスト + 2行改行 + SourceURL
+    - リンクカード（OGP画像）が自動展開される
+    - タグなし
     """
     main_text = tweet_text.split("\nhttp")[0].split("\nhttps")[0].strip()
 
-    # Geminiのタグのみ使用。空の場合はタグなし
-    if topic_tag and topic_tag.startswith("#") and len(topic_tag) > 1:
-        main_text = f"{main_text}\n\n{topic_tag}"
-        print(f"  [Poster] Topic tag: {topic_tag}")
+    # SourceURLを2行改行して本文に追加
+    if original_url:
+        full_text = f"{main_text}\n\n{original_url}"
     else:
-        print(f"  [Poster] No tag")
+        full_text = main_text
 
     for attempt in range(3):
         try:
             client = _get_client()
 
+            # リンクカードembedを構築
             embed = None
             if original_url:
                 card = fetch_link_card(original_url)
@@ -84,7 +86,7 @@ def post_tweet(tweet_text: str, topic_tag: str = "", original_url: str = "") -> 
                     external["thumb"] = thumb_blob
                 embed = {"$type": "app.bsky.embed.external", "external": external}
 
-            post_params = {"text": main_text}
+            post_params = {"text": full_text}
             if embed:
                 post_params["embed"] = embed
 
