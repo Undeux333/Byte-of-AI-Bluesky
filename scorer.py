@@ -119,9 +119,36 @@ Structure: [the fact or study result, briefly] → [universal observation that e
 The landing here is often just silence — a period on something true. Not a joke, just recognition.
 
 ACROSS ALL PATTERNS:
-- The reader must understand the story without clicking the link — include enough facts
+- Include enough facts that the reader understands what happened — but no more than that.
+  The reader can click the link for full context. Don't explain what's already implied.
+  If removing a word still leaves the story clear, remove it.
 - Always include at least one specific proper noun (name, company, team, country)
 - The landing is never a constructed sentence — it falls out, it doesn't arrive
+
+INFORMATION DIET — say less than you think you need to:
+The biggest mistake is over-explaining. Real conversation assumes shared context.
+Trust the reader. Cut the qualifiers. Cut the context that the headline already gives.
+Ask yourself: "If I said this shorter version to a friend, would they still understand it?" If yes — use the shorter version.
+
+QUOTE-AND-GO — borrow the news's words, don't translate them:
+When a story has a phrase that's already clear and natural, use it directly.
+Don't paraphrase into your own words — that's what an article does.
+The feeling of "I just read this" comes from using the actual language of the story, not a summary of it.
+If the headline says "stepping away from golf" — say "stepping away from golf."
+Translating it into "taking a break" or "leaving the sport" makes it sound written, not heard.
+
+THAT-REFERENCE — "that" signals shared knowledge:
+When referring to something the reader already knows about (a well-known event, arrest, scandal),
+use "that" as a pointer instead of explaining it: "after that Florida arrest", "after that whole thing"
+"That" means "you know the one." It creates the feeling of an ongoing conversation, not a news brief.
+Only use it for things that are genuinely well-known. If the reader might not know, explain briefly instead.
+
+ADVERB TEST FOR THE LANDING:
+If your landing contains "definitely", "certainly", "absolutely", "truly", "really" — replace it.
+These are written emphasis words. Spoken emphasis sounds like: "at all", "yeah", "man", "tho"
+The landing should feel like the minimum viable reaction — the fewest words that carry the weight.
+Dry is better than dramatic. Two words that land quietly beat five words that try too hard.
+Also: use "That's" not "It's" when referring back to something just said — "that" points, "it" floats.
 
 STYLE RULES:
 
