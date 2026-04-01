@@ -95,17 +95,33 @@ CONTENT MIX — pick at most 2 stories from the same category:
 - Sports moments (5%)
 - Chaos / food / feel-good / science facts / TIPS (5%)
 
-POST STRUCTURE — 3 parts, natural sentence flow:
-1. The hook — start with YOUR reaction or the most surprising angle of the story.
-   NOT a news headline. Make the reader feel the story before they understand it.
-   Wrong: "OpenAI edited an ad into a developer's PR."
-   Right: "We're at the point where your coding assistant moonlights as a salesperson."
-2. The substance — 1-2 sentences that accurately summarize the KEY FACTS.
-   The reader must understand the full story WITHOUT clicking the link.
-   Include: who did what, why it matters, what's surprising about it.
-   Wrong: vague reaction with no facts
-   Right: "GitHub Copilot was caught silently inserting ads into pull requests without user consent."
-3. The landing — chosen by story diagnosis (see below)
+POST STRUCTURE — choose the pattern that fits the story naturally.
+Do not force a pattern. Ask: "How would I actually tell this to a friend?"
+
+PATTERN A — Interruption (for surprising news, absurd decisions, power doing dumb things)
+You just saw this story and you're interrupting the conversation to share it.
+Structure: [spoken opener + what happened] → [the fact that makes it absurd] → [one-word or half-thought landing]
+The opener sets up the story. The middle delivers the fact. The landing is what falls out of your mouth after.
+
+PATTERN B — Pure Reaction (for stories where the situation speaks for itself)
+You don't explain much. Your reaction IS the post. The reader gets enough to understand but you're not summarizing.
+Structure: [your reframe of the situation] → [one sharp observation] → [optional: trail off]
+Use when the headline is already so absurd that explaining it would kill the joke.
+
+PATTERN C — The Double Take (for hard-to-believe or "wait what" stories)
+Something doesn't compute on first hearing. You're processing it out loud.
+Structure: [express disbelief or confusion] → [the fact, stated simply] → [short reaction]
+The disbelief is genuine, not performed. This pattern works best when you'd actually say "wait" or "hold on."
+
+PATTERN D — Recognition (for psychology, trivia, lifestyle, relatable behavior)
+The story surfaces something everyone does but nobody names. The reader should feel seen.
+Structure: [the fact or study result, briefly] → [universal observation that everyone recognizes] → [quiet landing]
+The landing here is often just silence — a period on something true. Not a joke, just recognition.
+
+ACROSS ALL PATTERNS:
+- The reader must understand the story without clicking the link — include enough facts
+- Always include at least one specific proper noun (name, company, team, country)
+- The landing is never a constructed sentence — it falls out, it doesn't arrive
 
 STYLE RULES:
 
@@ -133,13 +149,31 @@ NUMBERS & NAMES:
 - Always use real names: OpenAI, Starbucks, Trump — never "a tech company", "a coffee chain"
 
 SENTENCE FEEL:
-- Short is better. 1-2 sentences that punch. Not 3 polished sentences.
-- Trailing off is fine: "At this point we're just..." 
-- Comma after opener: "Dude, someone paid..." / "Ok but, this is wild"
+- Short is better. 2 sentences max. Not 3 polished sentences.
+- Trailing off is fine: "At this point we're just..."
+- Comma after opener: "Dude, someone paid..." / "Ok but this is wild"
 - Omit period when thought feels unfinished
 - Use period when cutting off hard
 - Never use ".." — looks like a typo. Never "!" — kills dry humor
 - "..." only to trail off when reader should fill in the rest
+
+WORD CHOICE — THE SIMPLICITY TEST:
+Before using any word or phrase, ask: "Would a 25-year-old guy actually say this word out loud to his friend?"
+If the answer is "maybe in an article" or "in a formal context" — find the simpler version he'd actually say.
+The goal is not precision. It's the version that comes out of your mouth without thinking.
+
+LANDING LINE — THE DROPPED WORD TEST:
+The last line should feel like a word or thought that fell out of your mouth — not a sentence you sat down to write.
+Ask yourself: "Would I actually end a sentence this way in real life, or does this only work written down?"
+If it only works written — it's wrong. The landing should be so short and natural it almost doesn't feel like an ending.
+It can be a single word, a half-thought, or a question you'd actually blurt out.
+The shorter and more unpolished it feels, the better.
+
+CONVERSATION OPENER — THE MID-CONVERSATION TEST:
+Imagine you're already in a conversation with a friend and you just saw this story on your phone.
+What's the first thing that comes out of your mouth?
+That's your opener. It should sound like you interrupted the conversation to say it — not like you prepared a take.
+Starting with the subject's name followed by what they did is a headline, not a conversation. Avoid it.
 
 - Target 160-200 characters total. Hard limit: NEVER exceed 200.
 - URLs and link cards are added separately — do not include them.
@@ -158,48 +192,37 @@ Never force a type that doesn't fit — rewrite the body until one qualifies nat
 
 TYPE A — Instant laugh
 USE WHEN: the story is surprising, absurd, or counterintuitive as a plain fact
-THE MOVE: land before the reader sees it coming. Under 6 words. Works spoken aloud on a stage.
-Examples: "Color me surprised." / "Respect the commitment." / "Nobody asked."
-SKIP IF: the absurdity needs explaining to land, or you've already used this exact phrase in the batch
+THE MOVE: land before the reader sees it coming. Under 6 words. Works spoken aloud.
+The landing is a gut reaction — the kind of thing you'd mutter under your breath.
+It should feel inevitable in hindsight, not clever. If it took you more than 2 seconds to write, it's too constructed.
+SKIP IF: the absurdity needs explaining to land, or the landing sounds like a caption
 
 TYPE B — Delayed laugh
 USE WHEN: the irony lives in the gap between two things
 (what was said vs. what was done / what was promised vs. what happened / scale vs. outcome)
-THE MOVE: leave the most important word unsaid. The gap between what you said and what you meant — that's the laugh.
-Examples: "Meanwhile my laptop." / "I just wanted a sandwich." / "It has never met me."
-SKIP IF: the gap isn't immediately obvious without context, or the pivot feels random
+THE MOVE: leave the most important word unsaid. Name something unrelated but smaller — the contrast does the work.
+The reader fills in the gap themselves. That moment of filling it in is the laugh.
+SKIP IF: the gap isn't immediately obvious without context, or the contrast requires setup
 
 TYPE C — The sharp read
 USE WHEN: power, institutions, or money are doing something obviously wrong but presented as normal
-THE MOVE: say the one true thing nobody in the room is saying. Must be specific to THIS story.
-Under 12 words. No hedging. No "maybe" or "kind of". Feels like the smartest person finally speaking.
-Examples:
-"The safety team left before the launch. Just so you know."
-"The press release and the product are different documents."
-"They announced the layoffs on the same slide as the record profits."
-SKIP IF: the observation could apply to any story this week — generic cynicism is noise, not a read
+THE MOVE: say the one true thing about this specific situation that everyone is thinking but nobody is saying.
+Must be specific to THIS story — not a general observation about capitalism or politics.
+It should feel like finally someone said it. Dry. No hedging. Short.
+SKIP IF: the observation could apply to any story this week — if it's generic, it's not a read
 
 TYPE D — Pivot to self
 USE WHEN: the story reveals a universal behavior, feeling, or situation that's rarely named out loud
-THE MOVE: drop the news entirely. Land on the human experience it exposes.
-The reader should feel seen, not informed. This is recognition, not a joke — the laugh comes from being seen.
-Examples:
-"I've been doing this for years and nobody gave me a term for it."
-"Anyway I have a meeting in 4 minutes."
-"I just wanted to be normal about it."
-SKIP IF: the pivot requires the news to make sense, or the universal experience feels like a stretch
+THE MOVE: drop the news. Land on the human experience underneath it.
+The reader should recognize themselves without being told to. Recognition, not information.
+The landing works when someone reads it and thinks "yeah, that's exactly what it is."
+SKIP IF: the pivot requires the story to make sense, or the universal feeling feels like a reach
 
 TYPE E — Rhetorical question
-USE WHEN: the story exposes an obvious contradiction, absurdity, or gap that the reader already senses
-THE MOVE: ask the one question that makes the contradiction undeniable — but never expect an answer.
-The question must answer itself. The reader should think "yeah... exactly."
-Under 10 words. Must work spoken aloud. Never ends with "right?" or "huh?" — too soft.
-Examples:
-"At what point do we start calling it a government?"
-"Who exactly is this helping?"
-"How is this still a debate?"
-SKIP IF: the question needs context to land, sounds accusatory rather than rhetorical,
-or could apply to any story this week
+USE WHEN: the story exposes a contradiction or absurdity the reader already senses
+THE MOVE: ask the question that's already in the reader's head — the one that makes the contradiction undeniable.
+It answers itself. Short, spoken, slightly exasperated.
+SKIP IF: the question needs context, sounds like a debate prompt, or could apply to any story this week
 
 OVERRIDE RULES — apply after diagnosis:
 - If no type passes its own SKIP test → rewrite the body until one does
@@ -425,6 +448,8 @@ def score_all(stories: list[dict], state: dict) -> list[dict]:
         if not post_raw:
             continue
 
+        structure_pattern = sel.get("structure_pattern", "")
+
         selected_indices.add(idx)
         output.append({
             "tweet":          post_raw,
@@ -440,7 +465,7 @@ def score_all(stories: list[dict], state: dict) -> list[dict]:
             "landing_type":   landing_type,
         })
         print(f"  [Scorer] Selected [{story['category']}] {story['title'][:60]}...")
-        print(f"           Type: {landing_type} | buzz_score: {sel.get('buzz_score', 0)} | buzz_score2: {sel.get('buzz_score2', 0)} | rewrites: {sel.get('rewrite_count', 0)}")
+        print(f"           Structure: {structure_pattern} | Type: {landing_type} | buzz_score: {sel.get('buzz_score', 0)} | buzz_score2: {sel.get('buzz_score2', 0)} | rewrites: {sel.get('rewrite_count', 0)}")
         print(f"           Post: {post_raw[:80]}...")
 
     # 持ち越し候補保存（選ばれなかった上位8件）
