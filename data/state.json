@@ -2,28 +2,6 @@
   "last_collected": "2026-04-01T19:43:55.853874+00:00",
   "queue": [
     {
-      "tweet": "Saw a list of things you shouldn't say to adult Lego fans and yeah, people really need to leave our hobbies alone",
-      "original_url": "https://kotaku.com/8-things-to-never-say-to-an-adult-lego-fan-2000683584",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "8 Things To Never Say To An Adult Lego Fan",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-01T19:43:55.853865+00:00"
-    },
-    {
-      "tweet": "Megan Thee Stallion had to exit her show because of extreme exhaustion and man, that's a real wake-up call. We're all running on fumes lately",
-      "original_url": "https://www.billboard.com/music/rb-hip-hop/megan-thee-stallion-hospitalization-broadway-1236212799/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Megan Thee Stallion Speaks Out Following ‘Moulin Rouge!’ Hospitalization: ‘A Real Wake-Up Call for Me’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-01T19:43:55.853851+00:00"
-    },
-    {
       "tweet": "Guy Fieri just dropped his 6 favorite burger spots in the country and honestly, he doesn't miss. I'm just here for the road trip excuses",
       "original_url": "https://www.mentalfloss.com/food/restaurants/best-burger-joints-guy-fieri?utm_source=RSS",
       "buzz_score": 85,
@@ -398,28 +376,6 @@
       "added_at": "2026-04-01T16:44:00.716212+00:00"
     },
     {
-      "tweet": "French prosecutors linked that foiled attack on an American bank to a pro-Iranian group. It’s getting scary out there",
-      "original_url": "https://www.nytimes.com/2026/04/01/world/europe/bank-of-america-attack-pro-iranian-group.html",
-      "buzz_score": 70,
-      "buzz_score2": 82,
-      "rewrite_count": 0,
-      "original_title": "French Prosecutors Link Foiled Attack on American Bank to a Pro-Iranian Group",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-01T16:44:00.716226+00:00"
-    },
-    {
-      "tweet": "The Fray is out here reflecting on pissing off Justin Timberlake back in 2006. Feels like a lifetime ago",
-      "original_url": "https://www.billboard.com/music/features/the-fray-greys-anatomy-how-to-save-a-life-2006-1236212600/",
-      "buzz_score": 70,
-      "buzz_score2": 82,
-      "rewrite_count": 0,
-      "original_title": "The Fray Reflects on Breakout Hits ‘Over My Head’ and ‘How to Save a Life,’ Watching ‘Grey’s Anatomy’ & Pissing Off Justin Timberlake",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-01T16:44:00.716218+00:00"
-    },
-    {
       "tweet": "Bruce Springsteen is out here covering Prince in Minneapolis. It’s nice to see someone still doing it for real.",
       "original_url": "https://www.billboard.com/lists/bruce-springsteen-tour-minneapolis-best-moments/",
       "buzz_score": 75,
@@ -462,6 +418,28 @@
       "source": "Hypebeast",
       "category": "entertainment",
       "added_at": "2026-04-01T08:29:51.989778+00:00"
+    },
+    {
+      "tweet": "French prosecutors linked that foiled attack on an American bank to a pro-Iranian group. It’s getting scary out there",
+      "original_url": "https://www.nytimes.com/2026/04/01/world/europe/bank-of-america-attack-pro-iranian-group.html",
+      "buzz_score": 70,
+      "buzz_score2": 82,
+      "rewrite_count": 0,
+      "original_title": "French Prosecutors Link Foiled Attack on American Bank to a Pro-Iranian Group",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-01T16:44:00.716226+00:00"
+    },
+    {
+      "tweet": "The Fray is out here reflecting on pissing off Justin Timberlake back in 2006. Feels like a lifetime ago",
+      "original_url": "https://www.billboard.com/music/features/the-fray-greys-anatomy-how-to-save-a-life-2006-1236212600/",
+      "buzz_score": 70,
+      "buzz_score2": 82,
+      "rewrite_count": 0,
+      "original_title": "The Fray Reflects on Breakout Hits ‘Over My Head’ and ‘How to Save a Life,’ Watching ‘Grey’s Anatomy’ & Pissing Off Justin Timberlake",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-01T16:44:00.716218+00:00"
     },
     {
       "tweet": "Scientists are questioning the evidence for dark energy again. We spend our whole lives trying to explain stuff we can't even see.",
@@ -1501,7 +1479,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 27,
+    "total_posted": 29,
     "total_collected": 72
   }
 }
