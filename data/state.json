@@ -2,28 +2,6 @@
   "last_collected": "2026-04-01T16:44:00.716230+00:00",
   "queue": [
     {
-      "tweet": "HackerNews is officially throwing in the towel because the bots finally outpaced the humans. We had a good run, I guess.",
-      "original_url": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "I Quit. The Clankers Won",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-01T14:17:58.856547+00:00"
-    },
-    {
-      "tweet": "Bro, an amputee cornhole pro is being held without bond for murder. This is the wildest headline I've seen all year",
-      "original_url": "https://www.espn.com/espn/story/_/id/48368530/amputee-cornhole-pro-denied-bond-murder-case",
-      "buzz_score": 90,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "No bond for amputee cornhole pro in murder case",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-01T16:44:00.716196+00:00"
-    },
-    {
       "tweet": "Smart people stop growing when they quit looking for mentors. We all just get comfortable being the smartest person in the room.",
       "original_url": "https://bigthink.com/series/the-big-think-interview/robert-herjavec-mentorship/",
       "buzz_score": 75,
@@ -1424,7 +1402,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 22,
+    "total_posted": 24,
     "total_collected": 60
   }
 }
