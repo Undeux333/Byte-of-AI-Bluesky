@@ -2,28 +2,6 @@
   "last_collected": "2026-04-01T21:56:47.155517+00:00",
   "queue": [
     {
-      "tweet": "SpaceX is going public and Elon Musk is about to be the first trillionaire. The math isn't even mathing anymore",
-      "original_url": "https://www.aljazeera.com/news/2026/4/1/spacex-files-to-go-public-paving-way-to-make-elon-musk-first-trillionaire?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "SpaceX files to go public, paving way to make Elon Musk first trillionaire",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-01T21:56:47.155485+00:00"
-    },
-    {
-      "tweet": "The FDA just fast-tracked a new obesity pill called Foundayo. Competition for Wegovy is officially here. Pill popping season",
-      "original_url": "https://www.npr.org/2026/04/01/nx-s1-5760899/weight-loss-pill-foundayo",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The FDA approves a new obesity pill, giving patients another option",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-01T21:56:47.155475+00:00"
-    },
-    {
       "tweet": "Post Malone, Lainey Wilson, and Cody Johnson are headlining Stagecoach 2026. My bank account is already shaking",
       "original_url": "https://www.billboard.com/culture/product-recommendations/where-to-buy-affordable-stagecoach-2026-tickets-online-1236212650/",
       "buzz_score": 80,
@@ -1611,7 +1589,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 33,
+    "total_posted": 35,
     "total_collected": 88
   }
 }
