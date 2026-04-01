@@ -2,28 +2,6 @@
   "last_collected": "2026-03-31T23:25:55.322293+00:00",
   "queue": [
     {
-      "tweet": "Olivia Rodrigo told the daughter of the woman who founded Hole that she owes her career to them. It's a nice sentiment until you realize the math makes us all ancient. Respect the lineage.",
-      "topic_tag": "#OliviaRodrigo",
-      "original_url": "https://www.billboard.com/music/rock/olivia-rodrigo-told-auf-der-maur-daughter-owes-career-hole-1236211533/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Olivia Rodrigo Told Melissa Auf der Maur’s Daughter She Owes Her Career to Hole: ‘Without Your Mother, None of This Would Have Happened’",
-      "source": "Billboard",
-      "category": "entertainment"
-    },
-    {
-      "tweet": "Lego just teased a massive crossover with the trading card game and my inner child is already reaching for my wallet. We have zero self control.",
-      "topic_tag": "#Pokemon",
-      "original_url": "https://kotaku.com/new-lego-contest-teases-big-pokemon-tcg-crossover-2000683615",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "New Lego Contest Teases Big Pokémon TCG Crossover",
-      "source": "Kotaku",
-      "category": "entertainment"
-    },
-    {
       "tweet": "NFL owners are already setting up a contingency plan for replacement refs in case of a lockout. They're preparing for the disaster before the negotiation even hits the wall.",
       "topic_tag": "#NFL",
       "original_url": "https://www.espn.com/nfl/story/_/id/48358865/plan-assist-replacement-refs-five-approved-nfl-rules",
@@ -1160,7 +1138,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 34,
+    "total_posted": 36,
     "total_collected": 48
   }
 }
