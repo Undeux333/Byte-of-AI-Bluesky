@@ -2,28 +2,6 @@
   "last_collected": "2026-04-01T07:53:00.325853+00:00",
   "queue": [
     {
-      "tweet": "Someone found a Rockstar Games Xbox 360 dev kit at a flea market for 6 dollars. Imagine that find.",
-      "original_url": "https://hypebeast.com/2026/4/xbox-360-with-grand-theft-auto-gta-iv-4-beta-found-flea-market-6-usd",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "A Rockstar Games Xbox 360 Dev Kit Was Reportedly Discovered at a Flea Market for $6 USD",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-01T07:53:00.325846+00:00"
-    },
-    {
-      "tweet": "Iran's FM says he has no faith in talks with the U.S. on day 33 of this whole thing. Is there any point anymore.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/1/iran-war-what-is-happening-on-day-33-of-us-israel-attacks?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Iran war: What is happening on day 33 of US-Israel attacks?",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-01T07:53:00.325844+00:00"
-    },
-    {
       "tweet": "Spain's FA is condemning the Islamophobic chants that happened during the game with Egypt. Embarrassing.",
       "original_url": "https://www.aljazeera.com/sports/2026/4/1/spains-fa-condemns-islamophobic-chants-during-game-with-egypt?traffic_source=rss",
       "buzz_score": 85,
@@ -537,7 +515,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2,
+    "total_posted": 4,
     "total_collected": 15
   }
 }
