@@ -2,17 +2,6 @@
   "last_collected": "2026-04-01T16:44:00.716230+00:00",
   "queue": [
     {
-      "tweet": "Smart people stop growing when they quit looking for mentors. We all just get comfortable being the smartest person in the room.",
-      "original_url": "https://bigthink.com/series/the-big-think-interview/robert-herjavec-mentorship/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The hidden reason smart people stop growing",
-      "source": "Big Think",
-      "category": "trivia",
-      "added_at": "2026-04-01T14:17:58.856576+00:00"
-    },
-    {
       "tweet": "CERN is actually out here building superconducting karts. We’re one physics experiment away from real life Mario Kart.",
       "original_url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
       "buzz_score": 75,
@@ -1402,7 +1391,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 24,
+    "total_posted": 25,
     "total_collected": 60
   }
 }
