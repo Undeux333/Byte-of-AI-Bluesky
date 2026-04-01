@@ -2,28 +2,6 @@
   "last_collected": "2026-04-01T21:56:47.155517+00:00",
   "queue": [
     {
-      "tweet": "Post Malone, Lainey Wilson, and Cody Johnson are headlining Stagecoach 2026. My bank account is already shaking",
-      "original_url": "https://www.billboard.com/culture/product-recommendations/where-to-buy-affordable-stagecoach-2026-tickets-online-1236212650/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Where to Buy Affordable Stagecoach 2026 Tickets Online",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-01T21:56:47.155501+00:00"
-    },
-    {
-      "tweet": "People are losing it over that hair-pulling incident in the Chelsea-Arsenal match. Like, what are we doing here",
-      "original_url": "https://www.bbc.com/sport/football/videos/cje4750ydp2o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'You can't be doing that' - Pundits react to McCabe hair-pull incident",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-01T21:56:47.155483+00:00"
-    },
-    {
       "tweet": "Huda Beauty dropped this matcha setting powder that apparently fixes everything. We'll buy anything green at this point",
       "original_url": "https://www.bustle.com/beauty/huda-beauty-matcha-milk-easy-bake-setting-powder-review",
       "buzz_score": 75,
@@ -277,28 +255,6 @@
       "added_at": "2026-04-01T14:17:58.856556+00:00"
     },
     {
-      "tweet": "A top Queensland judge is calling out the years-long delays in his own courts. Glad someone noticed.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/01/senior-queensland-judge-jim-henry-criticises-criminal-trial-delays",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Senior Queensland judge criticises ‘glacial’ years-long delays in serious criminal trials",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-01T14:17:58.856571+00:00"
-    },
-    {
-      "tweet": "Jon Bon Jovi just won a massive award for his community kitchens. Turns out he’s actually living on a prayer.",
-      "original_url": "https://www.billboard.com/music/music-news/jon-bon-jovi-wins-james-beard-impact-award-jbj-soul-kitchen-1236212531/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Jon Bon Jovi Wins Prestigious 2026 James Beard Impact Award For JBJ Soul Kitchen Community Restaurant and JBJ Soul Foundation",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-01T14:17:58.856565+00:00"
-    },
-    {
       "tweet": "Asia is ramping up dirty fuels to handle the Iran war energy crisis. Irony is dead.",
       "original_url": "https://www.theguardian.com/world/2026/apr/01/iran-energy-crisis-asia-dirty-fuels-coal",
       "buzz_score": 80,
@@ -319,6 +275,28 @@
       "source": "Hypebeast",
       "category": "entertainment",
       "added_at": "2026-04-01T10:52:49.160388+00:00"
+    },
+    {
+      "tweet": "A top Queensland judge is calling out the years-long delays in his own courts. Glad someone noticed.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/01/senior-queensland-judge-jim-henry-criticises-criminal-trial-delays",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Senior Queensland judge criticises ‘glacial’ years-long delays in serious criminal trials",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-01T14:17:58.856571+00:00"
+    },
+    {
+      "tweet": "Jon Bon Jovi just won a massive award for his community kitchens. Turns out he’s actually living on a prayer.",
+      "original_url": "https://www.billboard.com/music/music-news/jon-bon-jovi-wins-james-beard-impact-award-jbj-soul-kitchen-1236212531/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Jon Bon Jovi Wins Prestigious 2026 James Beard Impact Award For JBJ Soul Kitchen Community Restaurant and JBJ Soul Foundation",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-01T14:17:58.856565+00:00"
     },
     {
       "tweet": "Reading about Pokémon Mega Evolutions in 2026. Sometimes you just need to turn your brain off",
@@ -1589,7 +1567,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 35,
+    "total_posted": 37,
     "total_collected": 88
   }
 }
