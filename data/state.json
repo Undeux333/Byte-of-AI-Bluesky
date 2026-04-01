@@ -2,28 +2,6 @@
   "last_collected": "2026-03-31T23:25:55.322293+00:00",
   "queue": [
     {
-      "tweet": "NFL owners are already setting up a contingency plan for replacement refs in case of a lockout. They're preparing for the disaster before the negotiation even hits the wall.",
-      "topic_tag": "#NFL",
-      "original_url": "https://www.espn.com/nfl/story/_/id/48358865/plan-assist-replacement-refs-five-approved-nfl-rules",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "NFL owners OK replacement ref contingency plan",
-      "source": "ESPN",
-      "category": "sports"
-    },
-    {
-      "tweet": "Friedrich Merz is facing major backlash for demanding Syrians in Germany just go back home. The government and the people they represent are clearly reading different scripts.",
-      "topic_tag": "#FriedrichMerz",
-      "original_url": "https://www.theguardian.com/world/2026/mar/31/friedrich-merz-criticised-syrians-germany-return",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Merz criticised after calling for Syrians in Germany to ‘go back’ home",
-      "source": "The Guardian",
-      "category": "world"
-    },
-    {
       "tweet": "Dan Hurley really tried to tell us that official was looking to chest bump him. I've watched the footage three times and I'm still trying to find the angle where that's true. Meanwhile my social skills.",
       "topic_tag": "#DanHurley",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48359957/dan-hurley-thought-ncaa-tournament-ref-was-looking-chest-bump",
@@ -1138,7 +1116,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 36,
+    "total_posted": 38,
     "total_collected": 48
   }
 }
