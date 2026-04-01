@@ -50,7 +50,6 @@ def run():
         if stories:
             candidates = scorer.score_all(stories, state)
             for c in candidates:
-                from datetime import datetime, timezone
                 sm.add_to_queue(state, {
                     "tweet":          c["tweet"],
                     "original_url":   c.get("original_url", c.get("url", "")),
