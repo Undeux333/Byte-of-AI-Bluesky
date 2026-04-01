@@ -44,4 +44,5 @@ jobs:
           git add data/state.json
           git diff --staged --quiet && echo "No changes" && exit 0
           git commit -m "Update state [skip ci]"
-          git push --force origin main
+          git pull --rebase -X ours origin main
+          git push origin main
