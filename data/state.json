@@ -2,28 +2,6 @@
   "last_collected": "2026-04-01T19:43:55.853874+00:00",
   "queue": [
     {
-      "tweet": "Guy Fieri just dropped his 6 favorite burger spots in the country and honestly, he doesn't miss. I'm just here for the road trip excuses",
-      "original_url": "https://www.mentalfloss.com/food/restaurants/best-burger-joints-guy-fieri?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "6 Best Burger Joints in America, According to Guy Fieri",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-01T19:43:55.853838+00:00"
-    },
-    {
-      "tweet": "Jack Pugh passed away at 24. He stepped away from football years ago for his mental health and this just sucks",
-      "original_url": "https://www.espn.com/college-football/story/_/id/48369922/former-wisconsin-te-jack-pugh-dies-24-cause-death-not-given",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Ex-Wisconsin TE Pugh dies at 24; cause not given",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-01T19:43:55.853856+00:00"
-    },
-    {
       "tweet": "CERN is actually out here building superconducting karts. We’re one physics experiment away from real life Mario Kart.",
       "original_url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
       "buzz_score": 75,
@@ -277,17 +255,6 @@
       "added_at": "2026-04-01T10:52:49.160386+00:00"
     },
     {
-      "tweet": "Tuchel says Phil Foden isn't a lock for the 2026 World Cup squad. Like, who are we actually starting then",
-      "original_url": "https://www.bbc.com/sport/football/articles/cp86d7j2g7vo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Foden not guaranteed World Cup squad spot - Tuchel",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-01T19:43:55.853858+00:00"
-    },
-    {
       "tweet": "Australia just passed a bill unlocking orphan works. Pretty weird.",
       "original_url": "https://www.billboard.com/pro/australia-parliament-copyright-bill-unlocks-orphan-works/",
       "buzz_score": 70,
@@ -330,6 +297,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-01T10:52:49.160381+00:00"
+    },
+    {
+      "tweet": "Tuchel says Phil Foden isn't a lock for the 2026 World Cup squad. Like, who are we actually starting then",
+      "original_url": "https://www.bbc.com/sport/football/articles/cp86d7j2g7vo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Foden not guaranteed World Cup squad spot - Tuchel",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-01T19:43:55.853858+00:00"
     },
     {
       "tweet": "Kenyan tea farmers are struggling because of the war on Iran. It’s wild how everything is connected",
@@ -1479,7 +1457,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 29,
+    "total_posted": 31,
     "total_collected": 72
   }
 }
