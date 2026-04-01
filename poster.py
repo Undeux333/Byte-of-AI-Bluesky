@@ -53,23 +53,18 @@ def upload_image_blob(client: Client, image_url: str) -> dict | None:
 def post_tweet(tweet_text: str, original_url: str = "", category: str = "other") -> dict:
     """
     Blueskyに投稿する
-    - 本投稿: テキスト + 2行改行 + SourceURL
+    - 本投稿: テキストのみ（URLはリンクカードembedで表示）
     - リンクカード（OGP画像）が自動展開される
     - タグなし
     """
     main_text = tweet_text.split("\nhttp")[0].split("\nhttps")[0].strip()
 
-    # SourceURLを2行改行して本文に追加（300文字上限を考慮）
-    if original_url:
-        max_text_len = 300 - len(original_url) - 2  # \n\n分を差し引く
-        if len(main_text) > max_text_len:
-            main_text = main_text[:max_text_len].rstrip()
-            print(f"  [Poster] Text trimmed to {len(main_text)} chars")
-        full_text = f"{main_text}\n\n{original_url}"
-    else:
-        if len(main_text) > 300:
-            main_text = main_text[:300].rstrip()
-        full_text = main_text
+    # 本文は300文字以内に収める（URLはembedで表示するのでテキストには含めない）
+    if len(main_text) > 300:
+        main_text = main_text[:300].rstrip()
+        print(f"  [Poster] Text trimmed to {len(main_text)} chars")
+
+    full_text = main_text
 
     for attempt in range(3):
         try:
