@@ -2,28 +2,6 @@
   "last_collected": "2026-04-01T08:29:51.989809+00:00",
   "queue": [
     {
-      "tweet": "Bro, someone just leaked the entire Claude Code source code through a map file on NPM. Literal multi-billion dollar tech just left the front door open. Wild.",
-      "original_url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-01T08:29:51.989767+00:00"
-    },
-    {
-      "tweet": "Iranian drone shrapnel killed someone in the UAE today. It’s all spiraling.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/1/iran-attacks-cause-fire-in-kuwait-bahrain-kill-man-in-uae?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran attacks cause fire in Kuwait, Bahrain; kill man in UAE",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-01T08:29:51.989795+00:00"
-    },
-    {
       "tweet": "Police are inspecting a missile impact site in Tel Aviv today. Is this really where we're at now?",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/israeli-police-inspect-damage-on-the-road-after-missile-impact?traffic_source=rss",
       "buzz_score": 90,
@@ -548,7 +526,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2,
+    "total_posted": 4,
     "total_collected": 16
   }
 }
