@@ -2,28 +2,6 @@
   "last_collected": "2026-04-01T08:29:51.989809+00:00",
   "queue": [
     {
-      "tweet": "Police are inspecting a missile impact site in Tel Aviv today. Is this really where we're at now?",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/israeli-police-inspect-damage-on-the-road-after-missile-impact?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israeli police inspect damage on the road after missile impact",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-01T08:29:51.989793+00:00"
-    },
-    {
-      "tweet": "Megan Thee Stallion had to cut her performance short because she felt ill. We really push ourselves way too hard sometimes.",
-      "original_url": "https://www.bbc.com/news/articles/c86e1403793o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Megan Thee Stallion taken to hospital during Moulin Rouge performance",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-01T08:29:51.989784+00:00"
-    },
-    {
       "tweet": "Imagine going to a flea market and finding an actual Rockstar Games Xbox 360 dev kit for 6 dollars. Some people have all the luck.",
       "original_url": "https://hypebeast.com/2026/4/xbox-360-with-grand-theft-auto-gta-iv-4-beta-found-flea-market-6-usd",
       "buzz_score": 85,
@@ -526,7 +504,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 4,
+    "total_posted": 6,
     "total_collected": 16
   }
 }
