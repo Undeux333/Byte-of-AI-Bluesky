@@ -2,28 +2,6 @@
   "last_collected": "2026-04-01T10:52:49.160412+00:00",
   "queue": [
     {
-      "tweet": "Israel is hitting areas in Lebanon that aren't even controlled by Hezbollah. Things are escalating way too fast.",
-      "original_url": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-01T10:52:49.160401+00:00"
-    },
-    {
-      "tweet": "Seven people killed in Beirut today as the fighting in south Lebanon keeps getting worse. It's a mess.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/1/israeli-strikes-on-beirut-kill-7-hezbollah-fights-back-in-southern-lebanon?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Israel kills 7 people in Beirut, Hezbollah fights invasion in south Lebanon",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-01T10:52:49.160403+00:00"
-    },
-    {
       "tweet": "Imagine paying to get in a car that decides to stop existing in the middle of traffic. We're really trusting Baidu to do the driving now.",
       "original_url": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
       "buzz_score": 80,
@@ -857,7 +835,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 12,
+    "total_posted": 14,
     "total_collected": 32
   }
 }
