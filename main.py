@@ -50,6 +50,7 @@ def run():
         if stories:
             candidates = scorer.score_all(stories, state)
             for c in candidates:
+                from datetime import datetime, timezone
                 sm.add_to_queue(state, {
                     "tweet":          c["tweet"],
                     "original_url":   c.get("original_url", c.get("url", "")),
@@ -59,6 +60,7 @@ def run():
                     "original_title": c.get("original_title", ""),
                     "source":         c.get("source", ""),
                     "category":       c.get("category", "other"),
+                    "added_at":       datetime.now(timezone.utc).isoformat(),
                 })
             state["stats"]["total_collected"] = \
                 state["stats"].get("total_collected", 0) + len(candidates)

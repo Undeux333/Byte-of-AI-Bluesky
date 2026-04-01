@@ -1,6 +1,6 @@
 import json
 import os
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 STATE_PATH = "data/state.json"
 
@@ -67,16 +67,33 @@ def mark_seen(state: dict, url: str):
 
 def add_to_queue(state: dict, item: dict):
     state.setdefault("queue", []).append(item)
-    # buzz_score2の高い順に並び替え
-    state["queue"].sort(
-        key=lambda x: x.get("buzz_score2", x.get("buzz_score", 0)),
-        reverse=True
-    )
+
+def _final_score(item: dict) -> float:
+    """Post-time score: buzz_score2(70%) + buzz_score(10%) + freshness(20%)"""
+    buzz2 = item.get("buzz_score2", 0)
+    buzz1 = item.get("buzz_score", 0)
+
+    added_at = item.get("added_at")
+    if added_at:
+        try:
+            added_dt = datetime.fromisoformat(added_at)
+            if added_dt.tzinfo is None:
+                added_dt = added_dt.replace(tzinfo=timezone.utc)
+            age_hours = (datetime.now(timezone.utc) - added_dt).total_seconds() / 3600
+            freshness = max(0, 20 - age_hours * 2)
+        except Exception:
+            freshness = 10
+    else:
+        freshness = 10
+
+    return buzz2 * 0.7 + buzz1 * 0.1 + freshness * 0.2
+
 
 def pop_next(state: dict) -> dict | None:
     queue = state.get("queue", [])
     if not queue:
         return None
+    queue.sort(key=_final_score, reverse=True)
     item = queue.pop(0)
     state["queue"] = queue
     return item
