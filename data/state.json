@@ -2,28 +2,6 @@
   "last_collected": "2026-04-02T16:35:16.423159+00:00",
   "queue": [
     {
-      "tweet": "LinkedIn is reportedly searching your computer files now. Creepy.",
-      "original_url": "https://browsergate.eu/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "LinkedIn Is Illegally Searching Your Computer",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-02T14:16:24.594823+00:00"
-    },
-    {
-      "tweet": "Kirk Cousins actually signed with the Raiders. Guess he just really loves the desert.",
-      "original_url": "https://www.espn.com/nfl/story/_/id/48376719/kirk-cousins-agrees-sign-contract-raiders-agent-says",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Veteran QB Cousins agrees to deal with Raiders",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-02T14:16:24.594813+00:00"
-    },
-    {
       "tweet": "Reading about life in Nazi Berlin and how easy it was for everyone to just go along with it. We like to think we’re different, but yeah.",
       "original_url": "https://www.npr.org/2026/04/02/nx-s1-5763755/stay-alive-berlin-ian-buruma-review",
       "buzz_score": 75,
@@ -33,6 +11,17 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-04-02T14:16:24.594829+00:00"
+    },
+    {
+      "tweet": "Artemis II is finally in orbit. We're really doing this again after 50 years. About time.",
+      "original_url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Watch the moment Artemis II blasts into space",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-02T04:02:05.967118+00:00"
     },
     {
       "tweet": "Italy's FA head quit after they missed their third straight World Cup. They just can't catch a break.",
@@ -79,15 +68,26 @@
       "added_at": "2026-04-02T16:35:16.423127+00:00"
     },
     {
-      "tweet": "Artemis II is finally in orbit. We're really doing this again after 50 years. About time.",
-      "original_url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
+      "tweet": "Vir Das is directing a found-footage horror movie. That's actually a wild pivot.",
+      "original_url": "https://variety.com/2026/film/news/vir-das-found-footage-horror-film-baara-number-1236704411/",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Watch the moment Artemis II blasts into space",
-      "source": "BBC World",
+      "original_title": "Vir Das Sets Found-Footage Horror Film ‘Baara Number’ (EXCLUSIVE)",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-02T04:02:05.967147+00:00"
+    },
+    {
+      "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/fuel-crisis-prices-fall-australia-albanese-gst",
+      "buzz_score": 78,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Fuel prices to fall another 5.7 cents a litre after states and Canberra strike GST deal",
+      "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-04-02T04:02:05.967118+00:00"
+      "added_at": "2026-04-02T07:00:05.407799+00:00"
     },
     {
       "tweet": "Some horse just won at 300-1 odds and tied the UK record. I’m never gonna bet again.",
@@ -110,28 +110,6 @@
       "source": "Kotaku",
       "category": "entertainment",
       "added_at": "2026-04-02T16:35:16.423129+00:00"
-    },
-    {
-      "tweet": "Vir Das is directing a found-footage horror movie. That's actually a wild pivot.",
-      "original_url": "https://variety.com/2026/film/news/vir-das-found-footage-horror-film-baara-number-1236704411/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Vir Das Sets Found-Footage Horror Film ‘Baara Number’ (EXCLUSIVE)",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-02T04:02:05.967147+00:00"
-    },
-    {
-      "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/fuel-crisis-prices-fall-australia-albanese-gst",
-      "buzz_score": 78,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fuel prices to fall another 5.7 cents a litre after states and Canberra strike GST deal",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-02T07:00:05.407799+00:00"
     },
     {
       "tweet": "Louis Koo is the ambassador for Hong Kong Comic Con 2026. A legend.",
@@ -178,28 +156,6 @@
       "added_at": "2026-04-01T14:17:58.856553+00:00"
     },
     {
-      "tweet": "Australia is banning Iranian tourists, and people are saying it goes against their values. It’s wild how quickly a country can make you feel like a guest.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/iranian-tourist-ban-doesnt-align-with-the-australian-values-hedieh-signed-up-to-as-a-citizen",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iranian tourist ban doesn’t align with the ‘Australian values’ Hedieh signed up to as a citizen",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-02T14:16:24.594820+00:00"
-    },
-    {
-      "tweet": "Macron called Trump’s comments about his marriage inelegant. Just imagine having to deal with that kind of nonsense on the world stage.",
-      "original_url": "https://www.bbc.com/news/videos/c70dxqp0q2do?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Macron calls Trump's remarks on his marriage 'inelegant'",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-02T14:16:24.594805+00:00"
-    },
-    {
       "tweet": "The Bears are waiting until late spring to pick a stadium site. Chicago sports fans are a different breed of patient",
       "original_url": "https://www.espn.com/nfl/story/_/id/48371358/bears-ceo-stadium-decision-likely-late-spring-early-summer",
       "buzz_score": 70,
@@ -242,6 +198,28 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-01T21:56:47.155494+00:00"
+    },
+    {
+      "tweet": "Australia is banning Iranian tourists, and people are saying it goes against their values. It’s wild how quickly a country can make you feel like a guest.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/iranian-tourist-ban-doesnt-align-with-the-australian-values-hedieh-signed-up-to-as-a-citizen",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iranian tourist ban doesn’t align with the ‘Australian values’ Hedieh signed up to as a citizen",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-02T14:16:24.594820+00:00"
+    },
+    {
+      "tweet": "Macron called Trump’s comments about his marriage inelegant. Just imagine having to deal with that kind of nonsense on the world stage.",
+      "original_url": "https://www.bbc.com/news/videos/c70dxqp0q2do?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Macron calls Trump's remarks on his marriage 'inelegant'",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-02T14:16:24.594805+00:00"
     },
     {
       "tweet": "Found out Umbrella wasn't even written for Rihanna. It’s weird how some songs just feel like they belong to whoever got to them first.",
@@ -332,17 +310,6 @@
       "added_at": "2026-04-02T14:16:24.594827+00:00"
     },
     {
-      "tweet": "Tones And I and FISHER just dropped a track together. Two Aussies doing a favour, I guess. Absolute vibes",
-      "original_url": "https://www.billboard.com/music/music-news/tones-and-i-fisher-favour-stream-it-now-1236213140/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Tones And I, FISHER Join Forces And Do Us a ‘Favour’: Stream It Now",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-02T11:56:43.016285+00:00"
-    },
-    {
       "tweet": "Heavy bombing in Tehran this morning. It's just constant at this point.",
       "original_url": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heavy-bombings-tehran",
       "buzz_score": 90,
@@ -374,6 +341,39 @@
       "source": "Kotaku",
       "category": "entertainment",
       "added_at": "2026-04-01T21:56:47.155492+00:00"
+    },
+    {
+      "tweet": "Tones And I and FISHER just dropped a track together. Two Aussies doing a favour, I guess. Absolute vibes",
+      "original_url": "https://www.billboard.com/music/music-news/tones-and-i-fisher-favour-stream-it-now-1236213140/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Tones And I, FISHER Join Forces And Do Us a ‘Favour’: Stream It Now",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-02T11:56:43.016285+00:00"
+    },
+    {
+      "tweet": "Iran is denying they want a truce while the whole thing is spiraling. Why would they stop now?",
+      "original_url": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iran war live: Trump to address nation; Tehran denies seeking ceasefire",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-02T01:14:23.378429+00:00"
+    },
+    {
+      "tweet": "Brazil is putting an Argentine tourist on trial for racism over a gesture. Is this really how we're handling tourists now",
+      "original_url": "https://www.nytimes.com/2026/04/01/world/americas/brazil-argentina-tourist-racism-trial.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "When Racism Is a Crime: Brazil Puts a Tourist on Trial for Word and Gesture",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-01T16:44:00.716209+00:00"
     },
     {
       "tweet": "Legacy of Kain is trying to do that whole pixel art retro thing but it just feels off. Sometimes the vibe isn't something you can code",
@@ -420,39 +420,6 @@
       "added_at": "2026-04-02T09:13:55.139827+00:00"
     },
     {
-      "tweet": "Iran is denying they want a truce while the whole thing is spiraling. Why would they stop now?",
-      "original_url": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran war live: Trump to address nation; Tehran denies seeking ceasefire",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-02T01:14:23.378429+00:00"
-    },
-    {
-      "tweet": "Brazil is putting an Argentine tourist on trial for racism over a gesture. Is this really how we're handling tourists now",
-      "original_url": "https://www.nytimes.com/2026/04/01/world/americas/brazil-argentina-tourist-racism-trial.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "When Racism Is a Crime: Brazil Puts a Tourist on Trial for Word and Gesture",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-01T16:44:00.716209+00:00"
-    },
-    {
-      "tweet": "Costa Rica is taking migrants for the US now. We're just outsourcing the border at this point",
-      "original_url": "https://www.theguardian.com/us-news/2026/apr/02/trump-costa-rica-deported-migrants-deal",
-      "buzz_score": 82,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Costa Rica strikes deal to accept third country deportees from US",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-02T16:35:16.423133+00:00"
-    },
-    {
       "tweet": "OnePlus has a 70 dollar promo code out. We're all gonna buy stuff we don't need.",
       "original_url": "https://www.wired.com/story/oneplus-promo-code/",
       "buzz_score": 82,
@@ -462,50 +429,6 @@
       "source": "Wired",
       "category": "tech",
       "added_at": "2026-04-02T07:00:05.407806+00:00"
-    },
-    {
-      "tweet": "BBC already found someone to replace Scott Mills on that Race Across the World spin-off. That was fast.",
-      "original_url": "https://deadline.com/2026/04/bbc-swaps-scott-mills-tyler-west-race-across-the-world-podcast-1236771543/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "BBC Swiftly Finds Its Replacement For Scott Mills On ‘Race Across The World’ Spin-Off",
-      "source": "Deadline",
-      "category": "entertainment",
-      "added_at": "2026-04-02T09:13:55.139858+00:00"
-    },
-    {
-      "tweet": "Some major quantum computing breakthroughs just hit, and they're apparently not April Fools. Things are getting weird fast.",
-      "original_url": "https://scottaaronson.blog/?p=9665",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Quantum computing bombshells that are not April Fools",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-02T09:13:55.139841+00:00"
-    },
-    {
-      "tweet": "Alexander Isak is finally back in Liverpool training. About time.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c0e7qy0rz3eo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Isak to return to training this week - Slot",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-02T09:13:55.139832+00:00"
-    },
-    {
-      "tweet": "An artist is taking a war crime case to Paris after a strike in Lebanon. People are tired of the silence.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/02/artist-files-war-case-in-paris-over-israeli-strike-that-killed-parents-in-lebanon",
-      "buzz_score": 80,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Artist files war crime case in Paris over Israeli strike that killed parents in Lebanon",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-02T16:35:16.423150+00:00"
     },
     {
       "tweet": "Explosions at a Burundi ammunition depot killed 13 people. That's brutal.",
@@ -673,48 +596,59 @@
       "added_at": "2026-04-01T10:52:49.160388+00:00"
     },
     {
-      "tweet": "Pakistan and Afghanistan are holding peace talks in China. Are we actually seeing this happen",
-      "original_url": "https://www.aljazeera.com/news/2026/4/2/pakistan-afghanistan-hold-talks-in-china-to-end-months-of-conflict?traffic_source=rss",
-      "buzz_score": 78,
+      "tweet": "Costa Rica is taking migrants for the US now. We're just outsourcing the border at this point",
+      "original_url": "https://www.theguardian.com/us-news/2026/apr/02/trump-costa-rica-deported-migrants-deal",
+      "buzz_score": 82,
       "buzz_score2": 85,
       "rewrite_count": 0,
-      "original_title": "Pakistan, Afghanistan hold talks in China to end months of conflict",
-      "source": "Al Jazeera",
+      "original_title": "Costa Rica strikes deal to accept third country deportees from US",
+      "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-04-02T16:35:16.423148+00:00"
+      "added_at": "2026-04-02T16:35:16.423133+00:00"
     },
     {
-      "tweet": "Arsenal and Real Madrid are both fighting over this Leverkusen striker. The bidding war is gonna be gross.",
-      "original_url": "https://www.espn.com/soccer/story/_/id/48374761/transfer-rumors-news-arsenal-real-madrid-eye-young-bayer-leverkusen-striker",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Transfer rumors, news: Arsenal, Madrid eye young Leverkusen striker",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-02T09:13:55.139862+00:00"
-    },
-    {
-      "tweet": "Tried to name every state capital and realized how little I remember from fifth grade. It's humbling.",
-      "original_url": "https://www.mentalfloss.com/quizzes/name-state-capitals-without-second-guessing?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Quiz: Can You Name the State Capitals Without Second-Guessing?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-02T09:13:55.139860+00:00"
-    },
-    {
-      "tweet": "They finally found that golden helmet stolen in the Dutch heist last year. Took them long enough.",
-      "original_url": "https://www.bbc.com/news/articles/cpvxj4jzvvvo?at_medium=RSS&at_campaign=rss",
+      "tweet": "BBC already found someone to replace Scott Mills on that Race Across the World spin-off. That was fast.",
+      "original_url": "https://deadline.com/2026/04/bbc-swaps-scott-mills-tyler-west-race-across-the-world-podcast-1236771543/",
       "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "BBC Swiftly Finds Its Replacement For Scott Mills On ‘Race Across The World’ Spin-Off",
+      "source": "Deadline",
+      "category": "entertainment",
+      "added_at": "2026-04-02T09:13:55.139858+00:00"
+    },
+    {
+      "tweet": "Some major quantum computing breakthroughs just hit, and they're apparently not April Fools. Things are getting weird fast.",
+      "original_url": "https://scottaaronson.blog/?p=9665",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Quantum computing bombshells that are not April Fools",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-02T09:13:55.139841+00:00"
+    },
+    {
+      "tweet": "Alexander Isak is finally back in Liverpool training. About time.",
+      "original_url": "https://www.bbc.com/sport/football/articles/c0e7qy0rz3eo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Isak to return to training this week - Slot",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-02T09:13:55.139832+00:00"
+    },
+    {
+      "tweet": "An artist is taking a war crime case to Paris after a strike in Lebanon. People are tired of the silence.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/02/artist-files-war-case-in-paris-over-israeli-strike-that-killed-parents-in-lebanon",
+      "buzz_score": 80,
       "buzz_score2": 85,
       "rewrite_count": 0,
-      "original_title": "Ancient golden helmet recovered more than a year after Dutch heist",
-      "source": "BBC World",
+      "original_title": "Artist files war crime case in Paris over Israeli strike that killed parents in Lebanon",
+      "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-04-02T16:35:16.423144+00:00"
+      "added_at": "2026-04-02T16:35:16.423150+00:00"
     },
     {
       "tweet": "Charlie Day ranked Luigi Mangione as his second favorite Luigi. Imagine being the guy who didn't even make the top spot.",
@@ -871,6 +805,39 @@
       "added_at": "2026-04-01T10:52:49.160378+00:00"
     },
     {
+      "tweet": "Pakistan and Afghanistan are holding peace talks in China. Are we actually seeing this happen",
+      "original_url": "https://www.aljazeera.com/news/2026/4/2/pakistan-afghanistan-hold-talks-in-china-to-end-months-of-conflict?traffic_source=rss",
+      "buzz_score": 78,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Pakistan, Afghanistan hold talks in China to end months of conflict",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-02T16:35:16.423148+00:00"
+    },
+    {
+      "tweet": "Arsenal and Real Madrid are both fighting over this Leverkusen striker. The bidding war is gonna be gross.",
+      "original_url": "https://www.espn.com/soccer/story/_/id/48374761/transfer-rumors-news-arsenal-real-madrid-eye-young-bayer-leverkusen-striker",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Transfer rumors, news: Arsenal, Madrid eye young Leverkusen striker",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-02T09:13:55.139862+00:00"
+    },
+    {
+      "tweet": "Tried to name every state capital and realized how little I remember from fifth grade. It's humbling.",
+      "original_url": "https://www.mentalfloss.com/quizzes/name-state-capitals-without-second-guessing?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Quiz: Can You Name the State Capitals Without Second-Guessing?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-02T09:13:55.139860+00:00"
+    },
+    {
       "tweet": "Anthony Barry went from playing for Accrington to coaching under Tuchel in ten years. Talk about a glow up.",
       "original_url": "https://www.bbc.com/sport/football/articles/ckge7014m5yo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 72,
@@ -891,6 +858,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-01T10:52:49.160386+00:00"
+    },
+    {
+      "tweet": "They finally found that golden helmet stolen in the Dutch heist last year. Took them long enough.",
+      "original_url": "https://www.bbc.com/news/articles/cpvxj4jzvvvo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Ancient golden helmet recovered more than a year after Dutch heist",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-02T16:35:16.423144+00:00"
     },
     {
       "tweet": "Science just confirmed the Moon landings again for the millionth time. We really love debating things that already happened.",
@@ -1025,50 +1003,6 @@
       "added_at": "2026-04-02T01:14:23.378435+00:00"
     },
     {
-      "tweet": "There’s a new glam rock movie about Mozart and his supposedly more talented sister. Wonder which one the audience will care about.",
-      "original_url": "https://variety.com/2026/tv/global/wolfgang-mozart-maria-anna-mozart-beta-film-ard-1236705159/",
-      "buzz_score": 72,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "‘Mozart Mozart,’ a Glam Rock-Tinged Take on the Genius and His Maybe More Talented Sister, Closes First Sales Deals (EXCLUSIVE)",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-02T09:13:55.139848+00:00"
-    },
-    {
-      "tweet": "A French court just refused to extradite Ben Ali’s daughter because they don't trust the trial process. Are we even shocked?",
-      "original_url": "https://www.aljazeera.com/news/2026/4/2/french-court-denies-extradition-of-ex-tunisian-presidents-daughter?traffic_source=rss",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "French court denies extradition of ex-Tunisian President Ben Ali’s daughter",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-02T09:13:55.139864+00:00"
-    },
-    {
-      "tweet": "Cannes is doubling down on AI for its 2026 program. They’re really just gonna replace everyone.",
-      "original_url": "https://variety.com/2026/film/global/cannes-marche-du-film-immersive-creator-ai-2026-program-1236704795/",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Cannes’ Marché du Film Reinforces Focus on Creators, AI, Innovation and Immersive With 2026 Program",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-02T09:13:55.139856+00:00"
-    },
-    {
-      "tweet": "Artemis II is launching and everyone on the internet is watching. We still love space stuff.",
-      "original_url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-      "buzz_score": 75,
-      "buzz_score2": 80,
-      "rewrite_count": 0,
-      "original_title": "Artemis II Launch Day Updates",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-02T16:35:16.423152+00:00"
-    },
-    {
       "tweet": "Axios getting compromised on NPM is wild. Can't trust a single package these days.",
       "original_url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
       "buzz_score": 75,
@@ -1179,26 +1113,48 @@
       "added_at": "2026-04-01T08:29:51.989778+00:00"
     },
     {
-      "tweet": "They found a Danish warship sunk by Lord Nelson 225 years ago. Imagine how long that's been sitting at the bottom.",
-      "original_url": "https://www.nytimes.com/2026/04/02/world/europe/danish-warship-britain-nelson-copenhagen.html",
+      "tweet": "There’s a new glam rock movie about Mozart and his supposedly more talented sister. Wonder which one the audience will care about.",
+      "original_url": "https://variety.com/2026/tv/global/wolfgang-mozart-maria-anna-mozart-beta-film-ard-1236705159/",
       "buzz_score": 72,
-      "buzz_score2": 80,
+      "buzz_score2": 85,
       "rewrite_count": 0,
-      "original_title": "Danish Warship Sunk by Britain’s Lord Nelson 225 Years Ago Is Found",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-02T16:35:16.423146+00:00"
+      "original_title": "‘Mozart Mozart,’ a Glam Rock-Tinged Take on the Genius and His Maybe More Talented Sister, Closes First Sales Deals (EXCLUSIVE)",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-02T09:13:55.139848+00:00"
     },
     {
-      "tweet": "Apparently workers don't leave bad jobs because of something called monopsony. We're all just stuck.",
-      "original_url": "https://bigthink.com/books/monopsony/",
+      "tweet": "A French court just refused to extradite Ben Ali’s daughter because they don't trust the trial process. Are we even shocked?",
+      "original_url": "https://www.aljazeera.com/news/2026/4/2/french-court-denies-extradition-of-ex-tunisian-presidents-daughter?traffic_source=rss",
       "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "French court denies extradition of ex-Tunisian President Ben Ali’s daughter",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-02T09:13:55.139864+00:00"
+    },
+    {
+      "tweet": "Cannes is doubling down on AI for its 2026 program. They’re really just gonna replace everyone.",
+      "original_url": "https://variety.com/2026/film/global/cannes-marche-du-film-immersive-creator-ai-2026-program-1236704795/",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Cannes’ Marché du Film Reinforces Focus on Creators, AI, Innovation and Immersive With 2026 Program",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-02T09:13:55.139856+00:00"
+    },
+    {
+      "tweet": "Artemis II is launching and everyone on the internet is watching. We still love space stuff.",
+      "original_url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
+      "buzz_score": 75,
       "buzz_score2": 80,
       "rewrite_count": 0,
-      "original_title": "Why don’t Walmart workers walk away from low pay? Monopsony.",
-      "source": "Big Think",
-      "category": "trivia",
-      "added_at": "2026-04-02T16:35:16.423154+00:00"
+      "original_title": "Artemis II Launch Day Updates",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-02T16:35:16.423152+00:00"
     },
     {
       "tweet": "Scotland just made the curling play-offs. Honestly, respect the hustle.",
@@ -1265,6 +1221,28 @@
       "source": "Big Think",
       "category": "trivia",
       "added_at": "2026-04-01T08:29:51.989797+00:00"
+    },
+    {
+      "tweet": "They found a Danish warship sunk by Lord Nelson 225 years ago. Imagine how long that's been sitting at the bottom.",
+      "original_url": "https://www.nytimes.com/2026/04/02/world/europe/danish-warship-britain-nelson-copenhagen.html",
+      "buzz_score": 72,
+      "buzz_score2": 80,
+      "rewrite_count": 0,
+      "original_title": "Danish Warship Sunk by Britain’s Lord Nelson 225 Years Ago Is Found",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-02T16:35:16.423146+00:00"
+    },
+    {
+      "tweet": "Apparently workers don't leave bad jobs because of something called monopsony. We're all just stuck.",
+      "original_url": "https://bigthink.com/books/monopsony/",
+      "buzz_score": 70,
+      "buzz_score2": 80,
+      "rewrite_count": 0,
+      "original_title": "Why don’t Walmart workers walk away from low pay? Monopsony.",
+      "source": "Big Think",
+      "category": "trivia",
+      "added_at": "2026-04-02T16:35:16.423154+00:00"
     },
     {
       "tweet": "French prosecutors linked that foiled attack on an American bank to a pro-Iranian group. It’s getting scary out there",
@@ -2359,7 +2337,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 67,
+    "total_posted": 69,
     "total_collected": 190
   }
 }
