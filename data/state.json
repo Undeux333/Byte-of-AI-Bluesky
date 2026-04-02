@@ -2,28 +2,6 @@
   "last_collected": "2026-04-02T11:56:43.016301+00:00",
   "queue": [
     {
-      "tweet": "Bro, NASA just sent Artemis II around the moon and the BBC science editor is losing his mind. You can hear it in his voice, man. Honestly same",
-      "original_url": "https://www.bbc.com/news/videos/c05d6pprdleo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'Oh my goodness, that is spectacular!': See BBC science editor react to launch",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-02T11:56:43.016277+00:00"
-    },
-    {
-      "tweet": "The Premier League panel says the ref was right to skip that Amad Diallo penalty. Just another weekend of us arguing with screens",
-      "original_url": "https://www.bbc.com/sport/football/articles/cwykx5yzr7ko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Officials correct not to give Amad penalty - panel",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-02T11:56:43.016289+00:00"
-    },
-    {
       "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
       "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/fuel-crisis-prices-fall-australia-albanese-gst",
       "buzz_score": 78,
@@ -156,39 +134,6 @@
       "added_at": "2026-04-02T11:56:43.016296+00:00"
     },
     {
-      "tweet": "Stephen Colbert joked that Trump gave an intelligent speech, then said it was April Fools. Zero surprise there.",
-      "original_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/stephen-colbert-donald-trump-speech-april-fools-1235540562/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Stephen Colbert Jokes That Trump Gave a ‘Concise, Intelligent’ Speech: ‘April Fools!’",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-04-02T09:13:55.139847+00:00"
-    },
-    {
-      "tweet": "Everyone’s still asking if BGP is safe yet. At this point, why would we expect it to be?",
-      "original_url": "https://isbgpsafeyet.com/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Is BGP safe yet?",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-02T09:13:55.139834+00:00"
-    },
-    {
-      "tweet": "It’s been a year of Trump’s tariffs and they aren't exactly doing what was promised. Turns out, it's just taxes.",
-      "original_url": "https://www.npr.org/2026/04/02/nx-s1-5766424/trump-tariffs-inflation-economy",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Have Trump's tariffs worked? This is where things stand a year after 'Liberation Day'",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-02T09:13:55.139827+00:00"
-    },
-    {
       "tweet": "The Bears are waiting until late spring to pick a stadium site. Chicago sports fans are a different breed of patient",
       "original_url": "https://www.espn.com/nfl/story/_/id/48371358/bears-ceo-stadium-decision-likely-late-spring-early-summer",
       "buzz_score": 70,
@@ -231,6 +176,39 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-01T21:56:47.155494+00:00"
+    },
+    {
+      "tweet": "Stephen Colbert joked that Trump gave an intelligent speech, then said it was April Fools. Zero surprise there.",
+      "original_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/stephen-colbert-donald-trump-speech-april-fools-1235540562/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Stephen Colbert Jokes That Trump Gave a ‘Concise, Intelligent’ Speech: ‘April Fools!’",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-04-02T09:13:55.139847+00:00"
+    },
+    {
+      "tweet": "Everyone’s still asking if BGP is safe yet. At this point, why would we expect it to be?",
+      "original_url": "https://isbgpsafeyet.com/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Is BGP safe yet?",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-02T09:13:55.139834+00:00"
+    },
+    {
+      "tweet": "It’s been a year of Trump’s tariffs and they aren't exactly doing what was promised. Turns out, it's just taxes.",
+      "original_url": "https://www.npr.org/2026/04/02/nx-s1-5766424/trump-tariffs-inflation-economy",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Have Trump's tariffs worked? This is where things stand a year after 'Liberation Day'",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-02T09:13:55.139827+00:00"
     },
     {
       "tweet": "BBC already found someone to replace Scott Mills on that Race Across the World spin-off. That was fast.",
@@ -332,6 +310,28 @@
       "added_at": "2026-04-02T09:13:55.139860+00:00"
     },
     {
+      "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
+      "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app",
+      "buzz_score": 75,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Federal judge rules DHS illegally stripped immigration status from thousands who entered through CBP One App",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-01T16:44:00.716207+00:00"
+    },
+    {
+      "tweet": "An always-online game got ditched by its server provider for AI and had to patch in offline mode overnight. Talk about a pivot",
+      "original_url": "https://kotaku.com/stormgate-rts-patch-offline-mode-after-server-provider-ditches-them-for-ai-2000683998",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Always-Online RTS Has To Quickly Patch In Offline Mode After Server Provider Ditches Them For AI",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-01T21:56:47.155492+00:00"
+    },
+    {
       "tweet": "Anthony Barry went from playing for Accrington to coaching under Tuchel in ten years. Talk about a glow up.",
       "original_url": "https://www.bbc.com/sport/football/articles/ckge7014m5yo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 72,
@@ -365,50 +365,6 @@
       "added_at": "2026-04-02T07:00:05.407801+00:00"
     },
     {
-      "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
-      "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Federal judge rules DHS illegally stripped immigration status from thousands who entered through CBP One App",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-01T16:44:00.716207+00:00"
-    },
-    {
-      "tweet": "An always-online game got ditched by its server provider for AI and had to patch in offline mode overnight. Talk about a pivot",
-      "original_url": "https://kotaku.com/stormgate-rts-patch-offline-mode-after-server-provider-ditches-them-for-ai-2000683998",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Always-Online RTS Has To Quickly Patch In Offline Mode After Server Provider Ditches Them For AI",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-01T21:56:47.155492+00:00"
-    },
-    {
-      "tweet": "Nike stock just tanked 20 percent because they tried to change their strategy. Rough.",
-      "original_url": "https://hypebeast.com/2026/4/nike-stock-tanks-as-swoosh-reverses-dtc-strategy-pivot",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Nike Stock Tanks as Brand Reverses DTC Strategy Pivot",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-02T04:02:05.967137+00:00"
-    },
-    {
-      "tweet": "New Zealand is basically ghosting the Cook Islands over their China deal. Geopolitics is just high school drama with budgets.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/02/new-zealand-cook-islands-defense",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "New Zealand signs defence pact with Cook Islands after quarrel over China deal",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-02T04:02:05.967133+00:00"
-    },
-    {
       "tweet": "Iran is denying they want a truce while the whole thing is spiraling. Why would they stop now?",
       "original_url": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss",
       "buzz_score": 85,
@@ -431,37 +387,26 @@
       "added_at": "2026-04-01T16:44:00.716209+00:00"
     },
     {
-      "tweet": "Charlie Day ranked Luigi Mangione as his second favorite Luigi. Imagine being the guy who didn't even make the top spot.",
-      "original_url": "https://kotaku.com/super-mario-galaxy-movies-charlie-day-ranks-luigi-mangione-as-his-2nd-favorite-luigi-2000684046",
-      "buzz_score": 75,
+      "tweet": "Nike stock just tanked 20 percent because they tried to change their strategy. Rough.",
+      "original_url": "https://hypebeast.com/2026/4/nike-stock-tanks-as-swoosh-reverses-dtc-strategy-pivot",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Super Mario Galaxy Movie’s Charlie Day Ranks Luigi Mangione As His 2nd Favorite Luigi",
-      "source": "Kotaku",
+      "original_title": "Nike Stock Tanks as Brand Reverses DTC Strategy Pivot",
+      "source": "Hypebeast",
       "category": "entertainment",
-      "added_at": "2026-04-02T04:02:05.967150+00:00"
+      "added_at": "2026-04-02T04:02:05.967137+00:00"
     },
     {
-      "tweet": "Brandy is narrating her own memoir. We all love hearing our own voice, don't we.",
-      "original_url": "https://www.rollingstone.com/product-recommendations/books/brandy-phases-memoir-read-book-stream-audiobook-free-online-1235540392/",
-      "buzz_score": 75,
+      "tweet": "New Zealand is basically ghosting the Cook Islands over their China deal. Geopolitics is just high school drama with budgets.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/02/new-zealand-cook-islands-defense",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "The ‘Vocal Bible’ Narrates Her Own Audiobook: Listen to Brandy’s ‘Phases’ Memoir Online for Free",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-04-02T04:02:05.967145+00:00"
-    },
-    {
-      "tweet": "Galaxy Girl just won The Masked Singer. We're all just watching people in giant costumes act like they're in a life-changing talent show.",
-      "original_url": "https://www.billboard.com/culture/tv-film/masked-singer-winner-season-14-galaxy-girl-exit-interview-1236212696/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Galaxy Girl Blasts Into Winner’s Circle on ‘Masked Singer’ Season 14: ‘I Truly Was Having the Time of My Life’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-02T04:02:05.967126+00:00"
+      "original_title": "New Zealand signs defence pact with Cook Islands after quarrel over China deal",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-02T04:02:05.967133+00:00"
     },
     {
       "tweet": "Drift just got hit for hundreds of millions in that hack and they're just closing the doors. Another day in crypto.",
@@ -574,15 +519,37 @@
       "added_at": "2026-04-01T10:52:49.160388+00:00"
     },
     {
-      "tweet": "They're using AI to optimize concrete production now. We're literally outsourcing thinking to the sidewalk.",
-      "original_url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
-      "buzz_score": 70,
+      "tweet": "Charlie Day ranked Luigi Mangione as his second favorite Luigi. Imagine being the guy who didn't even make the top spot.",
+      "original_url": "https://kotaku.com/super-mario-galaxy-movies-charlie-day-ranks-luigi-mangione-as-his-2nd-favorite-luigi-2000684046",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "AI for American-produced cement and concrete",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-02T04:02:05.967142+00:00"
+      "original_title": "Super Mario Galaxy Movie’s Charlie Day Ranks Luigi Mangione As His 2nd Favorite Luigi",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-02T04:02:05.967150+00:00"
+    },
+    {
+      "tweet": "Brandy is narrating her own memoir. We all love hearing our own voice, don't we.",
+      "original_url": "https://www.rollingstone.com/product-recommendations/books/brandy-phases-memoir-read-book-stream-audiobook-free-online-1235540392/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The ‘Vocal Bible’ Narrates Her Own Audiobook: Listen to Brandy’s ‘Phases’ Memoir Online for Free",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-04-02T04:02:05.967145+00:00"
+    },
+    {
+      "tweet": "Galaxy Girl just won The Masked Singer. We're all just watching people in giant costumes act like they're in a life-changing talent show.",
+      "original_url": "https://www.billboard.com/culture/tv-film/masked-singer-winner-season-14-galaxy-girl-exit-interview-1236212696/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Galaxy Girl Blasts Into Winner’s Circle on ‘Masked Singer’ Season 14: ‘I Truly Was Having the Time of My Life’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-02T04:02:05.967126+00:00"
     },
     {
       "tweet": "US intel says Iran is skeptical about diplomacy again. Can we ever just have a normal week",
@@ -706,6 +673,17 @@
       "added_at": "2026-04-01T10:52:49.160378+00:00"
     },
     {
+      "tweet": "They're using AI to optimize concrete production now. We're literally outsourcing thinking to the sidewalk.",
+      "original_url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "AI for American-produced cement and concrete",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-02T04:02:05.967142+00:00"
+    },
+    {
       "tweet": "People are panicking over Pulisic’s goal drought with the USMNT. Do we even remember how to score anymore.",
       "original_url": "https://www.espn.com/soccer/story/_/id/48363170/should-usmnt-concerned-pulisics-goal-drought",
       "buzz_score": 72,
@@ -772,28 +750,6 @@
       "added_at": "2026-04-02T09:13:55.139848+00:00"
     },
     {
-      "tweet": "A French court just refused to extradite Ben Ali’s daughter because they don't trust the trial process. Are we even shocked?",
-      "original_url": "https://www.aljazeera.com/news/2026/4/2/french-court-denies-extradition-of-ex-tunisian-presidents-daughter?traffic_source=rss",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "French court denies extradition of ex-Tunisian President Ben Ali’s daughter",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-02T09:13:55.139864+00:00"
-    },
-    {
-      "tweet": "Cannes is doubling down on AI for its 2026 program. They’re really just gonna replace everyone.",
-      "original_url": "https://variety.com/2026/film/global/cannes-marche-du-film-immersive-creator-ai-2026-program-1236704795/",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Cannes’ Marché du Film Reinforces Focus on Creators, AI, Innovation and Immersive With 2026 Program",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-02T09:13:55.139856+00:00"
-    },
-    {
       "tweet": "Reading about Pokémon Mega Evolutions in 2026. Sometimes you just need to turn your brain off",
       "original_url": "https://kotaku.com/pokemon-legends-z-a-mega-evolutions-abilities-champions-2000683952",
       "buzz_score": 75,
@@ -814,6 +770,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-01T16:44:00.716201+00:00"
+    },
+    {
+      "tweet": "A French court just refused to extradite Ben Ali’s daughter because they don't trust the trial process. Are we even shocked?",
+      "original_url": "https://www.aljazeera.com/news/2026/4/2/french-court-denies-extradition-of-ex-tunisian-presidents-daughter?traffic_source=rss",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "French court denies extradition of ex-Tunisian President Ben Ali’s daughter",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-02T09:13:55.139864+00:00"
+    },
+    {
+      "tweet": "Cannes is doubling down on AI for its 2026 program. They’re really just gonna replace everyone.",
+      "original_url": "https://variety.com/2026/film/global/cannes-marche-du-film-immersive-creator-ai-2026-program-1236704795/",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Cannes’ Marché du Film Reinforces Focus on Creators, AI, Innovation and Immersive With 2026 Program",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-02T09:13:55.139856+00:00"
     },
     {
       "tweet": "Tsunami alerts going off in Indonesia after that 7.4 quake. Hope everyone out there is safe.",
@@ -847,17 +825,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-02T01:14:23.378435+00:00"
-    },
-    {
-      "tweet": "Scotland just made the curling play-offs. Honestly, respect the hustle.",
-      "original_url": "https://www.bbc.com/sport/articles/ce8lj82012yo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Scotland qualify for World Curling play-offs",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-02T04:02:05.967131+00:00"
     },
     {
       "tweet": "Axios getting compromised on NPM is wild. Can't trust a single package these days.",
@@ -968,6 +935,17 @@
       "source": "Hypebeast",
       "category": "entertainment",
       "added_at": "2026-04-01T08:29:51.989778+00:00"
+    },
+    {
+      "tweet": "Scotland just made the curling play-offs. Honestly, respect the hustle.",
+      "original_url": "https://www.bbc.com/sport/articles/ce8lj82012yo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Scotland qualify for World Curling play-offs",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-02T04:02:05.967131+00:00"
     },
     {
       "tweet": "Anthony Bourdain really knew how to live. Sometimes I think we're all just looking for the same thing he was.",
@@ -2117,7 +2095,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 57,
+    "total_posted": 59,
     "total_collected": 158
   }
 }
