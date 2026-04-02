@@ -2,28 +2,6 @@
   "last_collected": "2026-04-02T07:00:05.407821+00:00",
   "queue": [
     {
-      "tweet": "BTS has 11 songs in the global top 100 right now. Those guys don't miss.",
-      "original_url": "https://www.billboard.com/music/chart-beat/bts-youtube-global-us-charts-1236213071/",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "BTS Dominates YouTube’s Global, U.S. Charts",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-02T07:00:05.407790+00:00"
-    },
-    {
-      "tweet": "The US just lifted sanctions on Delcy Rodríguez. Wait, so are we cool now?",
-      "original_url": "https://www.npr.org/2026/04/02/g-s1-116142/u-s-lift-sanctions-venezuela-president-delcy-rodriguez",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "U.S. lifts sanctions on Venezuela's acting President Delcy Rodríguez",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-02T07:00:05.407812+00:00"
-    },
-    {
       "tweet": "NASA is launching a flyby while China is out there going hard on the moon. We’re officially back in the race.",
       "original_url": "https://www.nytimes.com/2026/04/02/world/asia/china-space-moon-nasa-artemis.html",
       "buzz_score": 85,
@@ -123,17 +101,6 @@
       "added_at": "2026-04-02T07:00:05.407806+00:00"
     },
     {
-      "tweet": "A 7.4 magnitude earthquake hit Indonesia today. Stay safe out there.",
-      "original_url": "https://www.bbc.com/news/articles/cn53krrrr24o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Magnitude 7.4 earthquake hits off Indonesia, killing one",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-02T07:00:05.407814+00:00"
-    },
-    {
       "tweet": "Explosions at a Burundi ammunition depot killed 13 people. That's brutal.",
       "original_url": "https://www.bbc.com/news/articles/c5y7x7qre0zo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -143,6 +110,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-02T07:00:05.407816+00:00"
+    },
+    {
+      "tweet": "A 7.4 magnitude earthquake hit Indonesia today. Stay safe out there.",
+      "original_url": "https://www.bbc.com/news/articles/cn53krrrr24o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Magnitude 7.4 earthquake hits off Indonesia, killing one",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-02T07:00:05.407814+00:00"
     },
     {
       "tweet": "CERN just dropped superconducting go-karts. Absolute chaos.",
@@ -156,17 +134,6 @@
       "added_at": "2026-04-02T07:00:05.407785+00:00"
     },
     {
-      "tweet": "Anthony Barry went from playing for Accrington to coaching under Tuchel in ten years. Talk about a glow up.",
-      "original_url": "https://www.bbc.com/sport/football/articles/ckge7014m5yo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 72,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The remarkable rise of the only English coach in Tuchel's team",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-02T07:00:05.407797+00:00"
-    },
-    {
       "tweet": "CERN is actually out here building superconducting karts. We’re one physics experiment away from real life Mario Kart.",
       "original_url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
       "buzz_score": 75,
@@ -176,6 +143,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-01T14:17:58.856553+00:00"
+    },
+    {
+      "tweet": "Anthony Barry went from playing for Accrington to coaching under Tuchel in ten years. Talk about a glow up.",
+      "original_url": "https://www.bbc.com/sport/football/articles/ckge7014m5yo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 72,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The remarkable rise of the only English coach in Tuchel's team",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-02T07:00:05.407797+00:00"
     },
     {
       "tweet": "Science just confirmed the Moon landings again for the millionth time. We really love debating things that already happened.",
@@ -332,17 +310,6 @@
       "added_at": "2026-04-02T01:14:23.378419+00:00"
     },
     {
-      "tweet": "An always-online game got ditched by its server provider for AI and had to patch in offline mode overnight. Talk about a pivot",
-      "original_url": "https://kotaku.com/stormgate-rts-patch-offline-mode-after-server-provider-ditches-them-for-ai-2000683998",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Always-Online RTS Has To Quickly Patch In Offline Mode After Server Provider Ditches Them For AI",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-01T21:56:47.155492+00:00"
-    },
-    {
       "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
       "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app",
       "buzz_score": 75,
@@ -352,6 +319,17 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-04-01T16:44:00.716207+00:00"
+    },
+    {
+      "tweet": "An always-online game got ditched by its server provider for AI and had to patch in offline mode overnight. Talk about a pivot",
+      "original_url": "https://kotaku.com/stormgate-rts-patch-offline-mode-after-server-provider-ditches-them-for-ai-2000683998",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Always-Online RTS Has To Quickly Patch In Offline Mode After Server Provider Ditches Them For AI",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-01T21:56:47.155492+00:00"
     },
     {
       "tweet": "Brazil is putting an Argentine tourist on trial for racism over a gesture. Is this really how we're handling tourists now",
@@ -640,6 +618,28 @@
       "added_at": "2026-04-01T10:52:49.160381+00:00"
     },
     {
+      "tweet": "Reading about Pokémon Mega Evolutions in 2026. Sometimes you just need to turn your brain off",
+      "original_url": "https://kotaku.com/pokemon-legends-z-a-mega-evolutions-abilities-champions-2000683952",
+      "buzz_score": 75,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Every Ability The Pokémon Legends: Z-A Mega Evolutions Have In Champions",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-01T16:44:00.716214+00:00"
+    },
+    {
+      "tweet": "Germany is still arguing over whether legalizing cannabis was a success or a total flop. Can we ever just agree on anything",
+      "original_url": "https://www.theguardian.com/society/2026/apr/01/report-germany-cannabis-legalisation-fails-settle-debate",
+      "buzz_score": 75,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Success or ‘total flop’? Report on Germany’s cannabis legalisation fails to settle debate",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-01T16:44:00.716201+00:00"
+    },
+    {
       "tweet": "Scotland just made the curling play-offs. Honestly, respect the hustle.",
       "original_url": "https://www.bbc.com/sport/articles/ce8lj82012yo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 70,
@@ -682,28 +682,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-02T01:14:23.378435+00:00"
-    },
-    {
-      "tweet": "Reading about Pokémon Mega Evolutions in 2026. Sometimes you just need to turn your brain off",
-      "original_url": "https://kotaku.com/pokemon-legends-z-a-mega-evolutions-abilities-champions-2000683952",
-      "buzz_score": 75,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "Every Ability The Pokémon Legends: Z-A Mega Evolutions Have In Champions",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-01T16:44:00.716214+00:00"
-    },
-    {
-      "tweet": "Germany is still arguing over whether legalizing cannabis was a success or a total flop. Can we ever just agree on anything",
-      "original_url": "https://www.theguardian.com/society/2026/apr/01/report-germany-cannabis-legalisation-fails-settle-debate",
-      "buzz_score": 75,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "Success or ‘total flop’? Report on Germany’s cannabis legalisation fails to settle debate",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-01T16:44:00.716201+00:00"
     },
     {
       "tweet": "Axios getting compromised on NPM is wild. Can't trust a single package these days.",
@@ -882,6 +860,28 @@
       "added_at": "2026-04-02T01:14:23.378447+00:00"
     },
     {
+      "tweet": "French prosecutors linked that foiled attack on an American bank to a pro-Iranian group. It’s getting scary out there",
+      "original_url": "https://www.nytimes.com/2026/04/01/world/europe/bank-of-america-attack-pro-iranian-group.html",
+      "buzz_score": 70,
+      "buzz_score2": 82,
+      "rewrite_count": 0,
+      "original_title": "French Prosecutors Link Foiled Attack on American Bank to a Pro-Iranian Group",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-01T16:44:00.716226+00:00"
+    },
+    {
+      "tweet": "The Fray is out here reflecting on pissing off Justin Timberlake back in 2006. Feels like a lifetime ago",
+      "original_url": "https://www.billboard.com/music/features/the-fray-greys-anatomy-how-to-save-a-life-2006-1236212600/",
+      "buzz_score": 70,
+      "buzz_score2": 82,
+      "rewrite_count": 0,
+      "original_title": "The Fray Reflects on Breakout Hits ‘Over My Head’ and ‘How to Save a Life,’ Watching ‘Grey’s Anatomy’ & Pissing Off Justin Timberlake",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-01T16:44:00.716218+00:00"
+    },
+    {
       "tweet": "Bill Self is staying at Kansas through 2027. He's not going anywhere.",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48372657/bill-self-return-kansas-jayhawks-men-basketball-coach",
       "buzz_score": 70,
@@ -913,28 +913,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-02T01:14:23.378432+00:00"
-    },
-    {
-      "tweet": "French prosecutors linked that foiled attack on an American bank to a pro-Iranian group. It’s getting scary out there",
-      "original_url": "https://www.nytimes.com/2026/04/01/world/europe/bank-of-america-attack-pro-iranian-group.html",
-      "buzz_score": 70,
-      "buzz_score2": 82,
-      "rewrite_count": 0,
-      "original_title": "French Prosecutors Link Foiled Attack on American Bank to a Pro-Iranian Group",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-01T16:44:00.716226+00:00"
-    },
-    {
-      "tweet": "The Fray is out here reflecting on pissing off Justin Timberlake back in 2006. Feels like a lifetime ago",
-      "original_url": "https://www.billboard.com/music/features/the-fray-greys-anatomy-how-to-save-a-life-2006-1236212600/",
-      "buzz_score": 70,
-      "buzz_score2": 82,
-      "rewrite_count": 0,
-      "original_title": "The Fray Reflects on Breakout Hits ‘Over My Head’ and ‘How to Save a Life,’ Watching ‘Grey’s Anatomy’ & Pissing Off Justin Timberlake",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-01T16:44:00.716218+00:00"
     },
     {
       "tweet": "Took a quiz on state capitals and realized I haven't used my brain for geography since middle school",
@@ -1963,7 +1941,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 47,
+    "total_posted": 49,
     "total_collected": 134
   }
 }
