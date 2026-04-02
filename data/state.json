@@ -2,28 +2,6 @@
   "last_collected": "2026-04-01T21:56:47.155517+00:00",
   "queue": [
     {
-      "tweet": "Huda Beauty dropped this matcha setting powder that apparently fixes everything. We'll buy anything green at this point",
-      "original_url": "https://www.bustle.com/beauty/huda-beauty-matcha-milk-easy-bake-setting-powder-review",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Huda Beauty's Matcha Milk Setting Powder Is A Color-Correcting MVP",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-04-01T21:56:47.155499+00:00"
-    },
-    {
-      "tweet": "This Super Mario Bros speedrunner claims he's being sabotaged. Imagine living that level of stress",
-      "original_url": "https://kotaku.com/super-mario-bros-speedrunner-niftski-speedrun-tas-input-world-record-2000684012",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Super Mario Bros. Speedrunner Claims He’s Being Sabotaged",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-01T21:56:47.155490+00:00"
-    },
-    {
       "tweet": "The Bears are waiting until late spring to pick a stadium site. Chicago sports fans are a different breed of patient",
       "original_url": "https://www.espn.com/nfl/story/_/id/48371358/bears-ceo-stadium-decision-likely-late-spring-early-summer",
       "buzz_score": 70,
@@ -299,28 +277,6 @@
       "added_at": "2026-04-01T14:17:58.856565+00:00"
     },
     {
-      "tweet": "Reading about Pokémon Mega Evolutions in 2026. Sometimes you just need to turn your brain off",
-      "original_url": "https://kotaku.com/pokemon-legends-z-a-mega-evolutions-abilities-champions-2000683952",
-      "buzz_score": 75,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "Every Ability The Pokémon Legends: Z-A Mega Evolutions Have In Champions",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-01T16:44:00.716214+00:00"
-    },
-    {
-      "tweet": "Germany is still arguing over whether legalizing cannabis was a success or a total flop. Can we ever just agree on anything",
-      "original_url": "https://www.theguardian.com/society/2026/apr/01/report-germany-cannabis-legalisation-fails-settle-debate",
-      "buzz_score": 75,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "Success or ‘total flop’? Report on Germany’s cannabis legalisation fails to settle debate",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-01T16:44:00.716201+00:00"
-    },
-    {
       "tweet": "Australia is pledging to protect everyone amid the fuel crisis. With what fuel.",
       "original_url": "https://www.theguardian.com/australia-news/live/2026/apr/01/australian-politics-live-cost-of-living-fuel-crisis-excise-inflation-anthony-albanese-jim-chalmers-budget-health-insurance-premiums-ntwnfb",
       "buzz_score": 75,
@@ -363,6 +319,28 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-01T10:52:49.160386+00:00"
+    },
+    {
+      "tweet": "Reading about Pokémon Mega Evolutions in 2026. Sometimes you just need to turn your brain off",
+      "original_url": "https://kotaku.com/pokemon-legends-z-a-mega-evolutions-abilities-champions-2000683952",
+      "buzz_score": 75,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Every Ability The Pokémon Legends: Z-A Mega Evolutions Have In Champions",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-01T16:44:00.716214+00:00"
+    },
+    {
+      "tweet": "Germany is still arguing over whether legalizing cannabis was a success or a total flop. Can we ever just agree on anything",
+      "original_url": "https://www.theguardian.com/society/2026/apr/01/report-germany-cannabis-legalisation-fails-settle-debate",
+      "buzz_score": 75,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Success or ‘total flop’? Report on Germany’s cannabis legalisation fails to settle debate",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-01T16:44:00.716201+00:00"
     },
     {
       "tweet": "Australia just passed a bill unlocking orphan works. Pretty weird.",
@@ -1567,7 +1545,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 37,
+    "total_posted": 39,
     "total_collected": 88
   }
 }
