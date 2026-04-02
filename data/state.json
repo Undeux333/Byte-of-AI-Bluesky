@@ -2,28 +2,6 @@
   "last_collected": "2026-04-02T04:02:05.967155+00:00",
   "queue": [
     {
-      "tweet": "Zelenskyy offered an Easter truce and Russia answered with a drone strike. Sometimes you just have to stop asking.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/02/ukraine-war-briefing-russia-responds-zelenskyy-easter-truce-drone-attack",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Ukraine war briefing: Russia responds to Zelenskyy’s Easter truce offer with drone attack",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-02T04:02:05.967135+00:00"
-    },
-    {
-      "tweet": "Six options for LeBron this summer. Can he just stay in one place for five minutes?",
-      "original_url": "https://www.espn.com/nba/story/_/id/48323320/next-lebron-nba-insiders-lakers-warriors-cavs-free-agency-options",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "👀 What's next for LeBron? Six offseason options",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-02T04:02:05.967129+00:00"
-    },
-    {
       "tweet": "Artemis II is finally in orbit. We're really doing this again after 50 years. About time.",
       "original_url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -123,6 +101,17 @@
       "added_at": "2026-04-02T04:02:05.967133+00:00"
     },
     {
+      "tweet": "CERN is actually out here building superconducting karts. We’re one physics experiment away from real life Mario Kart.",
+      "original_url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "CERN levels up with new superconducting karts",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-01T14:17:58.856553+00:00"
+    },
+    {
       "tweet": "Charlie Day ranked Luigi Mangione as his second favorite Luigi. Imagine being the guy who didn't even make the top spot.",
       "original_url": "https://kotaku.com/super-mario-galaxy-movies-charlie-day-ranks-luigi-mangione-as-his-2nd-favorite-luigi-2000684046",
       "buzz_score": 75,
@@ -167,17 +156,6 @@
       "added_at": "2026-04-02T01:14:23.378429+00:00"
     },
     {
-      "tweet": "CERN is actually out here building superconducting karts. We’re one physics experiment away from real life Mario Kart.",
-      "original_url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "CERN levels up with new superconducting karts",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-01T14:17:58.856553+00:00"
-    },
-    {
       "tweet": "They're using AI to optimize concrete production now. We're literally outsourcing thinking to the sidewalk.",
       "original_url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
       "buzz_score": 70,
@@ -209,6 +187,28 @@
       "source": "Kotaku",
       "category": "entertainment",
       "added_at": "2026-04-01T21:56:47.155492+00:00"
+    },
+    {
+      "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
+      "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app",
+      "buzz_score": 75,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Federal judge rules DHS illegally stripped immigration status from thousands who entered through CBP One App",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-01T16:44:00.716207+00:00"
+    },
+    {
+      "tweet": "Brazil is putting an Argentine tourist on trial for racism over a gesture. Is this really how we're handling tourists now",
+      "original_url": "https://www.nytimes.com/2026/04/01/world/americas/brazil-argentina-tourist-racism-trial.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "When Racism Is a Crime: Brazil Puts a Tourist on Trial for Word and Gesture",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-01T16:44:00.716209+00:00"
     },
     {
       "tweet": "US intel says Iran is skeptical about diplomacy again. Can we ever just have a normal week",
@@ -244,17 +244,6 @@
       "added_at": "2026-04-01T21:56:47.155480+00:00"
     },
     {
-      "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
-      "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Federal judge rules DHS illegally stripped immigration status from thousands who entered through CBP One App",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-01T16:44:00.716207+00:00"
-    },
-    {
       "tweet": "Shinji Mikami’s new studio is finally teasing their first horror game. We're so back",
       "original_url": "https://www.polygon.com/shinji-mikami-unbound-acquired-shift-up-stellar-blade/",
       "buzz_score": 80,
@@ -275,50 +264,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-01T19:43:55.853849+00:00"
-    },
-    {
-      "tweet": "Brazil is putting an Argentine tourist on trial for racism over a gesture. Is this really how we're handling tourists now",
-      "original_url": "https://www.nytimes.com/2026/04/01/world/americas/brazil-argentina-tourist-racism-trial.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "When Racism Is a Crime: Brazil Puts a Tourist on Trial for Word and Gesture",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-01T16:44:00.716209+00:00"
-    },
-    {
-      "tweet": "Donnarumma is crying about Italy missing the 2026 World Cup and vowing to fix it. That's a lot of pressure",
-      "original_url": "https://www.bbc.com/sport/football/articles/c2ev313pld3o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Captain Donnarumma vows to restore Italy after heartbreak",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-01T19:43:55.853860+00:00"
-    },
-    {
-      "tweet": "The NFLPA is finally demanding trained, pro refs for player safety. It's wild that we even had to ask for this",
-      "original_url": "https://www.espn.com/nfl/story/_/id/48370278/nflpa-supports-referees-cba-negotiations-nfl",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "NFLPA: Player safety requires trained, pro refs",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-01T19:43:55.853853+00:00"
-    },
-    {
-      "tweet": "NASA is doing a live broadcast for the Artemis II launch and watching stuff actually leave the planet is wild. We're really going back",
-      "original_url": "https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "NASA Artemis II moon mission live launch broadcast",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-01T19:43:55.853845+00:00"
     },
     {
       "tweet": "There is a literal propaganda war happening on the National Mall right now between Trump and some statues. We are so unserious",
@@ -398,6 +343,39 @@
       "added_at": "2026-04-01T10:52:49.160388+00:00"
     },
     {
+      "tweet": "Donnarumma is crying about Italy missing the 2026 World Cup and vowing to fix it. That's a lot of pressure",
+      "original_url": "https://www.bbc.com/sport/football/articles/c2ev313pld3o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Captain Donnarumma vows to restore Italy after heartbreak",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-01T19:43:55.853860+00:00"
+    },
+    {
+      "tweet": "The NFLPA is finally demanding trained, pro refs for player safety. It's wild that we even had to ask for this",
+      "original_url": "https://www.espn.com/nfl/story/_/id/48370278/nflpa-supports-referees-cba-negotiations-nfl",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "NFLPA: Player safety requires trained, pro refs",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-01T19:43:55.853853+00:00"
+    },
+    {
+      "tweet": "NASA is doing a live broadcast for the Artemis II launch and watching stuff actually leave the planet is wild. We're really going back",
+      "original_url": "https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "NASA Artemis II moon mission live launch broadcast",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-01T19:43:55.853845+00:00"
+    },
+    {
       "tweet": "A top Queensland judge is calling out the years-long delays in his own courts. Glad someone noticed.",
       "original_url": "https://www.theguardian.com/australia-news/2026/apr/01/senior-queensland-judge-jim-henry-criticises-criminal-trial-delays",
       "buzz_score": 75,
@@ -451,50 +429,6 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-01T10:52:49.160378+00:00"
-    },
-    {
-      "tweet": "Scotland just made the curling play-offs. Honestly, respect the hustle.",
-      "original_url": "https://www.bbc.com/sport/articles/ce8lj82012yo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Scotland qualify for World Curling play-offs",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-02T04:02:05.967131+00:00"
-    },
-    {
-      "tweet": "Tsunami alerts going off in Indonesia after that 7.4 quake. Hope everyone out there is safe.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/02/magnitude-78-earthquake-strikes-in-indonesia-sparking-tsunami-alert",
-      "buzz_score": 80,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Magnitude 7.4 earthquake strikes in Indonesia, sparking tsunami alert",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-02T01:14:23.378441+00:00"
-    },
-    {
-      "tweet": "Magnitude 7.4 earthquake just hit off Indonesia. That's terrifying.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/1/magnitude-7-4-quake-hits-off-indonesias-ternate-tsunami-warning-triggered?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Magnitude 7.4 quake hits off Indonesia’s Ternate, tsunami warning triggered",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-02T01:14:23.378439+00:00"
-    },
-    {
-      "tweet": "Puka Nacua is in rehab. Hope he's good, man.",
-      "original_url": "https://www.espn.com/nfl/story/_/id/48373078/los-angeles-rams-wide-receiver-puka-nacua-rehab-attorney-says",
-      "buzz_score": 80,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Rams receiver Nacua is in rehab, attorney says",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-02T01:14:23.378435+00:00"
     },
     {
       "tweet": "People are panicking over Pulisic’s goal drought with the USMNT. Do we even remember how to score anymore.",
@@ -552,6 +486,50 @@
       "added_at": "2026-04-01T10:52:49.160381+00:00"
     },
     {
+      "tweet": "Scotland just made the curling play-offs. Honestly, respect the hustle.",
+      "original_url": "https://www.bbc.com/sport/articles/ce8lj82012yo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Scotland qualify for World Curling play-offs",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-02T04:02:05.967131+00:00"
+    },
+    {
+      "tweet": "Tsunami alerts going off in Indonesia after that 7.4 quake. Hope everyone out there is safe.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/02/magnitude-78-earthquake-strikes-in-indonesia-sparking-tsunami-alert",
+      "buzz_score": 80,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Magnitude 7.4 earthquake strikes in Indonesia, sparking tsunami alert",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-02T01:14:23.378441+00:00"
+    },
+    {
+      "tweet": "Magnitude 7.4 earthquake just hit off Indonesia. That's terrifying.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/1/magnitude-7-4-quake-hits-off-indonesias-ternate-tsunami-warning-triggered?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Magnitude 7.4 quake hits off Indonesia’s Ternate, tsunami warning triggered",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-02T01:14:23.378439+00:00"
+    },
+    {
+      "tweet": "Puka Nacua is in rehab. Hope he's good, man.",
+      "original_url": "https://www.espn.com/nfl/story/_/id/48373078/los-angeles-rams-wide-receiver-puka-nacua-rehab-attorney-says",
+      "buzz_score": 80,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Rams receiver Nacua is in rehab, attorney says",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-02T01:14:23.378435+00:00"
+    },
+    {
       "tweet": "Axios getting compromised on NPM is wild. Can't trust a single package these days.",
       "original_url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
       "buzz_score": 75,
@@ -596,17 +574,6 @@
       "added_at": "2026-04-02T01:14:23.378422+00:00"
     },
     {
-      "tweet": "Anthony Bourdain really knew how to live. Sometimes I think we're all just looking for the same thing he was.",
-      "original_url": "https://www.mentalfloss.com/food/legendary-dishes-anthony-bourdain-traveled-world-for?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "12 Legendary Dishes Anthony Bourdain Traveled the World for — From Rome to São Paulo",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-02T01:14:23.378424+00:00"
-    },
-    {
       "tweet": "Reading about Pokémon Mega Evolutions in 2026. Sometimes you just need to turn your brain off",
       "original_url": "https://kotaku.com/pokemon-legends-z-a-mega-evolutions-abilities-champions-2000683952",
       "buzz_score": 75,
@@ -629,15 +596,15 @@
       "added_at": "2026-04-01T16:44:00.716201+00:00"
     },
     {
-      "tweet": "Tuchel says Phil Foden isn't a lock for the 2026 World Cup squad. Like, who are we actually starting then",
-      "original_url": "https://www.bbc.com/sport/football/articles/cp86d7j2g7vo?at_medium=RSS&at_campaign=rss",
+      "tweet": "Anthony Bourdain really knew how to live. Sometimes I think we're all just looking for the same thing he was.",
+      "original_url": "https://www.mentalfloss.com/food/legendary-dishes-anthony-bourdain-traveled-world-for?utm_source=RSS",
       "buzz_score": 70,
       "buzz_score2": 85,
       "rewrite_count": 0,
-      "original_title": "Foden not guaranteed World Cup squad spot - Tuchel",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-01T19:43:55.853858+00:00"
+      "original_title": "12 Legendary Dishes Anthony Bourdain Traveled the World for — From Rome to São Paulo",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-02T01:14:23.378424+00:00"
     },
     {
       "tweet": "Kenyan tea farmers are struggling because of the war on Iran. It’s wild how everything is connected",
@@ -704,6 +671,17 @@
       "source": "Hypebeast",
       "category": "entertainment",
       "added_at": "2026-04-01T08:29:51.989778+00:00"
+    },
+    {
+      "tweet": "Tuchel says Phil Foden isn't a lock for the 2026 World Cup squad. Like, who are we actually starting then",
+      "original_url": "https://www.bbc.com/sport/football/articles/cp86d7j2g7vo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Foden not guaranteed World Cup squad spot - Tuchel",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-01T19:43:55.853858+00:00"
     },
     {
       "tweet": "Families are still packing into that Greek court for the train crash trial. Two years later and it still hurts to even read that",
@@ -1831,7 +1809,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 43,
+    "total_posted": 45,
     "total_collected": 118
   }
 }
