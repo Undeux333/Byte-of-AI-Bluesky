@@ -2,28 +2,6 @@
   "last_collected": "2026-04-02T19:34:52.043779+00:00",
   "queue": [
     {
-      "tweet": "Trevor Bauer is signing with the Long Island Ducks. Man really went from Cy Young to minor league baseball in a heartbeat. Rough.",
-      "original_url": "https://www.espn.com/mlb/story/_/id/48378454/trevor-bauer-signs-long-island-ducks-us-return",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Bauer returns to U.S. with minor league Ducks",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-02T19:34:52.043754+00:00"
-    },
-    {
-      "tweet": "Guy Fieri and Gordon Ramsay actually agreeing on the best pizza spots is wild. It’s that thing where you realize your taste is just someone else’s paycheck. Valid.",
-      "original_url": "https://www.mentalfloss.com/food/best-pizza-according-celebrity-chefs?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Best Pizza in the World, According to Guy Fieri, Gordon Ramsay, and 4 More Celebrity Chefs",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-02T19:34:52.043737+00:00"
-    },
-    {
       "tweet": "Someone in Quebec got busted for cutting maple syrup with cane sugar. That’s a betrayal of the highest order. Savage.",
       "original_url": "https://www.theguardian.com/world/2026/apr/02/maple-syrup-scam-quebec-canada",
       "buzz_score": 80,
@@ -57,6 +35,17 @@
       "added_at": "2026-04-02T14:16:24.594829+00:00"
     },
     {
+      "tweet": "Artemis II is finally in orbit. We're really doing this again after 50 years. About time.",
+      "original_url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Watch the moment Artemis II blasts into space",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-02T04:02:05.967118+00:00"
+    },
+    {
       "tweet": "The EPA is finally flagging microplastics in our drinking water. We’re basically just human-shaped plastic bags now.",
       "original_url": "https://www.npr.org/2026/04/02/nx-s1-5771155/epa-microplastics-pharmaceuticals-drinking-water",
       "buzz_score": 85,
@@ -68,15 +57,15 @@
       "added_at": "2026-04-02T19:34:52.043772+00:00"
     },
     {
-      "tweet": "Artemis II is finally in orbit. We're really doing this again after 50 years. About time.",
-      "original_url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
+      "tweet": "Vir Das is directing a found-footage horror movie. That's actually a wild pivot.",
+      "original_url": "https://variety.com/2026/film/news/vir-das-found-footage-horror-film-baara-number-1236704411/",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Watch the moment Artemis II blasts into space",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-02T04:02:05.967118+00:00"
+      "original_title": "Vir Das Sets Found-Footage Horror Film ‘Baara Number’ (EXCLUSIVE)",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-02T04:02:05.967147+00:00"
     },
     {
       "tweet": "Silas Demary Jr. is playing through an ankle sprain for UConn because it’s rings or nothing. That’s the kind of pressure that ruins your 40s.",
@@ -101,15 +90,15 @@
       "added_at": "2026-04-02T19:34:52.043748+00:00"
     },
     {
-      "tweet": "Vir Das is directing a found-footage horror movie. That's actually a wild pivot.",
-      "original_url": "https://variety.com/2026/film/news/vir-das-found-footage-horror-film-baara-number-1236704411/",
-      "buzz_score": 80,
+      "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/fuel-crisis-prices-fall-australia-albanese-gst",
+      "buzz_score": 78,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Vir Das Sets Found-Footage Horror Film ‘Baara Number’ (EXCLUSIVE)",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-02T04:02:05.967147+00:00"
+      "original_title": "Fuel prices to fall another 5.7 cents a litre after states and Canberra strike GST deal",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-02T07:00:05.407799+00:00"
     },
     {
       "tweet": "Italy's FA head quit after they missed their third straight World Cup. They just can't catch a break.",
@@ -134,15 +123,48 @@
       "added_at": "2026-04-02T16:35:16.423131+00:00"
     },
     {
-      "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/fuel-crisis-prices-fall-australia-albanese-gst",
-      "buzz_score": 78,
+      "tweet": "Louis Koo is the ambassador for Hong Kong Comic Con 2026. A legend.",
+      "original_url": "https://hypebeast.com/2026/4/hong-kong-comic-con-2026-louis-koo-ambassador-announcement",
+      "buzz_score": 75,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Fuel prices to fall another 5.7 cents a litre after states and Canberra strike GST deal",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-02T07:00:05.407799+00:00"
+      "original_title": "Louis Koo Named Ambassador for Hong Kong Comic Con 2026",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-02T07:00:05.407804+00:00"
+    },
+    {
+      "tweet": "Steam on Linux usage finally hit 5 percent. We really are just one driver update away from abandoning Windows forever.",
+      "original_url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Steam on Linux Use Skyrocketed Above 5% in March",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-02T07:00:05.407780+00:00"
+    },
+    {
+      "tweet": "Nothing is making smart glasses now. Because what we really need is more screens on our faces.",
+      "original_url": "https://hypebeast.com/2026/4/nothing-smart-glasses-target-2027-launch-with-ai-ecosystem",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Nothing Reportedly Developing Smart Glasses for 2027",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-02T04:02:05.967139+00:00"
+    },
+    {
+      "tweet": "CERN is actually out here building superconducting karts. We’re one physics experiment away from real life Mario Kart.",
+      "original_url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "CERN levels up with new superconducting karts",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-01T14:17:58.856553+00:00"
     },
     {
       "tweet": "The GCC is asking the UN to keep the waterways open amid the Iran tension. Do they think the UN is actually listening.",
@@ -200,72 +222,6 @@
       "added_at": "2026-04-02T16:35:16.423127+00:00"
     },
     {
-      "tweet": "Louis Koo is the ambassador for Hong Kong Comic Con 2026. A legend.",
-      "original_url": "https://hypebeast.com/2026/4/hong-kong-comic-con-2026-louis-koo-ambassador-announcement",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Louis Koo Named Ambassador for Hong Kong Comic Con 2026",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-02T07:00:05.407804+00:00"
-    },
-    {
-      "tweet": "Steam on Linux usage finally hit 5 percent. We really are just one driver update away from abandoning Windows forever.",
-      "original_url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Steam on Linux Use Skyrocketed Above 5% in March",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-02T07:00:05.407780+00:00"
-    },
-    {
-      "tweet": "Nothing is making smart glasses now. Because what we really need is more screens on our faces.",
-      "original_url": "https://hypebeast.com/2026/4/nothing-smart-glasses-target-2027-launch-with-ai-ecosystem",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Nothing Reportedly Developing Smart Glasses for 2027",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-02T04:02:05.967139+00:00"
-    },
-    {
-      "tweet": "CERN is actually out here building superconducting karts. We’re one physics experiment away from real life Mario Kart.",
-      "original_url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "CERN levels up with new superconducting karts",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-01T14:17:58.856553+00:00"
-    },
-    {
-      "tweet": "Some horse just won at 300-1 odds and tied the UK record. I’m never gonna bet again.",
-      "original_url": "https://www.bbc.com/sport/horse-racing/articles/c74vzqlex5wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "300-1 winner at Kelso equals UK longest odds record",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-02T16:35:16.423137+00:00"
-    },
-    {
-      "tweet": "Valve is still making us wait for a Steam Deck 2. How much longer are we gonna do this",
-      "original_url": "https://kotaku.com/steam-deck-2-rumor-mario-galaxy-box-office-2000684222",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "How Much Longer Will Valve Make Fans Wait For A Steam Deck 2?",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-02T16:35:16.423129+00:00"
-    },
-    {
       "tweet": "The Bears are waiting until late spring to pick a stadium site. Chicago sports fans are a different breed of patient",
       "original_url": "https://www.espn.com/nfl/story/_/id/48371358/bears-ceo-stadium-decision-likely-late-spring-early-summer",
       "buzz_score": 70,
@@ -310,6 +266,28 @@
       "added_at": "2026-04-01T21:56:47.155494+00:00"
     },
     {
+      "tweet": "Some horse just won at 300-1 odds and tied the UK record. I’m never gonna bet again.",
+      "original_url": "https://www.bbc.com/sport/horse-racing/articles/c74vzqlex5wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "300-1 winner at Kelso equals UK longest odds record",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-02T16:35:16.423137+00:00"
+    },
+    {
+      "tweet": "Valve is still making us wait for a Steam Deck 2. How much longer are we gonna do this",
+      "original_url": "https://kotaku.com/steam-deck-2-rumor-mario-galaxy-box-office-2000684222",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "How Much Longer Will Valve Make Fans Wait For A Steam Deck 2?",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-02T16:35:16.423129+00:00"
+    },
+    {
       "tweet": "Australia is banning Iranian tourists, and people are saying it goes against their values. It’s wild how quickly a country can make you feel like a guest.",
       "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/iranian-tourist-ban-doesnt-align-with-the-australian-values-hedieh-signed-up-to-as-a-citizen",
       "buzz_score": 80,
@@ -330,6 +308,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-02T14:16:24.594805+00:00"
+    },
+    {
+      "tweet": "Heavy bombing in Tehran this morning. It's just constant at this point.",
+      "original_url": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heavy-bombings-tehran",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Heavy bombings across Tehran jolt its war-weary residents.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-02T07:00:05.407808+00:00"
+    },
+    {
+      "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
+      "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app",
+      "buzz_score": 75,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Federal judge rules DHS illegally stripped immigration status from thousands who entered through CBP One App",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-01T16:44:00.716207+00:00"
     },
     {
       "tweet": "Found out Umbrella wasn't even written for Rihanna. It’s weird how some songs just feel like they belong to whoever got to them first.",
@@ -365,28 +365,6 @@
       "added_at": "2026-04-02T14:16:24.594811+00:00"
     },
     {
-      "tweet": "Heavy bombing in Tehran this morning. It's just constant at this point.",
-      "original_url": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heavy-bombings-tehran",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Heavy bombings across Tehran jolt its war-weary residents.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-02T07:00:05.407808+00:00"
-    },
-    {
-      "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
-      "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Federal judge rules DHS illegally stripped immigration status from thousands who entered through CBP One App",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-01T16:44:00.716207+00:00"
-    },
-    {
       "tweet": "An always-online game got ditched by its server provider for AI and had to patch in offline mode overnight. Talk about a pivot",
       "original_url": "https://kotaku.com/stormgate-rts-patch-offline-mode-after-server-provider-ditches-them-for-ai-2000683998",
       "buzz_score": 88,
@@ -396,6 +374,28 @@
       "source": "Kotaku",
       "category": "entertainment",
       "added_at": "2026-04-01T21:56:47.155492+00:00"
+    },
+    {
+      "tweet": "Iran is denying they want a truce while the whole thing is spiraling. Why would they stop now?",
+      "original_url": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iran war live: Trump to address nation; Tehran denies seeking ceasefire",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-02T01:14:23.378429+00:00"
+    },
+    {
+      "tweet": "Brazil is putting an Argentine tourist on trial for racism over a gesture. Is this really how we're handling tourists now",
+      "original_url": "https://www.nytimes.com/2026/04/01/world/americas/brazil-argentina-tourist-racism-trial.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "When Racism Is a Crime: Brazil Puts a Tourist on Trial for Word and Gesture",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-01T16:44:00.716209+00:00"
     },
     {
       "tweet": "Moira Deeming is back on the Liberal ticket one week after being dumped for someone else who then quit. Talk about a stable workplace",
@@ -453,28 +453,6 @@
       "added_at": "2026-04-02T14:16:24.594827+00:00"
     },
     {
-      "tweet": "Iran is denying they want a truce while the whole thing is spiraling. Why would they stop now?",
-      "original_url": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran war live: Trump to address nation; Tehran denies seeking ceasefire",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-02T01:14:23.378429+00:00"
-    },
-    {
-      "tweet": "Brazil is putting an Argentine tourist on trial for racism over a gesture. Is this really how we're handling tourists now",
-      "original_url": "https://www.nytimes.com/2026/04/01/world/americas/brazil-argentina-tourist-racism-trial.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "When Racism Is a Crime: Brazil Puts a Tourist on Trial for Word and Gesture",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-01T16:44:00.716209+00:00"
-    },
-    {
       "tweet": "OnePlus has a 70 dollar promo code out. We're all gonna buy stuff we don't need.",
       "original_url": "https://www.wired.com/story/oneplus-promo-code/",
       "buzz_score": 82,
@@ -484,17 +462,6 @@
       "source": "Wired",
       "category": "tech",
       "added_at": "2026-04-02T07:00:05.407806+00:00"
-    },
-    {
-      "tweet": "Tones And I and FISHER just dropped a track together. Two Aussies doing a favour, I guess. Absolute vibes",
-      "original_url": "https://www.billboard.com/music/music-news/tones-and-i-fisher-favour-stream-it-now-1236213140/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Tones And I, FISHER Join Forces And Do Us a ‘Favour’: Stream It Now",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-02T11:56:43.016285+00:00"
     },
     {
       "tweet": "Stephen Colbert joked that Trump gave an intelligent speech, then said it was April Fools. Zero surprise there.",
@@ -695,15 +662,15 @@
       "added_at": "2026-04-01T10:52:49.160388+00:00"
     },
     {
-      "tweet": "Legacy of Kain is trying to do that whole pixel art retro thing but it just feels off. Sometimes the vibe isn't something you can code",
-      "original_url": "https://www.polygon.com/retro-games-legacy-of-kain-ascendance/",
-      "buzz_score": 70,
+      "tweet": "Tones And I and FISHER just dropped a track together. Two Aussies doing a favour, I guess. Absolute vibes",
+      "original_url": "https://www.billboard.com/music/music-news/tones-and-i-fisher-favour-stream-it-now-1236213140/",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Legacy of Kain: Ascendance only looks the part of a retro game",
-      "source": "Polygon",
+      "original_title": "Tones And I, FISHER Join Forces And Do Us a ‘Favour’: Stream It Now",
+      "source": "Billboard",
       "category": "entertainment",
-      "added_at": "2026-04-02T11:56:43.016296+00:00"
+      "added_at": "2026-04-02T11:56:43.016285+00:00"
     },
     {
       "tweet": "BBC already found someone to replace Scott Mills on that Race Across the World spin-off. That was fast.",
@@ -893,37 +860,15 @@
       "added_at": "2026-04-01T10:52:49.160378+00:00"
     },
     {
-      "tweet": "Costa Rica is taking migrants for the US now. We're just outsourcing the border at this point",
-      "original_url": "https://www.theguardian.com/us-news/2026/apr/02/trump-costa-rica-deported-migrants-deal",
-      "buzz_score": 82,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Costa Rica strikes deal to accept third country deportees from US",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-02T16:35:16.423133+00:00"
-    },
-    {
-      "tweet": "Qwen3.6-Plus is out and it’s all about real world agents. At this point, I’m just waiting for it to pay my rent.",
-      "original_url": "https://qwen.ai/blog?id=qwen3.6",
+      "tweet": "Legacy of Kain is trying to do that whole pixel art retro thing but it just feels off. Sometimes the vibe isn't something you can code",
+      "original_url": "https://www.polygon.com/retro-games-legacy-of-kain-ascendance/",
       "buzz_score": 70,
-      "buzz_score2": 85,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Qwen3.6-Plus: Towards real world agents",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-02T19:34:52.043770+00:00"
-    },
-    {
-      "tweet": "Google just dropped Gemma 4 models like it’s no big deal. We’re basically just training our replacements now. Hilarious.",
-      "original_url": "https://deepmind.google/models/gemma/gemma-4/",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Google releases Gemma 4 open models",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-02T19:34:52.043768+00:00"
+      "original_title": "Legacy of Kain: Ascendance only looks the part of a retro game",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-02T11:56:43.016296+00:00"
     },
     {
       "tweet": "Anthony Barry went from playing for Accrington to coaching under Tuchel in ten years. Talk about a glow up.",
@@ -946,17 +891,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-01T10:52:49.160386+00:00"
-    },
-    {
-      "tweet": "An artist is taking a war crime case to Paris after a strike in Lebanon. People are tired of the silence.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/02/artist-files-war-case-in-paris-over-israeli-strike-that-killed-parents-in-lebanon",
-      "buzz_score": 80,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Artist files war crime case in Paris over Israeli strike that killed parents in Lebanon",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-02T16:35:16.423150+00:00"
     },
     {
       "tweet": "Arsenal and Real Madrid are both fighting over this Leverkusen striker. The bidding war is gonna be gross.",
@@ -1056,6 +990,50 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-01T10:52:49.160381+00:00"
+    },
+    {
+      "tweet": "Costa Rica is taking migrants for the US now. We're just outsourcing the border at this point",
+      "original_url": "https://www.theguardian.com/us-news/2026/apr/02/trump-costa-rica-deported-migrants-deal",
+      "buzz_score": 82,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Costa Rica strikes deal to accept third country deportees from US",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-02T16:35:16.423133+00:00"
+    },
+    {
+      "tweet": "Qwen3.6-Plus is out and it’s all about real world agents. At this point, I’m just waiting for it to pay my rent.",
+      "original_url": "https://qwen.ai/blog?id=qwen3.6",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Qwen3.6-Plus: Towards real world agents",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-02T19:34:52.043770+00:00"
+    },
+    {
+      "tweet": "Google just dropped Gemma 4 models like it’s no big deal. We’re basically just training our replacements now. Hilarious.",
+      "original_url": "https://deepmind.google/models/gemma/gemma-4/",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Google releases Gemma 4 open models",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-02T19:34:52.043768+00:00"
+    },
+    {
+      "tweet": "An artist is taking a war crime case to Paris after a strike in Lebanon. People are tired of the silence.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/02/artist-files-war-case-in-paris-over-israeli-strike-that-killed-parents-in-lebanon",
+      "buzz_score": 80,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Artist files war crime case in Paris over Israeli strike that killed parents in Lebanon",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-02T16:35:16.423150+00:00"
     },
     {
       "tweet": "Pakistan and Afghanistan are holding peace talks in China. Are we actually seeing this happen",
@@ -2469,7 +2447,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 73,
+    "total_posted": 75,
     "total_collected": 206
   }
 }
