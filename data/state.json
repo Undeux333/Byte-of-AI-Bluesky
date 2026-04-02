@@ -2,28 +2,6 @@
   "last_collected": "2026-04-02T21:59:04.723228+00:00",
   "queue": [
     {
-      "tweet": "Phil Mickelson is stepping away from golf for his family. Respect.",
-      "original_url": "https://www.espn.com/golf/story/_/id/48379971/phil-mickelson-miss-masters-personal-health-matter",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Phil to miss Masters due to family health matter",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-02T21:59:04.723204+00:00"
-    },
-    {
-      "tweet": "Trump just removed Pam Bondi. After that whole Epstein thing, it's not even surprising.",
-      "original_url": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump removes US Attorney General Pam Bondi",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-02T21:59:04.723195+00:00"
-    },
-    {
       "tweet": "Gerwyn Price won in Manchester after that whole Luke Littler spat. Peak drama.",
       "original_url": "https://www.bbc.com/sport/darts/articles/cx2el7j729jo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -134,6 +112,17 @@
       "added_at": "2026-04-02T04:02:05.967147+00:00"
     },
     {
+      "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/fuel-crisis-prices-fall-australia-albanese-gst",
+      "buzz_score": 78,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Fuel prices to fall another 5.7 cents a litre after states and Canberra strike GST deal",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-02T07:00:05.407799+00:00"
+    },
+    {
       "tweet": "The EPA is finally flagging microplastics in our drinking water. We’re basically just human-shaped plastic bags now.",
       "original_url": "https://www.npr.org/2026/04/02/nx-s1-5771155/epa-microplastics-pharmaceuticals-drinking-water",
       "buzz_score": 85,
@@ -176,17 +165,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-02T21:59:04.723202+00:00"
-    },
-    {
-      "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/fuel-crisis-prices-fall-australia-albanese-gst",
-      "buzz_score": 78,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fuel prices to fall another 5.7 cents a litre after states and Canberra strike GST deal",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-02T07:00:05.407799+00:00"
     },
     {
       "tweet": "Louis Koo is the ambassador for Hong Kong Comic Con 2026. A legend.",
@@ -277,28 +255,6 @@
       "added_at": "2026-04-02T21:59:04.723192+00:00"
     },
     {
-      "tweet": "Italy's FA head quit after they missed their third straight World Cup. They just can't catch a break.",
-      "original_url": "https://www.bbc.com/sport/football/articles/ckgr620w5eyo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Italian FA head and Buffon quit over World Cup failure",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-02T16:35:16.423142+00:00"
-    },
-    {
-      "tweet": "Macron basically told Trump to stop tweeting about the war and be serious. Imagine being the guy who has to tell him to log off.",
-      "original_url": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-02T16:35:16.423131+00:00"
-    },
-    {
       "tweet": "The Bears are waiting until late spring to pick a stadium site. Chicago sports fans are a different breed of patient",
       "original_url": "https://www.espn.com/nfl/story/_/id/48371358/bears-ceo-stadium-decision-likely-late-spring-early-summer",
       "buzz_score": 70,
@@ -341,6 +297,28 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-01T21:56:47.155494+00:00"
+    },
+    {
+      "tweet": "Italy's FA head quit after they missed their third straight World Cup. They just can't catch a break.",
+      "original_url": "https://www.bbc.com/sport/football/articles/ckgr620w5eyo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Italian FA head and Buffon quit over World Cup failure",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-02T16:35:16.423142+00:00"
+    },
+    {
+      "tweet": "Macron basically told Trump to stop tweeting about the war and be serious. Imagine being the guy who has to tell him to log off.",
+      "original_url": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-02T16:35:16.423131+00:00"
     },
     {
       "tweet": "The GCC is asking the UN to keep the waterways open amid the Iran tension. Do they think the UN is actually listening.",
@@ -442,6 +420,17 @@
       "added_at": "2026-04-01T16:44:00.716207+00:00"
     },
     {
+      "tweet": "An always-online game got ditched by its server provider for AI and had to patch in offline mode overnight. Talk about a pivot",
+      "original_url": "https://kotaku.com/stormgate-rts-patch-offline-mode-after-server-provider-ditches-them-for-ai-2000683998",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Always-Online RTS Has To Quickly Patch In Offline Mode After Server Provider Ditches Them For AI",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-01T21:56:47.155492+00:00"
+    },
+    {
       "tweet": "Australia is banning Iranian tourists, and people are saying it goes against their values. It’s wild how quickly a country can make you feel like a guest.",
       "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/iranian-tourist-ban-doesnt-align-with-the-australian-values-hedieh-signed-up-to-as-a-citizen",
       "buzz_score": 80,
@@ -464,17 +453,6 @@
       "added_at": "2026-04-02T14:16:24.594805+00:00"
     },
     {
-      "tweet": "An always-online game got ditched by its server provider for AI and had to patch in offline mode overnight. Talk about a pivot",
-      "original_url": "https://kotaku.com/stormgate-rts-patch-offline-mode-after-server-provider-ditches-them-for-ai-2000683998",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Always-Online RTS Has To Quickly Patch In Offline Mode After Server Provider Ditches Them For AI",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-01T21:56:47.155492+00:00"
-    },
-    {
       "tweet": "Iran is denying they want a truce while the whole thing is spiraling. Why would they stop now?",
       "original_url": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss",
       "buzz_score": 85,
@@ -495,6 +473,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-01T16:44:00.716209+00:00"
+    },
+    {
+      "tweet": "OnePlus has a 70 dollar promo code out. We're all gonna buy stuff we don't need.",
+      "original_url": "https://www.wired.com/story/oneplus-promo-code/",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "OnePlus Promo Code: $70 Off | April 2026",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-04-02T07:00:05.407806+00:00"
     },
     {
       "tweet": "Found out Umbrella wasn't even written for Rihanna. It’s weird how some songs just feel like they belong to whoever got to them first.",
@@ -528,17 +517,6 @@
       "source": "Kotaku",
       "category": "entertainment",
       "added_at": "2026-04-02T14:16:24.594811+00:00"
-    },
-    {
-      "tweet": "OnePlus has a 70 dollar promo code out. We're all gonna buy stuff we don't need.",
-      "original_url": "https://www.wired.com/story/oneplus-promo-code/",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "OnePlus Promo Code: $70 Off | April 2026",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-04-02T07:00:05.407806+00:00"
     },
     {
       "tweet": "Moira Deeming is back on the Liberal ticket one week after being dumped for someone else who then quit. Talk about a stable workplace",
@@ -1157,28 +1135,6 @@
       "added_at": "2026-04-02T19:34:52.043768+00:00"
     },
     {
-      "tweet": "An artist is taking a war crime case to Paris after a strike in Lebanon. People are tired of the silence.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/02/artist-files-war-case-in-paris-over-israeli-strike-that-killed-parents-in-lebanon",
-      "buzz_score": 80,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Artist files war crime case in Paris over Israeli strike that killed parents in Lebanon",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-02T16:35:16.423150+00:00"
-    },
-    {
-      "tweet": "Pakistan and Afghanistan are holding peace talks in China. Are we actually seeing this happen",
-      "original_url": "https://www.aljazeera.com/news/2026/4/2/pakistan-afghanistan-hold-talks-in-china-to-end-months-of-conflict?traffic_source=rss",
-      "buzz_score": 78,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Pakistan, Afghanistan hold talks in China to end months of conflict",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-02T16:35:16.423148+00:00"
-    },
-    {
       "tweet": "Reading about Pokémon Mega Evolutions in 2026. Sometimes you just need to turn your brain off",
       "original_url": "https://kotaku.com/pokemon-legends-z-a-mega-evolutions-abilities-champions-2000683952",
       "buzz_score": 75,
@@ -1199,6 +1155,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-01T16:44:00.716201+00:00"
+    },
+    {
+      "tweet": "An artist is taking a war crime case to Paris after a strike in Lebanon. People are tired of the silence.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/02/artist-files-war-case-in-paris-over-israeli-strike-that-killed-parents-in-lebanon",
+      "buzz_score": 80,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Artist files war crime case in Paris over Israeli strike that killed parents in Lebanon",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-02T16:35:16.423150+00:00"
+    },
+    {
+      "tweet": "Pakistan and Afghanistan are holding peace talks in China. Are we actually seeing this happen",
+      "original_url": "https://www.aljazeera.com/news/2026/4/2/pakistan-afghanistan-hold-talks-in-china-to-end-months-of-conflict?traffic_source=rss",
+      "buzz_score": 78,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Pakistan, Afghanistan hold talks in China to end months of conflict",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-02T16:35:16.423148+00:00"
     },
     {
       "tweet": "They finally found that golden helmet stolen in the Dutch heist last year. Took them long enough.",
@@ -2579,7 +2557,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 79,
+    "total_posted": 81,
     "total_collected": 222
   }
 }
