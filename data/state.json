@@ -2,28 +2,6 @@
   "last_collected": "2026-04-02T09:13:55.139869+00:00",
   "queue": [
     {
-      "tweet": "Megan Thee Stallion fainted during a show from extreme exhaustion. We really need to stop running ourselves into the ground.",
-      "original_url": "https://www.bbc.com/news/articles/c86e1403793o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Megan Thee Stallion taken to hospital during Moulin Rouge performance",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-02T09:13:55.139844+00:00"
-    },
-    {
-      "tweet": "Amazon just dropped the trailer for that live-action Masters of the Universe. Why are we doing this.",
-      "original_url": "https://hypebeast.com/2026/4/amazon-mgm-studios-mattel-live-action-masters-of-the-universe-movie-film-trailer-stream",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Amazon MGM Studios Unveils First Trailer For Live-Action 'Masters Of The Universe'",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-02T09:13:55.139839+00:00"
-    },
-    {
       "tweet": "NASA just launched Artemis II, sending four people to loop around the moon. We're actually going back, man.",
       "original_url": "https://www.npr.org/2026/04/02/nx-s1-5770599/artemis-ii-10-day-mission-preview",
       "buzz_score": 85,
@@ -189,6 +167,17 @@
       "added_at": "2026-04-02T09:13:55.139832+00:00"
     },
     {
+      "tweet": "CERN is actually out here building superconducting karts. We’re one physics experiment away from real life Mario Kart.",
+      "original_url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "CERN levels up with new superconducting karts",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-01T14:17:58.856553+00:00"
+    },
+    {
       "tweet": "OnePlus has a 70 dollar promo code out. We're all gonna buy stuff we don't need.",
       "original_url": "https://www.wired.com/story/oneplus-promo-code/",
       "buzz_score": 82,
@@ -231,17 +220,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-02T07:00:05.407785+00:00"
-    },
-    {
-      "tweet": "CERN is actually out here building superconducting karts. We’re one physics experiment away from real life Mario Kart.",
-      "original_url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "CERN levels up with new superconducting karts",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-01T14:17:58.856553+00:00"
     },
     {
       "tweet": "Arsenal and Real Madrid are both fighting over this Leverkusen striker. The bidding war is gonna be gross.",
@@ -398,17 +376,6 @@
       "added_at": "2026-04-02T04:02:05.967126+00:00"
     },
     {
-      "tweet": "Iran is denying they want a truce while the whole thing is spiraling. Why would they stop now?",
-      "original_url": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran war live: Trump to address nation; Tehran denies seeking ceasefire",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-02T01:14:23.378429+00:00"
-    },
-    {
       "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
       "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app",
       "buzz_score": 75,
@@ -420,15 +387,15 @@
       "added_at": "2026-04-01T16:44:00.716207+00:00"
     },
     {
-      "tweet": "They're using AI to optimize concrete production now. We're literally outsourcing thinking to the sidewalk.",
-      "original_url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
-      "buzz_score": 70,
+      "tweet": "Iran is denying they want a truce while the whole thing is spiraling. Why would they stop now?",
+      "original_url": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "AI for American-produced cement and concrete",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-02T04:02:05.967142+00:00"
+      "original_title": "Iran war live: Trump to address nation; Tehran denies seeking ceasefire",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-02T01:14:23.378429+00:00"
     },
     {
       "tweet": "An always-online game got ditched by its server provider for AI and had to patch in offline mode overnight. Talk about a pivot",
@@ -442,17 +409,6 @@
       "added_at": "2026-04-01T21:56:47.155492+00:00"
     },
     {
-      "tweet": "Drift just got hit for hundreds of millions in that hack and they're just closing the doors. Another day in crypto.",
-      "original_url": "https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-04-02T01:14:23.378419+00:00"
-    },
-    {
       "tweet": "Brazil is putting an Argentine tourist on trial for racism over a gesture. Is this really how we're handling tourists now",
       "original_url": "https://www.nytimes.com/2026/04/01/world/americas/brazil-argentina-tourist-racism-trial.html",
       "buzz_score": 85,
@@ -462,6 +418,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-01T16:44:00.716209+00:00"
+    },
+    {
+      "tweet": "They're using AI to optimize concrete production now. We're literally outsourcing thinking to the sidewalk.",
+      "original_url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "AI for American-produced cement and concrete",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-02T04:02:05.967142+00:00"
+    },
+    {
+      "tweet": "Drift just got hit for hundreds of millions in that hack and they're just closing the doors. Another day in crypto.",
+      "original_url": "https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-04-02T01:14:23.378419+00:00"
     },
     {
       "tweet": "Shinji Mikami’s new studio is finally teasing their first horror game. We're so back",
@@ -561,17 +539,6 @@
       "source": "Hypebeast",
       "category": "entertainment",
       "added_at": "2026-04-01T10:52:49.160388+00:00"
-    },
-    {
-      "tweet": "There’s a new glam rock movie about Mozart and his supposedly more talented sister. Wonder which one the audience will care about.",
-      "original_url": "https://variety.com/2026/tv/global/wolfgang-mozart-maria-anna-mozart-beta-film-ard-1236705159/",
-      "buzz_score": 72,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "‘Mozart Mozart,’ a Glam Rock-Tinged Take on the Genius and His Maybe More Talented Sister, Closes First Sales Deals (EXCLUSIVE)",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-02T09:13:55.139848+00:00"
     },
     {
       "tweet": "US intel says Iran is skeptical about diplomacy again. Can we ever just have a normal week",
@@ -695,6 +662,28 @@
       "added_at": "2026-04-01T10:52:49.160378+00:00"
     },
     {
+      "tweet": "There’s a new glam rock movie about Mozart and his supposedly more talented sister. Wonder which one the audience will care about.",
+      "original_url": "https://variety.com/2026/tv/global/wolfgang-mozart-maria-anna-mozart-beta-film-ard-1236705159/",
+      "buzz_score": 72,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "‘Mozart Mozart,’ a Glam Rock-Tinged Take on the Genius and His Maybe More Talented Sister, Closes First Sales Deals (EXCLUSIVE)",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-02T09:13:55.139848+00:00"
+    },
+    {
+      "tweet": "People are panicking over Pulisic’s goal drought with the USMNT. Do we even remember how to score anymore.",
+      "original_url": "https://www.espn.com/soccer/story/_/id/48363170/should-usmnt-concerned-pulisics-goal-drought",
+      "buzz_score": 72,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Should the USMNT be concerned about Pulisic's goal drought?",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-01T10:52:49.160386+00:00"
+    },
+    {
       "tweet": "A French court just refused to extradite Ben Ali’s daughter because they don't trust the trial process. Are we even shocked?",
       "original_url": "https://www.aljazeera.com/news/2026/4/2/french-court-denies-extradition-of-ex-tunisian-presidents-daughter?traffic_source=rss",
       "buzz_score": 70,
@@ -715,17 +704,6 @@
       "source": "Variety",
       "category": "entertainment",
       "added_at": "2026-04-02T09:13:55.139856+00:00"
-    },
-    {
-      "tweet": "People are panicking over Pulisic’s goal drought with the USMNT. Do we even remember how to score anymore.",
-      "original_url": "https://www.espn.com/soccer/story/_/id/48363170/should-usmnt-concerned-pulisics-goal-drought",
-      "buzz_score": 72,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Should the USMNT be concerned about Pulisic's goal drought?",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-01T10:52:49.160386+00:00"
     },
     {
       "tweet": "Australia just passed a bill unlocking orphan works. Pretty weird.",
@@ -882,17 +860,6 @@
       "added_at": "2026-04-02T01:14:23.378422+00:00"
     },
     {
-      "tweet": "Anthony Bourdain really knew how to live. Sometimes I think we're all just looking for the same thing he was.",
-      "original_url": "https://www.mentalfloss.com/food/legendary-dishes-anthony-bourdain-traveled-world-for?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "12 Legendary Dishes Anthony Bourdain Traveled the World for — From Rome to São Paulo",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-02T01:14:23.378424+00:00"
-    },
-    {
       "tweet": "Kenyan tea farmers are struggling because of the war on Iran. It’s wild how everything is connected",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/kenyas-tea-industry-suffers-crisis-caused-by-the-us-israeli-war-on-iran?traffic_source=rss",
       "buzz_score": 75,
@@ -957,6 +924,17 @@
       "source": "Hypebeast",
       "category": "entertainment",
       "added_at": "2026-04-01T08:29:51.989778+00:00"
+    },
+    {
+      "tweet": "Anthony Bourdain really knew how to live. Sometimes I think we're all just looking for the same thing he was.",
+      "original_url": "https://www.mentalfloss.com/food/legendary-dishes-anthony-bourdain-traveled-world-for?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "12 Legendary Dishes Anthony Bourdain Traveled the World for — From Rome to São Paulo",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-02T01:14:23.378424+00:00"
     },
     {
       "tweet": "Tuchel says Phil Foden isn't a lock for the 2026 World Cup squad. Like, who are we actually starting then",
@@ -2095,7 +2073,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 51,
+    "total_posted": 53,
     "total_collected": 150
   }
 }
