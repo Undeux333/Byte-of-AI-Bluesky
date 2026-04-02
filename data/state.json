@@ -2,28 +2,6 @@
   "last_collected": "2026-04-02T21:59:04.723228+00:00",
   "queue": [
     {
-      "tweet": "Gerwyn Price won in Manchester after that whole Luke Littler spat. Peak drama.",
-      "original_url": "https://www.bbc.com/sport/darts/articles/cx2el7j729jo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Price wins in Manchester after Littler and Van Veen spat",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-02T21:59:04.723209+00:00"
-    },
-    {
-      "tweet": "Steam usage on Linux just hit 5%. We're actually doing it, we finally left Windows behind.",
-      "original_url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Steam on Linux Use Skyrocketed Above 5% in March",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-02T21:59:04.723187+00:00"
-    },
-    {
       "tweet": "The UK is looking into 13 cases of assisted dying. Why is this still even a debate.",
       "original_url": "https://www.theguardian.com/society/2026/apr/02/cps-considering-13-suspected-cases-of-assisted-dying-in-england-and-wales",
       "buzz_score": 85,
@@ -90,17 +68,6 @@
       "added_at": "2026-04-02T21:59:04.723198+00:00"
     },
     {
-      "tweet": "Reading about life in Nazi Berlin and how easy it was for everyone to just go along with it. We like to think we’re different, but yeah.",
-      "original_url": "https://www.npr.org/2026/04/02/nx-s1-5763755/stay-alive-berlin-ian-buruma-review",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'Stay Alive,' about daily life in Nazi Berlin, shows how easy it is to just go along",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-02T14:16:24.594829+00:00"
-    },
-    {
       "tweet": "Vir Das is directing a found-footage horror movie. That's actually a wild pivot.",
       "original_url": "https://variety.com/2026/film/news/vir-das-found-footage-horror-film-baara-number-1236704411/",
       "buzz_score": 80,
@@ -110,6 +77,17 @@
       "source": "Variety",
       "category": "entertainment",
       "added_at": "2026-04-02T04:02:05.967147+00:00"
+    },
+    {
+      "tweet": "Reading about life in Nazi Berlin and how easy it was for everyone to just go along with it. We like to think we’re different, but yeah.",
+      "original_url": "https://www.npr.org/2026/04/02/nx-s1-5763755/stay-alive-berlin-ian-buruma-review",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "'Stay Alive,' about daily life in Nazi Berlin, shows how easy it is to just go along",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-02T14:16:24.594829+00:00"
     },
     {
       "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
@@ -431,28 +409,6 @@
       "added_at": "2026-04-01T21:56:47.155492+00:00"
     },
     {
-      "tweet": "Australia is banning Iranian tourists, and people are saying it goes against their values. It’s wild how quickly a country can make you feel like a guest.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/iranian-tourist-ban-doesnt-align-with-the-australian-values-hedieh-signed-up-to-as-a-citizen",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iranian tourist ban doesn’t align with the ‘Australian values’ Hedieh signed up to as a citizen",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-02T14:16:24.594820+00:00"
-    },
-    {
-      "tweet": "Macron called Trump’s comments about his marriage inelegant. Just imagine having to deal with that kind of nonsense on the world stage.",
-      "original_url": "https://www.bbc.com/news/videos/c70dxqp0q2do?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Macron calls Trump's remarks on his marriage 'inelegant'",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-02T14:16:24.594805+00:00"
-    },
-    {
       "tweet": "Iran is denying they want a truce while the whole thing is spiraling. Why would they stop now?",
       "original_url": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss",
       "buzz_score": 85,
@@ -475,6 +431,28 @@
       "added_at": "2026-04-01T16:44:00.716209+00:00"
     },
     {
+      "tweet": "Australia is banning Iranian tourists, and people are saying it goes against their values. It’s wild how quickly a country can make you feel like a guest.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/iranian-tourist-ban-doesnt-align-with-the-australian-values-hedieh-signed-up-to-as-a-citizen",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iranian tourist ban doesn’t align with the ‘Australian values’ Hedieh signed up to as a citizen",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-02T14:16:24.594820+00:00"
+    },
+    {
+      "tweet": "Macron called Trump’s comments about his marriage inelegant. Just imagine having to deal with that kind of nonsense on the world stage.",
+      "original_url": "https://www.bbc.com/news/videos/c70dxqp0q2do?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Macron calls Trump's remarks on his marriage 'inelegant'",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-02T14:16:24.594805+00:00"
+    },
+    {
       "tweet": "OnePlus has a 70 dollar promo code out. We're all gonna buy stuff we don't need.",
       "original_url": "https://www.wired.com/story/oneplus-promo-code/",
       "buzz_score": 82,
@@ -484,39 +462,6 @@
       "source": "Wired",
       "category": "tech",
       "added_at": "2026-04-02T07:00:05.407806+00:00"
-    },
-    {
-      "tweet": "Found out Umbrella wasn't even written for Rihanna. It’s weird how some songs just feel like they belong to whoever got to them first.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/popular-songs-written-for-someone-else?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "9 Popular Songs That Were Originally Written for Someone Else",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-02T14:16:24.594825+00:00"
-    },
-    {
-      "tweet": "A judge is letting Tiger Woods leave the country for inpatient treatment. Sometimes you just need to get away from everything.",
-      "original_url": "https://www.espn.com/golf/story/_/id/48371629/judge-grants-tiger-woods-permission-leave-us-treatment",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Woods can leave U.S. for treatment, judge rules",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-02T14:16:24.594816+00:00"
-    },
-    {
-      "tweet": "Everyone is saying the new Super Mario Galaxy movie is just a massive pile of references. It’s literally just a nostalgia trap.",
-      "original_url": "https://kotaku.com/super-mario-galaxy-movie-review-nintendo-luigi-peach-rosalina-2000684229",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The Super Mario Galaxy Movie Is A Sugary Barrage Of References And Not Much Else",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-02T14:16:24.594811+00:00"
     },
     {
       "tweet": "Moira Deeming is back on the Liberal ticket one week after being dumped for someone else who then quit. Talk about a stable workplace",
@@ -739,37 +684,37 @@
       "added_at": "2026-04-01T10:52:49.160388+00:00"
     },
     {
-      "tweet": "Italy might lose their Euro 2032 hosting spot after that World Cup exit. Rough week.",
-      "original_url": "https://www.aljazeera.com/sports/2026/4/2/uefas-euro-2032-warning-the-latest-blow-to-italy-after-world-cup-shock?traffic_source=rss",
-      "buzz_score": 70,
+      "tweet": "Found out Umbrella wasn't even written for Rihanna. It’s weird how some songs just feel like they belong to whoever got to them first.",
+      "original_url": "https://www.mentalfloss.com/entertainment/music/popular-songs-written-for-someone-else?utm_source=RSS",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "UEFA’s Euro 2032 warning the latest blow to Italy after World Cup exit",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-02T14:16:24.594833+00:00"
+      "original_title": "9 Popular Songs That Were Originally Written for Someone Else",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-02T14:16:24.594825+00:00"
     },
     {
-      "tweet": "Iranian officials are acting defiant after that war speech. Not surprised.",
-      "original_url": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news/iranian-officials-come-out-defiant-after-trumps-war-speech",
-      "buzz_score": 70,
+      "tweet": "A judge is letting Tiger Woods leave the country for inpatient treatment. Sometimes you just need to get away from everything.",
+      "original_url": "https://www.espn.com/golf/story/_/id/48371629/judge-grants-tiger-woods-permission-leave-us-treatment",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Iranian officials come out defiant after Trump’s war speech.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-02T14:16:24.594831+00:00"
+      "original_title": "Woods can leave U.S. for treatment, judge rules",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-02T14:16:24.594816+00:00"
     },
     {
-      "tweet": "The US lifted sanctions on that Venezuelan leader after Maduro was raided. Politics is just a game of musical chairs.",
-      "original_url": "https://www.bbc.com/news/articles/cje4l9de0d1o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
+      "tweet": "Everyone is saying the new Super Mario Galaxy movie is just a massive pile of references. It’s literally just a nostalgia trap.",
+      "original_url": "https://kotaku.com/super-mario-galaxy-movie-review-nintendo-luigi-peach-rosalina-2000684229",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "US lifts sanctions on Venezuelan interim leader Delcy Rodríguez",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-02T14:16:24.594827+00:00"
+      "original_title": "The Super Mario Galaxy Movie Is A Sugary Barrage Of References And Not Much Else",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-02T14:16:24.594811+00:00"
     },
     {
       "tweet": "Tones And I and FISHER just dropped a track together. Two Aussies doing a favour, I guess. Absolute vibes",
@@ -970,6 +915,39 @@
       "added_at": "2026-04-01T10:52:49.160378+00:00"
     },
     {
+      "tweet": "Italy might lose their Euro 2032 hosting spot after that World Cup exit. Rough week.",
+      "original_url": "https://www.aljazeera.com/sports/2026/4/2/uefas-euro-2032-warning-the-latest-blow-to-italy-after-world-cup-shock?traffic_source=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "UEFA’s Euro 2032 warning the latest blow to Italy after World Cup exit",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-02T14:16:24.594833+00:00"
+    },
+    {
+      "tweet": "Iranian officials are acting defiant after that war speech. Not surprised.",
+      "original_url": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news/iranian-officials-come-out-defiant-after-trumps-war-speech",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iranian officials come out defiant after Trump’s war speech.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-02T14:16:24.594831+00:00"
+    },
+    {
+      "tweet": "The US lifted sanctions on that Venezuelan leader after Maduro was raided. Politics is just a game of musical chairs.",
+      "original_url": "https://www.bbc.com/news/articles/cje4l9de0d1o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US lifts sanctions on Venezuelan interim leader Delcy Rodríguez",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-02T14:16:24.594827+00:00"
+    },
+    {
       "tweet": "Anthony Barry went from playing for Accrington to coaching under Tuchel in ten years. Talk about a glow up.",
       "original_url": "https://www.bbc.com/sport/football/articles/ckge7014m5yo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 72,
@@ -1102,6 +1080,28 @@
       "added_at": "2026-04-01T10:52:49.160381+00:00"
     },
     {
+      "tweet": "Reading about Pokémon Mega Evolutions in 2026. Sometimes you just need to turn your brain off",
+      "original_url": "https://kotaku.com/pokemon-legends-z-a-mega-evolutions-abilities-champions-2000683952",
+      "buzz_score": 75,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Every Ability The Pokémon Legends: Z-A Mega Evolutions Have In Champions",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-01T16:44:00.716214+00:00"
+    },
+    {
+      "tweet": "Germany is still arguing over whether legalizing cannabis was a success or a total flop. Can we ever just agree on anything",
+      "original_url": "https://www.theguardian.com/society/2026/apr/01/report-germany-cannabis-legalisation-fails-settle-debate",
+      "buzz_score": 75,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Success or ‘total flop’? Report on Germany’s cannabis legalisation fails to settle debate",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-01T16:44:00.716201+00:00"
+    },
+    {
       "tweet": "Costa Rica is taking migrants for the US now. We're just outsourcing the border at this point",
       "original_url": "https://www.theguardian.com/us-news/2026/apr/02/trump-costa-rica-deported-migrants-deal",
       "buzz_score": 82,
@@ -1133,28 +1133,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-02T19:34:52.043768+00:00"
-    },
-    {
-      "tweet": "Reading about Pokémon Mega Evolutions in 2026. Sometimes you just need to turn your brain off",
-      "original_url": "https://kotaku.com/pokemon-legends-z-a-mega-evolutions-abilities-champions-2000683952",
-      "buzz_score": 75,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "Every Ability The Pokémon Legends: Z-A Mega Evolutions Have In Champions",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-01T16:44:00.716214+00:00"
-    },
-    {
-      "tweet": "Germany is still arguing over whether legalizing cannabis was a success or a total flop. Can we ever just agree on anything",
-      "original_url": "https://www.theguardian.com/society/2026/apr/01/report-germany-cannabis-legalisation-fails-settle-debate",
-      "buzz_score": 75,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "Success or ‘total flop’? Report on Germany’s cannabis legalisation fails to settle debate",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-01T16:44:00.716201+00:00"
     },
     {
       "tweet": "An artist is taking a war crime case to Paris after a strike in Lebanon. People are tired of the silence.",
@@ -1454,17 +1432,6 @@
       "added_at": "2026-04-02T16:35:16.423146+00:00"
     },
     {
-      "tweet": "Apparently workers don't leave bad jobs because of something called monopsony. We're all just stuck.",
-      "original_url": "https://bigthink.com/books/monopsony/",
-      "buzz_score": 70,
-      "buzz_score2": 80,
-      "rewrite_count": 0,
-      "original_title": "Why don’t Walmart workers walk away from low pay? Monopsony.",
-      "source": "Big Think",
-      "category": "trivia",
-      "added_at": "2026-04-02T16:35:16.423154+00:00"
-    },
-    {
       "tweet": "French prosecutors linked that foiled attack on an American bank to a pro-Iranian group. It’s getting scary out there",
       "original_url": "https://www.nytimes.com/2026/04/01/world/europe/bank-of-america-attack-pro-iranian-group.html",
       "buzz_score": 70,
@@ -1485,6 +1452,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-01T16:44:00.716218+00:00"
+    },
+    {
+      "tweet": "Apparently workers don't leave bad jobs because of something called monopsony. We're all just stuck.",
+      "original_url": "https://bigthink.com/books/monopsony/",
+      "buzz_score": 70,
+      "buzz_score2": 80,
+      "rewrite_count": 0,
+      "original_title": "Why don’t Walmart workers walk away from low pay? Monopsony.",
+      "source": "Big Think",
+      "category": "trivia",
+      "added_at": "2026-04-02T16:35:16.423154+00:00"
     },
     {
       "tweet": "Sonia Bompastor is fuming about VAR after that hair pull. You can't just ignore that.",
@@ -2557,7 +2535,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 81,
+    "total_posted": 83,
     "total_collected": 222
   }
 }
