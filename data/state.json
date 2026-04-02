@@ -2,28 +2,6 @@
   "last_collected": "2026-04-02T14:16:24.594838+00:00",
   "queue": [
     {
-      "tweet": "They’re using an algorithm to decide aged care funding with zero human oversight. Who actually thinks letting software handle human life is the move",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/03/aged-care-funding-assessment-tool-algorithm",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘Letting the algorithm rip’: no legal basis for lack of human override of aged care funding tool, inquiry hears",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-02T14:16:24.594818+00:00"
-    },
-    {
-      "tweet": "Macron just told everyone maybe we should stop talking ever. Mood.",
-      "original_url": "https://www.nytimes.com/2026/04/02/world/middleeast/macron-trump-nato.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Macron Snaps Back at Trump’s Mockery and Criticism of NATO",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-02T14:16:24.594807+00:00"
-    },
-    {
       "tweet": "Sweden is ditching screens for books in classrooms again. Honestly, just watching people try to focus for ten minutes at a time lately feels impossible.",
       "original_url": "https://undark.org/2026/04/01/sweden-schools-books/",
       "buzz_score": 85,
@@ -68,6 +46,17 @@
       "added_at": "2026-04-02T14:16:24.594829+00:00"
     },
     {
+      "tweet": "Artemis II is finally in orbit. We're really doing this again after 50 years. About time.",
+      "original_url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Watch the moment Artemis II blasts into space",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-02T04:02:05.967118+00:00"
+    },
+    {
       "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
       "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/fuel-crisis-prices-fall-australia-albanese-gst",
       "buzz_score": 78,
@@ -101,15 +90,15 @@
       "added_at": "2026-04-02T07:00:05.407780+00:00"
     },
     {
-      "tweet": "Artemis II is finally in orbit. We're really doing this again after 50 years. About time.",
-      "original_url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
+      "tweet": "Vir Das is directing a found-footage horror movie. That's actually a wild pivot.",
+      "original_url": "https://variety.com/2026/film/news/vir-das-found-footage-horror-film-baara-number-1236704411/",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Watch the moment Artemis II blasts into space",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-02T04:02:05.967118+00:00"
+      "original_title": "Vir Das Sets Found-Footage Horror Film ‘Baara Number’ (EXCLUSIVE)",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-02T04:02:05.967147+00:00"
     },
     {
       "tweet": "Australia is banning Iranian tourists, and people are saying it goes against their values. It’s wild how quickly a country can make you feel like a guest.",
@@ -134,15 +123,26 @@
       "added_at": "2026-04-02T14:16:24.594805+00:00"
     },
     {
-      "tweet": "Vir Das is directing a found-footage horror movie. That's actually a wild pivot.",
-      "original_url": "https://variety.com/2026/film/news/vir-das-found-footage-horror-film-baara-number-1236704411/",
-      "buzz_score": 80,
+      "tweet": "Nothing is making smart glasses now. Because what we really need is more screens on our faces.",
+      "original_url": "https://hypebeast.com/2026/4/nothing-smart-glasses-target-2027-launch-with-ai-ecosystem",
+      "buzz_score": 75,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Vir Das Sets Found-Footage Horror Film ‘Baara Number’ (EXCLUSIVE)",
-      "source": "Variety",
+      "original_title": "Nothing Reportedly Developing Smart Glasses for 2027",
+      "source": "Hypebeast",
       "category": "entertainment",
-      "added_at": "2026-04-02T04:02:05.967147+00:00"
+      "added_at": "2026-04-02T04:02:05.967139+00:00"
+    },
+    {
+      "tweet": "CERN is actually out here building superconducting karts. We’re one physics experiment away from real life Mario Kart.",
+      "original_url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "CERN levels up with new superconducting karts",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-01T14:17:58.856553+00:00"
     },
     {
       "tweet": "Found out Umbrella wasn't even written for Rihanna. It’s weird how some songs just feel like they belong to whoever got to them first.",
@@ -200,26 +200,48 @@
       "added_at": "2026-04-02T11:56:43.016287+00:00"
     },
     {
-      "tweet": "Nothing is making smart glasses now. Because what we really need is more screens on our faces.",
-      "original_url": "https://hypebeast.com/2026/4/nothing-smart-glasses-target-2027-launch-with-ai-ecosystem",
-      "buzz_score": 75,
+      "tweet": "The Bears are waiting until late spring to pick a stadium site. Chicago sports fans are a different breed of patient",
+      "original_url": "https://www.espn.com/nfl/story/_/id/48371358/bears-ceo-stadium-decision-likely-late-spring-early-summer",
+      "buzz_score": 70,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Nothing Reportedly Developing Smart Glasses for 2027",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-02T04:02:05.967139+00:00"
+      "original_title": "Bears' stadium choice 'late spring, early summer'",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-01T21:56:47.155512+00:00"
     },
     {
-      "tweet": "CERN is actually out here building superconducting karts. We’re one physics experiment away from real life Mario Kart.",
-      "original_url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-      "buzz_score": 75,
+      "tweet": "Republicans in Congress have a deal to end the DHS shutdown. It took them long enough",
+      "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770566/dhs-shutdown-congress-republicans",
+      "buzz_score": 70,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "CERN levels up with new superconducting karts",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-01T14:17:58.856553+00:00"
+      "original_title": "Republicans in Congress say they have a deal to end the record-long shutdown at DHS",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-01T21:56:47.155508+00:00"
+    },
+    {
+      "tweet": "Australian opposition saying the PM's national address could've been a social media post. Absolute savage",
+      "original_url": "https://www.theguardian.com/australia-news/live/2026/apr/02/anthony-albanese-fuel-crisis-angus-taylor-middle-east-labor-liberals-easter-travel-press-club-ntwnfb",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australia news live: Angus Taylor urges clarity on fuel crisis and says PM’s national address ‘could have been a social media post’",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-01T21:56:47.155506+00:00"
+    },
+    {
+      "tweet": "Magic the Gathering booster boxes are a hundred bucks off on Amazon. We really can't help ourselves",
+      "original_url": "https://www.polygon.com/mtg-magic-gathering-avatar-collector-booster-sale/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "MTG's Avatar Collector Booster boxes are currently $100 off on Amazon",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-01T21:56:47.155494+00:00"
     },
     {
       "tweet": "Italy might lose their Euro 2032 hosting spot after that World Cup exit. Rough week.",
@@ -264,50 +286,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-02T11:56:43.016285+00:00"
-    },
-    {
-      "tweet": "The Bears are waiting until late spring to pick a stadium site. Chicago sports fans are a different breed of patient",
-      "original_url": "https://www.espn.com/nfl/story/_/id/48371358/bears-ceo-stadium-decision-likely-late-spring-early-summer",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Bears' stadium choice 'late spring, early summer'",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-01T21:56:47.155512+00:00"
-    },
-    {
-      "tweet": "Republicans in Congress have a deal to end the DHS shutdown. It took them long enough",
-      "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770566/dhs-shutdown-congress-republicans",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Republicans in Congress say they have a deal to end the record-long shutdown at DHS",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-01T21:56:47.155508+00:00"
-    },
-    {
-      "tweet": "Australian opposition saying the PM's national address could've been a social media post. Absolute savage",
-      "original_url": "https://www.theguardian.com/australia-news/live/2026/apr/02/anthony-albanese-fuel-crisis-angus-taylor-middle-east-labor-liberals-easter-travel-press-club-ntwnfb",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australia news live: Angus Taylor urges clarity on fuel crisis and says PM’s national address ‘could have been a social media post’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-01T21:56:47.155506+00:00"
-    },
-    {
-      "tweet": "Magic the Gathering booster boxes are a hundred bucks off on Amazon. We really can't help ourselves",
-      "original_url": "https://www.polygon.com/mtg-magic-gathering-avatar-collector-booster-sale/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "MTG's Avatar Collector Booster boxes are currently $100 off on Amazon",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-01T21:56:47.155494+00:00"
     },
     {
       "tweet": "Heavy bombing in Tehran this morning. It's just constant at this point.",
@@ -398,6 +376,28 @@
       "added_at": "2026-04-02T09:13:55.139832+00:00"
     },
     {
+      "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
+      "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app",
+      "buzz_score": 75,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Federal judge rules DHS illegally stripped immigration status from thousands who entered through CBP One App",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-01T16:44:00.716207+00:00"
+    },
+    {
+      "tweet": "An always-online game got ditched by its server provider for AI and had to patch in offline mode overnight. Talk about a pivot",
+      "original_url": "https://kotaku.com/stormgate-rts-patch-offline-mode-after-server-provider-ditches-them-for-ai-2000683998",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Always-Online RTS Has To Quickly Patch In Offline Mode After Server Provider Ditches Them For AI",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-01T21:56:47.155492+00:00"
+    },
+    {
       "tweet": "OnePlus has a 70 dollar promo code out. We're all gonna buy stuff we don't need.",
       "original_url": "https://www.wired.com/story/oneplus-promo-code/",
       "buzz_score": 82,
@@ -442,50 +442,6 @@
       "added_at": "2026-04-02T07:00:05.407785+00:00"
     },
     {
-      "tweet": "Arsenal and Real Madrid are both fighting over this Leverkusen striker. The bidding war is gonna be gross.",
-      "original_url": "https://www.espn.com/soccer/story/_/id/48374761/transfer-rumors-news-arsenal-real-madrid-eye-young-bayer-leverkusen-striker",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Transfer rumors, news: Arsenal, Madrid eye young Leverkusen striker",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-02T09:13:55.139862+00:00"
-    },
-    {
-      "tweet": "Tried to name every state capital and realized how little I remember from fifth grade. It's humbling.",
-      "original_url": "https://www.mentalfloss.com/quizzes/name-state-capitals-without-second-guessing?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Quiz: Can You Name the State Capitals Without Second-Guessing?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-02T09:13:55.139860+00:00"
-    },
-    {
-      "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
-      "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Federal judge rules DHS illegally stripped immigration status from thousands who entered through CBP One App",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-01T16:44:00.716207+00:00"
-    },
-    {
-      "tweet": "An always-online game got ditched by its server provider for AI and had to patch in offline mode overnight. Talk about a pivot",
-      "original_url": "https://kotaku.com/stormgate-rts-patch-offline-mode-after-server-provider-ditches-them-for-ai-2000683998",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Always-Online RTS Has To Quickly Patch In Offline Mode After Server Provider Ditches Them For AI",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-01T21:56:47.155492+00:00"
-    },
-    {
       "tweet": "Iran is denying they want a truce while the whole thing is spiraling. Why would they stop now?",
       "original_url": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss",
       "buzz_score": 85,
@@ -508,37 +464,26 @@
       "added_at": "2026-04-01T16:44:00.716209+00:00"
     },
     {
-      "tweet": "Anthony Barry went from playing for Accrington to coaching under Tuchel in ten years. Talk about a glow up.",
-      "original_url": "https://www.bbc.com/sport/football/articles/ckge7014m5yo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 72,
+      "tweet": "Arsenal and Real Madrid are both fighting over this Leverkusen striker. The bidding war is gonna be gross.",
+      "original_url": "https://www.espn.com/soccer/story/_/id/48374761/transfer-rumors-news-arsenal-real-madrid-eye-young-bayer-leverkusen-striker",
+      "buzz_score": 70,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "The remarkable rise of the only English coach in Tuchel's team",
-      "source": "BBC Sport",
+      "original_title": "Transfer rumors, news: Arsenal, Madrid eye young Leverkusen striker",
+      "source": "ESPN",
       "category": "sports",
-      "added_at": "2026-04-02T07:00:05.407797+00:00"
+      "added_at": "2026-04-02T09:13:55.139862+00:00"
     },
     {
-      "tweet": "Science just confirmed the Moon landings again for the millionth time. We really love debating things that already happened.",
-      "original_url": "https://bigthink.com/starts-with-a-bang/moon-landing/",
+      "tweet": "Tried to name every state capital and realized how little I remember from fifth grade. It's humbling.",
+      "original_url": "https://www.mentalfloss.com/quizzes/name-state-capitals-without-second-guessing?utm_source=RSS",
       "buzz_score": 70,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "The 4 ways science confirms the Moon landings were real",
-      "source": "Big Think",
+      "original_title": "Quiz: Can You Name the State Capitals Without Second-Guessing?",
+      "source": "Mental Floss",
       "category": "trivia",
-      "added_at": "2026-04-02T07:00:05.407810+00:00"
-    },
-    {
-      "tweet": "Razer made another keyboard for productivity. My hands just want a break.",
-      "original_url": "https://hypebeast.com/2026/4/razer-pro-type-ergo-keyboard-elevates-ergonomic-productivity",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Razer Pro Type Ergo Keyboard Elevates Ergonomic Productivity",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-02T07:00:05.407801+00:00"
+      "added_at": "2026-04-02T09:13:55.139860+00:00"
     },
     {
       "tweet": "Nike stock just tanked 20 percent because they tried to change their strategy. Rough.",
@@ -671,6 +616,39 @@
       "source": "Hypebeast",
       "category": "entertainment",
       "added_at": "2026-04-01T10:52:49.160388+00:00"
+    },
+    {
+      "tweet": "Anthony Barry went from playing for Accrington to coaching under Tuchel in ten years. Talk about a glow up.",
+      "original_url": "https://www.bbc.com/sport/football/articles/ckge7014m5yo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 72,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The remarkable rise of the only English coach in Tuchel's team",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-02T07:00:05.407797+00:00"
+    },
+    {
+      "tweet": "Science just confirmed the Moon landings again for the millionth time. We really love debating things that already happened.",
+      "original_url": "https://bigthink.com/starts-with-a-bang/moon-landing/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The 4 ways science confirms the Moon landings were real",
+      "source": "Big Think",
+      "category": "trivia",
+      "added_at": "2026-04-02T07:00:05.407810+00:00"
+    },
+    {
+      "tweet": "Razer made another keyboard for productivity. My hands just want a break.",
+      "original_url": "https://hypebeast.com/2026/4/razer-pro-type-ergo-keyboard-elevates-ergonomic-productivity",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Razer Pro Type Ergo Keyboard Elevates Ergonomic Productivity",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-02T07:00:05.407801+00:00"
     },
     {
       "tweet": "Charlie Day ranked Luigi Mangione as his second favorite Luigi. Imagine being the guy who didn't even make the top spot.",
@@ -2249,7 +2227,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 61,
+    "total_posted": 63,
     "total_collected": 174
   }
 }
