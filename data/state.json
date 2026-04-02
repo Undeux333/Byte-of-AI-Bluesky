@@ -2,28 +2,6 @@
   "last_collected": "2026-04-02T19:34:52.043779+00:00",
   "queue": [
     {
-      "tweet": "Someone in Quebec got busted for cutting maple syrup with cane sugar. That’s a betrayal of the highest order. Savage.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/02/maple-syrup-scam-quebec-canada",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Alleged maple syrup scam in Quebec uncovered by Canadian broadcaster",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-02T19:34:52.043766+00:00"
-    },
-    {
-      "tweet": "Pope Leo is back to washing priests’ feet as a tradition. Imagine showing up for your shift and that happens. Weird.",
-      "original_url": "https://www.nytimes.com/2026/04/02/world/europe/pope-leo-wash-feet-holy-thursday.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Pope Leo Returns to Tradition, Washing Priests’ Feet",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-02T19:34:52.043750+00:00"
-    },
-    {
       "tweet": "Reading about life in Nazi Berlin and how easy it was for everyone to just go along with it. We like to think we’re different, but yeah.",
       "original_url": "https://www.npr.org/2026/04/02/nx-s1-5763755/stay-alive-berlin-ian-buruma-review",
       "buzz_score": 75,
@@ -68,6 +46,17 @@
       "added_at": "2026-04-02T04:02:05.967147+00:00"
     },
     {
+      "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/fuel-crisis-prices-fall-australia-albanese-gst",
+      "buzz_score": 78,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Fuel prices to fall another 5.7 cents a litre after states and Canberra strike GST deal",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-02T07:00:05.407799+00:00"
+    },
+    {
       "tweet": "Silas Demary Jr. is playing through an ankle sprain for UConn because it’s rings or nothing. That’s the kind of pressure that ruins your 40s.",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48379507/uconn-silas-demary-expected-90-final-four",
       "buzz_score": 80,
@@ -88,39 +77,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-02T19:34:52.043748+00:00"
-    },
-    {
-      "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/fuel-crisis-prices-fall-australia-albanese-gst",
-      "buzz_score": 78,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fuel prices to fall another 5.7 cents a litre after states and Canberra strike GST deal",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-02T07:00:05.407799+00:00"
-    },
-    {
-      "tweet": "Italy's FA head quit after they missed their third straight World Cup. They just can't catch a break.",
-      "original_url": "https://www.bbc.com/sport/football/articles/ckgr620w5eyo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Italian FA head and Buffon quit over World Cup failure",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-02T16:35:16.423142+00:00"
-    },
-    {
-      "tweet": "Macron basically told Trump to stop tweeting about the war and be serious. Imagine being the guy who has to tell him to log off.",
-      "original_url": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-02T16:35:16.423131+00:00"
     },
     {
       "tweet": "Louis Koo is the ambassador for Hong Kong Comic Con 2026. A legend.",
@@ -165,6 +121,28 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-01T14:17:58.856553+00:00"
+    },
+    {
+      "tweet": "Italy's FA head quit after they missed their third straight World Cup. They just can't catch a break.",
+      "original_url": "https://www.bbc.com/sport/football/articles/ckgr620w5eyo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Italian FA head and Buffon quit over World Cup failure",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-02T16:35:16.423142+00:00"
+    },
+    {
+      "tweet": "Macron basically told Trump to stop tweeting about the war and be serious. Imagine being the guy who has to tell him to log off.",
+      "original_url": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-02T16:35:16.423131+00:00"
     },
     {
       "tweet": "The GCC is asking the UN to keep the waterways open amid the Iran tension. Do they think the UN is actually listening.",
@@ -332,6 +310,17 @@
       "added_at": "2026-04-01T16:44:00.716207+00:00"
     },
     {
+      "tweet": "An always-online game got ditched by its server provider for AI and had to patch in offline mode overnight. Talk about a pivot",
+      "original_url": "https://kotaku.com/stormgate-rts-patch-offline-mode-after-server-provider-ditches-them-for-ai-2000683998",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Always-Online RTS Has To Quickly Patch In Offline Mode After Server Provider Ditches Them For AI",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-01T21:56:47.155492+00:00"
+    },
+    {
       "tweet": "Found out Umbrella wasn't even written for Rihanna. It’s weird how some songs just feel like they belong to whoever got to them first.",
       "original_url": "https://www.mentalfloss.com/entertainment/music/popular-songs-written-for-someone-else?utm_source=RSS",
       "buzz_score": 75,
@@ -365,17 +354,6 @@
       "added_at": "2026-04-02T14:16:24.594811+00:00"
     },
     {
-      "tweet": "An always-online game got ditched by its server provider for AI and had to patch in offline mode overnight. Talk about a pivot",
-      "original_url": "https://kotaku.com/stormgate-rts-patch-offline-mode-after-server-provider-ditches-them-for-ai-2000683998",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Always-Online RTS Has To Quickly Patch In Offline Mode After Server Provider Ditches Them For AI",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-01T21:56:47.155492+00:00"
-    },
-    {
       "tweet": "Iran is denying they want a truce while the whole thing is spiraling. Why would they stop now?",
       "original_url": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss",
       "buzz_score": 85,
@@ -396,6 +374,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-01T16:44:00.716209+00:00"
+    },
+    {
+      "tweet": "OnePlus has a 70 dollar promo code out. We're all gonna buy stuff we don't need.",
+      "original_url": "https://www.wired.com/story/oneplus-promo-code/",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "OnePlus Promo Code: $70 Off | April 2026",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-04-02T07:00:05.407806+00:00"
     },
     {
       "tweet": "Moira Deeming is back on the Liberal ticket one week after being dumped for someone else who then quit. Talk about a stable workplace",
@@ -451,17 +440,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-02T14:16:24.594827+00:00"
-    },
-    {
-      "tweet": "OnePlus has a 70 dollar promo code out. We're all gonna buy stuff we don't need.",
-      "original_url": "https://www.wired.com/story/oneplus-promo-code/",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "OnePlus Promo Code: $70 Off | April 2026",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-04-02T07:00:05.407806+00:00"
     },
     {
       "tweet": "Stephen Colbert joked that Trump gave an intelligent speech, then said it was April Fools. Zero surprise there.",
@@ -860,17 +838,6 @@
       "added_at": "2026-04-01T10:52:49.160378+00:00"
     },
     {
-      "tweet": "Legacy of Kain is trying to do that whole pixel art retro thing but it just feels off. Sometimes the vibe isn't something you can code",
-      "original_url": "https://www.polygon.com/retro-games-legacy-of-kain-ascendance/",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Legacy of Kain: Ascendance only looks the part of a retro game",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-02T11:56:43.016296+00:00"
-    },
-    {
       "tweet": "Anthony Barry went from playing for Accrington to coaching under Tuchel in ten years. Talk about a glow up.",
       "original_url": "https://www.bbc.com/sport/football/articles/ckge7014m5yo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 72,
@@ -891,6 +858,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-01T10:52:49.160386+00:00"
+    },
+    {
+      "tweet": "Legacy of Kain is trying to do that whole pixel art retro thing but it just feels off. Sometimes the vibe isn't something you can code",
+      "original_url": "https://www.polygon.com/retro-games-legacy-of-kain-ascendance/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Legacy of Kain: Ascendance only looks the part of a retro game",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-02T11:56:43.016296+00:00"
     },
     {
       "tweet": "Arsenal and Real Madrid are both fighting over this Leverkusen striker. The bidding war is gonna be gross.",
@@ -1047,17 +1025,6 @@
       "added_at": "2026-04-02T16:35:16.423148+00:00"
     },
     {
-      "tweet": "They finally found that golden helmet stolen in the Dutch heist last year. Took them long enough.",
-      "original_url": "https://www.bbc.com/news/articles/cpvxj4jzvvvo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Ancient golden helmet recovered more than a year after Dutch heist",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-02T16:35:16.423144+00:00"
-    },
-    {
       "tweet": "Reading about Pokémon Mega Evolutions in 2026. Sometimes you just need to turn your brain off",
       "original_url": "https://kotaku.com/pokemon-legends-z-a-mega-evolutions-abilities-champions-2000683952",
       "buzz_score": 75,
@@ -1078,6 +1045,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-01T16:44:00.716201+00:00"
+    },
+    {
+      "tweet": "They finally found that golden helmet stolen in the Dutch heist last year. Took them long enough.",
+      "original_url": "https://www.bbc.com/news/articles/cpvxj4jzvvvo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Ancient golden helmet recovered more than a year after Dutch heist",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-02T16:35:16.423144+00:00"
     },
     {
       "tweet": "Tsunami alerts going off in Indonesia after that 7.4 quake. Hope everyone out there is safe.",
@@ -2447,7 +2425,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 75,
+    "total_posted": 77,
     "total_collected": 206
   }
 }
