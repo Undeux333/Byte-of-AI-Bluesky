@@ -2,28 +2,6 @@
   "last_collected": "2026-04-03T09:37:17.568175+00:00",
   "queue": [
     {
-      "tweet": "LEGO and Nike are making Air Max 95s now. I don't know who this is for, but my inner child and my actual bank account are having a really tense conversation.",
-      "original_url": "https://hypebeast.com/2026/4/lego-nike-air-max-95-brick-pixel-io4799-001-release-info",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "LEGO and Nike Construct the Playful Air Max 95 \"Brick Pixel\"",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-03T09:37:17.568141+00:00"
-    },
-    {
-      "tweet": "Cuba is pardoning 2,000 prisoners because of US pressure. Amazing how fast things move when the blockades start hurting.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/3/cuba-to-pardon-more-than-2000-prisoners-amid-us-pressure?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Cuba to pardon more than 2,000 prisoners amid US pressure",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-03T09:37:17.568165+00:00"
-    },
-    {
       "tweet": "The DOJ is demanding state voter data and the privacy officer just resigned. Guess that tells you everything you need to know.",
       "original_url": "https://www.npr.org/2026/04/03/nx-s1-5768455/privacy-doj-dhs-voter-data",
       "buzz_score": 80,
@@ -123,17 +101,6 @@
       "added_at": "2026-04-03T09:37:17.568150+00:00"
     },
     {
-      "tweet": "Port Vale is currently fighting to stay in the league, but they're about to play Chelsea in the FA Cup. Can you imagine the stress?",
-      "original_url": "https://www.bbc.com/sport/football/articles/cm2x22jgrkno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hurtling towards relegation - but can Port Vale shock Chelsea in FA Cup?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-03T09:37:17.568144+00:00"
-    },
-    {
       "tweet": "Australia told the US they aren't changing their drug prices for Trump. Love seeing someone actually say no.",
       "original_url": "https://www.theguardian.com/business/2026/apr/03/australia-says-it-wont-raise-drug-prices-after-trumps-100-tariff-on-pharmaceuticals-imported-into-us",
       "buzz_score": 80,
@@ -154,6 +121,17 @@
       "source": "Variety",
       "category": "entertainment",
       "added_at": "2026-04-02T04:02:05.967147+00:00"
+    },
+    {
+      "tweet": "Port Vale is currently fighting to stay in the league, but they're about to play Chelsea in the FA Cup. Can you imagine the stress?",
+      "original_url": "https://www.bbc.com/sport/football/articles/cm2x22jgrkno?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hurtling towards relegation - but can Port Vale shock Chelsea in FA Cup?",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-03T09:37:17.568144+00:00"
     },
     {
       "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
@@ -332,17 +310,6 @@
       "added_at": "2026-04-03T06:42:34.640447+00:00"
     },
     {
-      "tweet": "Iran is vowing retaliation after that bridge strike, saying they'll build it back stronger. Who pays for that.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/iran-vows-retaliation-after-deadly-us-strike-on-bridge-in-karaj?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran vows retaliation after deadly US strike on bridge in Karaj",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-03T03:26:34.261236+00:00"
-    },
-    {
       "tweet": "Heavy bombing in Tehran this morning. It's just constant at this point.",
       "original_url": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heavy-bombings-tehran",
       "buzz_score": 90,
@@ -363,6 +330,17 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-04-01T16:44:00.716207+00:00"
+    },
+    {
+      "tweet": "Iran is vowing retaliation after that bridge strike, saying they'll build it back stronger. Who pays for that.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/iran-vows-retaliation-after-deadly-us-strike-on-bridge-in-karaj?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iran vows retaliation after deadly US strike on bridge in Karaj",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-03T03:26:34.261236+00:00"
     },
     {
       "tweet": "Italy's FA head quit after they missed their third straight World Cup. They just can't catch a break.",
@@ -396,39 +374,6 @@
       "source": "Kotaku",
       "category": "entertainment",
       "added_at": "2026-04-01T21:56:47.155492+00:00"
-    },
-    {
-      "tweet": "Hegseth is asking the top general to step down. It’s wild how fast that stuff happens.",
-      "original_url": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hegseth asks US Army's top general to step down",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-03T03:26:34.261231+00:00"
-    },
-    {
-      "tweet": "Trump’s got all these conflicting messages out there about a war with Iran. What's the plan.",
-      "original_url": "https://www.nytimes.com/video/world/middleeast/100000010815863/trumps-strait-of-hormuz-problem.html",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump’s Strait of Hormuz Problem",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-03T03:26:34.261229+00:00"
-    },
-    {
-      "tweet": "Police just charged two teenagers in NSW for holding onto extremist material. They found a ballistic vest and notebooks. Teens.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/03/two-nsw-teenagers-charged-over-violent-extremist-material-allegedly-linked-to-terror-ntwnfb",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Two NSW teenagers charged over violent extremist material allegedly linked to terror",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-03T03:26:34.261211+00:00"
     },
     {
       "tweet": "We're really gonna spend the whole year dissecting a wedding that hasn't even been announced yet. Taylor Swift and Travis Kelce, man.",
@@ -497,6 +442,39 @@
       "added_at": "2026-04-01T16:44:00.716209+00:00"
     },
     {
+      "tweet": "Hegseth is asking the top general to step down. It’s wild how fast that stuff happens.",
+      "original_url": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hegseth asks US Army's top general to step down",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-03T03:26:34.261231+00:00"
+    },
+    {
+      "tweet": "Trump’s got all these conflicting messages out there about a war with Iran. What's the plan.",
+      "original_url": "https://www.nytimes.com/video/world/middleeast/100000010815863/trumps-strait-of-hormuz-problem.html",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump’s Strait of Hormuz Problem",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-03T03:26:34.261229+00:00"
+    },
+    {
+      "tweet": "Police just charged two teenagers in NSW for holding onto extremist material. They found a ballistic vest and notebooks. Teens.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/03/two-nsw-teenagers-charged-over-violent-extremist-material-allegedly-linked-to-terror-ntwnfb",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Two NSW teenagers charged over violent extremist material allegedly linked to terror",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-03T03:26:34.261211+00:00"
+    },
+    {
       "tweet": "OnePlus has a 70 dollar promo code out. We're all gonna buy stuff we don't need.",
       "original_url": "https://www.wired.com/story/oneplus-promo-code/",
       "buzz_score": 82,
@@ -506,72 +484,6 @@
       "source": "Wired",
       "category": "tech",
       "added_at": "2026-04-02T07:00:05.407806+00:00"
-    },
-    {
-      "tweet": "James Marsden is joining Jon Hamm for Your Friends & Neighbors season two. High octane.",
-      "original_url": "https://variety.com/2026/tv/reviews/your-friends-and-neighbors-season-2-review-jon-hamm-1236701587/",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "James Marsden Joins Jon Hamm for a High-Octane ‘Your Friends & Neighbors’ Season 2: TV Review",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-03T03:26:34.261242+00:00"
-    },
-    {
-      "tweet": "Manon from Katseye is still in positive conversations about returning. Still nothing.",
-      "original_url": "https://www.rollingstone.com/music/music-news/manon-katseye-hiatus-statement-positive-conversations-1235541311/",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Manon in ‘Positive Conversations’ With Label as Katseye Return Remains Unclear",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-04-03T03:26:34.261240+00:00"
-    },
-    {
-      "tweet": "Taking a quiz to match Pixar villains. I forgot how many of these guys were actually terrifying.",
-      "original_url": "https://www.mentalfloss.com/quizzes/match-pixar-movie-villain?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Quiz: Can You Match the Pixar Movie to Its Villain?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-03T03:26:34.261238+00:00"
-    },
-    {
-      "tweet": "KU’s Flory Bidunga is hitting the portal. Over 800 players have done it now.",
-      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48382218/sources-kansas-bidunga-declare-draft-enter-portal",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sources: KU's Bidunga to test draft, enter portal",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-03T03:26:34.261233+00:00"
-    },
-    {
-      "tweet": "A massive new study shows autism risk genes are the same across all human ancestries. We're all built the same.",
-      "original_url": "https://www.psypost.org/autism-risk-genes-are-shared-across-human-ancestries-large-genome-study-reveals/",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Autism risk genes are shared across human ancestries, large genome study reveals",
-      "source": "PsyPost",
-      "category": "psychology",
-      "added_at": "2026-04-03T03:26:34.261226+00:00"
-    },
-    {
-      "tweet": "Apparently Umbrella and a bunch of other massive hits weren't even written for the artists we know. Makes you wonder how many songs are just leftovers.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/popular-songs-written-for-someone-else?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "9 Popular Songs That Were Originally Written for Someone Else",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-03T03:26:34.261214+00:00"
     },
     {
       "tweet": "Trump wants a 100-percent tariff on drugs to force better deals. Just making the pharmacy aisle a hostage situation.",
@@ -924,6 +836,72 @@
       "source": "Hypebeast",
       "category": "entertainment",
       "added_at": "2026-04-01T10:52:49.160388+00:00"
+    },
+    {
+      "tweet": "James Marsden is joining Jon Hamm for Your Friends & Neighbors season two. High octane.",
+      "original_url": "https://variety.com/2026/tv/reviews/your-friends-and-neighbors-season-2-review-jon-hamm-1236701587/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "James Marsden Joins Jon Hamm for a High-Octane ‘Your Friends & Neighbors’ Season 2: TV Review",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-03T03:26:34.261242+00:00"
+    },
+    {
+      "tweet": "Manon from Katseye is still in positive conversations about returning. Still nothing.",
+      "original_url": "https://www.rollingstone.com/music/music-news/manon-katseye-hiatus-statement-positive-conversations-1235541311/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Manon in ‘Positive Conversations’ With Label as Katseye Return Remains Unclear",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-04-03T03:26:34.261240+00:00"
+    },
+    {
+      "tweet": "Taking a quiz to match Pixar villains. I forgot how many of these guys were actually terrifying.",
+      "original_url": "https://www.mentalfloss.com/quizzes/match-pixar-movie-villain?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Quiz: Can You Match the Pixar Movie to Its Villain?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-03T03:26:34.261238+00:00"
+    },
+    {
+      "tweet": "KU’s Flory Bidunga is hitting the portal. Over 800 players have done it now.",
+      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48382218/sources-kansas-bidunga-declare-draft-enter-portal",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sources: KU's Bidunga to test draft, enter portal",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-03T03:26:34.261233+00:00"
+    },
+    {
+      "tweet": "A massive new study shows autism risk genes are the same across all human ancestries. We're all built the same.",
+      "original_url": "https://www.psypost.org/autism-risk-genes-are-shared-across-human-ancestries-large-genome-study-reveals/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Autism risk genes are shared across human ancestries, large genome study reveals",
+      "source": "PsyPost",
+      "category": "psychology",
+      "added_at": "2026-04-03T03:26:34.261226+00:00"
+    },
+    {
+      "tweet": "Apparently Umbrella and a bunch of other massive hits weren't even written for the artists we know. Makes you wonder how many songs are just leftovers.",
+      "original_url": "https://www.mentalfloss.com/entertainment/music/popular-songs-written-for-someone-else?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "9 Popular Songs That Were Originally Written for Someone Else",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-03T03:26:34.261214+00:00"
     },
     {
       "tweet": "Zendaya wore a feathery skirt that's basically just 'I have a meeting at nine and a rave at ten.' Honestly, mood.",
@@ -2909,7 +2887,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 101,
+    "total_posted": 103,
     "total_collected": 274
   }
 }
