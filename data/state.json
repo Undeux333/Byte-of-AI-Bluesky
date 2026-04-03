@@ -101,28 +101,6 @@
       "added_at": "2026-04-03T16:38:46.892161+00:00"
     },
     {
-      "tweet": "They're calling them darecations now. Like we needed a special term for the vacations we take just to see if we'll actually survive the trip. Whatever.",
-      "original_url": "https://www.mentalfloss.com/geography/wanderlust/most-thrilling-darecations-ranked?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Most Thrilling \"Darecations\" Around the World, Ranked",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-03T14:36:16.035299+00:00"
-    },
-    {
-      "tweet": "Protests are growing in Cuba, but there’s no real opposition left on the island. How does that even work.",
-      "original_url": "https://www.nytimes.com/2026/04/03/world/americas/cuba-opposition-uprising.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Could There Be a Popular Uprising in Cuba?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-03T21:48:56.850487+00:00"
-    },
-    {
       "tweet": "Australia told the US they aren't changing their drug prices for Trump. Love seeing someone actually say no.",
       "original_url": "https://www.theguardian.com/business/2026/apr/03/australia-says-it-wont-raise-drug-prices-after-trumps-100-tariff-on-pharmaceuticals-imported-into-us",
       "buzz_score": 80,
@@ -145,6 +123,28 @@
       "added_at": "2026-04-02T04:02:05.967147+00:00"
     },
     {
+      "tweet": "They're calling them darecations now. Like we needed a special term for the vacations we take just to see if we'll actually survive the trip. Whatever.",
+      "original_url": "https://www.mentalfloss.com/geography/wanderlust/most-thrilling-darecations-ranked?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Most Thrilling \"Darecations\" Around the World, Ranked",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-03T14:36:16.035299+00:00"
+    },
+    {
+      "tweet": "Protests are growing in Cuba, but there’s no real opposition left on the island. How does that even work.",
+      "original_url": "https://www.nytimes.com/2026/04/03/world/americas/cuba-opposition-uprising.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Could There Be a Popular Uprising in Cuba?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-03T21:48:56.850487+00:00"
+    },
+    {
       "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
       "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/fuel-crisis-prices-fall-australia-albanese-gst",
       "buzz_score": 78,
@@ -154,50 +154,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-02T07:00:05.407799+00:00"
-    },
-    {
-      "tweet": "Keir Starmer was told his relationship with Trump is beyond repair after that mocking impersonation. Diplomacy is just high school with better suits",
-      "original_url": "https://www.theguardian.com/politics/2026/apr/03/relationship-with-trump-may-be-beyond-repair-keir-starmer-told",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Relationship with Trump may be beyond repair, Keir Starmer told",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-03T19:26:24.480540+00:00"
-    },
-    {
-      "tweet": "Brian McKnight is out here suing a radio network over an interview. This man never rests.",
-      "original_url": "https://www.billboard.com/pro/brian-mcknight-lawsuit-ex-wife-interview-baseless-urban-one/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Brian McKnight Defamation Lawsuit: Radio Network Says Case Over Ex-Wife’s Interview Is Legally Baseless",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-03T21:48:56.850489+00:00"
-    },
-    {
-      "tweet": "I will go to my grave saying Princess Peach was the best character in Super Mario Bros. 2. No notes.",
-      "original_url": "https://kotaku.com/princess-peach-was-the-best-character-in-super-mario-br-1837423671",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Princess Peach Was The Best Character In Super Mario Bros. 2",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-03T21:48:56.850478+00:00"
-    },
-    {
-      "tweet": "Zach Bryan canceling a show for the first time ever because of the weather. Tulsa really tried it.",
-      "original_url": "https://www.billboard.com/music/music-news/zach-bryan-cancels-tulsa-show-extreme-weather-1236215269/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Zach Bryan Cancels Tulsa Concert Due to Extreme Weather: ‘I’ve Never Canceled a Show in My Life’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-03T21:48:56.850465+00:00"
     },
     {
       "tweet": "Four Premier League clubs are fighting over Morgan Rogers. Is anyone actually gonna pay that asking price?",
@@ -310,70 +266,48 @@
       "added_at": "2026-04-01T14:17:58.856553+00:00"
     },
     {
-      "tweet": "Experts say the teen meet-ups in Clapham are happening because there’s literally nowhere else to go. We forgot how to build third places",
-      "original_url": "https://www.theguardian.com/uk-news/2026/apr/03/experts-respond-to-mass-teen-meet-ups-clapham-london",
-      "buzz_score": 80,
+      "tweet": "Keir Starmer was told his relationship with Trump is beyond repair after that mocking impersonation. Diplomacy is just high school with better suits",
+      "original_url": "https://www.theguardian.com/politics/2026/apr/03/relationship-with-trump-may-be-beyond-repair-keir-starmer-told",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "‘Young people want to come together’: experts respond to mass teen meet-ups in Clapham",
+      "original_title": "Relationship with Trump may be beyond repair, Keir Starmer told",
       "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-04-03T19:26:24.480542+00:00"
+      "added_at": "2026-04-03T19:26:24.480540+00:00"
     },
     {
-      "tweet": "Trump is out here fighting in ballrooms and apparently there’s a whole secret bunker under the White House. The main character energy is exhausting",
-      "original_url": "https://www.npr.org/2026/04/03/nx-s1-5772665/trump-ballroom-underground-military-bunker",
-      "buzz_score": 80,
+      "tweet": "Brian McKnight is out here suing a radio network over an interview. This man never rests.",
+      "original_url": "https://www.billboard.com/pro/brian-mcknight-lawsuit-ex-wife-interview-baseless-urban-one/",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Trump's ballroom fight sheds new light on an underground White House bunker",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-03T19:26:24.480524+00:00"
-    },
-    {
-      "tweet": "If you’re running OpenClaw you probably got hacked this week. Honestly at this point just unplug the router",
-      "original_url": "https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "If you're running OpenClaw, you probably got hacked in the last week",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-03T19:26:24.480519+00:00"
-    },
-    {
-      "tweet": "Portland Fire took Bridget Carleton with the number one pick. Big moves for the WNBA.",
-      "original_url": "https://www.espn.com/wnba/story/_/id/48387971/fire-make-bridget-carleton-top-wnba-expansion-draft-pick",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fire make Carleton top WNBA expansion draft pick",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-03T21:48:56.850491+00:00"
-    },
-    {
-      "tweet": "Northampton just scraped past Castres in the Champions Cup. That was a rough one.",
-      "original_url": "https://www.bbc.com/sport/rugby-union/articles/c070d4vk8g9o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Saints pass stern Castres test to reach last eight",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-03T21:48:56.850492+00:00"
-    },
-    {
-      "tweet": "LVMH shares just took a massive hit. Guess we aren't all spending like that anymore.",
-      "original_url": "https://hypebeast.com/2026/4/lvmh-q1-shares-see-a-record-decline-courreges-enlists-drew-henry-in-this-weeks-top-fashion-news",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "LVMH Q1 Shares See a Record Decline & Courrèges Enlists Drew Henry in This Week's Top Fashion News",
-      "source": "Hypebeast",
+      "original_title": "Brian McKnight Defamation Lawsuit: Radio Network Says Case Over Ex-Wife’s Interview Is Legally Baseless",
+      "source": "Billboard",
       "category": "entertainment",
-      "added_at": "2026-04-03T21:48:56.850483+00:00"
+      "added_at": "2026-04-03T21:48:56.850489+00:00"
+    },
+    {
+      "tweet": "I will go to my grave saying Princess Peach was the best character in Super Mario Bros. 2. No notes.",
+      "original_url": "https://kotaku.com/princess-peach-was-the-best-character-in-super-mario-br-1837423671",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Princess Peach Was The Best Character In Super Mario Bros. 2",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-03T21:48:56.850478+00:00"
+    },
+    {
+      "tweet": "Zach Bryan canceling a show for the first time ever because of the weather. Tulsa really tried it.",
+      "original_url": "https://www.billboard.com/music/music-news/zach-bryan-cancels-tulsa-show-extreme-weather-1236215269/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Zach Bryan Cancels Tulsa Concert Due to Extreme Weather: ‘I’ve Never Canceled a Show in My Life’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-03T21:48:56.850465+00:00"
     },
     {
       "tweet": "There are Fabergé Easter eggs worth a literal nest egg. Imagine hiding those in the yard.",
@@ -475,6 +409,72 @@
       "added_at": "2026-04-01T21:56:47.155494+00:00"
     },
     {
+      "tweet": "Experts say the teen meet-ups in Clapham are happening because there’s literally nowhere else to go. We forgot how to build third places",
+      "original_url": "https://www.theguardian.com/uk-news/2026/apr/03/experts-respond-to-mass-teen-meet-ups-clapham-london",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘Young people want to come together’: experts respond to mass teen meet-ups in Clapham",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-03T19:26:24.480542+00:00"
+    },
+    {
+      "tweet": "Trump is out here fighting in ballrooms and apparently there’s a whole secret bunker under the White House. The main character energy is exhausting",
+      "original_url": "https://www.npr.org/2026/04/03/nx-s1-5772665/trump-ballroom-underground-military-bunker",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump's ballroom fight sheds new light on an underground White House bunker",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-03T19:26:24.480524+00:00"
+    },
+    {
+      "tweet": "If you’re running OpenClaw you probably got hacked this week. Honestly at this point just unplug the router",
+      "original_url": "https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "If you're running OpenClaw, you probably got hacked in the last week",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-03T19:26:24.480519+00:00"
+    },
+    {
+      "tweet": "Portland Fire took Bridget Carleton with the number one pick. Big moves for the WNBA.",
+      "original_url": "https://www.espn.com/wnba/story/_/id/48387971/fire-make-bridget-carleton-top-wnba-expansion-draft-pick",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Fire make Carleton top WNBA expansion draft pick",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-03T21:48:56.850491+00:00"
+    },
+    {
+      "tweet": "Northampton just scraped past Castres in the Champions Cup. That was a rough one.",
+      "original_url": "https://www.bbc.com/sport/rugby-union/articles/c070d4vk8g9o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Saints pass stern Castres test to reach last eight",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-03T21:48:56.850492+00:00"
+    },
+    {
+      "tweet": "LVMH shares just took a massive hit. Guess we aren't all spending like that anymore.",
+      "original_url": "https://hypebeast.com/2026/4/lvmh-q1-shares-see-a-record-decline-courreges-enlists-drew-henry-in-this-weeks-top-fashion-news",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "LVMH Q1 Shares See a Record Decline & Courrèges Enlists Drew Henry in This Week's Top Fashion News",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-03T21:48:56.850483+00:00"
+    },
+    {
       "tweet": "Aden Holloway just got his ban reversed and is heading back to Alabama. Sports media is a fever dream",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48386918/alabama-holloway-plans-enroll-fall-aims-rejoin-team",
       "buzz_score": 75,
@@ -519,17 +519,6 @@
       "added_at": "2026-04-03T16:38:46.892159+00:00"
     },
     {
-      "tweet": "Trump wants to bump defense spending to 1.5 trillion. Just casually throwing around a trillion like it's pocket change.",
-      "original_url": "https://www.npr.org/2026/04/03/nx-s1-5772701/trump-budget-defense-spending",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump budget seeks $1.5 trillion in defense spending alongside domestic program cuts",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-03T14:36:16.035310+00:00"
-    },
-    {
       "tweet": "Heavy bombing in Tehran this morning. It's just constant at this point.",
       "original_url": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heavy-bombings-tehran",
       "buzz_score": 90,
@@ -541,26 +530,15 @@
       "added_at": "2026-04-02T07:00:05.407808+00:00"
     },
     {
-      "tweet": "Wolves and Sixers are fighting for spots and honestly the stress is hitting. Is it playoff time yet?",
-      "original_url": "https://www.espn.com/nba/story/_/id/48287649/nba-playoff-watch-2026-standings-schedules-projections-clinchings",
-      "buzz_score": 75,
+      "tweet": "Trump wants to bump defense spending to 1.5 trillion. Just casually throwing around a trillion like it's pocket change.",
+      "original_url": "https://www.npr.org/2026/04/03/nx-s1-5772701/trump-budget-defense-spending",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "NBA playoff watch: Wolves, Sixers look to solidify spots",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-03T16:38:46.892165+00:00"
-    },
-    {
-      "tweet": "The Uffizi got hit by hackers but they're swearing the art is safe. Like, sure, hope nobody downloaded the Mona Lisa to their desktop. Classic.",
-      "original_url": "https://www.bbc.com/news/articles/cy51wzeq6g5o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Italy's famed Uffizi admits cyber-attack but denies security breach",
-      "source": "BBC World",
+      "original_title": "Trump budget seeks $1.5 trillion in defense spending alongside domestic program cuts",
+      "source": "NPR News",
       "category": "world",
-      "added_at": "2026-04-03T16:38:46.892154+00:00"
+      "added_at": "2026-04-03T14:36:16.035310+00:00"
     },
     {
       "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
@@ -607,26 +585,26 @@
       "added_at": "2026-04-01T21:56:47.155492+00:00"
     },
     {
-      "tweet": "Cuba is pardoning 2,000 prisoners after the U.S. eased the blockade. Just wild how much global movement happens over a few oil tankers.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/03/cuba-to-release-pardon-prisoners-us-fuel-blockade",
-      "buzz_score": 80,
+      "tweet": "Wolves and Sixers are fighting for spots and honestly the stress is hitting. Is it playoff time yet?",
+      "original_url": "https://www.espn.com/nba/story/_/id/48287649/nba-playoff-watch-2026-standings-schedules-projections-clinchings",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Cuba to pardon more than 2,000 prisoners as US eases fuel blockade",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-03T14:36:16.035325+00:00"
+      "original_title": "NBA playoff watch: Wolves, Sixers look to solidify spots",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-03T16:38:46.892165+00:00"
     },
     {
-      "tweet": "Cardi B is judging a jingle contest for free childcare now. Honestly, the most random crossover of the year so far.",
-      "original_url": "https://www.billboard.com/music/music-news/cardi-b-nyc-mayor-zohran-mamdani-free-childcare-song-contest-1236214247/",
-      "buzz_score": 80,
+      "tweet": "The Uffizi got hit by hackers but they're swearing the art is safe. Like, sure, hope nobody downloaded the Mona Lisa to their desktop. Classic.",
+      "original_url": "https://www.bbc.com/news/articles/cy51wzeq6g5o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Cardi B Partners With NYC Mayor Zohran Mamdani to Launch Jingle Contest for Free Childcare Program",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-03T14:36:16.035314+00:00"
+      "original_title": "Italy's famed Uffizi admits cyber-attack but denies security breach",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-03T16:38:46.892154+00:00"
     },
     {
       "tweet": "We're really gonna spend the whole year dissecting a wedding that hasn't even been announced yet. Taylor Swift and Travis Kelce, man.",
@@ -695,6 +673,28 @@
       "added_at": "2026-04-01T16:44:00.716209+00:00"
     },
     {
+      "tweet": "Cuba is pardoning 2,000 prisoners after the U.S. eased the blockade. Just wild how much global movement happens over a few oil tankers.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/03/cuba-to-release-pardon-prisoners-us-fuel-blockade",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Cuba to pardon more than 2,000 prisoners as US eases fuel blockade",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-03T14:36:16.035325+00:00"
+    },
+    {
+      "tweet": "Cardi B is judging a jingle contest for free childcare now. Honestly, the most random crossover of the year so far.",
+      "original_url": "https://www.billboard.com/music/music-news/cardi-b-nyc-mayor-zohran-mamdani-free-childcare-song-contest-1236214247/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Cardi B Partners With NYC Mayor Zohran Mamdani to Launch Jingle Contest for Free Childcare Program",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-03T14:36:16.035314+00:00"
+    },
+    {
       "tweet": "TCU gave Sonny Dykes a multiyear extension after going 36-17. The grind is real I guess.",
       "original_url": "https://www.espn.com/college-football/story/_/id/48386299/tcu-coach-sonny-dykes-getting-multiyear-extension-sources-say",
       "buzz_score": 70,
@@ -715,17 +715,6 @@
       "source": "Wired",
       "category": "tech",
       "added_at": "2026-04-02T07:00:05.407806+00:00"
-    },
-    {
-      "tweet": "Six weapons experts are calling out the U.S. on that Iran sports hall strike. Just another day of experts vs. the government version of reality.",
-      "original_url": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Experts dispute US account of deadly Iran sports hall strike in Lamerd",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-03T14:36:16.035329+00:00"
     },
     {
       "tweet": "Guy Fieri and Gordon Ramsay arguing over the best pizza in the world is the only discourse I care about. My local spot remains unbothered.",
@@ -1135,48 +1124,15 @@
       "added_at": "2026-04-01T10:52:49.160388+00:00"
     },
     {
-      "tweet": "Found out there's a free AI called Apfel already sitting on my Mac. Why are they hiding this stuff in the settings.",
-      "original_url": "https://apfel.franzai.com",
-      "buzz_score": 70,
+      "tweet": "Six weapons experts are calling out the U.S. on that Iran sports hall strike. Just another day of experts vs. the government version of reality.",
+      "original_url": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Show HN: Apfel – The free AI already on your Mac",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-03T14:36:16.035333+00:00"
-    },
-    {
-      "tweet": "French courts just overturned that ban on a Muslim gathering. Nice to see someone actually check the police on that one.",
-      "original_url": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "France's Muslim gathering ban overturned by courts",
+      "original_title": "Experts dispute US account of deadly Iran sports hall strike in Lamerd",
       "source": "BBC World",
       "category": "world",
-      "added_at": "2026-04-03T14:36:16.035331+00:00"
-    },
-    {
-      "tweet": "Alexander Isak might be back for the FA Cup against Man City after three months out. Liverpool really needs that win.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c0e7qy0rz3eo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Isak could make injury return against Man City",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-03T14:36:16.035323+00:00"
-    },
-    {
-      "tweet": "Apparently the job market added 178,000 jobs in March. Is anyone actually feeling this, or are we all just applying into the void?",
-      "original_url": "https://www.npr.org/2026/04/03/nx-s1-5772696/jobs-employment-economy-labor-market",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The labor market springs back to life in March as employers add 178,000 jobs",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-03T14:36:16.035307+00:00"
+      "added_at": "2026-04-03T14:36:16.035329+00:00"
     },
     {
       "tweet": "Critical Role is turning the Mighty Nein story into a novel. We really can't let go of these characters can we.",
@@ -1575,6 +1531,50 @@
       "added_at": "2026-04-01T10:52:49.160378+00:00"
     },
     {
+      "tweet": "Found out there's a free AI called Apfel already sitting on my Mac. Why are they hiding this stuff in the settings.",
+      "original_url": "https://apfel.franzai.com",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Show HN: Apfel – The free AI already on your Mac",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-03T14:36:16.035333+00:00"
+    },
+    {
+      "tweet": "French courts just overturned that ban on a Muslim gathering. Nice to see someone actually check the police on that one.",
+      "original_url": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "France's Muslim gathering ban overturned by courts",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-03T14:36:16.035331+00:00"
+    },
+    {
+      "tweet": "Alexander Isak might be back for the FA Cup against Man City after three months out. Liverpool really needs that win.",
+      "original_url": "https://www.bbc.com/sport/football/articles/c0e7qy0rz3eo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Isak could make injury return against Man City",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-03T14:36:16.035323+00:00"
+    },
+    {
+      "tweet": "Apparently the job market added 178,000 jobs in March. Is anyone actually feeling this, or are we all just applying into the void?",
+      "original_url": "https://www.npr.org/2026/04/03/nx-s1-5772696/jobs-employment-economy-labor-market",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The labor market springs back to life in March as employers add 178,000 jobs",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-03T14:36:16.035307+00:00"
+    },
+    {
       "tweet": "Anthony Barry went from playing for Accrington to coaching under Tuchel in ten years. Talk about a glow up.",
       "original_url": "https://www.bbc.com/sport/football/articles/ckge7014m5yo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 72,
@@ -1595,17 +1595,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-01T10:52:49.160386+00:00"
-    },
-    {
-      "tweet": "Tailscale just moved their macOS setup. If you know, you know.",
-      "original_url": "https://tailscale.com/blog/macos-notch-escape",
-      "buzz_score": 65,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Tailscale's new macOS home",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-03T14:36:16.035335+00:00"
     },
     {
       "tweet": "Someone actually dumped 15 million into a Cyberpunk trading card game at PAX East. Whatever happened to just playing Magic.",
@@ -1881,6 +1870,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-01T10:52:49.160381+00:00"
+    },
+    {
+      "tweet": "Tailscale just moved their macOS setup. If you know, you know.",
+      "original_url": "https://tailscale.com/blog/macos-notch-escape",
+      "buzz_score": 65,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Tailscale's new macOS home",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-03T14:36:16.035335+00:00"
     },
     {
       "tweet": "Reading about Pokémon Mega Evolutions in 2026. Sometimes you just need to turn your brain off",
