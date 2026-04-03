@@ -145,6 +145,17 @@
       "added_at": "2026-04-02T04:02:05.967147+00:00"
     },
     {
+      "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/fuel-crisis-prices-fall-australia-albanese-gst",
+      "buzz_score": 78,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Fuel prices to fall another 5.7 cents a litre after states and Canberra strike GST deal",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-02T07:00:05.407799+00:00"
+    },
+    {
       "tweet": "Rayan Cherki is apparently splitting opinions again after that Carabao Cup thing. Kid is chaos incarnate.",
       "original_url": "https://www.bbc.com/sport/football/articles/cvge9r8v0jyo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 70,
@@ -220,17 +231,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-03T16:38:46.892154+00:00"
-    },
-    {
-      "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/fuel-crisis-prices-fall-australia-albanese-gst",
-      "buzz_score": 78,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fuel prices to fall another 5.7 cents a litre after states and Canberra strike GST deal",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-02T07:00:05.407799+00:00"
     },
     {
       "tweet": "Macron is officially tired of dealing with Trump and his approach to Iran. You can tell he's just over it.",
@@ -486,17 +486,6 @@
       "added_at": "2026-04-02T07:00:05.407808+00:00"
     },
     {
-      "tweet": "Port Vale is currently fighting to stay in the league, but they're about to play Chelsea in the FA Cup. Can you imagine the stress?",
-      "original_url": "https://www.bbc.com/sport/football/articles/cm2x22jgrkno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hurtling towards relegation - but can Port Vale shock Chelsea in FA Cup?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-03T09:37:17.568144+00:00"
-    },
-    {
       "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
       "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app",
       "buzz_score": 75,
@@ -506,17 +495,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-04-01T16:44:00.716207+00:00"
-    },
-    {
-      "tweet": "Someone actually dumped 15 million into a Cyberpunk trading card game at PAX East. Whatever happened to just playing Magic.",
-      "original_url": "https://www.polygon.com/cyberpunk-tcg-alpha-review-impressions-pax-east-2026/",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Cyberpunk trading card game hands-on impressions from PAX East 2026",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-03T11:51:33.201356+00:00"
     },
     {
       "tweet": "Italy's FA head quit after they missed their third straight World Cup. They just can't catch a break.",
@@ -550,6 +528,28 @@
       "source": "Kotaku",
       "category": "entertainment",
       "added_at": "2026-04-01T21:56:47.155492+00:00"
+    },
+    {
+      "tweet": "Port Vale is currently fighting to stay in the league, but they're about to play Chelsea in the FA Cup. Can you imagine the stress?",
+      "original_url": "https://www.bbc.com/sport/football/articles/cm2x22jgrkno?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hurtling towards relegation - but can Port Vale shock Chelsea in FA Cup?",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-03T09:37:17.568144+00:00"
+    },
+    {
+      "tweet": "Someone actually dumped 15 million into a Cyberpunk trading card game at PAX East. Whatever happened to just playing Magic.",
+      "original_url": "https://www.polygon.com/cyberpunk-tcg-alpha-review-impressions-pax-east-2026/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Cyberpunk trading card game hands-on impressions from PAX East 2026",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-03T11:51:33.201356+00:00"
     },
     {
       "tweet": "We're really gonna spend the whole year dissecting a wedding that hasn't even been announced yet. Taylor Swift and Travis Kelce, man.",
