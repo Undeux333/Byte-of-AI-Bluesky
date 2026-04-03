@@ -530,6 +530,17 @@
       "added_at": "2026-04-03T14:36:16.035310+00:00"
     },
     {
+      "tweet": "Heavy bombing in Tehran this morning. It's just constant at this point.",
+      "original_url": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heavy-bombings-tehran",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Heavy bombings across Tehran jolt its war-weary residents.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-02T07:00:05.407808+00:00"
+    },
+    {
       "tweet": "Wolves and Sixers are fighting for spots and honestly the stress is hitting. Is it playoff time yet?",
       "original_url": "https://www.espn.com/nba/story/_/id/48287649/nba-playoff-watch-2026-standings-schedules-projections-clinchings",
       "buzz_score": 75,
@@ -552,17 +563,6 @@
       "added_at": "2026-04-03T16:38:46.892154+00:00"
     },
     {
-      "tweet": "Heavy bombing in Tehran this morning. It's just constant at this point.",
-      "original_url": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heavy-bombings-tehran",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Heavy bombings across Tehran jolt its war-weary residents.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-02T07:00:05.407808+00:00"
-    },
-    {
       "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
       "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app",
       "buzz_score": 75,
@@ -572,28 +572,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-04-01T16:44:00.716207+00:00"
-    },
-    {
-      "tweet": "Cuba is pardoning 2,000 prisoners after the U.S. eased the blockade. Just wild how much global movement happens over a few oil tankers.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/03/cuba-to-release-pardon-prisoners-us-fuel-blockade",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Cuba to pardon more than 2,000 prisoners as US eases fuel blockade",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-03T14:36:16.035325+00:00"
-    },
-    {
-      "tweet": "Cardi B is judging a jingle contest for free childcare now. Honestly, the most random crossover of the year so far.",
-      "original_url": "https://www.billboard.com/music/music-news/cardi-b-nyc-mayor-zohran-mamdani-free-childcare-song-contest-1236214247/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Cardi B Partners With NYC Mayor Zohran Mamdani to Launch Jingle Contest for Free Childcare Program",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-03T14:36:16.035314+00:00"
     },
     {
       "tweet": "Italy's FA head quit after they missed their third straight World Cup. They just can't catch a break.",
@@ -629,15 +607,26 @@
       "added_at": "2026-04-01T21:56:47.155492+00:00"
     },
     {
-      "tweet": "TCU gave Sonny Dykes a multiyear extension after going 36-17. The grind is real I guess.",
-      "original_url": "https://www.espn.com/college-football/story/_/id/48386299/tcu-coach-sonny-dykes-getting-multiyear-extension-sources-say",
-      "buzz_score": 70,
+      "tweet": "Cuba is pardoning 2,000 prisoners after the U.S. eased the blockade. Just wild how much global movement happens over a few oil tankers.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/03/cuba-to-release-pardon-prisoners-us-fuel-blockade",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Sources: TCU, Dykes reach multiyear extension",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-03T16:38:46.892163+00:00"
+      "original_title": "Cuba to pardon more than 2,000 prisoners as US eases fuel blockade",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-03T14:36:16.035325+00:00"
+    },
+    {
+      "tweet": "Cardi B is judging a jingle contest for free childcare now. Honestly, the most random crossover of the year so far.",
+      "original_url": "https://www.billboard.com/music/music-news/cardi-b-nyc-mayor-zohran-mamdani-free-childcare-song-contest-1236214247/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Cardi B Partners With NYC Mayor Zohran Mamdani to Launch Jingle Contest for Free Childcare Program",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-03T14:36:16.035314+00:00"
     },
     {
       "tweet": "We're really gonna spend the whole year dissecting a wedding that hasn't even been announced yet. Taylor Swift and Travis Kelce, man.",
@@ -706,15 +695,15 @@
       "added_at": "2026-04-01T16:44:00.716209+00:00"
     },
     {
-      "tweet": "Six weapons experts are calling out the U.S. on that Iran sports hall strike. Just another day of experts vs. the government version of reality.",
-      "original_url": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
+      "tweet": "TCU gave Sonny Dykes a multiyear extension after going 36-17. The grind is real I guess.",
+      "original_url": "https://www.espn.com/college-football/story/_/id/48386299/tcu-coach-sonny-dykes-getting-multiyear-extension-sources-say",
+      "buzz_score": 70,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Experts dispute US account of deadly Iran sports hall strike in Lamerd",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-03T14:36:16.035329+00:00"
+      "original_title": "Sources: TCU, Dykes reach multiyear extension",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-03T16:38:46.892163+00:00"
     },
     {
       "tweet": "OnePlus has a 70 dollar promo code out. We're all gonna buy stuff we don't need.",
@@ -726,6 +715,17 @@
       "source": "Wired",
       "category": "tech",
       "added_at": "2026-04-02T07:00:05.407806+00:00"
+    },
+    {
+      "tweet": "Six weapons experts are calling out the U.S. on that Iran sports hall strike. Just another day of experts vs. the government version of reality.",
+      "original_url": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Experts dispute US account of deadly Iran sports hall strike in Lamerd",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-03T14:36:16.035329+00:00"
     },
     {
       "tweet": "Guy Fieri and Gordon Ramsay arguing over the best pizza in the world is the only discourse I care about. My local spot remains unbothered.",
@@ -1575,17 +1575,6 @@
       "added_at": "2026-04-01T10:52:49.160378+00:00"
     },
     {
-      "tweet": "Tailscale just moved their macOS setup. If you know, you know.",
-      "original_url": "https://tailscale.com/blog/macos-notch-escape",
-      "buzz_score": 65,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Tailscale's new macOS home",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-03T14:36:16.035335+00:00"
-    },
-    {
       "tweet": "Anthony Barry went from playing for Accrington to coaching under Tuchel in ten years. Talk about a glow up.",
       "original_url": "https://www.bbc.com/sport/football/articles/ckge7014m5yo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 72,
@@ -1606,6 +1595,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-01T10:52:49.160386+00:00"
+    },
+    {
+      "tweet": "Tailscale just moved their macOS setup. If you know, you know.",
+      "original_url": "https://tailscale.com/blog/macos-notch-escape",
+      "buzz_score": 65,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Tailscale's new macOS home",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-03T14:36:16.035335+00:00"
     },
     {
       "tweet": "Someone actually dumped 15 million into a Cyberpunk trading card game at PAX East. Whatever happened to just playing Magic.",
@@ -1883,17 +1883,6 @@
       "added_at": "2026-04-01T10:52:49.160381+00:00"
     },
     {
-      "tweet": "Seville is out here doing full Holy Week processions even though nobody goes to church anymore. We love a good aesthetic",
-      "original_url": "https://www.npr.org/2026/04/03/nx-s1-5771511/seville-spain-semana-santa-easter-holy-week",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Seville, Spain's Holy Week blends faith, tradition and spectacle",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-03T19:26:24.480526+00:00"
-    },
-    {
       "tweet": "Reading about Pokémon Mega Evolutions in 2026. Sometimes you just need to turn your brain off",
       "original_url": "https://kotaku.com/pokemon-legends-z-a-mega-evolutions-abilities-champions-2000683952",
       "buzz_score": 75,
@@ -1914,6 +1903,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-01T16:44:00.716201+00:00"
+    },
+    {
+      "tweet": "Seville is out here doing full Holy Week processions even though nobody goes to church anymore. We love a good aesthetic",
+      "original_url": "https://www.npr.org/2026/04/03/nx-s1-5771511/seville-spain-semana-santa-easter-holy-week",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Seville, Spain's Holy Week blends faith, tradition and spectacle",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-03T19:26:24.480526+00:00"
     },
     {
       "tweet": "Costa Rica is taking migrants for the US now. We're just outsourcing the border at this point",
