@@ -2,28 +2,6 @@
   "last_collected": "2026-04-03T19:26:24.480549+00:00",
   "queue": [
     {
-      "tweet": "That F-15E Strike Eagle just got shot down in Iran. Wild",
-      "original_url": "https://www.nytimes.com/2026/04/03/world/middleeast/f15e-strike-eagle.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The F-15E Strike Eagle: What to Know",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-03T19:26:24.480530+00:00"
-    },
-    {
-      "tweet": "Just saw a list of 80s cartoons and realized my entire personality is built on nostalgia for stuff I didn't even watch. We really just love feeling old",
-      "original_url": "https://www.mentalfloss.com/entertainment/tv/nostlagic-80s-cartoons?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "7 Nostalgic Kids' Cartoons That Defined TV in the '80s",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-03T19:26:24.480513+00:00"
-    },
-    {
       "tweet": "Cameron Boozer is the AP Player of the Year as a freshman. We’re officially at the point where these kids are younger than my memories",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48386412/duke-freshman-cameron-boozer-named-ap-player-year",
       "buzz_score": 80,
@@ -156,6 +134,17 @@
       "added_at": "2026-04-02T04:02:05.967147+00:00"
     },
     {
+      "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/fuel-crisis-prices-fall-australia-albanese-gst",
+      "buzz_score": 78,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Fuel prices to fall another 5.7 cents a litre after states and Canberra strike GST deal",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-02T07:00:05.407799+00:00"
+    },
+    {
       "tweet": "Aden Holloway just got his ban reversed and is heading back to Alabama. Sports media is a fever dream",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48386918/alabama-holloway-plans-enroll-fall-aims-rejoin-team",
       "buzz_score": 75,
@@ -187,17 +176,6 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-03T11:51:33.201363+00:00"
-    },
-    {
-      "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/fuel-crisis-prices-fall-australia-albanese-gst",
-      "buzz_score": 78,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fuel prices to fall another 5.7 cents a litre after states and Canberra strike GST deal",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-02T07:00:05.407799+00:00"
     },
     {
       "tweet": "Four Premier League clubs are fighting over Morgan Rogers. Is anyone actually gonna pay that asking price?",
@@ -376,17 +354,6 @@
       "added_at": "2026-04-03T09:37:17.568150+00:00"
     },
     {
-      "tweet": "Trump wants to bump defense spending to 1.5 trillion. Just casually throwing around a trillion like it's pocket change.",
-      "original_url": "https://www.npr.org/2026/04/03/nx-s1-5772701/trump-budget-defense-spending",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump budget seeks $1.5 trillion in defense spending alongside domestic program cuts",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-03T14:36:16.035310+00:00"
-    },
-    {
       "tweet": "The Bears are waiting until late spring to pick a stadium site. Chicago sports fans are a different breed of patient",
       "original_url": "https://www.espn.com/nfl/story/_/id/48371358/bears-ceo-stadium-decision-likely-late-spring-early-summer",
       "buzz_score": 70,
@@ -429,6 +396,17 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-01T21:56:47.155494+00:00"
+    },
+    {
+      "tweet": "Trump wants to bump defense spending to 1.5 trillion. Just casually throwing around a trillion like it's pocket change.",
+      "original_url": "https://www.npr.org/2026/04/03/nx-s1-5772701/trump-budget-defense-spending",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump budget seeks $1.5 trillion in defense spending alongside domestic program cuts",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-03T14:36:16.035310+00:00"
     },
     {
       "tweet": "Wolves and Sixers are fighting for spots and honestly the stress is hitting. Is it playoff time yet?",
@@ -497,6 +475,28 @@
       "added_at": "2026-04-03T14:36:16.035329+00:00"
     },
     {
+      "tweet": "Heavy bombing in Tehran this morning. It's just constant at this point.",
+      "original_url": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heavy-bombings-tehran",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Heavy bombings across Tehran jolt its war-weary residents.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-02T07:00:05.407808+00:00"
+    },
+    {
+      "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
+      "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app",
+      "buzz_score": 75,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Federal judge rules DHS illegally stripped immigration status from thousands who entered through CBP One App",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-01T16:44:00.716207+00:00"
+    },
+    {
       "tweet": "Found out there's a free AI called Apfel already sitting on my Mac. Why are they hiding this stuff in the settings.",
       "original_url": "https://apfel.franzai.com",
       "buzz_score": 70,
@@ -541,39 +541,6 @@
       "added_at": "2026-04-03T14:36:16.035307+00:00"
     },
     {
-      "tweet": "Heavy bombing in Tehran this morning. It's just constant at this point.",
-      "original_url": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heavy-bombings-tehran",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Heavy bombings across Tehran jolt its war-weary residents.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-02T07:00:05.407808+00:00"
-    },
-    {
-      "tweet": "Guy Fieri and Gordon Ramsay arguing over the best pizza in the world is the only discourse I care about. My local spot remains unbothered.",
-      "original_url": "https://www.mentalfloss.com/food/best-pizza-according-celebrity-chefs?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The Best Pizza in the World, According to Guy Fieri, Gordon Ramsay, and 4 More Celebrity Chefs",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-03T11:51:33.201361+00:00"
-    },
-    {
-      "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
-      "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Federal judge rules DHS illegally stripped immigration status from thousands who entered through CBP One App",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-01T16:44:00.716207+00:00"
-    },
-    {
       "tweet": "Italy's FA head quit after they missed their third straight World Cup. They just can't catch a break.",
       "original_url": "https://www.bbc.com/sport/football/articles/ckgr620w5eyo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 88,
@@ -607,15 +574,15 @@
       "added_at": "2026-04-01T21:56:47.155492+00:00"
     },
     {
-      "tweet": "Tailscale just moved their macOS setup. If you know, you know.",
-      "original_url": "https://tailscale.com/blog/macos-notch-escape",
-      "buzz_score": 65,
+      "tweet": "Guy Fieri and Gordon Ramsay arguing over the best pizza in the world is the only discourse I care about. My local spot remains unbothered.",
+      "original_url": "https://www.mentalfloss.com/food/best-pizza-according-celebrity-chefs?utm_source=RSS",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Tailscale's new macOS home",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-03T14:36:16.035335+00:00"
+      "original_title": "The Best Pizza in the World, According to Guy Fieri, Gordon Ramsay, and 4 More Celebrity Chefs",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-03T11:51:33.201361+00:00"
     },
     {
       "tweet": "We're really gonna spend the whole year dissecting a wedding that hasn't even been announced yet. Taylor Swift and Travis Kelce, man.",
@@ -682,6 +649,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-01T16:44:00.716209+00:00"
+    },
+    {
+      "tweet": "Tailscale just moved their macOS setup. If you know, you know.",
+      "original_url": "https://tailscale.com/blog/macos-notch-escape",
+      "buzz_score": 65,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Tailscale's new macOS home",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-03T14:36:16.035335+00:00"
     },
     {
       "tweet": "Critical Role is turning the Mighty Nein story into a novel. We really can't let go of these characters can we.",
@@ -3250,7 +3228,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 119,
+    "total_posted": 121,
     "total_collected": 323
   }
 }
