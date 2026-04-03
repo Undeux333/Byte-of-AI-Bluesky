@@ -2,28 +2,6 @@
   "last_collected": "2026-04-03T06:42:34.640454+00:00",
   "queue": [
     {
-      "tweet": "Four astronauts are officially on their way to the Moon and are just kind of stuck there now. Inexorably.",
-      "original_url": "https://arstechnica.com/space/2026/04/four-astronauts-are-now-inexorably-bound-for-the-moon/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Four astronauts are now inexorably bound for the Moon",
-      "source": "Ars Technica",
-      "category": "tech",
-      "added_at": "2026-04-03T03:26:34.261216+00:00"
-    },
-    {
-      "tweet": "Bro, that former Azure engineer just laid out how they actually broke trust with us. Turns out it's just standard corporate rot. Classic.",
-      "original_url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-03T00:04:23.214172+00:00"
-    },
-    {
       "tweet": "Australia told the US they aren't changing their drug prices for Trump. Love seeing someone actually say no.",
       "original_url": "https://www.theguardian.com/business/2026/apr/03/australia-says-it-wont-raise-drug-prices-after-trumps-100-tariff-on-pharmaceuticals-imported-into-us",
       "buzz_score": 80,
@@ -35,6 +13,17 @@
       "added_at": "2026-04-03T00:04:23.214192+00:00"
     },
     {
+      "tweet": "Vir Das is directing a found-footage horror movie. That's actually a wild pivot.",
+      "original_url": "https://variety.com/2026/film/news/vir-das-found-footage-horror-film-baara-number-1236704411/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Vir Das Sets Found-Footage Horror Film ‘Baara Number’ (EXCLUSIVE)",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-02T04:02:05.967147+00:00"
+    },
+    {
       "tweet": "Macron is officially tired of dealing with Trump and his approach to Iran. You can tell he's just over it.",
       "original_url": "https://www.nytimes.com/2026/04/02/world/middleeast/iran-war-trump-strait.html",
       "buzz_score": 75,
@@ -44,6 +33,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-03T00:04:23.214181+00:00"
+    },
+    {
+      "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/fuel-crisis-prices-fall-australia-albanese-gst",
+      "buzz_score": 78,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Fuel prices to fall another 5.7 cents a litre after states and Canberra strike GST deal",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-02T07:00:05.407799+00:00"
     },
     {
       "tweet": "ICE finally released that Canadian mom and her seven-year-old after three weeks. Took them long enough.",
@@ -66,50 +66,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-03T06:42:34.640438+00:00"
-    },
-    {
-      "tweet": "Vir Das is directing a found-footage horror movie. That's actually a wild pivot.",
-      "original_url": "https://variety.com/2026/film/news/vir-das-found-footage-horror-film-baara-number-1236704411/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Vir Das Sets Found-Footage Horror Film ‘Baara Number’ (EXCLUSIVE)",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-02T04:02:05.967147+00:00"
-    },
-    {
-      "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/fuel-crisis-prices-fall-australia-albanese-gst",
-      "buzz_score": 78,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fuel prices to fall another 5.7 cents a litre after states and Canberra strike GST deal",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-02T07:00:05.407799+00:00"
-    },
-    {
-      "tweet": "Jack White and Arlo Parks dropping new stuff today is the only thing keeping the week alive. Bless.",
-      "original_url": "https://www.billboard.com/music/pop/jack-white-arlo-parks-anne-hathaway-new-music-friday-guide-1236213934/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Jack White, Arlo Parks, Anne Hathaway & More: New Music Friday Guide",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-03T06:42:34.640449+00:00"
-    },
-    {
-      "tweet": "Artemis II is heading to the far side of the Moon, first time we’ve left orbit since 1972. We're finally doing it.",
-      "original_url": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Artemis II blasts ever closer to the far side of the Moon",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-03T06:42:34.640440+00:00"
     },
     {
       "tweet": "Reading about life in Nazi Berlin and how easy it was for everyone to just go along with it. We like to think we’re different, but yeah.",
@@ -167,15 +123,26 @@
       "added_at": "2026-04-01T14:17:58.856553+00:00"
     },
     {
-      "tweet": "Bruce Hornsby said he was trying not to write songs to deal with burnout. Sometimes doing nothing is the only way to get back to it.",
-      "original_url": "https://www.billboard.com/music/pop/bruce-hornsby-indigo-park-interview-1236214697/",
-      "buzz_score": 70,
+      "tweet": "Jack White and Arlo Parks dropping new stuff today is the only thing keeping the week alive. Bless.",
+      "original_url": "https://www.billboard.com/music/pop/jack-white-arlo-parks-anne-hathaway-new-music-friday-guide-1236213934/",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "‘I Was Trying Not to Write Songs’: How Bruce Hornsby Recovered From Burnout to Record ‘Indigo Park’",
+      "original_title": "Jack White, Arlo Parks, Anne Hathaway & More: New Music Friday Guide",
       "source": "Billboard",
       "category": "entertainment",
-      "added_at": "2026-04-03T06:42:34.640447+00:00"
+      "added_at": "2026-04-03T06:42:34.640449+00:00"
+    },
+    {
+      "tweet": "Artemis II is heading to the far side of the Moon, first time we’ve left orbit since 1972. We're finally doing it.",
+      "original_url": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Artemis II blasts ever closer to the far side of the Moon",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-03T06:42:34.640440+00:00"
     },
     {
       "tweet": "The Bears are waiting until late spring to pick a stadium site. Chicago sports fans are a different breed of patient",
@@ -222,6 +189,17 @@
       "added_at": "2026-04-01T21:56:47.155494+00:00"
     },
     {
+      "tweet": "Bruce Hornsby said he was trying not to write songs to deal with burnout. Sometimes doing nothing is the only way to get back to it.",
+      "original_url": "https://www.billboard.com/music/pop/bruce-hornsby-indigo-park-interview-1236214697/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘I Was Trying Not to Write Songs’: How Bruce Hornsby Recovered From Burnout to Record ‘Indigo Park’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-03T06:42:34.640447+00:00"
+    },
+    {
       "tweet": "Iran is vowing retaliation after that bridge strike, saying they'll build it back stronger. Who pays for that.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/iran-vows-retaliation-after-deadly-us-strike-on-bridge-in-karaj?traffic_source=rss",
       "buzz_score": 80,
@@ -266,6 +244,17 @@
       "added_at": "2026-04-03T03:26:34.261211+00:00"
     },
     {
+      "tweet": "Heavy bombing in Tehran this morning. It's just constant at this point.",
+      "original_url": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heavy-bombings-tehran",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Heavy bombings across Tehran jolt its war-weary residents.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-02T07:00:05.407808+00:00"
+    },
+    {
       "tweet": "We're really gonna spend the whole year dissecting a wedding that hasn't even been announced yet. Taylor Swift and Travis Kelce, man.",
       "original_url": "https://www.billboard.com/lists/what-we-know-about-taylor-swift-travis-kelce-wedding/",
       "buzz_score": 85,
@@ -275,6 +264,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-03T00:04:23.214184+00:00"
+    },
+    {
+      "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
+      "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app",
+      "buzz_score": 75,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Federal judge rules DHS illegally stripped immigration status from thousands who entered through CBP One App",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-01T16:44:00.716207+00:00"
     },
     {
       "tweet": "James Marsden is joining Jon Hamm for Your Friends & Neighbors season two. High octane.",
@@ -341,50 +341,6 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-03T03:26:34.261214+00:00"
-    },
-    {
-      "tweet": "Heavy bombing in Tehran this morning. It's just constant at this point.",
-      "original_url": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heavy-bombings-tehran",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Heavy bombings across Tehran jolt its war-weary residents.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-02T07:00:05.407808+00:00"
-    },
-    {
-      "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
-      "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Federal judge rules DHS illegally stripped immigration status from thousands who entered through CBP One App",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-01T16:44:00.716207+00:00"
-    },
-    {
-      "tweet": "Trump wants a 100-percent tariff on drugs to force better deals. Just making the pharmacy aisle a hostage situation.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/2/trump-unveils-100-percent-tariff-on-drugs-to-push-for-pharmaceutical-deals?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump unveils 100-percent tariff on drugs to push for pharmaceutical deals",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-03T00:04:23.214190+00:00"
-    },
-    {
-      "tweet": "Ok but Delve really just ctrl+c, ctrl+v’d someone else’s open-source tool and called it a day. Shameless.",
-      "original_url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Delve allegedly forked an open-source tool and sold it as its own",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-03T00:04:23.214178+00:00"
     },
     {
       "tweet": "Italy's FA head quit after they missed their third straight World Cup. They just can't catch a break.",
@@ -475,26 +431,26 @@
       "added_at": "2026-04-01T16:44:00.716209+00:00"
     },
     {
-      "tweet": "Zendaya wore a feathery skirt that's basically just 'I have a meeting at nine and a rave at ten.' Honestly, mood.",
-      "original_url": "https://www.bustle.com/style/zendaya-feathery-statement-skirt-tweed-jacket",
-      "buzz_score": 75,
+      "tweet": "Trump wants a 100-percent tariff on drugs to force better deals. Just making the pharmacy aisle a hostage situation.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/2/trump-unveils-100-percent-tariff-on-drugs-to-push-for-pharmaceutical-deals?traffic_source=rss",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Zendaya's Feathery Skirt 'Fit Was Business On Top, Party On The Bottom",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-04-03T00:04:23.214202+00:00"
+      "original_title": "Trump unveils 100-percent tariff on drugs to push for pharmaceutical deals",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-03T00:04:23.214190+00:00"
     },
     {
-      "tweet": "Take-Two is reshuffling their AI team again. Seems like they're just chasing shadows.",
-      "original_url": "https://kotaku.com/take-two-ai-zynga-layoffs-gta-2000684344",
-      "buzz_score": 75,
+      "tweet": "Ok but Delve really just ctrl+c, ctrl+v’d someone else’s open-source tool and called it a day. Shameless.",
+      "original_url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Take-Two Reshuffles Its AI Team",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-03T00:04:23.214197+00:00"
+      "original_title": "Delve allegedly forked an open-source tool and sold it as its own",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-03T00:04:23.214178+00:00"
     },
     {
       "tweet": "OnePlus has a 70 dollar promo code out. We're all gonna buy stuff we don't need.",
@@ -838,26 +794,26 @@
       "added_at": "2026-04-01T10:52:49.160388+00:00"
     },
     {
-      "tweet": "We're already hunting for third-party Switch 2 controllers and the console isn't even out. We have zero chill.",
-      "original_url": "https://www.polygon.com/best-third-party-switch-2-pro-controllers/",
-      "buzz_score": 70,
+      "tweet": "Zendaya wore a feathery skirt that's basically just 'I have a meeting at nine and a rave at ten.' Honestly, mood.",
+      "original_url": "https://www.bustle.com/style/zendaya-feathery-statement-skirt-tweed-jacket",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "The best third-party Nintendo Switch 2 Pro Controllers on sale right noow",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-03T00:04:23.214199+00:00"
+      "original_title": "Zendaya's Feathery Skirt 'Fit Was Business On Top, Party On The Bottom",
+      "source": "Bustle",
+      "category": "sex",
+      "added_at": "2026-04-03T00:04:23.214202+00:00"
     },
     {
-      "tweet": "A judge just told Chandler Morris he can't play a seventh year at UVA. Dude is gonna be in college until he's thirty.",
-      "original_url": "https://www.espn.com/college-football/story/_/id/48381387/virginia-qb-morris-injunction-request-denied-judge",
-      "buzz_score": 70,
+      "tweet": "Take-Two is reshuffling their AI team again. Seems like they're just chasing shadows.",
+      "original_url": "https://kotaku.com/take-two-ai-zynga-layoffs-gta-2000684344",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Judge denies UVA QB Morris' request for 7th year",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-03T00:04:23.214186+00:00"
+      "original_title": "Take-Two Reshuffles Its AI Team",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-03T00:04:23.214197+00:00"
     },
     {
       "tweet": "Reading a guide on how to actually finish open-world games. I'm just here to look at the trees.",
@@ -1155,6 +1111,28 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-01T10:52:49.160378+00:00"
+    },
+    {
+      "tweet": "We're already hunting for third-party Switch 2 controllers and the console isn't even out. We have zero chill.",
+      "original_url": "https://www.polygon.com/best-third-party-switch-2-pro-controllers/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The best third-party Nintendo Switch 2 Pro Controllers on sale right noow",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-03T00:04:23.214199+00:00"
+    },
+    {
+      "tweet": "A judge just told Chandler Morris he can't play a seventh year at UVA. Dude is gonna be in college until he's thirty.",
+      "original_url": "https://www.espn.com/college-football/story/_/id/48381387/virginia-qb-morris-injunction-request-denied-judge",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Judge denies UVA QB Morris' request for 7th year",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-03T00:04:23.214186+00:00"
     },
     {
       "tweet": "Anthony Barry went from playing for Accrington to coaching under Tuchel in ten years. Talk about a glow up.",
@@ -2799,7 +2777,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 95,
+    "total_posted": 97,
     "total_collected": 258
   }
 }
