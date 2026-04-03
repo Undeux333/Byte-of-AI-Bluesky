@@ -2,28 +2,6 @@
   "last_collected": "2026-04-03T03:26:34.261247+00:00",
   "queue": [
     {
-      "tweet": "LinkedIn is now searching through your browser extensions. I don't know what’s worse, the fact that they’re doing it or that we’re still using the site. Privacy.",
-      "original_url": "https://browsergate.eu/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "LinkedIn is searching your browser extensions",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-03T03:26:34.261199+00:00"
-    },
-    {
-      "tweet": "Jack Black and Jack White are hosting SNL together this weekend. Finally.",
-      "original_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/jack-black-jack-white-saturday-night-live-1235541276/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Jack Black and Jack White Prepare to Celebrate ‘Most Metal Holidays of All Time’ in ‘SNL’ Trailer",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-04-03T03:26:34.261218+00:00"
-    },
-    {
       "tweet": "Royals catcher Carter Jensen got scratched from the lineup today because he literally overslept. Professional athlete.",
       "original_url": "https://www.espn.com/mlb/story/_/id/48381778/royals-catcher-carter-jensen-scratched-oversleeping",
       "buzz_score": 80,
@@ -79,17 +57,6 @@
       "added_at": "2026-04-03T00:04:23.214181+00:00"
     },
     {
-      "tweet": "Iran is vowing retaliation after that bridge strike, saying they'll build it back stronger. Who pays for that.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/iran-vows-retaliation-after-deadly-us-strike-on-bridge-in-karaj?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran vows retaliation after deadly US strike on bridge in Karaj",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-03T03:26:34.261236+00:00"
-    },
-    {
       "tweet": "Vir Das is directing a found-footage horror movie. That's actually a wild pivot.",
       "original_url": "https://variety.com/2026/film/news/vir-das-found-footage-horror-film-baara-number-1236704411/",
       "buzz_score": 80,
@@ -99,39 +66,6 @@
       "source": "Variety",
       "category": "entertainment",
       "added_at": "2026-04-02T04:02:05.967147+00:00"
-    },
-    {
-      "tweet": "Hegseth is asking the top general to step down. It’s wild how fast that stuff happens.",
-      "original_url": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hegseth asks US Army's top general to step down",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-03T03:26:34.261231+00:00"
-    },
-    {
-      "tweet": "Trump’s got all these conflicting messages out there about a war with Iran. What's the plan.",
-      "original_url": "https://www.nytimes.com/video/world/middleeast/100000010815863/trumps-strait-of-hormuz-problem.html",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump’s Strait of Hormuz Problem",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-03T03:26:34.261229+00:00"
-    },
-    {
-      "tweet": "Police just charged two teenagers in NSW for holding onto extremist material. They found a ballistic vest and notebooks. Teens.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/03/two-nsw-teenagers-charged-over-violent-extremist-material-allegedly-linked-to-terror-ntwnfb",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Two NSW teenagers charged over violent extremist material allegedly linked to terror",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-03T03:26:34.261211+00:00"
     },
     {
       "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
@@ -145,15 +79,15 @@
       "added_at": "2026-04-02T07:00:05.407799+00:00"
     },
     {
-      "tweet": "We're really gonna spend the whole year dissecting a wedding that hasn't even been announced yet. Taylor Swift and Travis Kelce, man.",
-      "original_url": "https://www.billboard.com/lists/what-we-know-about-taylor-swift-travis-kelce-wedding/",
-      "buzz_score": 85,
+      "tweet": "Iran is vowing retaliation after that bridge strike, saying they'll build it back stronger. Who pays for that.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/iran-vows-retaliation-after-deadly-us-strike-on-bridge-in-karaj?traffic_source=rss",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Here’s Everything We Know About Taylor Swift & Travis Kelce’s Wedding So Far",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-03T00:04:23.214184+00:00"
+      "original_title": "Iran vows retaliation after deadly US strike on bridge in Karaj",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-03T03:26:34.261236+00:00"
     },
     {
       "tweet": "Reading about life in Nazi Berlin and how easy it was for everyone to just go along with it. We like to think we’re different, but yeah.",
@@ -211,6 +145,94 @@
       "added_at": "2026-04-01T14:17:58.856553+00:00"
     },
     {
+      "tweet": "Hegseth is asking the top general to step down. It’s wild how fast that stuff happens.",
+      "original_url": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hegseth asks US Army's top general to step down",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-03T03:26:34.261231+00:00"
+    },
+    {
+      "tweet": "Trump’s got all these conflicting messages out there about a war with Iran. What's the plan.",
+      "original_url": "https://www.nytimes.com/video/world/middleeast/100000010815863/trumps-strait-of-hormuz-problem.html",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump’s Strait of Hormuz Problem",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-03T03:26:34.261229+00:00"
+    },
+    {
+      "tweet": "Police just charged two teenagers in NSW for holding onto extremist material. They found a ballistic vest and notebooks. Teens.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/03/two-nsw-teenagers-charged-over-violent-extremist-material-allegedly-linked-to-terror-ntwnfb",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Two NSW teenagers charged over violent extremist material allegedly linked to terror",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-03T03:26:34.261211+00:00"
+    },
+    {
+      "tweet": "The Bears are waiting until late spring to pick a stadium site. Chicago sports fans are a different breed of patient",
+      "original_url": "https://www.espn.com/nfl/story/_/id/48371358/bears-ceo-stadium-decision-likely-late-spring-early-summer",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Bears' stadium choice 'late spring, early summer'",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-01T21:56:47.155512+00:00"
+    },
+    {
+      "tweet": "Republicans in Congress have a deal to end the DHS shutdown. It took them long enough",
+      "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770566/dhs-shutdown-congress-republicans",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Republicans in Congress say they have a deal to end the record-long shutdown at DHS",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-01T21:56:47.155508+00:00"
+    },
+    {
+      "tweet": "Australian opposition saying the PM's national address could've been a social media post. Absolute savage",
+      "original_url": "https://www.theguardian.com/australia-news/live/2026/apr/02/anthony-albanese-fuel-crisis-angus-taylor-middle-east-labor-liberals-easter-travel-press-club-ntwnfb",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australia news live: Angus Taylor urges clarity on fuel crisis and says PM’s national address ‘could have been a social media post’",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-01T21:56:47.155506+00:00"
+    },
+    {
+      "tweet": "Magic the Gathering booster boxes are a hundred bucks off on Amazon. We really can't help ourselves",
+      "original_url": "https://www.polygon.com/mtg-magic-gathering-avatar-collector-booster-sale/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "MTG's Avatar Collector Booster boxes are currently $100 off on Amazon",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-01T21:56:47.155494+00:00"
+    },
+    {
+      "tweet": "We're really gonna spend the whole year dissecting a wedding that hasn't even been announced yet. Taylor Swift and Travis Kelce, man.",
+      "original_url": "https://www.billboard.com/lists/what-we-know-about-taylor-swift-travis-kelce-wedding/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Here’s Everything We Know About Taylor Swift & Travis Kelce’s Wedding So Far",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-03T00:04:23.214184+00:00"
+    },
+    {
       "tweet": "James Marsden is joining Jon Hamm for Your Friends & Neighbors season two. High octane.",
       "original_url": "https://variety.com/2026/tv/reviews/your-friends-and-neighbors-season-2-review-jon-hamm-1236701587/",
       "buzz_score": 70,
@@ -222,17 +244,6 @@
       "added_at": "2026-04-03T03:26:34.261242+00:00"
     },
     {
-      "tweet": "Taking a quiz to match Pixar villains. I forgot how many of these guys were actually terrifying.",
-      "original_url": "https://www.mentalfloss.com/quizzes/match-pixar-movie-villain?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Quiz: Can You Match the Pixar Movie to Its Villain?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-03T03:26:34.261238+00:00"
-    },
-    {
       "tweet": "Manon from Katseye is still in positive conversations about returning. Still nothing.",
       "original_url": "https://www.rollingstone.com/music/music-news/manon-katseye-hiatus-statement-positive-conversations-1235541311/",
       "buzz_score": 70,
@@ -242,6 +253,17 @@
       "source": "Rolling Stone",
       "category": "entertainment",
       "added_at": "2026-04-03T03:26:34.261240+00:00"
+    },
+    {
+      "tweet": "Taking a quiz to match Pixar villains. I forgot how many of these guys were actually terrifying.",
+      "original_url": "https://www.mentalfloss.com/quizzes/match-pixar-movie-villain?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Quiz: Can You Match the Pixar Movie to Its Villain?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-03T03:26:34.261238+00:00"
     },
     {
       "tweet": "KU’s Flory Bidunga is hitting the portal. Over 800 players have done it now.",
@@ -297,50 +319,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-03T00:04:23.214178+00:00"
-    },
-    {
-      "tweet": "The Bears are waiting until late spring to pick a stadium site. Chicago sports fans are a different breed of patient",
-      "original_url": "https://www.espn.com/nfl/story/_/id/48371358/bears-ceo-stadium-decision-likely-late-spring-early-summer",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Bears' stadium choice 'late spring, early summer'",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-01T21:56:47.155512+00:00"
-    },
-    {
-      "tweet": "Republicans in Congress have a deal to end the DHS shutdown. It took them long enough",
-      "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770566/dhs-shutdown-congress-republicans",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Republicans in Congress say they have a deal to end the record-long shutdown at DHS",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-01T21:56:47.155508+00:00"
-    },
-    {
-      "tweet": "Australian opposition saying the PM's national address could've been a social media post. Absolute savage",
-      "original_url": "https://www.theguardian.com/australia-news/live/2026/apr/02/anthony-albanese-fuel-crisis-angus-taylor-middle-east-labor-liberals-easter-travel-press-club-ntwnfb",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australia news live: Angus Taylor urges clarity on fuel crisis and says PM’s national address ‘could have been a social media post’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-01T21:56:47.155506+00:00"
-    },
-    {
-      "tweet": "Magic the Gathering booster boxes are a hundred bucks off on Amazon. We really can't help ourselves",
-      "original_url": "https://www.polygon.com/mtg-magic-gathering-avatar-collector-booster-sale/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "MTG's Avatar Collector Booster boxes are currently $100 off on Amazon",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-01T21:56:47.155494+00:00"
     },
     {
       "tweet": "Zendaya wore a feathery skirt that's basically just 'I have a meeting at nine and a rave at ten.' Honestly, mood.",
@@ -409,6 +387,28 @@
       "added_at": "2026-04-02T21:59:04.723198+00:00"
     },
     {
+      "tweet": "Heavy bombing in Tehran this morning. It's just constant at this point.",
+      "original_url": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heavy-bombings-tehran",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Heavy bombings across Tehran jolt its war-weary residents.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-02T07:00:05.407808+00:00"
+    },
+    {
+      "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
+      "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app",
+      "buzz_score": 75,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Federal judge rules DHS illegally stripped immigration status from thousands who entered through CBP One App",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-01T16:44:00.716207+00:00"
+    },
+    {
       "tweet": "We're already hunting for third-party Switch 2 controllers and the console isn't even out. We have zero chill.",
       "original_url": "https://www.polygon.com/best-third-party-switch-2-pro-controllers/",
       "buzz_score": 70,
@@ -429,6 +429,39 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-03T00:04:23.214186+00:00"
+    },
+    {
+      "tweet": "Italy's FA head quit after they missed their third straight World Cup. They just can't catch a break.",
+      "original_url": "https://www.bbc.com/sport/football/articles/ckgr620w5eyo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Italian FA head and Buffon quit over World Cup failure",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-02T16:35:16.423142+00:00"
+    },
+    {
+      "tweet": "Macron basically told Trump to stop tweeting about the war and be serious. Imagine being the guy who has to tell him to log off.",
+      "original_url": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-02T16:35:16.423131+00:00"
+    },
+    {
+      "tweet": "An always-online game got ditched by its server provider for AI and had to patch in offline mode overnight. Talk about a pivot",
+      "original_url": "https://kotaku.com/stormgate-rts-patch-offline-mode-after-server-provider-ditches-them-for-ai-2000683998",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Always-Online RTS Has To Quickly Patch In Offline Mode After Server Provider Ditches Them For AI",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-01T21:56:47.155492+00:00"
     },
     {
       "tweet": "The EPA is finally flagging microplastics in our drinking water. We’re basically just human-shaped plastic bags now.",
@@ -475,105 +508,6 @@
       "added_at": "2026-04-02T21:59:04.723202+00:00"
     },
     {
-      "tweet": "Heavy bombing in Tehran this morning. It's just constant at this point.",
-      "original_url": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heavy-bombings-tehran",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Heavy bombings across Tehran jolt its war-weary residents.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-02T07:00:05.407808+00:00"
-    },
-    {
-      "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
-      "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Federal judge rules DHS illegally stripped immigration status from thousands who entered through CBP One App",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-01T16:44:00.716207+00:00"
-    },
-    {
-      "tweet": "Silas Demary Jr. is playing through an ankle sprain for UConn because it’s rings or nothing. That’s the kind of pressure that ruins your 40s.",
-      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48379507/uconn-silas-demary-expected-90-final-four",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Demary 90% as UConn seeks 'rings, not watches'",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-02T19:34:52.043756+00:00"
-    },
-    {
-      "tweet": "Russia is sending a second oil tanker to Cuba right now. Are we just pretending this is normal behavior.",
-      "original_url": "https://www.nytimes.com/2026/04/02/world/americas/cuba-russia-oil-tanker.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Russia Is Sending a Second Oil Tanker to Fuel-Starved Cuba",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-02T19:34:52.043748+00:00"
-    },
-    {
-      "tweet": "Italy's FA head quit after they missed their third straight World Cup. They just can't catch a break.",
-      "original_url": "https://www.bbc.com/sport/football/articles/ckgr620w5eyo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Italian FA head and Buffon quit over World Cup failure",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-02T16:35:16.423142+00:00"
-    },
-    {
-      "tweet": "Macron basically told Trump to stop tweeting about the war and be serious. Imagine being the guy who has to tell him to log off.",
-      "original_url": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-02T16:35:16.423131+00:00"
-    },
-    {
-      "tweet": "An always-online game got ditched by its server provider for AI and had to patch in offline mode overnight. Talk about a pivot",
-      "original_url": "https://kotaku.com/stormgate-rts-patch-offline-mode-after-server-provider-ditches-them-for-ai-2000683998",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Always-Online RTS Has To Quickly Patch In Offline Mode After Server Provider Ditches Them For AI",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-01T21:56:47.155492+00:00"
-    },
-    {
-      "tweet": "The US and China are racing to the moon again. Are we really doing this.",
-      "original_url": "https://www.nytimes.com/2026/04/02/world/space-artemis-us-china-trump-iran-pam-bondi.html",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The Race for the Future of the Moon",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-02T21:59:04.723223+00:00"
-    },
-    {
-      "tweet": "Hotels fold toilet paper into triangles just to show someone was in your room. Like we couldn't tell.",
-      "original_url": "https://www.mentalfloss.com/random-facts/why-do-hotels-fold-toilet-paper-triangle?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Why Do Hotels Fold Toilet Paper Into a Triangle?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-02T21:59:04.723192+00:00"
-    },
-    {
       "tweet": "The Pirates called up their 19-year-old phenom Griffin for opening day. The kid can't even legally drink yet.",
       "original_url": "https://www.espn.com/mlb/story/_/id/48377716/pirates-call-no-1-prospect-konnor-griffin-home-opener",
       "buzz_score": 85,
@@ -618,39 +552,6 @@
       "added_at": "2026-04-01T16:44:00.716209+00:00"
     },
     {
-      "tweet": "The GCC is asking the UN to keep the waterways open amid the Iran tension. Do they think the UN is actually listening.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/2/gcc-chief-urges-un-to-halt-iranian-attacks-protect-gulf-waterways?traffic_source=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "GCC chief urges UN to halt Iranian attacks, protect Gulf waterways",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-02T19:34:52.043774+00:00"
-    },
-    {
-      "tweet": "Jennie from BLACKPINK dropped a collection with Frankies Bikinis. We all know we’re buying it just for the label. Classic.",
-      "original_url": "https://www.billboard.com/culture/product-recommendations/blackpink-jennie-frankies-bikinis-collection-where-to-buy-1236213428/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Our Favorite Pieces From Jennie of BLACKPINK’s Codesigned Collection With Frankies Bikinis",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-02T19:34:52.043752+00:00"
-    },
-    {
-      "tweet": "Apparently there are Fabergé eggs still out there worth millions. I’m just trying to find a decent breakfast. Unreal.",
-      "original_url": "https://www.mentalfloss.com/art/rare-easter-eggs-worth-nest-egg?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "6 Rare Easter Eggs Worth a Nest Egg",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-02T19:34:52.043743+00:00"
-    },
-    {
       "tweet": "OnePlus has a 70 dollar promo code out. We're all gonna buy stuff we don't need.",
       "original_url": "https://www.wired.com/story/oneplus-promo-code/",
       "buzz_score": 82,
@@ -660,6 +561,50 @@
       "source": "Wired",
       "category": "tech",
       "added_at": "2026-04-02T07:00:05.407806+00:00"
+    },
+    {
+      "tweet": "Silas Demary Jr. is playing through an ankle sprain for UConn because it’s rings or nothing. That’s the kind of pressure that ruins your 40s.",
+      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48379507/uconn-silas-demary-expected-90-final-four",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Demary 90% as UConn seeks 'rings, not watches'",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-02T19:34:52.043756+00:00"
+    },
+    {
+      "tweet": "Russia is sending a second oil tanker to Cuba right now. Are we just pretending this is normal behavior.",
+      "original_url": "https://www.nytimes.com/2026/04/02/world/americas/cuba-russia-oil-tanker.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Russia Is Sending a Second Oil Tanker to Fuel-Starved Cuba",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-02T19:34:52.043748+00:00"
+    },
+    {
+      "tweet": "The US and China are racing to the moon again. Are we really doing this.",
+      "original_url": "https://www.nytimes.com/2026/04/02/world/space-artemis-us-china-trump-iran-pam-bondi.html",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Race for the Future of the Moon",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-02T21:59:04.723223+00:00"
+    },
+    {
+      "tweet": "Hotels fold toilet paper into triangles just to show someone was in your room. Like we couldn't tell.",
+      "original_url": "https://www.mentalfloss.com/random-facts/why-do-hotels-fold-toilet-paper-triangle?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Why Do Hotels Fold Toilet Paper Into a Triangle?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-02T21:59:04.723192+00:00"
     },
     {
       "tweet": "Some horse just won at 300-1 odds and tied the UK record. I’m never gonna bet again.",
@@ -924,6 +869,39 @@
       "source": "Hypebeast",
       "category": "entertainment",
       "added_at": "2026-04-01T10:52:49.160388+00:00"
+    },
+    {
+      "tweet": "The GCC is asking the UN to keep the waterways open amid the Iran tension. Do they think the UN is actually listening.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/2/gcc-chief-urges-un-to-halt-iranian-attacks-protect-gulf-waterways?traffic_source=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "GCC chief urges UN to halt Iranian attacks, protect Gulf waterways",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-02T19:34:52.043774+00:00"
+    },
+    {
+      "tweet": "Jennie from BLACKPINK dropped a collection with Frankies Bikinis. We all know we’re buying it just for the label. Classic.",
+      "original_url": "https://www.billboard.com/culture/product-recommendations/blackpink-jennie-frankies-bikinis-collection-where-to-buy-1236213428/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Our Favorite Pieces From Jennie of BLACKPINK’s Codesigned Collection With Frankies Bikinis",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-02T19:34:52.043752+00:00"
+    },
+    {
+      "tweet": "Apparently there are Fabergé eggs still out there worth millions. I’m just trying to find a decent breakfast. Unreal.",
+      "original_url": "https://www.mentalfloss.com/art/rare-easter-eggs-worth-nest-egg?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "6 Rare Easter Eggs Worth a Nest Egg",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-02T19:34:52.043743+00:00"
     },
     {
       "tweet": "Found out Umbrella wasn't even written for Rihanna. It’s weird how some songs just feel like they belong to whoever got to them first.",
@@ -1399,28 +1377,6 @@
       "added_at": "2026-04-02T01:14:23.378435+00:00"
     },
     {
-      "tweet": "Qwen3.6-Plus is out and it’s all about real world agents. At this point, I’m just waiting for it to pay my rent.",
-      "original_url": "https://qwen.ai/blog?id=qwen3.6",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Qwen3.6-Plus: Towards real world agents",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-02T19:34:52.043770+00:00"
-    },
-    {
-      "tweet": "Google just dropped Gemma 4 models like it’s no big deal. We’re basically just training our replacements now. Hilarious.",
-      "original_url": "https://deepmind.google/models/gemma/gemma-4/",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Google releases Gemma 4 open models",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-02T19:34:52.043768+00:00"
-    },
-    {
       "tweet": "Pakistan and Afghanistan are holding peace talks in China. Are we actually seeing this happen",
       "original_url": "https://www.aljazeera.com/news/2026/4/2/pakistan-afghanistan-hold-talks-in-china-to-end-months-of-conflict?traffic_source=rss",
       "buzz_score": 78,
@@ -1562,6 +1518,28 @@
       "source": "Variety",
       "category": "entertainment",
       "added_at": "2026-04-02T09:13:55.139848+00:00"
+    },
+    {
+      "tweet": "Qwen3.6-Plus is out and it’s all about real world agents. At this point, I’m just waiting for it to pay my rent.",
+      "original_url": "https://qwen.ai/blog?id=qwen3.6",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Qwen3.6-Plus: Towards real world agents",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-02T19:34:52.043770+00:00"
+    },
+    {
+      "tweet": "Google just dropped Gemma 4 models like it’s no big deal. We’re basically just training our replacements now. Hilarious.",
+      "original_url": "https://deepmind.google/models/gemma/gemma-4/",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Google releases Gemma 4 open models",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-02T19:34:52.043768+00:00"
     },
     {
       "tweet": "A French court just refused to extradite Ben Ali’s daughter because they don't trust the trial process. Are we even shocked?",
@@ -2777,7 +2755,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 89,
+    "total_posted": 91,
     "total_collected": 250
   }
 }
