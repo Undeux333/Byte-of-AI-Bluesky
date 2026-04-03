@@ -57,6 +57,28 @@
       "added_at": "2026-04-03T19:26:24.480540+00:00"
     },
     {
+      "tweet": "Australia told the US they aren't changing their drug prices for Trump. Love seeing someone actually say no.",
+      "original_url": "https://www.theguardian.com/business/2026/apr/03/australia-says-it-wont-raise-drug-prices-after-trumps-100-tariff-on-pharmaceuticals-imported-into-us",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australia says it won’t raise drug prices after Trump’s 100% tariff on pharmaceuticals imported into US",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-03T00:04:23.214192+00:00"
+    },
+    {
+      "tweet": "Vir Das is directing a found-footage horror movie. That's actually a wild pivot.",
+      "original_url": "https://variety.com/2026/film/news/vir-das-found-footage-horror-film-baara-number-1236704411/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Vir Das Sets Found-Footage Horror Film ‘Baara Number’ (EXCLUSIVE)",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-02T04:02:05.967147+00:00"
+    },
+    {
       "tweet": "Experts say the teen meet-ups in Clapham are happening because there’s literally nowhere else to go. We forgot how to build third places",
       "original_url": "https://www.theguardian.com/uk-news/2026/apr/03/experts-respond-to-mass-teen-meet-ups-clapham-london",
       "buzz_score": 80,
@@ -90,28 +112,6 @@
       "added_at": "2026-04-03T19:26:24.480519+00:00"
     },
     {
-      "tweet": "Australia told the US they aren't changing their drug prices for Trump. Love seeing someone actually say no.",
-      "original_url": "https://www.theguardian.com/business/2026/apr/03/australia-says-it-wont-raise-drug-prices-after-trumps-100-tariff-on-pharmaceuticals-imported-into-us",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australia says it won’t raise drug prices after Trump’s 100% tariff on pharmaceuticals imported into US",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-03T00:04:23.214192+00:00"
-    },
-    {
-      "tweet": "Vir Das is directing a found-footage horror movie. That's actually a wild pivot.",
-      "original_url": "https://variety.com/2026/film/news/vir-das-found-footage-horror-film-baara-number-1236704411/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Vir Das Sets Found-Footage Horror Film ‘Baara Number’ (EXCLUSIVE)",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-02T04:02:05.967147+00:00"
-    },
-    {
       "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
       "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/fuel-crisis-prices-fall-australia-albanese-gst",
       "buzz_score": 78,
@@ -121,39 +121,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-02T07:00:05.407799+00:00"
-    },
-    {
-      "tweet": "Aden Holloway just got his ban reversed and is heading back to Alabama. Sports media is a fever dream",
-      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48386918/alabama-holloway-plans-enroll-fall-aims-rejoin-team",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Tide's Holloway to enroll in fall, aims to play again",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-03T19:26:24.480532+00:00"
-    },
-    {
-      "tweet": "Shanghai is apparently a difficult fit for the government’s narrative lately. Turns out it's hard to control a city that’s already doing its own thing",
-      "original_url": "https://www.nytimes.com/2026/04/03/world/asia/shanghai-dispatch-architecture.html",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Cosmopolitan Shanghai Is an Uneasy Fit in China’s Narrative of Western Sins",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-03T19:26:24.480528+00:00"
-    },
-    {
-      "tweet": "There are Fabergé Easter eggs worth a literal nest egg. Imagine hiding those in the yard.",
-      "original_url": "https://www.mentalfloss.com/art/rare-easter-eggs-worth-nest-egg?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "6 Rare Easter Eggs Worth a Nest Egg",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-03T11:51:33.201363+00:00"
     },
     {
       "tweet": "Four Premier League clubs are fighting over Morgan Rogers. Is anyone actually gonna pay that asking price?",
@@ -264,6 +231,39 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-01T14:17:58.856553+00:00"
+    },
+    {
+      "tweet": "Aden Holloway just got his ban reversed and is heading back to Alabama. Sports media is a fever dream",
+      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48386918/alabama-holloway-plans-enroll-fall-aims-rejoin-team",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Tide's Holloway to enroll in fall, aims to play again",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-03T19:26:24.480532+00:00"
+    },
+    {
+      "tweet": "Shanghai is apparently a difficult fit for the government’s narrative lately. Turns out it's hard to control a city that’s already doing its own thing",
+      "original_url": "https://www.nytimes.com/2026/04/03/world/asia/shanghai-dispatch-architecture.html",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Cosmopolitan Shanghai Is an Uneasy Fit in China’s Narrative of Western Sins",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-03T19:26:24.480528+00:00"
+    },
+    {
+      "tweet": "There are Fabergé Easter eggs worth a literal nest egg. Imagine hiding those in the yard.",
+      "original_url": "https://www.mentalfloss.com/art/rare-easter-eggs-worth-nest-egg?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "6 Rare Easter Eggs Worth a Nest Egg",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-03T11:51:33.201363+00:00"
     },
     {
       "tweet": "Rayan Cherki is apparently splitting opinions again after that Carabao Cup thing. Kid is chaos incarnate.",
@@ -442,17 +442,6 @@
       "added_at": "2026-04-03T16:38:46.892163+00:00"
     },
     {
-      "tweet": "Six weapons experts are calling out the U.S. on that Iran sports hall strike. Just another day of experts vs. the government version of reality.",
-      "original_url": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Experts dispute US account of deadly Iran sports hall strike in Lamerd",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-03T14:36:16.035329+00:00"
-    },
-    {
       "tweet": "Heavy bombing in Tehran this morning. It's just constant at this point.",
       "original_url": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heavy-bombings-tehran",
       "buzz_score": 90,
@@ -462,6 +451,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-02T07:00:05.407808+00:00"
+    },
+    {
+      "tweet": "Six weapons experts are calling out the U.S. on that Iran sports hall strike. Just another day of experts vs. the government version of reality.",
+      "original_url": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Experts dispute US account of deadly Iran sports hall strike in Lamerd",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-03T14:36:16.035329+00:00"
     },
     {
       "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
@@ -506,61 +506,6 @@
       "source": "Kotaku",
       "category": "entertainment",
       "added_at": "2026-04-01T21:56:47.155492+00:00"
-    },
-    {
-      "tweet": "Found out there's a free AI called Apfel already sitting on my Mac. Why are they hiding this stuff in the settings.",
-      "original_url": "https://apfel.franzai.com",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Show HN: Apfel – The free AI already on your Mac",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-03T14:36:16.035333+00:00"
-    },
-    {
-      "tweet": "French courts just overturned that ban on a Muslim gathering. Nice to see someone actually check the police on that one.",
-      "original_url": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "France's Muslim gathering ban overturned by courts",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-03T14:36:16.035331+00:00"
-    },
-    {
-      "tweet": "Alexander Isak might be back for the FA Cup against Man City after three months out. Liverpool really needs that win.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c0e7qy0rz3eo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Isak could make injury return against Man City",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-03T14:36:16.035323+00:00"
-    },
-    {
-      "tweet": "Apparently the job market added 178,000 jobs in March. Is anyone actually feeling this, or are we all just applying into the void?",
-      "original_url": "https://www.npr.org/2026/04/03/nx-s1-5772696/jobs-employment-economy-labor-market",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The labor market springs back to life in March as employers add 178,000 jobs",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-03T14:36:16.035307+00:00"
-    },
-    {
-      "tweet": "Guy Fieri and Gordon Ramsay arguing over the best pizza in the world is the only discourse I care about. My local spot remains unbothered.",
-      "original_url": "https://www.mentalfloss.com/food/best-pizza-according-celebrity-chefs?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The Best Pizza in the World, According to Guy Fieri, Gordon Ramsay, and 4 More Celebrity Chefs",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-03T11:51:33.201361+00:00"
     },
     {
       "tweet": "We're really gonna spend the whole year dissecting a wedding that hasn't even been announced yet. Taylor Swift and Travis Kelce, man.",
@@ -629,6 +574,61 @@
       "added_at": "2026-04-01T16:44:00.716209+00:00"
     },
     {
+      "tweet": "Found out there's a free AI called Apfel already sitting on my Mac. Why are they hiding this stuff in the settings.",
+      "original_url": "https://apfel.franzai.com",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Show HN: Apfel – The free AI already on your Mac",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-03T14:36:16.035333+00:00"
+    },
+    {
+      "tweet": "French courts just overturned that ban on a Muslim gathering. Nice to see someone actually check the police on that one.",
+      "original_url": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "France's Muslim gathering ban overturned by courts",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-03T14:36:16.035331+00:00"
+    },
+    {
+      "tweet": "Alexander Isak might be back for the FA Cup against Man City after three months out. Liverpool really needs that win.",
+      "original_url": "https://www.bbc.com/sport/football/articles/c0e7qy0rz3eo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Isak could make injury return against Man City",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-03T14:36:16.035323+00:00"
+    },
+    {
+      "tweet": "Apparently the job market added 178,000 jobs in March. Is anyone actually feeling this, or are we all just applying into the void?",
+      "original_url": "https://www.npr.org/2026/04/03/nx-s1-5772696/jobs-employment-economy-labor-market",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The labor market springs back to life in March as employers add 178,000 jobs",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-03T14:36:16.035307+00:00"
+    },
+    {
+      "tweet": "Guy Fieri and Gordon Ramsay arguing over the best pizza in the world is the only discourse I care about. My local spot remains unbothered.",
+      "original_url": "https://www.mentalfloss.com/food/best-pizza-according-celebrity-chefs?utm_source=RSS",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Best Pizza in the World, According to Guy Fieri, Gordon Ramsay, and 4 More Celebrity Chefs",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-03T11:51:33.201361+00:00"
+    },
+    {
       "tweet": "OnePlus has a 70 dollar promo code out. We're all gonna buy stuff we don't need.",
       "original_url": "https://www.wired.com/story/oneplus-promo-code/",
       "buzz_score": 82,
@@ -638,39 +638,6 @@
       "source": "Wired",
       "category": "tech",
       "added_at": "2026-04-02T07:00:05.407806+00:00"
-    },
-    {
-      "tweet": "Tailscale just moved their macOS setup. If you know, you know.",
-      "original_url": "https://tailscale.com/blog/macos-notch-escape",
-      "buzz_score": 65,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Tailscale's new macOS home",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-03T14:36:16.035335+00:00"
-    },
-    {
-      "tweet": "Critical Role is turning the Mighty Nein story into a novel. We really can't let go of these characters can we.",
-      "original_url": "https://www.polygon.com/critical-role-mighty-nein-sequel-children-of-empire/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Critical Role continues the Mighty Nein story in a Campaign 2 sequel novel",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-03T11:51:33.201358+00:00"
-    },
-    {
-      "tweet": "Chelsea dropped Enzo Fernandez because he apparently crossed a line. Imagine being that guy.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cz78l5nj4j3o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Chelsea's Fernandez dropped after 'crossing a line'",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-03T11:51:33.201347+00:00"
     },
     {
       "tweet": "Port Vale is currently fighting to stay in the league, but they're about to play Chelsea in the FA Cup. Can you imagine the stress?",
@@ -1069,15 +1036,37 @@
       "added_at": "2026-04-01T10:52:49.160388+00:00"
     },
     {
-      "tweet": "Someone actually dumped 15 million into a Cyberpunk trading card game at PAX East. Whatever happened to just playing Magic.",
-      "original_url": "https://www.polygon.com/cyberpunk-tcg-alpha-review-impressions-pax-east-2026/",
-      "buzz_score": 70,
+      "tweet": "Tailscale just moved their macOS setup. If you know, you know.",
+      "original_url": "https://tailscale.com/blog/macos-notch-escape",
+      "buzz_score": 65,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Cyberpunk trading card game hands-on impressions from PAX East 2026",
+      "original_title": "Tailscale's new macOS home",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-03T14:36:16.035335+00:00"
+    },
+    {
+      "tweet": "Critical Role is turning the Mighty Nein story into a novel. We really can't let go of these characters can we.",
+      "original_url": "https://www.polygon.com/critical-role-mighty-nein-sequel-children-of-empire/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Critical Role continues the Mighty Nein story in a Campaign 2 sequel novel",
       "source": "Polygon",
       "category": "entertainment",
-      "added_at": "2026-04-03T11:51:33.201356+00:00"
+      "added_at": "2026-04-03T11:51:33.201358+00:00"
+    },
+    {
+      "tweet": "Chelsea dropped Enzo Fernandez because he apparently crossed a line. Imagine being that guy.",
+      "original_url": "https://www.bbc.com/sport/football/articles/cz78l5nj4j3o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Chelsea's Fernandez dropped after 'crossing a line'",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-03T11:51:33.201347+00:00"
     },
     {
       "tweet": "Jack White and Arlo Parks dropping new stuff today is the only thing keeping the week alive. Bless.",
@@ -1454,6 +1443,17 @@
       "added_at": "2026-04-01T10:52:49.160378+00:00"
     },
     {
+      "tweet": "Someone actually dumped 15 million into a Cyberpunk trading card game at PAX East. Whatever happened to just playing Magic.",
+      "original_url": "https://www.polygon.com/cyberpunk-tcg-alpha-review-impressions-pax-east-2026/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Cyberpunk trading card game hands-on impressions from PAX East 2026",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-03T11:51:33.201356+00:00"
+    },
+    {
       "tweet": "Anthony Barry went from playing for Accrington to coaching under Tuchel in ten years. Talk about a glow up.",
       "original_url": "https://www.bbc.com/sport/football/articles/ckge7014m5yo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 72,
@@ -1474,17 +1474,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-01T10:52:49.160386+00:00"
-    },
-    {
-      "tweet": "Seville is out here doing full Holy Week processions even though nobody goes to church anymore. We love a good aesthetic",
-      "original_url": "https://www.npr.org/2026/04/03/nx-s1-5771511/seville-spain-semana-santa-easter-holy-week",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Seville, Spain's Holy Week blends faith, tradition and spectacle",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-03T19:26:24.480526+00:00"
     },
     {
       "tweet": "Bruce Hornsby said he was trying not to write songs to deal with burnout. Sometimes doing nothing is the only way to get back to it.",
@@ -1749,6 +1738,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-01T10:52:49.160381+00:00"
+    },
+    {
+      "tweet": "Seville is out here doing full Holy Week processions even though nobody goes to church anymore. We love a good aesthetic",
+      "original_url": "https://www.npr.org/2026/04/03/nx-s1-5771511/seville-spain-semana-santa-easter-holy-week",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Seville, Spain's Holy Week blends faith, tradition and spectacle",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-03T19:26:24.480526+00:00"
     },
     {
       "tweet": "Reading about Pokémon Mega Evolutions in 2026. Sometimes you just need to turn your brain off",
