@@ -2,28 +2,6 @@
   "last_collected": "2026-04-03T09:37:17.568175+00:00",
   "queue": [
     {
-      "tweet": "Oracle and Amazon data centers are getting hit alongside oil refineries in the UAE. We're really just living in a cyberpunk dystopia now.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/3/kuwait-desalination-plant-oil-refinery-hit-by-missile-and-drone-strikes?traffic_source=rss",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Kuwait desalination plant, oil refinery hit by missile and drone strikes",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-03T09:37:17.568152+00:00"
-    },
-    {
-      "tweet": "People are fleeing Iran to get away from the bombs, while others are heading home to find family. The human side of these headlines is just brutal.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/03/iran-turkey-kapikoy-border-crossing-war",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘Every night they are bombarding’: at border crossing, some Iranians are fleeing war and some are heading home",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-03T09:37:17.568154+00:00"
-    },
-    {
       "tweet": "LEGO and Nike are making Air Max 95s now. I don't know who this is for, but my inner child and my actual bank account are having a really tense conversation.",
       "original_url": "https://hypebeast.com/2026/4/lego-nike-air-max-95-brick-pixel-io4799-001-release-info",
       "buzz_score": 85,
@@ -101,17 +79,6 @@
       "added_at": "2026-04-03T09:37:17.568148+00:00"
     },
     {
-      "tweet": "The Temper Trap has a new album coming after ten years. I feel like I’m back in 2014.",
-      "original_url": "https://www.billboard.com/music/rock/the-temper-trap-sungazer-north-america-tour-muse-1236214744/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Temper Trap Set New Album ‘Sungazer,’ Announce North America Tour",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-03T09:37:17.568167+00:00"
-    },
-    {
       "tweet": "Rayan Cherki is apparently splitting opinions again after that Carabao Cup thing. Kid is chaos incarnate.",
       "original_url": "https://www.bbc.com/sport/football/articles/cvge9r8v0jyo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 70,
@@ -121,6 +88,17 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-03T09:37:17.568169+00:00"
+    },
+    {
+      "tweet": "The Temper Trap has a new album coming after ten years. I feel like I’m back in 2014.",
+      "original_url": "https://www.billboard.com/music/rock/the-temper-trap-sungazer-north-america-tour-muse-1236214744/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Temper Trap Set New Album ‘Sungazer,’ Announce North America Tour",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-03T09:37:17.568167+00:00"
     },
     {
       "tweet": "UConn, UCLA, South Carolina, and Texas are all looking at the semifinals. Which one of these is actually taking it home?",
@@ -255,28 +233,6 @@
       "added_at": "2026-04-01T14:17:58.856553+00:00"
     },
     {
-      "tweet": "ICE finally released that Canadian mom and her seven-year-old after three weeks. Took them long enough.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/03/canadian-ice-detention-mother-daughter-tania-warner-released",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Canadian woman held with daughter by ICE is released after nearly three weeks of detention",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-03T06:42:34.640444+00:00"
-    },
-    {
-      "tweet": "Luka Doncic heading for an MRI after that hamstring pull is the exact opposite of what I needed to see today. Pain.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48382849/luka-doncic-exits-lakers-game-okc-hamstring-strain",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Luka (hamstring) set for MRI after exiting loss",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-03T06:42:34.640438+00:00"
-    },
-    {
       "tweet": "The Bears are waiting until late spring to pick a stadium site. Chicago sports fans are a different breed of patient",
       "original_url": "https://www.espn.com/nfl/story/_/id/48371358/bears-ceo-stadium-decision-likely-late-spring-early-summer",
       "buzz_score": 70,
@@ -319,6 +275,28 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-01T21:56:47.155494+00:00"
+    },
+    {
+      "tweet": "ICE finally released that Canadian mom and her seven-year-old after three weeks. Took them long enough.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/03/canadian-ice-detention-mother-daughter-tania-warner-released",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Canadian woman held with daughter by ICE is released after nearly three weeks of detention",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-03T06:42:34.640444+00:00"
+    },
+    {
+      "tweet": "Luka Doncic heading for an MRI after that hamstring pull is the exact opposite of what I needed to see today. Pain.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48382849/luka-doncic-exits-lakers-game-okc-hamstring-strain",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Luka (hamstring) set for MRI after exiting loss",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-03T06:42:34.640438+00:00"
     },
     {
       "tweet": "Jack White and Arlo Parks dropping new stuff today is the only thing keeping the week alive. Bless.",
@@ -376,39 +354,6 @@
       "added_at": "2026-04-02T07:00:05.407808+00:00"
     },
     {
-      "tweet": "Hegseth is asking the top general to step down. It’s wild how fast that stuff happens.",
-      "original_url": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hegseth asks US Army's top general to step down",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-03T03:26:34.261231+00:00"
-    },
-    {
-      "tweet": "Trump’s got all these conflicting messages out there about a war with Iran. What's the plan.",
-      "original_url": "https://www.nytimes.com/video/world/middleeast/100000010815863/trumps-strait-of-hormuz-problem.html",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump’s Strait of Hormuz Problem",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-03T03:26:34.261229+00:00"
-    },
-    {
-      "tweet": "Police just charged two teenagers in NSW for holding onto extremist material. They found a ballistic vest and notebooks. Teens.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/03/two-nsw-teenagers-charged-over-violent-extremist-material-allegedly-linked-to-terror-ntwnfb",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Two NSW teenagers charged over violent extremist material allegedly linked to terror",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-03T03:26:34.261211+00:00"
-    },
-    {
       "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
       "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app",
       "buzz_score": 75,
@@ -451,6 +396,39 @@
       "source": "Kotaku",
       "category": "entertainment",
       "added_at": "2026-04-01T21:56:47.155492+00:00"
+    },
+    {
+      "tweet": "Hegseth is asking the top general to step down. It’s wild how fast that stuff happens.",
+      "original_url": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hegseth asks US Army's top general to step down",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-03T03:26:34.261231+00:00"
+    },
+    {
+      "tweet": "Trump’s got all these conflicting messages out there about a war with Iran. What's the plan.",
+      "original_url": "https://www.nytimes.com/video/world/middleeast/100000010815863/trumps-strait-of-hormuz-problem.html",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump’s Strait of Hormuz Problem",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-03T03:26:34.261229+00:00"
+    },
+    {
+      "tweet": "Police just charged two teenagers in NSW for holding onto extremist material. They found a ballistic vest and notebooks. Teens.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/03/two-nsw-teenagers-charged-over-violent-extremist-material-allegedly-linked-to-terror-ntwnfb",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Two NSW teenagers charged over violent extremist material allegedly linked to terror",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-03T03:26:34.261211+00:00"
     },
     {
       "tweet": "We're really gonna spend the whole year dissecting a wedding that hasn't even been announced yet. Taylor Swift and Travis Kelce, man.",
@@ -519,6 +497,17 @@
       "added_at": "2026-04-01T16:44:00.716209+00:00"
     },
     {
+      "tweet": "OnePlus has a 70 dollar promo code out. We're all gonna buy stuff we don't need.",
+      "original_url": "https://www.wired.com/story/oneplus-promo-code/",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "OnePlus Promo Code: $70 Off | April 2026",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-04-02T07:00:05.407806+00:00"
+    },
+    {
       "tweet": "James Marsden is joining Jon Hamm for Your Friends & Neighbors season two. High octane.",
       "original_url": "https://variety.com/2026/tv/reviews/your-friends-and-neighbors-season-2-review-jon-hamm-1236701587/",
       "buzz_score": 70,
@@ -583,17 +572,6 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-03T03:26:34.261214+00:00"
-    },
-    {
-      "tweet": "OnePlus has a 70 dollar promo code out. We're all gonna buy stuff we don't need.",
-      "original_url": "https://www.wired.com/story/oneplus-promo-code/",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "OnePlus Promo Code: $70 Off | April 2026",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-04-02T07:00:05.407806+00:00"
     },
     {
       "tweet": "Trump wants a 100-percent tariff on drugs to force better deals. Just making the pharmacy aisle a hostage situation.",
@@ -2931,7 +2909,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 99,
+    "total_posted": 101,
     "total_collected": 274
   }
 }
