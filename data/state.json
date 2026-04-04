@@ -2,28 +2,6 @@
   "last_collected": "2026-04-04T22:55:18.371261+00:00",
   "queue": [
     {
-      "tweet": "Tech companies are currently trying to neuter Colorado’s right-to-repair law. They really don't want us owning our own stuff",
-      "original_url": "https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tech companies are trying to neuter Colorado’s landmark right-to-repair law",
-      "source": "Ars Technica",
-      "category": "tech",
-      "added_at": "2026-04-04T22:55:18.371252+00:00"
-    },
-    {
-      "tweet": "Arsenal really just let Southampton knock them out of the FA Cup. Absolutely staggering",
-      "original_url": "https://www.espn.com/soccer/report/_/gameId/401864078",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Southampton stun Arsenal to reach FA Cup semis",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-04T22:55:18.371241+00:00"
-    },
-    {
       "tweet": "Bro, I just looked and Microsoft currently has, like, 14 different products named Copilot. At this point it's just a vibe",
       "original_url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
       "buzz_score": 85,
@@ -222,6 +200,17 @@
       "added_at": "2026-04-02T04:02:05.967147+00:00"
     },
     {
+      "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/fuel-crisis-prices-fall-australia-albanese-gst",
+      "buzz_score": 78,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Fuel prices to fall another 5.7 cents a litre after states and Canberra strike GST deal",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-02T07:00:05.407799+00:00"
+    },
+    {
       "tweet": "GTA 5 is leaving Xbox Game Pass again. At this point are we just paying to play the same game every three years",
       "original_url": "https://www.polygon.com/gta-5-leaves-xbox-game-pass-again/",
       "buzz_score": 85,
@@ -253,17 +242,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-04T22:55:18.371239+00:00"
-    },
-    {
-      "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/fuel-crisis-prices-fall-australia-albanese-gst",
-      "buzz_score": 78,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fuel prices to fall another 5.7 cents a litre after states and Canberra strike GST deal",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-02T07:00:05.407799+00:00"
     },
     {
       "tweet": "L'Art de L'Automobile and Salomon are doing an aerodynamic shoe collab. These things look like they go sixty miles per hour.",
@@ -574,6 +552,17 @@
       "added_at": "2026-04-04T18:01:11.120198+00:00"
     },
     {
+      "tweet": "Love on the Spectrum got renewed, but Connor's leaving. It's that feeling of being genuinely happy for someone moving on while you're still sitting here watching Netflix.",
+      "original_url": "https://variety.com/2026/tv/awards/love-on-the-spectrum-renewed-season-5-connor-tomlinson-exits-1236705978/",
+      "buzz_score": 85,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Netflix’s ‘Love on the Spectrum’ Renewed for Season 5, Fan Favorite Cast Member Connor Tomlinson Exits: ‘I’ve Chosen to Pass the Torch’ (EXCLUSIVE)",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-04T03:15:52.488240+00:00"
+    },
+    {
       "tweet": "German men now need a military permit if they want to leave the country for more than three months. Since when are we back to needing permission slips to travel?",
       "original_url": "https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677",
       "buzz_score": 80,
@@ -605,17 +594,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-04T18:01:11.120200+00:00"
-    },
-    {
-      "tweet": "Love on the Spectrum got renewed, but Connor's leaving. It's that feeling of being genuinely happy for someone moving on while you're still sitting here watching Netflix.",
-      "original_url": "https://variety.com/2026/tv/awards/love-on-the-spectrum-renewed-season-5-connor-tomlinson-exits-1236705978/",
-      "buzz_score": 85,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Netflix’s ‘Love on the Spectrum’ Renewed for Season 5, Fan Favorite Cast Member Connor Tomlinson Exits: ‘I’ve Chosen to Pass the Torch’ (EXCLUSIVE)",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-04T03:15:52.488240+00:00"
     },
     {
       "tweet": "Just watched that strike in Tyre on video. It’s wild that we’re just scrolling past actual war footage on our lunch break.",
@@ -673,6 +651,17 @@
       "added_at": "2026-04-04T18:01:11.120205+00:00"
     },
     {
+      "tweet": "Heavy bombing in Tehran this morning. It's just constant at this point.",
+      "original_url": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heavy-bombings-tehran",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Heavy bombings across Tehran jolt its war-weary residents.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-02T07:00:05.407808+00:00"
+    },
+    {
       "tweet": "Setting ambulances on fire during a charity attack. There’s really no bottom to some people.",
       "original_url": "https://www.aljazeera.com/news/2026/4/4/three-suspects-ordered-to-stay-in-uk-custody-over-jewish-charity-attack?traffic_source=rss",
       "buzz_score": 80,
@@ -695,15 +684,15 @@
       "added_at": "2026-04-04T15:52:28.927372+00:00"
     },
     {
-      "tweet": "Heavy bombing in Tehran this morning. It's just constant at this point.",
-      "original_url": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heavy-bombings-tehran",
-      "buzz_score": 90,
-      "buzz_score2": 90,
+      "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
+      "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app",
+      "buzz_score": 75,
+      "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "Heavy bombings across Tehran jolt its war-weary residents.",
-      "source": "NYT World",
+      "original_title": "Federal judge rules DHS illegally stripped immigration status from thousands who entered through CBP One App",
+      "source": "NPR News",
       "category": "world",
-      "added_at": "2026-04-02T07:00:05.407808+00:00"
+      "added_at": "2026-04-01T16:44:00.716207+00:00"
     },
     {
       "tweet": "Bath just held off Saracens to hit the Champions Cup quarters. Respect.",
@@ -737,17 +726,6 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-04T18:01:11.120218+00:00"
-    },
-    {
-      "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
-      "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Federal judge rules DHS illegally stripped immigration status from thousands who entered through CBP One App",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-01T16:44:00.716207+00:00"
     },
     {
       "tweet": "Italy's FA head quit after they missed their third straight World Cup. They just can't catch a break.",
@@ -792,17 +770,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-04T13:39:12.747214+00:00"
-    },
-    {
-      "tweet": "Storm Dave is showing up for the Easter weekend just to ruin everyone's plans. Classic.",
-      "original_url": "https://www.theguardian.com/uk-news/2026/apr/04/uk-weather-storm-dave-travel-easter-england-scotland-wales",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Parts of UK braced for heavy snow and gale-force winds as Storm Dave arrives",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-04T15:52:28.927391+00:00"
     },
     {
       "tweet": "Russia picked an 'Easter escalation' over a ceasefire and people are actually dead. Absolute trash",
@@ -915,6 +882,28 @@
       "added_at": "2026-04-01T16:44:00.716209+00:00"
     },
     {
+      "tweet": "Storm Dave is showing up for the Easter weekend just to ruin everyone's plans. Classic.",
+      "original_url": "https://www.theguardian.com/uk-news/2026/apr/04/uk-weather-storm-dave-travel-easter-england-scotland-wales",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Parts of UK braced for heavy snow and gale-force winds as Storm Dave arrives",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-04T15:52:28.927391+00:00"
+    },
+    {
+      "tweet": "OnePlus has a 70 dollar promo code out. We're all gonna buy stuff we don't need.",
+      "original_url": "https://www.wired.com/story/oneplus-promo-code/",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "OnePlus Promo Code: $70 Off | April 2026",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-04-02T07:00:05.407806+00:00"
+    },
+    {
       "tweet": "Geno Auriemma had to apologize to South Carolina after losing it on Dawn Staley. Just keep it cool man",
       "original_url": "https://www.espn.com/womens-college-basketball/story/_/id/48396359/uconn-geno-auriemma-apologizes-south-carolina-outburst",
       "buzz_score": 88,
@@ -957,17 +946,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-04T13:39:12.747192+00:00"
-    },
-    {
-      "tweet": "OnePlus has a 70 dollar promo code out. We're all gonna buy stuff we don't need.",
-      "original_url": "https://www.wired.com/story/oneplus-promo-code/",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "OnePlus Promo Code: $70 Off | April 2026",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-04-02T07:00:05.407806+00:00"
     },
     {
       "tweet": "The White House is turning deportations into a literal foreign policy strategy with other countries. A new low",
@@ -2697,17 +2675,6 @@
       "added_at": "2026-04-02T16:35:16.423133+00:00"
     },
     {
-      "tweet": "These guys replaced RAG with a virtual filesystem for their AI assistant. Sometimes the simplest way to fix tech is just throwing out the hype.",
-      "original_url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-04T15:52:28.927384+00:00"
-    },
-    {
       "tweet": "An artist is taking a war crime case to Paris after a strike in Lebanon. People are tired of the silence.",
       "original_url": "https://www.theguardian.com/world/2026/apr/02/artist-files-war-case-in-paris-over-israeli-strike-that-killed-parents-in-lebanon",
       "buzz_score": 80,
@@ -2750,6 +2717,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-02T01:14:23.378435+00:00"
+    },
+    {
+      "tweet": "These guys replaced RAG with a virtual filesystem for their AI assistant. Sometimes the simplest way to fix tech is just throwing out the hype.",
+      "original_url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-04T15:52:28.927384+00:00"
     },
     {
       "tweet": "Pakistan and Afghanistan are holding peace talks in China. Are we actually seeing this happen",
@@ -4383,7 +4361,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 181,
+    "total_posted": 183,
     "total_collected": 488
   }
 }
