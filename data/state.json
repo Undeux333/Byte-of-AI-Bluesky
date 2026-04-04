@@ -2,28 +2,6 @@
   "last_collected": "2026-04-04T13:39:12.747223+00:00",
   "queue": [
     {
-      "tweet": "A body in the Thames, a teenage imposter, and a gangster? That London falling story sounds like a movie.",
-      "original_url": "https://www.npr.org/2026/04/04/nx-s1-5766048/london-falling-review-patrick-radden-keefe",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'London Falling': A teenage imposter, an aging gangster and a body in the Thames",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-04T13:39:12.747216+00:00"
-    },
-    {
-      "tweet": "Ocean temps off California are at record highs again. At this point we’re just watching the planet cook in real time.",
-      "original_url": "https://www.theguardian.com/us-news/2026/apr/04/high-ocean-temperatures-california-marine-heatwave",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Record high ocean temperatures off southern California raise fears of prolonged marine heatwave",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-04T13:39:12.747206+00:00"
-    },
-    {
       "tweet": "Watching the Spurs head to Denver to see if Wemby can keep this run alive. Honestly just happy to be watching.",
       "original_url": "https://www.espn.com/nba/story/_/id/48287649/nba-playoff-watch-2026-standings-schedules-projections-clinchings",
       "buzz_score": 85,
@@ -77,17 +55,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-04T08:57:40.398510+00:00"
-    },
-    {
-      "tweet": "Another Russian drone hit a market in Ukraine. It’s just brutal out there.",
-      "original_url": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Russian attack on Ukraine market kills five",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-04T13:39:12.747214+00:00"
     },
     {
       "tweet": "A price hike for the Switch 2 is apparently inevitable. Can we have one affordable hobby?",
@@ -189,37 +156,15 @@
       "added_at": "2026-04-03T16:38:46.892148+00:00"
     },
     {
-      "tweet": "Rescue teams in Iran looking for a US crew member. It’s wild how dangerous that whole situation is right now.",
-      "original_url": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
+      "tweet": "Another Russian drone hit a market in Ukraine. It’s just brutal out there.",
+      "original_url": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
+      "original_title": "Russian attack on Ukraine market kills five",
       "source": "BBC World",
       "category": "world",
-      "added_at": "2026-04-04T13:39:12.747213+00:00"
-    },
-    {
-      "tweet": "TikTokers are out here reviewing gentrified bakeries and it’s just highlighting how expensive everything is now. We’re all broke.",
-      "original_url": "https://www.theguardian.com/cities/2026/apr/04/not-quite-greggs-tiktok-creators-put-londons-gentrified-bakeries-to-the-test",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘Not quite Greggs’: TikTok creators put London’s ‘gentrified’ bakeries to the test",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-04T13:39:12.747203+00:00"
-    },
-    {
-      "tweet": "Riz Ahmed hosting SNL UK is honestly the crossover I didn’t know I needed. British comedy just hits different.",
-      "original_url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-uk-online-free-1236203547/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘Saturday Night Live UK’: Where to Watch the British Version of the Sketch Comedy Show Online for Free",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-04T13:39:12.747192+00:00"
+      "added_at": "2026-04-04T13:39:12.747214+00:00"
     },
     {
       "tweet": "The FAA is trying to use drone restrictions to stop people from filming ICE. It's just wild how fast they reach for new rules to hide that.",
@@ -288,6 +233,39 @@
       "added_at": "2026-04-02T04:02:05.967147+00:00"
     },
     {
+      "tweet": "Rescue teams in Iran looking for a US crew member. It’s wild how dangerous that whole situation is right now.",
+      "original_url": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-04T13:39:12.747213+00:00"
+    },
+    {
+      "tweet": "TikTokers are out here reviewing gentrified bakeries and it’s just highlighting how expensive everything is now. We’re all broke.",
+      "original_url": "https://www.theguardian.com/cities/2026/apr/04/not-quite-greggs-tiktok-creators-put-londons-gentrified-bakeries-to-the-test",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘Not quite Greggs’: TikTok creators put London’s ‘gentrified’ bakeries to the test",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-04T13:39:12.747203+00:00"
+    },
+    {
+      "tweet": "Riz Ahmed hosting SNL UK is honestly the crossover I didn’t know I needed. British comedy just hits different.",
+      "original_url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-uk-online-free-1236203547/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘Saturday Night Live UK’: Where to Watch the British Version of the Sketch Comedy Show Online for Free",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-04T13:39:12.747192+00:00"
+    },
+    {
       "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
       "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/fuel-crisis-prices-fall-australia-albanese-gst",
       "buzz_score": 78,
@@ -319,39 +297,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-04T11:21:12.868811+00:00"
-    },
-    {
-      "tweet": "Artemis II is officially heading around the moon. Nice to see us actually doing something cool for once.",
-      "original_url": "https://www.npr.org/2026/04/04/nx-s1-5764829/opinion-humanitys-hopes-ascended-with-artemis-ii",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Opinion: Humanity's hopes ascended with Artemis II",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-04T13:39:12.747218+00:00"
-    },
-    {
-      "tweet": "Edinburgh winning in Dublin would be the upset of the century. The Champions Cup is gonna be a total bloodbath.",
-      "original_url": "https://www.bbc.com/sport/rugby-union/articles/cqj8qjq2820o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Edinburgh season rests on causing almighty upset in Dublin",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-04T13:39:12.747201+00:00"
-    },
-    {
-      "tweet": "Bridget Carleton going number one to the Portland Fire is a massive move for the WNBA. The expansion draft is officially cooking.",
-      "original_url": "https://www.espn.com/wnba/story/_/id/48387971/fire-make-bridget-carleton-top-wnba-expansion-draft-pick",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fire make Carleton top WNBA expansion draft pick",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-04T13:39:12.747194+00:00"
     },
     {
       "tweet": "Canada's gun buy-back plan is officially missing the mark by half. If you're gonna do a program, why not just finish the job.",
@@ -495,6 +440,39 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-01T14:17:58.856553+00:00"
+    },
+    {
+      "tweet": "Artemis II is officially heading around the moon. Nice to see us actually doing something cool for once.",
+      "original_url": "https://www.npr.org/2026/04/04/nx-s1-5764829/opinion-humanitys-hopes-ascended-with-artemis-ii",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Opinion: Humanity's hopes ascended with Artemis II",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-04T13:39:12.747218+00:00"
+    },
+    {
+      "tweet": "Edinburgh winning in Dublin would be the upset of the century. The Champions Cup is gonna be a total bloodbath.",
+      "original_url": "https://www.bbc.com/sport/rugby-union/articles/cqj8qjq2820o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Edinburgh season rests on causing almighty upset in Dublin",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-04T13:39:12.747201+00:00"
+    },
+    {
+      "tweet": "Bridget Carleton going number one to the Portland Fire is a massive move for the WNBA. The expansion draft is officially cooking.",
+      "original_url": "https://www.espn.com/wnba/story/_/id/48387971/fire-make-bridget-carleton-top-wnba-expansion-draft-pick",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Fire make Carleton top WNBA expansion draft pick",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-04T13:39:12.747194+00:00"
     },
     {
       "tweet": "Missiles hitting residential areas in Israel now. Everything is just falling apart.",
@@ -695,28 +673,6 @@
       "added_at": "2026-04-01T16:44:00.716207+00:00"
     },
     {
-      "tweet": "Martha Stewart dropped her list of favorite restaurants and honestly? I'd trust her with my life.",
-      "original_url": "https://www.mentalfloss.com/7-of-martha-stewart-s-favorite-restaurants-in-the-u-s-01kmtp21sy1f?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "7 of Martha Stewart's Favorite Restaurants in the U.S.",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-04T08:57:40.398529+00:00"
-    },
-    {
-      "tweet": "Tyler Morton moving to Lyon just to find his love for football again is such a vibe. Sometimes you just gotta switch things up.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cd7j8wn59pno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "How former Liverpool prospect found love for football again",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-04T08:57:40.398508+00:00"
-    },
-    {
       "tweet": "Italy's FA head quit after they missed their third straight World Cup. They just can't catch a break.",
       "original_url": "https://www.bbc.com/sport/football/articles/ckgr620w5eyo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 88,
@@ -750,37 +706,26 @@
       "added_at": "2026-04-01T21:56:47.155492+00:00"
     },
     {
-      "tweet": "Blake Lively is vowing to keep fighting after that lawsuit setback. Just move on.",
-      "original_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/blake-lively-unfazed-lawsuit-claims-dismissed-1235541877/",
-      "buzz_score": 80,
+      "tweet": "Martha Stewart dropped her list of favorite restaurants and honestly? I'd trust her with my life.",
+      "original_url": "https://www.mentalfloss.com/7-of-martha-stewart-s-favorite-restaurants-in-the-u-s-01kmtp21sy1f?utm_source=RSS",
+      "buzz_score": 70,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Blake Lively Unfazed After Lawsuit Setback, Vows to Keep ‘Fighting’",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-04-04T06:11:10.785294+00:00"
+      "original_title": "7 of Martha Stewart's Favorite Restaurants in the U.S.",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-04T08:57:40.398529+00:00"
     },
     {
-      "tweet": "Someone built a free AI tool called Apfel that's just sitting on your Mac. Why are we paying for ChatGPT.",
-      "original_url": "https://apfel.franzai.com",
-      "buzz_score": 80,
+      "tweet": "Tyler Morton moving to Lyon just to find his love for football again is such a vibe. Sometimes you just gotta switch things up.",
+      "original_url": "https://www.bbc.com/sport/football/articles/cd7j8wn59pno?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Show HN: Apfel – The free AI already on your Mac",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-04T06:11:10.785287+00:00"
-    },
-    {
-      "tweet": "NASA just dropped the first photos from Artemis II and Earth looks so small. Wild.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/nasa-unveils-first-images-of-earth-from-artemis-ii?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "NASA unveils first images of Earth from Artemis II",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-04T06:11:10.785278+00:00"
+      "original_title": "How former Liverpool prospect found love for football again",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-04T08:57:40.398508+00:00"
     },
     {
       "tweet": "Keir Starmer was told his relationship with Trump is beyond repair after that mocking impersonation. Diplomacy is just high school with better suits",
@@ -871,37 +816,37 @@
       "added_at": "2026-04-01T16:44:00.716209+00:00"
     },
     {
-      "tweet": "Lauren Price says the structure in her life gives her confidence. We're all just looking for a routine that works.",
-      "original_url": "https://www.bbc.com/sport/boxing/videos/c3ex5x75p7do?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
+      "tweet": "Blake Lively is vowing to keep fighting after that lawsuit setback. Just move on.",
+      "original_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/blake-lively-unfazed-lawsuit-claims-dismissed-1235541877/",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Fake tan disasters & living two lives - inside the camp of a world champ",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-04T06:11:10.785299+00:00"
-    },
-    {
-      "tweet": "Dee Freeman from The Young and the Restless died at 66. Such a legend.",
-      "original_url": "https://deadline.com/2026/04/dee-freeman-dies-66-1236773430/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Dee Freeman Dies: ‘The Young and the Restless’ & ‘Sistas’ Actress Was 66",
-      "source": "Deadline",
+      "original_title": "Blake Lively Unfazed After Lawsuit Setback, Vows to Keep ‘Fighting’",
+      "source": "Rolling Stone",
       "category": "entertainment",
-      "added_at": "2026-04-04T06:11:10.785296+00:00"
+      "added_at": "2026-04-04T06:11:10.785294+00:00"
     },
     {
-      "tweet": "UCLA just made the title game with 23 turnovers. How are they even playing basketball.",
-      "original_url": "https://www.espn.com/womens-college-basketball/story/_/id/48391884/ucla-survives-late-surge-texas-make-first-ncaa-title-game",
-      "buzz_score": 75,
+      "tweet": "Someone built a free AI tool called Apfel that's just sitting on your Mac. Why are we paying for ChatGPT.",
+      "original_url": "https://apfel.franzai.com",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "UCLA grinds out sloppy win, reaches 1st title game",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-04T06:11:10.785274+00:00"
+      "original_title": "Show HN: Apfel – The free AI already on your Mac",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-04T06:11:10.785287+00:00"
+    },
+    {
+      "tweet": "NASA just dropped the first photos from Artemis II and Earth looks so small. Wild.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/nasa-unveils-first-images-of-earth-from-artemis-ii?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "NASA unveils first images of Earth from Artemis II",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-04T06:11:10.785278+00:00"
     },
     {
       "tweet": "OnePlus has a 70 dollar promo code out. We're all gonna buy stuff we don't need.",
@@ -1432,15 +1377,37 @@
       "added_at": "2026-04-01T10:52:49.160388+00:00"
     },
     {
-      "tweet": "Apparently we're calling dangerous vacations darecations now. We'll do anything to feel something.",
-      "original_url": "https://www.mentalfloss.com/geography/wanderlust/most-thrilling-darecations-ranked?utm_source=RSS",
-      "buzz_score": 70,
+      "tweet": "Lauren Price says the structure in her life gives her confidence. We're all just looking for a routine that works.",
+      "original_url": "https://www.bbc.com/sport/boxing/videos/c3ex5x75p7do?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "The Most Thrilling \"Darecations\" Around the World, Ranked",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-04T06:11:10.785283+00:00"
+      "original_title": "Fake tan disasters & living two lives - inside the camp of a world champ",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-04T06:11:10.785299+00:00"
+    },
+    {
+      "tweet": "Dee Freeman from The Young and the Restless died at 66. Such a legend.",
+      "original_url": "https://deadline.com/2026/04/dee-freeman-dies-66-1236773430/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Dee Freeman Dies: ‘The Young and the Restless’ & ‘Sistas’ Actress Was 66",
+      "source": "Deadline",
+      "category": "entertainment",
+      "added_at": "2026-04-04T06:11:10.785296+00:00"
+    },
+    {
+      "tweet": "UCLA just made the title game with 23 turnovers. How are they even playing basketball.",
+      "original_url": "https://www.espn.com/womens-college-basketball/story/_/id/48391884/ucla-survives-late-surge-texas-make-first-ncaa-title-game",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "UCLA grinds out sloppy win, reaches 1st title game",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-04T06:11:10.785274+00:00"
     },
     {
       "tweet": "Bustle just posted a list of 65 things on Amazon under 25 dollars. I'm already buying three of them.",
@@ -1949,6 +1916,17 @@
       "added_at": "2026-04-01T10:52:49.160378+00:00"
     },
     {
+      "tweet": "Apparently we're calling dangerous vacations darecations now. We'll do anything to feel something.",
+      "original_url": "https://www.mentalfloss.com/geography/wanderlust/most-thrilling-darecations-ranked?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Most Thrilling \"Darecations\" Around the World, Ranked",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-04T06:11:10.785283+00:00"
+    },
+    {
       "tweet": "Anthony Barry went from playing for Accrington to coaching under Tuchel in ten years. Talk about a glow up.",
       "original_url": "https://www.bbc.com/sport/football/articles/ckge7014m5yo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 72,
@@ -2367,6 +2345,39 @@
       "added_at": "2026-04-04T03:15:52.488266+00:00"
     },
     {
+      "tweet": "Lucid blaming their sales dip on a seat supplier issue is a move. Imagine telling your boss your quarterly goals failed because of a cushion.",
+      "original_url": "https://techcrunch.com/2026/04/03/lucid-blames-dip-in-q1-sales-on-seat-supplier-issue/",
+      "buzz_score": 75,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Lucid blames dip in Q1 sales on seat supplier issue",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-04-04T03:15:52.488243+00:00"
+    },
+    {
+      "tweet": "Reading about Pokémon Mega Evolutions in 2026. Sometimes you just need to turn your brain off",
+      "original_url": "https://kotaku.com/pokemon-legends-z-a-mega-evolutions-abilities-champions-2000683952",
+      "buzz_score": 75,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Every Ability The Pokémon Legends: Z-A Mega Evolutions Have In Champions",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-01T16:44:00.716214+00:00"
+    },
+    {
+      "tweet": "Germany is still arguing over whether legalizing cannabis was a success or a total flop. Can we ever just agree on anything",
+      "original_url": "https://www.theguardian.com/society/2026/apr/01/report-germany-cannabis-legalisation-fails-settle-debate",
+      "buzz_score": 75,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Success or ‘total flop’? Report on Germany’s cannabis legalisation fails to settle debate",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-01T16:44:00.716201+00:00"
+    },
+    {
       "tweet": "Hugo Keenan is finally back from his injury nightmare for Leinster. Good for him",
       "original_url": "https://www.bbc.com/sport/rugby-union/articles/ckg9r7l0p5jo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 70,
@@ -2411,39 +2422,6 @@
       "added_at": "2026-04-04T11:21:12.868807+00:00"
     },
     {
-      "tweet": "Lucid blaming their sales dip on a seat supplier issue is a move. Imagine telling your boss your quarterly goals failed because of a cushion.",
-      "original_url": "https://techcrunch.com/2026/04/03/lucid-blames-dip-in-q1-sales-on-seat-supplier-issue/",
-      "buzz_score": 75,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "Lucid blames dip in Q1 sales on seat supplier issue",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-04-04T03:15:52.488243+00:00"
-    },
-    {
-      "tweet": "Reading about Pokémon Mega Evolutions in 2026. Sometimes you just need to turn your brain off",
-      "original_url": "https://kotaku.com/pokemon-legends-z-a-mega-evolutions-abilities-champions-2000683952",
-      "buzz_score": 75,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "Every Ability The Pokémon Legends: Z-A Mega Evolutions Have In Champions",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-01T16:44:00.716214+00:00"
-    },
-    {
-      "tweet": "Germany is still arguing over whether legalizing cannabis was a success or a total flop. Can we ever just agree on anything",
-      "original_url": "https://www.theguardian.com/society/2026/apr/01/report-germany-cannabis-legalisation-fails-settle-debate",
-      "buzz_score": 75,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "Success or ‘total flop’? Report on Germany’s cannabis legalisation fails to settle debate",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-01T16:44:00.716201+00:00"
-    },
-    {
       "tweet": "Peach PRC finally released her debut album. It's the kind of music that's gonna be in my ears all weekend.",
       "original_url": "https://www.billboard.com/music/pop/peach-prc-debut-album-porcelain-1236215402/",
       "buzz_score": 70,
@@ -2475,17 +2453,6 @@
       "source": "Hypebeast",
       "category": "entertainment",
       "added_at": "2026-04-04T08:57:40.398512+00:00"
-    },
-    {
-      "tweet": "Can you match every state to its abbreviation without hesitating. Why is this so hard.",
-      "original_url": "https://www.mentalfloss.com/quizzes/match-state-to-abbreviation-without-hesitating?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Quiz: Can You Match Every State to Its Abbreviation Without Hesitating?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-04T06:11:10.785292+00:00"
     },
     {
       "tweet": "Costa Rica is taking migrants for the US now. We're just outsourcing the border at this point",
@@ -2543,6 +2510,17 @@
       "added_at": "2026-04-02T01:14:23.378435+00:00"
     },
     {
+      "tweet": "Can you match every state to its abbreviation without hesitating. Why is this so hard.",
+      "original_url": "https://www.mentalfloss.com/quizzes/match-state-to-abbreviation-without-hesitating?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Quiz: Can You Match Every State to Its Abbreviation Without Hesitating?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-04T06:11:10.785292+00:00"
+    },
+    {
       "tweet": "Pakistan and Afghanistan are holding peace talks in China. Are we actually seeing this happen",
       "original_url": "https://www.aljazeera.com/news/2026/4/2/pakistan-afghanistan-hold-talks-in-china-to-end-months-of-conflict?traffic_source=rss",
       "buzz_score": 78,
@@ -2552,39 +2530,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-02T16:35:16.423148+00:00"
-    },
-    {
-      "tweet": "Victoria police just made two more arrests in that Dezi Freeman investigation. Still going on.",
-      "original_url": "https://www.theguardian.com/global/2026/apr/04/dezi-freeman-investigation-arrests-victoria-police-porepunkah-ntwnfb",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Victoria police arrest two people as part of Dezi Freeman investigation",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-04T06:11:10.785301+00:00"
-    },
-    {
-      "tweet": "Maison Margiela is dropping a perfume collection called Scentsorium. Seems excessive.",
-      "original_url": "https://hypebeast.com/2026/4/maison-margiela-haute-parfumerie-scentsorium-collection-launch",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Maison Margiela Enters Haute Parfumerie With the Scentsorium Collection",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-04T06:11:10.785298+00:00"
-    },
-    {
-      "tweet": "A new frontpage for personal blogs just dropped on HackerNews. We're all trying so hard to be interesting again.",
-      "original_url": "https://text.blogosphere.app/",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Show HN: I built a frontpage for personal blogs",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-04T06:11:10.785289+00:00"
     },
     {
       "tweet": "They finally found that golden helmet stolen in the Dutch heist last year. Took them long enough.",
@@ -2706,6 +2651,39 @@
       "source": "Hypebeast",
       "category": "entertainment",
       "added_at": "2026-04-01T08:29:51.989778+00:00"
+    },
+    {
+      "tweet": "Victoria police just made two more arrests in that Dezi Freeman investigation. Still going on.",
+      "original_url": "https://www.theguardian.com/global/2026/apr/04/dezi-freeman-investigation-arrests-victoria-police-porepunkah-ntwnfb",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Victoria police arrest two people as part of Dezi Freeman investigation",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-04T06:11:10.785301+00:00"
+    },
+    {
+      "tweet": "Maison Margiela is dropping a perfume collection called Scentsorium. Seems excessive.",
+      "original_url": "https://hypebeast.com/2026/4/maison-margiela-haute-parfumerie-scentsorium-collection-launch",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Maison Margiela Enters Haute Parfumerie With the Scentsorium Collection",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-04T06:11:10.785298+00:00"
+    },
+    {
+      "tweet": "A new frontpage for personal blogs just dropped on HackerNews. We're all trying so hard to be interesting again.",
+      "original_url": "https://text.blogosphere.app/",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Show HN: I built a frontpage for personal blogs",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-04T06:11:10.785289+00:00"
     },
     {
       "tweet": "BTS fans are trying to get the group to release a hidden song that's trapped on a deluxe vinyl. Why keep the music away from people.",
@@ -3998,7 +3976,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 156,
+    "total_posted": 158,
     "total_collected": 428
   }
 }
