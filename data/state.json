@@ -2,28 +2,6 @@
   "last_collected": "2026-04-04T15:52:28.927408+00:00",
   "queue": [
     {
-      "tweet": "Erling Haaland just put four past Liverpool like it’s nothing. Is that guy even human at this point.",
-      "original_url": "https://www.espn.com/soccer/report/_/gameId/401864077",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Haaland hat trick as Man City thrashes Liverpool",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-04T15:52:28.927380+00:00"
-    },
-    {
-      "tweet": "The US and Russia are both backing Viktor Orbán in Hungary. When they agree on something, you know it’s weird.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/04/hungary-election-why-orban-is-a-common-cause-for-us-and-russia",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why US and Russia are backing Viktor Orbán in Hungary election",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-04T15:52:28.927402+00:00"
-    },
-    {
       "tweet": "The Artemis II crew just dropped a pic of Earth from space. Makes you realize how small we are out here.",
       "original_url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
       "buzz_score": 75,
@@ -99,28 +77,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-04T15:52:28.927388+00:00"
-    },
-    {
-      "tweet": "L'Art de L'Automobile and Salomon are doing an aerodynamic shoe collab. These things look like they go sixty miles per hour.",
-      "original_url": "https://hypebeast.com/2026/4/lart-de-lautomobile-salomon-s-lab-phantasm-3-acs-pro-collaboration-release-info",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "L'Art de L'Automobile and Salomon Rev up for an Aerodynamic Footwear Collab",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-04T08:57:40.398514+00:00"
-    },
-    {
-      "tweet": "Biometric checks for Eurotunnel are stalled again for the holidays. Whoever keeps pushing that tech clearly hasn't tried to leave the house on time.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/04/biometric-checks-stalled-again-for-cross-channel-travellers",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Biometric checks stalled again for cross-Channel travellers",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-04T08:57:40.398510+00:00"
     },
     {
       "tweet": "A price hike for the Switch 2 is apparently inevitable. Can we have one affordable hobby?",
@@ -222,6 +178,28 @@
       "added_at": "2026-04-03T16:38:46.892148+00:00"
     },
     {
+      "tweet": "L'Art de L'Automobile and Salomon are doing an aerodynamic shoe collab. These things look like they go sixty miles per hour.",
+      "original_url": "https://hypebeast.com/2026/4/lart-de-lautomobile-salomon-s-lab-phantasm-3-acs-pro-collaboration-release-info",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "L'Art de L'Automobile and Salomon Rev up for an Aerodynamic Footwear Collab",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-04T08:57:40.398514+00:00"
+    },
+    {
+      "tweet": "Biometric checks for Eurotunnel are stalled again for the holidays. Whoever keeps pushing that tech clearly hasn't tried to leave the house on time.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/04/biometric-checks-stalled-again-for-cross-channel-travellers",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Biometric checks stalled again for cross-Channel travellers",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-04T08:57:40.398510+00:00"
+    },
+    {
       "tweet": "Setting ambulances on fire during a charity attack. There’s really no bottom to some people.",
       "original_url": "https://www.aljazeera.com/news/2026/4/4/three-suspects-ordered-to-stay-in-uk-custody-over-jewish-charity-attack?traffic_source=rss",
       "buzz_score": 80,
@@ -310,17 +288,6 @@
       "added_at": "2026-04-02T04:02:05.967147+00:00"
     },
     {
-      "tweet": "Another Russian drone hit a market in Ukraine. It’s just brutal out there.",
-      "original_url": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Russian attack on Ukraine market kills five",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-04T13:39:12.747214+00:00"
-    },
-    {
       "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
       "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/fuel-crisis-prices-fall-australia-albanese-gst",
       "buzz_score": 78,
@@ -330,6 +297,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-02T07:00:05.407799+00:00"
+    },
+    {
+      "tweet": "Another Russian drone hit a market in Ukraine. It’s just brutal out there.",
+      "original_url": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Russian attack on Ukraine market kills five",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-04T13:39:12.747214+00:00"
     },
     {
       "tweet": "Storm Dave is showing up for the Easter weekend just to ruin everyone's plans. Classic.",
@@ -486,6 +464,17 @@
       "added_at": "2026-04-01T14:17:58.856553+00:00"
     },
     {
+      "tweet": "Missiles hitting residential areas in Israel now. Everything is just falling apart.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iranian-missile-attack-hits-residential-areas-in-central-israel?traffic_source=rss",
+      "buzz_score": 94,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Iranian missile attack hits residential areas in central Israel",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-04T03:15:52.488257+00:00"
+    },
+    {
       "tweet": "Rescue teams in Iran looking for a US crew member. It’s wild how dangerous that whole situation is right now.",
       "original_url": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -517,17 +506,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-04T13:39:12.747192+00:00"
-    },
-    {
-      "tweet": "Missiles hitting residential areas in Israel now. Everything is just falling apart.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iranian-missile-attack-hits-residential-areas-in-central-israel?traffic_source=rss",
-      "buzz_score": 94,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Iranian missile attack hits residential areas in central Israel",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-04T03:15:52.488257+00:00"
     },
     {
       "tweet": "There are Fabergé Easter eggs worth a literal nest egg. Imagine hiding those in the yard.",
@@ -684,17 +662,6 @@
       "added_at": "2026-04-04T13:39:12.747194+00:00"
     },
     {
-      "tweet": "The White House is turning deportations into a literal foreign policy strategy with other countries. A new low",
-      "original_url": "https://www.nytimes.com/2026/04/04/world/africa/trump-deportation-africa-migrants.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump Wants to Make Deportation Deals. Autocrats Are Ready to Listen.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-04T11:21:12.868828+00:00"
-    },
-    {
       "tweet": "Love on the Spectrum got renewed, but Connor's leaving. It's that feeling of being genuinely happy for someone moving on while you're still sitting here watching Netflix.",
       "original_url": "https://variety.com/2026/tv/awards/love-on-the-spectrum-renewed-season-5-connor-tomlinson-exits-1236705978/",
       "buzz_score": 85,
@@ -704,6 +671,17 @@
       "source": "Variety",
       "category": "entertainment",
       "added_at": "2026-04-04T03:15:52.488240+00:00"
+    },
+    {
+      "tweet": "The White House is turning deportations into a literal foreign policy strategy with other countries. A new low",
+      "original_url": "https://www.nytimes.com/2026/04/04/world/africa/trump-deportation-africa-migrants.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump Wants to Make Deportation Deals. Autocrats Are Ready to Listen.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-04T11:21:12.868828+00:00"
     },
     {
       "tweet": "Just read this week's horoscope and it’s hitting way too close to home. Sometimes you just need to hear it",
@@ -794,17 +772,6 @@
       "added_at": "2026-04-01T21:56:47.155492+00:00"
     },
     {
-      "tweet": "Ben Platt and Rachel Zegler are dropping a live album for The Last Five Years. Finally, some good theater kid energy.",
-      "original_url": "https://www.billboard.com/music/music-news/the-last-five-years-live-album-ben-platt-and-rachel-zegler-1236215396/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Ben Platt and Rachel Zegler Announce ‘The Last Five Years’ Live Album",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-04T08:57:40.398504+00:00"
-    },
-    {
       "tweet": "Keir Starmer was told his relationship with Trump is beyond repair after that mocking impersonation. Diplomacy is just high school with better suits",
       "original_url": "https://www.theguardian.com/politics/2026/apr/03/relationship-with-trump-may-be-beyond-repair-keir-starmer-told",
       "buzz_score": 85,
@@ -893,6 +860,17 @@
       "added_at": "2026-04-01T16:44:00.716209+00:00"
     },
     {
+      "tweet": "Ben Platt and Rachel Zegler are dropping a live album for The Last Five Years. Finally, some good theater kid energy.",
+      "original_url": "https://www.billboard.com/music/music-news/the-last-five-years-live-album-ben-platt-and-rachel-zegler-1236215396/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Ben Platt and Rachel Zegler Announce ‘The Last Five Years’ Live Album",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-04T08:57:40.398504+00:00"
+    },
+    {
       "tweet": "OnePlus has a 70 dollar promo code out. We're all gonna buy stuff we don't need.",
       "original_url": "https://www.wired.com/story/oneplus-promo-code/",
       "buzz_score": 82,
@@ -902,28 +880,6 @@
       "source": "Wired",
       "category": "tech",
       "added_at": "2026-04-02T07:00:05.407806+00:00"
-    },
-    {
-      "tweet": "Martha Stewart dropped her list of favorite restaurants and honestly? I'd trust her with my life.",
-      "original_url": "https://www.mentalfloss.com/7-of-martha-stewart-s-favorite-restaurants-in-the-u-s-01kmtp21sy1f?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "7 of Martha Stewart's Favorite Restaurants in the U.S.",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-04T08:57:40.398529+00:00"
-    },
-    {
-      "tweet": "Tyler Morton moving to Lyon just to find his love for football again is such a vibe. Sometimes you just gotta switch things up.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cd7j8wn59pno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "How former Liverpool prospect found love for football again",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-04T08:57:40.398508+00:00"
     },
     {
       "tweet": "Blake Lively is vowing to keep fighting after that lawsuit setback. Just move on.",
@@ -1476,6 +1432,28 @@
       "added_at": "2026-04-01T10:52:49.160388+00:00"
     },
     {
+      "tweet": "Martha Stewart dropped her list of favorite restaurants and honestly? I'd trust her with my life.",
+      "original_url": "https://www.mentalfloss.com/7-of-martha-stewart-s-favorite-restaurants-in-the-u-s-01kmtp21sy1f?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "7 of Martha Stewart's Favorite Restaurants in the U.S.",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-04T08:57:40.398529+00:00"
+    },
+    {
+      "tweet": "Tyler Morton moving to Lyon just to find his love for football again is such a vibe. Sometimes you just gotta switch things up.",
+      "original_url": "https://www.bbc.com/sport/football/articles/cd7j8wn59pno?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "How former Liverpool prospect found love for football again",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-04T08:57:40.398508+00:00"
+    },
+    {
       "tweet": "Lauren Price says the structure in her life gives her confidence. We're all just looking for a routine that works.",
       "original_url": "https://www.bbc.com/sport/boxing/videos/c3ex5x75p7do?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -2015,17 +1993,6 @@
       "added_at": "2026-04-01T10:52:49.160378+00:00"
     },
     {
-      "tweet": "These guys replaced RAG with a virtual filesystem for their AI assistant. Sometimes the simplest way to fix tech is just throwing out the hype.",
-      "original_url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-04T15:52:28.927384+00:00"
-    },
-    {
       "tweet": "Anthony Barry went from playing for Accrington to coaching under Tuchel in ten years. Talk about a glow up.",
       "original_url": "https://www.bbc.com/sport/football/articles/ckge7014m5yo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 72,
@@ -2046,6 +2013,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-01T10:52:49.160386+00:00"
+    },
+    {
+      "tweet": "These guys replaced RAG with a virtual filesystem for their AI assistant. Sometimes the simplest way to fix tech is just throwing out the hype.",
+      "original_url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-04T15:52:28.927384+00:00"
     },
     {
       "tweet": "Apparently we're calling dangerous vacations darecations now. We'll do anything to feel something.",
@@ -2543,39 +2521,6 @@
       "added_at": "2026-04-02T16:35:16.423133+00:00"
     },
     {
-      "tweet": "Peach PRC finally released her debut album. It's the kind of music that's gonna be in my ears all weekend.",
-      "original_url": "https://www.billboard.com/music/pop/peach-prc-debut-album-porcelain-1236215402/",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Peach PRC Releases Debut Album ‘Porcelain’, Shares New Video for ‘Hold It for Her’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-04T08:57:40.398531+00:00"
-    },
-    {
-      "tweet": "That earthquake in Afghanistan took out an entire family, only the kid survived. Just heartbreaking.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/4/afghanistan-earthquake-kills-eight-members-of-same-family?traffic_source=rss",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Afghanistan earthquake kills eight members of same family",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-04T08:57:40.398525+00:00"
-    },
-    {
-      "tweet": "Thom Browne and ASICS are dropping a zine called The Working Hour. It's cool and all but I'm just here for the shoes.",
-      "original_url": "https://hypebeast.com/2026/4/thom-browne-asics-the-working-hour-zine-limited-release-info",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Thom Browne and ASICS Capture \"Life in Motion\" With 'The Working Hour' Zine",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-04T08:57:40.398512+00:00"
-    },
-    {
       "tweet": "An artist is taking a war crime case to Paris after a strike in Lebanon. People are tired of the silence.",
       "original_url": "https://www.theguardian.com/world/2026/apr/02/artist-files-war-case-in-paris-over-israeli-strike-that-killed-parents-in-lebanon",
       "buzz_score": 80,
@@ -2629,6 +2574,39 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-02T16:35:16.423148+00:00"
+    },
+    {
+      "tweet": "Peach PRC finally released her debut album. It's the kind of music that's gonna be in my ears all weekend.",
+      "original_url": "https://www.billboard.com/music/pop/peach-prc-debut-album-porcelain-1236215402/",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Peach PRC Releases Debut Album ‘Porcelain’, Shares New Video for ‘Hold It for Her’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-04T08:57:40.398531+00:00"
+    },
+    {
+      "tweet": "That earthquake in Afghanistan took out an entire family, only the kid survived. Just heartbreaking.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/4/afghanistan-earthquake-kills-eight-members-of-same-family?traffic_source=rss",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Afghanistan earthquake kills eight members of same family",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-04T08:57:40.398525+00:00"
+    },
+    {
+      "tweet": "Thom Browne and ASICS are dropping a zine called The Working Hour. It's cool and all but I'm just here for the shoes.",
+      "original_url": "https://hypebeast.com/2026/4/thom-browne-asics-the-working-hour-zine-limited-release-info",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Thom Browne and ASICS Capture \"Life in Motion\" With 'The Working Hour' Zine",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-04T08:57:40.398512+00:00"
     },
     {
       "tweet": "Can you match every state to its abbreviation without hesitating. Why is this so hard.",
@@ -4086,7 +4064,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 164,
+    "total_posted": 166,
     "total_collected": 444
   }
 }
