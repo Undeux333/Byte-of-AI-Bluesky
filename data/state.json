@@ -2,28 +2,6 @@
   "last_collected": "2026-04-04T13:39:12.747223+00:00",
   "queue": [
     {
-      "tweet": "A projectile hit near a nuclear plant in Iran and we’re just supposed to act like that’s normal? How are we not more panicked?",
-      "original_url": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news/a-projectile-hit-near-irans-bushehr-nuclear-plant-killing-a-worker",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "A projectile hit near Iran’s Bushehr nuclear plant, killing a worker.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-04T13:39:12.747190+00:00"
-    },
-    {
-      "tweet": "Terri Harper just said she’s excited to punch her opponent in the face. Boxing press conferences are just pure chaos.",
-      "original_url": "https://www.bbc.com/sport/boxing/articles/cq8w77qy007o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'Excited to punch her' - Harper & Dubois make weight",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-04T13:39:12.747199+00:00"
-    },
-    {
       "tweet": "A body in the Thames, a teenage imposter, and a gangster? That London falling story sounds like a movie.",
       "original_url": "https://www.npr.org/2026/04/04/nx-s1-5766048/london-falling-review-patrick-radden-keefe",
       "buzz_score": 85,
@@ -244,28 +222,6 @@
       "added_at": "2026-04-04T13:39:12.747192+00:00"
     },
     {
-      "tweet": "Russia picked an 'Easter escalation' over a ceasefire and people are actually dead. Absolute trash",
-      "original_url": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Russia chose 'Easter escalation' over ceasefire, says Zelensky",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-04T11:21:12.868832+00:00"
-    },
-    {
-      "tweet": "One dead at that Alianza Lima game and they’re claiming it wasn't a structural failure. Someone tell me how a stadium wall collapses then",
-      "original_url": "https://www.theguardian.com/world/2026/apr/04/lima-football-stadium-pre-match-event-injured-dead",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "One dead and dozens injured at Peru football stadium during pre-match event",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-04T11:21:12.868811+00:00"
-    },
-    {
       "tweet": "The FAA is trying to use drone restrictions to stop people from filming ICE. It's just wild how fast they reach for new rules to hide that.",
       "original_url": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice",
       "buzz_score": 80,
@@ -332,6 +288,39 @@
       "added_at": "2026-04-02T04:02:05.967147+00:00"
     },
     {
+      "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/fuel-crisis-prices-fall-australia-albanese-gst",
+      "buzz_score": 78,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Fuel prices to fall another 5.7 cents a litre after states and Canberra strike GST deal",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-02T07:00:05.407799+00:00"
+    },
+    {
+      "tweet": "Russia picked an 'Easter escalation' over a ceasefire and people are actually dead. Absolute trash",
+      "original_url": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Russia chose 'Easter escalation' over ceasefire, says Zelensky",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-04T11:21:12.868832+00:00"
+    },
+    {
+      "tweet": "One dead at that Alianza Lima game and they’re claiming it wasn't a structural failure. Someone tell me how a stadium wall collapses then",
+      "original_url": "https://www.theguardian.com/world/2026/apr/04/lima-football-stadium-pre-match-event-injured-dead",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "One dead and dozens injured at Peru football stadium during pre-match event",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-04T11:21:12.868811+00:00"
+    },
+    {
       "tweet": "Artemis II is officially heading around the moon. Nice to see us actually doing something cool for once.",
       "original_url": "https://www.npr.org/2026/04/04/nx-s1-5764829/opinion-humanitys-hopes-ascended-with-artemis-ii",
       "buzz_score": 75,
@@ -363,28 +352,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-04T13:39:12.747194+00:00"
-    },
-    {
-      "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/02/fuel-crisis-prices-fall-australia-albanese-gst",
-      "buzz_score": 78,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fuel prices to fall another 5.7 cents a litre after states and Canberra strike GST deal",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-02T07:00:05.407799+00:00"
-    },
-    {
-      "tweet": "The White House is turning deportations into a literal foreign policy strategy with other countries. A new low",
-      "original_url": "https://www.nytimes.com/2026/04/04/world/africa/trump-deportation-africa-migrants.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump Wants to Make Deportation Deals. Autocrats Are Ready to Listen.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-04T11:21:12.868828+00:00"
     },
     {
       "tweet": "Canada's gun buy-back plan is officially missing the mark by half. If you're gonna do a program, why not just finish the job.",
@@ -541,37 +508,15 @@
       "added_at": "2026-04-04T03:15:52.488257+00:00"
     },
     {
-      "tweet": "Just read this week's horoscope and it’s hitting way too close to home. Sometimes you just need to hear it",
-      "original_url": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-4-4-2026/",
-      "buzz_score": 75,
+      "tweet": "The White House is turning deportations into a literal foreign policy strategy with other countries. A new low",
+      "original_url": "https://www.nytimes.com/2026/04/04/world/africa/trump-deportation-africa-migrants.html",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Your Weekly Horoscope – ‘Free Will Astrology’ by Rob Brezsny",
-      "source": "Good News Network",
-      "category": "lifestyle",
-      "added_at": "2026-04-04T11:21:12.868824+00:00"
-    },
-    {
-      "tweet": "Tubi just dropped 250 episodes of classic Sesame Street for free. We’re all gonna be watching this for the nostalgia hit",
-      "original_url": "https://www.polygon.com/sesame-street-coming-to-tubi-25-classic-clips/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "25 classic Sesame Street skits that parents and kids will botn enjoy",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-04T11:21:12.868813+00:00"
-    },
-    {
-      "tweet": "Found out people actually live on Tristan da Cunha, which is officially the most remote place on earth. Kinda jealous of how quiet that must be",
-      "original_url": "https://www.npr.org/sections/the-picture-show/2026/04/04/g-s1-116218/life-on-tristan-da-cunha",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The busiest place you've never seen",
-      "source": "NPR News",
+      "original_title": "Trump Wants to Make Deportation Deals. Autocrats Are Ready to Listen.",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-04-04T11:21:12.868802+00:00"
+      "added_at": "2026-04-04T11:21:12.868828+00:00"
     },
     {
       "tweet": "There are Fabergé Easter eggs worth a literal nest egg. Imagine hiding those in the yard.",
@@ -673,6 +618,39 @@
       "added_at": "2026-04-01T21:56:47.155494+00:00"
     },
     {
+      "tweet": "Just read this week's horoscope and it’s hitting way too close to home. Sometimes you just need to hear it",
+      "original_url": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-4-4-2026/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Your Weekly Horoscope – ‘Free Will Astrology’ by Rob Brezsny",
+      "source": "Good News Network",
+      "category": "lifestyle",
+      "added_at": "2026-04-04T11:21:12.868824+00:00"
+    },
+    {
+      "tweet": "Tubi just dropped 250 episodes of classic Sesame Street for free. We’re all gonna be watching this for the nostalgia hit",
+      "original_url": "https://www.polygon.com/sesame-street-coming-to-tubi-25-classic-clips/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "25 classic Sesame Street skits that parents and kids will botn enjoy",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-04T11:21:12.868813+00:00"
+    },
+    {
+      "tweet": "Found out people actually live on Tristan da Cunha, which is officially the most remote place on earth. Kinda jealous of how quiet that must be",
+      "original_url": "https://www.npr.org/sections/the-picture-show/2026/04/04/g-s1-116218/life-on-tristan-da-cunha",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The busiest place you've never seen",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-04T11:21:12.868802+00:00"
+    },
+    {
       "tweet": "Love on the Spectrum got renewed, but Connor's leaving. It's that feeling of being genuinely happy for someone moving on while you're still sitting here watching Netflix.",
       "original_url": "https://variety.com/2026/tv/awards/love-on-the-spectrum-renewed-season-5-connor-tomlinson-exits-1236705978/",
       "buzz_score": 85,
@@ -695,6 +673,28 @@
       "added_at": "2026-04-04T08:57:40.398504+00:00"
     },
     {
+      "tweet": "Heavy bombing in Tehran this morning. It's just constant at this point.",
+      "original_url": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heavy-bombings-tehran",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Heavy bombings across Tehran jolt its war-weary residents.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-02T07:00:05.407808+00:00"
+    },
+    {
+      "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
+      "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app",
+      "buzz_score": 75,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Federal judge rules DHS illegally stripped immigration status from thousands who entered through CBP One App",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-01T16:44:00.716207+00:00"
+    },
+    {
       "tweet": "Martha Stewart dropped her list of favorite restaurants and honestly? I'd trust her with my life.",
       "original_url": "https://www.mentalfloss.com/7-of-martha-stewart-s-favorite-restaurants-in-the-u-s-01kmtp21sy1f?utm_source=RSS",
       "buzz_score": 70,
@@ -715,61 +715,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-04T08:57:40.398508+00:00"
-    },
-    {
-      "tweet": "Heavy bombing in Tehran this morning. It's just constant at this point.",
-      "original_url": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heavy-bombings-tehran",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Heavy bombings across Tehran jolt its war-weary residents.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-02T07:00:05.407808+00:00"
-    },
-    {
-      "tweet": "Blake Lively is vowing to keep fighting after that lawsuit setback. Just move on.",
-      "original_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/blake-lively-unfazed-lawsuit-claims-dismissed-1235541877/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Blake Lively Unfazed After Lawsuit Setback, Vows to Keep ‘Fighting’",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-04-04T06:11:10.785294+00:00"
-    },
-    {
-      "tweet": "Someone built a free AI tool called Apfel that's just sitting on your Mac. Why are we paying for ChatGPT.",
-      "original_url": "https://apfel.franzai.com",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Show HN: Apfel – The free AI already on your Mac",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-04T06:11:10.785287+00:00"
-    },
-    {
-      "tweet": "NASA just dropped the first photos from Artemis II and Earth looks so small. Wild.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/nasa-unveils-first-images-of-earth-from-artemis-ii?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "NASA unveils first images of Earth from Artemis II",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-04T06:11:10.785278+00:00"
-    },
-    {
-      "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
-      "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Federal judge rules DHS illegally stripped immigration status from thousands who entered through CBP One App",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-01T16:44:00.716207+00:00"
     },
     {
       "tweet": "Italy's FA head quit after they missed their third straight World Cup. They just can't catch a break.",
@@ -803,6 +748,39 @@
       "source": "Kotaku",
       "category": "entertainment",
       "added_at": "2026-04-01T21:56:47.155492+00:00"
+    },
+    {
+      "tweet": "Blake Lively is vowing to keep fighting after that lawsuit setback. Just move on.",
+      "original_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/blake-lively-unfazed-lawsuit-claims-dismissed-1235541877/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Blake Lively Unfazed After Lawsuit Setback, Vows to Keep ‘Fighting’",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-04-04T06:11:10.785294+00:00"
+    },
+    {
+      "tweet": "Someone built a free AI tool called Apfel that's just sitting on your Mac. Why are we paying for ChatGPT.",
+      "original_url": "https://apfel.franzai.com",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Show HN: Apfel – The free AI already on your Mac",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-04T06:11:10.785287+00:00"
+    },
+    {
+      "tweet": "NASA just dropped the first photos from Artemis II and Earth looks so small. Wild.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/nasa-unveils-first-images-of-earth-from-artemis-ii?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "NASA unveils first images of Earth from Artemis II",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-04T06:11:10.785278+00:00"
     },
     {
       "tweet": "Keir Starmer was told his relationship with Trump is beyond repair after that mocking impersonation. Diplomacy is just high school with better suits",
@@ -2367,6 +2345,28 @@
       "added_at": "2026-04-01T10:52:49.160381+00:00"
     },
     {
+      "tweet": "Tailscale just moved their macOS setup. If you know, you know.",
+      "original_url": "https://tailscale.com/blog/macos-notch-escape",
+      "buzz_score": 65,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Tailscale's new macOS home",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-03T14:36:16.035335+00:00"
+    },
+    {
+      "tweet": "The NBA is investigating the Bucks for how they handled Giannis and his health. Something feels off.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48391034/nba-investigating-bucks-giannis-says-healthy",
+      "buzz_score": 78,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Sources: NBA investigating Bucks, Giannis' health",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-04T03:15:52.488266+00:00"
+    },
+    {
       "tweet": "Hugo Keenan is finally back from his injury nightmare for Leinster. Good for him",
       "original_url": "https://www.bbc.com/sport/rugby-union/articles/ckg9r7l0p5jo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 70,
@@ -2409,28 +2409,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-04T11:21:12.868807+00:00"
-    },
-    {
-      "tweet": "Tailscale just moved their macOS setup. If you know, you know.",
-      "original_url": "https://tailscale.com/blog/macos-notch-escape",
-      "buzz_score": 65,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Tailscale's new macOS home",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-03T14:36:16.035335+00:00"
-    },
-    {
-      "tweet": "The NBA is investigating the Bucks for how they handled Giannis and his health. Something feels off.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48391034/nba-investigating-bucks-giannis-says-healthy",
-      "buzz_score": 78,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "Sources: NBA investigating Bucks, Giannis' health",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-04T03:15:52.488266+00:00"
     },
     {
       "tweet": "Lucid blaming their sales dip on a seat supplier issue is a move. Imagine telling your boss your quarterly goals failed because of a cushion.",
@@ -2565,6 +2543,17 @@
       "added_at": "2026-04-02T01:14:23.378435+00:00"
     },
     {
+      "tweet": "Pakistan and Afghanistan are holding peace talks in China. Are we actually seeing this happen",
+      "original_url": "https://www.aljazeera.com/news/2026/4/2/pakistan-afghanistan-hold-talks-in-china-to-end-months-of-conflict?traffic_source=rss",
+      "buzz_score": 78,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Pakistan, Afghanistan hold talks in China to end months of conflict",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-02T16:35:16.423148+00:00"
+    },
+    {
       "tweet": "Victoria police just made two more arrests in that Dezi Freeman investigation. Still going on.",
       "original_url": "https://www.theguardian.com/global/2026/apr/04/dezi-freeman-investigation-arrests-victoria-police-porepunkah-ntwnfb",
       "buzz_score": 70,
@@ -2596,17 +2585,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-04T06:11:10.785289+00:00"
-    },
-    {
-      "tweet": "Pakistan and Afghanistan are holding peace talks in China. Are we actually seeing this happen",
-      "original_url": "https://www.aljazeera.com/news/2026/4/2/pakistan-afghanistan-hold-talks-in-china-to-end-months-of-conflict?traffic_source=rss",
-      "buzz_score": 78,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Pakistan, Afghanistan hold talks in China to end months of conflict",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-02T16:35:16.423148+00:00"
     },
     {
       "tweet": "They finally found that golden helmet stolen in the Dutch heist last year. Took them long enough.",
@@ -4020,7 +3998,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 154,
+    "total_posted": 156,
     "total_collected": 428
   }
 }
