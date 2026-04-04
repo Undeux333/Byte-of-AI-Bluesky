@@ -2,28 +2,6 @@
   "last_collected": "2026-04-04T08:57:40.398536+00:00",
   "queue": [
     {
-      "tweet": "Michael Pezzullo got caught being reckless with a powerbroker. It's always that 'boundaries' excuse, man.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/04/confidential-report-found-former-home-affairs-boss-michael-pezzullo-was-reckless-in-engagement-with-liberal-powerbroker",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Confidential report found former home affairs boss Michael Pezzullo was ‘reckless’ in engagement with Liberal powerbroker",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-04T08:57:40.398527+00:00"
-    },
-    {
-      "tweet": "Anker put out a Nebula P1 projector and apparently it's not even that portable. Kind of defeats the whole point.",
-      "original_url": "https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Anker’s Nebula P1 projector is the portable sound king",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-04-04T08:57:40.398523+00:00"
-    },
-    {
       "tweet": "L'Art de L'Automobile and Salomon are doing an aerodynamic shoe collab. These things look like they go sixty miles per hour.",
       "original_url": "https://hypebeast.com/2026/4/lart-de-lautomobile-salomon-s-lab-phantasm-3-acs-pro-collaboration-release-info",
       "buzz_score": 75,
@@ -55,28 +33,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-04T03:15:52.488251+00:00"
-    },
-    {
-      "tweet": "Canada's gun buy-back plan is officially missing the mark by half. If you're gonna do a program, why not just finish the job.",
-      "original_url": "https://www.bbc.com/news/articles/cvg09dq4x5qo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 82,
-      "buzz_score2": 94,
-      "rewrite_count": 0,
-      "original_title": "How Canada's largest gun control effort in decades is missing the mark",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-04T03:15:52.488247+00:00"
-    },
-    {
-      "tweet": "Missiles hitting residential areas in Israel now. Everything is just falling apart.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iranian-missile-attack-hits-residential-areas-in-central-israel?traffic_source=rss",
-      "buzz_score": 94,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Iranian missile attack hits residential areas in central Israel",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-04T03:15:52.488257+00:00"
     },
     {
       "tweet": "A price hike for the Switch 2 is apparently inevitable. Can we have one affordable hobby?",
@@ -178,6 +134,28 @@
       "added_at": "2026-04-03T16:38:46.892148+00:00"
     },
     {
+      "tweet": "Canada's gun buy-back plan is officially missing the mark by half. If you're gonna do a program, why not just finish the job.",
+      "original_url": "https://www.bbc.com/news/articles/cvg09dq4x5qo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 82,
+      "buzz_score2": 94,
+      "rewrite_count": 0,
+      "original_title": "How Canada's largest gun control effort in decades is missing the mark",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-04T03:15:52.488247+00:00"
+    },
+    {
+      "tweet": "Missiles hitting residential areas in Israel now. Everything is just falling apart.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iranian-missile-attack-hits-residential-areas-in-central-israel?traffic_source=rss",
+      "buzz_score": 94,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Iranian missile attack hits residential areas in central Israel",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-04T03:15:52.488257+00:00"
+    },
+    {
       "tweet": "You can get every Peanuts strip ever for 25 bucks right now. Time to disappear for a month.",
       "original_url": "https://www.polygon.com/peanuts-charles-schulz-humble-bundle-collection/",
       "buzz_score": 80,
@@ -242,17 +220,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-02T07:00:05.407799+00:00"
-    },
-    {
-      "tweet": "Love on the Spectrum got renewed, but Connor's leaving. It's that feeling of being genuinely happy for someone moving on while you're still sitting here watching Netflix.",
-      "original_url": "https://variety.com/2026/tv/awards/love-on-the-spectrum-renewed-season-5-connor-tomlinson-exits-1236705978/",
-      "buzz_score": 85,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Netflix’s ‘Love on the Spectrum’ Renewed for Season 5, Fan Favorite Cast Member Connor Tomlinson Exits: ‘I’ve Chosen to Pass the Torch’ (EXCLUSIVE)",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-04T03:15:52.488240+00:00"
     },
     {
       "tweet": "BTS is dropping that hidden SUGA track after only two days of warning. They know exactly how to make us lose our minds. Relatable.",
@@ -385,6 +352,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-01T14:17:58.856553+00:00"
+    },
+    {
+      "tweet": "Love on the Spectrum got renewed, but Connor's leaving. It's that feeling of being genuinely happy for someone moving on while you're still sitting here watching Netflix.",
+      "original_url": "https://variety.com/2026/tv/awards/love-on-the-spectrum-renewed-season-5-connor-tomlinson-exits-1236705978/",
+      "buzz_score": 85,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Netflix’s ‘Love on the Spectrum’ Renewed for Season 5, Fan Favorite Cast Member Connor Tomlinson Exits: ‘I’ve Chosen to Pass the Torch’ (EXCLUSIVE)",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-04T03:15:52.488240+00:00"
     },
     {
       "tweet": "Ben Platt and Rachel Zegler are dropping a live album for The Last Five Years. Finally, some good theater kid energy.",
@@ -596,17 +574,6 @@
       "added_at": "2026-04-04T06:11:10.785283+00:00"
     },
     {
-      "tweet": "Police caught nine people trying to bring tons of cocaine into Australia via a mother ship. Like a movie.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/04/nine-charged-over-alleged-conspiracy-to-import-tonnes-of-cocaine-and-meth-australia-ntwnfb",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Nine charged over alleged conspiracy to import tonnes of cocaine and meth via ‘mother ship’ in Australian waters",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-04T03:15:52.488259+00:00"
-    },
-    {
       "tweet": "Heavy bombing in Tehran this morning. It's just constant at this point.",
       "original_url": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heavy-bombings-tehran",
       "buzz_score": 90,
@@ -616,6 +583,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-02T07:00:05.407808+00:00"
+    },
+    {
+      "tweet": "Police caught nine people trying to bring tons of cocaine into Australia via a mother ship. Like a movie.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/04/nine-charged-over-alleged-conspiracy-to-import-tonnes-of-cocaine-and-meth-australia-ntwnfb",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Nine charged over alleged conspiracy to import tonnes of cocaine and meth via ‘mother ship’ in Australian waters",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-04T03:15:52.488259+00:00"
     },
     {
       "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
@@ -748,17 +726,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-01T16:44:00.716209+00:00"
-    },
-    {
-      "tweet": "Anthropic is supposedly killing it in private markets right now. SpaceX is just waiting to spoil the vibe. Casual.",
-      "original_url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-04-04T03:15:52.488245+00:00"
     },
     {
       "tweet": "OnePlus has a 70 dollar promo code out. We're all gonna buy stuff we don't need.",
@@ -1278,15 +1245,15 @@
       "added_at": "2026-04-01T10:52:49.160388+00:00"
     },
     {
-      "tweet": "The NBA is investigating the Bucks for how they handled Giannis and his health. Something feels off.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48391034/nba-investigating-bucks-giannis-says-healthy",
-      "buzz_score": 78,
-      "buzz_score2": 88,
+      "tweet": "Anthropic is supposedly killing it in private markets right now. SpaceX is just waiting to spoil the vibe. Casual.",
+      "original_url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Sources: NBA investigating Bucks, Giannis' health",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-04T03:15:52.488266+00:00"
+      "original_title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-04-04T03:15:52.488245+00:00"
     },
     {
       "tweet": "Bustle just posted a list of 65 things on Amazon under 25 dollars. I'm already buying three of them.",
@@ -1795,15 +1762,15 @@
       "added_at": "2026-04-01T10:52:49.160378+00:00"
     },
     {
-      "tweet": "Lucid blaming their sales dip on a seat supplier issue is a move. Imagine telling your boss your quarterly goals failed because of a cushion.",
-      "original_url": "https://techcrunch.com/2026/04/03/lucid-blames-dip-in-q1-sales-on-seat-supplier-issue/",
-      "buzz_score": 75,
+      "tweet": "The NBA is investigating the Bucks for how they handled Giannis and his health. Something feels off.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48391034/nba-investigating-bucks-giannis-says-healthy",
+      "buzz_score": 78,
       "buzz_score2": 88,
       "rewrite_count": 0,
-      "original_title": "Lucid blames dip in Q1 sales on seat supplier issue",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-04-04T03:15:52.488243+00:00"
+      "original_title": "Sources: NBA investigating Bucks, Giannis' health",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-04T03:15:52.488266+00:00"
     },
     {
       "tweet": "Anthony Barry went from playing for Accrington to coaching under Tuchel in ten years. Talk about a glow up.",
@@ -1826,6 +1793,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-01T10:52:49.160386+00:00"
+    },
+    {
+      "tweet": "Lucid blaming their sales dip on a seat supplier issue is a move. Imagine telling your boss your quarterly goals failed because of a cushion.",
+      "original_url": "https://techcrunch.com/2026/04/03/lucid-blames-dip-in-q1-sales-on-seat-supplier-issue/",
+      "buzz_score": 75,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Lucid blames dip in Q1 sales on seat supplier issue",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-04-04T03:15:52.488243+00:00"
     },
     {
       "tweet": "Portland Fire took Bridget Carleton with the number one pick. Big moves for the WNBA.",
@@ -2235,17 +2213,6 @@
       "added_at": "2026-04-03T14:36:16.035335+00:00"
     },
     {
-      "tweet": "Can you match every state to its abbreviation without hesitating. Why is this so hard.",
-      "original_url": "https://www.mentalfloss.com/quizzes/match-state-to-abbreviation-without-hesitating?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Quiz: Can You Match Every State to Its Abbreviation Without Hesitating?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-04T06:11:10.785292+00:00"
-    },
-    {
       "tweet": "Reading about Pokémon Mega Evolutions in 2026. Sometimes you just need to turn your brain off",
       "original_url": "https://kotaku.com/pokemon-legends-z-a-mega-evolutions-abilities-champions-2000683952",
       "buzz_score": 75,
@@ -2266,6 +2233,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-01T16:44:00.716201+00:00"
+    },
+    {
+      "tweet": "Can you match every state to its abbreviation without hesitating. Why is this so hard.",
+      "original_url": "https://www.mentalfloss.com/quizzes/match-state-to-abbreviation-without-hesitating?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Quiz: Can You Match Every State to Its Abbreviation Without Hesitating?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-04T06:11:10.785292+00:00"
     },
     {
       "tweet": "Victoria police just made two more arrests in that Dezi Freeman investigation. Still going on.",
@@ -2301,17 +2279,6 @@
       "added_at": "2026-04-04T06:11:10.785289+00:00"
     },
     {
-      "tweet": "BTS fans are trying to get the group to release a hidden song that's trapped on a deluxe vinyl. Why keep the music away from people.",
-      "original_url": "https://www.rollingstone.com/music/music-news/bts-hidden-arirang-track-come-over-1235541853/",
-      "buzz_score": 72,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "BTS ARMY Demands Release of Hidden ‘Arirang’ Song on Streaming Platforms",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-04-04T03:15:52.488261+00:00"
-    },
-    {
       "tweet": "Costa Rica is taking migrants for the US now. We're just outsourcing the border at this point",
       "original_url": "https://www.theguardian.com/us-news/2026/apr/02/trump-costa-rica-deported-migrants-deal",
       "buzz_score": 82,
@@ -2321,6 +2288,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-02T16:35:16.423133+00:00"
+    },
+    {
+      "tweet": "BTS fans are trying to get the group to release a hidden song that's trapped on a deluxe vinyl. Why keep the music away from people.",
+      "original_url": "https://www.rollingstone.com/music/music-news/bts-hidden-arirang-track-come-over-1235541853/",
+      "buzz_score": 72,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "BTS ARMY Demands Release of Hidden ‘Arirang’ Song on Streaming Platforms",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-04-04T03:15:52.488261+00:00"
     },
     {
       "tweet": "An artist is taking a war crime case to Paris after a strike in Lebanon. People are tired of the silence.",
@@ -3778,7 +3756,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 144,
+    "total_posted": 146,
     "total_collected": 396
   }
 }
