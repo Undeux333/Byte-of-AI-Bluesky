@@ -2,28 +2,6 @@
   "last_collected": "2026-04-04T06:11:10.785306+00:00",
   "queue": [
     {
-      "tweet": "Seniors are officially looking for roommates to afford rent now. We're all just gonna be living in Golden Girls setups by thirty.",
-      "original_url": "https://www.npr.org/2026/04/04/nx-s1-5760948/high-housing-costs-seniors-seeking-roommates",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "65, single, seeking a roommate: More seniors are being priced out of living alone",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-04T06:11:10.785263+00:00"
-    },
-    {
-      "tweet": "Sydney councils are worried datacentres are blocking housing for locals. We're literally building homes for servers while we can't find apartments.",
-      "original_url": "https://www.theguardian.com/environment/2026/apr/04/sydney-councils-fear-new-datacentres-could-cause-blackouts-block-housing-and-affect-locals-health",
-      "buzz_score": 78,
-      "buzz_score2": 96,
-      "rewrite_count": 0,
-      "original_title": "Sydney councils fear new datacentres could cause blackouts, block housing and affect locals’ health",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-04T03:15:52.488249+00:00"
-    },
-    {
       "tweet": "The FAA is trying to use drone restrictions to stop people from filming ICE. It's just wild how fast they reach for new rules to hide that.",
       "original_url": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice",
       "buzz_score": 80,
@@ -101,17 +79,6 @@
       "added_at": "2026-04-04T00:01:40.347474+00:00"
     },
     {
-      "tweet": "Love on the Spectrum got renewed, but Connor's leaving. It's that feeling of being genuinely happy for someone moving on while you're still sitting here watching Netflix.",
-      "original_url": "https://variety.com/2026/tv/awards/love-on-the-spectrum-renewed-season-5-connor-tomlinson-exits-1236705978/",
-      "buzz_score": 85,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Netflix’s ‘Love on the Spectrum’ Renewed for Season 5, Fan Favorite Cast Member Connor Tomlinson Exits: ‘I’ve Chosen to Pass the Torch’ (EXCLUSIVE)",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-04T03:15:52.488240+00:00"
-    },
-    {
       "tweet": "Countries are talking about using force to reopen the Strait of Hormuz. We really doing this.",
       "original_url": "https://www.aljazeera.com/video/inside-story/2026/4/3/will-force-be-used-to-reopen-strait-of-hormuz?traffic_source=rss",
       "buzz_score": 85,
@@ -178,6 +145,17 @@
       "added_at": "2026-04-03T16:38:46.892148+00:00"
     },
     {
+      "tweet": "Love on the Spectrum got renewed, but Connor's leaving. It's that feeling of being genuinely happy for someone moving on while you're still sitting here watching Netflix.",
+      "original_url": "https://variety.com/2026/tv/awards/love-on-the-spectrum-renewed-season-5-connor-tomlinson-exits-1236705978/",
+      "buzz_score": 85,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Netflix’s ‘Love on the Spectrum’ Renewed for Season 5, Fan Favorite Cast Member Connor Tomlinson Exits: ‘I’ve Chosen to Pass the Torch’ (EXCLUSIVE)",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-04T03:15:52.488240+00:00"
+    },
+    {
       "tweet": "Pep Guardiola telling his players they can leave Manchester City if they're unhappy. Pretty bold way to clear the air.",
       "original_url": "https://www.bbc.com/sport/football/articles/c5yvl42y4xeo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -198,39 +176,6 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-03T21:48:56.850457+00:00"
-    },
-    {
-      "tweet": "Blake Lively is vowing to keep fighting after that lawsuit setback. Just move on.",
-      "original_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/blake-lively-unfazed-lawsuit-claims-dismissed-1235541877/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Blake Lively Unfazed After Lawsuit Setback, Vows to Keep ‘Fighting’",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-04-04T06:11:10.785294+00:00"
-    },
-    {
-      "tweet": "Someone built a free AI tool called Apfel that's just sitting on your Mac. Why are we paying for ChatGPT.",
-      "original_url": "https://apfel.franzai.com",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Show HN: Apfel – The free AI already on your Mac",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-04T06:11:10.785287+00:00"
-    },
-    {
-      "tweet": "NASA just dropped the first photos from Artemis II and Earth looks so small. Wild.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/nasa-unveils-first-images-of-earth-from-artemis-ii?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "NASA unveils first images of Earth from Artemis II",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-04T06:11:10.785278+00:00"
     },
     {
       "tweet": "Australia told the US they aren't changing their drug prices for Trump. Love seeing someone actually say no.",
@@ -266,37 +211,37 @@
       "added_at": "2026-04-02T07:00:05.407799+00:00"
     },
     {
-      "tweet": "Lauren Price says the structure in her life gives her confidence. We're all just looking for a routine that works.",
-      "original_url": "https://www.bbc.com/sport/boxing/videos/c3ex5x75p7do?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
+      "tweet": "Blake Lively is vowing to keep fighting after that lawsuit setback. Just move on.",
+      "original_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/blake-lively-unfazed-lawsuit-claims-dismissed-1235541877/",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Fake tan disasters & living two lives - inside the camp of a world champ",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-04T06:11:10.785299+00:00"
-    },
-    {
-      "tweet": "Dee Freeman from The Young and the Restless died at 66. Such a legend.",
-      "original_url": "https://deadline.com/2026/04/dee-freeman-dies-66-1236773430/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Dee Freeman Dies: ‘The Young and the Restless’ & ‘Sistas’ Actress Was 66",
-      "source": "Deadline",
+      "original_title": "Blake Lively Unfazed After Lawsuit Setback, Vows to Keep ‘Fighting’",
+      "source": "Rolling Stone",
       "category": "entertainment",
-      "added_at": "2026-04-04T06:11:10.785296+00:00"
+      "added_at": "2026-04-04T06:11:10.785294+00:00"
     },
     {
-      "tweet": "UCLA just made the title game with 23 turnovers. How are they even playing basketball.",
-      "original_url": "https://www.espn.com/womens-college-basketball/story/_/id/48391884/ucla-survives-late-surge-texas-make-first-ncaa-title-game",
-      "buzz_score": 75,
+      "tweet": "Someone built a free AI tool called Apfel that's just sitting on your Mac. Why are we paying for ChatGPT.",
+      "original_url": "https://apfel.franzai.com",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "UCLA grinds out sloppy win, reaches 1st title game",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-04T06:11:10.785274+00:00"
+      "original_title": "Show HN: Apfel – The free AI already on your Mac",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-04T06:11:10.785287+00:00"
+    },
+    {
+      "tweet": "NASA just dropped the first photos from Artemis II and Earth looks so small. Wild.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/nasa-unveils-first-images-of-earth-from-artemis-ii?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "NASA unveils first images of Earth from Artemis II",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-04T06:11:10.785278+00:00"
     },
     {
       "tweet": "BTS is dropping that hidden SUGA track after only two days of warning. They know exactly how to make us lose our minds. Relatable.",
@@ -431,15 +376,37 @@
       "added_at": "2026-04-01T14:17:58.856553+00:00"
     },
     {
-      "tweet": "Apparently we're calling dangerous vacations darecations now. We'll do anything to feel something.",
-      "original_url": "https://www.mentalfloss.com/geography/wanderlust/most-thrilling-darecations-ranked?utm_source=RSS",
-      "buzz_score": 70,
+      "tweet": "Lauren Price says the structure in her life gives her confidence. We're all just looking for a routine that works.",
+      "original_url": "https://www.bbc.com/sport/boxing/videos/c3ex5x75p7do?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "The Most Thrilling \"Darecations\" Around the World, Ranked",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-04T06:11:10.785283+00:00"
+      "original_title": "Fake tan disasters & living two lives - inside the camp of a world champ",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-04T06:11:10.785299+00:00"
+    },
+    {
+      "tweet": "Dee Freeman from The Young and the Restless died at 66. Such a legend.",
+      "original_url": "https://deadline.com/2026/04/dee-freeman-dies-66-1236773430/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Dee Freeman Dies: ‘The Young and the Restless’ & ‘Sistas’ Actress Was 66",
+      "source": "Deadline",
+      "category": "entertainment",
+      "added_at": "2026-04-04T06:11:10.785296+00:00"
+    },
+    {
+      "tweet": "UCLA just made the title game with 23 turnovers. How are they even playing basketball.",
+      "original_url": "https://www.espn.com/womens-college-basketball/story/_/id/48391884/ucla-survives-late-surge-texas-make-first-ncaa-title-game",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "UCLA grinds out sloppy win, reaches 1st title game",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-04T06:11:10.785274+00:00"
     },
     {
       "tweet": "There are Fabergé Easter eggs worth a literal nest egg. Imagine hiding those in the yard.",
@@ -541,6 +508,17 @@
       "added_at": "2026-04-01T21:56:47.155494+00:00"
     },
     {
+      "tweet": "Apparently we're calling dangerous vacations darecations now. We'll do anything to feel something.",
+      "original_url": "https://www.mentalfloss.com/geography/wanderlust/most-thrilling-darecations-ranked?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Most Thrilling \"Darecations\" Around the World, Ranked",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-04T06:11:10.785283+00:00"
+    },
+    {
       "tweet": "Police caught nine people trying to bring tons of cocaine into Australia via a mother ship. Like a movie.",
       "original_url": "https://www.theguardian.com/australia-news/2026/apr/04/nine-charged-over-alleged-conspiracy-to-import-tonnes-of-cocaine-and-meth-australia-ntwnfb",
       "buzz_score": 80,
@@ -561,17 +539,6 @@
       "source": "TechCrunch",
       "category": "tech",
       "added_at": "2026-04-04T03:15:52.488245+00:00"
-    },
-    {
-      "tweet": "Cosmo just dropped a guide to oral sex positions. My mentions are about to be weird.",
-      "original_url": "https://sex.cosmopolitan.com/pleasure/a4967/oral-sex-positions-you-need/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "10 Oral Sex Positions for Anyone Who Loves Giving (and Getting) Head",
-      "source": "Cosmo Sex & Love",
-      "category": "sex",
-      "added_at": "2026-04-04T00:01:40.347467+00:00"
     },
     {
       "tweet": "Heavy bombing in Tehran this morning. It's just constant at this point.",
@@ -629,37 +596,15 @@
       "added_at": "2026-04-01T21:56:47.155492+00:00"
     },
     {
-      "tweet": "The NBA is investigating the Bucks for how they handled Giannis and his health. Something feels off.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48391034/nba-investigating-bucks-giannis-says-healthy",
-      "buzz_score": 78,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "Sources: NBA investigating Bucks, Giannis' health",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-04T03:15:52.488266+00:00"
-    },
-    {
-      "tweet": "Bustle just posted a list of 65 things on Amazon under 25 dollars. I'm already buying three of them.",
-      "original_url": "https://www.bustle.com/shopping/the-most-badass-things-we-found-on-amazon-under-25",
-      "buzz_score": 75,
+      "tweet": "Cosmo just dropped a guide to oral sex positions. My mentions are about to be weird.",
+      "original_url": "https://sex.cosmopolitan.com/pleasure/a4967/oral-sex-positions-you-need/",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "The 65 Most Badass Things We Found On Amazon Under $25",
-      "source": "Bustle",
+      "original_title": "10 Oral Sex Positions for Anyone Who Loves Giving (and Getting) Head",
+      "source": "Cosmo Sex & Love",
       "category": "sex",
-      "added_at": "2026-04-04T00:01:40.347477+00:00"
-    },
-    {
-      "tweet": "Tuma Basa is stepping into his next chapter after eight years at YouTube. Corporate talk for 'I'm out'.",
-      "original_url": "https://www.billboard.com/pro/youtube-director-black-music-culture-tuma-basa-exit/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "YouTube’s Tuma Basa to Exit as Director of Black Music & Culture",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-04T00:01:40.347460+00:00"
+      "added_at": "2026-04-04T00:01:40.347467+00:00"
     },
     {
       "tweet": "Keir Starmer was told his relationship with Trump is beyond repair after that mocking impersonation. Diplomacy is just high school with better suits",
@@ -750,15 +695,37 @@
       "added_at": "2026-04-01T16:44:00.716209+00:00"
     },
     {
-      "tweet": "Lucid blaming their sales dip on a seat supplier issue is a move. Imagine telling your boss your quarterly goals failed because of a cushion.",
-      "original_url": "https://techcrunch.com/2026/04/03/lucid-blames-dip-in-q1-sales-on-seat-supplier-issue/",
-      "buzz_score": 75,
+      "tweet": "The NBA is investigating the Bucks for how they handled Giannis and his health. Something feels off.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48391034/nba-investigating-bucks-giannis-says-healthy",
+      "buzz_score": 78,
       "buzz_score2": 88,
       "rewrite_count": 0,
-      "original_title": "Lucid blames dip in Q1 sales on seat supplier issue",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-04-04T03:15:52.488243+00:00"
+      "original_title": "Sources: NBA investigating Bucks, Giannis' health",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-04T03:15:52.488266+00:00"
+    },
+    {
+      "tweet": "Bustle just posted a list of 65 things on Amazon under 25 dollars. I'm already buying three of them.",
+      "original_url": "https://www.bustle.com/shopping/the-most-badass-things-we-found-on-amazon-under-25",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The 65 Most Badass Things We Found On Amazon Under $25",
+      "source": "Bustle",
+      "category": "sex",
+      "added_at": "2026-04-04T00:01:40.347477+00:00"
+    },
+    {
+      "tweet": "Tuma Basa is stepping into his next chapter after eight years at YouTube. Corporate talk for 'I'm out'.",
+      "original_url": "https://www.billboard.com/pro/youtube-director-black-music-culture-tuma-basa-exit/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "YouTube’s Tuma Basa to Exit as Director of Black Music & Culture",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-04T00:01:40.347460+00:00"
     },
     {
       "tweet": "OnePlus has a 70 dollar promo code out. We're all gonna buy stuff we don't need.",
@@ -770,6 +737,17 @@
       "source": "Wired",
       "category": "tech",
       "added_at": "2026-04-02T07:00:05.407806+00:00"
+    },
+    {
+      "tweet": "Lucid blaming their sales dip on a seat supplier issue is a move. Imagine telling your boss your quarterly goals failed because of a cushion.",
+      "original_url": "https://techcrunch.com/2026/04/03/lucid-blames-dip-in-q1-sales-on-seat-supplier-issue/",
+      "buzz_score": 75,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Lucid blames dip in Q1 sales on seat supplier issue",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-04-04T03:15:52.488243+00:00"
     },
     {
       "tweet": "Protests are growing in Cuba, but there’s no real opposition left on the island. How does that even work.",
@@ -1300,17 +1278,6 @@
       "added_at": "2026-04-03T21:48:56.850465+00:00"
     },
     {
-      "tweet": "Can you match every state to its abbreviation without hesitating. Why is this so hard.",
-      "original_url": "https://www.mentalfloss.com/quizzes/match-state-to-abbreviation-without-hesitating?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Quiz: Can You Match Every State to Its Abbreviation Without Hesitating?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-04T06:11:10.785292+00:00"
-    },
-    {
       "tweet": "Aden Holloway just got his ban reversed and is heading back to Alabama. Sports media is a fever dream",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48386918/alabama-holloway-plans-enroll-fall-aims-rejoin-team",
       "buzz_score": 75,
@@ -1762,6 +1729,17 @@
       "added_at": "2026-04-01T10:52:49.160378+00:00"
     },
     {
+      "tweet": "Can you match every state to its abbreviation without hesitating. Why is this so hard.",
+      "original_url": "https://www.mentalfloss.com/quizzes/match-state-to-abbreviation-without-hesitating?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Quiz: Can You Match Every State to Its Abbreviation Without Hesitating?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-04T06:11:10.785292+00:00"
+    },
+    {
       "tweet": "Anthony Barry went from playing for Accrington to coaching under Tuchel in ten years. Talk about a glow up.",
       "original_url": "https://www.bbc.com/sport/football/articles/ckge7014m5yo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 72,
@@ -1815,39 +1793,6 @@
       "source": "Hypebeast",
       "category": "entertainment",
       "added_at": "2026-04-03T21:48:56.850483+00:00"
-    },
-    {
-      "tweet": "Victoria police just made two more arrests in that Dezi Freeman investigation. Still going on.",
-      "original_url": "https://www.theguardian.com/global/2026/apr/04/dezi-freeman-investigation-arrests-victoria-police-porepunkah-ntwnfb",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Victoria police arrest two people as part of Dezi Freeman investigation",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-04T06:11:10.785301+00:00"
-    },
-    {
-      "tweet": "Maison Margiela is dropping a perfume collection called Scentsorium. Seems excessive.",
-      "original_url": "https://hypebeast.com/2026/4/maison-margiela-haute-parfumerie-scentsorium-collection-launch",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Maison Margiela Enters Haute Parfumerie With the Scentsorium Collection",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-04T06:11:10.785298+00:00"
-    },
-    {
-      "tweet": "A new frontpage for personal blogs just dropped on HackerNews. We're all trying so hard to be interesting again.",
-      "original_url": "https://text.blogosphere.app/",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Show HN: I built a frontpage for personal blogs",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-04T06:11:10.785289+00:00"
     },
     {
       "tweet": "TCU gave Sonny Dykes a multiyear extension after going 36-17. The grind is real I guess.",
@@ -2180,6 +2125,39 @@
       "added_at": "2026-04-01T10:52:49.160381+00:00"
     },
     {
+      "tweet": "Victoria police just made two more arrests in that Dezi Freeman investigation. Still going on.",
+      "original_url": "https://www.theguardian.com/global/2026/apr/04/dezi-freeman-investigation-arrests-victoria-police-porepunkah-ntwnfb",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Victoria police arrest two people as part of Dezi Freeman investigation",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-04T06:11:10.785301+00:00"
+    },
+    {
+      "tweet": "Maison Margiela is dropping a perfume collection called Scentsorium. Seems excessive.",
+      "original_url": "https://hypebeast.com/2026/4/maison-margiela-haute-parfumerie-scentsorium-collection-launch",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Maison Margiela Enters Haute Parfumerie With the Scentsorium Collection",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-04T06:11:10.785298+00:00"
+    },
+    {
+      "tweet": "A new frontpage for personal blogs just dropped on HackerNews. We're all trying so hard to be interesting again.",
+      "original_url": "https://text.blogosphere.app/",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Show HN: I built a frontpage for personal blogs",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-04T06:11:10.785289+00:00"
+    },
+    {
       "tweet": "Tailscale just moved their macOS setup. If you know, you know.",
       "original_url": "https://tailscale.com/blog/macos-notch-escape",
       "buzz_score": 65,
@@ -2411,17 +2389,6 @@
       "added_at": "2026-04-01T08:29:51.989778+00:00"
     },
     {
-      "tweet": "Netflix is dropping a Bad Guys prequel series. It's the kind of thing you put on when you've genuinely stopped caring about your schedule.",
-      "original_url": "https://usa.newonnetflix.info/info/81488214",
-      "buzz_score": 70,
-      "buzz_score2": 82,
-      "rewrite_count": 0,
-      "original_title": "3rd Apr: The Bad Guys: The Series (2026), 2 Seasons [TV-Y7] - New Episodes (6/10)",
-      "source": "New on Netflix",
-      "category": "entertainment",
-      "added_at": "2026-04-04T03:15:52.488264+00:00"
-    },
-    {
       "tweet": "There’s a new glam rock movie about Mozart and his supposedly more talented sister. Wonder which one the audience will care about.",
       "original_url": "https://variety.com/2026/tv/global/wolfgang-mozart-maria-anna-mozart-beta-film-ard-1236705159/",
       "buzz_score": 72,
@@ -2552,6 +2519,17 @@
       "source": "Big Think",
       "category": "trivia",
       "added_at": "2026-04-01T08:29:51.989797+00:00"
+    },
+    {
+      "tweet": "Netflix is dropping a Bad Guys prequel series. It's the kind of thing you put on when you've genuinely stopped caring about your schedule.",
+      "original_url": "https://usa.newonnetflix.info/info/81488214",
+      "buzz_score": 70,
+      "buzz_score2": 82,
+      "rewrite_count": 0,
+      "original_title": "3rd Apr: The Bad Guys: The Series (2026), 2 Seasons [TV-Y7] - New Episodes (6/10)",
+      "source": "New on Netflix",
+      "category": "entertainment",
+      "added_at": "2026-04-04T03:15:52.488264+00:00"
     },
     {
       "tweet": "The Live Nation antitrust trial is still going and they're actually talking about 'intimidation' in the courtroom. Typical.",
@@ -3690,7 +3668,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 136,
+    "total_posted": 138,
     "total_collected": 380
   }
 }
