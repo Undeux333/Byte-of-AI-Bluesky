@@ -2,28 +2,6 @@
   "last_collected": "2026-04-04T03:15:52.488273+00:00",
   "queue": [
     {
-      "tweet": "Iran shot down an American fighter jet. We're actually doing this now.",
-      "original_url": "https://www.nytimes.com/2026/04/03/world/middleeast/iran-war-middle-east-recap-friday.html",
-      "buzz_score": 98,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Here’s What Happened in the War in the Middle East on Friday",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-04T03:15:52.488255+00:00"
-    },
-    {
-      "tweet": "Geno Auriemma going after the refs on live TV and then getting into it with Dawn Staley is just peak sports. Everyone's tired of the officiating, man.",
-      "original_url": "https://www.espn.com/womens-college-basketball/story/_/id/48390619/geno-irate-ridiculous-officiating-confronts-staley-sideline-loss",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Geno confronts Staley, rips 'ridiculous' refs in loss",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-04T03:15:52.488236+00:00"
-    },
-    {
       "tweet": "Sydney councils are worried datacentres are blocking housing for locals. We're literally building homes for servers while we can't find apartments.",
       "original_url": "https://www.theguardian.com/environment/2026/apr/04/sydney-councils-fear-new-datacentres-could-cause-blackouts-block-housing-and-affect-locals-health",
       "buzz_score": 78,
@@ -211,17 +189,6 @@
       "added_at": "2026-04-03T16:38:46.892148+00:00"
     },
     {
-      "tweet": "Police caught nine people trying to bring tons of cocaine into Australia via a mother ship. Like a movie.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/04/nine-charged-over-alleged-conspiracy-to-import-tonnes-of-cocaine-and-meth-australia-ntwnfb",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Nine charged over alleged conspiracy to import tonnes of cocaine and meth via ‘mother ship’ in Australian waters",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-04T03:15:52.488259+00:00"
-    },
-    {
       "tweet": "Australia told the US they aren't changing their drug prices for Trump. Love seeing someone actually say no.",
       "original_url": "https://www.theguardian.com/business/2026/apr/03/australia-says-it-wont-raise-drug-prices-after-trumps-100-tariff-on-pharmaceuticals-imported-into-us",
       "buzz_score": 80,
@@ -253,6 +220,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-02T07:00:05.407799+00:00"
+    },
+    {
+      "tweet": "Police caught nine people trying to bring tons of cocaine into Australia via a mother ship. Like a movie.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/04/nine-charged-over-alleged-conspiracy-to-import-tonnes-of-cocaine-and-meth-australia-ntwnfb",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Nine charged over alleged conspiracy to import tonnes of cocaine and meth via ‘mother ship’ in Australian waters",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-04T03:15:52.488259+00:00"
     },
     {
       "tweet": "BTS is dropping that hidden SUGA track after only two days of warning. They know exactly how to make us lose our minds. Relatable.",
@@ -387,28 +365,6 @@
       "added_at": "2026-04-01T14:17:58.856553+00:00"
     },
     {
-      "tweet": "Anthropic is supposedly killing it in private markets right now. SpaceX is just waiting to spoil the vibe. Casual.",
-      "original_url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-04-04T03:15:52.488245+00:00"
-    },
-    {
-      "tweet": "Cosmo just dropped a guide to oral sex positions. My mentions are about to be weird.",
-      "original_url": "https://sex.cosmopolitan.com/pleasure/a4967/oral-sex-positions-you-need/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "10 Oral Sex Positions for Anyone Who Loves Giving (and Getting) Head",
-      "source": "Cosmo Sex & Love",
-      "category": "sex",
-      "added_at": "2026-04-04T00:01:40.347467+00:00"
-    },
-    {
       "tweet": "There are Fabergé Easter eggs worth a literal nest egg. Imagine hiding those in the yard.",
       "original_url": "https://www.mentalfloss.com/art/rare-easter-eggs-worth-nest-egg?utm_source=RSS",
       "buzz_score": 70,
@@ -508,6 +464,28 @@
       "added_at": "2026-04-01T21:56:47.155494+00:00"
     },
     {
+      "tweet": "Anthropic is supposedly killing it in private markets right now. SpaceX is just waiting to spoil the vibe. Casual.",
+      "original_url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-04-04T03:15:52.488245+00:00"
+    },
+    {
+      "tweet": "Cosmo just dropped a guide to oral sex positions. My mentions are about to be weird.",
+      "original_url": "https://sex.cosmopolitan.com/pleasure/a4967/oral-sex-positions-you-need/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "10 Oral Sex Positions for Anyone Who Loves Giving (and Getting) Head",
+      "source": "Cosmo Sex & Love",
+      "category": "sex",
+      "added_at": "2026-04-04T00:01:40.347467+00:00"
+    },
+    {
       "tweet": "The NBA is investigating the Bucks for how they handled Giannis and his health. Something feels off.",
       "original_url": "https://www.espn.com/nba/story/_/id/48391034/nba-investigating-bucks-giannis-says-healthy",
       "buzz_score": 78,
@@ -563,6 +541,61 @@
       "added_at": "2026-04-03T21:48:56.850487+00:00"
     },
     {
+      "tweet": "Heavy bombing in Tehran this morning. It's just constant at this point.",
+      "original_url": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heavy-bombings-tehran",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Heavy bombings across Tehran jolt its war-weary residents.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-02T07:00:05.407808+00:00"
+    },
+    {
+      "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
+      "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app",
+      "buzz_score": 75,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Federal judge rules DHS illegally stripped immigration status from thousands who entered through CBP One App",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-01T16:44:00.716207+00:00"
+    },
+    {
+      "tweet": "Italy's FA head quit after they missed their third straight World Cup. They just can't catch a break.",
+      "original_url": "https://www.bbc.com/sport/football/articles/ckgr620w5eyo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Italian FA head and Buffon quit over World Cup failure",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-02T16:35:16.423142+00:00"
+    },
+    {
+      "tweet": "Macron basically told Trump to stop tweeting about the war and be serious. Imagine being the guy who has to tell him to log off.",
+      "original_url": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-02T16:35:16.423131+00:00"
+    },
+    {
+      "tweet": "An always-online game got ditched by its server provider for AI and had to patch in offline mode overnight. Talk about a pivot",
+      "original_url": "https://kotaku.com/stormgate-rts-patch-offline-mode-after-server-provider-ditches-them-for-ai-2000683998",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Always-Online RTS Has To Quickly Patch In Offline Mode After Server Provider Ditches Them For AI",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-01T21:56:47.155492+00:00"
+    },
+    {
       "tweet": "Keir Starmer was told his relationship with Trump is beyond repair after that mocking impersonation. Diplomacy is just high school with better suits",
       "original_url": "https://www.theguardian.com/politics/2026/apr/03/relationship-with-trump-may-be-beyond-repair-keir-starmer-told",
       "buzz_score": 85,
@@ -605,127 +638,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-03T21:48:56.850465+00:00"
-    },
-    {
-      "tweet": "Heavy bombing in Tehran this morning. It's just constant at this point.",
-      "original_url": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heavy-bombings-tehran",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Heavy bombings across Tehran jolt its war-weary residents.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-02T07:00:05.407808+00:00"
-    },
-    {
-      "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
-      "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Federal judge rules DHS illegally stripped immigration status from thousands who entered through CBP One App",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-01T16:44:00.716207+00:00"
-    },
-    {
-      "tweet": "Experts say the teen meet-ups in Clapham are happening because there’s literally nowhere else to go. We forgot how to build third places",
-      "original_url": "https://www.theguardian.com/uk-news/2026/apr/03/experts-respond-to-mass-teen-meet-ups-clapham-london",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘Young people want to come together’: experts respond to mass teen meet-ups in Clapham",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-03T19:26:24.480542+00:00"
-    },
-    {
-      "tweet": "Trump is out here fighting in ballrooms and apparently there’s a whole secret bunker under the White House. The main character energy is exhausting",
-      "original_url": "https://www.npr.org/2026/04/03/nx-s1-5772665/trump-ballroom-underground-military-bunker",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump's ballroom fight sheds new light on an underground White House bunker",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-03T19:26:24.480524+00:00"
-    },
-    {
-      "tweet": "If you’re running OpenClaw you probably got hacked this week. Honestly at this point just unplug the router",
-      "original_url": "https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "If you're running OpenClaw, you probably got hacked in the last week",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-03T19:26:24.480519+00:00"
-    },
-    {
-      "tweet": "Italy's FA head quit after they missed their third straight World Cup. They just can't catch a break.",
-      "original_url": "https://www.bbc.com/sport/football/articles/ckgr620w5eyo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Italian FA head and Buffon quit over World Cup failure",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-02T16:35:16.423142+00:00"
-    },
-    {
-      "tweet": "Macron basically told Trump to stop tweeting about the war and be serious. Imagine being the guy who has to tell him to log off.",
-      "original_url": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-02T16:35:16.423131+00:00"
-    },
-    {
-      "tweet": "An always-online game got ditched by its server provider for AI and had to patch in offline mode overnight. Talk about a pivot",
-      "original_url": "https://kotaku.com/stormgate-rts-patch-offline-mode-after-server-provider-ditches-them-for-ai-2000683998",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Always-Online RTS Has To Quickly Patch In Offline Mode After Server Provider Ditches Them For AI",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-01T21:56:47.155492+00:00"
-    },
-    {
-      "tweet": "Portland Fire took Bridget Carleton with the number one pick. Big moves for the WNBA.",
-      "original_url": "https://www.espn.com/wnba/story/_/id/48387971/fire-make-bridget-carleton-top-wnba-expansion-draft-pick",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fire make Carleton top WNBA expansion draft pick",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-03T21:48:56.850491+00:00"
-    },
-    {
-      "tweet": "Northampton just scraped past Castres in the Champions Cup. That was a rough one.",
-      "original_url": "https://www.bbc.com/sport/rugby-union/articles/c070d4vk8g9o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Saints pass stern Castres test to reach last eight",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-03T21:48:56.850492+00:00"
-    },
-    {
-      "tweet": "LVMH shares just took a massive hit. Guess we aren't all spending like that anymore.",
-      "original_url": "https://hypebeast.com/2026/4/lvmh-q1-shares-see-a-record-decline-courreges-enlists-drew-henry-in-this-weeks-top-fashion-news",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "LVMH Q1 Shares See a Record Decline & Courrèges Enlists Drew Henry in This Week's Top Fashion News",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-03T21:48:56.850483+00:00"
     },
     {
       "tweet": "Trump wants to bump defense spending to 1.5 trillion. Just casually throwing around a trillion like it's pocket change.",
@@ -805,28 +717,6 @@
       "added_at": "2026-04-01T16:44:00.716209+00:00"
     },
     {
-      "tweet": "Aden Holloway just got his ban reversed and is heading back to Alabama. Sports media is a fever dream",
-      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48386918/alabama-holloway-plans-enroll-fall-aims-rejoin-team",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Tide's Holloway to enroll in fall, aims to play again",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-03T19:26:24.480532+00:00"
-    },
-    {
-      "tweet": "Shanghai is apparently a difficult fit for the government’s narrative lately. Turns out it's hard to control a city that’s already doing its own thing",
-      "original_url": "https://www.nytimes.com/2026/04/03/world/asia/shanghai-dispatch-architecture.html",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Cosmopolitan Shanghai Is an Uneasy Fit in China’s Narrative of Western Sins",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-03T19:26:24.480528+00:00"
-    },
-    {
       "tweet": "OnePlus has a 70 dollar promo code out. We're all gonna buy stuff we don't need.",
       "original_url": "https://www.wired.com/story/oneplus-promo-code/",
       "buzz_score": 82,
@@ -836,6 +726,72 @@
       "source": "Wired",
       "category": "tech",
       "added_at": "2026-04-02T07:00:05.407806+00:00"
+    },
+    {
+      "tweet": "Experts say the teen meet-ups in Clapham are happening because there’s literally nowhere else to go. We forgot how to build third places",
+      "original_url": "https://www.theguardian.com/uk-news/2026/apr/03/experts-respond-to-mass-teen-meet-ups-clapham-london",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘Young people want to come together’: experts respond to mass teen meet-ups in Clapham",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-03T19:26:24.480542+00:00"
+    },
+    {
+      "tweet": "Trump is out here fighting in ballrooms and apparently there’s a whole secret bunker under the White House. The main character energy is exhausting",
+      "original_url": "https://www.npr.org/2026/04/03/nx-s1-5772665/trump-ballroom-underground-military-bunker",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump's ballroom fight sheds new light on an underground White House bunker",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-03T19:26:24.480524+00:00"
+    },
+    {
+      "tweet": "If you’re running OpenClaw you probably got hacked this week. Honestly at this point just unplug the router",
+      "original_url": "https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "If you're running OpenClaw, you probably got hacked in the last week",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-03T19:26:24.480519+00:00"
+    },
+    {
+      "tweet": "Portland Fire took Bridget Carleton with the number one pick. Big moves for the WNBA.",
+      "original_url": "https://www.espn.com/wnba/story/_/id/48387971/fire-make-bridget-carleton-top-wnba-expansion-draft-pick",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Fire make Carleton top WNBA expansion draft pick",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-03T21:48:56.850491+00:00"
+    },
+    {
+      "tweet": "Northampton just scraped past Castres in the Champions Cup. That was a rough one.",
+      "original_url": "https://www.bbc.com/sport/rugby-union/articles/c070d4vk8g9o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Saints pass stern Castres test to reach last eight",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-03T21:48:56.850492+00:00"
+    },
+    {
+      "tweet": "LVMH shares just took a massive hit. Guess we aren't all spending like that anymore.",
+      "original_url": "https://hypebeast.com/2026/4/lvmh-q1-shares-see-a-record-decline-courreges-enlists-drew-henry-in-this-weeks-top-fashion-news",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "LVMH Q1 Shares See a Record Decline & Courrèges Enlists Drew Henry in This Week's Top Fashion News",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-03T21:48:56.850483+00:00"
     },
     {
       "tweet": "The Ghost Of Yotei devs used literal collector’s edition coins to test their multiplayer. Actual legend behavior.",
@@ -1289,15 +1245,26 @@
       "added_at": "2026-04-01T10:52:49.160388+00:00"
     },
     {
-      "tweet": "BTS fans are trying to get the group to release a hidden song that's trapped on a deluxe vinyl. Why keep the music away from people.",
-      "original_url": "https://www.rollingstone.com/music/music-news/bts-hidden-arirang-track-come-over-1235541853/",
-      "buzz_score": 72,
-      "buzz_score2": 85,
+      "tweet": "Aden Holloway just got his ban reversed and is heading back to Alabama. Sports media is a fever dream",
+      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48386918/alabama-holloway-plans-enroll-fall-aims-rejoin-team",
+      "buzz_score": 75,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "BTS ARMY Demands Release of Hidden ‘Arirang’ Song on Streaming Platforms",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-04-04T03:15:52.488261+00:00"
+      "original_title": "Tide's Holloway to enroll in fall, aims to play again",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-03T19:26:24.480532+00:00"
+    },
+    {
+      "tweet": "Shanghai is apparently a difficult fit for the government’s narrative lately. Turns out it's hard to control a city that’s already doing its own thing",
+      "original_url": "https://www.nytimes.com/2026/04/03/world/asia/shanghai-dispatch-architecture.html",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Cosmopolitan Shanghai Is an Uneasy Fit in China’s Narrative of Western Sins",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-03T19:26:24.480528+00:00"
     },
     {
       "tweet": "Wolves and Sixers are fighting for spots and honestly the stress is hitting. Is it playoff time yet?",
@@ -2081,6 +2048,17 @@
       "added_at": "2026-04-01T10:52:49.160381+00:00"
     },
     {
+      "tweet": "BTS fans are trying to get the group to release a hidden song that's trapped on a deluxe vinyl. Why keep the music away from people.",
+      "original_url": "https://www.rollingstone.com/music/music-news/bts-hidden-arirang-track-come-over-1235541853/",
+      "buzz_score": 72,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "BTS ARMY Demands Release of Hidden ‘Arirang’ Song on Streaming Platforms",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-04-04T03:15:52.488261+00:00"
+    },
+    {
       "tweet": "Tailscale just moved their macOS setup. If you know, you know.",
       "original_url": "https://tailscale.com/blog/macos-notch-escape",
       "buzz_score": 65,
@@ -2114,17 +2092,6 @@
       "added_at": "2026-04-01T16:44:00.716201+00:00"
     },
     {
-      "tweet": "Netflix is dropping a Bad Guys prequel series. It's the kind of thing you put on when you've genuinely stopped caring about your schedule.",
-      "original_url": "https://usa.newonnetflix.info/info/81488214",
-      "buzz_score": 70,
-      "buzz_score2": 82,
-      "rewrite_count": 0,
-      "original_title": "3rd Apr: The Bad Guys: The Series (2026), 2 Seasons [TV-Y7] - New Episodes (6/10)",
-      "source": "New on Netflix",
-      "category": "entertainment",
-      "added_at": "2026-04-04T03:15:52.488264+00:00"
-    },
-    {
       "tweet": "Costa Rica is taking migrants for the US now. We're just outsourcing the border at this point",
       "original_url": "https://www.theguardian.com/us-news/2026/apr/02/trump-costa-rica-deported-migrants-deal",
       "buzz_score": 82,
@@ -2134,6 +2101,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-02T16:35:16.423133+00:00"
+    },
+    {
+      "tweet": "Netflix is dropping a Bad Guys prequel series. It's the kind of thing you put on when you've genuinely stopped caring about your schedule.",
+      "original_url": "https://usa.newonnetflix.info/info/81488214",
+      "buzz_score": 70,
+      "buzz_score2": 82,
+      "rewrite_count": 0,
+      "original_title": "3rd Apr: The Bad Guys: The Series (2026), 2 Seasons [TV-Y7] - New Episodes (6/10)",
+      "source": "New on Netflix",
+      "category": "entertainment",
+      "added_at": "2026-04-04T03:15:52.488264+00:00"
     },
     {
       "tweet": "An artist is taking a war crime case to Paris after a strike in Lebanon. People are tired of the silence.",
@@ -2178,28 +2156,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-02T01:14:23.378435+00:00"
-    },
-    {
-      "tweet": "The Live Nation antitrust trial is still going and they're actually talking about 'intimidation' in the courtroom. Typical.",
-      "original_url": "https://www.billboard.com/pro/live-nation-trial-recap-defense-witnesses-intimidation/",
-      "buzz_score": 75,
-      "buzz_score2": 80,
-      "rewrite_count": 0,
-      "original_title": "Live Nation Trial Week 4 Recap: Defense Witnesses Back Ticketmaster & Judge Weighs ‘Intimidation’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-04T03:15:52.488268+00:00"
-    },
-    {
-      "tweet": "Seville is out here doing full Holy Week processions even though nobody goes to church anymore. We love a good aesthetic",
-      "original_url": "https://www.npr.org/2026/04/03/nx-s1-5771511/seville-spain-semana-santa-easter-holy-week",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Seville, Spain's Holy Week blends faith, tradition and spectacle",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-03T19:26:24.480526+00:00"
     },
     {
       "tweet": "Pakistan and Afghanistan are holding peace talks in China. Are we actually seeing this happen",
@@ -2334,6 +2290,17 @@
       "added_at": "2026-04-01T08:29:51.989778+00:00"
     },
     {
+      "tweet": "The Live Nation antitrust trial is still going and they're actually talking about 'intimidation' in the courtroom. Typical.",
+      "original_url": "https://www.billboard.com/pro/live-nation-trial-recap-defense-witnesses-intimidation/",
+      "buzz_score": 75,
+      "buzz_score2": 80,
+      "rewrite_count": 0,
+      "original_title": "Live Nation Trial Week 4 Recap: Defense Witnesses Back Ticketmaster & Judge Weighs ‘Intimidation’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-04T03:15:52.488268+00:00"
+    },
+    {
       "tweet": "There’s a new glam rock movie about Mozart and his supposedly more talented sister. Wonder which one the audience will care about.",
       "original_url": "https://variety.com/2026/tv/global/wolfgang-mozart-maria-anna-mozart-beta-film-ard-1236705159/",
       "buzz_score": 72,
@@ -2343,6 +2310,17 @@
       "source": "Variety",
       "category": "entertainment",
       "added_at": "2026-04-02T09:13:55.139848+00:00"
+    },
+    {
+      "tweet": "Seville is out here doing full Holy Week processions even though nobody goes to church anymore. We love a good aesthetic",
+      "original_url": "https://www.npr.org/2026/04/03/nx-s1-5771511/seville-spain-semana-santa-easter-holy-week",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Seville, Spain's Holy Week blends faith, tradition and spectacle",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-03T19:26:24.480526+00:00"
     },
     {
       "tweet": "Qwen3.6-Plus is out and it’s all about real world agents. At this point, I’m just waiting for it to pay my rent.",
@@ -3580,7 +3558,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 130,
+    "total_posted": 132,
     "total_collected": 364
   }
 }
