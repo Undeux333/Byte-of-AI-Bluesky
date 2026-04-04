@@ -2,28 +2,6 @@
   "last_collected": "2026-04-04T08:57:40.398536+00:00",
   "queue": [
     {
-      "tweet": "The Artemis II crew just posted that shot of Earth from the Moon. We're literally looking at our home from space and it's just so tiny.",
-      "original_url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-04T08:57:40.398495+00:00"
-    },
-    {
-      "tweet": "Reading this former Azure engineer go off on how trust was eroded is wild. It's always the internal stuff that breaks it.",
-      "original_url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-04T08:57:40.398521+00:00"
-    },
-    {
       "tweet": "Eric Bauza is talking about his cut scene from the Mario movie. Does anyone else get so annoyed when the best parts get left on the floor?",
       "original_url": "https://www.polygon.com/toad-general-eric-bauza-interview-super-mario-galaxy/",
       "buzz_score": 80,
@@ -233,17 +211,6 @@
       "added_at": "2026-04-04T00:01:40.347474+00:00"
     },
     {
-      "tweet": "Love on the Spectrum got renewed, but Connor's leaving. It's that feeling of being genuinely happy for someone moving on while you're still sitting here watching Netflix.",
-      "original_url": "https://variety.com/2026/tv/awards/love-on-the-spectrum-renewed-season-5-connor-tomlinson-exits-1236705978/",
-      "buzz_score": 85,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Netflix’s ‘Love on the Spectrum’ Renewed for Season 5, Fan Favorite Cast Member Connor Tomlinson Exits: ‘I’ve Chosen to Pass the Torch’ (EXCLUSIVE)",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-04T03:15:52.488240+00:00"
-    },
-    {
       "tweet": "Pep Guardiola telling his players they can leave Manchester City if they're unhappy. Pretty bold way to clear the air.",
       "original_url": "https://www.bbc.com/sport/football/articles/c5yvl42y4xeo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -288,15 +255,15 @@
       "added_at": "2026-04-02T04:02:05.967147+00:00"
     },
     {
-      "tweet": "Ben Platt and Rachel Zegler are dropping a live album for The Last Five Years. Finally, some good theater kid energy.",
-      "original_url": "https://www.billboard.com/music/music-news/the-last-five-years-live-album-ben-platt-and-rachel-zegler-1236215396/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
+      "tweet": "Love on the Spectrum got renewed, but Connor's leaving. It's that feeling of being genuinely happy for someone moving on while you're still sitting here watching Netflix.",
+      "original_url": "https://variety.com/2026/tv/awards/love-on-the-spectrum-renewed-season-5-connor-tomlinson-exits-1236705978/",
+      "buzz_score": 85,
+      "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "Ben Platt and Rachel Zegler Announce ‘The Last Five Years’ Live Album",
-      "source": "Billboard",
+      "original_title": "Netflix’s ‘Love on the Spectrum’ Renewed for Season 5, Fan Favorite Cast Member Connor Tomlinson Exits: ‘I’ve Chosen to Pass the Torch’ (EXCLUSIVE)",
+      "source": "Variety",
       "category": "entertainment",
-      "added_at": "2026-04-04T08:57:40.398504+00:00"
+      "added_at": "2026-04-04T03:15:52.488240+00:00"
     },
     {
       "tweet": "Gas prices are dropping a few cents in Australia because of some government deal. Are we supposed to be excited?",
@@ -308,6 +275,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-02T07:00:05.407799+00:00"
+    },
+    {
+      "tweet": "Ben Platt and Rachel Zegler are dropping a live album for The Last Five Years. Finally, some good theater kid energy.",
+      "original_url": "https://www.billboard.com/music/music-news/the-last-five-years-live-album-ben-platt-and-rachel-zegler-1236215396/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Ben Platt and Rachel Zegler Announce ‘The Last Five Years’ Live Album",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-04T08:57:40.398504+00:00"
     },
     {
       "tweet": "BTS is dropping that hidden SUGA track after only two days of warning. They know exactly how to make us lose our minds. Relatable.",
@@ -706,17 +684,6 @@
       "added_at": "2026-04-01T21:56:47.155492+00:00"
     },
     {
-      "tweet": "Anthropic is supposedly killing it in private markets right now. SpaceX is just waiting to spoil the vibe. Casual.",
-      "original_url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-04-04T03:15:52.488245+00:00"
-    },
-    {
       "tweet": "Keir Starmer was told his relationship with Trump is beyond repair after that mocking impersonation. Diplomacy is just high school with better suits",
       "original_url": "https://www.theguardian.com/politics/2026/apr/03/relationship-with-trump-may-be-beyond-repair-keir-starmer-told",
       "buzz_score": 85,
@@ -805,15 +772,15 @@
       "added_at": "2026-04-01T16:44:00.716209+00:00"
     },
     {
-      "tweet": "Cosmo just dropped a guide to oral sex positions. My mentions are about to be weird.",
-      "original_url": "https://sex.cosmopolitan.com/pleasure/a4967/oral-sex-positions-you-need/",
-      "buzz_score": 80,
+      "tweet": "Anthropic is supposedly killing it in private markets right now. SpaceX is just waiting to spoil the vibe. Casual.",
+      "original_url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+      "buzz_score": 70,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "10 Oral Sex Positions for Anyone Who Loves Giving (and Getting) Head",
-      "source": "Cosmo Sex & Love",
-      "category": "sex",
-      "added_at": "2026-04-04T00:01:40.347467+00:00"
+      "original_title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-04-04T03:15:52.488245+00:00"
     },
     {
       "tweet": "OnePlus has a 70 dollar promo code out. We're all gonna buy stuff we don't need.",
@@ -827,15 +794,15 @@
       "added_at": "2026-04-02T07:00:05.407806+00:00"
     },
     {
-      "tweet": "The NBA is investigating the Bucks for how they handled Giannis and his health. Something feels off.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48391034/nba-investigating-bucks-giannis-says-healthy",
-      "buzz_score": 78,
-      "buzz_score2": 88,
+      "tweet": "Cosmo just dropped a guide to oral sex positions. My mentions are about to be weird.",
+      "original_url": "https://sex.cosmopolitan.com/pleasure/a4967/oral-sex-positions-you-need/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Sources: NBA investigating Bucks, Giannis' health",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-04T03:15:52.488266+00:00"
+      "original_title": "10 Oral Sex Positions for Anyone Who Loves Giving (and Getting) Head",
+      "source": "Cosmo Sex & Love",
+      "category": "sex",
+      "added_at": "2026-04-04T00:01:40.347467+00:00"
     },
     {
       "tweet": "Protests are growing in Cuba, but there’s no real opposition left on the island. How does that even work.",
@@ -1331,6 +1298,17 @@
       "source": "Hypebeast",
       "category": "entertainment",
       "added_at": "2026-04-01T10:52:49.160388+00:00"
+    },
+    {
+      "tweet": "The NBA is investigating the Bucks for how they handled Giannis and his health. Something feels off.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48391034/nba-investigating-bucks-giannis-says-healthy",
+      "buzz_score": 78,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Sources: NBA investigating Bucks, Giannis' health",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-04T03:15:52.488266+00:00"
     },
     {
       "tweet": "Bustle just posted a list of 65 things on Amazon under 25 dollars. I'm already buying three of them.",
@@ -3822,7 +3800,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 140,
+    "total_posted": 142,
     "total_collected": 396
   }
 }
