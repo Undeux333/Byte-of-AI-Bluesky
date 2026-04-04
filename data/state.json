@@ -2,28 +2,6 @@
   "last_collected": "2026-04-04T22:55:18.371261+00:00",
   "queue": [
     {
-      "tweet": "Bro, I just looked and Microsoft currently has, like, 14 different products named Copilot. At this point it's just a vibe",
-      "original_url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "How many products does Microsoft have named 'Copilot'?",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-04T22:55:18.371226+00:00"
-    },
-    {
-      "tweet": "Reading this list of 55 tiny upgrades that make you look better. Honestly, we’re all just one cheap haircut away from having our lives together",
-      "original_url": "https://www.bustle.com/shopping/subtle-cheap-things-you-didnt-realize-make-you-look-so-much-better",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "55 Subtle, Cheap Things You Didn't Realize Make You Look So Much Better",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-04-04T22:55:18.371246+00:00"
-    },
-    {
       "tweet": "Countries are talking about using force to reopen the Strait of Hormuz. We really doing this.",
       "original_url": "https://www.aljazeera.com/video/inside-story/2026/4/3/will-force-be-used-to-reopen-strait-of-hormuz?traffic_source=rss",
       "buzz_score": 85,
@@ -662,28 +640,6 @@
       "added_at": "2026-04-02T07:00:05.407808+00:00"
     },
     {
-      "tweet": "Setting ambulances on fire during a charity attack. There’s really no bottom to some people.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/4/three-suspects-ordered-to-stay-in-uk-custody-over-jewish-charity-attack?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Three suspects ordered to stay in UK custody over Jewish charity attack",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-04T15:52:28.927386+00:00"
-    },
-    {
-      "tweet": "Australia telling people to stick to their travel plans while gas stations are literally empty. Do they expect us to push the cars there?",
-      "original_url": "https://www.bbc.com/news/articles/c62l084kgk6o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Australians told to continue Easter travel plans despite fuel shortages",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-04T15:52:28.927372+00:00"
-    },
-    {
       "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
       "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app",
       "buzz_score": 75,
@@ -693,39 +649,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-04-01T16:44:00.716207+00:00"
-    },
-    {
-      "tweet": "Bath just held off Saracens to hit the Champions Cup quarters. Respect.",
-      "original_url": "https://www.bbc.com/sport/rugby-union/articles/c0q9lll4e8do?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Bath hold off stubborn Saracens to reach last eight",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-04T18:01:11.120227+00:00"
-    },
-    {
-      "tweet": "Only 13 characters are official Disney Princesses. We’ve all been lied to by marketing our entire childhoods.",
-      "original_url": "https://www.mentalfloss.com/entertainment/disney/meet-13-official-disney-princesses-snow-white-raya?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Meet All 13 of the Official Disney Princesses—From Snow White to Raya",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-04T18:01:11.120220+00:00"
-    },
-    {
-      "tweet": "Apparently 'piece of cake' comes from 19th-century cake walks where the winner got a cake. It’s funny how we use terms without ever thinking about why.",
-      "original_url": "https://www.mentalfloss.com/language/why-we-say-piece-of-cake?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Why Do We Say \"Piece of Cake\" for Something That's Easy?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-04T18:01:11.120218+00:00"
     },
     {
       "tweet": "Italy's FA head quit after they missed their third straight World Cup. They just can't catch a break.",
@@ -759,6 +682,61 @@
       "source": "Kotaku",
       "category": "entertainment",
       "added_at": "2026-04-01T21:56:47.155492+00:00"
+    },
+    {
+      "tweet": "Setting ambulances on fire during a charity attack. There’s really no bottom to some people.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/4/three-suspects-ordered-to-stay-in-uk-custody-over-jewish-charity-attack?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Three suspects ordered to stay in UK custody over Jewish charity attack",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-04T15:52:28.927386+00:00"
+    },
+    {
+      "tweet": "Australia telling people to stick to their travel plans while gas stations are literally empty. Do they expect us to push the cars there?",
+      "original_url": "https://www.bbc.com/news/articles/c62l084kgk6o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Australians told to continue Easter travel plans despite fuel shortages",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-04T15:52:28.927372+00:00"
+    },
+    {
+      "tweet": "Bath just held off Saracens to hit the Champions Cup quarters. Respect.",
+      "original_url": "https://www.bbc.com/sport/rugby-union/articles/c0q9lll4e8do?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Bath hold off stubborn Saracens to reach last eight",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-04T18:01:11.120227+00:00"
+    },
+    {
+      "tweet": "Only 13 characters are official Disney Princesses. We’ve all been lied to by marketing our entire childhoods.",
+      "original_url": "https://www.mentalfloss.com/entertainment/disney/meet-13-official-disney-princesses-snow-white-raya?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Meet All 13 of the Official Disney Princesses—From Snow White to Raya",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-04T18:01:11.120220+00:00"
+    },
+    {
+      "tweet": "Apparently 'piece of cake' comes from 19th-century cake walks where the winner got a cake. It’s funny how we use terms without ever thinking about why.",
+      "original_url": "https://www.mentalfloss.com/language/why-we-say-piece-of-cake?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Why Do We Say \"Piece of Cake\" for Something That's Easy?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-04T18:01:11.120218+00:00"
     },
     {
       "tweet": "Another Russian drone hit a market in Ukraine. It’s just brutal out there.",
@@ -902,17 +880,6 @@
       "source": "Wired",
       "category": "tech",
       "added_at": "2026-04-02T07:00:05.407806+00:00"
-    },
-    {
-      "tweet": "Geno Auriemma had to apologize to South Carolina after losing it on Dawn Staley. Just keep it cool man",
-      "original_url": "https://www.espn.com/womens-college-basketball/story/_/id/48396359/uconn-geno-auriemma-apologizes-south-carolina-outburst",
-      "buzz_score": 88,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Geno apologizes to South Carolina for outburst",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-04T20:27:13.376123+00:00"
     },
     {
       "tweet": "Rescue teams in Iran looking for a US crew member. It’s wild how dangerous that whole situation is right now.",
@@ -1507,6 +1474,17 @@
       "source": "Hypebeast",
       "category": "entertainment",
       "added_at": "2026-04-01T10:52:49.160388+00:00"
+    },
+    {
+      "tweet": "Geno Auriemma had to apologize to South Carolina after losing it on Dawn Staley. Just keep it cool man",
+      "original_url": "https://www.espn.com/womens-college-basketball/story/_/id/48396359/uconn-geno-auriemma-apologizes-south-carolina-outburst",
+      "buzz_score": 88,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Geno apologizes to South Carolina for outburst",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-04T20:27:13.376123+00:00"
     },
     {
       "tweet": "A psychiatric hospital in Tehran is totaled after a US-Israeli strike. It's just brutal man",
@@ -2147,6 +2125,28 @@
       "added_at": "2026-04-01T10:52:49.160378+00:00"
     },
     {
+      "tweet": "Anthony Barry went from playing for Accrington to coaching under Tuchel in ten years. Talk about a glow up.",
+      "original_url": "https://www.bbc.com/sport/football/articles/ckge7014m5yo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 72,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The remarkable rise of the only English coach in Tuchel's team",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-02T07:00:05.407797+00:00"
+    },
+    {
+      "tweet": "People are panicking over Pulisic’s goal drought with the USMNT. Do we even remember how to score anymore.",
+      "original_url": "https://www.espn.com/soccer/story/_/id/48363170/should-usmnt-concerned-pulisics-goal-drought",
+      "buzz_score": 72,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Should the USMNT be concerned about Pulisic's goal drought?",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-01T10:52:49.160386+00:00"
+    },
+    {
       "tweet": "Legendary drummer James Gadson passed at 86. He played on half the tracks we know and love",
       "original_url": "https://www.billboard.com/music/music-news/james-gadson-death-drummer-dies-diana-ross-bill-withers-1236215434/",
       "buzz_score": 80,
@@ -2178,28 +2178,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-04T20:27:13.376127+00:00"
-    },
-    {
-      "tweet": "Anthony Barry went from playing for Accrington to coaching under Tuchel in ten years. Talk about a glow up.",
-      "original_url": "https://www.bbc.com/sport/football/articles/ckge7014m5yo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 72,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The remarkable rise of the only English coach in Tuchel's team",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-02T07:00:05.407797+00:00"
-    },
-    {
-      "tweet": "People are panicking over Pulisic’s goal drought with the USMNT. Do we even remember how to score anymore.",
-      "original_url": "https://www.espn.com/soccer/story/_/id/48363170/should-usmnt-concerned-pulisics-goal-drought",
-      "buzz_score": 72,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Should the USMNT be concerned about Pulisic's goal drought?",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-01T10:52:49.160386+00:00"
     },
     {
       "tweet": "Martha Stewart dropped her list of favorite restaurants and honestly? I'd trust her with my life.",
@@ -2719,17 +2697,6 @@
       "added_at": "2026-04-02T01:14:23.378435+00:00"
     },
     {
-      "tweet": "These guys replaced RAG with a virtual filesystem for their AI assistant. Sometimes the simplest way to fix tech is just throwing out the hype.",
-      "original_url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-04T15:52:28.927384+00:00"
-    },
-    {
       "tweet": "Pakistan and Afghanistan are holding peace talks in China. Are we actually seeing this happen",
       "original_url": "https://www.aljazeera.com/news/2026/4/2/pakistan-afghanistan-hold-talks-in-china-to-end-months-of-conflict?traffic_source=rss",
       "buzz_score": 78,
@@ -2739,6 +2706,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-02T16:35:16.423148+00:00"
+    },
+    {
+      "tweet": "These guys replaced RAG with a virtual filesystem for their AI assistant. Sometimes the simplest way to fix tech is just throwing out the hype.",
+      "original_url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-04T15:52:28.927384+00:00"
     },
     {
       "tweet": "Can you match every state to its abbreviation without hesitating. Why is this so hard.",
@@ -2873,17 +2851,6 @@
       "added_at": "2026-04-01T08:29:51.989778+00:00"
     },
     {
-      "tweet": "Police are arresting antiwar protesters in Tel Aviv right now. Things are messy",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/israeli-police-arrest-antiwar-protesters-in-tel-aviv?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 80,
-      "rewrite_count": 0,
-      "original_title": "Israeli police arrest antiwar protesters in Tel Aviv",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-04T20:27:13.376140+00:00"
-    },
-    {
       "tweet": "BTS fans are trying to get the group to release a hidden song that's trapped on a deluxe vinyl. Why keep the music away from people.",
       "original_url": "https://www.rollingstone.com/music/music-news/bts-hidden-arirang-track-come-over-1235541853/",
       "buzz_score": 72,
@@ -2904,6 +2871,17 @@
       "source": "Variety",
       "category": "entertainment",
       "added_at": "2026-04-02T09:13:55.139848+00:00"
+    },
+    {
+      "tweet": "Police are arresting antiwar protesters in Tel Aviv right now. Things are messy",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/israeli-police-arrest-antiwar-protesters-in-tel-aviv?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 80,
+      "rewrite_count": 0,
+      "original_title": "Israeli police arrest antiwar protesters in Tel Aviv",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-04T20:27:13.376140+00:00"
     },
     {
       "tweet": "Hugo Keenan is finally back from his injury nightmare for Leinster. Good for him",
@@ -4361,7 +4339,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 183,
+    "total_posted": 185,
     "total_collected": 488
   }
 }
