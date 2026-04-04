@@ -2,39 +2,6 @@
   "last_collected": "2026-04-04T20:27:13.376155+00:00",
   "queue": [
     {
-      "tweet": "GTA 5 is leaving Xbox Game Pass again. At this point are we just paying to play the same game every three years",
-      "original_url": "https://www.polygon.com/gta-5-leaves-xbox-game-pass-again/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "GTA 5 continues a frustrating cycle with latest Xbox Game Pass exit",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-04T20:27:13.376120+00:00"
-    },
-    {
-      "tweet": "The NFL just cleared Rashee Rice of any conduct violations. Guess money talks.",
-      "original_url": "https://www.espn.com/nfl/story/_/id/48389126/chiefs-wr-rashee-rice-faces-no-nfl-discipline-abuse-allegations",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "NFL probe finds no reason to discipline Chiefs' Rice",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-04T00:01:40.347465+00:00"
-    },
-    {
-      "tweet": "Apparently a 'alpine divorce' is the new term for just ghosting someone while on vacation together. We’ve all been there, honestly.",
-      "original_url": "https://www.mentalfloss.com/language/sinister-story-alpine-divorce?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Sinister Story Behind “Alpine Divorce”",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-04T00:01:40.347455+00:00"
-    },
-    {
       "tweet": "Countries are talking about using force to reopen the Strait of Hormuz. We really doing this.",
       "original_url": "https://www.aljazeera.com/video/inside-story/2026/4/3/will-force-be-used-to-reopen-strait-of-hormuz?traffic_source=rss",
       "buzz_score": 85,
@@ -99,6 +66,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-03T16:38:46.892148+00:00"
+    },
+    {
+      "tweet": "GTA 5 is leaving Xbox Game Pass again. At this point are we just paying to play the same game every three years",
+      "original_url": "https://www.polygon.com/gta-5-leaves-xbox-game-pass-again/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "GTA 5 continues a frustrating cycle with latest Xbox Game Pass exit",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-04T20:27:13.376120+00:00"
     },
     {
       "tweet": "The FAA is trying to use drone restrictions to stop people from filming ICE. It's just wild how fast they reach for new rules to hide that.",
@@ -176,39 +154,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-02T07:00:05.407799+00:00"
-    },
-    {
-      "tweet": "The UN is voicing deep concern over attacks on an Iranian nuclear plant. Just casual nuclear stress. Cool.",
-      "original_url": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "UN watchdog voices 'deep concern' as Iran reports new attacks on nuclear plant",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-04T18:01:11.120222+00:00"
-    },
-    {
-      "tweet": "Trump is warning Tehran over the Strait of Hormuz while we're all out here trying to find a missing pilot. Is anyone actually in charge?",
-      "original_url": "https://www.theguardian.com/world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Middle East crisis live: US and Iran race to find missing pilot; Trump warns Tehran over strait of Hormuz",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-04T18:01:11.120216+00:00"
-    },
-    {
-      "tweet": "Gaming Historian is stepping away from YouTube after 15 years. Honestly makes sense to hang it up when you've done everything. Guess we're all just passing through.",
-      "original_url": "https://kotaku.com/youtube-gaming-historian-steps-back-after-15-years-donkey-kong-2000684905",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "YouTube’s Gaming Historian Explains Why He’s Stepping Away After 15 Years",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-04T18:01:11.120198+00:00"
     },
     {
       "tweet": "L'Art de L'Automobile and Salomon are doing an aerodynamic shoe collab. These things look like they go sixty miles per hour.",
@@ -376,6 +321,39 @@
       "added_at": "2026-04-01T14:17:58.856553+00:00"
     },
     {
+      "tweet": "The UN is voicing deep concern over attacks on an Iranian nuclear plant. Just casual nuclear stress. Cool.",
+      "original_url": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "UN watchdog voices 'deep concern' as Iran reports new attacks on nuclear plant",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-04T18:01:11.120222+00:00"
+    },
+    {
+      "tweet": "Trump is warning Tehran over the Strait of Hormuz while we're all out here trying to find a missing pilot. Is anyone actually in charge?",
+      "original_url": "https://www.theguardian.com/world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Middle East crisis live: US and Iran race to find missing pilot; Trump warns Tehran over strait of Hormuz",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-04T18:01:11.120216+00:00"
+    },
+    {
+      "tweet": "Gaming Historian is stepping away from YouTube after 15 years. Honestly makes sense to hang it up when you've done everything. Guess we're all just passing through.",
+      "original_url": "https://kotaku.com/youtube-gaming-historian-steps-back-after-15-years-donkey-kong-2000684905",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "YouTube’s Gaming Historian Explains Why He’s Stepping Away After 15 Years",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-04T18:01:11.120198+00:00"
+    },
+    {
       "tweet": "Missiles hitting residential areas in Israel now. Everything is just falling apart.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iranian-missile-attack-hits-residential-areas-in-central-israel?traffic_source=rss",
       "buzz_score": 94,
@@ -385,39 +363,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-04T03:15:52.488257+00:00"
-    },
-    {
-      "tweet": "German men now need a military permit if they want to leave the country for more than three months. Since when are we back to needing permission slips to travel?",
-      "original_url": "https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "German men 18-45 need military permit to leave country for longer than 3 months",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-04T18:01:11.120211+00:00"
-    },
-    {
-      "tweet": "Meta actually banned an author from saying anything negative about them. Imagine being so fragile you need a gag order for a book review. Embarrassing.",
-      "original_url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Author of \"Careless People\" banned from saying anything negative about Meta",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-04T18:01:11.120209+00:00"
-    },
-    {
-      "tweet": "US officials just arrested the niece and grand-niece of Qasem Soleimani. We're literally beefing with family trees now. Wild.",
-      "original_url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US arrests relatives of deceased Iranian ​general Qasem ​Soleimani",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-04T18:01:11.120200+00:00"
     },
     {
       "tweet": "There are Fabergé Easter eggs worth a literal nest egg. Imagine hiding those in the yard.",
@@ -517,6 +462,39 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-01T21:56:47.155494+00:00"
+    },
+    {
+      "tweet": "German men now need a military permit if they want to leave the country for more than three months. Since when are we back to needing permission slips to travel?",
+      "original_url": "https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "German men 18-45 need military permit to leave country for longer than 3 months",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-04T18:01:11.120211+00:00"
+    },
+    {
+      "tweet": "Meta actually banned an author from saying anything negative about them. Imagine being so fragile you need a gag order for a book review. Embarrassing.",
+      "original_url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Author of \"Careless People\" banned from saying anything negative about Meta",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-04T18:01:11.120209+00:00"
+    },
+    {
+      "tweet": "US officials just arrested the niece and grand-niece of Qasem Soleimani. We're literally beefing with family trees now. Wild.",
+      "original_url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US arrests relatives of deceased Iranian ​general Qasem ​Soleimani",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-04T18:01:11.120200+00:00"
     },
     {
       "tweet": "Just watched that strike in Tyre on video. It’s wild that we’re just scrolling past actual war footage on our lunch break.",
@@ -673,50 +651,6 @@
       "added_at": "2026-04-02T07:00:05.407808+00:00"
     },
     {
-      "tweet": "Geno Auriemma had to apologize to South Carolina after losing it on Dawn Staley. Just keep it cool man",
-      "original_url": "https://www.espn.com/womens-college-basketball/story/_/id/48396359/uconn-geno-auriemma-apologizes-south-carolina-outburst",
-      "buzz_score": 88,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Geno apologizes to South Carolina for outburst",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-04T20:27:13.376123+00:00"
-    },
-    {
-      "tweet": "Rescue teams in Iran looking for a US crew member. It’s wild how dangerous that whole situation is right now.",
-      "original_url": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-04T13:39:12.747213+00:00"
-    },
-    {
-      "tweet": "TikTokers are out here reviewing gentrified bakeries and it’s just highlighting how expensive everything is now. We’re all broke.",
-      "original_url": "https://www.theguardian.com/cities/2026/apr/04/not-quite-greggs-tiktok-creators-put-londons-gentrified-bakeries-to-the-test",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘Not quite Greggs’: TikTok creators put London’s ‘gentrified’ bakeries to the test",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-04T13:39:12.747203+00:00"
-    },
-    {
-      "tweet": "Riz Ahmed hosting SNL UK is honestly the crossover I didn’t know I needed. British comedy just hits different.",
-      "original_url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-uk-online-free-1236203547/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘Saturday Night Live UK’: Where to Watch the British Version of the Sketch Comedy Show Online for Free",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-04T13:39:12.747192+00:00"
-    },
-    {
       "tweet": "A judge just ruled the government illegally stripped status from people using the CBP One app. They really just do whatever they want",
       "original_url": "https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app",
       "buzz_score": 75,
@@ -761,26 +695,48 @@
       "added_at": "2026-04-01T21:56:47.155492+00:00"
     },
     {
-      "tweet": "A psychiatric hospital in Tehran is totaled after a US-Israeli strike. It's just brutal man",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/tehran-psychiatric-hospital-not-usable-after-us-israeli-strike?traffic_source=rss",
-      "buzz_score": 85,
+      "tweet": "Geno Auriemma had to apologize to South Carolina after losing it on Dawn Staley. Just keep it cool man",
+      "original_url": "https://www.espn.com/womens-college-basketball/story/_/id/48396359/uconn-geno-auriemma-apologizes-south-carolina-outburst",
+      "buzz_score": 88,
       "buzz_score2": 85,
       "rewrite_count": 0,
-      "original_title": "Tehran psychiatric hospital not usable after US-Israeli strike",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-04T20:27:13.376138+00:00"
+      "original_title": "Geno apologizes to South Carolina for outburst",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-04T20:27:13.376123+00:00"
     },
     {
-      "tweet": "The search for that missing airman is turning into a massive test for the US with Iran involved. This is getting heavy",
-      "original_url": "https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 85,
+      "tweet": "Rescue teams in Iran looking for a US crew member. It’s wild how dangerous that whole situation is right now.",
+      "original_url": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Search for missing airman presents serious test for US",
+      "original_title": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
       "source": "BBC World",
       "category": "world",
-      "added_at": "2026-04-04T20:27:13.376136+00:00"
+      "added_at": "2026-04-04T13:39:12.747213+00:00"
+    },
+    {
+      "tweet": "TikTokers are out here reviewing gentrified bakeries and it’s just highlighting how expensive everything is now. We’re all broke.",
+      "original_url": "https://www.theguardian.com/cities/2026/apr/04/not-quite-greggs-tiktok-creators-put-londons-gentrified-bakeries-to-the-test",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘Not quite Greggs’: TikTok creators put London’s ‘gentrified’ bakeries to the test",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-04T13:39:12.747203+00:00"
+    },
+    {
+      "tweet": "Riz Ahmed hosting SNL UK is honestly the crossover I didn’t know I needed. British comedy just hits different.",
+      "original_url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-uk-online-free-1236203547/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘Saturday Night Live UK’: Where to Watch the British Version of the Sketch Comedy Show Online for Free",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-04T13:39:12.747192+00:00"
     },
     {
       "tweet": "Russia picked an 'Easter escalation' over a ceasefire and people are actually dead. Absolute trash",
@@ -893,6 +849,39 @@
       "added_at": "2026-04-01T16:44:00.716209+00:00"
     },
     {
+      "tweet": "A psychiatric hospital in Tehran is totaled after a US-Israeli strike. It's just brutal man",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/tehran-psychiatric-hospital-not-usable-after-us-israeli-strike?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Tehran psychiatric hospital not usable after US-Israeli strike",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-04T20:27:13.376138+00:00"
+    },
+    {
+      "tweet": "The search for that missing airman is turning into a massive test for the US with Iran involved. This is getting heavy",
+      "original_url": "https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Search for missing airman presents serious test for US",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-04T20:27:13.376136+00:00"
+    },
+    {
+      "tweet": "OnePlus has a 70 dollar promo code out. We're all gonna buy stuff we don't need.",
+      "original_url": "https://www.wired.com/story/oneplus-promo-code/",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "OnePlus Promo Code: $70 Off | April 2026",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-04-02T07:00:05.407806+00:00"
+    },
+    {
       "tweet": "Artemis II is officially heading around the moon. Nice to see us actually doing something cool for once.",
       "original_url": "https://www.npr.org/2026/04/04/nx-s1-5764829/opinion-humanitys-hopes-ascended-with-artemis-ii",
       "buzz_score": 75,
@@ -924,50 +913,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-04T13:39:12.747194+00:00"
-    },
-    {
-      "tweet": "OnePlus has a 70 dollar promo code out. We're all gonna buy stuff we don't need.",
-      "original_url": "https://www.wired.com/story/oneplus-promo-code/",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "OnePlus Promo Code: $70 Off | April 2026",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-04-02T07:00:05.407806+00:00"
-    },
-    {
-      "tweet": "Legendary drummer James Gadson passed at 86. He played on half the tracks we know and love",
-      "original_url": "https://www.billboard.com/music/music-news/james-gadson-death-drummer-dies-diana-ross-bill-withers-1236215434/",
-      "buzz_score": 80,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Legendary Drummer James Gadson, Who Backed Diana Ross, Bill Withers & Marvin Gaye, Dies at 86",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-04T20:27:13.376150+00:00"
-    },
-    {
-      "tweet": "The FAA is using flight restrictions to try and stop people from filming ICE. They really don't want us looking",
-      "original_url": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice",
-      "buzz_score": 80,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "The FAA’s flight restriction for drones is an attempt to criminalize filming ICE",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-04T20:27:13.376144+00:00"
-    },
-    {
-      "tweet": "The president of Cameroon is 93 and finally getting a deputy after 43 years. Imagine needing someone to help after four",
-      "original_url": "https://www.bbc.com/news/articles/cx2e95xqn10o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "World's oldest leader to get a deputy for first time in 43-year rule",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-04T20:27:13.376127+00:00"
     },
     {
       "tweet": "The White House is turning deportations into a literal foreign policy strategy with other countries. A new low",
@@ -1529,6 +1474,39 @@
       "source": "Hypebeast",
       "category": "entertainment",
       "added_at": "2026-04-01T10:52:49.160388+00:00"
+    },
+    {
+      "tweet": "Legendary drummer James Gadson passed at 86. He played on half the tracks we know and love",
+      "original_url": "https://www.billboard.com/music/music-news/james-gadson-death-drummer-dies-diana-ross-bill-withers-1236215434/",
+      "buzz_score": 80,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Legendary Drummer James Gadson, Who Backed Diana Ross, Bill Withers & Marvin Gaye, Dies at 86",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-04T20:27:13.376150+00:00"
+    },
+    {
+      "tweet": "The FAA is using flight restrictions to try and stop people from filming ICE. They really don't want us looking",
+      "original_url": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice",
+      "buzz_score": 80,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "The FAA’s flight restriction for drones is an attempt to criminalize filming ICE",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-04T20:27:13.376144+00:00"
+    },
+    {
+      "tweet": "The president of Cameroon is 93 and finally getting a deputy after 43 years. Imagine needing someone to help after four",
+      "original_url": "https://www.bbc.com/news/articles/cx2e95xqn10o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "World's oldest leader to get a deputy for first time in 43-year rule",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-04T20:27:13.376127+00:00"
     },
     {
       "tweet": "Just read this week's horoscope and it’s hitting way too close to home. Sometimes you just need to hear it",
@@ -2620,17 +2598,6 @@
       "added_at": "2026-04-02T16:35:16.423133+00:00"
     },
     {
-      "tweet": "Police are arresting antiwar protesters in Tel Aviv right now. Things are messy",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/israeli-police-arrest-antiwar-protesters-in-tel-aviv?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 80,
-      "rewrite_count": 0,
-      "original_title": "Israeli police arrest antiwar protesters in Tel Aviv",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-04T20:27:13.376140+00:00"
-    },
-    {
       "tweet": "An artist is taking a war crime case to Paris after a strike in Lebanon. People are tired of the silence.",
       "original_url": "https://www.theguardian.com/world/2026/apr/02/artist-files-war-case-in-paris-over-israeli-strike-that-killed-parents-in-lebanon",
       "buzz_score": 80,
@@ -2675,6 +2642,17 @@
       "added_at": "2026-04-02T01:14:23.378435+00:00"
     },
     {
+      "tweet": "Police are arresting antiwar protesters in Tel Aviv right now. Things are messy",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/israeli-police-arrest-antiwar-protesters-in-tel-aviv?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 80,
+      "rewrite_count": 0,
+      "original_title": "Israeli police arrest antiwar protesters in Tel Aviv",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-04T20:27:13.376140+00:00"
+    },
+    {
       "tweet": "Pakistan and Afghanistan are holding peace talks in China. Are we actually seeing this happen",
       "original_url": "https://www.aljazeera.com/news/2026/4/2/pakistan-afghanistan-hold-talks-in-china-to-end-months-of-conflict?traffic_source=rss",
       "buzz_score": 78,
@@ -2684,39 +2662,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-02T16:35:16.423148+00:00"
-    },
-    {
-      "tweet": "Afghanistan is dealing with floods and earthquakes that killed nearly 100 people this week. That's a lot to handle",
-      "original_url": "https://www.nytimes.com/2026/04/04/world/asia/afghanistan-floods-earthquake.html",
-      "buzz_score": 75,
-      "buzz_score2": 80,
-      "rewrite_count": 0,
-      "original_title": "Deadly Earthquake and Floods Worsen Afghanistan’s Troubles",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-04T20:27:13.376148+00:00"
-    },
-    {
-      "tweet": "Ken Jennings just dropped Kennections number 200. We really love seeing how things connect more than actually fixing anything",
-      "original_url": "https://www.mentalfloss.com/kennections/ken-jennings-kennections-quiz-200?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 80,
-      "rewrite_count": 0,
-      "original_title": "Ken Jennings’s Kennections Is Back With Quiz #200—Can You Solve It?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-04T20:27:13.376129+00:00"
-    },
-    {
-      "tweet": "Austin Reaves is questionable for the Mavs game with an oblique injury. We're all just one awkward sneeze away from being unable to walk",
-      "original_url": "https://www.espn.com/nba/story/_/id/48397148/lakers-austin-reaves-questionable-vs-mavericks",
-      "buzz_score": 75,
-      "buzz_score2": 80,
-      "rewrite_count": 0,
-      "original_title": "Battered Lakers could be without Reaves vs. Mavs",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-04T20:27:13.376125+00:00"
     },
     {
       "tweet": "Can you match every state to its abbreviation without hesitating. Why is this so hard.",
@@ -2851,6 +2796,39 @@
       "added_at": "2026-04-01T08:29:51.989778+00:00"
     },
     {
+      "tweet": "Afghanistan is dealing with floods and earthquakes that killed nearly 100 people this week. That's a lot to handle",
+      "original_url": "https://www.nytimes.com/2026/04/04/world/asia/afghanistan-floods-earthquake.html",
+      "buzz_score": 75,
+      "buzz_score2": 80,
+      "rewrite_count": 0,
+      "original_title": "Deadly Earthquake and Floods Worsen Afghanistan’s Troubles",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-04T20:27:13.376148+00:00"
+    },
+    {
+      "tweet": "Ken Jennings just dropped Kennections number 200. We really love seeing how things connect more than actually fixing anything",
+      "original_url": "https://www.mentalfloss.com/kennections/ken-jennings-kennections-quiz-200?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 80,
+      "rewrite_count": 0,
+      "original_title": "Ken Jennings’s Kennections Is Back With Quiz #200—Can You Solve It?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-04T20:27:13.376129+00:00"
+    },
+    {
+      "tweet": "Austin Reaves is questionable for the Mavs game with an oblique injury. We're all just one awkward sneeze away from being unable to walk",
+      "original_url": "https://www.espn.com/nba/story/_/id/48397148/lakers-austin-reaves-questionable-vs-mavericks",
+      "buzz_score": 75,
+      "buzz_score2": 80,
+      "rewrite_count": 0,
+      "original_title": "Battered Lakers could be without Reaves vs. Mavs",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-04T20:27:13.376125+00:00"
+    },
+    {
       "tweet": "BTS fans are trying to get the group to release a hidden song that's trapped on a deluxe vinyl. Why keep the music away from people.",
       "original_url": "https://www.rollingstone.com/music/music-news/bts-hidden-arirang-track-come-over-1235541853/",
       "buzz_score": 72,
@@ -2871,17 +2849,6 @@
       "source": "Variety",
       "category": "entertainment",
       "added_at": "2026-04-02T09:13:55.139848+00:00"
-    },
-    {
-      "tweet": "An actual astronaut just said he loves the space movie with Ryan Gosling. Respect",
-      "original_url": "https://www.theguardian.com/science/2026/apr/04/project-hail-mary-artemis-ii",
-      "buzz_score": 70,
-      "buzz_score2": 80,
-      "rewrite_count": 0,
-      "original_title": "Artemis II’s Jeremy Hansen calls Project Hail Mary ‘a real treat’ before his space mission",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-04T20:27:13.376131+00:00"
     },
     {
       "tweet": "Hugo Keenan is finally back from his injury nightmare for Leinster. Good for him",
@@ -3115,6 +3082,17 @@
       "added_at": "2026-04-01T08:29:51.989797+00:00"
     },
     {
+      "tweet": "An actual astronaut just said he loves the space movie with Ryan Gosling. Respect",
+      "original_url": "https://www.theguardian.com/science/2026/apr/04/project-hail-mary-artemis-ii",
+      "buzz_score": 70,
+      "buzz_score2": 80,
+      "rewrite_count": 0,
+      "original_title": "Artemis II’s Jeremy Hansen calls Project Hail Mary ‘a real treat’ before his space mission",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-04T20:27:13.376131+00:00"
+    },
+    {
       "tweet": "Netflix is dropping a Bad Guys prequel series. It's the kind of thing you put on when you've genuinely stopped caring about your schedule.",
       "original_url": "https://usa.newonnetflix.info/info/81488214",
       "buzz_score": 70,
@@ -3146,17 +3124,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-01T16:44:00.716218+00:00"
-    },
-    {
-      "tweet": "They just arrested a fourth guy for that arson attack on Jewish ambulances in London. Why",
-      "original_url": "https://www.theguardian.com/uk-news/2026/apr/04/fourth-person-arrested-over-arson-attack-on-jewish-ambulances-in-london",
-      "buzz_score": 75,
-      "buzz_score2": 75,
-      "rewrite_count": 0,
-      "original_title": "Fourth person arrested over arson attack on Jewish ambulances in London",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-04T20:27:13.376142+00:00"
     },
     {
       "tweet": "The Live Nation antitrust trial is still going and they're actually talking about 'intimidation' in the courtroom. Typical.",
@@ -3192,6 +3159,17 @@
       "added_at": "2026-04-02T01:14:23.378447+00:00"
     },
     {
+      "tweet": "They just arrested a fourth guy for that arson attack on Jewish ambulances in London. Why",
+      "original_url": "https://www.theguardian.com/uk-news/2026/apr/04/fourth-person-arrested-over-arson-attack-on-jewish-ambulances-in-london",
+      "buzz_score": 75,
+      "buzz_score2": 75,
+      "rewrite_count": 0,
+      "original_title": "Fourth person arrested over arson attack on Jewish ambulances in London",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-04T20:27:13.376142+00:00"
+    },
+    {
       "tweet": "They found a Danish warship sunk by Lord Nelson 225 years ago. Imagine how long that's been sitting at the bottom.",
       "original_url": "https://www.nytimes.com/2026/04/02/world/europe/danish-warship-britain-nelson-copenhagen.html",
       "buzz_score": 72,
@@ -3201,28 +3179,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-02T16:35:16.423146+00:00"
-    },
-    {
-      "tweet": "Google just released Gemma 4 open models. Another day, another model",
-      "original_url": "https://deepmind.google/models/gemma/gemma-4/",
-      "buzz_score": 70,
-      "buzz_score2": 75,
-      "rewrite_count": 0,
-      "original_title": "Google releases Gemma 4 open models",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-04T20:27:13.376146+00:00"
-    },
-    {
-      "tweet": "Yes is postponing their tour because Steve Howe needs surgery. Health first",
-      "original_url": "https://www.billboard.com/music/music-news/yes-postpones-european-fragile-tour-steve-howe-surgery-1236215445/",
-      "buzz_score": 70,
-      "buzz_score2": 75,
-      "rewrite_count": 0,
-      "original_title": "Yes Postpones European ‘Fragile’ Tour as Guitarist Steve Howe Prepares for ‘Essential Operation’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-04T20:27:13.376133+00:00"
     },
     {
       "tweet": "Apparently workers don't leave bad jobs because of something called monopsony. We're all just stuck.",
@@ -3289,6 +3245,28 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-01T08:29:51.989799+00:00"
+    },
+    {
+      "tweet": "Google just released Gemma 4 open models. Another day, another model",
+      "original_url": "https://deepmind.google/models/gemma/gemma-4/",
+      "buzz_score": 70,
+      "buzz_score2": 75,
+      "rewrite_count": 0,
+      "original_title": "Google releases Gemma 4 open models",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-04T20:27:13.376146+00:00"
+    },
+    {
+      "tweet": "Yes is postponing their tour because Steve Howe needs surgery. Health first",
+      "original_url": "https://www.billboard.com/music/music-news/yes-postpones-european-fragile-tour-steve-howe-surgery-1236215445/",
+      "buzz_score": 70,
+      "buzz_score2": 75,
+      "rewrite_count": 0,
+      "original_title": "Yes Postpones European ‘Fragile’ Tour as Guitarist Steve Howe Prepares for ‘Essential Operation’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-04T20:27:13.376133+00:00"
     }
   ],
   "seen_urls": [
@@ -4295,7 +4273,7 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 177,
+    "total_posted": 179,
     "total_collected": 476
   }
 }
