@@ -2,28 +2,6 @@
   "last_collected": "2026-04-05T17:21:40.119449+00:00",
   "queue": [
     {
-      "tweet": "Solo Ball might miss the title game for UConn because of a foot injury. That is brutal timing.",
-      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48403973/uconn-solo-ball-uncertain-ncaa-tournament-title-game",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "UConn's Ball uncertain for title game due to foot",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-05T17:21:40.119443+00:00"
-    },
-    {
-      "tweet": "Pepsi finally dropped that Wireless Festival sponsorship over the Ye booking. Took them long enough to read the room.",
-      "original_url": "https://www.nytimes.com/2026/04/05/world/europe/ye-music-festival-pepsi-antisemitism.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Pepsi Drops Sponsorship of Wireless Festival Headlined by Kanye West",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-05T17:21:40.119432+00:00"
-    },
-    {
       "tweet": "The Islanders really just fired Patrick Roy after ten games. Guess that experiment is over already.",
       "original_url": "https://www.espn.com/nhl/story/_/id/48404199/islanders-fire-patrick-roy-name-peter-deboer-replacement",
       "buzz_score": 75,
@@ -1468,8 +1446,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 30,
+    "total_posted": 32,
     "total_collected": 72
   },
-  "last_posted_at": "2026-04-05T17:29:06.897129+00:00"
+  "last_posted_at": "2026-04-05T18:01:07.962939+00:00"
 }
