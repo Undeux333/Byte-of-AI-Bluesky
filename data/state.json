@@ -2,28 +2,6 @@
   "last_collected": "2026-04-05T19:48:04.864474+00:00",
   "queue": [
     {
-      "tweet": "That Shibuya Scramble crowdfunding thing is toast because they just straight up misplaced the money. Classic.",
-      "original_url": "https://kotaku.com/shibuya-scramble-successor-jeopardized-after-crowdfunder-misplaces-money-spike-chunsoft-2000684967",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Shibuya Scramble Successor Jeopardized After Crowdfunder Misplaces Money",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-05T19:48:04.864455+00:00"
-    },
-    {
-      "tweet": "Explosives found near a pipeline right when Orbán is down in the polls. Is anyone actually surprised by this stuff anymore",
-      "original_url": "https://www.theguardian.com/world/2026/apr/05/viktor-orban-hungary-election-serbia-explosives-gas-pipeline",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hungarian PM faces ‘false flag’ claims after Serbia says explosives found near pipeline",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-05T19:48:04.864449+00:00"
-    },
-    {
       "tweet": "Cam Boozer caught facial fractures in that loss to UConn. That sounds brutal.",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48404741/duke-star-cam-boozer-says-suffered-fractures-eye",
       "buzz_score": 80,
@@ -123,6 +101,17 @@
       "added_at": "2026-04-05T14:58:58.246968+00:00"
     },
     {
+      "tweet": "Turns out militaries are actually running low on interceptor missiles now. Like, are we just supposed to ask the drones to hold on for a minute",
+      "original_url": "https://www.nytimes.com/2026/04/05/world/middleeast/iran-war-interceptor-missiles.html",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Interceptor Missiles Save Lives, but Stockpiles Are Dwindling",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-05T10:01:38.215881+00:00"
+    },
+    {
       "tweet": "Just saw that movie Falling on Netflix. Having to move your parents in when they're acting like that? Rough",
       "original_url": "https://usa.newonnetflix.info/info/81405820",
       "buzz_score": 70,
@@ -156,15 +145,15 @@
       "added_at": "2026-04-05T12:32:42.482673+00:00"
     },
     {
-      "tweet": "Turns out militaries are actually running low on interceptor missiles now. Like, are we just supposed to ask the drones to hold on for a minute",
-      "original_url": "https://www.nytimes.com/2026/04/05/world/middleeast/iran-war-interceptor-missiles.html",
-      "buzz_score": 75,
+      "tweet": "Durham had to tell fans to stay away from the grounds because of that storm. Just straight up tellin people to stay off the grass",
+      "original_url": "https://www.bbc.com/sport/cricket/articles/cew7yerz9epo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Interceptor Missiles Save Lives, but Stockpiles Are Dwindling",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-05T10:01:38.215881+00:00"
+      "original_title": "Durham tell fans to stay away from ground after storm damage",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-05T10:01:38.215904+00:00"
     },
     {
       "tweet": "Lendeborg says he’s absolutely gonna play for Michigan in the title game against UConn. Guy’s locked in.",
@@ -178,15 +167,15 @@
       "added_at": "2026-04-05T19:48:04.864442+00:00"
     },
     {
-      "tweet": "Durham had to tell fans to stay away from the grounds because of that storm. Just straight up tellin people to stay off the grass",
-      "original_url": "https://www.bbc.com/sport/cricket/articles/cew7yerz9epo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 90,
+      "tweet": "That earth photo from the Artemis II crew is insane. Makes everything look so small.",
+      "original_url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+      "buzz_score": 78,
+      "buzz_score2": 88,
       "rewrite_count": 0,
-      "original_title": "Durham tell fans to stay away from ground after storm damage",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-05T10:01:38.215904+00:00"
+      "original_title": "Artemis II crew take “spectacular” image of Earth",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-05T07:59:31.023880+00:00"
     },
     {
       "tweet": "Someone spent eight years wanting to build something and then just crushed it in three months with AI. We’re in a different world now.",
@@ -198,17 +187,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-05T17:21:40.119441+00:00"
-    },
-    {
-      "tweet": "That earth photo from the Artemis II crew is insane. Makes everything look so small.",
-      "original_url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "buzz_score": 78,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "Artemis II crew take “spectacular” image of Earth",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-05T07:59:31.023880+00:00"
     },
     {
       "tweet": "China is basically locking down their entire drone industry. Guess you can't have nice things.",
@@ -1512,8 +1490,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 42,
+    "total_posted": 44,
     "total_collected": 88
   },
-  "last_posted_at": "2026-04-05T21:00:58.002220+00:00"
+  "last_posted_at": "2026-04-05T21:29:11.798210+00:00"
 }
