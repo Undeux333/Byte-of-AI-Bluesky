@@ -2,28 +2,6 @@
   "last_collected": "2026-04-05T12:32:42.482705+00:00",
   "queue": [
     {
-      "tweet": "Bro, did you see those rock-climbing fish in Congo? They literally shimmy straight up a 50-foot waterfall. Evolution is just showing off at this point",
-      "original_url": "https://www.npr.org/2026/04/05/nx-s1-5773315/shellear-climbing-fish-congo-waterfall",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "These rock-climbing fish can shimmy up a 50-foot waterfall",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-05T12:32:42.482662+00:00"
-    },
-    {
-      "tweet": "Hold on, Iran is out here claiming a victory after we literally had to fly in and rescue our own guy? That's definitely one way to spin a disaster",
-      "original_url": "https://www.nytimes.com/2026/04/05/world/middleeast/iran-us-rescue.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "After Daring U.S. Rescue of Airman, Iran Claims a Victory",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-05T12:32:42.482668+00:00"
-    },
-    {
       "tweet": "Paris is basically banning cars for bikes now. We all hate traffic but I don't know if I'm ready to commit to the commute life",
       "original_url": "https://www.theguardian.com/world/2026/apr/05/how-paris-swapped-cars-for-bikes-and-remade-its-streets",
       "buzz_score": 80,
@@ -1143,8 +1121,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 16,
+    "total_posted": 18,
     "total_collected": 48
   },
-  "last_posted_at": "2026-04-05T12:39:37.904126+00:00"
+  "last_posted_at": "2026-04-05T13:50:08.895613+00:00"
 }
