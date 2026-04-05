@@ -2,28 +2,6 @@
   "last_collected": "2026-04-05T14:58:58.246995+00:00",
   "queue": [
     {
-      "tweet": "Labour is backing down on the foie gras ban just to get a trade deal through. Funny how those morals disappear when money is on the table.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/05/labour-back-down-foie-gras-fur-bans-eu-trade-deal",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Labour to back down on foie gras and fur bans to ease EU trade deal",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-05T14:58:58.246972+00:00"
-    },
-    {
-      "tweet": "Some guy at BrowserStack is literally leaking user emails right now. Nothing like waking up and realizing your data is just floating out there.",
-      "original_url": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Someone at BrowserStack Is Leaking Users' Email Address",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-05T14:58:58.246958+00:00"
-    },
-    {
       "tweet": "Reading about these fifty-five weird gadgets to solve daily annoyances. We’ll buy literally anything if it fixes one minor inconvenience.",
       "original_url": "https://www.bustle.com/shopping/weird-problem-solving-clothes-accessories-youll-wonder-how-you-ever-lived-without",
       "buzz_score": 75,
@@ -1366,8 +1344,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 26,
+    "total_posted": 28,
     "total_collected": 64
   },
-  "last_posted_at": "2026-04-05T16:09:01.529578+00:00"
+  "last_posted_at": "2026-04-05T17:00:32.491227+00:00"
 }
