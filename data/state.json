@@ -2,28 +2,6 @@
   "last_collected": "2026-04-05T21:53:23.349134+00:00",
   "queue": [
     {
-      "tweet": "Bro, people are actually running Gemma 4 locally on an iPhone now. My phone can barely handle a group chat without overheating, man.",
-      "original_url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Gemma 4 on iPhone",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-05T21:53:23.349096+00:00"
-    },
-    {
-      "tweet": "K-pop acts are topping the Billboard 200 list left and right now. Funny how we all just collectively decided to learn Korean to keep up.",
-      "original_url": "https://www.billboard.com/lists/k-pop-albums-number-one-billboard-200-albums-full-list/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Here Are All the K-Pop Albums That Have Topped the Billboard 200: Full List",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-05T21:53:23.349109+00:00"
-    },
-    {
       "tweet": "Wait, Zelenskyy is in Damascus working with Syria on security? The world is officially broken.",
       "original_url": "https://www.aljazeera.com/news/2026/4/5/ukraine-syria-agree-to-exchange-military-and-security-experience?traffic_source=rss",
       "buzz_score": 85,
@@ -266,17 +244,6 @@
       "added_at": "2026-04-05T10:01:38.215904+00:00"
     },
     {
-      "tweet": "Lendeborg says he’s absolutely gonna play for Michigan in the title game against UConn. Guy’s locked in.",
-      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48404850/michigan-yaxel-lendeborg-play-vs-uconn-dusty-says",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "U-M's Lendeborg 'absolutely' to play vs. UConn",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-05T19:48:04.864442+00:00"
-    },
-    {
       "tweet": "That earth photo from the Artemis II crew is insane. Makes everything look so small.",
       "original_url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
       "buzz_score": 78,
@@ -286,6 +253,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-05T07:59:31.023880+00:00"
+    },
+    {
+      "tweet": "Lendeborg says he’s absolutely gonna play for Michigan in the title game against UConn. Guy’s locked in.",
+      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48404850/michigan-yaxel-lendeborg-play-vs-uconn-dusty-says",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "U-M's Lendeborg 'absolutely' to play vs. UConn",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-05T19:48:04.864442+00:00"
     },
     {
       "tweet": "China is basically locking down their entire drone industry. Guess you can't have nice things.",
@@ -1600,8 +1578,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 48,
+    "total_posted": 50,
     "total_collected": 102
   },
-  "last_posted_at": "2026-04-05T22:26:39.877203+00:00"
+  "last_posted_at": "2026-04-05T23:03:22.139815+00:00"
 }
