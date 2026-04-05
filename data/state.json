@@ -2,28 +2,6 @@
   "last_collected": "2026-04-05T07:59:31.023886+00:00",
   "queue": [
     {
-      "tweet": "So ICE arrested Soleimani’s niece and grand-niece. I feel like that’s gonna turn into a massive headache pretty quick.",
-      "original_url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 90,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-05T07:59:31.023851+00:00"
-    },
-    {
-      "tweet": "Yo, Jack Black and Jack White actually did Seven Nation Army on SNL. That’s just too much power for one stage.",
-      "original_url": "https://www.billboard.com/culture/tv-film/snl-jack-black-jack-white-seven-nation-army-1236215474/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Jack Black and Jack White Perform ‘Seven Nation Army’ Together During ‘SNL’ Monologue",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-05T07:59:31.023858+00:00"
-    },
-    {
       "tweet": "Watching Dan Hurley on the sidelines is genuinely exhausting. Like, how does he even have blood pressure left.",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48401188/march-madness-uconn-huskies-dan-hurley-ncaa-championship",
       "buzz_score": 82,
@@ -545,8 +523,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2,
+    "total_posted": 4,
     "total_collected": 16
   },
-  "last_posted_at": "2026-04-05T08:05:27.451378+00:00"
+  "last_posted_at": "2026-04-05T08:39:14.722065+00:00"
 }
