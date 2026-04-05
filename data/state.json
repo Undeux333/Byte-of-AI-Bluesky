@@ -2,28 +2,6 @@
   "last_collected": "2026-04-05T21:53:23.349134+00:00",
   "queue": [
     {
-      "tweet": "Wait, Zelenskyy is in Damascus working with Syria on security? The world is officially broken.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/5/ukraine-syria-agree-to-exchange-military-and-security-experience?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Ukraine and Syria to cooperate on security, Zelenskyy says",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-05T21:53:23.349121+00:00"
-    },
-    {
-      "tweet": "Crimson Desert's new patch basically admits the launch was a total disaster. Why are we still buying games on day one.",
-      "original_url": "https://www.polygon.com/crimson-desert-second-update/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Crimson Desert patch 1.02 confirms those who played at launch had it the worst",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-05T21:53:23.349127+00:00"
-    },
-    {
       "tweet": "Did you see that fight? Dubois just outpointed a bloodied Harper. Brutal.",
       "original_url": "https://www.bbc.com/sport/boxing/articles/crl15n14668o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -255,17 +233,6 @@
       "added_at": "2026-04-05T07:59:31.023880+00:00"
     },
     {
-      "tweet": "Lendeborg says he’s absolutely gonna play for Michigan in the title game against UConn. Guy’s locked in.",
-      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48404850/michigan-yaxel-lendeborg-play-vs-uconn-dusty-says",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "U-M's Lendeborg 'absolutely' to play vs. UConn",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-05T19:48:04.864442+00:00"
-    },
-    {
       "tweet": "China is basically locking down their entire drone industry. Guess you can't have nice things.",
       "original_url": "https://www.nytimes.com/2026/04/05/world/asia/china-drone-regulations.html",
       "buzz_score": 75,
@@ -286,6 +253,17 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-04-05T07:59:31.023853+00:00"
+    },
+    {
+      "tweet": "Lendeborg says he’s absolutely gonna play for Michigan in the title game against UConn. Guy’s locked in.",
+      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48404850/michigan-yaxel-lendeborg-play-vs-uconn-dusty-says",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "U-M's Lendeborg 'absolutely' to play vs. UConn",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-05T19:48:04.864442+00:00"
     },
     {
       "tweet": "Someone spent eight years wanting to build something and then just crushed it in three months with AI. We’re in a different world now.",
@@ -1578,8 +1556,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 50,
+    "total_posted": 52,
     "total_collected": 102
   },
-  "last_posted_at": "2026-04-05T23:03:22.139815+00:00"
+  "last_posted_at": "2026-04-05T23:34:26.579017+00:00"
 }
