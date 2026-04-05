@@ -2,28 +2,6 @@
   "last_collected": "2026-04-05T17:21:40.119449+00:00",
   "queue": [
     {
-      "tweet": "People are actually playing through old Mario games now just because of that movie. Marketing works, man.",
-      "original_url": "https://www.polygon.com/super-mario-galaxy-movie-game-recommendations/",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Best Mario games to play if you loved The Super Mario Galaxy Movie",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-05T17:21:40.119439+00:00"
-    },
-    {
-      "tweet": "Reading about these fifty-five weird gadgets to solve daily annoyances. We’ll buy literally anything if it fixes one minor inconvenience.",
-      "original_url": "https://www.bustle.com/shopping/weird-problem-solving-clothes-accessories-youll-wonder-how-you-ever-lived-without",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "55 Weird, Problem-Solving Clothes & Accessories You'll Wonder How You Ever Lived Without",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-04-05T14:58:58.246990+00:00"
-    },
-    {
       "tweet": "Everyone’s still obsessing over that Bob Hoskins Mario movie. It’s that exact kind of disaster that just sticks with you forever.",
       "original_url": "https://kotaku.com/the-weird-appeal-of-the-bob-hoskins-mario-movie-forever-endures-2000684929",
       "buzz_score": 75,
@@ -112,6 +90,17 @@
       "added_at": "2026-04-05T17:21:40.119441+00:00"
     },
     {
+      "tweet": "That earth photo from the Artemis II crew is insane. Makes everything look so small.",
+      "original_url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+      "buzz_score": 78,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Artemis II crew take “spectacular” image of Earth",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-05T07:59:31.023880+00:00"
+    },
+    {
       "tweet": "The CIA ran a whole fake campaign just to hide one airman in Iran. Absolute movie stuff.",
       "original_url": "https://www.nytimes.com/2026/04/05/world/middleeast/cia-us-airman-rescue-iran.html",
       "buzz_score": 75,
@@ -132,17 +121,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-05T14:58:58.246961+00:00"
-    },
-    {
-      "tweet": "That earth photo from the Artemis II crew is insane. Makes everything look so small.",
-      "original_url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "buzz_score": 78,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "Artemis II crew take “spectacular” image of Earth",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-05T07:59:31.023880+00:00"
     },
     {
       "tweet": "China is basically locking down their entire drone industry. Guess you can't have nice things.",
@@ -376,17 +354,6 @@
       "added_at": "2026-04-05T12:32:42.482701+00:00"
     },
     {
-      "tweet": "The Pope is out here calling for peace again while the world keeps on fighting. Is anybody even listening",
-      "original_url": "https://www.nytimes.com/2026/04/05/world/europe/pope-leo-easter.html",
-      "buzz_score": 70,
-      "buzz_score2": 80,
-      "rewrite_count": 0,
-      "original_title": "Pope Leo Calls for Peace and Warns of a World Indifferent to Violence",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-05T12:32:42.482699+00:00"
-    },
-    {
       "tweet": "Ken Jennings is back with more trivia. I’m always way worse at these than I think I’m gonna be.",
       "original_url": "https://www.mentalfloss.com/kennections/ken-jennings-kennections-quiz-200?utm_source=RSS",
       "buzz_score": 70,
@@ -396,6 +363,17 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-05T07:59:31.023874+00:00"
+    },
+    {
+      "tweet": "The Pope is out here calling for peace again while the world keeps on fighting. Is anybody even listening",
+      "original_url": "https://www.nytimes.com/2026/04/05/world/europe/pope-leo-easter.html",
+      "buzz_score": 70,
+      "buzz_score2": 80,
+      "rewrite_count": 0,
+      "original_title": "Pope Leo Calls for Peace and Warns of a World Indifferent to Violence",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-05T12:32:42.482699+00:00"
     },
     {
       "tweet": "Kuwait's plants getting hit while everything in the Gulf is under fire. Man, it just never stops over there",
@@ -1424,8 +1402,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 34,
+    "total_posted": 36,
     "total_collected": 72
   },
-  "last_posted_at": "2026-04-05T18:34:44.171485+00:00"
+  "last_posted_at": "2026-04-05T19:17:18.001859+00:00"
 }
