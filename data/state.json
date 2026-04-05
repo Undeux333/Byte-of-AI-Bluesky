@@ -2,28 +2,6 @@
   "last_collected": "2026-04-05T07:33:10.424552+00:00",
   "queue": [
     {
-      "tweet": "Jack Black and Jack White performing Seven Nation Army on SNL was not on my bingo card today. Electric.",
-      "original_url": "https://www.billboard.com/culture/tv-film/snl-jack-black-jack-white-seven-nation-army-1236215474/",
-      "buzz_score": 88,
-      "buzz_score2": 100,
-      "rewrite_count": 0,
-      "original_title": "Jack Black and Jack White Perform ‘Seven Nation Army’ Together During ‘SNL’ Monologue",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-05T07:33:10.424522+00:00"
-    },
-    {
-      "tweet": "Watching Dan Hurley lead UConn is basically just two hours of watching a guy vibrate with pure adrenaline. We've all had that one boss.",
-      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48401188/march-madness-uconn-huskies-dan-hurley-ncaa-championship",
-      "buzz_score": 85,
-      "buzz_score2": 100,
-      "rewrite_count": 0,
-      "original_title": "F-bombs, herky jerks and the Final Straw: Every Dan Hurley reaction from the Final Four",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-05T07:33:10.424517+00:00"
-    },
-    {
       "tweet": "U.S. immigration just arrested the niece and grand-niece of Qasem Soleimani. I don't even know how to process that move.",
       "original_url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -545,8 +523,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2,
+    "total_posted": 4,
     "total_collected": 16
   },
-  "last_posted_at": "2026-04-05T07:39:35.062041+00:00"
+  "last_posted_at": "2026-04-05T07:57:29.843010+00:00"
 }
