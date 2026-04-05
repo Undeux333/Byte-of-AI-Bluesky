@@ -2,28 +2,6 @@
   "last_collected": "2026-04-05T07:59:31.023886+00:00",
   "queue": [
     {
-      "tweet": "Watching Dan Hurley on the sidelines is genuinely exhausting. Like, how does he even have blood pressure left.",
-      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48401188/march-madness-uconn-huskies-dan-hurley-ncaa-championship",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "F-bombs, herky jerks and the Final Straw: Every Dan Hurley reaction from the Final Four",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-05T07:59:31.023865+00:00"
-    },
-    {
-      "tweet": "Arsenal are seriously falling apart, aren't they? Two weeks ago we thought they had it all.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cvg0350nlwzo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "Is season running away from frazzled Arsenal?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-05T07:59:31.023862+00:00"
-    },
-    {
       "tweet": "That earth photo from the Artemis II crew is insane. Makes everything look so small.",
       "original_url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
       "buzz_score": 78,
@@ -523,8 +501,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 4,
+    "total_posted": 6,
     "total_collected": 16
   },
-  "last_posted_at": "2026-04-05T08:39:14.722065+00:00"
+  "last_posted_at": "2026-04-05T09:29:16.215147+00:00"
 }
