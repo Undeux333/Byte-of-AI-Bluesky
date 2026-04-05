@@ -2,28 +2,6 @@
   "last_collected": "2026-04-05T10:01:38.215919+00:00",
   "queue": [
     {
-      "tweet": "Orbán's camp is out here using AI deepfakes to mess with the election in Hungary. Are we just gonna pretend this is normal now",
-      "original_url": "https://www.bbc.com/news/articles/c5yj97yd6v5o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "AI videos fuel rhetoric as Orbán bids for four more years in Hungary",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-05T10:01:38.215894+00:00"
-    },
-    {
-      "tweet": "Geno Auriemma acting like that after a game is just tough to watch. Doesn't matter how many titles you have, don't be that guy",
-      "original_url": "https://www.espn.com/womens-college-basketball/story/_/id/48396949/geno-auriemma-dawn-staley-uconn-south-carolina-apology-argument",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "🤔 Geno better than postgame actions?",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-05T10:01:38.215885+00:00"
-    },
-    {
       "tweet": "Lebanon using digital wallets to get aid to people. It's funny how we trust an app more than an actual bank when things go sideways",
       "original_url": "https://www.wired.com/story/with-one-million-displaced-lebanon-turns-to-digital-wallets-for-aid/",
       "buzz_score": 75,
@@ -871,8 +849,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 10,
+    "total_posted": 12,
     "total_collected": 32
   },
-  "last_posted_at": "2026-04-05T11:01:40.620915+00:00"
+  "last_posted_at": "2026-04-05T11:26:41.816681+00:00"
 }
