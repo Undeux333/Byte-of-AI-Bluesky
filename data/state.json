@@ -2,28 +2,6 @@
   "last_collected": "2026-04-05T19:48:04.864474+00:00",
   "queue": [
     {
-      "tweet": "Polymarket took down bets on that rescue mission after people got called out for it. It’s all just a game to them.",
-      "original_url": "https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Polymarket took down wagers tied to rescue of downed Air Force officer",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-04-05T19:48:04.864459+00:00"
-    },
-    {
-      "tweet": "Israel is striking Iran and Lebanon while they're still in Gaza. It’s a lot.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israel-continues-deadly-attacks-on-gaza-while-striking-iran-lebanon?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israel continues deadly attacks on Gaza while striking Iran, Lebanon",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-05T19:48:04.864467+00:00"
-    },
-    {
       "tweet": "That Shibuya Scramble crowdfunding thing is toast because they just straight up misplaced the money. Classic.",
       "original_url": "https://kotaku.com/shibuya-scramble-successor-jeopardized-after-crowdfunder-misplaces-money-spike-chunsoft-2000684967",
       "buzz_score": 80,
@@ -277,17 +255,6 @@
       "added_at": "2026-04-05T14:58:58.246961+00:00"
     },
     {
-      "tweet": "Grammarly is out here dealing with some clone app saga. It’s wild how fast these AI things just get copied",
-      "original_url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
-      "buzz_score": 80,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Grammarly’s sloppelganger saga",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-04-05T12:32:42.482696+00:00"
-    },
-    {
       "tweet": "Someone actually charged for shooting that baby in Brooklyn. That is just brutal.",
       "original_url": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
       "buzz_score": 88,
@@ -297,6 +264,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-05T07:59:31.023872+00:00"
+    },
+    {
+      "tweet": "Grammarly is out here dealing with some clone app saga. It’s wild how fast these AI things just get copied",
+      "original_url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
+      "buzz_score": 80,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Grammarly’s sloppelganger saga",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-04-05T12:32:42.482696+00:00"
     },
     {
       "tweet": "They're making a new Star Fox for the Switch two. Why can't they ever just do something new instead of playing the hits?",
@@ -1534,8 +1512,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 40,
+    "total_posted": 42,
     "total_collected": 88
   },
-  "last_posted_at": "2026-04-05T20:29:41.001941+00:00"
+  "last_posted_at": "2026-04-05T21:00:58.002220+00:00"
 }
