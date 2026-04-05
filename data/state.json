@@ -2,28 +2,6 @@
   "last_collected": "2026-04-05T12:32:42.482705+00:00",
   "queue": [
     {
-      "tweet": "Paris is basically banning cars for bikes now. We all hate traffic but I don't know if I'm ready to commit to the commute life",
-      "original_url": "https://www.theguardian.com/world/2026/apr/05/how-paris-swapped-cars-for-bikes-and-remade-its-streets",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "How Paris swapped cars for bikes – and transformed its streets",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-05T12:32:42.482680+00:00"
-    },
-    {
-      "tweet": "Jeff Bezos literally spent years talking about a voice computer before the Echo even existed. Persistence or just being annoying",
-      "original_url": "https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "How the Amazon Echo learned to talk — and listen",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-04-05T12:32:42.482694+00:00"
-    },
-    {
       "tweet": "Just saw that movie Falling on Netflix. Having to move your parents in when they're acting like that? Rough",
       "original_url": "https://usa.newonnetflix.info/info/81405820",
       "buzz_score": 70,
@@ -1121,8 +1099,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 18,
+    "total_posted": 20,
     "total_collected": 48
   },
-  "last_posted_at": "2026-04-05T13:50:08.895613+00:00"
+  "last_posted_at": "2026-04-05T14:27:18.656962+00:00"
 }
