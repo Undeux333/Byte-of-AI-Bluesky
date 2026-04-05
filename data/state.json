@@ -2,28 +2,6 @@
   "last_collected": "2026-04-05T19:48:04.864474+00:00",
   "queue": [
     {
-      "tweet": "Apparently baby names cycle every hundred years so we're all just gonna be raising little Arthurs and Hazels again. Guess everything old really is just waiting for its turn.",
-      "original_url": "https://www.mentalfloss.com/language/names/hundred-year-rule-baby-names?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why Baby Names Tend to Become Popular Again Every 100 Years",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-05T19:48:04.864431+00:00"
-    },
-    {
-      "tweet": "They're saying a fishing game might be game of the year for 2026. Honestly, after the year we've had, I get it.",
-      "original_url": "https://kotaku.com/2026s-goty-could-be-a-fishing-game-about-fishing-arctic-eggs-2000684961",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The GOTY Of 2026 Could Be A Fishing Game",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-05T19:48:04.864451+00:00"
-    },
-    {
       "tweet": "Polymarket took down bets on that rescue mission after people got called out for it. It’s all just a game to them.",
       "original_url": "https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/",
       "buzz_score": 85,
@@ -310,6 +288,17 @@
       "added_at": "2026-04-05T12:32:42.482696+00:00"
     },
     {
+      "tweet": "Someone actually charged for shooting that baby in Brooklyn. That is just brutal.",
+      "original_url": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Man charged over fatal shooting of baby in pram in New York",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-05T07:59:31.023872+00:00"
+    },
+    {
       "tweet": "They're making a new Star Fox for the Switch two. Why can't they ever just do something new instead of playing the hits?",
       "original_url": "https://www.polygon.com/star-fox/",
       "buzz_score": 70,
@@ -341,17 +330,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-05T14:58:58.246963+00:00"
-    },
-    {
-      "tweet": "Someone actually charged for shooting that baby in Brooklyn. That is just brutal.",
-      "original_url": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Man charged over fatal shooting of baby in pram in New York",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-05T07:59:31.023872+00:00"
     },
     {
       "tweet": "Netflix just dropped this movie where a guy has to pull off heists to pay a 2 million dollar ransom. Pretty sure he's gonna fail at that",
@@ -497,17 +475,6 @@
       "added_at": "2026-04-05T07:59:31.023860+00:00"
     },
     {
-      "tweet": "So Iran and Oman are chatting about that smooth passage in the Strait of Hormuz. Smooth is doing a lot of work there",
-      "original_url": "https://www.aljazeera.com/news/2026/4/5/oman-iran-discuss-smooth-transit-in-the-strait-of-hormuz-muscat-says?traffic_source=rss",
-      "buzz_score": 75,
-      "buzz_score2": 80,
-      "rewrite_count": 0,
-      "original_title": "Oman, Iran discuss smooth transit in Strait of Hormuz, Muscat says",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-05T12:32:42.482701+00:00"
-    },
-    {
       "tweet": "Ken Jennings is back with more trivia. I’m always way worse at these than I think I’m gonna be.",
       "original_url": "https://www.mentalfloss.com/kennections/ken-jennings-kennections-quiz-200?utm_source=RSS",
       "buzz_score": 70,
@@ -517,6 +484,17 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-05T07:59:31.023874+00:00"
+    },
+    {
+      "tweet": "So Iran and Oman are chatting about that smooth passage in the Strait of Hormuz. Smooth is doing a lot of work there",
+      "original_url": "https://www.aljazeera.com/news/2026/4/5/oman-iran-discuss-smooth-transit-in-the-strait-of-hormuz-muscat-says?traffic_source=rss",
+      "buzz_score": 75,
+      "buzz_score2": 80,
+      "rewrite_count": 0,
+      "original_title": "Oman, Iran discuss smooth transit in Strait of Hormuz, Muscat says",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-05T12:32:42.482701+00:00"
     },
     {
       "tweet": "The Pope is out here calling for peace again while the world keeps on fighting. Is anybody even listening",
@@ -1556,8 +1534,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 38,
+    "total_posted": 40,
     "total_collected": 88
   },
-  "last_posted_at": "2026-04-05T19:55:35.470836+00:00"
+  "last_posted_at": "2026-04-05T20:29:41.001941+00:00"
 }
