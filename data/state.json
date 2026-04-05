@@ -2,28 +2,6 @@
   "last_collected": "2026-04-05T10:01:38.215919+00:00",
   "queue": [
     {
-      "tweet": "Lebanon using digital wallets to get aid to people. It's funny how we trust an app more than an actual bank when things go sideways",
-      "original_url": "https://www.wired.com/story/with-one-million-displaced-lebanon-turns-to-digital-wallets-for-aid/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "With One Million Displaced, Lebanon Turns to Digital Wallets for Aid",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-04-05T10:01:38.215899+00:00"
-    },
-    {
-      "tweet": "Sony hiking PS5 prices is apparently proof this generation isn't over. That's just a fancy way of saying we're paying more for the same tech",
-      "original_url": "https://www.wired.com/story/sonys-ps5-price-hikes-prove-this-console-generation-is-far-from-over-good/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sony’s PS5 Price Hikes Prove This Console Generation Is Far From Over. Good.",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-04-05T10:01:38.215896+00:00"
-    },
-    {
       "tweet": "Turns out militaries are actually running low on interceptor missiles now. Like, are we just supposed to ask the drones to hold on for a minute",
       "original_url": "https://www.nytimes.com/2026/04/05/world/middleeast/iran-war-interceptor-missiles.html",
       "buzz_score": 75,
@@ -849,8 +827,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 12,
+    "total_posted": 14,
     "total_collected": 32
   },
-  "last_posted_at": "2026-04-05T11:26:41.816681+00:00"
+  "last_posted_at": "2026-04-05T11:55:32.415550+00:00"
 }
