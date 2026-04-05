@@ -2,28 +2,6 @@
   "last_collected": "2026-04-05T21:53:23.349134+00:00",
   "queue": [
     {
-      "tweet": "UCLA absolutely demolished South Carolina for the title. I don't think I've ever seen a blowout that bad in a final.",
-      "original_url": "https://www.espn.com/womens-college-basketball/story/_/id/48406646/ucla-blows-south-carolina-first-women-ncaa-title",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "UCLA blows out South Carolina for women's title",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-05T21:53:23.349113+00:00"
-    },
-    {
-      "tweet": "Someone actually recreated a Baroque masterpiece in Kid Pix. That's just an insane way to spend your time.",
-      "original_url": "https://kotaku.com/artist-recreates-17th-century-baroque-masterpiece-on-kid-pix-cat-graffam-2000684972",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Artist Recreates 17th Century Baroque Masterpiece On Kid Pix",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-05T21:53:23.349125+00:00"
-    },
-    {
       "tweet": "Bro, people are actually running Gemma 4 locally on an iPhone now. My phone can barely handle a group chat without overheating, man.",
       "original_url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
       "buzz_score": 85,
@@ -310,17 +288,6 @@
       "added_at": "2026-04-05T07:59:31.023880+00:00"
     },
     {
-      "tweet": "Someone spent eight years wanting to build something and then just crushed it in three months with AI. We’re in a different world now.",
-      "original_url": "https://lalitm.com/post/building-syntaqlite-ai/",
-      "buzz_score": 75,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Eight years of wanting, three months of building with AI",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-05T17:21:40.119441+00:00"
-    },
-    {
       "tweet": "China is basically locking down their entire drone industry. Guess you can't have nice things.",
       "original_url": "https://www.nytimes.com/2026/04/05/world/asia/china-drone-regulations.html",
       "buzz_score": 75,
@@ -341,6 +308,17 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-04-05T07:59:31.023853+00:00"
+    },
+    {
+      "tweet": "Someone spent eight years wanting to build something and then just crushed it in three months with AI. We’re in a different world now.",
+      "original_url": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "buzz_score": 75,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Eight years of wanting, three months of building with AI",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-05T17:21:40.119441+00:00"
     },
     {
       "tweet": "Someone actually charged for shooting that baby in Brooklyn. That is just brutal.",
@@ -453,17 +431,6 @@
       "added_at": "2026-04-05T12:32:42.482671+00:00"
     },
     {
-      "tweet": "Takopi’s Original Sin got a nomination for the Crunchyroll Awards. It's supposed to be this cute alien story but it's actually pretty dark",
-      "original_url": "https://www.polygon.com/takopis-original-sin-just-got-nominated-in-the-2026-crunchyroll-anime-awards-heres-why-it-should-win/",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Takopi’s Original Sin just got nominated for the Crunchyroll Anime Awards — here's why it should win",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-05T12:32:42.482682+00:00"
-    },
-    {
       "tweet": "Mars is literally just one massive dust storm sparking electricity. Sounds like my basement.",
       "original_url": "https://www.sciencedaily.com/releases/2026/04/260405003753.htm",
       "buzz_score": 72,
@@ -473,6 +440,17 @@
       "source": "ScienceDaily",
       "category": "science",
       "added_at": "2026-04-05T07:59:31.023855+00:00"
+    },
+    {
+      "tweet": "Takopi’s Original Sin got a nomination for the Crunchyroll Awards. It's supposed to be this cute alien story but it's actually pretty dark",
+      "original_url": "https://www.polygon.com/takopis-original-sin-just-got-nominated-in-the-2026-crunchyroll-anime-awards-heres-why-it-should-win/",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Takopi’s Original Sin just got nominated for the Crunchyroll Anime Awards — here's why it should win",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-05T12:32:42.482682+00:00"
     },
     {
       "tweet": "Hoka dropping new colors again. We really keep buying these just to walk to the coffee shop, don't we",
@@ -1622,8 +1600,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 46,
+    "total_posted": 48,
     "total_collected": 102
   },
-  "last_posted_at": "2026-04-05T22:00:52.257182+00:00"
+  "last_posted_at": "2026-04-05T22:26:39.877203+00:00"
 }
