@@ -2,28 +2,6 @@
   "last_collected": "2026-04-05T14:58:58.246995+00:00",
   "queue": [
     {
-      "tweet": "House Flipper is free on Steam right now. Honestly, sometimes you just need to paint a digital wall to feel something.",
-      "original_url": "https://www.polygon.com/house-flipper-free-on-steam/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "House Flipper is free to keep on Steam and you should play it",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-05T14:58:58.246980+00:00"
-    },
-    {
-      "tweet": "Japan is actually using robots to fill jobs nobody wants anymore. Turns out they aren't coming for our desk jobs, just the ones we'd never do.",
-      "original_url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-04-05T14:58:58.246982+00:00"
-    },
-    {
       "tweet": "Trump is out here threatening the Strait of Hormuz but has zero plan for what happens next. Just total chaos.",
       "original_url": "https://www.aljazeera.com/video/quotable/2026/4/5/trump-offers-no-concrete-plan-as-strait-of-hormuz-closure-shocks-europe?traffic_source=rss",
       "buzz_score": 85,
@@ -1410,8 +1388,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 22,
+    "total_posted": 24,
     "total_collected": 64
   },
-  "last_posted_at": "2026-04-05T15:05:51.277510+00:00"
+  "last_posted_at": "2026-04-05T15:39:15.007313+00:00"
 }
