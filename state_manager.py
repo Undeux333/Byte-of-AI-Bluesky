@@ -1,6 +1,7 @@
 import json
 import os
 from datetime import datetime, timezone, timedelta
+from config import QUEUE_MAX, QUEUE_TTL_HOURS
 
 STATE_PATH = "data/state.json"
 
@@ -67,6 +68,10 @@ def mark_seen(state: dict, url: str):
 
 def add_to_queue(state: dict, item: dict):
     state.setdefault("queue", []).append(item)
+    # 上限を超えた場合は最終スコアが低いものから削除
+    if len(state["queue"]) > QUEUE_MAX:
+        state["queue"].sort(key=_final_score, reverse=True)
+        state["queue"] = state["queue"][:QUEUE_MAX]
 
 def _final_score(item: dict) -> float:
     """Post-time score: buzz_score2(70%) + buzz_score(10%) + freshness(20%)"""
@@ -101,6 +106,7 @@ def pop_next(state: dict) -> dict | None:
 def mark_posted(state: dict):
     state.setdefault("stats", {})
     state["stats"]["total_posted"] = state["stats"].get("total_posted", 0) + 1
+    state["last_posted_at"] = datetime.now(timezone.utc).isoformat()
 
 def get_stats(state: dict) -> dict:
     return {
