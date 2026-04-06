@@ -2,28 +2,6 @@
   "last_collected": "2026-04-06T19:18:20.226610+00:00",
   "queue": [
     {
-      "tweet": "Did you see that whole thing with the US airman being rescued out of Iran? The logistics on that were actually insane. Unbelievable.",
-      "original_url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "How rescue of US airman in remote part of Iran unfolded",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-06T16:10:20.648808+00:00"
-    },
-    {
-      "tweet": "Dozens of companies are about to lose their B Corp status over these new standards. Just another box to check.",
-      "original_url": "https://www.theguardian.com/business/2026/apr/06/b-corp-status-standards-overhaul-certification-companies",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Dozens of firms risk losing B Corp status after standards overhaul",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-06T16:10:20.649397+00:00"
-    },
-    {
       "tweet": "Sabrina Carpenter and that whole crew are making larceny look like a fashion shoot in the new video. Just bizarre.",
       "original_url": "https://www.billboard.com/music/music-news/sabrina-carpenter-house-tour-video-margaret-qualley-1236215682/",
       "buzz_score": 75,
@@ -79,17 +57,6 @@
       "added_at": "2026-04-06T10:35:55.049147+00:00"
     },
     {
-      "tweet": "ESPN just drafted 32 mock trades for the first round of the NFL draft. Dude, they really have nothing to do until Sunday",
-      "original_url": "https://www.espn.com/nfl/draft2026/story/_/id/48373315/2026-nfl-mock-draft-all-trades-barnwell-deals-32-round-1-picks-players-mccarthy-crosby",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trade offers for every first-round NFL draft pick: We made deals for J.J. McCarthy, Maxx Crosby",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-06T13:57:07.245994+00:00"
-    },
-    {
       "tweet": "Man Utd are already trying to dump Ugarte. At this point the transfer strategy is just throwing darts at a board.",
       "original_url": "https://www.bbc.com/sport/football/articles/ckg92wqjrpeo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 88,
@@ -99,6 +66,17 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-05T23:55:53.317354+00:00"
+    },
+    {
+      "tweet": "ESPN just drafted 32 mock trades for the first round of the NFL draft. Dude, they really have nothing to do until Sunday",
+      "original_url": "https://www.espn.com/nfl/draft2026/story/_/id/48373315/2026-nfl-mock-draft-all-trades-barnwell-deals-32-round-1-picks-players-mccarthy-crosby",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trade offers for every first-round NFL draft pick: We made deals for J.J. McCarthy, Maxx Crosby",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-06T13:57:07.245994+00:00"
     },
     {
       "tweet": "So apparently Australian gas stations are running out of diesel despite that tax relief. How does that even happen?",
@@ -607,17 +585,6 @@
       "added_at": "2026-04-05T10:01:38.215904+00:00"
     },
     {
-      "tweet": "Everyone is trying to figure out how to stop the war on Iran and Trump is just keeping the whole world off balance with these threats. Absolute chaos",
-      "original_url": "https://www.nytimes.com/2026/04/06/world/europe/iran-trump-threats.html",
-      "buzz_score": 85,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "On Iran, Trump Keeps World Off Balance With Ever-Changing Threats",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-06T13:57:07.245992+00:00"
-    },
-    {
       "tweet": "That earth photo from the Artemis II crew is insane. Makes everything look so small.",
       "original_url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
       "buzz_score": 78,
@@ -627,6 +594,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-05T07:59:31.023880+00:00"
+    },
+    {
+      "tweet": "Everyone is trying to figure out how to stop the war on Iran and Trump is just keeping the whole world off balance with these threats. Absolute chaos",
+      "original_url": "https://www.nytimes.com/2026/04/06/world/europe/iran-trump-threats.html",
+      "buzz_score": 85,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "On Iran, Trump Keeps World Off Balance With Ever-Changing Threats",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-06T13:57:07.245992+00:00"
     },
     {
       "tweet": "China is basically locking down their entire drone industry. Guess you can't have nice things.",
@@ -662,6 +640,17 @@
       "added_at": "2026-04-06T10:35:55.049149+00:00"
     },
     {
+      "tweet": "Someone actually charged for shooting that baby in Brooklyn. That is just brutal.",
+      "original_url": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Man charged over fatal shooting of baby in pram in New York",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-05T07:59:31.023872+00:00"
+    },
+    {
       "tweet": "Monsta X is hitting North America for their tour after that new album. Every time a band announces dates I realize how broke I am",
       "original_url": "https://www.billboard.com/music/concerts/monsta-x-2026-the-x-nexus-world-tour-dates-north-america-1236215603/",
       "buzz_score": 75,
@@ -682,17 +671,6 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-06T13:57:07.246403+00:00"
-    },
-    {
-      "tweet": "Someone actually charged for shooting that baby in Brooklyn. That is just brutal.",
-      "original_url": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Man charged over fatal shooting of baby in pram in New York",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-05T07:59:31.023872+00:00"
     },
     {
       "tweet": "They based that new Jedi in the Maul show on Obi-Wan. We're just remixing the same characters forever now.",
@@ -1952,8 +1930,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 86,
+    "total_posted": 88,
     "total_collected": 194
   },
-  "last_posted_at": "2026-04-06T20:11:59.101060+00:00"
+  "last_posted_at": "2026-04-06T21:00:24.729626+00:00"
 }
