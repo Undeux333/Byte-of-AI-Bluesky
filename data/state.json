@@ -2,28 +2,6 @@
   "last_collected": "2026-04-06T13:57:07.247328+00:00",
   "queue": [
     {
-      "tweet": "Looking at the Michigan UConn predictions and realizing I haven't watched a single game this year. That bracket is gonna be painful",
-      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48409429/ncaa-championship-michigan-uconn-predictions-live-updates-2026",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Your NCAA championship guide: Michigan vs. UConn predictions, keys to winning",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-06T13:57:07.245996+00:00"
-    },
-    {
-      "tweet": "Trump is out here threatening to bomb power plants in Iran while we’re busy talking about Artemis II lunar flybys. Like, can we pick a lane",
-      "original_url": "https://www.npr.org/2026/04/06/g-s1-116535/up-first-newsletter-trump-strait-of-hormuz-artemis-two-lunar-flyby-savannah-nancy-guthrie-ada",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump threatens Iran's power plants, bridges. And, Artemis II readies for lunar flyby",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-06T13:57:07.245989+00:00"
-    },
-    {
       "tweet": "Over a million people are displaced in Lebanon right now. It's crazy how we just scroll past that like it's normal news.",
       "original_url": "https://www.aljazeera.com/gallery/2026/4/6/israeli-airstrikes-devastate-lebanese-villages-and-displace-millions?traffic_source=rss",
       "buzz_score": 85,
@@ -200,17 +178,6 @@
       "added_at": "2026-04-06T08:02:47.251489+00:00"
     },
     {
-      "tweet": "Everyone is trying to figure out how to stop the war on Iran and Trump is just keeping the whole world off balance with these threats. Absolute chaos",
-      "original_url": "https://www.nytimes.com/2026/04/06/world/europe/iran-trump-threats.html",
-      "buzz_score": 85,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "On Iran, Trump Keeps World Off Balance With Ever-Changing Threats",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-06T13:57:07.245992+00:00"
-    },
-    {
       "tweet": "Man Utd are already trying to dump Ugarte. At this point the transfer strategy is just throwing darts at a board.",
       "original_url": "https://www.bbc.com/sport/football/articles/ckg92wqjrpeo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 88,
@@ -222,6 +189,17 @@
       "added_at": "2026-04-05T23:55:53.317354+00:00"
     },
     {
+      "tweet": "Everyone is trying to figure out how to stop the war on Iran and Trump is just keeping the whole world off balance with these threats. Absolute chaos",
+      "original_url": "https://www.nytimes.com/2026/04/06/world/europe/iran-trump-threats.html",
+      "buzz_score": 85,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "On Iran, Trump Keeps World Off Balance With Ever-Changing Threats",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-06T13:57:07.245992+00:00"
+    },
+    {
       "tweet": "They're having dating events in Tokyo for people who have the same last name because Japan won't let couples change theirs. We're really just finding any reason to meet someone.",
       "original_url": "https://www.theguardian.com/world/2026/apr/06/when-suzuki-met-suzuki-tokyo-dating-agency-matching-surnames-japan",
       "buzz_score": 85,
@@ -231,6 +209,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-06T04:21:17.194779+00:00"
+    },
+    {
+      "tweet": "That farming town shut down the ICE detention center plan in their backyard. Guess they realized NIMBY is the only way to get anything done.",
+      "original_url": "https://www.bbc.com/news/articles/cje47vy0w3ko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "ICE wanted to build a detention centre -  this small farming town said no",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-05T23:55:53.317370+00:00"
     },
     {
       "tweet": "People are saying it's time for Justin Rose to win the Masters. Every year it's the same story.",
@@ -299,17 +288,6 @@
       "added_at": "2026-04-06T08:02:47.251497+00:00"
     },
     {
-      "tweet": "That farming town shut down the ICE detention center plan in their backyard. Guess they realized NIMBY is the only way to get anything done.",
-      "original_url": "https://www.bbc.com/news/articles/cje47vy0w3ko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "ICE wanted to build a detention centre -  this small farming town said no",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-05T23:55:53.317370+00:00"
-    },
-    {
       "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
       "original_url": "https://variety.com/2026/film/reviews/faces-of-death-review-1236706326/",
       "buzz_score": 82,
@@ -319,17 +297,6 @@
       "source": "Variety",
       "category": "entertainment",
       "added_at": "2026-04-06T04:21:17.194792+00:00"
-    },
-    {
-      "tweet": "Iran is straight up ignoring that deadline Trump gave them for the Strait of Hormuz. What's the point of a deadline if they just say no?",
-      "original_url": "https://www.npr.org/2026/04/06/nx-s1-5775383/iran-war-updates",
-      "buzz_score": 70,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "Iran pushes back against Trump's deadline",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-06T10:35:55.049149+00:00"
     },
     {
       "tweet": "UCLA took down South Carolina for the championship. Huge game.",
@@ -398,6 +365,17 @@
       "added_at": "2026-04-05T19:48:04.864444+00:00"
     },
     {
+      "tweet": "Iran is straight up ignoring that deadline Trump gave them for the Strait of Hormuz. What's the point of a deadline if they just say no?",
+      "original_url": "https://www.npr.org/2026/04/06/nx-s1-5775383/iran-war-updates",
+      "buzz_score": 70,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Iran pushes back against Trump's deadline",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-06T10:35:55.049149+00:00"
+    },
+    {
       "tweet": "Monsta X is hitting North America for their tour after that new album. Every time a band announces dates I realize how broke I am",
       "original_url": "https://www.billboard.com/music/concerts/monsta-x-2026-the-x-nexus-world-tour-dates-north-america-1236215603/",
       "buzz_score": 75,
@@ -418,17 +396,6 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-06T13:57:07.246403+00:00"
-    },
-    {
-      "tweet": "They based that new Jedi in the Maul show on Obi-Wan. We're just remixing the same characters forever now.",
-      "original_url": "https://www.polygon.com/maul-shadow-lord-master-daki-obi-wan-kenobi/",
-      "buzz_score": 65,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "How Maul: Shadow Lord's coolest new Jedi was inspired by Obi-Wan Kenobi",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-06T10:35:55.049556+00:00"
     },
     {
       "tweet": "My tarot reading just told me I'm stuck in urgency mode. I feel like that's just the default setting for everyone right now.",
@@ -541,6 +508,28 @@
       "added_at": "2026-04-05T10:01:38.215881+00:00"
     },
     {
+      "tweet": "They based that new Jedi in the Maul show on Obi-Wan. We're just remixing the same characters forever now.",
+      "original_url": "https://www.polygon.com/maul-shadow-lord-master-daki-obi-wan-kenobi/",
+      "buzz_score": 65,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "How Maul: Shadow Lord's coolest new Jedi was inspired by Obi-Wan Kenobi",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-06T10:35:55.049556+00:00"
+    },
+    {
+      "tweet": "So apparently Charli xcx's management is scrambling to explain those Sky Ferreira credits. Messy.",
+      "original_url": "https://www.billboard.com/music/music-news/charli-xcx-sky-ferreira-wuthering-heights-credit-statement-1236215575/",
+      "buzz_score": 72,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Charli xcx Management Clarifies Sky Ferreira Claims About ‘Wuthering Heights’ Credits",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-06T04:21:17.194772+00:00"
+    },
+    {
       "tweet": "TOMORROW X TOGETHER dropped the tracklist for their eighth album. Eight albums in seven years is just absurd",
       "original_url": "https://www.billboard.com/music/pop/tomorrow-x-together-tracklist-concept-photos-8th-mini-album-1236215630/",
       "buzz_score": 70,
@@ -572,17 +561,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-06T13:57:07.245999+00:00"
-    },
-    {
-      "tweet": "So apparently Charli xcx's management is scrambling to explain those Sky Ferreira credits. Messy.",
-      "original_url": "https://www.billboard.com/music/music-news/charli-xcx-sky-ferreira-wuthering-heights-credit-statement-1236215575/",
-      "buzz_score": 72,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Charli xcx Management Clarifies Sky Ferreira Claims About ‘Wuthering Heights’ Credits",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-06T04:21:17.194772+00:00"
     },
     {
       "tweet": "They found universal grammar patterns across seventeen hundred languages. Turns out we're all wired the same way regardless.",
@@ -904,17 +882,6 @@
       "added_at": "2026-04-05T12:32:42.482671+00:00"
     },
     {
-      "tweet": "That gray whale Willapa Willy died after swimming up a river in Washington because it was starving. Man, that’s rough",
-      "original_url": "https://www.bbc.com/news/articles/cew7n4glz54o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 80,
-      "rewrite_count": 0,
-      "original_title": "Young gray whale dies after swimming up river in Washington state",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-06T13:57:07.246810+00:00"
-    },
-    {
       "tweet": "Dusty May basically told Michigan he's not looking at any other jobs right now. Locked in.",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48407326/informs-michigan-not-pursuing-other-jobs",
       "buzz_score": 72,
@@ -935,6 +902,17 @@
       "source": "ScienceDaily",
       "category": "science",
       "added_at": "2026-04-05T07:59:31.023855+00:00"
+    },
+    {
+      "tweet": "That gray whale Willapa Willy died after swimming up a river in Washington because it was starving. Man, that’s rough",
+      "original_url": "https://www.bbc.com/news/articles/cew7n4glz54o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 80,
+      "rewrite_count": 0,
+      "original_title": "Young gray whale dies after swimming up river in Washington state",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-06T13:57:07.246810+00:00"
     },
     {
       "tweet": "Diesel prices in Vietnam just doubled because of that Iran blockade. It's wild how one war halfway across the world ruins your commute.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 72,
+    "total_posted": 74,
     "total_collected": 180
   },
-  "last_posted_at": "2026-04-06T14:05:16.991823+00:00"
+  "last_posted_at": "2026-04-06T14:47:18.234786+00:00"
 }
