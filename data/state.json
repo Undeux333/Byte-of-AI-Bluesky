@@ -2,28 +2,6 @@
   "last_collected": "2026-04-06T21:29:25.775925+00:00",
   "queue": [
     {
-      "tweet": "Arteta is asking for perspective after those Arsenal losses. We all know that feeling of trying to rationalize a bad streak to yourself.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c77md5mp475o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Arteta calls for perspective as Arsenal look to avoid slump",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-06T21:29:25.775311+00:00"
-    },
-    {
-      "tweet": "The Wireless festival promoter is giving Kanye 'forgiveness' to keep him on the lineup. Money talks, man.",
-      "original_url": "https://www.theguardian.com/music/2026/apr/06/wireless-festival-says-kayne-west-still-due-to-perform-despite-calls-for-ban",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Wireless festival promoter stands by decision to have Kanye West perform",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-06T21:29:25.775326+00:00"
-    },
-    {
       "tweet": "Protesters are swarming the US embassy in Tel Aviv right now. It's like the whole world is just hitting a breaking point.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/protesters-swarm-us-embassy-in-tel-aviv-demanding-end-of-wars?traffic_source=rss",
       "buzz_score": 90,
@@ -112,17 +90,6 @@
       "added_at": "2026-04-06T21:29:25.775314+00:00"
     },
     {
-      "tweet": "Sabrina Carpenter and that whole crew are making larceny look like a fashion shoot in the new video. Just bizarre.",
-      "original_url": "https://www.billboard.com/music/music-news/sabrina-carpenter-house-tour-video-margaret-qualley-1236215682/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sabrina Carpenter, Margaret Qualley & Madelyn Cline Make Grand Theft Larceny Look Chic in ‘House Tour’ Video",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-06T16:10:20.648818+00:00"
-    },
-    {
       "tweet": "Just saw a list of hit songs that are actually super sad. Guess we all just stop listening to the lyrics after a while.",
       "original_url": "https://www.mentalfloss.com/entertainment/music/hit-songs-sound-happy-actually-sad?utm_source=RSS",
       "buzz_score": 75,
@@ -132,6 +99,17 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-06T10:35:55.049147+00:00"
+    },
+    {
+      "tweet": "Sabrina Carpenter and that whole crew are making larceny look like a fashion shoot in the new video. Just bizarre.",
+      "original_url": "https://www.billboard.com/music/music-news/sabrina-carpenter-house-tour-video-margaret-qualley-1236215682/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sabrina Carpenter, Margaret Qualley & Madelyn Cline Make Grand Theft Larceny Look Chic in ‘House Tour’ Video",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-06T16:10:20.648818+00:00"
     },
     {
       "tweet": "Man Utd are already trying to dump Ugarte. At this point the transfer strategy is just throwing darts at a board.",
@@ -167,17 +145,6 @@
       "added_at": "2026-04-06T13:57:07.245986+00:00"
     },
     {
-      "tweet": "Lamar Jackson is already back at the Ravens workouts. Guess that's just what being a pro looks like.",
-      "original_url": "https://www.espn.com/nfl/story/_/id/48412392/lamar-jackson-reports-start-ravens-offseason-workouts",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Lamar reports for beginning of Ravens' workouts",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-06T16:10:20.648975+00:00"
-    },
-    {
       "tweet": "So apparently Australian gas stations are running out of diesel despite that tax relief. How does that even happen?",
       "original_url": "https://www.theguardian.com/australia-news/2026/apr/06/diesel-price-access-australia-fuel-volatile",
       "buzz_score": 85,
@@ -211,15 +178,15 @@
       "added_at": "2026-04-05T23:55:53.317370+00:00"
     },
     {
-      "tweet": "ESPN just drafted 32 mock trades for the first round of the NFL draft. Dude, they really have nothing to do until Sunday",
-      "original_url": "https://www.espn.com/nfl/draft2026/story/_/id/48373315/2026-nfl-mock-draft-all-trades-barnwell-deals-32-round-1-picks-players-mccarthy-crosby",
-      "buzz_score": 75,
+      "tweet": "Lamar Jackson is already back at the Ravens workouts. Guess that's just what being a pro looks like.",
+      "original_url": "https://www.espn.com/nfl/story/_/id/48412392/lamar-jackson-reports-start-ravens-offseason-workouts",
+      "buzz_score": 70,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Trade offers for every first-round NFL draft pick: We made deals for J.J. McCarthy, Maxx Crosby",
+      "original_title": "Lamar reports for beginning of Ravens' workouts",
       "source": "ESPN",
       "category": "sports",
-      "added_at": "2026-04-06T13:57:07.245994+00:00"
+      "added_at": "2026-04-06T16:10:20.648975+00:00"
     },
     {
       "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
@@ -242,6 +209,17 @@
       "source": "Deadline",
       "category": "entertainment",
       "added_at": "2026-04-05T23:55:53.317362+00:00"
+    },
+    {
+      "tweet": "ESPN just drafted 32 mock trades for the first round of the NFL draft. Dude, they really have nothing to do until Sunday",
+      "original_url": "https://www.espn.com/nfl/draft2026/story/_/id/48373315/2026-nfl-mock-draft-all-trades-barnwell-deals-32-round-1-picks-players-mccarthy-crosby",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trade offers for every first-round NFL draft pick: We made deals for J.J. McCarthy, Maxx Crosby",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-06T13:57:07.245994+00:00"
     },
     {
       "tweet": "This woman worked for twenty years and paid into Medicare, and now they're just cutting her off because of that new policy. Absolute mess.",
@@ -508,17 +486,6 @@
       "added_at": "2026-04-05T10:01:38.215881+00:00"
     },
     {
-      "tweet": "Pope Leo XIV is calling for peace, but it's not like the people actually fighting are checking their phones for updates.",
-      "original_url": "https://www.nytimes.com/2026/04/05/world/europe/pope-leo-easter.html",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Pope Leo XIV Calls for Peace in First Easter Mass",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-06T21:29:25.775791+00:00"
-    },
-    {
       "tweet": "So apparently Charli xcx's management is scrambling to explain those Sky Ferreira credits. Messy.",
       "original_url": "https://www.billboard.com/music/music-news/charli-xcx-sky-ferreira-wuthering-heights-credit-statement-1236215575/",
       "buzz_score": 72,
@@ -528,6 +495,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-06T04:21:17.194772+00:00"
+    },
+    {
+      "tweet": "Pope Leo XIV is calling for peace, but it's not like the people actually fighting are checking their phones for updates.",
+      "original_url": "https://www.nytimes.com/2026/04/05/world/europe/pope-leo-easter.html",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Pope Leo XIV Calls for Peace in First Easter Mass",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-06T21:29:25.775791+00:00"
     },
     {
       "tweet": "People are saying it's time for Justin Rose to win the Masters. Every year it's the same story.",
@@ -717,17 +695,6 @@
       "added_at": "2026-04-05T07:59:31.023880+00:00"
     },
     {
-      "tweet": "People are saying Microsoft hasn't had a real GUI strategy since the nineties. They're just moving buttons around at this point.",
-      "original_url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
-      "buzz_score": 60,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-06T21:29:25.775508+00:00"
-    },
-    {
       "tweet": "China is basically locking down their entire drone industry. Guess you can't have nice things.",
       "original_url": "https://www.nytimes.com/2026/04/05/world/asia/china-drone-regulations.html",
       "buzz_score": 75,
@@ -750,15 +717,15 @@
       "added_at": "2026-04-05T07:59:31.023853+00:00"
     },
     {
-      "tweet": "Everyone is trying to figure out how to stop the war on Iran and Trump is just keeping the whole world off balance with these threats. Absolute chaos",
-      "original_url": "https://www.nytimes.com/2026/04/06/world/europe/iran-trump-threats.html",
-      "buzz_score": 85,
+      "tweet": "People are saying Microsoft hasn't had a real GUI strategy since the nineties. They're just moving buttons around at this point.",
+      "original_url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
+      "buzz_score": 60,
       "buzz_score2": 85,
       "rewrite_count": 0,
-      "original_title": "On Iran, Trump Keeps World Off Balance With Ever-Changing Threats",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-06T13:57:07.245992+00:00"
+      "original_title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-06T21:29:25.775508+00:00"
     },
     {
       "tweet": "Iran is straight up ignoring that deadline Trump gave them for the Strait of Hormuz. What's the point of a deadline if they just say no?",
@@ -770,6 +737,17 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-04-06T10:35:55.049149+00:00"
+    },
+    {
+      "tweet": "Everyone is trying to figure out how to stop the war on Iran and Trump is just keeping the whole world off balance with these threats. Absolute chaos",
+      "original_url": "https://www.nytimes.com/2026/04/06/world/europe/iran-trump-threats.html",
+      "buzz_score": 85,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "On Iran, Trump Keeps World Off Balance With Ever-Changing Threats",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-06T13:57:07.245992+00:00"
     },
     {
       "tweet": "Someone actually charged for shooting that baby in Brooklyn. That is just brutal.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 92,
+    "total_posted": 94,
     "total_collected": 210
   },
-  "last_posted_at": "2026-04-06T22:07:18.563810+00:00"
+  "last_posted_at": "2026-04-06T22:41:46.529753+00:00"
 }
