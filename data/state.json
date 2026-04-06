@@ -2,28 +2,6 @@
   "last_collected": "2026-04-06T10:35:55.049681+00:00",
   "queue": [
     {
-      "tweet": "The new Super Mario movie cleared 190 million this weekend. We really can't get enough of that plumber.",
-      "original_url": "https://hypebeast.com/2026/4/universal-pictures-the-super-mario-galaxy-movie-190-million-usd-debut-box-office",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Universal Pictures 'The Super Mario Galaxy Movie' Dominates Easter Weekend With Massive $190 Million USD Debut",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-06T10:35:55.049139+00:00"
-    },
-    {
-      "tweet": "Bro, people are literally arguing on HackerNews about using fewer tokens to save money. We're just trying to be cavemen now. Whatever.",
-      "original_url": "https://github.com/JuliusBrussee/caveman",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Caveman: Why use many token when few token do trick",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-06T10:35:55.049115+00:00"
-    },
-    {
       "tweet": "Netflix dropped the Beef season two trailer. About time.",
       "original_url": "https://hypebeast.com/2026/4/netflix-a24-oscar-isaac-carey-mulligan-charles-melton-cailee-spaeny-beef-season-2-official-trailer-release-info",
       "buzz_score": 82,
@@ -288,6 +266,17 @@
       "added_at": "2026-04-06T10:35:55.049149+00:00"
     },
     {
+      "tweet": "Man Utd are already trying to dump Ugarte. At this point the transfer strategy is just throwing darts at a board.",
+      "original_url": "https://www.bbc.com/sport/football/articles/ckg92wqjrpeo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Man Utd look to offload Ugarte - Monday gossip",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-05T23:55:53.317354+00:00"
+    },
+    {
       "tweet": "They based that new Jedi in the Maul show on Obi-Wan. We're just remixing the same characters forever now.",
       "original_url": "https://www.polygon.com/maul-shadow-lord-master-daki-obi-wan-kenobi/",
       "buzz_score": 65,
@@ -321,15 +310,15 @@
       "added_at": "2026-04-06T04:21:17.194763+00:00"
     },
     {
-      "tweet": "Man Utd are already trying to dump Ugarte. At this point the transfer strategy is just throwing darts at a board.",
-      "original_url": "https://www.bbc.com/sport/football/articles/ckg92wqjrpeo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
+      "tweet": "That farming town shut down the ICE detention center plan in their backyard. Guess they realized NIMBY is the only way to get anything done.",
+      "original_url": "https://www.bbc.com/news/articles/cje47vy0w3ko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Man Utd look to offload Ugarte - Monday gossip",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-05T23:55:53.317354+00:00"
+      "original_title": "ICE wanted to build a detention centre -  this small farming town said no",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-05T23:55:53.317370+00:00"
     },
     {
       "tweet": "So apparently Charli xcx's management is scrambling to explain those Sky Ferreira credits. Messy.",
@@ -343,15 +332,15 @@
       "added_at": "2026-04-06T04:21:17.194772+00:00"
     },
     {
-      "tweet": "That farming town shut down the ICE detention center plan in their backyard. Guess they realized NIMBY is the only way to get anything done.",
-      "original_url": "https://www.bbc.com/news/articles/cje47vy0w3ko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
+      "tweet": "UCLA took down South Carolina for the championship. Huge game.",
+      "original_url": "https://deadline.com/2026/04/ucla-wins-ncaa-womens-basketball-title-south-carolina-1236780047/",
+      "buzz_score": 82,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "ICE wanted to build a detention centre -  this small farming town said no",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-05T23:55:53.317370+00:00"
+      "original_title": "UCLA Triumphs Over South Carolina For First-Ever NCAA Women’s Basketball Title",
+      "source": "Deadline",
+      "category": "entertainment",
+      "added_at": "2026-04-05T23:55:53.317362+00:00"
     },
     {
       "tweet": "They found universal grammar patterns across seventeen hundred languages. Turns out we're all wired the same way regardless.",
@@ -363,17 +352,6 @@
       "source": "ScienceDaily",
       "category": "science",
       "added_at": "2026-04-06T04:21:17.194788+00:00"
-    },
-    {
-      "tweet": "UCLA took down South Carolina for the championship. Huge game.",
-      "original_url": "https://deadline.com/2026/04/ucla-wins-ncaa-womens-basketball-title-south-carolina-1236780047/",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "UCLA Triumphs Over South Carolina For First-Ever NCAA Women’s Basketball Title",
-      "source": "Deadline",
-      "category": "entertainment",
-      "added_at": "2026-04-05T23:55:53.317362+00:00"
     },
     {
       "tweet": "Apparently there's a list of 70 random things getting popular just 'cause they're cheap. We really will buy anything if it's on sale.",
@@ -618,17 +596,6 @@
       "added_at": "2026-04-05T10:01:38.215904+00:00"
     },
     {
-      "tweet": "Lijnders is out here talking about how every good story ends regarding Bernardo Silva. Just say he's leaving, man.",
-      "original_url": "https://www.bbc.com/sport/football/videos/c4g6j73v12po?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 60,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Lijnders on replacing 'unique' Silva",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-06T10:35:55.049433+00:00"
-    },
-    {
       "tweet": "That earth photo from the Artemis II crew is insane. Makes everything look so small.",
       "original_url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
       "buzz_score": 78,
@@ -662,6 +629,17 @@
       "added_at": "2026-04-05T07:59:31.023853+00:00"
     },
     {
+      "tweet": "Lijnders is out here talking about how every good story ends regarding Bernardo Silva. Just say he's leaving, man.",
+      "original_url": "https://www.bbc.com/sport/football/videos/c4g6j73v12po?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 60,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Lijnders on replacing 'unique' Silva",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-06T10:35:55.049433+00:00"
+    },
+    {
       "tweet": "Luka's going to Europe for special hamstring treatment because regular rehab just ain't cutting it. Everyone's just trying to survive the season at this point.",
       "original_url": "https://www.espn.com/nba/story/_/id/48409097/luka-doncic-hamstring-seek-specialized-treatment-europe",
       "buzz_score": 80,
@@ -671,6 +649,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-06T04:21:17.194774+00:00"
+    },
+    {
+      "tweet": "Someone actually charged for shooting that baby in Brooklyn. That is just brutal.",
+      "original_url": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Man charged over fatal shooting of baby in pram in New York",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-05T07:59:31.023872+00:00"
     },
     {
       "tweet": "Latin Mafia is blowing up now. Turns out just being honest about your feelings is a solid strategy.",
@@ -693,17 +682,6 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-06T04:21:17.194782+00:00"
-    },
-    {
-      "tweet": "Someone actually charged for shooting that baby in Brooklyn. That is just brutal.",
-      "original_url": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Man charged over fatal shooting of baby in pram in New York",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-05T07:59:31.023872+00:00"
     },
     {
       "tweet": "Diesel prices in Vietnam just doubled because of that Iran blockade. It's wild how one war halfway across the world ruins your commute.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 66,
+    "total_posted": 68,
     "total_collected": 164
   },
-  "last_posted_at": "2026-04-06T10:42:34.734539+00:00"
+  "last_posted_at": "2026-04-06T11:38:38.889066+00:00"
 }
