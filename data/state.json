@@ -2,28 +2,6 @@
   "last_collected": "2026-04-06T10:35:55.049681+00:00",
   "queue": [
     {
-      "tweet": "Netflix dropped the Beef season two trailer. About time.",
-      "original_url": "https://hypebeast.com/2026/4/netflix-a24-oscar-isaac-carey-mulligan-charles-melton-cailee-spaeny-beef-season-2-official-trailer-release-info",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Netflix Drops Fiery Official Trailer for 'Beef' Season 2",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-06T10:35:55.049143+00:00"
-    },
-    {
-      "tweet": "Pogacar might get fined for running a red light during that race. Imagine being the fastest guy in the world and still getting a ticket.",
-      "original_url": "https://www.bbc.com/sport/cycling/articles/cde5rndeej7o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Pogacar may face fine for running red light in Flanders win",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-06T10:35:55.049132+00:00"
-    },
-    {
       "tweet": "Over a million people are displaced in Lebanon right now. It's crazy how we just scroll past that like it's normal news.",
       "original_url": "https://www.aljazeera.com/gallery/2026/4/6/israeli-airstrikes-devastate-lebanese-villages-and-displace-millions?traffic_source=rss",
       "buzz_score": 85,
@@ -255,17 +233,6 @@
       "added_at": "2026-04-06T04:21:17.194792+00:00"
     },
     {
-      "tweet": "Iran is straight up ignoring that deadline Trump gave them for the Strait of Hormuz. What's the point of a deadline if they just say no?",
-      "original_url": "https://www.npr.org/2026/04/06/nx-s1-5775383/iran-war-updates",
-      "buzz_score": 70,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "Iran pushes back against Trump's deadline",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-06T10:35:55.049149+00:00"
-    },
-    {
       "tweet": "Man Utd are already trying to dump Ugarte. At this point the transfer strategy is just throwing darts at a board.",
       "original_url": "https://www.bbc.com/sport/football/articles/ckg92wqjrpeo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 88,
@@ -277,6 +244,28 @@
       "added_at": "2026-04-05T23:55:53.317354+00:00"
     },
     {
+      "tweet": "Iran is straight up ignoring that deadline Trump gave them for the Strait of Hormuz. What's the point of a deadline if they just say no?",
+      "original_url": "https://www.npr.org/2026/04/06/nx-s1-5775383/iran-war-updates",
+      "buzz_score": 70,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Iran pushes back against Trump's deadline",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-06T10:35:55.049149+00:00"
+    },
+    {
+      "tweet": "That farming town shut down the ICE detention center plan in their backyard. Guess they realized NIMBY is the only way to get anything done.",
+      "original_url": "https://www.bbc.com/news/articles/cje47vy0w3ko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "ICE wanted to build a detention centre -  this small farming town said no",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-05T23:55:53.317370+00:00"
+    },
+    {
       "tweet": "They based that new Jedi in the Maul show on Obi-Wan. We're just remixing the same characters forever now.",
       "original_url": "https://www.polygon.com/maul-shadow-lord-master-daki-obi-wan-kenobi/",
       "buzz_score": 65,
@@ -286,6 +275,17 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-06T10:35:55.049556+00:00"
+    },
+    {
+      "tweet": "UCLA took down South Carolina for the championship. Huge game.",
+      "original_url": "https://deadline.com/2026/04/ucla-wins-ncaa-womens-basketball-title-south-carolina-1236780047/",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "UCLA Triumphs Over South Carolina For First-Ever NCAA Women’s Basketball Title",
+      "source": "Deadline",
+      "category": "entertainment",
+      "added_at": "2026-04-05T23:55:53.317362+00:00"
     },
     {
       "tweet": "My tarot reading just told me I'm stuck in urgency mode. I feel like that's just the default setting for everyone right now.",
@@ -308,50 +308,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-04-06T04:21:17.194763+00:00"
-    },
-    {
-      "tweet": "That farming town shut down the ICE detention center plan in their backyard. Guess they realized NIMBY is the only way to get anything done.",
-      "original_url": "https://www.bbc.com/news/articles/cje47vy0w3ko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "ICE wanted to build a detention centre -  this small farming town said no",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-05T23:55:53.317370+00:00"
-    },
-    {
-      "tweet": "So apparently Charli xcx's management is scrambling to explain those Sky Ferreira credits. Messy.",
-      "original_url": "https://www.billboard.com/music/music-news/charli-xcx-sky-ferreira-wuthering-heights-credit-statement-1236215575/",
-      "buzz_score": 72,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Charli xcx Management Clarifies Sky Ferreira Claims About ‘Wuthering Heights’ Credits",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-06T04:21:17.194772+00:00"
-    },
-    {
-      "tweet": "UCLA took down South Carolina for the championship. Huge game.",
-      "original_url": "https://deadline.com/2026/04/ucla-wins-ncaa-womens-basketball-title-south-carolina-1236780047/",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "UCLA Triumphs Over South Carolina For First-Ever NCAA Women’s Basketball Title",
-      "source": "Deadline",
-      "category": "entertainment",
-      "added_at": "2026-04-05T23:55:53.317362+00:00"
-    },
-    {
-      "tweet": "They found universal grammar patterns across seventeen hundred languages. Turns out we're all wired the same way regardless.",
-      "original_url": "https://www.sciencedaily.com/releases/2026/04/260405003943.htm",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Study of 1,700 languages reveals surprising hidden patterns",
-      "source": "ScienceDaily",
-      "category": "science",
-      "added_at": "2026-04-06T04:21:17.194788+00:00"
     },
     {
       "tweet": "Apparently there's a list of 70 random things getting popular just 'cause they're cheap. We really will buy anything if it's on sale.",
@@ -407,6 +363,28 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-05T19:48:04.864444+00:00"
+    },
+    {
+      "tweet": "So apparently Charli xcx's management is scrambling to explain those Sky Ferreira credits. Messy.",
+      "original_url": "https://www.billboard.com/music/music-news/charli-xcx-sky-ferreira-wuthering-heights-credit-statement-1236215575/",
+      "buzz_score": 72,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Charli xcx Management Clarifies Sky Ferreira Claims About ‘Wuthering Heights’ Credits",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-06T04:21:17.194772+00:00"
+    },
+    {
+      "tweet": "They found universal grammar patterns across seventeen hundred languages. Turns out we're all wired the same way regardless.",
+      "original_url": "https://www.sciencedaily.com/releases/2026/04/260405003943.htm",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Study of 1,700 languages reveals surprising hidden patterns",
+      "source": "ScienceDaily",
+      "category": "science",
+      "added_at": "2026-04-06T04:21:17.194788+00:00"
     },
     {
       "tweet": "Starmer is out here attacking the Greens for daring to run against him. Power really hates competition.",
@@ -640,17 +618,6 @@
       "added_at": "2026-04-06T10:35:55.049433+00:00"
     },
     {
-      "tweet": "Luka's going to Europe for special hamstring treatment because regular rehab just ain't cutting it. Everyone's just trying to survive the season at this point.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48409097/luka-doncic-hamstring-seek-specialized-treatment-europe",
-      "buzz_score": 80,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Luka to seek specialized treatment in Europe",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-06T04:21:17.194774+00:00"
-    },
-    {
       "tweet": "Someone actually charged for shooting that baby in Brooklyn. That is just brutal.",
       "original_url": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
       "buzz_score": 88,
@@ -660,6 +627,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-05T07:59:31.023872+00:00"
+    },
+    {
+      "tweet": "Luka's going to Europe for special hamstring treatment because regular rehab just ain't cutting it. Everyone's just trying to survive the season at this point.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48409097/luka-doncic-hamstring-seek-specialized-treatment-europe",
+      "buzz_score": 80,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Luka to seek specialized treatment in Europe",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-06T04:21:17.194774+00:00"
     },
     {
       "tweet": "Latin Mafia is blowing up now. Turns out just being honest about your feelings is a solid strategy.",
@@ -682,17 +660,6 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-06T04:21:17.194782+00:00"
-    },
-    {
-      "tweet": "Diesel prices in Vietnam just doubled because of that Iran blockade. It's wild how one war halfway across the world ruins your commute.",
-      "original_url": "https://www.aljazeera.com/economy/2026/4/6/vietnams-gig-workers-slammed-by-rising-fuel-costs-amid-fallout-of-iran-war?traffic_source=rss",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Vietnam’s gig workers slammed by rising fuel costs amid fallout of Iran war",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-06T04:21:17.194776+00:00"
     },
     {
       "tweet": "Dan Levy was thinking about a Schitt’s Creek sequel. Sometimes we just gotta let the good shows stay finished.",
@@ -726,6 +693,17 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-05T23:55:53.317352+00:00"
+    },
+    {
+      "tweet": "Diesel prices in Vietnam just doubled because of that Iran blockade. It's wild how one war halfway across the world ruins your commute.",
+      "original_url": "https://www.aljazeera.com/economy/2026/4/6/vietnams-gig-workers-slammed-by-rising-fuel-costs-amid-fallout-of-iran-war?traffic_source=rss",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Vietnam’s gig workers slammed by rising fuel costs amid fallout of Iran war",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-06T04:21:17.194776+00:00"
     },
     {
       "tweet": "NHS is telling everyone not to hold off on care even though doctors are striking. As if people have a choice when they're actually sick.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 68,
+    "total_posted": 70,
     "total_collected": 164
   },
-  "last_posted_at": "2026-04-06T11:38:38.889066+00:00"
+  "last_posted_at": "2026-04-06T12:45:00.244599+00:00"
 }
