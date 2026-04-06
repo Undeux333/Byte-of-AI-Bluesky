@@ -2,28 +2,6 @@
   "last_collected": "2026-04-06T21:29:25.775925+00:00",
   "queue": [
     {
-      "tweet": "So Tiger's in treatment after that Florida arrest and now everyone at the Masters is just talking about him. Such a weird vibe.",
-      "original_url": "https://www.espn.com/golf/story/_/id/48413938/tiger-woods-golfers-minds-masters-following-dui-arrest",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tiger on golfers' minds at Masters after DUI arrest",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-06T21:29:25.775305+00:00"
-    },
-    {
-      "tweet": "Apparently nitpicking actually comes from literally picking lice out of people's hair. I do that to my own thoughts way too much tho.",
-      "original_url": "https://www.mentalfloss.com/language/words/nitpicking-not-mean-what-you-think-it-means?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Word \"Nitpicking\" Might Not Mean What You Think It Means",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-06T21:29:25.775288+00:00"
-    },
-    {
       "tweet": "Arteta is asking for perspective after those Arsenal losses. We all know that feeling of trying to rationalize a bad streak to yourself.",
       "original_url": "https://www.bbc.com/sport/football/articles/c77md5mp475o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 70,
@@ -145,6 +123,28 @@
       "added_at": "2026-04-06T16:10:20.648818+00:00"
     },
     {
+      "tweet": "Just saw a list of hit songs that are actually super sad. Guess we all just stop listening to the lyrics after a while.",
+      "original_url": "https://www.mentalfloss.com/entertainment/music/hit-songs-sound-happy-actually-sad?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "7 Hit Songs That Sound Happy But Are Actually Incredibly Sad",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-06T10:35:55.049147+00:00"
+    },
+    {
+      "tweet": "Man Utd are already trying to dump Ugarte. At this point the transfer strategy is just throwing darts at a board.",
+      "original_url": "https://www.bbc.com/sport/football/articles/ckg92wqjrpeo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Man Utd look to offload Ugarte - Monday gossip",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-05T23:55:53.317354+00:00"
+    },
+    {
       "tweet": "Palace and Nike are dropping those Air Max 95s again. We say we're tired of collabs but we're all still gonna try to cop",
       "original_url": "https://hypebeast.com/2026/4/palace-skateboards-nike-air-max-95-shoe-apparel-capsule-collaboration-collection-release-info",
       "buzz_score": 80,
@@ -167,17 +167,6 @@
       "added_at": "2026-04-06T13:57:07.245986+00:00"
     },
     {
-      "tweet": "Just saw a list of hit songs that are actually super sad. Guess we all just stop listening to the lyrics after a while.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/hit-songs-sound-happy-actually-sad?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "7 Hit Songs That Sound Happy But Are Actually Incredibly Sad",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-06T10:35:55.049147+00:00"
-    },
-    {
       "tweet": "Lamar Jackson is already back at the Ravens workouts. Guess that's just what being a pro looks like.",
       "original_url": "https://www.espn.com/nfl/story/_/id/48412392/lamar-jackson-reports-start-ravens-offseason-workouts",
       "buzz_score": 70,
@@ -187,17 +176,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-06T16:10:20.648975+00:00"
-    },
-    {
-      "tweet": "Man Utd are already trying to dump Ugarte. At this point the transfer strategy is just throwing darts at a board.",
-      "original_url": "https://www.bbc.com/sport/football/articles/ckg92wqjrpeo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Man Utd look to offload Ugarte - Monday gossip",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-05T23:55:53.317354+00:00"
     },
     {
       "tweet": "So apparently Australian gas stations are running out of diesel despite that tax relief. How does that even happen?",
@@ -728,17 +706,6 @@
       "added_at": "2026-04-05T10:01:38.215904+00:00"
     },
     {
-      "tweet": "People are saying Microsoft hasn't had a real GUI strategy since the nineties. They're just moving buttons around at this point.",
-      "original_url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
-      "buzz_score": 60,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-06T21:29:25.775508+00:00"
-    },
-    {
       "tweet": "That earth photo from the Artemis II crew is insane. Makes everything look so small.",
       "original_url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
       "buzz_score": 78,
@@ -748,6 +715,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-05T07:59:31.023880+00:00"
+    },
+    {
+      "tweet": "People are saying Microsoft hasn't had a real GUI strategy since the nineties. They're just moving buttons around at this point.",
+      "original_url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
+      "buzz_score": 60,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-06T21:29:25.775508+00:00"
     },
     {
       "tweet": "China is basically locking down their entire drone industry. Guess you can't have nice things.",
@@ -871,6 +849,17 @@
       "added_at": "2026-04-05T12:32:42.482696+00:00"
     },
     {
+      "tweet": "Leeds are actually in the FA Cup semi-finals for the first time in 39 years. Bananas.",
+      "original_url": "https://www.bbc.com/sport/football/articles/cly9x7755w0o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 78,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Leeds 'greedy to go to the next step' as Wembley awaits",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-05T23:55:53.317352+00:00"
+    },
+    {
       "tweet": "TOMORROW X TOGETHER dropped the tracklist for their eighth album. Eight albums in seven years is just absurd",
       "original_url": "https://www.billboard.com/music/pop/tomorrow-x-together-tracklist-concept-photos-8th-mini-album-1236215630/",
       "buzz_score": 70,
@@ -902,17 +891,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-06T13:57:07.245999+00:00"
-    },
-    {
-      "tweet": "Leeds are actually in the FA Cup semi-finals for the first time in 39 years. Bananas.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cly9x7755w0o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 78,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Leeds 'greedy to go to the next step' as Wembley awaits",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-05T23:55:53.317352+00:00"
     },
     {
       "tweet": "Latin Mafia is blowing up now. Turns out just being honest about your feelings is a solid strategy.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 90,
+    "total_posted": 92,
     "total_collected": 210
   },
-  "last_posted_at": "2026-04-06T21:38:03.246085+00:00"
+  "last_posted_at": "2026-04-06T22:07:18.563810+00:00"
 }
