@@ -2,28 +2,6 @@
   "last_collected": "2026-04-06T13:57:07.247328+00:00",
   "queue": [
     {
-      "tweet": "Over a million people are displaced in Lebanon right now. It's crazy how we just scroll past that like it's normal news.",
-      "original_url": "https://www.aljazeera.com/gallery/2026/4/6/israeli-airstrikes-devastate-lebanese-villages-and-displace-millions?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Up to 1.2 million people forced to flee as Israel pummels Lebanon",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-06T10:35:55.049134+00:00"
-    },
-    {
-      "tweet": "Saw this thing about how we're all just drifting into not knowing what our own tech is doing. That's honestly the most honest thing I've read all week.",
-      "original_url": "https://ergosphere.blog/posts/the-machines-are-fine/",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "The threat is comfortable drift toward not understanding what you're doing",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-06T10:35:55.049121+00:00"
-    },
-    {
       "tweet": "Palace and Nike are dropping those Air Max 95s again. We say we're tired of collabs but we're all still gonna try to cop",
       "original_url": "https://hypebeast.com/2026/4/palace-skateboards-nike-air-max-95-shoe-apparel-capsule-collaboration-collection-release-info",
       "buzz_score": 80,
@@ -145,6 +123,39 @@
       "added_at": "2026-04-06T08:02:47.251491+00:00"
     },
     {
+      "tweet": "Man Utd are already trying to dump Ugarte. At this point the transfer strategy is just throwing darts at a board.",
+      "original_url": "https://www.bbc.com/sport/football/articles/ckg92wqjrpeo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Man Utd look to offload Ugarte - Monday gossip",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-05T23:55:53.317354+00:00"
+    },
+    {
+      "tweet": "They're having dating events in Tokyo for people who have the same last name because Japan won't let couples change theirs. We're really just finding any reason to meet someone.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/06/when-suzuki-met-suzuki-tokyo-dating-agency-matching-surnames-japan",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "When Suzuki met Suzuki: why a Tokyo dating agency is matching couples with the same name",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-06T04:21:17.194779+00:00"
+    },
+    {
+      "tweet": "That farming town shut down the ICE detention center plan in their backyard. Guess they realized NIMBY is the only way to get anything done.",
+      "original_url": "https://www.bbc.com/news/articles/cje47vy0w3ko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "ICE wanted to build a detention centre -  this small farming town said no",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-05T23:55:53.317370+00:00"
+    },
+    {
       "tweet": "They're ranking one-club men like Totti and Maldini. That kind of loyalty doesn't exist anymore.",
       "original_url": "https://www.bbc.com/sport/football/articles/cqxl2w1r7rwo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -178,17 +189,6 @@
       "added_at": "2026-04-06T08:02:47.251489+00:00"
     },
     {
-      "tweet": "Man Utd are already trying to dump Ugarte. At this point the transfer strategy is just throwing darts at a board.",
-      "original_url": "https://www.bbc.com/sport/football/articles/ckg92wqjrpeo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Man Utd look to offload Ugarte - Monday gossip",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-05T23:55:53.317354+00:00"
-    },
-    {
       "tweet": "Everyone is trying to figure out how to stop the war on Iran and Trump is just keeping the whole world off balance with these threats. Absolute chaos",
       "original_url": "https://www.nytimes.com/2026/04/06/world/europe/iran-trump-threats.html",
       "buzz_score": 85,
@@ -198,94 +198,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-06T13:57:07.245992+00:00"
-    },
-    {
-      "tweet": "They're having dating events in Tokyo for people who have the same last name because Japan won't let couples change theirs. We're really just finding any reason to meet someone.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/06/when-suzuki-met-suzuki-tokyo-dating-agency-matching-surnames-japan",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "When Suzuki met Suzuki: why a Tokyo dating agency is matching couples with the same name",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-06T04:21:17.194779+00:00"
-    },
-    {
-      "tweet": "That farming town shut down the ICE detention center plan in their backyard. Guess they realized NIMBY is the only way to get anything done.",
-      "original_url": "https://www.bbc.com/news/articles/cje47vy0w3ko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "ICE wanted to build a detention centre -  this small farming town said no",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-05T23:55:53.317370+00:00"
-    },
-    {
-      "tweet": "People are saying it's time for Justin Rose to win the Masters. Every year it's the same story.",
-      "original_url": "https://www.bbc.com/sport/golf/articles/c1mkz2lejk0o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Why it's time for Rose to come of age at Masters",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-06T08:02:47.251517+00:00"
-    },
-    {
-      "tweet": "Saw this quiz where you guess movies from emojis. We've literally turned communication into hieroglyphics.",
-      "original_url": "https://www.mentalfloss.com/quizzes/guess-disney-movie-emojis?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Quiz: How Fast Can You Guess the Disney Movie From Three Emojis?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-06T08:02:47.251513+00:00"
-    },
-    {
-      "tweet": "Some guy on HN just made a better YouTube search filter than Google. Why do we keep using the official one.",
-      "original_url": "https://playlists.at/youtube/search/",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Show HN: I made a YouTube search form with advanced filters",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-06T08:02:47.251509+00:00"
-    },
-    {
-      "tweet": "Only 24 people have ever left low earth orbit. Kinda wild to think about.",
-      "original_url": "https://bigthink.com/starts-with-a-bang/something-special-happening-space/",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Something special is happening in space right now",
-      "source": "Big Think",
-      "category": "trivia",
-      "added_at": "2026-04-06T08:02:47.251506+00:00"
-    },
-    {
-      "tweet": "The new Xiaomi 17 Ultra has these weird hardware add-ons for the camera. Like, we're carrying cameras again.",
-      "original_url": "https://techcrunch.com/2026/04/06/xiaomi-17-ultra-review-camera-leica-specs-photography-kit-pro/",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The Xiaomi 17 Ultra has some impressive add-ons that make snapping photos really fun",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-04-06T08:02:47.251504+00:00"
-    },
-    {
-      "tweet": "District Vision and New Balance are collabing on the 1080v15. My bank account is sweating already.",
-      "original_url": "https://hypebeast.com/2026/4/district-vision-new-balance-1080v15-collaboration-release-info",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "District Vision and New Balance Reunite for a Minimalist Take on the 1080v15",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-06T08:02:47.251497+00:00"
     },
     {
       "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
@@ -365,6 +277,72 @@
       "added_at": "2026-04-05T19:48:04.864444+00:00"
     },
     {
+      "tweet": "People are saying it's time for Justin Rose to win the Masters. Every year it's the same story.",
+      "original_url": "https://www.bbc.com/sport/golf/articles/c1mkz2lejk0o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Why it's time for Rose to come of age at Masters",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-06T08:02:47.251517+00:00"
+    },
+    {
+      "tweet": "Saw this quiz where you guess movies from emojis. We've literally turned communication into hieroglyphics.",
+      "original_url": "https://www.mentalfloss.com/quizzes/guess-disney-movie-emojis?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Quiz: How Fast Can You Guess the Disney Movie From Three Emojis?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-06T08:02:47.251513+00:00"
+    },
+    {
+      "tweet": "Some guy on HN just made a better YouTube search filter than Google. Why do we keep using the official one.",
+      "original_url": "https://playlists.at/youtube/search/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Show HN: I made a YouTube search form with advanced filters",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-06T08:02:47.251509+00:00"
+    },
+    {
+      "tweet": "Only 24 people have ever left low earth orbit. Kinda wild to think about.",
+      "original_url": "https://bigthink.com/starts-with-a-bang/something-special-happening-space/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Something special is happening in space right now",
+      "source": "Big Think",
+      "category": "trivia",
+      "added_at": "2026-04-06T08:02:47.251506+00:00"
+    },
+    {
+      "tweet": "The new Xiaomi 17 Ultra has these weird hardware add-ons for the camera. Like, we're carrying cameras again.",
+      "original_url": "https://techcrunch.com/2026/04/06/xiaomi-17-ultra-review-camera-leica-specs-photography-kit-pro/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Xiaomi 17 Ultra has some impressive add-ons that make snapping photos really fun",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-04-06T08:02:47.251504+00:00"
+    },
+    {
+      "tweet": "District Vision and New Balance are collabing on the 1080v15. My bank account is sweating already.",
+      "original_url": "https://hypebeast.com/2026/4/district-vision-new-balance-1080v15-collaboration-release-info",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "District Vision and New Balance Reunite for a Minimalist Take on the 1080v15",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-06T08:02:47.251497+00:00"
+    },
+    {
       "tweet": "Iran is straight up ignoring that deadline Trump gave them for the Strait of Hormuz. What's the point of a deadline if they just say no?",
       "original_url": "https://www.npr.org/2026/04/06/nx-s1-5775383/iran-war-updates",
       "buzz_score": 70,
@@ -374,28 +352,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-04-06T10:35:55.049149+00:00"
-    },
-    {
-      "tweet": "Monsta X is hitting North America for their tour after that new album. Every time a band announces dates I realize how broke I am",
-      "original_url": "https://www.billboard.com/music/concerts/monsta-x-2026-the-x-nexus-world-tour-dates-north-america-1236215603/",
-      "buzz_score": 75,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Monsta X Unveils North America Dates for THE X : NEXUS World Tour",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-06T13:57:07.246957+00:00"
-    },
-    {
-      "tweet": "They’re making dating sims for asexual players now because apparently the regular ones are just weird. Finally someone gets it",
-      "original_url": "https://www.polygon.com/ace-and-aro-heart-to-heart-interview/",
-      "buzz_score": 75,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Where are the asexual dating sims? Ace & Aro addresses a lack of representation",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-06T13:57:07.246403+00:00"
     },
     {
       "tweet": "My tarot reading just told me I'm stuck in urgency mode. I feel like that's just the default setting for everyone right now.",
@@ -508,15 +464,26 @@
       "added_at": "2026-04-05T10:01:38.215881+00:00"
     },
     {
-      "tweet": "They based that new Jedi in the Maul show on Obi-Wan. We're just remixing the same characters forever now.",
-      "original_url": "https://www.polygon.com/maul-shadow-lord-master-daki-obi-wan-kenobi/",
-      "buzz_score": 65,
-      "buzz_score2": 88,
+      "tweet": "Monsta X is hitting North America for their tour after that new album. Every time a band announces dates I realize how broke I am",
+      "original_url": "https://www.billboard.com/music/concerts/monsta-x-2026-the-x-nexus-world-tour-dates-north-america-1236215603/",
+      "buzz_score": 75,
+      "buzz_score2": 85,
       "rewrite_count": 0,
-      "original_title": "How Maul: Shadow Lord's coolest new Jedi was inspired by Obi-Wan Kenobi",
+      "original_title": "Monsta X Unveils North America Dates for THE X : NEXUS World Tour",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-06T13:57:07.246957+00:00"
+    },
+    {
+      "tweet": "They’re making dating sims for asexual players now because apparently the regular ones are just weird. Finally someone gets it",
+      "original_url": "https://www.polygon.com/ace-and-aro-heart-to-heart-interview/",
+      "buzz_score": 75,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Where are the asexual dating sims? Ace & Aro addresses a lack of representation",
       "source": "Polygon",
       "category": "entertainment",
-      "added_at": "2026-04-06T10:35:55.049556+00:00"
+      "added_at": "2026-04-06T13:57:07.246403+00:00"
     },
     {
       "tweet": "So apparently Charli xcx's management is scrambling to explain those Sky Ferreira credits. Messy.",
@@ -530,37 +497,15 @@
       "added_at": "2026-04-06T04:21:17.194772+00:00"
     },
     {
-      "tweet": "TOMORROW X TOGETHER dropped the tracklist for their eighth album. Eight albums in seven years is just absurd",
-      "original_url": "https://www.billboard.com/music/pop/tomorrow-x-together-tracklist-concept-photos-8th-mini-album-1236215630/",
-      "buzz_score": 70,
-      "buzz_score2": 85,
+      "tweet": "They based that new Jedi in the Maul show on Obi-Wan. We're just remixing the same characters forever now.",
+      "original_url": "https://www.polygon.com/maul-shadow-lord-master-daki-obi-wan-kenobi/",
+      "buzz_score": 65,
+      "buzz_score2": 88,
       "rewrite_count": 0,
-      "original_title": "TOMORROW X TOGETHER Unwrap Tracklist and Concept Photos For Eighth Mini-Album: ‘7th YEAR: A Moment of Stillness in the Thorns’",
-      "source": "Billboard",
+      "original_title": "How Maul: Shadow Lord's coolest new Jedi was inspired by Obi-Wan Kenobi",
+      "source": "Polygon",
       "category": "entertainment",
-      "added_at": "2026-04-06T13:57:07.247081+00:00"
-    },
-    {
-      "tweet": "DR Congo just agreed to take deportees from the US but they won't even say how many. Just leaving that door wide open",
-      "original_url": "https://www.bbc.com/news/articles/c20d35eejxgo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "DR Congo agrees to take deportees from the US",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-06T13:57:07.246648+00:00"
-    },
-    {
-      "tweet": "Thailand is asking everyone to work from home to save energy because of the conflict. At what point do we stop pretending this is normal",
-      "original_url": "https://www.theguardian.com/world/2026/apr/06/thailand-pm-calls-for-energy-saving-as-middle-east-conflict-drives-price-surge",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Thailand PM calls for energy saving as Middle East conflict drives price surge",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-06T13:57:07.245999+00:00"
+      "added_at": "2026-04-06T10:35:55.049556+00:00"
     },
     {
       "tweet": "They found universal grammar patterns across seventeen hundred languages. Turns out we're all wired the same way regardless.",
@@ -673,6 +618,39 @@
       "added_at": "2026-04-05T10:01:38.215904+00:00"
     },
     {
+      "tweet": "TOMORROW X TOGETHER dropped the tracklist for their eighth album. Eight albums in seven years is just absurd",
+      "original_url": "https://www.billboard.com/music/pop/tomorrow-x-together-tracklist-concept-photos-8th-mini-album-1236215630/",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "TOMORROW X TOGETHER Unwrap Tracklist and Concept Photos For Eighth Mini-Album: ‘7th YEAR: A Moment of Stillness in the Thorns’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-06T13:57:07.247081+00:00"
+    },
+    {
+      "tweet": "DR Congo just agreed to take deportees from the US but they won't even say how many. Just leaving that door wide open",
+      "original_url": "https://www.bbc.com/news/articles/c20d35eejxgo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "DR Congo agrees to take deportees from the US",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-06T13:57:07.246648+00:00"
+    },
+    {
+      "tweet": "Thailand is asking everyone to work from home to save energy because of the conflict. At what point do we stop pretending this is normal",
+      "original_url": "https://www.theguardian.com/world/2026/apr/06/thailand-pm-calls-for-energy-saving-as-middle-east-conflict-drives-price-surge",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Thailand PM calls for energy saving as Middle East conflict drives price surge",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-06T13:57:07.245999+00:00"
+    },
+    {
       "tweet": "That earth photo from the Artemis II crew is insane. Makes everything look so small.",
       "original_url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
       "buzz_score": 78,
@@ -717,17 +695,6 @@
       "added_at": "2026-04-05T07:59:31.023872+00:00"
     },
     {
-      "tweet": "Lijnders is out here talking about how every good story ends regarding Bernardo Silva. Just say he's leaving, man.",
-      "original_url": "https://www.bbc.com/sport/football/videos/c4g6j73v12po?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 60,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Lijnders on replacing 'unique' Silva",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-06T10:35:55.049433+00:00"
-    },
-    {
       "tweet": "Luka's going to Europe for special hamstring treatment because regular rehab just ain't cutting it. Everyone's just trying to survive the season at this point.",
       "original_url": "https://www.espn.com/nba/story/_/id/48409097/luka-doncic-hamstring-seek-specialized-treatment-europe",
       "buzz_score": 80,
@@ -759,6 +726,17 @@
       "source": "The Verge",
       "category": "tech",
       "added_at": "2026-04-05T12:32:42.482696+00:00"
+    },
+    {
+      "tweet": "Lijnders is out here talking about how every good story ends regarding Bernardo Silva. Just say he's leaving, man.",
+      "original_url": "https://www.bbc.com/sport/football/videos/c4g6j73v12po?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 60,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Lijnders on replacing 'unique' Silva",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-06T10:35:55.049433+00:00"
     },
     {
       "tweet": "Leeds are actually in the FA Cup semi-finals for the first time in 39 years. Bananas.",
@@ -904,17 +882,6 @@
       "added_at": "2026-04-05T07:59:31.023855+00:00"
     },
     {
-      "tweet": "That gray whale Willapa Willy died after swimming up a river in Washington because it was starving. Man, that’s rough",
-      "original_url": "https://www.bbc.com/news/articles/cew7n4glz54o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 80,
-      "rewrite_count": 0,
-      "original_title": "Young gray whale dies after swimming up river in Washington state",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-06T13:57:07.246810+00:00"
-    },
-    {
       "tweet": "Diesel prices in Vietnam just doubled because of that Iran blockade. It's wild how one war halfway across the world ruins your commute.",
       "original_url": "https://www.aljazeera.com/economy/2026/4/6/vietnams-gig-workers-slammed-by-rising-fuel-costs-amid-fallout-of-iran-war?traffic_source=rss",
       "buzz_score": 70,
@@ -1012,6 +979,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-05T10:01:38.215908+00:00"
+    },
+    {
+      "tweet": "That gray whale Willapa Willy died after swimming up a river in Washington because it was starving. Man, that’s rough",
+      "original_url": "https://www.bbc.com/news/articles/cew7n4glz54o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 80,
+      "rewrite_count": 0,
+      "original_title": "Young gray whale dies after swimming up river in Washington state",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-06T13:57:07.246810+00:00"
     }
   ],
   "seen_urls": [
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 74,
+    "total_posted": 76,
     "total_collected": 180
   },
-  "last_posted_at": "2026-04-06T14:47:18.234786+00:00"
+  "last_posted_at": "2026-04-06T15:38:42.869439+00:00"
 }
