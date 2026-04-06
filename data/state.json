@@ -2,28 +2,6 @@
   "last_collected": "2026-04-06T21:29:25.775925+00:00",
   "queue": [
     {
-      "tweet": "Protesters are swarming the US embassy in Tel Aviv right now. It's like the whole world is just hitting a breaking point.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/protesters-swarm-us-embassy-in-tel-aviv-demanding-end-of-wars?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Protesters swarm US embassy in Tel Aviv, demanding end of wars",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-06T21:29:25.775318+00:00"
-    },
-    {
-      "tweet": "Billboard really ranked every Ye solo album. At this point who even has the energy to argue about it?",
-      "original_url": "https://www.billboard.com/lists/kanye-west-albums-ranked/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "All of Ye’s Solo Albums Ranked From Worst to Best: Critics’ Picks",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-06T21:29:25.775299+00:00"
-    },
-    {
       "tweet": "Nine cops in India just got sentenced to death for those custody killings. That's heavy.",
       "original_url": "https://www.bbc.com/news/articles/ce8l0md9gl1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -101,17 +79,6 @@
       "added_at": "2026-04-06T10:35:55.049147+00:00"
     },
     {
-      "tweet": "Sabrina Carpenter and that whole crew are making larceny look like a fashion shoot in the new video. Just bizarre.",
-      "original_url": "https://www.billboard.com/music/music-news/sabrina-carpenter-house-tour-video-margaret-qualley-1236215682/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sabrina Carpenter, Margaret Qualley & Madelyn Cline Make Grand Theft Larceny Look Chic in ‘House Tour’ Video",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-06T16:10:20.648818+00:00"
-    },
-    {
       "tweet": "Man Utd are already trying to dump Ugarte. At this point the transfer strategy is just throwing darts at a board.",
       "original_url": "https://www.bbc.com/sport/football/articles/ckg92wqjrpeo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 88,
@@ -123,26 +90,15 @@
       "added_at": "2026-04-05T23:55:53.317354+00:00"
     },
     {
-      "tweet": "Palace and Nike are dropping those Air Max 95s again. We say we're tired of collabs but we're all still gonna try to cop",
-      "original_url": "https://hypebeast.com/2026/4/palace-skateboards-nike-air-max-95-shoe-apparel-capsule-collaboration-collection-release-info",
-      "buzz_score": 80,
+      "tweet": "Sabrina Carpenter and that whole crew are making larceny look like a fashion shoot in the new video. Just bizarre.",
+      "original_url": "https://www.billboard.com/music/music-news/sabrina-carpenter-house-tour-video-margaret-qualley-1236215682/",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Palace Skateboards and Nike Reunite for an Air Max 95 Collaboration",
-      "source": "Hypebeast",
+      "original_title": "Sabrina Carpenter, Margaret Qualley & Madelyn Cline Make Grand Theft Larceny Look Chic in ‘House Tour’ Video",
+      "source": "Billboard",
       "category": "entertainment",
-      "added_at": "2026-04-06T13:57:07.246278+00:00"
-    },
-    {
-      "tweet": "Did you see France just pulled their gold out of the US for a fifteen billion dollar gain. Wild that they just didn't trust us to keep it anymore",
-      "original_url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "France pulls last gold held in US for $15B gain",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-06T13:57:07.245986+00:00"
+      "added_at": "2026-04-06T16:10:20.648818+00:00"
     },
     {
       "tweet": "So apparently Australian gas stations are running out of diesel despite that tax relief. How does that even happen?",
@@ -178,15 +134,26 @@
       "added_at": "2026-04-05T23:55:53.317370+00:00"
     },
     {
-      "tweet": "Lamar Jackson is already back at the Ravens workouts. Guess that's just what being a pro looks like.",
-      "original_url": "https://www.espn.com/nfl/story/_/id/48412392/lamar-jackson-reports-start-ravens-offseason-workouts",
-      "buzz_score": 70,
+      "tweet": "Palace and Nike are dropping those Air Max 95s again. We say we're tired of collabs but we're all still gonna try to cop",
+      "original_url": "https://hypebeast.com/2026/4/palace-skateboards-nike-air-max-95-shoe-apparel-capsule-collaboration-collection-release-info",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Lamar reports for beginning of Ravens' workouts",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-06T16:10:20.648975+00:00"
+      "original_title": "Palace Skateboards and Nike Reunite for an Air Max 95 Collaboration",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-06T13:57:07.246278+00:00"
+    },
+    {
+      "tweet": "Did you see France just pulled their gold out of the US for a fifteen billion dollar gain. Wild that they just didn't trust us to keep it anymore",
+      "original_url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "France pulls last gold held in US for $15B gain",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-06T13:57:07.245986+00:00"
     },
     {
       "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
@@ -211,15 +178,15 @@
       "added_at": "2026-04-05T23:55:53.317362+00:00"
     },
     {
-      "tweet": "ESPN just drafted 32 mock trades for the first round of the NFL draft. Dude, they really have nothing to do until Sunday",
-      "original_url": "https://www.espn.com/nfl/draft2026/story/_/id/48373315/2026-nfl-mock-draft-all-trades-barnwell-deals-32-round-1-picks-players-mccarthy-crosby",
-      "buzz_score": 75,
+      "tweet": "Lamar Jackson is already back at the Ravens workouts. Guess that's just what being a pro looks like.",
+      "original_url": "https://www.espn.com/nfl/story/_/id/48412392/lamar-jackson-reports-start-ravens-offseason-workouts",
+      "buzz_score": 70,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Trade offers for every first-round NFL draft pick: We made deals for J.J. McCarthy, Maxx Crosby",
+      "original_title": "Lamar reports for beginning of Ravens' workouts",
       "source": "ESPN",
       "category": "sports",
-      "added_at": "2026-04-06T13:57:07.245994+00:00"
+      "added_at": "2026-04-06T16:10:20.648975+00:00"
     },
     {
       "tweet": "This woman worked for twenty years and paid into Medicare, and now they're just cutting her off because of that new policy. Absolute mess.",
@@ -330,6 +297,17 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-06T10:35:55.049145+00:00"
+    },
+    {
+      "tweet": "ESPN just drafted 32 mock trades for the first round of the NFL draft. Dude, they really have nothing to do until Sunday",
+      "original_url": "https://www.espn.com/nfl/draft2026/story/_/id/48373315/2026-nfl-mock-draft-all-trades-barnwell-deals-32-round-1-picks-players-mccarthy-crosby",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trade offers for every first-round NFL draft pick: We made deals for J.J. McCarthy, Maxx Crosby",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-06T13:57:07.245994+00:00"
     },
     {
       "tweet": "Did you see how open they're being about Russia messing with that Hungary election? It's not even a secret anymore, they're just showing their work.",
@@ -495,17 +473,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-06T04:21:17.194772+00:00"
-    },
-    {
-      "tweet": "Pope Leo XIV is calling for peace, but it's not like the people actually fighting are checking their phones for updates.",
-      "original_url": "https://www.nytimes.com/2026/04/05/world/europe/pope-leo-easter.html",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Pope Leo XIV Calls for Peace in First Easter Mass",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-06T21:29:25.775791+00:00"
     },
     {
       "tweet": "People are saying it's time for Justin Rose to win the Masters. Every year it's the same story.",
@@ -684,6 +651,17 @@
       "added_at": "2026-04-05T10:01:38.215904+00:00"
     },
     {
+      "tweet": "Pope Leo XIV is calling for peace, but it's not like the people actually fighting are checking their phones for updates.",
+      "original_url": "https://www.nytimes.com/2026/04/05/world/europe/pope-leo-easter.html",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Pope Leo XIV Calls for Peace in First Easter Mass",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-06T21:29:25.775791+00:00"
+    },
+    {
       "tweet": "That earth photo from the Artemis II crew is insane. Makes everything look so small.",
       "original_url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
       "buzz_score": 78,
@@ -739,17 +717,6 @@
       "added_at": "2026-04-06T10:35:55.049149+00:00"
     },
     {
-      "tweet": "Everyone is trying to figure out how to stop the war on Iran and Trump is just keeping the whole world off balance with these threats. Absolute chaos",
-      "original_url": "https://www.nytimes.com/2026/04/06/world/europe/iran-trump-threats.html",
-      "buzz_score": 85,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "On Iran, Trump Keeps World Off Balance With Ever-Changing Threats",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-06T13:57:07.245992+00:00"
-    },
-    {
       "tweet": "Someone actually charged for shooting that baby in Brooklyn. That is just brutal.",
       "original_url": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
       "buzz_score": 88,
@@ -761,6 +728,17 @@
       "added_at": "2026-04-05T07:59:31.023872+00:00"
     },
     {
+      "tweet": "Everyone is trying to figure out how to stop the war on Iran and Trump is just keeping the whole world off balance with these threats. Absolute chaos",
+      "original_url": "https://www.nytimes.com/2026/04/06/world/europe/iran-trump-threats.html",
+      "buzz_score": 85,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "On Iran, Trump Keeps World Off Balance With Ever-Changing Threats",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-06T13:57:07.245992+00:00"
+    },
+    {
       "tweet": "They based that new Jedi in the Maul show on Obi-Wan. We're just remixing the same characters forever now.",
       "original_url": "https://www.polygon.com/maul-shadow-lord-master-daki-obi-wan-kenobi/",
       "buzz_score": 65,
@@ -770,28 +748,6 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-06T10:35:55.049556+00:00"
-    },
-    {
-      "tweet": "Monsta X is hitting North America for their tour after that new album. Every time a band announces dates I realize how broke I am",
-      "original_url": "https://www.billboard.com/music/concerts/monsta-x-2026-the-x-nexus-world-tour-dates-north-america-1236215603/",
-      "buzz_score": 75,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Monsta X Unveils North America Dates for THE X : NEXUS World Tour",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-06T13:57:07.246957+00:00"
-    },
-    {
-      "tweet": "They’re making dating sims for asexual players now because apparently the regular ones are just weird. Finally someone gets it",
-      "original_url": "https://www.polygon.com/ace-and-aro-heart-to-heart-interview/",
-      "buzz_score": 75,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Where are the asexual dating sims? Ace & Aro addresses a lack of representation",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-06T13:57:07.246403+00:00"
     },
     {
       "tweet": "Luka's going to Europe for special hamstring treatment because regular rehab just ain't cutting it. Everyone's just trying to survive the season at this point.",
@@ -838,37 +794,26 @@
       "added_at": "2026-04-05T23:55:53.317352+00:00"
     },
     {
-      "tweet": "TOMORROW X TOGETHER dropped the tracklist for their eighth album. Eight albums in seven years is just absurd",
-      "original_url": "https://www.billboard.com/music/pop/tomorrow-x-together-tracklist-concept-photos-8th-mini-album-1236215630/",
-      "buzz_score": 70,
+      "tweet": "Monsta X is hitting North America for their tour after that new album. Every time a band announces dates I realize how broke I am",
+      "original_url": "https://www.billboard.com/music/concerts/monsta-x-2026-the-x-nexus-world-tour-dates-north-america-1236215603/",
+      "buzz_score": 75,
       "buzz_score2": 85,
       "rewrite_count": 0,
-      "original_title": "TOMORROW X TOGETHER Unwrap Tracklist and Concept Photos For Eighth Mini-Album: ‘7th YEAR: A Moment of Stillness in the Thorns’",
+      "original_title": "Monsta X Unveils North America Dates for THE X : NEXUS World Tour",
       "source": "Billboard",
       "category": "entertainment",
-      "added_at": "2026-04-06T13:57:07.247081+00:00"
+      "added_at": "2026-04-06T13:57:07.246957+00:00"
     },
     {
-      "tweet": "DR Congo just agreed to take deportees from the US but they won't even say how many. Just leaving that door wide open",
-      "original_url": "https://www.bbc.com/news/articles/c20d35eejxgo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
+      "tweet": "They’re making dating sims for asexual players now because apparently the regular ones are just weird. Finally someone gets it",
+      "original_url": "https://www.polygon.com/ace-and-aro-heart-to-heart-interview/",
+      "buzz_score": 75,
       "buzz_score2": 85,
       "rewrite_count": 0,
-      "original_title": "DR Congo agrees to take deportees from the US",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-06T13:57:07.246648+00:00"
-    },
-    {
-      "tweet": "Thailand is asking everyone to work from home to save energy because of the conflict. At what point do we stop pretending this is normal",
-      "original_url": "https://www.theguardian.com/world/2026/apr/06/thailand-pm-calls-for-energy-saving-as-middle-east-conflict-drives-price-surge",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Thailand PM calls for energy saving as Middle East conflict drives price surge",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-06T13:57:07.245999+00:00"
+      "original_title": "Where are the asexual dating sims? Ace & Aro addresses a lack of representation",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-06T13:57:07.246403+00:00"
     },
     {
       "tweet": "Latin Mafia is blowing up now. Turns out just being honest about your feelings is a solid strategy.",
@@ -979,6 +924,39 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-05T12:32:42.482671+00:00"
+    },
+    {
+      "tweet": "TOMORROW X TOGETHER dropped the tracklist for their eighth album. Eight albums in seven years is just absurd",
+      "original_url": "https://www.billboard.com/music/pop/tomorrow-x-together-tracklist-concept-photos-8th-mini-album-1236215630/",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "TOMORROW X TOGETHER Unwrap Tracklist and Concept Photos For Eighth Mini-Album: ‘7th YEAR: A Moment of Stillness in the Thorns’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-06T13:57:07.247081+00:00"
+    },
+    {
+      "tweet": "DR Congo just agreed to take deportees from the US but they won't even say how many. Just leaving that door wide open",
+      "original_url": "https://www.bbc.com/news/articles/c20d35eejxgo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "DR Congo agrees to take deportees from the US",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-06T13:57:07.246648+00:00"
+    },
+    {
+      "tweet": "Thailand is asking everyone to work from home to save energy because of the conflict. At what point do we stop pretending this is normal",
+      "original_url": "https://www.theguardian.com/world/2026/apr/06/thailand-pm-calls-for-energy-saving-as-middle-east-conflict-drives-price-surge",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Thailand PM calls for energy saving as Middle East conflict drives price surge",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-06T13:57:07.245999+00:00"
     },
     {
       "tweet": "Dusty May basically told Michigan he's not looking at any other jobs right now. Locked in.",
@@ -1996,8 +1974,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 94,
+    "total_posted": 96,
     "total_collected": 210
   },
-  "last_posted_at": "2026-04-06T22:41:46.529753+00:00"
+  "last_posted_at": "2026-04-06T23:17:09.958912+00:00"
 }
