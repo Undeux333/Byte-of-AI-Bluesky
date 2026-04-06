@@ -2,28 +2,6 @@
   "last_collected": "2026-04-06T16:10:20.649912+00:00",
   "queue": [
     {
-      "tweet": "I'm straight up refusing to download another app just to see a menu. If your web version works, I'm using it. We're all just tired of the clutter.",
-      "original_url": "https://www.0xsid.com/blog/wont-download-your-app",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "I Won't Download Your App. The Web Version Is A-OK",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-06T16:10:20.648801+00:00"
-    },
-    {
-      "tweet": "German mayors want a night-time ban on robot lawnmowers to save hedgehogs. We're literally losing the war to the grass.",
-      "original_url": "https://www.theguardian.com/environment/2026/apr/06/german-mayors-call-for-night-time-ban-on-robot-lawnmowers-to-protect-hedgehogs",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "German mayors call for night-time ban on robot lawnmowers to protect hedgehogs",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-06T16:10:20.649539+00:00"
-    },
-    {
       "tweet": "Trump is threatening to just torch Iran’s power plants if they don't open the strait by 8pm. That’s just standard Tuesday craziness now.",
       "original_url": "https://www.aljazeera.com/news/2026/4/6/where-are-irans-power-plants-that-trump-has-threatened-to-destroy?traffic_source=rss",
       "buzz_score": 85,
@@ -178,6 +156,17 @@
       "added_at": "2026-04-06T10:35:55.049136+00:00"
     },
     {
+      "tweet": "Man Utd are already trying to dump Ugarte. At this point the transfer strategy is just throwing darts at a board.",
+      "original_url": "https://www.bbc.com/sport/football/articles/ckg92wqjrpeo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Man Utd look to offload Ugarte - Monday gossip",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-05T23:55:53.317354+00:00"
+    },
+    {
       "tweet": "Apparently there's some line in that Maul show that changes how Star Wars works. We're really just making it up as we go now.",
       "original_url": "https://www.polygon.com/star-wars-darth-maul-shadow-lord-laser-sword/",
       "buzz_score": 78,
@@ -189,17 +178,6 @@
       "added_at": "2026-04-06T10:35:55.049145+00:00"
     },
     {
-      "tweet": "Did you see how open they're being about Russia messing with that Hungary election? It's not even a secret anymore, they're just showing their work.",
-      "original_url": "https://www.nytimes.com/2026/04/06/world/europe/viktor-orban-hungary-election-russia.html",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "A Hidden Russian Hand in Hungary’s Election? Actually, It’s Quite Open.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-06T10:35:55.049124+00:00"
-    },
-    {
       "tweet": "So apparently Australian gas stations are running out of diesel despite that tax relief. How does that even happen?",
       "original_url": "https://www.theguardian.com/australia-news/2026/apr/06/diesel-price-access-australia-fuel-volatile",
       "buzz_score": 85,
@@ -209,17 +187,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-06T08:02:47.251494+00:00"
-    },
-    {
-      "tweet": "Man Utd are already trying to dump Ugarte. At this point the transfer strategy is just throwing darts at a board.",
-      "original_url": "https://www.bbc.com/sport/football/articles/ckg92wqjrpeo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Man Utd look to offload Ugarte - Monday gossip",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-05T23:55:53.317354+00:00"
     },
     {
       "tweet": "They're having dating events in Tokyo for people who have the same last name because Japan won't let couples change theirs. We're really just finding any reason to meet someone.",
@@ -244,26 +211,15 @@
       "added_at": "2026-04-05T23:55:53.317370+00:00"
     },
     {
-      "tweet": "Curry's finally back for the Warriors. Glad he's back, man.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48409996/stephen-curry-puts-29-return-nearly-hands-warriors-win",
-      "buzz_score": 80,
+      "tweet": "Did you see how open they're being about Russia messing with that Hungary election? It's not even a secret anymore, they're just showing their work.",
+      "original_url": "https://www.nytimes.com/2026/04/06/world/europe/viktor-orban-hungary-election-russia.html",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Curry returns, puts Warriors 'back in the fight'",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-06T08:02:47.251515+00:00"
-    },
-    {
-      "tweet": "Steph Curry finally returns with 29 points and they still drop the game to the Rockets. Tough.",
-      "original_url": "https://www.aljazeera.com/sports/2026/4/6/steph-curry-returns-from-injury-with-29-points-but-warriors-lose-to-rockets?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Steph Curry returns from injury with 29 points but Warriors lose to Rockets",
-      "source": "Al Jazeera",
+      "original_title": "A Hidden Russian Hand in Hungary’s Election? Actually, It’s Quite Open.",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-04-06T08:02:47.251491+00:00"
+      "added_at": "2026-04-06T10:35:55.049124+00:00"
     },
     {
       "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
@@ -286,6 +242,28 @@
       "source": "Deadline",
       "category": "entertainment",
       "added_at": "2026-04-05T23:55:53.317362+00:00"
+    },
+    {
+      "tweet": "Curry's finally back for the Warriors. Glad he's back, man.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48409996/stephen-curry-puts-29-return-nearly-hands-warriors-win",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Curry returns, puts Warriors 'back in the fight'",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-06T08:02:47.251515+00:00"
+    },
+    {
+      "tweet": "Steph Curry finally returns with 29 points and they still drop the game to the Rockets. Tough.",
+      "original_url": "https://www.aljazeera.com/sports/2026/4/6/steph-curry-returns-from-injury-with-29-points-but-warriors-lose-to-rockets?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Steph Curry returns from injury with 29 points but Warriors lose to Rockets",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-06T08:02:47.251491+00:00"
     },
     {
       "tweet": "Apparently there's a list of 70 random things getting popular just 'cause they're cheap. We really will buy anything if it's on sale.",
@@ -374,17 +352,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-06T08:02:47.251489+00:00"
-    },
-    {
-      "tweet": "Everyone is trying to figure out how to stop the war on Iran and Trump is just keeping the whole world off balance with these threats. Absolute chaos",
-      "original_url": "https://www.nytimes.com/2026/04/06/world/europe/iran-trump-threats.html",
-      "buzz_score": 85,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "On Iran, Trump Keeps World Off Balance With Ever-Changing Threats",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-06T13:57:07.245992+00:00"
     },
     {
       "tweet": "My tarot reading just told me I'm stuck in urgency mode. I feel like that's just the default setting for everyone right now.",
@@ -497,6 +464,28 @@
       "added_at": "2026-04-05T10:01:38.215881+00:00"
     },
     {
+      "tweet": "Everyone is trying to figure out how to stop the war on Iran and Trump is just keeping the whole world off balance with these threats. Absolute chaos",
+      "original_url": "https://www.nytimes.com/2026/04/06/world/europe/iran-trump-threats.html",
+      "buzz_score": 85,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "On Iran, Trump Keeps World Off Balance With Ever-Changing Threats",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-06T13:57:07.245992+00:00"
+    },
+    {
+      "tweet": "So apparently Charli xcx's management is scrambling to explain those Sky Ferreira credits. Messy.",
+      "original_url": "https://www.billboard.com/music/music-news/charli-xcx-sky-ferreira-wuthering-heights-credit-statement-1236215575/",
+      "buzz_score": 72,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Charli xcx Management Clarifies Sky Ferreira Claims About ‘Wuthering Heights’ Credits",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-06T04:21:17.194772+00:00"
+    },
+    {
       "tweet": "People are saying it's time for Justin Rose to win the Masters. Every year it's the same story.",
       "original_url": "https://www.bbc.com/sport/golf/articles/c1mkz2lejk0o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 70,
@@ -561,17 +550,6 @@
       "source": "Hypebeast",
       "category": "entertainment",
       "added_at": "2026-04-06T08:02:47.251497+00:00"
-    },
-    {
-      "tweet": "So apparently Charli xcx's management is scrambling to explain those Sky Ferreira credits. Messy.",
-      "original_url": "https://www.billboard.com/music/music-news/charli-xcx-sky-ferreira-wuthering-heights-credit-statement-1236215575/",
-      "buzz_score": 72,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Charli xcx Management Clarifies Sky Ferreira Claims About ‘Wuthering Heights’ Credits",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-06T04:21:17.194772+00:00"
     },
     {
       "tweet": "They found universal grammar patterns across seventeen hundred languages. Turns out we're all wired the same way regardless.",
@@ -695,6 +673,17 @@
       "added_at": "2026-04-06T10:35:55.049149+00:00"
     },
     {
+      "tweet": "That earth photo from the Artemis II crew is insane. Makes everything look so small.",
+      "original_url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+      "buzz_score": 78,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Artemis II crew take “spectacular” image of Earth",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-05T07:59:31.023880+00:00"
+    },
+    {
       "tweet": "Monsta X is hitting North America for their tour after that new album. Every time a band announces dates I realize how broke I am",
       "original_url": "https://www.billboard.com/music/concerts/monsta-x-2026-the-x-nexus-world-tour-dates-north-america-1236215603/",
       "buzz_score": 75,
@@ -717,6 +706,28 @@
       "added_at": "2026-04-06T13:57:07.246403+00:00"
     },
     {
+      "tweet": "China is basically locking down their entire drone industry. Guess you can't have nice things.",
+      "original_url": "https://www.nytimes.com/2026/04/05/world/asia/china-drone-regulations.html",
+      "buzz_score": 75,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "China Built the World’s Drone Industry. Now It’s Locking Down the Skies.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-05T07:59:31.023870+00:00"
+    },
+    {
+      "tweet": "Apparently Nazi scientists lied about that 9,000-year-old grave just to push their agenda. People really will weaponize anything, man.",
+      "original_url": "https://www.npr.org/2026/04/04/nx-s1-5763625/german-researchers-set-right-the-story-of-a-9-000-year-old-shamans-grave",
+      "buzz_score": 75,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "German researchers set right the story of a 9,000-year-old shaman's grave",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-05T07:59:31.023853+00:00"
+    },
+    {
       "tweet": "They based that new Jedi in the Maul show on Obi-Wan. We're just remixing the same characters forever now.",
       "original_url": "https://www.polygon.com/maul-shadow-lord-master-daki-obi-wan-kenobi/",
       "buzz_score": 65,
@@ -726,17 +737,6 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-06T10:35:55.049556+00:00"
-    },
-    {
-      "tweet": "That earth photo from the Artemis II crew is insane. Makes everything look so small.",
-      "original_url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "buzz_score": 78,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "Artemis II crew take “spectacular” image of Earth",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-05T07:59:31.023880+00:00"
     },
     {
       "tweet": "TOMORROW X TOGETHER dropped the tracklist for their eighth album. Eight albums in seven years is just absurd",
@@ -770,28 +770,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-06T13:57:07.245999+00:00"
-    },
-    {
-      "tweet": "China is basically locking down their entire drone industry. Guess you can't have nice things.",
-      "original_url": "https://www.nytimes.com/2026/04/05/world/asia/china-drone-regulations.html",
-      "buzz_score": 75,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "China Built the World’s Drone Industry. Now It’s Locking Down the Skies.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-05T07:59:31.023870+00:00"
-    },
-    {
-      "tweet": "Apparently Nazi scientists lied about that 9,000-year-old grave just to push their agenda. People really will weaponize anything, man.",
-      "original_url": "https://www.npr.org/2026/04/04/nx-s1-5763625/german-researchers-set-right-the-story-of-a-9-000-year-old-shamans-grave",
-      "buzz_score": 75,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "German researchers set right the story of a 9,000-year-old shaman's grave",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-05T07:59:31.023853+00:00"
     },
     {
       "tweet": "Someone actually charged for shooting that baby in Brooklyn. That is just brutal.",
@@ -959,17 +937,6 @@
       "added_at": "2026-04-05T12:32:42.482671+00:00"
     },
     {
-      "tweet": "Lijnders is out here talking about how every good story ends regarding Bernardo Silva. Just say he's leaving, man.",
-      "original_url": "https://www.bbc.com/sport/football/videos/c4g6j73v12po?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 60,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Lijnders on replacing 'unique' Silva",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-06T10:35:55.049433+00:00"
-    },
-    {
       "tweet": "Dusty May basically told Michigan he's not looking at any other jobs right now. Locked in.",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48407326/informs-michigan-not-pursuing-other-jobs",
       "buzz_score": 72,
@@ -1012,6 +979,17 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-05T23:55:53.317368+00:00"
+    },
+    {
+      "tweet": "Lijnders is out here talking about how every good story ends regarding Bernardo Silva. Just say he's leaving, man.",
+      "original_url": "https://www.bbc.com/sport/football/videos/c4g6j73v12po?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 60,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Lijnders on replacing 'unique' Silva",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-06T10:35:55.049433+00:00"
     }
   ],
   "seen_urls": [
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 80,
+    "total_posted": 82,
     "total_collected": 194
   },
-  "last_posted_at": "2026-04-06T17:11:01.319840+00:00"
+  "last_posted_at": "2026-04-06T18:09:14.750890+00:00"
 }
