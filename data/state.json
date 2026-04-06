@@ -2,28 +2,6 @@
   "last_collected": "2026-04-06T19:18:20.226610+00:00",
   "queue": [
     {
-      "tweet": "That State of Decay 3 trailer was basically a total lie, no zombie deer to be found. Just renders.",
-      "original_url": "https://kotaku.com/state-decay-3-zombie-dear-trailer-fake-2000685190",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "State Of Decay 3 Trailer Was Basically Fake As Dev Dashes Fan Hopes For Zombie Deer",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-06T16:10:20.649787+00:00"
-    },
-    {
-      "tweet": "Ukraine is hitting that Novorossiysk energy hub now. They're really going for the money source.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/6/ukraine-strikes-russian-black-sea-energy-hub-novorossiysk?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Ukraine strikes Russian Black Sea energy hub Novorossiysk",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-06T16:10:20.649225+00:00"
-    },
-    {
       "tweet": "Did you see that whole thing with the US airman being rescued out of Iran? The logistics on that were actually insane. Unbelievable.",
       "original_url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -156,39 +134,6 @@
       "added_at": "2026-04-05T23:55:53.317370+00:00"
     },
     {
-      "tweet": "This woman worked for twenty years and paid into Medicare, and now they're just cutting her off because of that new policy. Absolute mess.",
-      "original_url": "https://www.npr.org/2026/04/06/nx-s1-5770484/immigrants-tps-medicare-social-security-eligibility",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "She paid into Medicare for years. Trump's immigration policy will end her coverage",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-06T10:35:55.049305+00:00"
-    },
-    {
-      "tweet": "This kid in Australia got bit by a shark and just said he legged it out of there. Honestly, that's the only plan I'd have too.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/06/shark-attack-teenage-surfer-bitten-south-australia",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘I just legged it’: teenage shark bite victim recalls lucky escape while surfing in South Australia",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-06T10:35:55.049136+00:00"
-    },
-    {
-      "tweet": "Apparently there's some line in that Maul show that changes how Star Wars works. We're really just making it up as we go now.",
-      "original_url": "https://www.polygon.com/star-wars-darth-maul-shadow-lord-laser-sword/",
-      "buzz_score": 78,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "One line in Maul Shadow Lord reveals a mind-bending truth about Star Wars",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-06T10:35:55.049145+00:00"
-    },
-    {
       "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
       "original_url": "https://variety.com/2026/film/reviews/faces-of-death-review-1236706326/",
       "buzz_score": 82,
@@ -209,6 +154,28 @@
       "source": "Deadline",
       "category": "entertainment",
       "added_at": "2026-04-05T23:55:53.317362+00:00"
+    },
+    {
+      "tweet": "This woman worked for twenty years and paid into Medicare, and now they're just cutting her off because of that new policy. Absolute mess.",
+      "original_url": "https://www.npr.org/2026/04/06/nx-s1-5770484/immigrants-tps-medicare-social-security-eligibility",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "She paid into Medicare for years. Trump's immigration policy will end her coverage",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-06T10:35:55.049305+00:00"
+    },
+    {
+      "tweet": "This kid in Australia got bit by a shark and just said he legged it out of there. Honestly, that's the only plan I'd have too.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/06/shark-attack-teenage-surfer-bitten-south-australia",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘I just legged it’: teenage shark bite victim recalls lucky escape while surfing in South Australia",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-06T10:35:55.049136+00:00"
     },
     {
       "tweet": "Curry's finally back for the Warriors. Glad he's back, man.",
@@ -286,6 +253,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-05T19:48:04.864444+00:00"
+    },
+    {
+      "tweet": "Apparently there's some line in that Maul show that changes how Star Wars works. We're really just making it up as we go now.",
+      "original_url": "https://www.polygon.com/star-wars-darth-maul-shadow-lord-laser-sword/",
+      "buzz_score": 78,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "One line in Maul Shadow Lord reveals a mind-bending truth about Star Wars",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-06T10:35:55.049145+00:00"
     },
     {
       "tweet": "Did you see how open they're being about Russia messing with that Hungary election? It's not even a secret anymore, they're just showing their work.",
@@ -706,6 +684,17 @@
       "added_at": "2026-04-06T13:57:07.246403+00:00"
     },
     {
+      "tweet": "Someone actually charged for shooting that baby in Brooklyn. That is just brutal.",
+      "original_url": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Man charged over fatal shooting of baby in pram in New York",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-05T07:59:31.023872+00:00"
+    },
+    {
       "tweet": "They based that new Jedi in the Maul show on Obi-Wan. We're just remixing the same characters forever now.",
       "original_url": "https://www.polygon.com/maul-shadow-lord-master-daki-obi-wan-kenobi/",
       "buzz_score": 65,
@@ -748,17 +737,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-06T13:57:07.245999+00:00"
-    },
-    {
-      "tweet": "Someone actually charged for shooting that baby in Brooklyn. That is just brutal.",
-      "original_url": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Man charged over fatal shooting of baby in pram in New York",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-05T07:59:31.023872+00:00"
     },
     {
       "tweet": "Luka's going to Europe for special hamstring treatment because regular rehab just ain't cutting it. Everyone's just trying to survive the season at this point.",
@@ -1974,8 +1952,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 84,
+    "total_posted": 86,
     "total_collected": 194
   },
-  "last_posted_at": "2026-04-06T19:24:19.379396+00:00"
+  "last_posted_at": "2026-04-06T20:11:59.101060+00:00"
 }
