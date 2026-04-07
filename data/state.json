@@ -46,39 +46,6 @@
       "added_at": "2026-04-07T12:42:10.616790+00:00"
     },
     {
-      "tweet": "Just saw a list of hit songs that are actually super sad. Guess we all just stop listening to the lyrics after a while.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/hit-songs-sound-happy-actually-sad?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "7 Hit Songs That Sound Happy But Are Actually Incredibly Sad",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-06T10:35:55.049147+00:00"
-    },
-    {
-      "tweet": "Man Utd are already trying to dump Ugarte. At this point the transfer strategy is just throwing darts at a board.",
-      "original_url": "https://www.bbc.com/sport/football/articles/ckg92wqjrpeo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Man Utd look to offload Ugarte - Monday gossip",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-05T23:55:53.317354+00:00"
-    },
-    {
-      "tweet": "Jack Black is out here giving serious interviews about why Koopas want to become Dry Bones. The man is just on another level.",
-      "original_url": "https://www.polygon.com/super-mario-galaxy-movie-suicide-coaster-dry-bones/",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Jack Black has opinions on the Super Mario Galaxy Movie's death-coaster",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-07T12:42:10.616792+00:00"
-    },
-    {
       "tweet": "Jonah Hill trying to navigate the whole Kanye situation is just bizarre. He's saying the hate sucks but he's still the greatest artist ever, make it make sense.",
       "original_url": "https://variety.com/2026/film/news/jonah-hill-kanye-liking-jews-21-jump-street-1236710061/",
       "buzz_score": 85,
@@ -154,6 +121,17 @@
       "source": "Deadline",
       "category": "entertainment",
       "added_at": "2026-04-05T23:55:53.317362+00:00"
+    },
+    {
+      "tweet": "Jack Black is out here giving serious interviews about why Koopas want to become Dry Bones. The man is just on another level.",
+      "original_url": "https://www.polygon.com/super-mario-galaxy-movie-suicide-coaster-dry-bones/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Jack Black has opinions on the Super Mario Galaxy Movie's death-coaster",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-07T12:42:10.616792+00:00"
     },
     {
       "tweet": "Willson Contreras got hit by a pitch for the 24th time this year. At what point does he just stop being nice about it",
@@ -849,6 +827,17 @@
       "added_at": "2026-04-07T09:41:35.447688+00:00"
     },
     {
+      "tweet": "Pakistan really hit a rehab center and called it a military target. Like, do they honestly think we can't tell the difference.",
+      "original_url": "https://www.nytimes.com/2026/04/07/world/asia/kabul-drug-rehab-pakistan-airstrike.html",
+      "buzz_score": 82,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Pakistan Says It Hit a Military Target. Investigations Suggest It Was a Rehab Center.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-07T09:41:35.446507+00:00"
+    },
+    {
       "tweet": "Seeing all these Ella Langley tracks popping up. Sometimes the stuff that isn't on the radio is actually better.",
       "original_url": "https://www.billboard.com/lists/ella-langley-best-songs-you-dont-know/",
       "buzz_score": 70,
@@ -880,17 +869,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-07T12:42:10.617207+00:00"
-    },
-    {
-      "tweet": "Pakistan really hit a rehab center and called it a military target. Like, do they honestly think we can't tell the difference.",
-      "original_url": "https://www.nytimes.com/2026/04/07/world/asia/kabul-drug-rehab-pakistan-airstrike.html",
-      "buzz_score": 82,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Pakistan Says It Hit a Military Target. Investigations Suggest It Was a Rehab Center.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-07T09:41:35.446507+00:00"
     },
     {
       "tweet": "LA stadium workers are asking FIFA to keep ICE away from the World Cup. It's crazy that they even have to ask for that.",
@@ -1930,8 +1908,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 126,
+    "total_posted": 128,
     "total_collected": 284
   },
-  "last_posted_at": "2026-04-07T18:44:56.462342+00:00"
+  "last_posted_at": "2026-04-07T19:47:50.225831+00:00"
 }
