@@ -2,28 +2,6 @@
   "last_collected": "2026-04-06T23:50:44.158812+00:00",
   "queue": [
     {
-      "tweet": "So Pepsi finally dropped their sponsorship for that Kanye show. I guess there’s a limit even for them.",
-      "original_url": "https://www.nytimes.com/2026/04/05/world/europe/ye-music-festival-pepsi-antisemitism.html",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Pepsi Drops Sponsorship of Wireless Festival Headlined by Kanye West",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-06T23:50:44.157845+00:00"
-    },
-    {
-      "tweet": "Did you hear? Trump is threatening to just take out Iran in one night if they don't open the strait by Tuesday. Just like that, huh.",
-      "original_url": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump threatens to take out Iran in 'one night' if no deal before deadline",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-06T23:50:44.157840+00:00"
-    },
-    {
       "tweet": "Gas is over 4 bucks a gallon again. I swear, every time I pull up to the pump, I just sit there for a second and stare at the screen.",
       "original_url": "https://www.npr.org/2026/04/06/nx-s1-5771628/gas-prices-are-high-what-can-you-do-about-it",
       "buzz_score": 85,
@@ -277,17 +255,6 @@
       "added_at": "2026-04-05T23:55:53.317370+00:00"
     },
     {
-      "tweet": "Sabrina Carpenter and that whole crew are making larceny look like a fashion shoot in the new video. Just bizarre.",
-      "original_url": "https://www.billboard.com/music/music-news/sabrina-carpenter-house-tour-video-margaret-qualley-1236215682/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sabrina Carpenter, Margaret Qualley & Madelyn Cline Make Grand Theft Larceny Look Chic in ‘House Tour’ Video",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-06T16:10:20.648818+00:00"
-    },
-    {
       "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
       "original_url": "https://variety.com/2026/film/reviews/faces-of-death-review-1236706326/",
       "buzz_score": 82,
@@ -431,17 +398,6 @@
       "added_at": "2026-04-05T19:48:04.864444+00:00"
     },
     {
-      "tweet": "Lamar Jackson is already back at the Ravens workouts. Guess that's just what being a pro looks like.",
-      "original_url": "https://www.espn.com/nfl/story/_/id/48412392/lamar-jackson-reports-start-ravens-offseason-workouts",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Lamar reports for beginning of Ravens' workouts",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-06T16:10:20.648975+00:00"
-    },
-    {
       "tweet": "Apparently there's some line in that Maul show that changes how Star Wars works. We're really just making it up as we go now.",
       "original_url": "https://www.polygon.com/star-wars-darth-maul-shadow-lord-laser-sword/",
       "buzz_score": 78,
@@ -451,6 +407,17 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-06T10:35:55.049145+00:00"
+    },
+    {
+      "tweet": "Sabrina Carpenter and that whole crew are making larceny look like a fashion shoot in the new video. Just bizarre.",
+      "original_url": "https://www.billboard.com/music/music-news/sabrina-carpenter-house-tour-video-margaret-qualley-1236215682/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sabrina Carpenter, Margaret Qualley & Madelyn Cline Make Grand Theft Larceny Look Chic in ‘House Tour’ Video",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-06T16:10:20.648818+00:00"
     },
     {
       "tweet": "ESPN just drafted 32 mock trades for the first round of the NFL draft. Dude, they really have nothing to do until Sunday",
@@ -616,6 +583,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-05T10:01:38.215881+00:00"
+    },
+    {
+      "tweet": "Lamar Jackson is already back at the Ravens workouts. Guess that's just what being a pro looks like.",
+      "original_url": "https://www.espn.com/nfl/story/_/id/48412392/lamar-jackson-reports-start-ravens-offseason-workouts",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Lamar reports for beginning of Ravens' workouts",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-06T16:10:20.648975+00:00"
     },
     {
       "tweet": "So apparently Charli xcx's management is scrambling to explain those Sky Ferreira credits. Messy.",
@@ -805,17 +783,6 @@
       "added_at": "2026-04-05T10:01:38.215904+00:00"
     },
     {
-      "tweet": "Pope Leo XIV is calling for peace, but it's not like the people actually fighting are checking their phones for updates.",
-      "original_url": "https://www.nytimes.com/2026/04/05/world/europe/pope-leo-easter.html",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Pope Leo XIV Calls for Peace in First Easter Mass",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-06T21:29:25.775791+00:00"
-    },
-    {
       "tweet": "That earth photo from the Artemis II crew is insane. Makes everything look so small.",
       "original_url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
       "buzz_score": 78,
@@ -849,6 +816,17 @@
       "added_at": "2026-04-05T07:59:31.023853+00:00"
     },
     {
+      "tweet": "Pope Leo XIV is calling for peace, but it's not like the people actually fighting are checking their phones for updates.",
+      "original_url": "https://www.nytimes.com/2026/04/05/world/europe/pope-leo-easter.html",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Pope Leo XIV Calls for Peace in First Easter Mass",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-06T21:29:25.775791+00:00"
+    },
+    {
       "tweet": "Iran is straight up ignoring that deadline Trump gave them for the Strait of Hormuz. What's the point of a deadline if they just say no?",
       "original_url": "https://www.npr.org/2026/04/06/nx-s1-5775383/iran-war-updates",
       "buzz_score": 70,
@@ -858,17 +836,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-04-06T10:35:55.049149+00:00"
-    },
-    {
-      "tweet": "People are saying Microsoft hasn't had a real GUI strategy since the nineties. They're just moving buttons around at this point.",
-      "original_url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
-      "buzz_score": 60,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-06T21:29:25.775508+00:00"
     },
     {
       "tweet": "Someone actually charged for shooting that baby in Brooklyn. That is just brutal.",
@@ -902,6 +869,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-06T13:57:07.245992+00:00"
+    },
+    {
+      "tweet": "People are saying Microsoft hasn't had a real GUI strategy since the nineties. They're just moving buttons around at this point.",
+      "original_url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
+      "buzz_score": 60,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-06T21:29:25.775508+00:00"
     },
     {
       "tweet": "Luka's going to Europe for special hamstring treatment because regular rehab just ain't cutting it. Everyone's just trying to survive the season at this point.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 98,
+    "total_posted": 100,
     "total_collected": 226
   },
-  "last_posted_at": "2026-04-06T23:59:01.699030+00:00"
+  "last_posted_at": "2026-04-07T01:26:03.132579+00:00"
 }
