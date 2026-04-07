@@ -2,28 +2,6 @@
   "last_collected": "2026-04-07T09:41:35.448076+00:00",
   "queue": [
     {
-      "tweet": "So Montana is already cutting doula services because of budget stuff. Gotta love when they start with the most important people first.",
-      "original_url": "https://www.npr.org/2026/04/07/nx-s1-5775867/montana-federal-medicaid-cuts-doula-birth",
-      "buzz_score": 78,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Bracing for federal cuts, some states are already paring back Medicaid services",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-07T09:41:35.446504+00:00"
-    },
-    {
-      "tweet": "Ebike fires are hitting record highs in the UK this year. I keep mine in the hallway and now I’m definitely gonna be thinking about that tonight.",
-      "original_url": "https://www.theguardian.com/uk-news/2026/apr/07/ebike-escooter-fires-uk-rise-record-highs",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Ebike and e-scooter fires in UK rise to new record highs",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-06T23:50:44.157998+00:00"
-    },
-    {
       "tweet": "Apparently color just vanished from everything because of 'Agreeable Gray.' I looked around my apartment and realized I’m living in a grayscale photo.",
       "original_url": "https://bigthink.com/strange-maps/grayening-why-everything-is-gray/",
       "buzz_score": 75,
@@ -222,6 +200,17 @@
       "added_at": "2026-04-07T04:09:09.664963+00:00"
     },
     {
+      "tweet": "Just saw a list of hit songs that are actually super sad. Guess we all just stop listening to the lyrics after a while.",
+      "original_url": "https://www.mentalfloss.com/entertainment/music/hit-songs-sound-happy-actually-sad?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "7 Hit Songs That Sound Happy But Are Actually Incredibly Sad",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-06T10:35:55.049147+00:00"
+    },
+    {
       "tweet": "Blizzard finally fixed that Anran redesign in Overwatch. The old model looked nothing like the cinematic, it was brutal.",
       "original_url": "https://www.polygon.com/overwatchs-anran-redesign-blizzard-better/",
       "buzz_score": 75,
@@ -244,28 +233,6 @@
       "added_at": "2026-04-07T04:09:09.664960+00:00"
     },
     {
-      "tweet": "Post Malone is dropping a 40-track double album. That's way too much music.",
-      "original_url": "https://hypebeast.com/2026/4/post-malone-the-eternal-buzz-new-40-track-double-album-teaser",
-      "buzz_score": 85,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Post Malone Teases Massive 40-Track Double Album 'The Eternal Buzz'",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-07T09:41:35.447688+00:00"
-    },
-    {
-      "tweet": "Just saw a list of hit songs that are actually super sad. Guess we all just stop listening to the lyrics after a while.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/hit-songs-sound-happy-actually-sad?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "7 Hit Songs That Sound Happy But Are Actually Incredibly Sad",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-06T10:35:55.049147+00:00"
-    },
-    {
       "tweet": "Man Utd are already trying to dump Ugarte. At this point the transfer strategy is just throwing darts at a board.",
       "original_url": "https://www.bbc.com/sport/football/articles/ckg92wqjrpeo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 88,
@@ -277,15 +244,15 @@
       "added_at": "2026-04-05T23:55:53.317354+00:00"
     },
     {
-      "tweet": "Pakistan really hit a rehab center and called it a military target. Like, do they honestly think we can't tell the difference.",
-      "original_url": "https://www.nytimes.com/2026/04/07/world/asia/kabul-drug-rehab-pakistan-airstrike.html",
-      "buzz_score": 82,
+      "tweet": "Post Malone is dropping a 40-track double album. That's way too much music.",
+      "original_url": "https://hypebeast.com/2026/4/post-malone-the-eternal-buzz-new-40-track-double-album-teaser",
+      "buzz_score": 85,
       "buzz_score2": 85,
       "rewrite_count": 0,
-      "original_title": "Pakistan Says It Hit a Military Target. Investigations Suggest It Was a Rehab Center.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-07T09:41:35.446507+00:00"
+      "original_title": "Post Malone Teases Massive 40-Track Double Album 'The Eternal Buzz'",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-07T09:41:35.447688+00:00"
     },
     {
       "tweet": "Man, did you see that press conference after the Easter egg roll? He’s out there giving dark threats and everyone’s just like, cool, normal stuff.",
@@ -332,37 +299,15 @@
       "added_at": "2026-04-05T23:55:53.317370+00:00"
     },
     {
-      "tweet": "LA stadium workers are asking FIFA to keep ICE away from the World Cup. It's crazy that they even have to ask for that.",
-      "original_url": "https://www.aljazeera.com/sports/2026/4/7/los-angeles-stadium-workers-urge-fifa-to-bar-ice-from-world-cup?traffic_source=rss",
-      "buzz_score": 80,
+      "tweet": "Pakistan really hit a rehab center and called it a military target. Like, do they honestly think we can't tell the difference.",
+      "original_url": "https://www.nytimes.com/2026/04/07/world/asia/kabul-drug-rehab-pakistan-airstrike.html",
+      "buzz_score": 82,
       "buzz_score2": 85,
       "rewrite_count": 0,
-      "original_title": "Los Angeles Stadium workers urge FIFA to bar ICE from World Cup",
-      "source": "Al Jazeera",
+      "original_title": "Pakistan Says It Hit a Military Target. Investigations Suggest It Was a Rehab Center.",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-04-07T09:41:35.447194+00:00"
-    },
-    {
-      "tweet": "Wait, Harry Maguire actually signed another year at United. I'm speechless.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cly92470le8o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Maguire signs one-year contract at Man Utd",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-07T09:41:35.446942+00:00"
-    },
-    {
-      "tweet": "They're bombing nuclear facilities in Iran now. Do they really think radioactive fallout is gonna help with nonproliferation.",
-      "original_url": "https://www.aljazeera.com/video/quotable/2026/4/7/military-action-is-not-an-effective-means-to-pursue-nonproliferation?traffic_source=rss",
-      "buzz_score": 78,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "‘Military action is not an effective means to pursue nonproliferation’",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-07T09:41:35.447317+00:00"
+      "added_at": "2026-04-07T09:41:35.446507+00:00"
     },
     {
       "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
@@ -385,6 +330,28 @@
       "source": "Deadline",
       "category": "entertainment",
       "added_at": "2026-04-05T23:55:53.317362+00:00"
+    },
+    {
+      "tweet": "LA stadium workers are asking FIFA to keep ICE away from the World Cup. It's crazy that they even have to ask for that.",
+      "original_url": "https://www.aljazeera.com/sports/2026/4/7/los-angeles-stadium-workers-urge-fifa-to-bar-ice-from-world-cup?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Los Angeles Stadium workers urge FIFA to bar ICE from World Cup",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-07T09:41:35.447194+00:00"
+    },
+    {
+      "tweet": "Wait, Harry Maguire actually signed another year at United. I'm speechless.",
+      "original_url": "https://www.bbc.com/sport/football/articles/cly92470le8o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Maguire signs one-year contract at Man Utd",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-07T09:41:35.446942+00:00"
     },
     {
       "tweet": "Nine cops in India just got sentenced to death for those custody killings. That's heavy.",
@@ -530,6 +497,28 @@
       "added_at": "2026-04-05T19:48:04.864444+00:00"
     },
     {
+      "tweet": "They're bombing nuclear facilities in Iran now. Do they really think radioactive fallout is gonna help with nonproliferation.",
+      "original_url": "https://www.aljazeera.com/video/quotable/2026/4/7/military-action-is-not-an-effective-means-to-pursue-nonproliferation?traffic_source=rss",
+      "buzz_score": 78,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "‘Military action is not an effective means to pursue nonproliferation’",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-07T09:41:35.447317+00:00"
+    },
+    {
+      "tweet": "Apparently there's some line in that Maul show that changes how Star Wars works. We're really just making it up as we go now.",
+      "original_url": "https://www.polygon.com/star-wars-darth-maul-shadow-lord-laser-sword/",
+      "buzz_score": 78,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "One line in Maul Shadow Lord reveals a mind-bending truth about Star Wars",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-06T10:35:55.049145+00:00"
+    },
+    {
       "tweet": "Ye is out here saying he'll show change through his actions after that Wireless Festival thing. Good luck with that.",
       "original_url": "https://www.billboard.com/music/music-news/kanye-west-wireless-festival-criticism-statement-1236216580/",
       "buzz_score": 75,
@@ -550,28 +539,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-04-07T09:41:35.446502+00:00"
-    },
-    {
-      "tweet": "Apparently there's some line in that Maul show that changes how Star Wars works. We're really just making it up as we go now.",
-      "original_url": "https://www.polygon.com/star-wars-darth-maul-shadow-lord-laser-sword/",
-      "buzz_score": 78,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "One line in Maul Shadow Lord reveals a mind-bending truth about Star Wars",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-06T10:35:55.049145+00:00"
-    },
-    {
-      "tweet": "Albanese is running to Singapore to beg for petrol. Like, didn't they just say fuel prices were gonna go down.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/07/fuel-prices-petrol-australia-singapore-albanese-trip",
-      "buzz_score": 72,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Albanese brings forward Singapore trip and speaks with China in bid to shore up petrol shipments to Australia",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-07T09:41:35.447440+00:00"
     },
     {
       "tweet": "NASA is dropping wholesome content from Artemis II. We really just need anything that isn't a dumpster fire right now.",
@@ -770,6 +737,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-05T10:01:38.215881+00:00"
+    },
+    {
+      "tweet": "Albanese is running to Singapore to beg for petrol. Like, didn't they just say fuel prices were gonna go down.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/07/fuel-prices-petrol-australia-singapore-albanese-trip",
+      "buzz_score": 72,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Albanese brings forward Singapore trip and speaks with China in bid to shore up petrol shipments to Australia",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-07T09:41:35.447440+00:00"
     },
     {
       "tweet": "So apparently Charli xcx's management is scrambling to explain those Sky Ferreira credits. Messy.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 110,
+    "total_posted": 112,
     "total_collected": 268
   },
-  "last_posted_at": "2026-04-07T09:48:56.379304+00:00"
+  "last_posted_at": "2026-04-07T10:48:30.247782+00:00"
 }
