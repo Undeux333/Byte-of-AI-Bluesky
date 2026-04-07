@@ -2,50 +2,6 @@
   "last_collected": "2026-04-07T15:42:51.572946+00:00",
   "queue": [
     {
-      "tweet": "A UN guy just said the US is basically using Mexico as a garbage sink. Like, it's pretty loud, but that's what it is.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/07/mexico-us-toxic-waste-un-special-rapporteur",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US is ‘using Mexico as a garbage sink’ leading to ‘toxic crisis’, UN expert says",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-07T12:42:10.616794+00:00"
-    },
-    {
-      "tweet": "So apparently Kim Jong-un has his daughter driving a tank now. Like she's just running errands or something. Wild.",
-      "original_url": "https://www.nytimes.com/2026/04/07/world/asia/north-korea-kim-jong-un-daughter-tank.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Kim Jong-un’s Daughter Drives a Tank as Talk Accelerates Around North Korea Succession",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-07T12:42:10.616782+00:00"
-    },
-    {
-      "tweet": "The Lady Vols roster is down to one person. How does that even happen?",
-      "original_url": "https://www.espn.com/womens-college-basketball/story/_/id/48414461/oliviyah-edwards-decommits-tennessee-roster-shrinks-1",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Lady Vols lose recruit Edwards, see roster cut to 1",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-06T23:50:44.158699+00:00"
-    },
-    {
-      "tweet": "Olivia Rodrigo is apparently entering her sad girl era again. So, just a normal week then.",
-      "original_url": "https://www.billboard.com/media/podcasts/lady-gaga-sabrina-carpenter-olivia-rodrigo-pop-shop-podcast-1236216304/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Lady Gaga & Doechii Hit the ‘Runway,’ Sabrina Carpenter Gives a ‘House Tour’ & Olivia Rodrigo Enters Her ‘Sad’ Girl Era: This Week in Pop",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-06T23:50:44.158589+00:00"
-    },
-    {
       "tweet": "Some guy just dropped a tool called Ghost Pepper for voice-to-text on Mac. Pretty sick name honestly.",
       "original_url": "https://github.com/matthartman/ghost-pepper",
       "buzz_score": 70,
@@ -66,6 +22,28 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-06T23:50:44.157850+00:00"
+    },
+    {
+      "tweet": "A UN guy just said the US is basically using Mexico as a garbage sink. Like, it's pretty loud, but that's what it is.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/07/mexico-us-toxic-waste-un-special-rapporteur",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US is ‘using Mexico as a garbage sink’ leading to ‘toxic crisis’, UN expert says",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-07T12:42:10.616794+00:00"
+    },
+    {
+      "tweet": "So apparently Kim Jong-un has his daughter driving a tank now. Like she's just running errands or something. Wild.",
+      "original_url": "https://www.nytimes.com/2026/04/07/world/asia/north-korea-kim-jong-un-daughter-tank.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Kim Jong-un’s Daughter Drives a Tank as Talk Accelerates Around North Korea Succession",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-07T12:42:10.616782+00:00"
     },
     {
       "tweet": "UK groups are trying to get Ye off the festival lineup. At this point, we're just waiting for the next headline.",
@@ -200,28 +178,6 @@
       "added_at": "2026-04-05T23:55:53.317370+00:00"
     },
     {
-      "tweet": "Willson Contreras got hit by a pitch for the 24th time this year. At what point does he just stop being nice about it",
-      "original_url": "https://www.espn.com/mlb/story/_/id/48417156/red-sox-contreras-left-fuming-latest-brewers-hbp",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Contreras warns Brewers: Hit me again, you'll pay",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-07T07:03:52.690651+00:00"
-    },
-    {
-      "tweet": "Did you see that crypto drama with President Milei again? Turns out he’s got way more ties to that Libra thing than he let on. Classic.",
-      "original_url": "https://www.nytimes.com/2026/04/06/world/americas/argentina-milei-crypto-libra.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "New Revelations Reignite Crypto Scandal Involving Argentina’s President Milei",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-07T07:03:52.690646+00:00"
-    },
-    {
       "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
       "original_url": "https://variety.com/2026/film/reviews/faces-of-death-review-1236706326/",
       "buzz_score": 82,
@@ -242,6 +198,28 @@
       "source": "Deadline",
       "category": "entertainment",
       "added_at": "2026-04-05T23:55:53.317362+00:00"
+    },
+    {
+      "tweet": "Willson Contreras got hit by a pitch for the 24th time this year. At what point does he just stop being nice about it",
+      "original_url": "https://www.espn.com/mlb/story/_/id/48417156/red-sox-contreras-left-fuming-latest-brewers-hbp",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Contreras warns Brewers: Hit me again, you'll pay",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-07T07:03:52.690651+00:00"
+    },
+    {
+      "tweet": "Did you see that crypto drama with President Milei again? Turns out he’s got way more ties to that Libra thing than he let on. Classic.",
+      "original_url": "https://www.nytimes.com/2026/04/06/world/americas/argentina-milei-crypto-libra.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "New Revelations Reignite Crypto Scandal Involving Argentina’s President Milei",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-07T07:03:52.690646+00:00"
     },
     {
       "tweet": "Everything in Lebanon is just getting more fractured after those strikes. It's a mess.",
@@ -431,6 +409,17 @@
       "added_at": "2026-04-05T19:48:04.864444+00:00"
     },
     {
+      "tweet": "Apparently there's some line in that Maul show that changes how Star Wars works. We're really just making it up as we go now.",
+      "original_url": "https://www.polygon.com/star-wars-darth-maul-shadow-lord-laser-sword/",
+      "buzz_score": 78,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "One line in Maul Shadow Lord reveals a mind-bending truth about Star Wars",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-06T10:35:55.049145+00:00"
+    },
+    {
       "tweet": "There’s an AI startup called Rocket just pumping out McKinsey-style reports now. We're literally automating the bullshit.",
       "original_url": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
       "buzz_score": 75,
@@ -462,17 +451,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-07T07:03:52.690643+00:00"
-    },
-    {
-      "tweet": "Apparently there's some line in that Maul show that changes how Star Wars works. We're really just making it up as we go now.",
-      "original_url": "https://www.polygon.com/star-wars-darth-maul-shadow-lord-laser-sword/",
-      "buzz_score": 78,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "One line in Maul Shadow Lord reveals a mind-bending truth about Star Wars",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-06T10:35:55.049145+00:00"
     },
     {
       "tweet": "Blizzard finally fixed that Anran redesign in Overwatch. The old model looked nothing like the cinematic, it was brutal.",
@@ -1996,8 +1974,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 120,
+    "total_posted": 122,
     "total_collected": 284
   },
-  "last_posted_at": "2026-04-07T15:49:10.438858+00:00"
+  "last_posted_at": "2026-04-07T16:44:23.616462+00:00"
 }
