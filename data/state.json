@@ -2,28 +2,6 @@
   "last_collected": "2026-04-07T15:42:51.572946+00:00",
   "queue": [
     {
-      "tweet": "Some guy just dropped a tool called Ghost Pepper for voice-to-text on Mac. Pretty sick name honestly.",
-      "original_url": "https://github.com/matthartman/ghost-pepper",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-06T23:50:44.158478+00:00"
-    },
-    {
-      "tweet": "Coventry is actually about to make the Premier League after 25 years. Can you even imagine that feeling",
-      "original_url": "https://www.bbc.com/sport/football/articles/cddqmlzz34qo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Coventry edge ever closer - but who will join them in Premier League?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-06T23:50:44.157850+00:00"
-    },
-    {
       "tweet": "A UN guy just said the US is basically using Mexico as a garbage sink. Like, it's pretty loud, but that's what it is.",
       "original_url": "https://www.theguardian.com/world/2026/apr/07/mexico-us-toxic-waste-un-special-rapporteur",
       "buzz_score": 80,
@@ -1974,8 +1952,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 122,
+    "total_posted": 124,
     "total_collected": 284
   },
-  "last_posted_at": "2026-04-07T16:44:23.616462+00:00"
+  "last_posted_at": "2026-04-07T17:44:54.288164+00:00"
 }
