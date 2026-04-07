@@ -2,28 +2,6 @@
   "last_collected": "2026-04-07T12:42:10.618097+00:00",
   "queue": [
     {
-      "tweet": "Hold on, people are saying Claude Code is completely unusable for any real engineering tasks now. Great for us.",
-      "original_url": "https://github.com/anthropics/claude-code/issues/42796",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-07T12:42:10.617081+00:00"
-    },
-    {
-      "tweet": "Trump’s deadline for Iran is tonight and it’s just total chaos in the Gulf. Nothing ever changes.",
-      "original_url": "https://www.npr.org/2026/04/07/nx-s1-5776377/iran-war-updates",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "As Trump's deadline approaches, Iranian leaders respond in defiance",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-07T12:42:10.617331+00:00"
-    },
-    {
       "tweet": "A UN guy just said the US is basically using Mexico as a garbage sink. Like, it's pretty loud, but that's what it is.",
       "original_url": "https://www.theguardian.com/world/2026/apr/07/mexico-us-toxic-waste-un-special-rapporteur",
       "buzz_score": 80,
@@ -44,6 +22,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-07T12:42:10.616782+00:00"
+    },
+    {
+      "tweet": "Liverpool is supposedly targeting Camavinga now. They're just collecting infinity stones at this point.",
+      "original_url": "https://www.bbc.com/sport/football/articles/c5yxgjlkrjlo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Liverpool target Camavinga - Tuesday's gossip",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-06T23:50:44.157852+00:00"
+    },
+    {
+      "tweet": "Devils just fired Fitzgerald out of nowhere. Season's cooked anyway, man.",
+      "original_url": "https://www.espn.com/nhl/story/_/id/48415109/devils-gm-tom-fitzgerald-five-plus-seasons-team",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "GM Fitzgerald out as Devils set to miss playoffs",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-06T23:50:44.157847+00:00"
     },
     {
       "tweet": "UK groups are trying to get Ye off the festival lineup. At this point, we're just waiting for the next headline.",
@@ -90,39 +90,6 @@
       "added_at": "2026-04-07T12:42:10.616790+00:00"
     },
     {
-      "tweet": "Liverpool is supposedly targeting Camavinga now. They're just collecting infinity stones at this point.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c5yxgjlkrjlo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Liverpool target Camavinga - Tuesday's gossip",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-06T23:50:44.157852+00:00"
-    },
-    {
-      "tweet": "Devils just fired Fitzgerald out of nowhere. Season's cooked anyway, man.",
-      "original_url": "https://www.espn.com/nhl/story/_/id/48415109/devils-gm-tom-fitzgerald-five-plus-seasons-team",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "GM Fitzgerald out as Devils set to miss playoffs",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-06T23:50:44.157847+00:00"
-    },
-    {
-      "tweet": "Jack Black is out here giving serious interviews about why Koopas want to become Dry Bones. The man is just on another level.",
-      "original_url": "https://www.polygon.com/super-mario-galaxy-movie-suicide-coaster-dry-bones/",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Jack Black has opinions on the Super Mario Galaxy Movie's death-coaster",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-07T12:42:10.616792+00:00"
-    },
-    {
       "tweet": "The Lady Vols roster is down to one person. How does that even happen?",
       "original_url": "https://www.espn.com/womens-college-basketball/story/_/id/48414461/oliviyah-edwards-decommits-tennessee-roster-shrinks-1",
       "buzz_score": 70,
@@ -167,6 +134,17 @@
       "added_at": "2026-04-06T23:50:44.157850+00:00"
     },
     {
+      "tweet": "Jack Black is out here giving serious interviews about why Koopas want to become Dry Bones. The man is just on another level.",
+      "original_url": "https://www.polygon.com/super-mario-galaxy-movie-suicide-coaster-dry-bones/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Jack Black has opinions on the Super Mario Galaxy Movie's death-coaster",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-07T12:42:10.616792+00:00"
+    },
+    {
       "tweet": "Willson Contreras got hit by a pitch for the 24th time this year. At what point does he just stop being nice about it",
       "original_url": "https://www.espn.com/mlb/story/_/id/48417156/red-sox-contreras-left-fuming-latest-brewers-hbp",
       "buzz_score": 80,
@@ -187,6 +165,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-07T07:03:52.690646+00:00"
+    },
+    {
+      "tweet": "Just saw a list of hit songs that are actually super sad. Guess we all just stop listening to the lyrics after a while.",
+      "original_url": "https://www.mentalfloss.com/entertainment/music/hit-songs-sound-happy-actually-sad?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "7 Hit Songs That Sound Happy But Are Actually Incredibly Sad",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-06T10:35:55.049147+00:00"
+    },
+    {
+      "tweet": "Man Utd are already trying to dump Ugarte. At this point the transfer strategy is just throwing darts at a board.",
+      "original_url": "https://www.bbc.com/sport/football/articles/ckg92wqjrpeo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Man Utd look to offload Ugarte - Monday gossip",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-05T23:55:53.317354+00:00"
     },
     {
       "tweet": "There’s an AI startup called Rocket just pumping out McKinsey-style reports now. We're literally automating the bullshit.",
@@ -231,72 +231,6 @@
       "source": "Variety",
       "category": "entertainment",
       "added_at": "2026-04-07T04:09:09.665693+00:00"
-    },
-    {
-      "tweet": "Just saw a list of hit songs that are actually super sad. Guess we all just stop listening to the lyrics after a while.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/hit-songs-sound-happy-actually-sad?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "7 Hit Songs That Sound Happy But Are Actually Incredibly Sad",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-06T10:35:55.049147+00:00"
-    },
-    {
-      "tweet": "Man Utd are already trying to dump Ugarte. At this point the transfer strategy is just throwing darts at a board.",
-      "original_url": "https://www.bbc.com/sport/football/articles/ckg92wqjrpeo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Man Utd look to offload Ugarte - Monday gossip",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-05T23:55:53.317354+00:00"
-    },
-    {
-      "tweet": "Everything in Lebanon is just getting more fractured after those strikes. It's a mess.",
-      "original_url": "https://www.aljazeera.com/features/2026/4/7/creating-rift-part-of-game-plan-israeli-attacks-deepen-lebanon-fissures?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘They want to create a rift’: Israeli attacks deepen Lebanon fissures",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-07T04:09:09.666297+00:00"
-    },
-    {
-      "tweet": "David Schwimmer's calling out Kanye now, saying the apologies aren't backed by action. Honestly, he's not wrong.",
-      "original_url": "https://variety.com/2026/music/news/david-schwimmer-kanye-west-thanks-wireless-festival-sponsors-1236710039/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "David Schwimmer Says Kanye West’s Apologies  Haven’t Been Backed Up With Action, Thanks Wireless Festival Sponsors for Pulling Out: ‘I Believe in Forgiveness, but It Takes Much More Than This’",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-07T04:09:09.665815+00:00"
-    },
-    {
-      "tweet": "Scientists found a switch in the brain that tells you to stop eating. I think mine's broken, honestly.",
-      "original_url": "https://www.sciencedaily.com/releases/2026/04/260406192811.htm",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Scientists discover hidden brain switch that tells you to stop eating",
-      "source": "ScienceDaily",
-      "category": "science",
-      "added_at": "2026-04-07T04:09:09.665356+00:00"
-    },
-    {
-      "tweet": "Michigan actually beat UConn for the title. First time since 2009 someone's taken them out that late in the tournament. Unreal.",
-      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48416755/michigan-holds-uconn-win-second-ncaa-hoops-title",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Michigan holds off UConn to win 2nd hoops title",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-07T04:09:09.664963+00:00"
     },
     {
       "tweet": "Man, did you see that press conference after the Easter egg roll? He’s out there giving dark threats and everyone’s just like, cool, normal stuff.",
@@ -365,26 +299,48 @@
       "added_at": "2026-04-05T23:55:53.317362+00:00"
     },
     {
-      "tweet": "Blizzard finally fixed that Anran redesign in Overwatch. The old model looked nothing like the cinematic, it was brutal.",
-      "original_url": "https://www.polygon.com/overwatchs-anran-redesign-blizzard-better/",
-      "buzz_score": 75,
+      "tweet": "Everything in Lebanon is just getting more fractured after those strikes. It's a mess.",
+      "original_url": "https://www.aljazeera.com/features/2026/4/7/creating-rift-part-of-game-plan-israeli-attacks-deepen-lebanon-fissures?traffic_source=rss",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Overwatch's Anran redesign is a massive improvement from Blizzard",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-07T04:09:09.665108+00:00"
+      "original_title": "‘They want to create a rift’: Israeli attacks deepen Lebanon fissures",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-07T04:09:09.666297+00:00"
     },
     {
-      "tweet": "Did you see Offset got shot in Florida? Sounds like he's stable now but man, that's wild.",
-      "original_url": "https://www.billboard.com/music/rb-hip-hop/offset-shot-hospital-florida-1236216540/",
-      "buzz_score": 75,
+      "tweet": "David Schwimmer's calling out Kanye now, saying the apologies aren't backed by action. Honestly, he's not wrong.",
+      "original_url": "https://variety.com/2026/music/news/david-schwimmer-kanye-west-thanks-wireless-festival-sponsors-1236710039/",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Offset Shot & Hospitalized in Florida",
-      "source": "Billboard",
+      "original_title": "David Schwimmer Says Kanye West’s Apologies  Haven’t Been Backed Up With Action, Thanks Wireless Festival Sponsors for Pulling Out: ‘I Believe in Forgiveness, but It Takes Much More Than This’",
+      "source": "Variety",
       "category": "entertainment",
-      "added_at": "2026-04-07T04:09:09.664960+00:00"
+      "added_at": "2026-04-07T04:09:09.665815+00:00"
+    },
+    {
+      "tweet": "Scientists found a switch in the brain that tells you to stop eating. I think mine's broken, honestly.",
+      "original_url": "https://www.sciencedaily.com/releases/2026/04/260406192811.htm",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Scientists discover hidden brain switch that tells you to stop eating",
+      "source": "ScienceDaily",
+      "category": "science",
+      "added_at": "2026-04-07T04:09:09.665356+00:00"
+    },
+    {
+      "tweet": "Michigan actually beat UConn for the title. First time since 2009 someone's taken them out that late in the tournament. Unreal.",
+      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48416755/michigan-holds-uconn-win-second-ncaa-hoops-title",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Michigan holds off UConn to win 2nd hoops title",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-07T04:09:09.664963+00:00"
     },
     {
       "tweet": "Nine cops in India just got sentenced to death for those custody killings. That's heavy.",
@@ -530,28 +486,6 @@
       "added_at": "2026-04-05T19:48:04.864444+00:00"
     },
     {
-      "tweet": "Barcelona hosting Atletico for the Champions League leg today. Gonna be a long night for somebody.",
-      "original_url": "https://www.aljazeera.com/sports/2026/4/7/barcelona-vs-atletico-madrid-champions-league-team-news-start?traffic_source=rss",
-      "buzz_score": 75,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Barcelona vs Atletico Madrid: Champions League – team news, start, lineups",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-07T12:42:10.616951+00:00"
-    },
-    {
-      "tweet": "They finally confirmed Steve McMichael had CTE. It’s brutal man, but at this point, are we even surprised by what football does to these guys?",
-      "original_url": "https://www.espn.com/nfl/story/_/id/48419299/bears-icon-steve-mcmichael-diagnosed-cte-year-death",
-      "buzz_score": 75,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Bears HOFer McMichael, who died at 67, had CTE",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-07T12:42:10.616785+00:00"
-    },
-    {
       "tweet": "Apparently there's some line in that Maul show that changes how Star Wars works. We're really just making it up as we go now.",
       "original_url": "https://www.polygon.com/star-wars-darth-maul-shadow-lord-laser-sword/",
       "buzz_score": 78,
@@ -563,15 +497,26 @@
       "added_at": "2026-04-06T10:35:55.049145+00:00"
     },
     {
-      "tweet": "Post Malone is dropping a 40-track double album. That's way too much music.",
-      "original_url": "https://hypebeast.com/2026/4/post-malone-the-eternal-buzz-new-40-track-double-album-teaser",
-      "buzz_score": 85,
-      "buzz_score2": 85,
+      "tweet": "Blizzard finally fixed that Anran redesign in Overwatch. The old model looked nothing like the cinematic, it was brutal.",
+      "original_url": "https://www.polygon.com/overwatchs-anran-redesign-blizzard-better/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Post Malone Teases Massive 40-Track Double Album 'The Eternal Buzz'",
-      "source": "Hypebeast",
+      "original_title": "Overwatch's Anran redesign is a massive improvement from Blizzard",
+      "source": "Polygon",
       "category": "entertainment",
-      "added_at": "2026-04-07T09:41:35.447688+00:00"
+      "added_at": "2026-04-07T04:09:09.665108+00:00"
+    },
+    {
+      "tweet": "Did you see Offset got shot in Florida? Sounds like he's stable now but man, that's wild.",
+      "original_url": "https://www.billboard.com/music/rb-hip-hop/offset-shot-hospital-florida-1236216540/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Offset Shot & Hospitalized in Florida",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-07T04:09:09.664960+00:00"
     },
     {
       "tweet": "NASA is dropping wholesome content from Artemis II. We really just need anything that isn't a dumpster fire right now.",
@@ -772,70 +717,26 @@
       "added_at": "2026-04-05T10:01:38.215881+00:00"
     },
     {
-      "tweet": "Seeing all these Ella Langley tracks popping up. Sometimes the stuff that isn't on the radio is actually better.",
-      "original_url": "https://www.billboard.com/lists/ella-langley-best-songs-you-dont-know/",
-      "buzz_score": 70,
+      "tweet": "Barcelona hosting Atletico for the Champions League leg today. Gonna be a long night for somebody.",
+      "original_url": "https://www.aljazeera.com/sports/2026/4/7/barcelona-vs-atletico-madrid-champions-league-team-news-start?traffic_source=rss",
+      "buzz_score": 75,
       "buzz_score2": 85,
       "rewrite_count": 0,
-      "original_title": "Ella Langley: 5 Hidden Musical Gems",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-07T12:42:10.617971+00:00"
-    },
-    {
-      "tweet": "Found this quiz for 80s one-hit wonders. Honestly, it’s wild how we still know all the lyrics to that stuff.",
-      "original_url": "https://www.mentalfloss.com/quizzes/guess-80s-one-hit-wonders-first-5-lyrics?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Quiz: Can You Guess These ’80s One-Hit Wonders From the First 5 Lyrics?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-07T12:42:10.617727+00:00"
-    },
-    {
-      "tweet": "Australians are buying EVs at record numbers. Kinda makes you wonder what we’re still doing over here.",
-      "original_url": "https://www.theguardian.com/australia-news/live/2026/apr/07/australia-news-live-cyclone-maila-threat-queensland-road-toll-trump-iran-ntwnfb",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Australians buy record number of new EVs – as it happened",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-07T12:42:10.617207+00:00"
-    },
-    {
-      "tweet": "Pakistan really hit a rehab center and called it a military target. Like, do they honestly think we can't tell the difference.",
-      "original_url": "https://www.nytimes.com/2026/04/07/world/asia/kabul-drug-rehab-pakistan-airstrike.html",
-      "buzz_score": 82,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Pakistan Says It Hit a Military Target. Investigations Suggest It Was a Rehab Center.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-07T09:41:35.446507+00:00"
-    },
-    {
-      "tweet": "LA stadium workers are asking FIFA to keep ICE away from the World Cup. It's crazy that they even have to ask for that.",
-      "original_url": "https://www.aljazeera.com/sports/2026/4/7/los-angeles-stadium-workers-urge-fifa-to-bar-ice-from-world-cup?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Los Angeles Stadium workers urge FIFA to bar ICE from World Cup",
+      "original_title": "Barcelona vs Atletico Madrid: Champions League – team news, start, lineups",
       "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-04-07T09:41:35.447194+00:00"
+      "added_at": "2026-04-07T12:42:10.616951+00:00"
     },
     {
-      "tweet": "Wait, Harry Maguire actually signed another year at United. I'm speechless.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cly92470le8o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
+      "tweet": "They finally confirmed Steve McMichael had CTE. It’s brutal man, but at this point, are we even surprised by what football does to these guys?",
+      "original_url": "https://www.espn.com/nfl/story/_/id/48419299/bears-icon-steve-mcmichael-diagnosed-cte-year-death",
+      "buzz_score": 75,
       "buzz_score2": 85,
       "rewrite_count": 0,
-      "original_title": "Maguire signs one-year contract at Man Utd",
-      "source": "BBC Sport",
+      "original_title": "Bears HOFer McMichael, who died at 67, had CTE",
+      "source": "ESPN",
       "category": "sports",
-      "added_at": "2026-04-07T09:41:35.446942+00:00"
+      "added_at": "2026-04-07T12:42:10.616785+00:00"
     },
     {
       "tweet": "So apparently Charli xcx's management is scrambling to explain those Sky Ferreira credits. Messy.",
@@ -849,15 +750,15 @@
       "added_at": "2026-04-06T04:21:17.194772+00:00"
     },
     {
-      "tweet": "They're bombing nuclear facilities in Iran now. Do they really think radioactive fallout is gonna help with nonproliferation.",
-      "original_url": "https://www.aljazeera.com/video/quotable/2026/4/7/military-action-is-not-an-effective-means-to-pursue-nonproliferation?traffic_source=rss",
-      "buzz_score": 78,
+      "tweet": "Post Malone is dropping a 40-track double album. That's way too much music.",
+      "original_url": "https://hypebeast.com/2026/4/post-malone-the-eternal-buzz-new-40-track-double-album-teaser",
+      "buzz_score": 85,
       "buzz_score2": 85,
       "rewrite_count": 0,
-      "original_title": "‘Military action is not an effective means to pursue nonproliferation’",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-07T09:41:35.447317+00:00"
+      "original_title": "Post Malone Teases Massive 40-Track Double Album 'The Eternal Buzz'",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-07T09:41:35.447688+00:00"
     },
     {
       "tweet": "They’re out here ranking the best states for WFH in 2026. As if most of us would actually move just to get slightly better internet.",
@@ -1034,6 +935,83 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-05T19:48:04.864457+00:00"
+    },
+    {
+      "tweet": "Seeing all these Ella Langley tracks popping up. Sometimes the stuff that isn't on the radio is actually better.",
+      "original_url": "https://www.billboard.com/lists/ella-langley-best-songs-you-dont-know/",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Ella Langley: 5 Hidden Musical Gems",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-07T12:42:10.617971+00:00"
+    },
+    {
+      "tweet": "Found this quiz for 80s one-hit wonders. Honestly, it’s wild how we still know all the lyrics to that stuff.",
+      "original_url": "https://www.mentalfloss.com/quizzes/guess-80s-one-hit-wonders-first-5-lyrics?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Quiz: Can You Guess These ’80s One-Hit Wonders From the First 5 Lyrics?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-07T12:42:10.617727+00:00"
+    },
+    {
+      "tweet": "Australians are buying EVs at record numbers. Kinda makes you wonder what we’re still doing over here.",
+      "original_url": "https://www.theguardian.com/australia-news/live/2026/apr/07/australia-news-live-cyclone-maila-threat-queensland-road-toll-trump-iran-ntwnfb",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Australians buy record number of new EVs – as it happened",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-07T12:42:10.617207+00:00"
+    },
+    {
+      "tweet": "Pakistan really hit a rehab center and called it a military target. Like, do they honestly think we can't tell the difference.",
+      "original_url": "https://www.nytimes.com/2026/04/07/world/asia/kabul-drug-rehab-pakistan-airstrike.html",
+      "buzz_score": 82,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Pakistan Says It Hit a Military Target. Investigations Suggest It Was a Rehab Center.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-07T09:41:35.446507+00:00"
+    },
+    {
+      "tweet": "LA stadium workers are asking FIFA to keep ICE away from the World Cup. It's crazy that they even have to ask for that.",
+      "original_url": "https://www.aljazeera.com/sports/2026/4/7/los-angeles-stadium-workers-urge-fifa-to-bar-ice-from-world-cup?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Los Angeles Stadium workers urge FIFA to bar ICE from World Cup",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-07T09:41:35.447194+00:00"
+    },
+    {
+      "tweet": "Wait, Harry Maguire actually signed another year at United. I'm speechless.",
+      "original_url": "https://www.bbc.com/sport/football/articles/cly92470le8o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Maguire signs one-year contract at Man Utd",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-07T09:41:35.446942+00:00"
+    },
+    {
+      "tweet": "They're bombing nuclear facilities in Iran now. Do they really think radioactive fallout is gonna help with nonproliferation.",
+      "original_url": "https://www.aljazeera.com/video/quotable/2026/4/7/military-action-is-not-an-effective-means-to-pursue-nonproliferation?traffic_source=rss",
+      "buzz_score": 78,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "‘Military action is not an effective means to pursue nonproliferation’",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-07T09:41:35.447317+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 116,
+    "total_posted": 118,
     "total_collected": 284
   },
-  "last_posted_at": "2026-04-07T12:47:51.892302+00:00"
+  "last_posted_at": "2026-04-07T14:19:57.838280+00:00"
 }
