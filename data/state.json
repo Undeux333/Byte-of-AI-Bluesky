@@ -2,28 +2,6 @@
   "last_collected": "2026-04-07T21:07:55.187702+00:00",
   "queue": [
     {
-      "tweet": "JD Vance is out in Budapest backing Orbán now. The pivot to international campaigning is just wild.",
-      "original_url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "JD Vance backs Orbán's re-election bid in Budapest visit and hits out at EU",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-07T21:07:55.187669+00:00"
-    },
-    {
-      "tweet": "Mircea Lucescu died only five days after he stepped down. Rough.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cgj0d8dz5dgo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Legendary manager Lucescu dies days after resigning",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-07T21:07:55.187685+00:00"
-    },
-    {
       "tweet": "So apparently ICE just straight up admitted they're using spyware to track encrypted messages. Not even hiding it.",
       "original_url": "https://www.npr.org/2026/04/07/nx-s1-5776799/ice-spyware-privacy",
       "buzz_score": 80,
@@ -310,6 +288,17 @@
       "added_at": "2026-04-05T19:48:04.864444+00:00"
     },
     {
+      "tweet": "Apparently there's some line in that Maul show that changes how Star Wars works. We're really just making it up as we go now.",
+      "original_url": "https://www.polygon.com/star-wars-darth-maul-shadow-lord-laser-sword/",
+      "buzz_score": 78,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "One line in Maul Shadow Lord reveals a mind-bending truth about Star Wars",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-06T10:35:55.049145+00:00"
+    },
+    {
       "tweet": "Democrats are actually freaking out about Trump's rhetoric on Iran. Total silence from the other side, though.",
       "original_url": "https://www.npr.org/2026/04/07/g-s1-116722/congressional-democrats-raise-alarm-over-trumps-comments-on-iran",
       "buzz_score": 80,
@@ -341,17 +330,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-07T21:07:55.187678+00:00"
-    },
-    {
-      "tweet": "Apparently there's some line in that Maul show that changes how Star Wars works. We're really just making it up as we go now.",
-      "original_url": "https://www.polygon.com/star-wars-darth-maul-shadow-lord-laser-sword/",
-      "buzz_score": 78,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "One line in Maul Shadow Lord reveals a mind-bending truth about Star Wars",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-06T10:35:55.049145+00:00"
     },
     {
       "tweet": "UK groups are trying to get Ye off the festival lineup. At this point, we're just waiting for the next headline.",
@@ -651,6 +629,17 @@
       "added_at": "2026-04-05T10:01:38.215881+00:00"
     },
     {
+      "tweet": "So apparently Charli xcx's management is scrambling to explain those Sky Ferreira credits. Messy.",
+      "original_url": "https://www.billboard.com/music/music-news/charli-xcx-sky-ferreira-wuthering-heights-credit-statement-1236215575/",
+      "buzz_score": 72,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Charli xcx Management Clarifies Sky Ferreira Claims About ‘Wuthering Heights’ Credits",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-06T04:21:17.194772+00:00"
+    },
+    {
       "tweet": "Jon Rahm thinks he's playing the Ryder Cup next year even though he's ineligible right now. Like, how does that work.",
       "original_url": "https://www.bbc.com/sport/golf/articles/cgqkl3nk325o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -682,17 +671,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-07T21:07:55.187666+00:00"
-    },
-    {
-      "tweet": "So apparently Charli xcx's management is scrambling to explain those Sky Ferreira credits. Messy.",
-      "original_url": "https://www.billboard.com/music/music-news/charli-xcx-sky-ferreira-wuthering-heights-credit-statement-1236215575/",
-      "buzz_score": 72,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Charli xcx Management Clarifies Sky Ferreira Claims About ‘Wuthering Heights’ Credits",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-06T04:21:17.194772+00:00"
     },
     {
       "tweet": "Jack Black is out here giving serious interviews about why Koopas want to become Dry Bones. The man is just on another level.",
@@ -1996,8 +1974,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 136,
+    "total_posted": 138,
     "total_collected": 300
   },
-  "last_posted_at": "2026-04-07T22:39:45.756627+00:00"
+  "last_posted_at": "2026-04-07T23:16:29.357298+00:00"
 }
