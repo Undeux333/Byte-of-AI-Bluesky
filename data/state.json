@@ -2,28 +2,6 @@
   "last_collected": "2026-04-07T04:09:09.666540+00:00",
   "queue": [
     {
-      "tweet": "So JD Vance is heading to Hungary to see Orban. That's a hell of a choice for an American VP.",
-      "original_url": "https://www.nytimes.com/2026/04/07/world/europe/vance-hungary-orban-fidesz-election.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Vance to Visit Hungary to Boost Orban Before Election",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-07T04:09:09.665936+00:00"
-    },
-    {
-      "tweet": "Hold on, they're saying the brain might not even create consciousness? If it's just woven into reality, then what are we even doing here?",
-      "original_url": "https://www.sciencedaily.com/releases/2026/04/260406192809.htm",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The brain might not create consciousness after all",
-      "source": "ScienceDaily",
-      "category": "science",
-      "added_at": "2026-04-07T04:09:09.665480+00:00"
-    },
-    {
       "tweet": "Gas is over 4 bucks a gallon again. I swear, every time I pull up to the pump, I just sit there for a second and stare at the screen.",
       "original_url": "https://www.npr.org/2026/04/06/nx-s1-5771628/gas-prices-are-high-what-can-you-do-about-it",
       "buzz_score": 85,
@@ -222,6 +200,28 @@
       "added_at": "2026-04-06T23:50:44.157858+00:00"
     },
     {
+      "tweet": "Just saw a list of hit songs that are actually super sad. Guess we all just stop listening to the lyrics after a while.",
+      "original_url": "https://www.mentalfloss.com/entertainment/music/hit-songs-sound-happy-actually-sad?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "7 Hit Songs That Sound Happy But Are Actually Incredibly Sad",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-06T10:35:55.049147+00:00"
+    },
+    {
+      "tweet": "Man Utd are already trying to dump Ugarte. At this point the transfer strategy is just throwing darts at a board.",
+      "original_url": "https://www.bbc.com/sport/football/articles/ckg92wqjrpeo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Man Utd look to offload Ugarte - Monday gossip",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-05T23:55:53.317354+00:00"
+    },
+    {
       "tweet": "Nine cops in India just got sentenced to death for those custody killings. That's heavy.",
       "original_url": "https://www.bbc.com/news/articles/ce8l0md9gl1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -253,50 +253,6 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-06T23:50:44.158254+00:00"
-    },
-    {
-      "tweet": "Just saw a list of hit songs that are actually super sad. Guess we all just stop listening to the lyrics after a while.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/hit-songs-sound-happy-actually-sad?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "7 Hit Songs That Sound Happy But Are Actually Incredibly Sad",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-06T10:35:55.049147+00:00"
-    },
-    {
-      "tweet": "Man Utd are already trying to dump Ugarte. At this point the transfer strategy is just throwing darts at a board.",
-      "original_url": "https://www.bbc.com/sport/football/articles/ckg92wqjrpeo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Man Utd look to offload Ugarte - Monday gossip",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-05T23:55:53.317354+00:00"
-    },
-    {
-      "tweet": "NASA is dropping wholesome content from Artemis II. We really just need anything that isn't a dumpster fire right now.",
-      "original_url": "https://kotaku.com/artemis-ii-astronauts-nutella-moon-mission-crying-crater-video-stream-nasa-content-2000685243",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Artemis II Astronauts Are Creating The Wholesome Content The Internet Desperately Needs Right Now",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-06T21:29:25.775329+00:00"
-    },
-    {
-      "tweet": "Wideman is already out as Mystics GM after one season because of strategic differences. Typical corporate speedrun.",
-      "original_url": "https://www.espn.com/wnba/story/_/id/48414413/source-jamila-wideman-mystics-general-manager",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Wideman out as Mystics GM after one season",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-06T21:29:25.775308+00:00"
     },
     {
       "tweet": "So apparently Australian gas stations are running out of diesel despite that tax relief. How does that even happen?",
@@ -332,28 +288,6 @@
       "added_at": "2026-04-05T23:55:53.317370+00:00"
     },
     {
-      "tweet": "Everyone's asking why the guys in Life Is Strange are the absolute worst. Is it just me or is that how it goes in every game?",
-      "original_url": "https://kotaku.com/life-is-strange-reunion-romance-true-colors-ryan-vinh-2000685244",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Why Are The Relationships With Men In Life Is Strange Always Worse?",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-06T21:29:25.775331+00:00"
-    },
-    {
-      "tweet": "Boulter got knocked out in the first round at Linz. Rough.",
-      "original_url": "https://www.bbc.com/sport/tennis/articles/c2lwxyv1v80o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Boulter suffers first-round exit to Ruse in Austria",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-06T21:29:25.775314+00:00"
-    },
-    {
       "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
       "original_url": "https://variety.com/2026/film/reviews/faces-of-death-review-1236706326/",
       "buzz_score": 82,
@@ -374,6 +308,28 @@
       "source": "Deadline",
       "category": "entertainment",
       "added_at": "2026-04-05T23:55:53.317362+00:00"
+    },
+    {
+      "tweet": "NASA is dropping wholesome content from Artemis II. We really just need anything that isn't a dumpster fire right now.",
+      "original_url": "https://kotaku.com/artemis-ii-astronauts-nutella-moon-mission-crying-crater-video-stream-nasa-content-2000685243",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Artemis II Astronauts Are Creating The Wholesome Content The Internet Desperately Needs Right Now",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-06T21:29:25.775329+00:00"
+    },
+    {
+      "tweet": "Wideman is already out as Mystics GM after one season because of strategic differences. Typical corporate speedrun.",
+      "original_url": "https://www.espn.com/wnba/story/_/id/48414413/source-jamila-wideman-mystics-general-manager",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Wideman out as Mystics GM after one season",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-06T21:29:25.775308+00:00"
     },
     {
       "tweet": "Palace and Nike are dropping those Air Max 95s again. We say we're tired of collabs but we're all still gonna try to cop",
@@ -506,6 +462,28 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-06T10:35:55.049145+00:00"
+    },
+    {
+      "tweet": "Everyone's asking why the guys in Life Is Strange are the absolute worst. Is it just me or is that how it goes in every game?",
+      "original_url": "https://kotaku.com/life-is-strange-reunion-romance-true-colors-ryan-vinh-2000685244",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Why Are The Relationships With Men In Life Is Strange Always Worse?",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-06T21:29:25.775331+00:00"
+    },
+    {
+      "tweet": "Boulter got knocked out in the first round at Linz. Rough.",
+      "original_url": "https://www.bbc.com/sport/tennis/articles/c2lwxyv1v80o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Boulter suffers first-round exit to Ruse in Austria",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-06T21:29:25.775314+00:00"
     },
     {
       "tweet": "Sabrina Carpenter and that whole crew are making larceny look like a fashion shoot in the new video. Just bizarre.",
@@ -682,61 +660,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-05T10:01:38.215881+00:00"
-    },
-    {
-      "tweet": "Rolling Stone is out here writing listicles on why you should shop at Men’s Wearhouse. I feel like I'm in a simulation.",
-      "original_url": "https://www.rollingstone.com/product-recommendations/lifestyle/best-mens-wearhouse-suits-1235148153/",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "10 Reasons Why Men’s Wearhouse Is Worth Checking Out",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-04-07T04:09:09.666418+00:00"
-    },
-    {
-      "tweet": "Anthropic is teaming up with Google and Broadcom to scale their compute. We're just giving all the power to the same three companies now.",
-      "original_url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-07T04:09:09.666177+00:00"
-    },
-    {
-      "tweet": "They're calling the Michigan squad the 'Monstars' for winning that title with all those transfers. Seems about right for modern college hoops.",
-      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48416635/michigan-wolverines-ncaa-tournament-title-championship",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "'The best team ever assembled': How Michigan's 'Monstars' converged for a title",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-07T04:09:09.666057+00:00"
-    },
-    {
-      "tweet": "Picsart is trying to pay creators to use their AI tools now. Everything is just one big ad at this point.",
-      "original_url": "https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "AI design platform Picsart launches a creator monetization program",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-04-07T04:09:09.665233+00:00"
-    },
-    {
-      "tweet": "So those NASA astronauts on the Artemis II mission just broke the record for farthest travel from Earth. Imagine just being that far out there.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/artemis-ii-astronauts-break-record-for-farthest-human-travel-from-earth?traffic_source=rss",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Artemis II astronauts break record for farthest human travel from Earth",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-07T04:09:09.664966+00:00"
     },
     {
       "tweet": "So apparently Charli xcx's management is scrambling to explain those Sky Ferreira credits. Messy.",
@@ -937,6 +860,61 @@
       "added_at": "2026-04-05T10:01:38.215904+00:00"
     },
     {
+      "tweet": "Rolling Stone is out here writing listicles on why you should shop at Men’s Wearhouse. I feel like I'm in a simulation.",
+      "original_url": "https://www.rollingstone.com/product-recommendations/lifestyle/best-mens-wearhouse-suits-1235148153/",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "10 Reasons Why Men’s Wearhouse Is Worth Checking Out",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-04-07T04:09:09.666418+00:00"
+    },
+    {
+      "tweet": "Anthropic is teaming up with Google and Broadcom to scale their compute. We're just giving all the power to the same three companies now.",
+      "original_url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-07T04:09:09.666177+00:00"
+    },
+    {
+      "tweet": "They're calling the Michigan squad the 'Monstars' for winning that title with all those transfers. Seems about right for modern college hoops.",
+      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48416635/michigan-wolverines-ncaa-tournament-title-championship",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "'The best team ever assembled': How Michigan's 'Monstars' converged for a title",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-07T04:09:09.666057+00:00"
+    },
+    {
+      "tweet": "Picsart is trying to pay creators to use their AI tools now. Everything is just one big ad at this point.",
+      "original_url": "https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "AI design platform Picsart launches a creator monetization program",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-04-07T04:09:09.665233+00:00"
+    },
+    {
+      "tweet": "So those NASA astronauts on the Artemis II mission just broke the record for farthest travel from Earth. Imagine just being that far out there.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/artemis-ii-astronauts-break-record-for-farthest-human-travel-from-earth?traffic_source=rss",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Artemis II astronauts break record for farthest human travel from Earth",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-07T04:09:09.664966+00:00"
+    },
+    {
       "tweet": "That earth photo from the Artemis II crew is insane. Makes everything look so small.",
       "original_url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
       "buzz_score": 78,
@@ -1014,17 +992,6 @@
       "added_at": "2026-04-06T13:57:07.245992+00:00"
     },
     {
-      "tweet": "Pope Leo XIV is calling for peace, but it's not like the people actually fighting are checking their phones for updates.",
-      "original_url": "https://www.nytimes.com/2026/04/05/world/europe/pope-leo-easter.html",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Pope Leo XIV Calls for Peace in First Easter Mass",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-06T21:29:25.775791+00:00"
-    },
-    {
       "tweet": "Luka's going to Europe for special hamstring treatment because regular rehab just ain't cutting it. Everyone's just trying to survive the season at this point.",
       "original_url": "https://www.espn.com/nba/story/_/id/48409097/luka-doncic-hamstring-seek-specialized-treatment-europe",
       "buzz_score": 80,
@@ -1034,6 +1001,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-06T04:21:17.194774+00:00"
+    },
+    {
+      "tweet": "Pope Leo XIV is calling for peace, but it's not like the people actually fighting are checking their phones for updates.",
+      "original_url": "https://www.nytimes.com/2026/04/05/world/europe/pope-leo-easter.html",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Pope Leo XIV Calls for Peace in First Easter Mass",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-06T21:29:25.775791+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 102,
+    "total_posted": 104,
     "total_collected": 242
   },
-  "last_posted_at": "2026-04-07T04:18:22.658151+00:00"
+  "last_posted_at": "2026-04-07T06:03:18.123863+00:00"
 }
