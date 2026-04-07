@@ -2,28 +2,6 @@
   "last_collected": "2026-04-07T21:07:55.187702+00:00",
   "queue": [
     {
-      "tweet": "Found out grocery store apples are shiny 'cause they're literally coated in wax. Makes sense why I always feel like I should be peeling them, doesn't it.",
-      "original_url": "https://www.mentalfloss.com/food/grocery-stores/why-grocery-store-apples-look-shiny-safe-eat?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why Do Grocery Store Apples Look So Shiny? (And Wait, Are They Safe to Eat?)",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-07T21:07:55.187657+00:00"
-    },
-    {
-      "tweet": "Albanese is in a total panic trying to get petrol for Australia. Seems like everything's breaking.",
-      "original_url": "https://www.theguardian.com/australia-news/live/2026/apr/08/ben-roberts-smith-court-anthony-albanese-labor-angus-taylor-matt-canavan-liberal-national-coalition-fuel-prices-oil-crisis-iran-war-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Australia news live: Albanese talks fuel crisis with Chinese premier; Ben Roberts-Smith to front court",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-07T21:07:55.187694+00:00"
-    },
-    {
       "tweet": "Commonwealth leaders are still going after reparations despite that whole Reform UK plan to cut visas. Wild timing.",
       "original_url": "https://www.theguardian.com/uk-news/2026/apr/07/commonwealth-leaders-vow-to-keep-seeking-reparations-after-reform-uk-plan-to-halt-visas",
       "buzz_score": 85,
@@ -123,6 +101,28 @@
       "added_at": "2026-04-05T23:55:53.317370+00:00"
     },
     {
+      "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
+      "original_url": "https://variety.com/2026/film/reviews/faces-of-death-review-1236706326/",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘Faces of Death’ Review: A ’70s-Style B-Horror Movie Taps into the Growing Appetite for Horror That’s ‘Real’",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-06T04:21:17.194792+00:00"
+    },
+    {
+      "tweet": "UCLA took down South Carolina for the championship. Huge game.",
+      "original_url": "https://deadline.com/2026/04/ucla-wins-ncaa-womens-basketball-title-south-carolina-1236780047/",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "UCLA Triumphs Over South Carolina For First-Ever NCAA Women’s Basketball Title",
+      "source": "Deadline",
+      "category": "entertainment",
+      "added_at": "2026-04-05T23:55:53.317362+00:00"
+    },
+    {
       "tweet": "Democrats are actually freaking out about Trump's rhetoric on Iran. Total silence from the other side, though.",
       "original_url": "https://www.npr.org/2026/04/07/g-s1-116722/congressional-democrats-raise-alarm-over-trumps-comments-on-iran",
       "buzz_score": 80,
@@ -154,72 +154,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-07T21:07:55.187678+00:00"
-    },
-    {
-      "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
-      "original_url": "https://variety.com/2026/film/reviews/faces-of-death-review-1236706326/",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘Faces of Death’ Review: A ’70s-Style B-Horror Movie Taps into the Growing Appetite for Horror That’s ‘Real’",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-06T04:21:17.194792+00:00"
-    },
-    {
-      "tweet": "UCLA took down South Carolina for the championship. Huge game.",
-      "original_url": "https://deadline.com/2026/04/ucla-wins-ncaa-womens-basketball-title-south-carolina-1236780047/",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "UCLA Triumphs Over South Carolina For First-Ever NCAA Women’s Basketball Title",
-      "source": "Deadline",
-      "category": "entertainment",
-      "added_at": "2026-04-05T23:55:53.317362+00:00"
-    },
-    {
-      "tweet": "UK groups are trying to get Ye off the festival lineup. At this point, we're just waiting for the next headline.",
-      "original_url": "https://www.billboard.com/music/music-news/uk-jewish-organizations-respond-ye-offer-meet-wireless-festival-1236216590/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "U.K. Jewish Organizations Respond to Ye’s Offer to Meet – But Say Wireless Festival Appearance Should Be Scrapped",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-07T12:42:10.617849+00:00"
-    },
-    {
-      "tweet": "There was just a shootout at the Israeli consulate in Istanbul. Stuff is getting weird out there.",
-      "original_url": "https://www.nytimes.com/2026/04/07/world/middleeast/istanbul-israel-consulate-shootout.html",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Gunman Killed in Shootout Near Israeli Consulate in Istanbul, Officials Say",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-07T12:42:10.617601+00:00"
-    },
-    {
-      "tweet": "Yo, a train doing 99mph just smoked a truck in France. One person dead. Terrible.",
-      "original_url": "https://www.bbc.com/news/articles/cq590egv9vzo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "One dead as train travelling 99mph collides with lorry in France",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-07T12:42:10.617476+00:00"
-    },
-    {
-      "tweet": "Man, David Warner really caught a drink-driving charge in Sydney. You'd think he'd know better by now.",
-      "original_url": "https://www.bbc.com/sport/cricket/articles/ckgez0k0jd0o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Ex-Australia batter Warner charged with drink-driving",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-07T12:42:10.616790+00:00"
     },
     {
       "tweet": "Willson Contreras got hit by a pitch for the 24th time this year. At what point does he just stop being nice about it",
@@ -431,6 +365,61 @@
       "added_at": "2026-04-05T19:48:04.864444+00:00"
     },
     {
+      "tweet": "Apparently there's some line in that Maul show that changes how Star Wars works. We're really just making it up as we go now.",
+      "original_url": "https://www.polygon.com/star-wars-darth-maul-shadow-lord-laser-sword/",
+      "buzz_score": 78,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "One line in Maul Shadow Lord reveals a mind-bending truth about Star Wars",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-06T10:35:55.049145+00:00"
+    },
+    {
+      "tweet": "UK groups are trying to get Ye off the festival lineup. At this point, we're just waiting for the next headline.",
+      "original_url": "https://www.billboard.com/music/music-news/uk-jewish-organizations-respond-ye-offer-meet-wireless-festival-1236216590/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "U.K. Jewish Organizations Respond to Ye’s Offer to Meet – But Say Wireless Festival Appearance Should Be Scrapped",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-07T12:42:10.617849+00:00"
+    },
+    {
+      "tweet": "There was just a shootout at the Israeli consulate in Istanbul. Stuff is getting weird out there.",
+      "original_url": "https://www.nytimes.com/2026/04/07/world/middleeast/istanbul-israel-consulate-shootout.html",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Gunman Killed in Shootout Near Israeli Consulate in Istanbul, Officials Say",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-07T12:42:10.617601+00:00"
+    },
+    {
+      "tweet": "Yo, a train doing 99mph just smoked a truck in France. One person dead. Terrible.",
+      "original_url": "https://www.bbc.com/news/articles/cq590egv9vzo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "One dead as train travelling 99mph collides with lorry in France",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-07T12:42:10.617476+00:00"
+    },
+    {
+      "tweet": "Man, David Warner really caught a drink-driving charge in Sydney. You'd think he'd know better by now.",
+      "original_url": "https://www.bbc.com/sport/cricket/articles/ckgez0k0jd0o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Ex-Australia batter Warner charged with drink-driving",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-07T12:42:10.616790+00:00"
+    },
+    {
       "tweet": "Jon Rahm thinks he's playing the Ryder Cup next year even though he's ineligible right now. Like, how does that work.",
       "original_url": "https://www.bbc.com/sport/golf/articles/cgqkl3nk325o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -462,28 +451,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-07T21:07:55.187666+00:00"
-    },
-    {
-      "tweet": "Apparently there's some line in that Maul show that changes how Star Wars works. We're really just making it up as we go now.",
-      "original_url": "https://www.polygon.com/star-wars-darth-maul-shadow-lord-laser-sword/",
-      "buzz_score": 78,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "One line in Maul Shadow Lord reveals a mind-bending truth about Star Wars",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-06T10:35:55.049145+00:00"
-    },
-    {
-      "tweet": "Jack Black is out here giving serious interviews about why Koopas want to become Dry Bones. The man is just on another level.",
-      "original_url": "https://www.polygon.com/super-mario-galaxy-movie-suicide-coaster-dry-bones/",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Jack Black has opinions on the Super Mario Galaxy Movie's death-coaster",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-07T12:42:10.616792+00:00"
     },
     {
       "tweet": "There’s an AI startup called Rocket just pumping out McKinsey-style reports now. We're literally automating the bullshit.",
@@ -739,6 +706,17 @@
       "added_at": "2026-04-05T10:01:38.215881+00:00"
     },
     {
+      "tweet": "Jack Black is out here giving serious interviews about why Koopas want to become Dry Bones. The man is just on another level.",
+      "original_url": "https://www.polygon.com/super-mario-galaxy-movie-suicide-coaster-dry-bones/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Jack Black has opinions on the Super Mario Galaxy Movie's death-coaster",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-07T12:42:10.616792+00:00"
+    },
+    {
       "tweet": "So apparently Charli xcx's management is scrambling to explain those Sky Ferreira credits. Messy.",
       "original_url": "https://www.billboard.com/music/music-news/charli-xcx-sky-ferreira-wuthering-heights-credit-statement-1236215575/",
       "buzz_score": 72,
@@ -948,28 +926,6 @@
       "added_at": "2026-04-07T09:41:35.446507+00:00"
     },
     {
-      "tweet": "Barcelona hosting Atletico for the Champions League leg today. Gonna be a long night for somebody.",
-      "original_url": "https://www.aljazeera.com/sports/2026/4/7/barcelona-vs-atletico-madrid-champions-league-team-news-start?traffic_source=rss",
-      "buzz_score": 75,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Barcelona vs Atletico Madrid: Champions League – team news, start, lineups",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-07T12:42:10.616951+00:00"
-    },
-    {
-      "tweet": "They finally confirmed Steve McMichael had CTE. It’s brutal man, but at this point, are we even surprised by what football does to these guys?",
-      "original_url": "https://www.espn.com/nfl/story/_/id/48419299/bears-icon-steve-mcmichael-diagnosed-cte-year-death",
-      "buzz_score": 75,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Bears HOFer McMichael, who died at 67, had CTE",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-07T12:42:10.616785+00:00"
-    },
-    {
       "tweet": "LA stadium workers are asking FIFA to keep ICE away from the World Cup. It's crazy that they even have to ask for that.",
       "original_url": "https://www.aljazeera.com/sports/2026/4/7/los-angeles-stadium-workers-urge-fifa-to-bar-ice-from-world-cup?traffic_source=rss",
       "buzz_score": 80,
@@ -1001,6 +957,28 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-07T09:41:35.447317+00:00"
+    },
+    {
+      "tweet": "Barcelona hosting Atletico for the Champions League leg today. Gonna be a long night for somebody.",
+      "original_url": "https://www.aljazeera.com/sports/2026/4/7/barcelona-vs-atletico-madrid-champions-league-team-news-start?traffic_source=rss",
+      "buzz_score": 75,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Barcelona vs Atletico Madrid: Champions League – team news, start, lineups",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-07T12:42:10.616951+00:00"
+    },
+    {
+      "tweet": "They finally confirmed Steve McMichael had CTE. It’s brutal man, but at this point, are we even surprised by what football does to these guys?",
+      "original_url": "https://www.espn.com/nfl/story/_/id/48419299/bears-icon-steve-mcmichael-diagnosed-cte-year-death",
+      "buzz_score": 75,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Bears HOFer McMichael, who died at 67, had CTE",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-07T12:42:10.616785+00:00"
     },
     {
       "tweet": "Seeing all these Ella Langley tracks popping up. Sometimes the stuff that isn't on the radio is actually better.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 132,
+    "total_posted": 134,
     "total_collected": 300
   },
-  "last_posted_at": "2026-04-07T21:16:47.230803+00:00"
+  "last_posted_at": "2026-04-07T22:04:21.676873+00:00"
 }
