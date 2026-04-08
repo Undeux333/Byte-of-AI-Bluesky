@@ -2,28 +2,6 @@
   "last_collected": "2026-04-08T12:41:37.763860+00:00",
   "queue": [
     {
-      "tweet": "So apparently Greece is gonna ban social media for anyone under 15 next year. Good luck enforcing that one.",
-      "original_url": "https://www.bbc.com/news/articles/ckgx1x742x5o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Greece to ban social media for under-15s from next year",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-08T12:41:37.763274+00:00"
-    },
-    {
-      "tweet": "Wait, so we got a ceasefire but the UAE and Kuwait are still reporting attacks? What ceasefire",
-      "original_url": "https://www.aljazeera.com/news/2026/4/8/uae-kuwait-bahrain-report-attacks-despite-iran-us-ceasefire?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "UAE, Kuwait, Bahrain report attacks despite Iran-US ceasefire",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-08T12:41:37.763456+00:00"
-    },
-    {
       "tweet": "Sam Levinson says the next season of Euphoria is finally coming out in April. It's been eighty-four years.",
       "original_url": "https://www.billboard.com/culture/tv-film/euphoria-levinson-third-season-dedicated-angus-cloud-eric-dane-1236217656/",
       "buzz_score": 80,
@@ -200,6 +178,61 @@
       "added_at": "2026-04-08T04:12:50.486464+00:00"
     },
     {
+      "tweet": "So apparently Australian gas stations are running out of diesel despite that tax relief. How does that even happen?",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/06/diesel-price-access-australia-fuel-volatile",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Diesel remains volatile as prices rise again despite Labor’s fuel tax relief",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-06T08:02:47.251494+00:00"
+    },
+    {
+      "tweet": "They're having dating events in Tokyo for people who have the same last name because Japan won't let couples change theirs. We're really just finding any reason to meet someone.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/06/when-suzuki-met-suzuki-tokyo-dating-agency-matching-surnames-japan",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "When Suzuki met Suzuki: why a Tokyo dating agency is matching couples with the same name",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-06T04:21:17.194779+00:00"
+    },
+    {
+      "tweet": "That farming town shut down the ICE detention center plan in their backyard. Guess they realized NIMBY is the only way to get anything done.",
+      "original_url": "https://www.bbc.com/news/articles/cje47vy0w3ko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "ICE wanted to build a detention centre -  this small farming town said no",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-05T23:55:53.317370+00:00"
+    },
+    {
+      "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
+      "original_url": "https://variety.com/2026/film/reviews/faces-of-death-review-1236706326/",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘Faces of Death’ Review: A ’70s-Style B-Horror Movie Taps into the Growing Appetite for Horror That’s ‘Real’",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-06T04:21:17.194792+00:00"
+    },
+    {
+      "tweet": "UCLA took down South Carolina for the championship. Huge game.",
+      "original_url": "https://deadline.com/2026/04/ucla-wins-ncaa-womens-basketball-title-south-carolina-1236780047/",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "UCLA Triumphs Over South Carolina For First-Ever NCAA Women’s Basketball Title",
+      "source": "Deadline",
+      "category": "entertainment",
+      "added_at": "2026-04-05T23:55:53.317362+00:00"
+    },
+    {
       "tweet": "Body Type just signed to King Gizzard’s label. Those guys literally never stop working.",
       "original_url": "https://www.billboard.com/pro/body-type-signs-king-gizzard-pdoom-records/",
       "buzz_score": 70,
@@ -264,72 +297,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-08T07:09:32.873941+00:00"
-    },
-    {
-      "tweet": "So apparently Australian gas stations are running out of diesel despite that tax relief. How does that even happen?",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/06/diesel-price-access-australia-fuel-volatile",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Diesel remains volatile as prices rise again despite Labor’s fuel tax relief",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-06T08:02:47.251494+00:00"
-    },
-    {
-      "tweet": "They're having dating events in Tokyo for people who have the same last name because Japan won't let couples change theirs. We're really just finding any reason to meet someone.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/06/when-suzuki-met-suzuki-tokyo-dating-agency-matching-surnames-japan",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "When Suzuki met Suzuki: why a Tokyo dating agency is matching couples with the same name",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-06T04:21:17.194779+00:00"
-    },
-    {
-      "tweet": "That farming town shut down the ICE detention center plan in their backyard. Guess they realized NIMBY is the only way to get anything done.",
-      "original_url": "https://www.bbc.com/news/articles/cje47vy0w3ko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "ICE wanted to build a detention centre -  this small farming town said no",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-05T23:55:53.317370+00:00"
-    },
-    {
-      "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
-      "original_url": "https://variety.com/2026/film/reviews/faces-of-death-review-1236706326/",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘Faces of Death’ Review: A ’70s-Style B-Horror Movie Taps into the Growing Appetite for Horror That’s ‘Real’",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-06T04:21:17.194792+00:00"
-    },
-    {
-      "tweet": "UCLA took down South Carolina for the championship. Huge game.",
-      "original_url": "https://deadline.com/2026/04/ucla-wins-ncaa-womens-basketball-title-south-carolina-1236780047/",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "UCLA Triumphs Over South Carolina For First-Ever NCAA Women’s Basketball Title",
-      "source": "Deadline",
-      "category": "entertainment",
-      "added_at": "2026-04-05T23:55:53.317362+00:00"
-    },
-    {
-      "tweet": "So telehealth abortion is still a thing for now. Why are we letting judges decide what a doctor can do over a call?",
-      "original_url": "https://www.npr.org/2026/04/07/nx-s1-5776946/telehealth-abortion-louisiana-federal-court-mifepristone",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Telehealth abortion will remain available for now, after a federal judge's ruling",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-08T04:12:50.486172+00:00"
     },
     {
       "tweet": "Arsenal guys are calling David Raya the best keeper in the world now. Whatever works.",
@@ -583,6 +550,17 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-06T10:35:55.049145+00:00"
+    },
+    {
+      "tweet": "So telehealth abortion is still a thing for now. Why are we letting judges decide what a doctor can do over a call?",
+      "original_url": "https://www.npr.org/2026/04/07/nx-s1-5776946/telehealth-abortion-louisiana-federal-court-mifepristone",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Telehealth abortion will remain available for now, after a federal judge's ruling",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-08T04:12:50.486172+00:00"
     },
     {
       "tweet": "UK groups are trying to get Ye off the festival lineup. At this point, we're just waiting for the next headline.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 158,
+    "total_posted": 160,
     "total_collected": 368
   },
-  "last_posted_at": "2026-04-08T12:51:27.842696+00:00"
+  "last_posted_at": "2026-04-08T14:19:57.859439+00:00"
 }
