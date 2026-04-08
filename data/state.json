@@ -2,28 +2,6 @@
   "last_collected": "2026-04-08T09:42:05.163602+00:00",
   "queue": [
     {
-      "tweet": "Did you see that latest stuff on OpenAI? It's honestly wild that we just let one guy steer the whole ship like that. Scary man.",
-      "original_url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Sam Altman may control our future – can he be trusted?",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-08T09:42:05.162040+00:00"
-    },
-    {
-      "tweet": "Hold on, so that Trump probe is actually freezing data just to stop kids from voting? That's not even subtle anymore.",
-      "original_url": "https://www.npr.org/2026/04/08/nx-s1-5725279/college-trump-voting-data-probe-voting-registration",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Colleges are trying to boost student voting. A Trump probe freezes data for that work",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-08T09:42:05.162050+00:00"
-    },
-    {
       "tweet": "Dude, did you see the Angels game? Soler and Lopez just started trading haymakers on the mound. Straight hockey fight.",
       "original_url": "https://www.espn.com/mlb/story/_/id/48426065/angels-soler-braves-lopez-ejected-benches-clear-brawl",
       "buzz_score": 85,
@@ -288,17 +266,6 @@
       "added_at": "2026-04-05T23:55:53.317362+00:00"
     },
     {
-      "tweet": "Michael Malone said UNC is the only job he would have taken. Everyone has that one dream thing they'd drop everything for.",
-      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48425089/malone-sees-chance-part-special-unc",
-      "buzz_score": 78,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "NBA vet Malone sees 'special' opportunity at UNC",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-08T04:12:50.486336+00:00"
-    },
-    {
       "tweet": "Arsenal guys are calling David Raya the best keeper in the world now. Whatever works.",
       "original_url": "https://www.bbc.com/sport/football/articles/cvgldp4gjqlo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -541,17 +508,6 @@
       "added_at": "2026-04-05T19:48:04.864444+00:00"
     },
     {
-      "tweet": "Finally some good news, they let Shelly Kittleson go after that whole kidnapping thing. Relief man.",
-      "original_url": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "US journalist Shelly Kittleson released after kidnap in Iraq, officials say",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-08T09:42:05.163232+00:00"
-    },
-    {
       "tweet": "Apparently there's some line in that Maul show that changes how Star Wars works. We're really just making it up as we go now.",
       "original_url": "https://www.polygon.com/star-wars-darth-maul-shadow-lord-laser-sword/",
       "buzz_score": 78,
@@ -561,6 +517,28 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-06T10:35:55.049145+00:00"
+    },
+    {
+      "tweet": "Michael Malone said UNC is the only job he would have taken. Everyone has that one dream thing they'd drop everything for.",
+      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48425089/malone-sees-chance-part-special-unc",
+      "buzz_score": 78,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "NBA vet Malone sees 'special' opportunity at UNC",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-08T04:12:50.486336+00:00"
+    },
+    {
+      "tweet": "Finally some good news, they let Shelly Kittleson go after that whole kidnapping thing. Relief man.",
+      "original_url": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "US journalist Shelly Kittleson released after kidnap in Iraq, officials say",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-08T09:42:05.163232+00:00"
     },
     {
       "tweet": "UK groups are trying to get Ye off the festival lineup. At this point, we're just waiting for the next headline.",
@@ -860,6 +838,17 @@
       "added_at": "2026-04-05T10:01:38.215881+00:00"
     },
     {
+      "tweet": "So apparently Charli xcx's management is scrambling to explain those Sky Ferreira credits. Messy.",
+      "original_url": "https://www.billboard.com/music/music-news/charli-xcx-sky-ferreira-wuthering-heights-credit-statement-1236215575/",
+      "buzz_score": 72,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Charli xcx Management Clarifies Sky Ferreira Claims About ‘Wuthering Heights’ Credits",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-06T04:21:17.194772+00:00"
+    },
+    {
       "tweet": "So urgent care is filling in for closed abortion clinics now. We're really just making it up as we go.",
       "original_url": "https://www.npr.org/2026/04/08/nx-s1-5773333/planned-parenthood-urgent-care-medication-abortion-rural",
       "buzz_score": 70,
@@ -902,17 +891,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-08T09:42:05.162055+00:00"
-    },
-    {
-      "tweet": "So apparently Charli xcx's management is scrambling to explain those Sky Ferreira credits. Messy.",
-      "original_url": "https://www.billboard.com/music/music-news/charli-xcx-sky-ferreira-wuthering-heights-credit-statement-1236215575/",
-      "buzz_score": 72,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Charli xcx Management Clarifies Sky Ferreira Claims About ‘Wuthering Heights’ Credits",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-06T04:21:17.194772+00:00"
     },
     {
       "tweet": "Jack Black is out here giving serious interviews about why Koopas want to become Dry Bones. The man is just on another level.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 152,
+    "total_posted": 154,
     "total_collected": 358
   },
-  "last_posted_at": "2026-04-08T09:47:26.535507+00:00"
+  "last_posted_at": "2026-04-08T10:50:08.675466+00:00"
 }
