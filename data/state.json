@@ -2,28 +2,6 @@
   "last_collected": "2026-04-08T07:09:32.875439+00:00",
   "queue": [
     {
-      "tweet": "Chris Bowen is telling us not to expect cheaper fuel even with that Iran ceasefire. That's just how they keep the prices up.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/08/petrol-prices-rise-australia-iran-ceasefire-cheaper-fuel",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Petrol prices rise again as Albanese government warns Iran war ceasefire won’t make fuel cheaper",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-08T07:09:32.874092+00:00"
-    },
-    {
-      "tweet": "Google just dropped an offline dictation app. Finally, a way to type without selling my soul to the cloud every five seconds.",
-      "original_url": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Google quietly launched an AI dictation app that works offline",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-04-08T07:09:32.874337+00:00"
-    },
-    {
       "tweet": "Dude, did you see the Angels game? Soler and Lopez just started trading haymakers on the mound. Straight hockey fight.",
       "original_url": "https://www.espn.com/mlb/story/_/id/48426065/angels-soler-braves-lopez-ejected-benches-clear-brawl",
       "buzz_score": 85,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 148,
+    "total_posted": 150,
     "total_collected": 342
   },
-  "last_posted_at": "2026-04-08T07:17:34.114849+00:00"
+  "last_posted_at": "2026-04-08T08:24:14.293864+00:00"
 }
