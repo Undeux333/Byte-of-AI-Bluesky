@@ -2,28 +2,6 @@
   "last_collected": "2026-04-08T09:42:05.163602+00:00",
   "queue": [
     {
-      "tweet": "Dude, did you see the Angels game? Soler and Lopez just started trading haymakers on the mound. Straight hockey fight.",
-      "original_url": "https://www.espn.com/mlb/story/_/id/48426065/angels-soler-braves-lopez-ejected-benches-clear-brawl",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Soler, Lopez trade haymakers, ejected in brawl",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-08T07:09:32.873938+00:00"
-    },
-    {
-      "tweet": "They say Earth looks peaceful from space, but that's only 'cause you can't hear us arguing in real time. We're just a noisy blur.",
-      "original_url": "https://bigthink.com/starts-with-a-bang/alien-eyes-earth-peaceful/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "To alien eyes, Earth looks deceptively peaceful",
-      "source": "Big Think",
-      "category": "trivia",
-      "added_at": "2026-04-08T07:09:32.873932+00:00"
-    },
-    {
       "tweet": "Oasis is doing a collab with adidas again. We're never letting the 90s die, are we.",
       "original_url": "https://hypebeast.com/2026/4/oasis-adidas-spring-summer-ss-2026-collaboration-collection-release-info",
       "buzz_score": 80,
@@ -200,17 +178,6 @@
       "added_at": "2026-04-08T07:09:32.873941+00:00"
     },
     {
-      "tweet": "So telehealth abortion is still a thing for now. Why are we letting judges decide what a doctor can do over a call?",
-      "original_url": "https://www.npr.org/2026/04/07/nx-s1-5776946/telehealth-abortion-louisiana-federal-court-mifepristone",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Telehealth abortion will remain available for now, after a federal judge's ruling",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-08T04:12:50.486172+00:00"
-    },
-    {
       "tweet": "So apparently Australian gas stations are running out of diesel despite that tax relief. How does that even happen?",
       "original_url": "https://www.theguardian.com/australia-news/2026/apr/06/diesel-price-access-australia-fuel-volatile",
       "buzz_score": 85,
@@ -242,6 +209,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-05T23:55:53.317370+00:00"
+    },
+    {
+      "tweet": "So telehealth abortion is still a thing for now. Why are we letting judges decide what a doctor can do over a call?",
+      "original_url": "https://www.npr.org/2026/04/07/nx-s1-5776946/telehealth-abortion-louisiana-federal-court-mifepristone",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Telehealth abortion will remain available for now, after a federal judge's ruling",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-08T04:12:50.486172+00:00"
     },
     {
       "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
@@ -517,28 +495,6 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-06T10:35:55.049145+00:00"
-    },
-    {
-      "tweet": "Michael Malone said UNC is the only job he would have taken. Everyone has that one dream thing they'd drop everything for.",
-      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48425089/malone-sees-chance-part-special-unc",
-      "buzz_score": 78,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "NBA vet Malone sees 'special' opportunity at UNC",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-08T04:12:50.486336+00:00"
-    },
-    {
-      "tweet": "Finally some good news, they let Shelly Kittleson go after that whole kidnapping thing. Relief man.",
-      "original_url": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "US journalist Shelly Kittleson released after kidnap in Iraq, officials say",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-08T09:42:05.163232+00:00"
     },
     {
       "tweet": "UK groups are trying to get Ye off the festival lineup. At this point, we're just waiting for the next headline.",
@@ -838,6 +794,17 @@
       "added_at": "2026-04-05T10:01:38.215881+00:00"
     },
     {
+      "tweet": "Michael Malone said UNC is the only job he would have taken. Everyone has that one dream thing they'd drop everything for.",
+      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48425089/malone-sees-chance-part-special-unc",
+      "buzz_score": 78,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "NBA vet Malone sees 'special' opportunity at UNC",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-08T04:12:50.486336+00:00"
+    },
+    {
       "tweet": "So apparently Charli xcx's management is scrambling to explain those Sky Ferreira credits. Messy.",
       "original_url": "https://www.billboard.com/music/music-news/charli-xcx-sky-ferreira-wuthering-heights-credit-statement-1236215575/",
       "buzz_score": 72,
@@ -849,48 +816,15 @@
       "added_at": "2026-04-06T04:21:17.194772+00:00"
     },
     {
-      "tweet": "So urgent care is filling in for closed abortion clinics now. We're really just making it up as we go.",
-      "original_url": "https://www.npr.org/2026/04/08/nx-s1-5773333/planned-parenthood-urgent-care-medication-abortion-rural",
-      "buzz_score": 70,
+      "tweet": "Finally some good news, they let Shelly Kittleson go after that whole kidnapping thing. Relief man.",
+      "original_url": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
       "buzz_score2": 85,
       "rewrite_count": 0,
-      "original_title": "Abortion clinics are closing nationwide. Could urgent care help fill the gap?",
-      "source": "NPR News",
+      "original_title": "US journalist Shelly Kittleson released after kidnap in Iraq, officials say",
+      "source": "BBC World",
       "category": "world",
-      "added_at": "2026-04-08T09:42:05.163354+00:00"
-    },
-    {
-      "tweet": "Man, that story about the girl on the Ha Giang loop is so rough. Just tragic.",
-      "original_url": "https://www.theguardian.com/uk-news/2026/apr/08/orla-wates-family-tribute-british-teenager-killed-motorcycle-crash-vietnam-ha-giang-loop",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Family pay tribute to British teenager killed in motorcycle crash in Vietnam",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-08T09:42:05.163109+00:00"
-    },
-    {
-      "tweet": "Yo, Ja Morant and Nike are dropping those denim Air Force 1s. Those are actually clean.",
-      "original_url": "https://hypebeast.com/2026/4/ja-morant-nike-air-force-1-low-denim-iq9773-400-release-info",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Ja Morant and Nike Keep It Clean With the Air Force 1 Low \"Denim\"",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-08T09:42:05.162466+00:00"
-    },
-    {
-      "tweet": "Liverpool and Barcelona are actually fighting over Marco Palestra now. We really just can't stop obsessing over transfer news, can we.",
-      "original_url": "https://www.espn.com/soccer/story/_/id/48427040/transfer-rumors-news-liverpool-barcelona-eye-atalanta-italy-defender-marco-palestra",
-      "buzz_score": 70,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Transfer rumors, news: Liverpool, Barcelona eye Italy defender",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-08T09:42:05.162055+00:00"
+      "added_at": "2026-04-08T09:42:05.163232+00:00"
     },
     {
       "tweet": "Jack Black is out here giving serious interviews about why Koopas want to become Dry Bones. The man is just on another level.",
@@ -1012,6 +946,50 @@
       "source": "Hypebeast",
       "category": "entertainment",
       "added_at": "2026-04-06T08:02:47.251497+00:00"
+    },
+    {
+      "tweet": "So urgent care is filling in for closed abortion clinics now. We're really just making it up as we go.",
+      "original_url": "https://www.npr.org/2026/04/08/nx-s1-5773333/planned-parenthood-urgent-care-medication-abortion-rural",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Abortion clinics are closing nationwide. Could urgent care help fill the gap?",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-08T09:42:05.163354+00:00"
+    },
+    {
+      "tweet": "Man, that story about the girl on the Ha Giang loop is so rough. Just tragic.",
+      "original_url": "https://www.theguardian.com/uk-news/2026/apr/08/orla-wates-family-tribute-british-teenager-killed-motorcycle-crash-vietnam-ha-giang-loop",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Family pay tribute to British teenager killed in motorcycle crash in Vietnam",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-08T09:42:05.163109+00:00"
+    },
+    {
+      "tweet": "Yo, Ja Morant and Nike are dropping those denim Air Force 1s. Those are actually clean.",
+      "original_url": "https://hypebeast.com/2026/4/ja-morant-nike-air-force-1-low-denim-iq9773-400-release-info",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Ja Morant and Nike Keep It Clean With the Air Force 1 Low \"Denim\"",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-08T09:42:05.162466+00:00"
+    },
+    {
+      "tweet": "Liverpool and Barcelona are actually fighting over Marco Palestra now. We really just can't stop obsessing over transfer news, can we.",
+      "original_url": "https://www.espn.com/soccer/story/_/id/48427040/transfer-rumors-news-liverpool-barcelona-eye-atalanta-italy-defender-marco-palestra",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Transfer rumors, news: Liverpool, Barcelona eye Italy defender",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-08T09:42:05.162055+00:00"
     }
   ],
   "seen_urls": [
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 154,
+    "total_posted": 156,
     "total_collected": 358
   },
-  "last_posted_at": "2026-04-08T10:50:08.675466+00:00"
+  "last_posted_at": "2026-04-08T11:46:19.472476+00:00"
 }
