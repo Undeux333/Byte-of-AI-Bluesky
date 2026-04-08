@@ -2,28 +2,6 @@
   "last_collected": "2026-04-08T22:35:32.476130+00:00",
   "queue": [
     {
-      "tweet": "Prosecutors are looking into Tiger Woods' prescription records now. That feels like a bad sign.",
-      "original_url": "https://www.espn.com/golf/story/_/id/48432549/prosecutors-seeking-tiger-woods-prescription-drug-records",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Prosecutors seek Tiger's prescription drug records",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-08T22:35:32.475880+00:00"
-    },
-    {
-      "tweet": "Doja Cat is out here defending Madonna from trolls. She’s not wrong, you can do your job forever.",
-      "original_url": "https://www.billboard.com/music/music-news/doja-cat-defends-madonna-against-ageism-1236218312/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Doja Cat Defends Madonna Against Trolls Who Say the Legend Is ‘Too Old’ to Perform: ‘You Feel Threatened by an Older Woman Who Can Do Her Job Forever?’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-08T22:35:32.474836+00:00"
-    },
-    {
       "tweet": "World leaders are actually being whipsawed by Trump’s whims right now. That’s just a rough way to run a planet.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/europe/iran-ceasefire-world-reaction.html",
       "buzz_score": 80,
@@ -288,17 +266,6 @@
       "added_at": "2026-04-08T15:44:16.953760+00:00"
     },
     {
-      "tweet": "Those French citizens finally got out of that Iranian prison after years. Just state hostages for no reason.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/middleeast/france-iran-hostages.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Freed French Citizens Return From Iran: ‘We Were State Hostages’",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-08T15:44:16.953763+00:00"
-    },
-    {
       "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 82,
@@ -308,6 +275,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-08T04:12:50.486178+00:00"
+    },
+    {
+      "tweet": "Those French citizens finally got out of that Iranian prison after years. Just state hostages for no reason.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/middleeast/france-iran-hostages.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Freed French Citizens Return From Iran: ‘We Were State Hostages’",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-08T15:44:16.953763+00:00"
     },
     {
       "tweet": "Texans just picked up the options for Stroud and Anderson. Good to know at least someone in the league has a plan for the next few years.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 176,
+    "total_posted": 178,
     "total_collected": 420
   },
-  "last_posted_at": "2026-04-08T22:42:25.517606+00:00"
+  "last_posted_at": "2026-04-08T23:32:55.689159+00:00"
 }
