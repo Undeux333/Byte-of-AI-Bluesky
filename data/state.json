@@ -2,28 +2,6 @@
   "last_collected": "2026-04-08T17:48:49.218087+00:00",
   "queue": [
     {
-      "tweet": "Wait, so there’s a ceasefire, but Gulf nations are reporting constant Iranian attacks anyway. Some ceasefire.",
-      "original_url": "https://www.nytimes.com/live/2026/04/08/world/iran-war-trump-news/gulf-countries-attacks-iran-ceasefire",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Gulf Arab nations report a barrage of Iranian attacks since the cease-fire.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-08T17:48:49.217277+00:00"
-    },
-    {
-      "tweet": "Some guy just ported Mac OS X to the Wii. Why? No clue, but now you can browse the web on a console from 2006. Pure chaos.",
-      "original_url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "I Ported Mac OS X to the Nintendo Wii",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-08T17:48:49.217262+00:00"
-    },
-    {
       "tweet": "James Pearce Jr. isn't at the Falcons workouts because he's facing three felonies. Just a normal Tuesday in the NFL.",
       "original_url": "https://www.espn.com/nfl/story/_/id/48429078/kevin-stefanski-falcons-james-pearce-not-offseason-workoutskevin-stefanski-falcons-james-pearce-not-offseason-workouts",
       "buzz_score": 80,
@@ -123,17 +101,6 @@
       "added_at": "2026-04-08T17:48:49.217690+00:00"
     },
     {
-      "tweet": "Sam Levinson says the next season of Euphoria is finally coming out in April. It's been eighty-four years.",
-      "original_url": "https://www.billboard.com/culture/tv-film/euphoria-levinson-third-season-dedicated-angus-cloud-eric-dane-1236217656/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘Euphoria’ Creator Sam Levinson Says Third Season Dedicated to ‘Those Who We Lost,’ Including Angus Cloud and Eric Dane",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-08T12:41:37.763286+00:00"
-    },
-    {
       "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 82,
@@ -143,6 +110,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-08T04:12:50.486178+00:00"
+    },
+    {
+      "tweet": "Sam Levinson says the next season of Euphoria is finally coming out in April. It's been eighty-four years.",
+      "original_url": "https://www.billboard.com/culture/tv-film/euphoria-levinson-third-season-dedicated-angus-cloud-eric-dane-1236217656/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘Euphoria’ Creator Sam Levinson Says Third Season Dedicated to ‘Those Who We Lost,’ Including Angus Cloud and Eric Dane",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-08T12:41:37.763286+00:00"
     },
     {
       "tweet": "People are modding Crimson Desert so you can play as a female character now. We'll literally fix anything ourselves.",
@@ -189,28 +167,6 @@
       "added_at": "2026-04-08T12:41:37.763283+00:00"
     },
     {
-      "tweet": "The Pirates just gave Konnor Griffin 140 million over nine years. Imagine being that rich at his age.",
-      "original_url": "https://www.espn.com/mlb/story/_/id/48428020/sources-konnor-griffin-agrees-9-year-140m-deal-pirates",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sources: Griffin, Pirates agree on 9 years, $140M",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-08T12:41:37.763289+00:00"
-    },
-    {
-      "tweet": "Oasis is doing a collab with adidas again. We're never letting the 90s die, are we.",
-      "original_url": "https://hypebeast.com/2026/4/oasis-adidas-spring-summer-ss-2026-collaboration-collection-release-info",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Oasis and adidas Originals Unveil SS26 Collaborative Capsule Collection",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-08T09:42:05.162592+00:00"
-    },
-    {
       "tweet": "Netanyahu said the US-Iran ceasefire doesn't include Lebanon. Nothing ever really ends, does it?",
       "original_url": "https://www.aljazeera.com/news/2026/4/8/netanyahu-says-us-iran-ceasefire-does-not-include-lebanon?traffic_source=rss",
       "buzz_score": 85,
@@ -255,6 +211,28 @@
       "added_at": "2026-04-05T23:55:53.317370+00:00"
     },
     {
+      "tweet": "The Pirates just gave Konnor Griffin 140 million over nine years. Imagine being that rich at his age.",
+      "original_url": "https://www.espn.com/mlb/story/_/id/48428020/sources-konnor-griffin-agrees-9-year-140m-deal-pirates",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sources: Griffin, Pirates agree on 9 years, $140M",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-08T12:41:37.763289+00:00"
+    },
+    {
+      "tweet": "Oasis is doing a collab with adidas again. We're never letting the 90s die, are we.",
+      "original_url": "https://hypebeast.com/2026/4/oasis-adidas-spring-summer-ss-2026-collaboration-collection-release-info",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Oasis and adidas Originals Unveil SS26 Collaborative Capsule Collection",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-08T09:42:05.162592+00:00"
+    },
+    {
       "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
       "original_url": "https://variety.com/2026/film/reviews/faces-of-death-review-1236706326/",
       "buzz_score": 82,
@@ -275,39 +253,6 @@
       "source": "Deadline",
       "category": "entertainment",
       "added_at": "2026-04-05T23:55:53.317362+00:00"
-    },
-    {
-      "tweet": "NASA's putting a live feed on Netflix now. Guess we're all just gonna be staring at space while we eat dinner.",
-      "original_url": "https://usa.newonnetflix.info/info/82066548",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "8th Apr: NASA+ Live on Netflix (2026), 2 Episodes [TV-G] (6/10)",
-      "source": "New on Netflix",
-      "category": "entertainment",
-      "added_at": "2026-04-08T09:42:05.162738+00:00"
-    },
-    {
-      "tweet": "Russia is literally paying off those 116 athletes they banned from the Olympics. That's such a move.",
-      "original_url": "https://www.bbc.com/sport/articles/c9wqvx17q12o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Russia to pay 116 athletes banned from Winter Olympics",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-08T09:42:05.162211+00:00"
-    },
-    {
-      "tweet": "So apparently everyone's celebrating in Tehran over that ceasefire announcement. They really threw a party for two weeks of quiet. Hilarious.",
-      "original_url": "https://www.bbc.com/news/videos/cgldg5nn9d8o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Watch: Iranians gather in Tehran following ceasefire announcement",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-08T09:42:05.162047+00:00"
     },
     {
       "tweet": "Teachers in Yemen are basically working for free at this point. It's wild how we just watch countries collapse.",
@@ -585,15 +530,37 @@
       "added_at": "2026-04-06T10:35:55.049145+00:00"
     },
     {
-      "tweet": "Chile is literally tearing down plans for a memorial at that old Pinochet torture site. Like we're just pretending that didn't happen now.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/08/chile-torture-paul-schafer-villa-baviera",
-      "buzz_score": 80,
-      "buzz_score2": 85,
+      "tweet": "NASA's putting a live feed on Netflix now. Guess we're all just gonna be staring at space while we eat dinner.",
+      "original_url": "https://usa.newonnetflix.info/info/82066548",
+      "buzz_score": 75,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Chile’s far-right government rips up plan for memorial at Pinochet torture site",
-      "source": "The Guardian",
+      "original_title": "8th Apr: NASA+ Live on Netflix (2026), 2 Episodes [TV-G] (6/10)",
+      "source": "New on Netflix",
+      "category": "entertainment",
+      "added_at": "2026-04-08T09:42:05.162738+00:00"
+    },
+    {
+      "tweet": "Russia is literally paying off those 116 athletes they banned from the Olympics. That's such a move.",
+      "original_url": "https://www.bbc.com/sport/articles/c9wqvx17q12o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Russia to pay 116 athletes banned from Winter Olympics",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-08T09:42:05.162211+00:00"
+    },
+    {
+      "tweet": "So apparently everyone's celebrating in Tehran over that ceasefire announcement. They really threw a party for two weeks of quiet. Hilarious.",
+      "original_url": "https://www.bbc.com/news/videos/cgldg5nn9d8o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Watch: Iranians gather in Tehran following ceasefire announcement",
+      "source": "BBC World",
       "category": "world",
-      "added_at": "2026-04-08T15:44:16.954321+00:00"
+      "added_at": "2026-04-08T09:42:05.162047+00:00"
     },
     {
       "tweet": "Matt Canavan’s latest plan is to just force us to buy expensive local stuff to fix the economy. That's a total mirage.",
@@ -937,15 +904,15 @@
       "added_at": "2026-04-06T04:21:17.194772+00:00"
     },
     {
-      "tweet": "Leicester City lost their appeal on that points deduction. Guess the league really hates it when you mess with their financial rules.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c0mjx7wexnvo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
+      "tweet": "Chile is literally tearing down plans for a memorial at that old Pinochet torture site. Like we're just pretending that didn't happen now.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/08/chile-torture-paul-schafer-villa-baviera",
+      "buzz_score": 80,
       "buzz_score2": 85,
       "rewrite_count": 0,
-      "original_title": "Leicester lose appeal against points deduction",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-08T15:44:16.954047+00:00"
+      "original_title": "Chile’s far-right government rips up plan for memorial at Pinochet torture site",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-08T15:44:16.954321+00:00"
     },
     {
       "tweet": "Body Type just signed to King Gizzard’s label. Those guys literally never stop working.",
@@ -1034,6 +1001,17 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-06T23:50:44.158254+00:00"
+    },
+    {
+      "tweet": "Leicester City lost their appeal on that points deduction. Guess the league really hates it when you mess with their financial rules.",
+      "original_url": "https://www.bbc.com/sport/football/articles/c0mjx7wexnvo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Leicester lose appeal against points deduction",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-08T15:44:16.954047+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 166,
+    "total_posted": 168,
     "total_collected": 388
   },
-  "last_posted_at": "2026-04-08T17:58:31.803281+00:00"
+  "last_posted_at": "2026-04-08T19:07:17.434699+00:00"
 }
