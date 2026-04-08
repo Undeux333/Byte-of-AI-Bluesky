@@ -2,28 +2,6 @@
   "last_collected": "2026-04-08T04:12:50.487753+00:00",
   "queue": [
     {
-      "tweet": "Hold on, OpenAI saying GPT-2 is too dangerous to release is actually wild. Imagine being afraid of your own product. Classic.",
-      "original_url": "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-08T04:12:50.486165+00:00"
-    },
-    {
-      "tweet": "Mavs are fighting the Lakers on whether they scanned the wrong part of Reaves' body. Since when is an MRI a debate?",
-      "original_url": "https://www.espn.com/nba/story/_/id/48424364/mavericks-dispute-redick-claim-erred-reaves-mri",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mavs dispute claim they erred with Reaves' MRI",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-08T04:12:50.486180+00:00"
-    },
-    {
       "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 82,
@@ -79,28 +57,6 @@
       "added_at": "2026-04-07T23:53:37.223526+00:00"
     },
     {
-      "tweet": "So apparently ICE just straight up admitted they're using spyware to track encrypted messages. Not even hiding it.",
-      "original_url": "https://www.npr.org/2026/04/07/nx-s1-5776799/ice-spyware-privacy",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "ICE acknowledges it is using powerful spyware",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-07T21:07:55.187671+00:00"
-    },
-    {
-      "tweet": "Apparently everyone's saying maxxing now for literally everything. I'm just trying to survive the work week, man.",
-      "original_url": "https://www.mentalfloss.com/language/slang/maxxing-meaning-explained?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "What Does \"Maxxing\" Mean? The Viral Internet Slang Term, Explained",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-07T21:07:55.187663+00:00"
-    },
-    {
       "tweet": "So apparently Australian gas stations are running out of diesel despite that tax relief. How does that even happen?",
       "original_url": "https://www.theguardian.com/australia-news/2026/apr/06/diesel-price-access-australia-fuel-volatile",
       "buzz_score": 85,
@@ -132,6 +88,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-05T23:55:53.317370+00:00"
+    },
+    {
+      "tweet": "So apparently ICE just straight up admitted they're using spyware to track encrypted messages. Not even hiding it.",
+      "original_url": "https://www.npr.org/2026/04/07/nx-s1-5776799/ice-spyware-privacy",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "ICE acknowledges it is using powerful spyware",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-07T21:07:55.187671+00:00"
+    },
+    {
+      "tweet": "Apparently everyone's saying maxxing now for literally everything. I'm just trying to survive the work week, man.",
+      "original_url": "https://www.mentalfloss.com/language/slang/maxxing-meaning-explained?utm_source=RSS",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "What Does \"Maxxing\" Mean? The Viral Internet Slang Term, Explained",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-07T21:07:55.187663+00:00"
     },
     {
       "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
@@ -365,17 +343,6 @@
       "added_at": "2026-04-05T19:48:04.864444+00:00"
     },
     {
-      "tweet": "Arsenal barely scraped by Sporting Lisbon after that performance. Arteta’s intensity is definitely doing something.",
-      "original_url": "https://www.aljazeera.com/sports/2026/4/8/is-artetas-intensity-arsenals-premier-and-champions-league-hope-or-fear?traffic_source=rss",
-      "buzz_score": 75,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Is Arteta’s intensity Arsenal’s Premier and Champions League hope, or fear?",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-08T04:12:50.486590+00:00"
-    },
-    {
       "tweet": "Apparently there's some line in that Maul show that changes how Star Wars works. We're really just making it up as we go now.",
       "original_url": "https://www.polygon.com/star-wars-darth-maul-shadow-lord-laser-sword/",
       "buzz_score": 78,
@@ -385,17 +352,6 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-06T10:35:55.049145+00:00"
-    },
-    {
-      "tweet": "New Zealand is begging the US for fuel tankers because of that whole Iran thing. Global supply chains are a joke.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/08/new-zealand-us-fuel-tankers-pacific-iran-war",
-      "buzz_score": 72,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "New Zealand asks US to send fuel tankers to Pacific to alleviate pressure caused by Iran war",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-08T04:12:50.486865+00:00"
     },
     {
       "tweet": "UK groups are trying to get Ye off the festival lineup. At this point, we're just waiting for the next headline.",
@@ -695,26 +651,15 @@
       "added_at": "2026-04-05T10:01:38.215881+00:00"
     },
     {
-      "tweet": "A24 just dropped the trailer for that Olivia Wilde movie. Looks intense.",
-      "original_url": "https://hypebeast.com/2026/4/a24-the-invite-olivia-wilde-penelope-cruz-seth-rogen-edward-norton-official-trailer",
-      "buzz_score": 70,
+      "tweet": "Arsenal barely scraped by Sporting Lisbon after that performance. Arteta’s intensity is definitely doing something.",
+      "original_url": "https://www.aljazeera.com/sports/2026/4/8/is-artetas-intensity-arsenals-premier-and-champions-league-hope-or-fear?traffic_source=rss",
+      "buzz_score": 75,
       "buzz_score2": 85,
       "rewrite_count": 0,
-      "original_title": "A24 Drops Official Trailer for Olivia Wilde's Darkly Comic 'The Invite'",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-08T04:12:50.487624+00:00"
-    },
-    {
-      "tweet": "Ackman is out here dropping a 64 billion dollar bid for Universal Music. Just casually buying up Taylor Swift.",
-      "original_url": "https://www.aljazeera.com/economy/2026/4/7/billionaire-investor-ackman-makes-64bn-bid-for-universal-music-group?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Billionaire investor Ackman makes $64bn bid for Universal Music Group",
+      "original_title": "Is Arteta’s intensity Arsenal’s Premier and Champions League hope, or fear?",
       "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-04-07T23:53:37.223528+00:00"
+      "added_at": "2026-04-08T04:12:50.486590+00:00"
     },
     {
       "tweet": "So apparently Charli xcx's management is scrambling to explain those Sky Ferreira credits. Messy.",
@@ -915,6 +860,39 @@
       "added_at": "2026-04-05T19:48:04.864457+00:00"
     },
     {
+      "tweet": "New Zealand is begging the US for fuel tankers because of that whole Iran thing. Global supply chains are a joke.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/08/new-zealand-us-fuel-tankers-pacific-iran-war",
+      "buzz_score": 72,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "New Zealand asks US to send fuel tankers to Pacific to alleviate pressure caused by Iran war",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-08T04:12:50.486865+00:00"
+    },
+    {
+      "tweet": "A24 just dropped the trailer for that Olivia Wilde movie. Looks intense.",
+      "original_url": "https://hypebeast.com/2026/4/a24-the-invite-olivia-wilde-penelope-cruz-seth-rogen-edward-norton-official-trailer",
+      "buzz_score": 70,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "A24 Drops Official Trailer for Olivia Wilde's Darkly Comic 'The Invite'",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-08T04:12:50.487624+00:00"
+    },
+    {
+      "tweet": "Ackman is out here dropping a 64 billion dollar bid for Universal Music. Just casually buying up Taylor Swift.",
+      "original_url": "https://www.aljazeera.com/economy/2026/4/7/billionaire-investor-ackman-makes-64bn-bid-for-universal-music-group?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Billionaire investor Ackman makes $64bn bid for Universal Music Group",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-07T23:53:37.223528+00:00"
+    },
+    {
       "tweet": "Saw this quiz on 80s one-hit wonders. We really never stop listening to the same ten songs, do we?",
       "original_url": "https://www.mentalfloss.com/quizzes/guess-80s-one-hit-wonders-first-5-lyrics?utm_source=RSS",
       "buzz_score": 65,
@@ -946,6 +924,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-07T23:53:37.223518+00:00"
+    },
+    {
+      "tweet": "Post Malone is dropping a 40-track double album. That's way too much music.",
+      "original_url": "https://hypebeast.com/2026/4/post-malone-the-eternal-buzz-new-40-track-double-album-teaser",
+      "buzz_score": 85,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Post Malone Teases Massive 40-Track Double Album 'The Eternal Buzz'",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-07T09:41:35.447688+00:00"
     },
     {
       "tweet": "Democrats are actually freaking out about Trump's rhetoric on Iran. Total silence from the other side, though.",
@@ -981,6 +970,17 @@
       "added_at": "2026-04-07T21:07:55.187678+00:00"
     },
     {
+      "tweet": "Pakistan really hit a rehab center and called it a military target. Like, do they honestly think we can't tell the difference.",
+      "original_url": "https://www.nytimes.com/2026/04/07/world/asia/kabul-drug-rehab-pakistan-airstrike.html",
+      "buzz_score": 82,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Pakistan Says It Hit a Military Target. Investigations Suggest It Was a Rehab Center.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-07T09:41:35.446507+00:00"
+    },
+    {
       "tweet": "Jon Rahm thinks he's playing the Ryder Cup next year even though he's ineligible right now. Like, how does that work.",
       "original_url": "https://www.bbc.com/sport/golf/articles/cgqkl3nk325o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -1012,28 +1012,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-07T21:07:55.187666+00:00"
-    },
-    {
-      "tweet": "Post Malone is dropping a 40-track double album. That's way too much music.",
-      "original_url": "https://hypebeast.com/2026/4/post-malone-the-eternal-buzz-new-40-track-double-album-teaser",
-      "buzz_score": 85,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Post Malone Teases Massive 40-Track Double Album 'The Eternal Buzz'",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-07T09:41:35.447688+00:00"
-    },
-    {
-      "tweet": "Pakistan really hit a rehab center and called it a military target. Like, do they honestly think we can't tell the difference.",
-      "original_url": "https://www.nytimes.com/2026/04/07/world/asia/kabul-drug-rehab-pakistan-airstrike.html",
-      "buzz_score": 82,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Pakistan Says It Hit a Military Target. Investigations Suggest It Was a Rehab Center.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-07T09:41:35.446507+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 144,
+    "total_posted": 146,
     "total_collected": 326
   },
-  "last_posted_at": "2026-04-08T04:19:30.015167+00:00"
+  "last_posted_at": "2026-04-08T06:02:18.262489+00:00"
 }
