@@ -2,28 +2,6 @@
   "last_collected": "2026-04-08T20:03:08.619847+00:00",
   "queue": [
     {
-      "tweet": "Kaleb McGary is retiring from the Falcons at 31. Man, imagine being done with work before you're even 35.",
-      "original_url": "https://www.espn.com/nfl/story/_/id/48431526/falcons-starting-rt-kaleb-mcgary-retiring-age-31-agent-says",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Falcons starting RT McGary retiring at age 31",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-08T20:03:08.618589+00:00"
-    },
-    {
-      "tweet": "Man, I just saw a list of 2000s cartoons. Half of these shows were literally just fever dreams we all had before school.",
-      "original_url": "https://www.mentalfloss.com/entertainment/tv/cartoons-defined-2000s-still-iconic?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "23 Cartoons That Defined the 2000s (And Why They Still Feel Iconic)",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-08T20:03:08.618289+00:00"
-    },
-    {
       "tweet": "OpenAI just bought that Silicon Valley talk show. Guess they decided buying the product wasn't enough, they need to buy the hype too.",
       "original_url": "https://www.npr.org/2026/04/08/nx-s1-5775734/openai-tbpn-tech-media-silicon-valley",
       "buzz_score": 80,
@@ -255,50 +233,6 @@
       "added_at": "2026-04-08T12:41:37.763286+00:00"
     },
     {
-      "tweet": "People are modding Crimson Desert so you can play as a female character now. We'll literally fix anything ourselves.",
-      "original_url": "https://kotaku.com/crimson-desert-female-character-customization-mod-2000685712",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "You Can Now Play Crimson Desert As A Female Character Via The Magic Of Mods",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-08T12:41:37.763724+00:00"
-    },
-    {
-      "tweet": "Truckers are saying the fuel crisis is gonna make the whole industry grind to a halt. Just great.",
-      "original_url": "https://www.theguardian.com/australia-news/live/2026/apr/08/ben-roberts-smith-court-anthony-albanese-labor-angus-taylor-matt-canavan-liberal-national-coalition-fuel-prices-oil-crisis-iran-war-ntwnfb",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Truck drivers warn fuel crisis could see industry ‘grind to a halt’ – as it happened",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-08T12:41:37.763592+00:00"
-    },
-    {
-      "tweet": "Rosenior is already benching Enzo Fernandez at Chelsea. Nothing says authority like a massive headache week one.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cwywk1yx772o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Dropping Fernandez - a sign of Rosenior's authority or a big risk?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-08T12:41:37.763293+00:00"
-    },
-    {
-      "tweet": "They're saying gas prices might take months to drop even if the Strait of Hormuz reopens. Of course they will.",
-      "original_url": "https://www.nytimes.com/2026/04/08/business/energy-environment/iran-war-oil-gas-prices-energy.html",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Why It Could Take Months for Gas Prices to Fall, Even If the Strait of Hormuz Reopens",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-08T12:41:37.763283+00:00"
-    },
-    {
       "tweet": "Netanyahu said the US-Iran ceasefire doesn't include Lebanon. Nothing ever really ends, does it?",
       "original_url": "https://www.aljazeera.com/news/2026/4/8/netanyahu-says-us-iran-ceasefire-does-not-include-lebanon?traffic_source=rss",
       "buzz_score": 85,
@@ -365,15 +299,48 @@
       "added_at": "2026-04-05T23:55:53.317362+00:00"
     },
     {
-      "tweet": "The Pirates just gave Konnor Griffin 140 million over nine years. Imagine being that rich at his age.",
-      "original_url": "https://www.espn.com/mlb/story/_/id/48428020/sources-konnor-griffin-agrees-9-year-140m-deal-pirates",
-      "buzz_score": 70,
+      "tweet": "People are modding Crimson Desert so you can play as a female character now. We'll literally fix anything ourselves.",
+      "original_url": "https://kotaku.com/crimson-desert-female-character-customization-mod-2000685712",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Sources: Griffin, Pirates agree on 9 years, $140M",
-      "source": "ESPN",
+      "original_title": "You Can Now Play Crimson Desert As A Female Character Via The Magic Of Mods",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-08T12:41:37.763724+00:00"
+    },
+    {
+      "tweet": "Truckers are saying the fuel crisis is gonna make the whole industry grind to a halt. Just great.",
+      "original_url": "https://www.theguardian.com/australia-news/live/2026/apr/08/ben-roberts-smith-court-anthony-albanese-labor-angus-taylor-matt-canavan-liberal-national-coalition-fuel-prices-oil-crisis-iran-war-ntwnfb",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Truck drivers warn fuel crisis could see industry ‘grind to a halt’ – as it happened",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-08T12:41:37.763592+00:00"
+    },
+    {
+      "tweet": "Rosenior is already benching Enzo Fernandez at Chelsea. Nothing says authority like a massive headache week one.",
+      "original_url": "https://www.bbc.com/sport/football/articles/cwywk1yx772o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Dropping Fernandez - a sign of Rosenior's authority or a big risk?",
+      "source": "BBC Sport",
       "category": "sports",
-      "added_at": "2026-04-08T12:41:37.763289+00:00"
+      "added_at": "2026-04-08T12:41:37.763293+00:00"
+    },
+    {
+      "tweet": "They're saying gas prices might take months to drop even if the Strait of Hormuz reopens. Of course they will.",
+      "original_url": "https://www.nytimes.com/2026/04/08/business/energy-environment/iran-war-oil-gas-prices-energy.html",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Why It Could Take Months for Gas Prices to Fall, Even If the Strait of Hormuz Reopens",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-08T12:41:37.763283+00:00"
     },
     {
       "tweet": "Oasis is doing a collab with adidas again. We're never letting the 90s die, are we.",
@@ -660,6 +627,17 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-06T10:35:55.049145+00:00"
+    },
+    {
+      "tweet": "The Pirates just gave Konnor Griffin 140 million over nine years. Imagine being that rich at his age.",
+      "original_url": "https://www.espn.com/mlb/story/_/id/48428020/sources-konnor-griffin-agrees-9-year-140m-deal-pirates",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sources: Griffin, Pirates agree on 9 years, $140M",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-08T12:41:37.763289+00:00"
     },
     {
       "tweet": "NASA's putting a live feed on Netflix now. Guess we're all just gonna be staring at space while we eat dinner.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 170,
+    "total_posted": 172,
     "total_collected": 404
   },
-  "last_posted_at": "2026-04-08T20:10:03.583361+00:00"
+  "last_posted_at": "2026-04-08T21:07:51.400643+00:00"
 }
