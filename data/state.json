@@ -2,28 +2,6 @@
   "last_collected": "2026-04-07T23:53:37.223890+00:00",
   "queue": [
     {
-      "tweet": "Man, that Colorado quarterback crash. BAC was twice the limit. Just rough.",
-      "original_url": "https://www.espn.com/college-football/story/_/id/48422979/colorado-qb-dominiq-ponder-bac-double-limit-fatal-crash",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Colorado QB's BAC twice legal limit in fatal crash",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-07T23:53:37.223520+00:00"
-    },
-    {
-      "tweet": "People are actually leaving cities in India because they can’t get cooking gas. It’s crazy how one supply issue just upends your whole life.",
-      "original_url": "https://www.bbc.com/news/articles/c20d10980e9o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Indian migrant workers hit by cooking gas shortages are leaving cities",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-07T23:53:37.223513+00:00"
-    },
-    {
       "tweet": "Arsenal guys are calling David Raya the best keeper in the world now. Whatever works.",
       "original_url": "https://www.bbc.com/sport/football/articles/cvgldp4gjqlo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -57,17 +35,6 @@
       "added_at": "2026-04-07T21:07:55.187663+00:00"
     },
     {
-      "tweet": "Ackman is out here dropping a 64 billion dollar bid for Universal Music. Just casually buying up Taylor Swift.",
-      "original_url": "https://www.aljazeera.com/economy/2026/4/7/billionaire-investor-ackman-makes-64bn-bid-for-universal-music-group?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Billionaire investor Ackman makes $64bn bid for Universal Music Group",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-07T23:53:37.223528+00:00"
-    },
-    {
       "tweet": "So apparently Australian gas stations are running out of diesel despite that tax relief. How does that even happen?",
       "original_url": "https://www.theguardian.com/australia-news/2026/apr/06/diesel-price-access-australia-fuel-volatile",
       "buzz_score": 85,
@@ -99,6 +66,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-05T23:55:53.317370+00:00"
+    },
+    {
+      "tweet": "Ackman is out here dropping a 64 billion dollar bid for Universal Music. Just casually buying up Taylor Swift.",
+      "original_url": "https://www.aljazeera.com/economy/2026/4/7/billionaire-investor-ackman-makes-64bn-bid-for-universal-music-group?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Billionaire investor Ackman makes $64bn bid for Universal Music Group",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-07T23:53:37.223528+00:00"
     },
     {
       "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
@@ -330,28 +308,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-05T19:48:04.864444+00:00"
-    },
-    {
-      "tweet": "Reinsdorf is saying the next Bulls GM has to be sold on Donovan. Just setting the new guy up to fail from day one.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48423854/bulls-reinsdorf-says-next-gm-sold-donovan-coach",
-      "buzz_score": 75,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Reinsdorf: Next Bulls GM must be sold on Donovan",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-07T23:53:37.223524+00:00"
-    },
-    {
-      "tweet": "Warner Records just made Miles Gersh an EVP. Pretty wild to think one guy betting on Zach Bryan back in 2020 put him in that seat today.",
-      "original_url": "https://www.billboard.com/pro/warner-records-promotes-miles-gersh-evp-ar/",
-      "buzz_score": 75,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Warner Records Names Miles Gersh EVP of A&R",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-07T23:53:37.223518+00:00"
     },
     {
       "tweet": "Apparently there's some line in that Maul show that changes how Star Wars works. We're really just making it up as we go now.",
@@ -662,37 +618,26 @@
       "added_at": "2026-04-05T10:01:38.215881+00:00"
     },
     {
-      "tweet": "Democrats are actually freaking out about Trump's rhetoric on Iran. Total silence from the other side, though.",
-      "original_url": "https://www.npr.org/2026/04/07/g-s1-116722/congressional-democrats-raise-alarm-over-trumps-comments-on-iran",
-      "buzz_score": 80,
+      "tweet": "Reinsdorf is saying the next Bulls GM has to be sold on Donovan. Just setting the new guy up to fail from day one.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48423854/bulls-reinsdorf-says-next-gm-sold-donovan-coach",
+      "buzz_score": 75,
       "buzz_score2": 85,
       "rewrite_count": 0,
-      "original_title": "Congressional Democrats raise alarm over Trump's comments on Iran",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-07T21:07:55.187697+00:00"
+      "original_title": "Reinsdorf: Next Bulls GM must be sold on Donovan",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-07T23:53:37.223524+00:00"
     },
     {
-      "tweet": "Women in Cuba are marching against that US energy blockade now. Things are getting heated.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/7/policy-of-abuse-women-march-in-cuba-against-us-energy-blockade?traffic_source=rss",
-      "buzz_score": 80,
+      "tweet": "Warner Records just made Miles Gersh an EVP. Pretty wild to think one guy betting on Zach Bryan back in 2020 put him in that seat today.",
+      "original_url": "https://www.billboard.com/pro/warner-records-promotes-miles-gersh-evp-ar/",
+      "buzz_score": 75,
       "buzz_score2": 85,
       "rewrite_count": 0,
-      "original_title": "‘Policy of abuse’: Women march in Cuba against US energy blockade",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-07T21:07:55.187690+00:00"
-    },
-    {
-      "tweet": "The Oscars are moving to YouTube in 2028. Feels like that's just giving up.",
-      "original_url": "https://www.billboard.com/music/awards/oscar-2027-2028-dates-1236217176/",
-      "buzz_score": 80,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Here Are the Dates of the 2027 & 2028 Oscar Telecasts – the Last Ones Before the Show Moves to YouTube",
+      "original_title": "Warner Records Names Miles Gersh EVP of A&R",
       "source": "Billboard",
       "category": "entertainment",
-      "added_at": "2026-04-07T21:07:55.187678+00:00"
+      "added_at": "2026-04-07T23:53:37.223518+00:00"
     },
     {
       "tweet": "So apparently Charli xcx's management is scrambling to explain those Sky Ferreira credits. Messy.",
@@ -893,6 +838,39 @@
       "added_at": "2026-04-05T19:48:04.864457+00:00"
     },
     {
+      "tweet": "Democrats are actually freaking out about Trump's rhetoric on Iran. Total silence from the other side, though.",
+      "original_url": "https://www.npr.org/2026/04/07/g-s1-116722/congressional-democrats-raise-alarm-over-trumps-comments-on-iran",
+      "buzz_score": 80,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Congressional Democrats raise alarm over Trump's comments on Iran",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-07T21:07:55.187697+00:00"
+    },
+    {
+      "tweet": "Women in Cuba are marching against that US energy blockade now. Things are getting heated.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/7/policy-of-abuse-women-march-in-cuba-against-us-energy-blockade?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "‘Policy of abuse’: Women march in Cuba against US energy blockade",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-07T21:07:55.187690+00:00"
+    },
+    {
+      "tweet": "The Oscars are moving to YouTube in 2028. Feels like that's just giving up.",
+      "original_url": "https://www.billboard.com/music/awards/oscar-2027-2028-dates-1236217176/",
+      "buzz_score": 80,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Here Are the Dates of the 2027 & 2028 Oscar Telecasts – the Last Ones Before the Show Moves to YouTube",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-07T21:07:55.187678+00:00"
+    },
+    {
       "tweet": "Jon Rahm thinks he's playing the Ryder Cup next year even though he's ineligible right now. Like, how does that work.",
       "original_url": "https://www.bbc.com/sport/golf/articles/cgqkl3nk325o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -970,28 +948,6 @@
       "added_at": "2026-04-07T09:41:35.446942+00:00"
     },
     {
-      "tweet": "Arcee is a 26-person startup building AI models that actually work. Kinda refreshing seeing a small team beat the giants for once.",
-      "original_url": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
-      "buzz_score": 75,
-      "buzz_score2": 80,
-      "rewrite_count": 0,
-      "original_title": "I can’t help rooting for tiny open source AI model maker Arcee",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-04-07T23:53:37.223755+00:00"
-    },
-    {
-      "tweet": "UN climate people are saying we’re being held hostage by fossil fuels. Like, we knew that.",
-      "original_url": "https://www.theguardian.com/society/ng-interactive/2026/apr/08/world-held-hostage-reliance-fossil-fuels-health-christiana-figueres",
-      "buzz_score": 75,
-      "buzz_score2": 80,
-      "rewrite_count": 0,
-      "original_title": "World held hostage by reliance on fossil fuels, Christiana Figueres warns – and climate health impacts are ‘mother of all injustices’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-07T23:53:37.223531+00:00"
-    },
-    {
       "tweet": "They're bombing nuclear facilities in Iran now. Do they really think radioactive fallout is gonna help with nonproliferation.",
       "original_url": "https://www.aljazeera.com/video/quotable/2026/4/7/military-action-is-not-an-effective-means-to-pursue-nonproliferation?traffic_source=rss",
       "buzz_score": 78,
@@ -1023,6 +979,28 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-07T12:42:10.616785+00:00"
+    },
+    {
+      "tweet": "Arcee is a 26-person startup building AI models that actually work. Kinda refreshing seeing a small team beat the giants for once.",
+      "original_url": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
+      "buzz_score": 75,
+      "buzz_score2": 80,
+      "rewrite_count": 0,
+      "original_title": "I can’t help rooting for tiny open source AI model maker Arcee",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-04-07T23:53:37.223755+00:00"
+    },
+    {
+      "tweet": "UN climate people are saying we’re being held hostage by fossil fuels. Like, we knew that.",
+      "original_url": "https://www.theguardian.com/society/ng-interactive/2026/apr/08/world-held-hostage-reliance-fossil-fuels-health-christiana-figueres",
+      "buzz_score": 75,
+      "buzz_score2": 80,
+      "rewrite_count": 0,
+      "original_title": "World held hostage by reliance on fossil fuels, Christiana Figueres warns – and climate health impacts are ‘mother of all injustices’",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-07T23:53:37.223531+00:00"
     },
     {
       "tweet": "Seeing all these Ella Langley tracks popping up. Sometimes the stuff that isn't on the radio is actually better.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 140,
+    "total_posted": 142,
     "total_collected": 310
   },
-  "last_posted_at": "2026-04-08T00:02:59.383320+00:00"
+  "last_posted_at": "2026-04-08T01:26:23.572411+00:00"
 }
