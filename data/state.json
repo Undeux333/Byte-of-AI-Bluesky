@@ -2,28 +2,6 @@
   "last_collected": "2026-04-09T16:56:43.713109+00:00",
   "queue": [
     {
-      "tweet": "Traffic in Sydney and Melbourne is way down because of gas prices. We're all just staying home.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/09/traffic-sydney-melbourne-roads-fuel-crisis-petrol-prices-australia",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Traffic falls on major Sydney and Melbourne roads as fuel crisis sees Australians cut back on driving",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-09T16:56:43.712094+00:00"
-    },
-    {
-      "tweet": "The NCAA is talking about a five-year eligibility model now. Feel like we're just delaying the inevitable.",
-      "original_url": "https://www.espn.com/college-sports/story/_/id/48433858/reports-ncaa-discuss-five-year-eligibility-proposal",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Reports: NCAA to discuss 5-year eligibility model",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-09T16:56:43.711690+00:00"
-    },
-    {
       "tweet": "Did you see Arsenal might drop a hundred million on Nwaneri and Lewis-Skelly? That's insane.",
       "original_url": "https://www.bbc.com/sport/football/articles/cn78kdymmvpo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -134,17 +112,6 @@
       "added_at": "2026-04-09T16:56:43.711524+00:00"
     },
     {
-      "tweet": "Guy Fieri just dropped his top three grilled cheese spots. If he says it's good, it's gotta be good.",
-      "original_url": "https://www.mentalfloss.com/food/restaurants/best-grilled-cheese-sandwiches-in-us-guy-fieri?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "3 Best Grilled Cheese Sandwiches in the U.S., According to Guy Fieri",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-09T10:02:44.430353+00:00"
-    },
-    {
       "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026",
       "buzz_score": 90,
@@ -154,6 +121,28 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Guy Fieri just dropped his top three grilled cheese spots. If he says it's good, it's gotta be good.",
+      "original_url": "https://www.mentalfloss.com/food/restaurants/best-grilled-cheese-sandwiches-in-us-guy-fieri?utm_source=RSS",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "3 Best Grilled Cheese Sandwiches in the U.S., According to Guy Fieri",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-09T10:02:44.430353+00:00"
     },
     {
       "tweet": "They're putting armed officers on NT buses now. Does anyone actually think that's gonna help.",
@@ -176,17 +165,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-09T16:56:43.711946+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "A literal wolf escaped the zoo in South Korea and they had to close the schools. Imagine showing up to class and hearing a wolf is on the loose.",
@@ -442,6 +420,39 @@
       "added_at": "2026-04-09T12:09:23.834168+00:00"
     },
     {
+      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 82,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-08T04:12:50.486178+00:00"
+    },
+    {
+      "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
+      "original_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Fact check: Trump's objectives in the war with Iran have largely not been achieved",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-08T22:35:32.474831+00:00"
+    },
+    {
+      "tweet": "Everyone in Tehran is claiming victory after that ceasefire. It’s pretty clear nobody actually won anything.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/8/iranians-breathe-a-ceasefire-sigh-of-relief-as-all-sides-claim-victory?traffic_source=rss",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iranians breathe a ‘ceasefire’ sigh of relief as all sides claim victory",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-08T20:03:08.618965+00:00"
+    },
+    {
       "tweet": "Manuel Turizo really just jumped from merengue to reggae on one album. Dude’s got range.",
       "original_url": "https://www.billboard.com/music/latin/manuel-turizo-new-album-apambichao-interview-1236217799/",
       "buzz_score": 70,
@@ -497,17 +508,6 @@
       "added_at": "2026-04-09T10:02:44.429357+00:00"
     },
     {
-      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-08T04:12:50.486178+00:00"
-    },
-    {
       "tweet": "The Ukraine ceasefire is back in focus because U.S. security guarantees are apparently fading. It's all falling apart.",
       "original_url": "https://www.theguardian.com/world/2026/apr/09/ukraine-ceasefire-us-security-guarantees-fade-casualties-russia",
       "buzz_score": 75,
@@ -539,61 +539,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-09T12:09:23.833859+00:00"
-    },
-    {
-      "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
-      "original_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fact check: Trump's objectives in the war with Iran have largely not been achieved",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-08T22:35:32.474831+00:00"
-    },
-    {
-      "tweet": "Everyone in Tehran is claiming victory after that ceasefire. It’s pretty clear nobody actually won anything.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/8/iranians-breathe-a-ceasefire-sigh-of-relief-as-all-sides-claim-victory?traffic_source=rss",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iranians breathe a ‘ceasefire’ sigh of relief as all sides claim victory",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-08T20:03:08.618965+00:00"
-    },
-    {
-      "tweet": "Gas prices are up again because nobody trusts that ceasefire. Can't even look at the news without checking my wallet first.",
-      "original_url": "https://www.theguardian.com/business/2026/apr/09/oil-price-rises-as-markets-question-durability-of-middle-east-ceasefire-iran",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Oil price rises as markets question durability of Middle East ceasefire",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-09T10:02:44.429862+00:00"
-    },
-    {
-      "tweet": "ESPN draft experts are already drafting superteams from the 2026 class. Who actually has this much free time?",
-      "original_url": "https://www.espn.com/nfl/draft2026/story/_/id/48420486/2026-nfl-draft-experts-pick-superteams-top-prospects-positions-kiper-miller-reid-yates",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Our draft experts picked 10-man rosters from the 2026 class: Who has the best superteam?",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-09T12:09:23.835425+00:00"
-    },
-    {
-      "tweet": "Another group is claiming they're scaling towards personal superintelligence. Feels like we're just throwing buzzwords at a wall now.",
-      "original_url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Muse Spark: Scaling towards personal superintelligence",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-09T12:09:23.834670+00:00"
     },
     {
       "tweet": "Hold on, the US and Iran actually agreed to a ceasefire? I’ll believe it when it’s still holding tomorrow.",
@@ -629,15 +574,37 @@
       "added_at": "2026-04-08T15:44:16.953760+00:00"
     },
     {
-      "tweet": "Did you see Mitski on Kimmel last night. She was wearing a massive leopard-print coat like she's straight out of a mob movie. Serious main character energy.",
-      "original_url": "https://www.billboard.com/music/pop/mitski-if-i-leave-performance-jimmy-kimmel-live-1236218685/",
-      "buzz_score": 75,
+      "tweet": "Gas prices are up again because nobody trusts that ceasefire. Can't even look at the news without checking my wallet first.",
+      "original_url": "https://www.theguardian.com/business/2026/apr/09/oil-price-rises-as-markets-question-durability-of-middle-east-ceasefire-iran",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Mitski Is a Picture of Calm For ‘If I Leave’ Performance on ‘Kimmel’: Watch",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-09T10:02:44.429110+00:00"
+      "original_title": "Oil price rises as markets question durability of Middle East ceasefire",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-09T10:02:44.429862+00:00"
+    },
+    {
+      "tweet": "ESPN draft experts are already drafting superteams from the 2026 class. Who actually has this much free time?",
+      "original_url": "https://www.espn.com/nfl/draft2026/story/_/id/48420486/2026-nfl-draft-experts-pick-superteams-top-prospects-positions-kiper-miller-reid-yates",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Our draft experts picked 10-man rosters from the 2026 class: Who has the best superteam?",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-09T12:09:23.835425+00:00"
+    },
+    {
+      "tweet": "Another group is claiming they're scaling towards personal superintelligence. Feels like we're just throwing buzzwords at a wall now.",
+      "original_url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Muse Spark: Scaling towards personal superintelligence",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-09T12:09:23.834670+00:00"
     },
     {
       "tweet": "Zelenskyy is saying the White House is just ignoring the Russia-Iran intel because they trust Putin. It's wild.",
@@ -759,6 +726,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-05T23:55:53.317370+00:00"
+    },
+    {
+      "tweet": "Did you see Mitski on Kimmel last night. She was wearing a massive leopard-print coat like she's straight out of a mob movie. Serious main character energy.",
+      "original_url": "https://www.billboard.com/music/pop/mitski-if-i-leave-performance-jimmy-kimmel-live-1236218685/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Mitski Is a Picture of Calm For ‘If I Leave’ Performance on ‘Kimmel’: Watch",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-09T10:02:44.429110+00:00"
     },
     {
       "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 193,
+    "total_posted": 195,
     "total_collected": 516
   },
-  "last_posted_at": "2026-04-09T17:03:05.997805+00:00"
+  "last_posted_at": "2026-04-09T18:04:13.094122+00:00"
 }
