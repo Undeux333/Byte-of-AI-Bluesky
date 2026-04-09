@@ -2,28 +2,6 @@
   "last_collected": "2026-04-09T04:07:03.210997+00:00",
   "queue": [
     {
-      "tweet": "JD Vance just said Lebanon isn't part of the ceasefire. So what even is the point of the deal.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/us-vp-jd-vance-says-lebanon-is-not-part-of-the-us-iran-ceasefire?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US VP JD Vance says Lebanon is not part of the US-Iran ceasefire",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-09T01:26:52.022379+00:00"
-    },
-    {
-      "tweet": "Hold on, they announced a ceasefire and then immediately hit Lebanon with huge strikes. That deal's not even dry yet.",
-      "original_url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "At least 182 killed across Lebanon in large wave of Israeli strikes",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-09T01:26:52.022058+00:00"
-    },
-    {
       "tweet": "Did you see what Sam Altman is up to now. The guy basically thinks he owns the future of the planet. Just wild man.",
       "original_url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
       "buzz_score": 85,
@@ -112,6 +90,28 @@
       "added_at": "2026-04-09T01:26:52.022061+00:00"
     },
     {
+      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 82,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-08T04:12:50.486178+00:00"
+    },
+    {
+      "tweet": "Everyone in Tehran is claiming victory after that ceasefire. It’s pretty clear nobody actually won anything.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/8/iranians-breathe-a-ceasefire-sigh-of-relief-as-all-sides-claim-victory?traffic_source=rss",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iranians breathe a ‘ceasefire’ sigh of relief as all sides claim victory",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-08T20:03:08.618965+00:00"
+    },
+    {
       "tweet": "Australia is calling for Lebanon to be in that ceasefire deal. Honestly, it’s about time.",
       "original_url": "https://www.theguardian.com/australia-news/live/2026/apr/09/anthony-albanese-singapore-visit-fuel-crisis-middle-east-ceasefire-lebanon-strikes-politics-labor-coalition-reactions-ntwnfb",
       "buzz_score": 85,
@@ -134,15 +134,37 @@
       "added_at": "2026-04-08T22:35:32.474825+00:00"
     },
     {
-      "tweet": "Everyone in Tehran is claiming victory after that ceasefire. It’s pretty clear nobody actually won anything.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/8/iranians-breathe-a-ceasefire-sigh-of-relief-as-all-sides-claim-victory?traffic_source=rss",
-      "buzz_score": 95,
+      "tweet": "Hold on, the US and Iran actually agreed to a ceasefire? I’ll believe it when it’s still holding tomorrow.",
+      "original_url": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
+      "buzz_score": 90,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Iranians breathe a ‘ceasefire’ sigh of relief as all sides claim victory",
-      "source": "Al Jazeera",
+      "original_title": "US and Iran agree to provisional ceasefire",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-08T20:03:08.619355+00:00"
+    },
+    {
+      "tweet": "Democrats keep overperforming in elections since Trump got back in. Is anyone even surprised at this point?",
+      "original_url": "https://www.npr.org/2026/04/08/nx-s1-5770114/democrats-wisconsin-georgia-election-shift-overperformance-trump",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Democrats keep doing better in elections since Trump returned to office",
+      "source": "NPR News",
       "category": "world",
-      "added_at": "2026-04-08T20:03:08.618965+00:00"
+      "added_at": "2026-04-08T17:48:49.217275+00:00"
+    },
+    {
+      "tweet": "Greece is trying to block social media for kids under 15 now. Like, are they actually gonna figure out how to stop a teenager from getting online",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/europe/greece-social-media-teens.html",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Greece Plans to Block Social Media for Children Under 15",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-08T15:44:16.953760+00:00"
     },
     {
       "tweet": "Turns out China was the one pushing Iran toward that ceasefire. Guess they’re the ones pulling the strings now.",
@@ -178,72 +200,6 @@
       "added_at": "2026-04-08T22:35:32.475128+00:00"
     },
     {
-      "tweet": "Hold on, the US and Iran actually agreed to a ceasefire? I’ll believe it when it’s still holding tomorrow.",
-      "original_url": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US and Iran agree to provisional ceasefire",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-08T20:03:08.619355+00:00"
-    },
-    {
-      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-08T04:12:50.486178+00:00"
-    },
-    {
-      "tweet": "Been waiting over a month for Anthropic to fix a billing issue. Customer service is just dead.",
-      "original_url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "I've been waiting over a month for Anthropic to respond to my billing issue",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-08T22:35:32.476003+00:00"
-    },
-    {
-      "tweet": "The guy who pushed that busted GTA clone on Steam actually put out an apology letter. Too little, too late.",
-      "original_url": "https://kotaku.com/dev-behind-busted-gta-iv-like-steam-release-puts-out-apology-letter-2000685874",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Dev Behind Busted GTA IV-Like Steam Release Puts Out Apology Letter",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-08T22:35:32.475635+00:00"
-    },
-    {
-      "tweet": "The NBA says that late Kings foul was just a mistake, not tanking. Sure it was.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48432683/sources-kings-late-foul-was-tactical-error-not-tanking",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sources: Kings' late foul was error, not tanking",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-08T22:35:32.474999+00:00"
-    },
-    {
-      "tweet": "Oprah just said she spent her whole teen years trying to manifest a marriage to Paul McCartney. We’ve all been that obsessed.",
-      "original_url": "https://www.billboard.com/culture/tv-film/oprah-winfrey-marry-paul-mccartney-stephen-colbert-interview-1236218240/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Oprah Wanted to Marry Paul McCartney When She Was a Teen: ‘I Used to Try to Make Him Think of Me’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-08T22:35:32.474838+00:00"
-    },
-    {
       "tweet": "Markets are acting like the Iran ceasefire solved everything. Like oil prices are just gonna stay down for the vibes.",
       "original_url": "https://www.theguardian.com/world/2026/apr/08/relief-financial-markets-iran-ceasefire-far-from-absolute",
       "buzz_score": 85,
@@ -264,50 +220,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-08T20:03:08.618306+00:00"
-    },
-    {
-      "tweet": "Democrats keep overperforming in elections since Trump got back in. Is anyone even surprised at this point?",
-      "original_url": "https://www.npr.org/2026/04/08/nx-s1-5770114/democrats-wisconsin-georgia-election-shift-overperformance-trump",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Democrats keep doing better in elections since Trump returned to office",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-08T17:48:49.217275+00:00"
-    },
-    {
-      "tweet": "Greece is trying to block social media for kids under 15 now. Like, are they actually gonna figure out how to stop a teenager from getting online",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/europe/greece-social-media-teens.html",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Greece Plans to Block Social Media for Children Under 15",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-08T15:44:16.953760+00:00"
-    },
-    {
-      "tweet": "Reading an article about how Pokémon champions have no drip. Someone really sat down and wrote that.",
-      "original_url": "https://kotaku.com/pokemon-champions-clothes-accessories-store-buy-vp-2000685834",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The Drip In Pokémon Champions Is Sauceless",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-08T20:03:08.619230+00:00"
-    },
-    {
-      "tweet": "Tyson Fury is talking about fighting Joshua again after this weekend. How many times can we pretend this is actually gonna happen?",
-      "original_url": "https://www.bbc.com/sport/boxing/articles/cj401jp9q48o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fury wants to face Joshua after comeback fight",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-08T20:03:08.618715+00:00"
     },
     {
       "tweet": "Those French citizens finally got out of that Iranian prison after years. Just state hostages for no reason.",
@@ -365,37 +277,48 @@
       "added_at": "2026-04-05T23:55:53.317370+00:00"
     },
     {
-      "tweet": "Gambia hired a British guy to prosecute their ex-president. That's a hell of a career pivot.",
-      "original_url": "https://www.bbc.com/news/articles/cjr90wyw09wo?at_medium=RSS&at_campaign=rss",
+      "tweet": "Been waiting over a month for Anthropic to fix a billing issue. Customer service is just dead.",
+      "original_url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
       "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Gambia appoints British barrister to prosecute gruesome Jammeh-era crimes",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-08T20:03:08.619477+00:00"
+      "original_title": "I've been waiting over a month for Anthropic to respond to my billing issue",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-08T22:35:32.476003+00:00"
     },
     {
-      "tweet": "Marlie Packer and Rosie Galligan are expecting a baby. Wild that they're both World Cup winners too.",
-      "original_url": "https://www.bbc.com/sport/rugby-union/articles/c93exvp6lxeo?at_medium=RSS&at_campaign=rss",
+      "tweet": "The guy who pushed that busted GTA clone on Steam actually put out an apology letter. Too little, too late.",
+      "original_url": "https://kotaku.com/dev-behind-busted-gta-iv-like-steam-release-puts-out-apology-letter-2000685874",
       "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "World Cup winners Packer & Galligan expecting baby",
-      "source": "BBC Sport",
+      "original_title": "Dev Behind Busted GTA IV-Like Steam Release Puts Out Apology Letter",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-08T22:35:32.475635+00:00"
+    },
+    {
+      "tweet": "The NBA says that late Kings foul was just a mistake, not tanking. Sure it was.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48432683/sources-kings-late-foul-was-tactical-error-not-tanking",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sources: Kings' late foul was error, not tanking",
+      "source": "ESPN",
       "category": "sports",
-      "added_at": "2026-04-08T20:03:08.618842+00:00"
+      "added_at": "2026-04-08T22:35:32.474999+00:00"
     },
     {
-      "tweet": "Apparently there’s a ranking of states based on bullying now. Like we needed a scoreboard to know people are just awful.",
-      "original_url": "https://www.mentalfloss.com/geography/states/us-states-with-most-bullying?utm_source=RSS",
+      "tweet": "Oprah just said she spent her whole teen years trying to manifest a marriage to Paul McCartney. We’ve all been that obsessed.",
+      "original_url": "https://www.billboard.com/culture/tv-film/oprah-winfrey-marry-paul-mccartney-stephen-colbert-interview-1236218240/",
       "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "The U.S. States That Struggle the Most With Bullying",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-08T20:03:08.618298+00:00"
+      "original_title": "Oprah Wanted to Marry Paul McCartney When She Was a Teen: ‘I Used to Try to Make Him Think of Me’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-08T22:35:32.474838+00:00"
     },
     {
       "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
@@ -418,6 +341,28 @@
       "source": "Deadline",
       "category": "entertainment",
       "added_at": "2026-04-05T23:55:53.317362+00:00"
+    },
+    {
+      "tweet": "Reading an article about how Pokémon champions have no drip. Someone really sat down and wrote that.",
+      "original_url": "https://kotaku.com/pokemon-champions-clothes-accessories-store-buy-vp-2000685834",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Drip In Pokémon Champions Is Sauceless",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-08T20:03:08.619230+00:00"
+    },
+    {
+      "tweet": "Tyson Fury is talking about fighting Joshua again after this weekend. How many times can we pretend this is actually gonna happen?",
+      "original_url": "https://www.bbc.com/sport/boxing/articles/cj401jp9q48o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Fury wants to face Joshua after comeback fight",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-08T20:03:08.618715+00:00"
     },
     {
       "tweet": "Germany is legit banning guys under 45 from leaving the country for long trips without permission. Basically just telling everyone they’re on call for the government now.",
@@ -726,6 +671,39 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-06T10:35:55.049145+00:00"
+    },
+    {
+      "tweet": "Gambia hired a British guy to prosecute their ex-president. That's a hell of a career pivot.",
+      "original_url": "https://www.bbc.com/news/articles/cjr90wyw09wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Gambia appoints British barrister to prosecute gruesome Jammeh-era crimes",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-08T20:03:08.619477+00:00"
+    },
+    {
+      "tweet": "Marlie Packer and Rosie Galligan are expecting a baby. Wild that they're both World Cup winners too.",
+      "original_url": "https://www.bbc.com/sport/rugby-union/articles/c93exvp6lxeo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "World Cup winners Packer & Galligan expecting baby",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-08T20:03:08.618842+00:00"
+    },
+    {
+      "tweet": "Apparently there’s a ranking of states based on bullying now. Like we needed a scoreboard to know people are just awful.",
+      "original_url": "https://www.mentalfloss.com/geography/states/us-states-with-most-bullying?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The U.S. States That Struggle the Most With Bullying",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-08T20:03:08.618298+00:00"
     },
     {
       "tweet": "Texans just picked up the options for Stroud and Anderson. Good to know at least someone in the league has a plan for the next few years.",
@@ -2062,8 +2040,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 180,
+    "total_posted": 182,
     "total_collected": 436
   },
-  "last_posted_at": "2026-04-09T00:01:46.172804+00:00"
+  "last_posted_at": "2026-04-09T06:06:19.063698+00:00"
 }
