@@ -2,17 +2,6 @@
   "last_collected": "2026-04-09T10:02:44.430733+00:00",
   "queue": [
     {
-      "tweet": "Bro, some guy actually ported Mac OS X to a Nintendo Wii. Why would you even want to play that on a console from 2006. Just wild.",
-      "original_url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "I ported Mac OS X to the Nintendo Wii",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-09T10:02:44.428672+00:00"
-    },
-    {
       "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
       "buzz_score": 95,
@@ -167,17 +156,6 @@
       "added_at": "2026-04-09T10:02:44.429357+00:00"
     },
     {
-      "tweet": "Gas prices are up again because nobody trusts that ceasefire. Can't even look at the news without checking my wallet first.",
-      "original_url": "https://www.theguardian.com/business/2026/apr/09/oil-price-rises-as-markets-question-durability-of-middle-east-ceasefire-iran",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Oil price rises as markets question durability of Middle East ceasefire",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-09T10:02:44.429862+00:00"
-    },
-    {
       "tweet": "Oil prices are tanking and stocks are popping because of that US-Iran ceasefire. Guess war is expensive for everyone else.",
       "original_url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -187,6 +165,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-08T17:48:49.217272+00:00"
+    },
+    {
+      "tweet": "Gas prices are up again because nobody trusts that ceasefire. Can't even look at the news without checking my wallet first.",
+      "original_url": "https://www.theguardian.com/business/2026/apr/09/oil-price-rises-as-markets-question-durability-of-middle-east-ceasefire-iran",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Oil price rises as markets question durability of Middle East ceasefire",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-09T10:02:44.429862+00:00"
     },
     {
       "tweet": "Did you see Mitski on Kimmel last night. She was wearing a massive leopard-print coat like she's straight out of a mob movie. Serious main character energy.",
@@ -244,28 +233,6 @@
       "added_at": "2026-04-09T07:14:41.250960+00:00"
     },
     {
-      "tweet": "PSG just absolutely dismantled Liverpool's tactics yesterday. Arne Slot really learned the hard way that Europe hits different.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c0j6ewp0577o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "How fluid PSG exposed Slot's back-five tweak",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-09T07:14:41.252582+00:00"
-    },
-    {
-      "tweet": "The Artemis crew is coming back from the moon with a bunch of pictures and stories. Kind of wild to think that's their whole souvenir.",
-      "original_url": "https://www.bbc.com/news/articles/c70dr45dj1lo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Artemis crew returning to Earth with 'all the good stuff' from Moon discoveries",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.252221+00:00"
-    },
-    {
       "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 82,
@@ -299,37 +266,26 @@
       "added_at": "2026-04-08T20:03:08.618965+00:00"
     },
     {
-      "tweet": "BBC actually interviewed the Artemis guys while they were in space. How do you even handle the signal delay?",
-      "original_url": "https://www.bbc.com/news/videos/cgk0e12y1kgo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 65,
+      "tweet": "PSG just absolutely dismantled Liverpool's tactics yesterday. Arne Slot really learned the hard way that Europe hits different.",
+      "original_url": "https://www.bbc.com/sport/football/articles/c0j6ewp0577o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Watch: BBC asks Artemis II crew a question in space",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.252462+00:00"
-    },
-    {
-      "tweet": "Zelenskyy is saying the White House is just ignoring the Russia-Iran intel because they trust Putin. It's wild.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/09/us-ignoring-evidence-russia-is-helping-iran-because-it-trusts-putin-says-zelenskyy",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US ignoring evidence Russia is helping Iran because it trusts Putin, says Zelenskyy",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-09T01:26:52.022630+00:00"
-    },
-    {
-      "tweet": "They're hunting down Tiger Woods' prescription records after that Florida arrest. That's a rough look.",
-      "original_url": "https://www.bbc.com/news/articles/c77mz26ed80o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Prosecutors seek Tiger Woods' prescription drug records after Florida arrest",
+      "original_title": "How fluid PSG exposed Slot's back-five tweak",
       "source": "BBC Sport",
       "category": "sports",
-      "added_at": "2026-04-09T01:26:52.022248+00:00"
+      "added_at": "2026-04-09T07:14:41.252582+00:00"
+    },
+    {
+      "tweet": "The Artemis crew is coming back from the moon with a bunch of pictures and stories. Kind of wild to think that's their whole souvenir.",
+      "original_url": "https://www.bbc.com/news/articles/c70dr45dj1lo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Artemis crew returning to Earth with 'all the good stuff' from Moon discoveries",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.252221+00:00"
     },
     {
       "tweet": "Hold on, the US and Iran actually agreed to a ceasefire? I’ll believe it when it’s still holding tomorrow.",
@@ -365,37 +321,37 @@
       "added_at": "2026-04-08T15:44:16.953760+00:00"
     },
     {
-      "tweet": "Sydney scrapped that light rail safety project because it cost too much right before a second fatality. Money over lives, classic.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/09/sydney-light-rail-death-pedestrian-sensors-transdev-tram-trial-scrapped",
-      "buzz_score": 80,
+      "tweet": "BBC actually interviewed the Artemis guys while they were in space. How do you even handle the signal delay?",
+      "original_url": "https://www.bbc.com/news/videos/cgk0e12y1kgo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 65,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Sydney light rail trialled sensors after death but scrapped project due to cost before second fatality, whistleblower claims",
+      "original_title": "Watch: BBC asks Artemis II crew a question in space",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.252462+00:00"
+    },
+    {
+      "tweet": "Zelenskyy is saying the White House is just ignoring the Russia-Iran intel because they trust Putin. It's wild.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/09/us-ignoring-evidence-russia-is-helping-iran-because-it-trusts-putin-says-zelenskyy",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US ignoring evidence Russia is helping Iran because it trusts Putin, says Zelenskyy",
       "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-04-09T01:26:52.022505+00:00"
+      "added_at": "2026-04-09T01:26:52.022630+00:00"
     },
     {
-      "tweet": "NCAA might actually let guys play for five years now. We're all just gonna be in college until we're thirty at this rate.",
-      "original_url": "https://www.espn.com/college-sports/story/_/id/48433858/reports-ncaa-discuss-five-year-eligibility-proposal",
-      "buzz_score": 80,
+      "tweet": "They're hunting down Tiger Woods' prescription records after that Florida arrest. That's a rough look.",
+      "original_url": "https://www.bbc.com/news/articles/c77mz26ed80o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Reports: NCAA to discuss 5-year eligibility model",
-      "source": "ESPN",
+      "original_title": "Prosecutors seek Tiger Woods' prescription drug records after Florida arrest",
+      "source": "BBC Sport",
       "category": "sports",
-      "added_at": "2026-04-09T01:26:52.022068+00:00"
-    },
-    {
-      "tweet": "Trump's Iran deal is already fraying, like, hours later. At this point we're just watching it fall apart in real time.",
-      "original_url": "https://www.nytimes.com/2026/04/08/us/politics/chaos-cease-fire-iran.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump Finds Himself With Fragile Iran Cease-Fire After the Scramble to Make a Deal",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T01:26:52.022061+00:00"
+      "added_at": "2026-04-09T01:26:52.022248+00:00"
     },
     {
       "tweet": "Australia is calling for Lebanon to be in that ceasefire deal. Honestly, it’s about time.",
@@ -497,28 +453,6 @@
       "added_at": "2026-04-05T23:55:53.317370+00:00"
     },
     {
-      "tweet": "Max Verstappen's engineer is jumping ship to McLaren in a few years. Guess he just wants to work with someone who isn't a headache.",
-      "original_url": "https://www.bbc.com/sport/formula1/articles/cedexn47qzlo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Verstappen race engineer Lambiase to join McLaren",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-09T10:02:44.429480+00:00"
-    },
-    {
-      "tweet": "Young writers in Nigeria are dropping erotic novels on WhatsApp to dodge the censors. We'll find a way to read whatever we want, no matter what.",
-      "original_url": "https://www.nytimes.com/2026/04/09/world/africa/nigeria-erotica-writers-censors.html",
-      "buzz_score": 80,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "The Hit Erotica Writers Outwitting Nigeria’s Religious Censors",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T10:02:44.428985+00:00"
-    },
-    {
       "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
       "original_url": "https://variety.com/2026/film/reviews/faces-of-death-review-1236706326/",
       "buzz_score": 82,
@@ -539,6 +473,39 @@
       "source": "Deadline",
       "category": "entertainment",
       "added_at": "2026-04-05T23:55:53.317362+00:00"
+    },
+    {
+      "tweet": "Sydney scrapped that light rail safety project because it cost too much right before a second fatality. Money over lives, classic.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/09/sydney-light-rail-death-pedestrian-sensors-transdev-tram-trial-scrapped",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sydney light rail trialled sensors after death but scrapped project due to cost before second fatality, whistleblower claims",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-09T01:26:52.022505+00:00"
+    },
+    {
+      "tweet": "NCAA might actually let guys play for five years now. We're all just gonna be in college until we're thirty at this rate.",
+      "original_url": "https://www.espn.com/college-sports/story/_/id/48433858/reports-ncaa-discuss-five-year-eligibility-proposal",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Reports: NCAA to discuss 5-year eligibility model",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-09T01:26:52.022068+00:00"
+    },
+    {
+      "tweet": "Trump's Iran deal is already fraying, like, hours later. At this point we're just watching it fall apart in real time.",
+      "original_url": "https://www.nytimes.com/2026/04/08/us/politics/chaos-cease-fire-iran.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump Finds Himself With Fragile Iran Cease-Fire After the Scramble to Make a Deal",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T01:26:52.022061+00:00"
     },
     {
       "tweet": "Turns out China was the one pushing Iran toward that ceasefire. Guess they’re the ones pulling the strings now.",
@@ -893,26 +860,26 @@
       "added_at": "2026-04-05T19:48:04.864444+00:00"
     },
     {
-      "tweet": "They're trying to bring back that side character Zam Wesell for the Star Wars cartoons. We just can't let any of these prequel characters go, man.",
-      "original_url": "https://www.polygon.com/lucasfilm-animation-zam-wesell-spin-off/",
-      "buzz_score": 75,
+      "tweet": "Max Verstappen's engineer is jumping ship to McLaren in a few years. Guess he just wants to work with someone who isn't a headache.",
+      "original_url": "https://www.bbc.com/sport/formula1/articles/cedexn47qzlo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
       "buzz_score2": 85,
       "rewrite_count": 0,
-      "original_title": "Star Wars Maul team has a cult favorite character it wants back for the cartoons",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-09T10:02:44.430231+00:00"
+      "original_title": "Verstappen race engineer Lambiase to join McLaren",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-09T10:02:44.429480+00:00"
     },
     {
-      "tweet": "The Grateful Dead are doing another collab with thisisneverthat. We really just buy the same band shirts in a different font forever.",
-      "original_url": "https://hypebeast.com/2026/4/grateful-dead-thisisneverthat-spring-summer-ss-2026-collaboration-collection-release-info",
-      "buzz_score": 75,
+      "tweet": "Young writers in Nigeria are dropping erotic novels on WhatsApp to dodge the censors. We'll find a way to read whatever we want, no matter what.",
+      "original_url": "https://www.nytimes.com/2026/04/09/world/africa/nigeria-erotica-writers-censors.html",
+      "buzz_score": 80,
       "buzz_score2": 85,
       "rewrite_count": 0,
-      "original_title": "Grateful Dead and thisisneverthat Reunite for 2026 Spring/Summer Collection",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-09T10:02:44.429984+00:00"
+      "original_title": "The Hit Erotica Writers Outwitting Nigeria’s Religious Censors",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T10:02:44.428985+00:00"
     },
     {
       "tweet": "Apparently there's some line in that Maul show that changes how Star Wars works. We're really just making it up as we go now.",
@@ -1034,6 +1001,28 @@
       "source": "Kotaku",
       "category": "entertainment",
       "added_at": "2026-04-08T12:41:37.763724+00:00"
+    },
+    {
+      "tweet": "They're trying to bring back that side character Zam Wesell for the Star Wars cartoons. We just can't let any of these prequel characters go, man.",
+      "original_url": "https://www.polygon.com/lucasfilm-animation-zam-wesell-spin-off/",
+      "buzz_score": 75,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Star Wars Maul team has a cult favorite character it wants back for the cartoons",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-09T10:02:44.430231+00:00"
+    },
+    {
+      "tweet": "The Grateful Dead are doing another collab with thisisneverthat. We really just buy the same band shirts in a different font forever.",
+      "original_url": "https://hypebeast.com/2026/4/grateful-dead-thisisneverthat-spring-summer-ss-2026-collaboration-collection-release-info",
+      "buzz_score": 75,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Grateful Dead and thisisneverthat Reunite for 2026 Spring/Summer Collection",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-09T10:02:44.429984+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 184,
+    "total_posted": 185,
     "total_collected": 468
   },
-  "last_posted_at": "2026-04-09T10:08:01.856009+00:00"
+  "last_posted_at": "2026-04-09T11:15:56.126571+00:00"
 }
