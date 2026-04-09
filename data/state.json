@@ -2,28 +2,6 @@
   "last_collected": "2026-04-09T14:10:48.794091+00:00",
   "queue": [
     {
-      "tweet": "Gary Player just told Tiger to stop driving. Like, tell us something we don't know.",
-      "original_url": "https://www.espn.com/golf/story/_/id/48437536/gary-player-jack-nicklaus-address-tiger-woods-arrest-recovery",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Player: 'Heart goes out' for Tiger, but stop driving",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-09T14:10:48.793339+00:00"
-    },
-    {
-      "tweet": "Hold on, they found three Russian subs spying on our pipelines near Britain. Like, they aren't even hiding it anymore.",
-      "original_url": "https://www.nytimes.com/2026/04/09/world/europe/uk-russia-submarines-cables.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "3 Russian Submarines Detected Near Britain Were Spying, U.K. Says",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T14:10:48.792719+00:00"
-    },
-    {
       "tweet": "So apparently the ceasefire is already a grave violation. At what point do we just admit the whole thing is a joke?",
       "original_url": "https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -178,6 +156,17 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
+      "tweet": "Oil prices are tanking and stocks are popping because of that US-Iran ceasefire. Guess war is expensive for everyone else.",
+      "original_url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-08T17:48:49.217272+00:00"
+    },
+    {
       "tweet": "Argentina just approved mining in the glaciers. Literally digging up the mountains for cash.",
       "original_url": "https://www.theguardian.com/world/2026/apr/09/argentina-approves-glacier-mining-bill-environment-protests-andes-mountaines-javier-milei",
       "buzz_score": 80,
@@ -220,17 +209,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-09T12:09:23.833864+00:00"
-    },
-    {
-      "tweet": "Oil prices are tanking and stocks are popping because of that US-Iran ceasefire. Guess war is expensive for everyone else.",
-      "original_url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
       "tweet": "Some survival game just made bank in 24 hours. The gaming industry is just printing money at this point.",
@@ -409,39 +387,6 @@
       "added_at": "2026-04-09T10:02:44.429862+00:00"
     },
     {
-      "tweet": "ESPN draft experts are already drafting superteams from the 2026 class. Who actually has this much free time?",
-      "original_url": "https://www.espn.com/nfl/draft2026/story/_/id/48420486/2026-nfl-draft-experts-pick-superteams-top-prospects-positions-kiper-miller-reid-yates",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Our draft experts picked 10-man rosters from the 2026 class: Who has the best superteam?",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-09T12:09:23.835425+00:00"
-    },
-    {
-      "tweet": "Another group is claiming they're scaling towards personal superintelligence. Feels like we're just throwing buzzwords at a wall now.",
-      "original_url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Muse Spark: Scaling towards personal superintelligence",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-09T12:09:23.834670+00:00"
-    },
-    {
-      "tweet": "Did you see Mitski on Kimmel last night. She was wearing a massive leopard-print coat like she's straight out of a mob movie. Serious main character energy.",
-      "original_url": "https://www.billboard.com/music/pop/mitski-if-i-leave-performance-jimmy-kimmel-live-1236218685/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Mitski Is a Picture of Calm For ‘If I Leave’ Performance on ‘Kimmel’: Watch",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-09T10:02:44.429110+00:00"
-    },
-    {
       "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 82,
@@ -475,6 +420,39 @@
       "added_at": "2026-04-08T20:03:08.618965+00:00"
     },
     {
+      "tweet": "ESPN draft experts are already drafting superteams from the 2026 class. Who actually has this much free time?",
+      "original_url": "https://www.espn.com/nfl/draft2026/story/_/id/48420486/2026-nfl-draft-experts-pick-superteams-top-prospects-positions-kiper-miller-reid-yates",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Our draft experts picked 10-man rosters from the 2026 class: Who has the best superteam?",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-09T12:09:23.835425+00:00"
+    },
+    {
+      "tweet": "Another group is claiming they're scaling towards personal superintelligence. Feels like we're just throwing buzzwords at a wall now.",
+      "original_url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Muse Spark: Scaling towards personal superintelligence",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-09T12:09:23.834670+00:00"
+    },
+    {
+      "tweet": "Did you see Mitski on Kimmel last night. She was wearing a massive leopard-print coat like she's straight out of a mob movie. Serious main character energy.",
+      "original_url": "https://www.billboard.com/music/pop/mitski-if-i-leave-performance-jimmy-kimmel-live-1236218685/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Mitski Is a Picture of Calm For ‘If I Leave’ Performance on ‘Kimmel’: Watch",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-09T10:02:44.429110+00:00"
+    },
+    {
       "tweet": "Hold on, the US and Iran actually agreed to a ceasefire? I’ll believe it when it’s still holding tomorrow.",
       "original_url": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
       "buzz_score": 90,
@@ -506,50 +484,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-08T15:44:16.953760+00:00"
-    },
-    {
-      "tweet": "Fear of God is just ditching their CEO role now. Guess even fashion labels are tired of paying for middle management.",
-      "original_url": "https://hypebeast.com/2026/4/jerry-lorenzo-fear-of-god-eliminates-ceo-role-bastien-daguzan-exits",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fear of God Eliminates CEO Role as Bastien Daguzan Exits the Label",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-09T07:14:41.252100+00:00"
-    },
-    {
-      "tweet": "Fabio Wardley says Tyson Fury is never gonna be champ again. Honestly, the way boxing is looking lately, he's probably right.",
-      "original_url": "https://www.bbc.com/sport/boxing/articles/c4gvdy89pn7o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fury unlikely to be world champion again - Wardley",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-09T07:14:41.251603+00:00"
-    },
-    {
-      "tweet": "Robert Plant just played Ramble On live on TV. Seeing these guys still crushing the classics makes me realize how fast time is actually moving.",
-      "original_url": "https://www.billboard.com/music/rock/robert-plant-led-zeppelin-classic-late-show-watch-1236218652/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Robert Plant Performs Led Zeppelin Classic on ‘Late Show’: Watch",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-09T07:14:41.251239+00:00"
-    },
-    {
-      "tweet": "Man, Jim Whittaker just passed away at 97. Dude climbed Everest, ran REI, and lived for like a century. Absolute legend.",
-      "original_url": "https://www.npr.org/2026/04/09/g-s1-116847/mountaineer-jim-whittaker-dies",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Jim Whittaker, the first American to summit Mount Everest, dies at 97",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.250960+00:00"
     },
     {
       "tweet": "Zelenskyy is saying the White House is just ignoring the Russia-Iran intel because they trust Putin. It's wild.",
@@ -695,26 +629,48 @@
       "added_at": "2026-04-05T23:55:53.317362+00:00"
     },
     {
-      "tweet": "PSG just absolutely dismantled Liverpool's tactics yesterday. Arne Slot really learned the hard way that Europe hits different.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c0j6ewp0577o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
+      "tweet": "Fear of God is just ditching their CEO role now. Guess even fashion labels are tired of paying for middle management.",
+      "original_url": "https://hypebeast.com/2026/4/jerry-lorenzo-fear-of-god-eliminates-ceo-role-bastien-daguzan-exits",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "How fluid PSG exposed Slot's back-five tweak",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-09T07:14:41.252582+00:00"
+      "original_title": "Fear of God Eliminates CEO Role as Bastien Daguzan Exits the Label",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-09T07:14:41.252100+00:00"
     },
     {
-      "tweet": "The Artemis crew is coming back from the moon with a bunch of pictures and stories. Kind of wild to think that's their whole souvenir.",
-      "original_url": "https://www.bbc.com/news/articles/c70dr45dj1lo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
+      "tweet": "Fabio Wardley says Tyson Fury is never gonna be champ again. Honestly, the way boxing is looking lately, he's probably right.",
+      "original_url": "https://www.bbc.com/sport/boxing/articles/c4gvdy89pn7o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Artemis crew returning to Earth with 'all the good stuff' from Moon discoveries",
-      "source": "BBC World",
+      "original_title": "Fury unlikely to be world champion again - Wardley",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-09T07:14:41.251603+00:00"
+    },
+    {
+      "tweet": "Robert Plant just played Ramble On live on TV. Seeing these guys still crushing the classics makes me realize how fast time is actually moving.",
+      "original_url": "https://www.billboard.com/music/rock/robert-plant-led-zeppelin-classic-late-show-watch-1236218652/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Robert Plant Performs Led Zeppelin Classic on ‘Late Show’: Watch",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-09T07:14:41.251239+00:00"
+    },
+    {
+      "tweet": "Man, Jim Whittaker just passed away at 97. Dude climbed Everest, ran REI, and lived for like a century. Absolute legend.",
+      "original_url": "https://www.npr.org/2026/04/09/g-s1-116847/mountaineer-jim-whittaker-dies",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Jim Whittaker, the first American to summit Mount Everest, dies at 97",
+      "source": "NPR News",
       "category": "world",
-      "added_at": "2026-04-09T07:14:41.252221+00:00"
+      "added_at": "2026-04-09T07:14:41.250960+00:00"
     },
     {
       "tweet": "Sydney scrapped that light rail safety project because it cost too much right before a second fatality. Money over lives, classic.",
@@ -1034,6 +990,28 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-06T08:02:47.251515+00:00"
+    },
+    {
+      "tweet": "PSG just absolutely dismantled Liverpool's tactics yesterday. Arne Slot really learned the hard way that Europe hits different.",
+      "original_url": "https://www.bbc.com/sport/football/articles/c0j6ewp0577o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "How fluid PSG exposed Slot's back-five tweak",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-09T07:14:41.252582+00:00"
+    },
+    {
+      "tweet": "The Artemis crew is coming back from the moon with a bunch of pictures and stories. Kind of wild to think that's their whole souvenir.",
+      "original_url": "https://www.bbc.com/news/articles/c70dr45dj1lo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Artemis crew returning to Earth with 'all the good stuff' from Moon discoveries",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.252221+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 189,
+    "total_posted": 191,
     "total_collected": 500
   },
-  "last_posted_at": "2026-04-09T14:16:27.150857+00:00"
+  "last_posted_at": "2026-04-09T15:57:55.902407+00:00"
 }
