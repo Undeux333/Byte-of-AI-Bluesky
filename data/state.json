@@ -2,15 +2,15 @@
   "last_collected": "2026-04-09T22:23:59.524740+00:00",
   "queue": [
     {
-      "tweet": "Melania finally dropped a statement saying she wasn't friends with Epstein. Funny how these things only come up when it’s strictly necessary",
-      "original_url": "https://www.npr.org/2026/04/09/nx-s1-5779783/melania-trump-jeffrey-epstein",
-      "buzz_score": 88,
-      "buzz_score2": 92,
+      "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Melania Trump denies close ties to Jeffrey Epstein in rare public statement",
-      "source": "NPR News",
+      "original_title": "UK’s Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing St",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-04-09T22:23:59.523230+00:00"
+      "added_at": "2026-04-09T07:14:41.251727+00:00"
     },
     {
       "tweet": "Democrats are slamming Pam Bondi for blowing off that Epstein hearing. It's crazy how subpoenas are just optional now",
@@ -22,17 +22,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T22:23:59.524130+00:00"
-    },
-    {
-      "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "UK’s Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing St",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251727+00:00"
     },
     {
       "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
@@ -55,28 +44,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Melanie Martinez hit number one again. Wild.",
-      "original_url": "https://www.billboard.com/pro/melanie-martinez-hades-number-1-top-rock-alternative-albums/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Melanie Martinez Scores Top Rock & Alternative Albums No. 1 With ‘Hades’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-09T16:56:43.712844+00:00"
-    },
-    {
-      "tweet": "I keep seeing these git commands people run before reading code. We all have our own little rituals.",
-      "original_url": "https://piechowski.io/post/git-commands-before-reading-code/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Git commands I run before reading any code",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
       "tweet": "A literal wolf escaped the zoo in South Korea and they had to close the schools. Imagine showing up to class and hearing a wolf is on the loose.",
@@ -112,6 +79,28 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
+      "tweet": "Melanie Martinez hit number one again. Wild.",
+      "original_url": "https://www.billboard.com/pro/melanie-martinez-hades-number-1-top-rock-alternative-albums/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Melanie Martinez Scores Top Rock & Alternative Albums No. 1 With ‘Hades’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-09T16:56:43.712844+00:00"
+    },
+    {
+      "tweet": "I keep seeing these git commands people run before reading code. We all have our own little rituals.",
+      "original_url": "https://piechowski.io/post/git-commands-before-reading-code/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Git commands I run before reading any code",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-09T16:56:43.712347+00:00"
+    },
+    {
       "tweet": "So apparently the ceasefire is already a grave violation. At what point do we just admit the whole thing is a joke?",
       "original_url": "https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -121,17 +110,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-09T14:10:48.792442+00:00"
-    },
-    {
-      "tweet": "Netanyahu says we're holding talks with Lebanon but there’s no ceasefire. It's basically a meeting where you just keep getting shot at",
-      "original_url": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israel to hold direct talks with Lebanon but no ceasefire, Netanyahu says",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-09T22:23:59.523224+00:00"
     },
     {
       "tweet": "Taylor Momsen got bit by another venomous spider on tour. She literally said it wouldn't be an AC/DC tour if she didn't get bit. What.",
@@ -200,6 +178,17 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
+      "tweet": "Netanyahu says we're holding talks with Lebanon but there’s no ceasefire. It's basically a meeting where you just keep getting shot at",
+      "original_url": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Israel to hold direct talks with Lebanon but no ceasefire, Netanyahu says",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-09T22:23:59.523224+00:00"
+    },
+    {
       "tweet": "North Korea is just using the Iran war as a cheat sheet for their own weapons testing. They aren't even trying to hide the strategy",
       "original_url": "https://www.nytimes.com/2026/04/09/world/asia/north-korea-weapons-iran.html",
       "buzz_score": 78,
@@ -209,17 +198,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T22:23:59.523402+00:00"
-    },
-    {
-      "tweet": "Putin announced a 32-hour ceasefire for Orthodox Easter. Imagine getting a time limit on not being shelled",
-      "original_url": "https://www.theguardian.com/world/2026/apr/09/vladimir-putin-announces-orthodox-easter-ceasefire-with-ukraine",
-      "buzz_score": 76,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Vladimir Putin announces Orthodox Easter ceasefire with Ukraine",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-09T22:23:59.524251+00:00"
     },
     {
       "tweet": "So European leaders are telling the U.S. that a ceasefire with Iran has to include Lebanon. Why do we keep acting like these things are separate?",
@@ -242,6 +220,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T12:09:23.834019+00:00"
+    },
+    {
+      "tweet": "Putin announced a 32-hour ceasefire for Orthodox Easter. Imagine getting a time limit on not being shelled",
+      "original_url": "https://www.theguardian.com/world/2026/apr/09/vladimir-putin-announces-orthodox-easter-ceasefire-with-ukraine",
+      "buzz_score": 76,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Vladimir Putin announces Orthodox Easter ceasefire with Ukraine",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-09T22:23:59.524251+00:00"
     },
     {
       "tweet": "Morgan Rogers is about to be at the center of a transfer tug of war all summer. Another season of reading the same headlines",
@@ -387,6 +376,39 @@
       "added_at": "2026-04-09T16:56:43.711946+00:00"
     },
     {
+      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 82,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-08T04:12:50.486178+00:00"
+    },
+    {
+      "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
+      "original_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Fact check: Trump's objectives in the war with Iran have largely not been achieved",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-08T22:35:32.474831+00:00"
+    },
+    {
+      "tweet": "Everyone in Tehran is claiming victory after that ceasefire. It’s pretty clear nobody actually won anything.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/8/iranians-breathe-a-ceasefire-sigh-of-relief-as-all-sides-claim-victory?traffic_source=rss",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iranians breathe a ‘ceasefire’ sigh of relief as all sides claim victory",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-08T20:03:08.618965+00:00"
+    },
+    {
       "tweet": "Rory McIlroy opened with a 67 and complained it wasn't his best golf. Imagine being that good and still being annoyed with yourself",
       "original_url": "https://www.espn.com/golf/story/_/id/48441676/rory-mcilroy-fires-67-lowest-masters-round-1-11",
       "buzz_score": 75,
@@ -442,72 +464,6 @@
       "added_at": "2026-04-09T19:57:43.829467+00:00"
     },
     {
-      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-08T04:12:50.486178+00:00"
-    },
-    {
-      "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
-      "original_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fact check: Trump's objectives in the war with Iran have largely not been achieved",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-08T22:35:32.474831+00:00"
-    },
-    {
-      "tweet": "Everyone in Tehran is claiming victory after that ceasefire. It’s pretty clear nobody actually won anything.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/8/iranians-breathe-a-ceasefire-sigh-of-relief-as-all-sides-claim-victory?traffic_source=rss",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iranians breathe a ‘ceasefire’ sigh of relief as all sides claim victory",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-08T20:03:08.618965+00:00"
-    },
-    {
-      "tweet": "The humanitarian situation in Sudan is at catastrophic levels. Not enough people are talking about that.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/9/humanitarian-situation-in-sudan-at-catastrophic-levels-says-ngo?traffic_source=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Humanitarian situation in Sudan at ‘catastrophic levels’, says NGO",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-09T16:56:43.712968+00:00"
-    },
-    {
-      "tweet": "This doctor turned an RV into a mobile OB-GYN clinic. That's a grind.",
-      "original_url": "https://www.npr.org/2026/04/09/nx-s1-5775761/this-doctor-turned-a-31-foot-rv-into-one-of-the-countrys-only-mobile-ob-gyn-clinics",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "This doctor turned a 31-foot RV into one of the country's only mobile OB-GYN clinics",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-09T16:56:43.712472+00:00"
-    },
-    {
-      "tweet": "Jack Nicklaus and the other legends want a golf ball rollback. Can we just let the game be hard.",
-      "original_url": "https://www.espn.com/golf/story/_/id/48437955/nicklaus-watson-player-favor-rolling-back-golf-ball-distance",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Nicklaus, Watson, Player favor golf ball rollback",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-09T16:56:43.711528+00:00"
-    },
-    {
       "tweet": "Trump's out here telling Iran they better agree to peace terms or strikes are back on. That's just how we do diplomacy now, apparently.",
       "original_url": "https://www.npr.org/2026/04/09/nx-s1-5779000/iran-war-updates",
       "buzz_score": 90,
@@ -552,26 +508,37 @@
       "added_at": "2026-04-08T15:44:16.953760+00:00"
     },
     {
-      "tweet": "KATSEYE dropped a new single as a five-piece. It actually hits.",
-      "original_url": "https://www.billboard.com/music/pop/katseye-pinky-up-single-video-without-manon-1236218873/",
-      "buzz_score": 70,
+      "tweet": "The humanitarian situation in Sudan is at catastrophic levels. Not enough people are talking about that.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/9/humanitarian-situation-in-sudan-at-catastrophic-levels-says-ngo?traffic_source=rss",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "KATSEYE Put Their ‘Pinky Up’ and Go Hard in the Club in Video For Hyper Pop New Single: Watch",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-09T16:56:43.712720+00:00"
+      "original_title": "Humanitarian situation in Sudan at ‘catastrophic levels’, says NGO",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-09T16:56:43.712968+00:00"
     },
     {
-      "tweet": "Everyone is suddenly an expert on soft power again. Can anyone actually explain what that means.",
-      "original_url": "https://www.npr.org/2026/04/09/nx-s1-5777584/trump-administration-soft-power",
-      "buzz_score": 70,
+      "tweet": "This doctor turned an RV into a mobile OB-GYN clinic. That's a grind.",
+      "original_url": "https://www.npr.org/2026/04/09/nx-s1-5775761/this-doctor-turned-a-31-foot-rv-into-one-of-the-countrys-only-mobile-ob-gyn-clinics",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "In the Trump era, everybody's talking about 'soft power.' But ... what is it exactly?",
+      "original_title": "This doctor turned a 31-foot RV into one of the country's only mobile OB-GYN clinics",
       "source": "NPR News",
       "category": "world",
-      "added_at": "2026-04-09T16:56:43.712596+00:00"
+      "added_at": "2026-04-09T16:56:43.712472+00:00"
+    },
+    {
+      "tweet": "Jack Nicklaus and the other legends want a golf ball rollback. Can we just let the game be hard.",
+      "original_url": "https://www.espn.com/golf/story/_/id/48437955/nicklaus-watson-player-favor-rolling-back-golf-ball-distance",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Nicklaus, Watson, Player favor golf ball rollback",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-09T16:56:43.711528+00:00"
     },
     {
       "tweet": "Looks like Fury and Joshua might finally fight in Dublin this September. How many more years are they gonna tease this thing?",
@@ -739,6 +706,50 @@
       "added_at": "2026-04-05T23:55:53.317370+00:00"
     },
     {
+      "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
+      "original_url": "https://variety.com/2026/film/reviews/faces-of-death-review-1236706326/",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘Faces of Death’ Review: A ’70s-Style B-Horror Movie Taps into the Growing Appetite for Horror That’s ‘Real’",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-06T04:21:17.194792+00:00"
+    },
+    {
+      "tweet": "UCLA took down South Carolina for the championship. Huge game.",
+      "original_url": "https://deadline.com/2026/04/ucla-wins-ncaa-womens-basketball-title-south-carolina-1236780047/",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "UCLA Triumphs Over South Carolina For First-Ever NCAA Women’s Basketball Title",
+      "source": "Deadline",
+      "category": "entertainment",
+      "added_at": "2026-04-05T23:55:53.317362+00:00"
+    },
+    {
+      "tweet": "KATSEYE dropped a new single as a five-piece. It actually hits.",
+      "original_url": "https://www.billboard.com/music/pop/katseye-pinky-up-single-video-without-manon-1236218873/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "KATSEYE Put Their ‘Pinky Up’ and Go Hard in the Club in Video For Hyper Pop New Single: Watch",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-09T16:56:43.712720+00:00"
+    },
+    {
+      "tweet": "Everyone is suddenly an expert on soft power again. Can anyone actually explain what that means.",
+      "original_url": "https://www.npr.org/2026/04/09/nx-s1-5777584/trump-administration-soft-power",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "In the Trump era, everybody's talking about 'soft power.' But ... what is it exactly?",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-09T16:56:43.712596+00:00"
+    },
+    {
       "tweet": "Argentina just approved mining in the glaciers. Literally digging up the mountains for cash.",
       "original_url": "https://www.theguardian.com/world/2026/apr/09/argentina-approves-glacier-mining-bill-environment-protests-andes-mountaines-javier-milei",
       "buzz_score": 80,
@@ -770,28 +781,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-09T14:10:48.793475+00:00"
-    },
-    {
-      "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
-      "original_url": "https://variety.com/2026/film/reviews/faces-of-death-review-1236706326/",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘Faces of Death’ Review: A ’70s-Style B-Horror Movie Taps into the Growing Appetite for Horror That’s ‘Real’",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-06T04:21:17.194792+00:00"
-    },
-    {
-      "tweet": "UCLA took down South Carolina for the championship. Huge game.",
-      "original_url": "https://deadline.com/2026/04/ucla-wins-ncaa-womens-basketball-title-south-carolina-1236780047/",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "UCLA Triumphs Over South Carolina For First-Ever NCAA Women’s Basketball Title",
-      "source": "Deadline",
-      "category": "entertainment",
-      "added_at": "2026-04-05T23:55:53.317362+00:00"
     },
     {
       "tweet": "Reading about the most broken Magic cards of all time. Man, we all remember exactly how much we hated playing against those decks.",
@@ -2018,8 +2007,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 205,
+    "total_posted": 206,
     "total_collected": 548
   },
-  "last_posted_at": "2026-04-09T23:10:36.608408+00:00"
+  "last_posted_at": "2026-04-09T23:52:21.727269+00:00"
 }
