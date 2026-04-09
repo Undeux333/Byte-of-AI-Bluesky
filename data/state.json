@@ -2,28 +2,6 @@
   "last_collected": "2026-04-09T22:23:59.524740+00:00",
   "queue": [
     {
-      "tweet": "The jury is currently deciding if Live Nation is a monopolistic bully or just a fierce competitor. As if the ticket fees don't already tell the story",
-      "original_url": "https://www.billboard.com/pro/live-nation-trial-ends-monopoly-or-fierce-competitor/",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "As Live Nation Trial Ends, Jury Must Decide If It’s a ‘Monopolistic Bully’ or ‘Fierce Competitor’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-09T22:23:59.523520+00:00"
-    },
-    {
-      "tweet": "Gas prices are spiking again because of that whole ceasefire mess. Like we needed another reason to be broke",
-      "original_url": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Petrol and diesel prices rise again as concerns grow over ceasefire",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-09T22:23:59.523228+00:00"
-    },
-    {
       "tweet": "Melania finally dropped a statement saying she wasn't friends with Epstein. Funny how these things only come up when it’s strictly necessary",
       "original_url": "https://www.npr.org/2026/04/09/nx-s1-5779783/melania-trump-jeffrey-epstein",
       "buzz_score": 88,
@@ -101,17 +79,6 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
-      "tweet": "So apparently the ceasefire is already a grave violation. At what point do we just admit the whole thing is a joke?",
-      "original_url": "https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Israeli strikes in Lebanon 'grave violation' of ceasefire, Iran minister tells BBC",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-09T14:10:48.792442+00:00"
-    },
-    {
       "tweet": "A literal wolf escaped the zoo in South Korea and they had to close the schools. Imagine showing up to class and hearing a wolf is on the loose.",
       "original_url": "https://www.theguardian.com/world/2026/apr/09/wolf-escaped-zoo-daejeon-south-korea",
       "buzz_score": 85,
@@ -145,6 +112,17 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
+      "tweet": "So apparently the ceasefire is already a grave violation. At what point do we just admit the whole thing is a joke?",
+      "original_url": "https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Israeli strikes in Lebanon 'grave violation' of ceasefire, Iran minister tells BBC",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-09T14:10:48.792442+00:00"
+    },
+    {
       "tweet": "Netanyahu says we're holding talks with Lebanon but there’s no ceasefire. It's basically a meeting where you just keep getting shot at",
       "original_url": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -154,28 +132,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-09T22:23:59.523224+00:00"
-    },
-    {
-      "tweet": "North Korea is just using the Iran war as a cheat sheet for their own weapons testing. They aren't even trying to hide the strategy",
-      "original_url": "https://www.nytimes.com/2026/04/09/world/asia/north-korea-weapons-iran.html",
-      "buzz_score": 78,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "North Korea Tests New Weapons, Drawing Lessons from Iran War",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T22:23:59.523402+00:00"
-    },
-    {
-      "tweet": "Putin announced a 32-hour ceasefire for Orthodox Easter. Imagine getting a time limit on not being shelled",
-      "original_url": "https://www.theguardian.com/world/2026/apr/09/vladimir-putin-announces-orthodox-easter-ceasefire-with-ukraine",
-      "buzz_score": 76,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Vladimir Putin announces Orthodox Easter ceasefire with Ukraine",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-09T22:23:59.524251+00:00"
     },
     {
       "tweet": "Taylor Momsen got bit by another venomous spider on tour. She literally said it wouldn't be an AC/DC tour if she didn't get bit. What.",
@@ -244,15 +200,26 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Morgan Rogers is about to be at the center of a transfer tug of war all summer. Another season of reading the same headlines",
-      "original_url": "https://www.bbc.com/sport/football/articles/clyxkqpxpl9o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 72,
+      "tweet": "North Korea is just using the Iran war as a cheat sheet for their own weapons testing. They aren't even trying to hide the strategy",
+      "original_url": "https://www.nytimes.com/2026/04/09/world/asia/north-korea-weapons-iran.html",
+      "buzz_score": 78,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Rogers centre of transfer tug of war - Friday's gossip",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-09T22:23:59.524009+00:00"
+      "original_title": "North Korea Tests New Weapons, Drawing Lessons from Iran War",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T22:23:59.523402+00:00"
+    },
+    {
+      "tweet": "Putin announced a 32-hour ceasefire for Orthodox Easter. Imagine getting a time limit on not being shelled",
+      "original_url": "https://www.theguardian.com/world/2026/apr/09/vladimir-putin-announces-orthodox-easter-ceasefire-with-ukraine",
+      "buzz_score": 76,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Vladimir Putin announces Orthodox Easter ceasefire with Ukraine",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-09T22:23:59.524251+00:00"
     },
     {
       "tweet": "So European leaders are telling the U.S. that a ceasefire with Iran has to include Lebanon. Why do we keep acting like these things are separate?",
@@ -275,6 +242,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T12:09:23.834019+00:00"
+    },
+    {
+      "tweet": "Morgan Rogers is about to be at the center of a transfer tug of war all summer. Another season of reading the same headlines",
+      "original_url": "https://www.bbc.com/sport/football/articles/clyxkqpxpl9o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 72,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Rogers centre of transfer tug of war - Friday's gossip",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-09T22:23:59.524009+00:00"
     },
     {
       "tweet": "Apparently there’s chimps out there fighting a legit civil war. What the hell",
@@ -596,39 +574,6 @@
       "added_at": "2026-04-09T16:56:43.712596+00:00"
     },
     {
-      "tweet": "Argentina just approved mining in the glaciers. Literally digging up the mountains for cash.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/09/argentina-approves-glacier-mining-bill-environment-protests-andes-mountaines-javier-milei",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Argentina approves Milei’s glacier mining bill amid environmental protests",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-09T14:10:48.793845+00:00"
-    },
-    {
-      "tweet": "Settlers are storming the Al-Aqsa compound again. Man, that place is never gonna be quiet.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/israeli-settlers-storm-al-aqsa-mosque-compound-after-reopening?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israeli settlers storm Al-Aqsa Mosque compound after reopening",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-09T14:10:48.793722+00:00"
-    },
-    {
-      "tweet": "This girl Laura Cardoso just took nine wickets in a T20 match. That’s not even a game anymore, that’s just a crime.",
-      "original_url": "https://www.bbc.com/sport/cricket/articles/cly7dgp8x7jo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Cardoso takes record nine wickets in T20 international",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-09T14:10:48.793475+00:00"
-    },
-    {
       "tweet": "Looks like Fury and Joshua might finally fight in Dublin this September. How many more years are they gonna tease this thing?",
       "original_url": "https://www.bbc.com/sport/boxing/articles/c1eq4g8w8gyo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -794,6 +739,39 @@
       "added_at": "2026-04-05T23:55:53.317370+00:00"
     },
     {
+      "tweet": "Argentina just approved mining in the glaciers. Literally digging up the mountains for cash.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/09/argentina-approves-glacier-mining-bill-environment-protests-andes-mountaines-javier-milei",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Argentina approves Milei’s glacier mining bill amid environmental protests",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-09T14:10:48.793845+00:00"
+    },
+    {
+      "tweet": "Settlers are storming the Al-Aqsa compound again. Man, that place is never gonna be quiet.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/israeli-settlers-storm-al-aqsa-mosque-compound-after-reopening?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Israeli settlers storm Al-Aqsa Mosque compound after reopening",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-09T14:10:48.793722+00:00"
+    },
+    {
+      "tweet": "This girl Laura Cardoso just took nine wickets in a T20 match. That’s not even a game anymore, that’s just a crime.",
+      "original_url": "https://www.bbc.com/sport/cricket/articles/cly7dgp8x7jo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Cardoso takes record nine wickets in T20 international",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-09T14:10:48.793475+00:00"
+    },
+    {
       "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
       "original_url": "https://variety.com/2026/film/reviews/faces-of-death-review-1236706326/",
       "buzz_score": 82,
@@ -814,61 +792,6 @@
       "source": "Deadline",
       "category": "entertainment",
       "added_at": "2026-04-05T23:55:53.317362+00:00"
-    },
-    {
-      "tweet": "Some survival game just made bank in 24 hours. The gaming industry is just printing money at this point.",
-      "original_url": "https://kotaku.com/hardcore-survival-sim-with-a-deadly-twist-makes-enough-in-24-hours-to-stay-for-years-and-years-to-come-2000686253",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hardcore Survival Sim With A Deadly Twist Makes Enough In 24 Hours To Stay For ‘Years And Years To Come’",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-09T14:10:48.793966+00:00"
-    },
-    {
-      "tweet": "The Masters is officially back. Every year I tell myself I’m gonna watch it and every year I just end up napping on the couch.",
-      "original_url": "https://www.espn.com/golf/story/_/id/48432358/masters-2026-sights-sounds-first-round",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sights and sounds from the first round of the Masters",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-09T14:10:48.793216+00:00"
-    },
-    {
-      "tweet": "That museum owner in Russia tried to play nice with the authorities just to keep the lights on. Turns out you can’t compromise with crazy.",
-      "original_url": "https://www.nytimes.com/2026/04/09/world/europe/russia-permm-museum-nailya-allakhverdiyeva.html",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Her Museum Was Surviving in Russia. Then the Threats Became Too Much.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T14:10:48.792843+00:00"
-    },
-    {
-      "tweet": "Ben Roberts-Smith is in the middle of this massive war crimes case in Australia. It’s wild watching a national hero just fall apart like that.",
-      "original_url": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-09T14:10:48.792593+00:00"
-    },
-    {
-      "tweet": "People are still hunting for who Satoshi Nakamoto actually is. Imagine being the richest guy on earth and nobody even knows you exist. Man.",
-      "original_url": "https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-09T14:10:48.792282+00:00"
     },
     {
       "tweet": "Reading about the most broken Magic cards of all time. Man, we all remember exactly how much we hated playing against those decks.",
@@ -1034,6 +957,61 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-08T07:09:32.873944+00:00"
+    },
+    {
+      "tweet": "Some survival game just made bank in 24 hours. The gaming industry is just printing money at this point.",
+      "original_url": "https://kotaku.com/hardcore-survival-sim-with-a-deadly-twist-makes-enough-in-24-hours-to-stay-for-years-and-years-to-come-2000686253",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hardcore Survival Sim With A Deadly Twist Makes Enough In 24 Hours To Stay For ‘Years And Years To Come’",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-09T14:10:48.793966+00:00"
+    },
+    {
+      "tweet": "The Masters is officially back. Every year I tell myself I’m gonna watch it and every year I just end up napping on the couch.",
+      "original_url": "https://www.espn.com/golf/story/_/id/48432358/masters-2026-sights-sounds-first-round",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sights and sounds from the first round of the Masters",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-09T14:10:48.793216+00:00"
+    },
+    {
+      "tweet": "That museum owner in Russia tried to play nice with the authorities just to keep the lights on. Turns out you can’t compromise with crazy.",
+      "original_url": "https://www.nytimes.com/2026/04/09/world/europe/russia-permm-museum-nailya-allakhverdiyeva.html",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Her Museum Was Surviving in Russia. Then the Threats Became Too Much.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T14:10:48.792843+00:00"
+    },
+    {
+      "tweet": "Ben Roberts-Smith is in the middle of this massive war crimes case in Australia. It’s wild watching a national hero just fall apart like that.",
+      "original_url": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-09T14:10:48.792593+00:00"
+    },
+    {
+      "tweet": "People are still hunting for who Satoshi Nakamoto actually is. Imagine being the richest guy on earth and nobody even knows you exist. Man.",
+      "original_url": "https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-09T14:10:48.792282+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 203,
+    "total_posted": 205,
     "total_collected": 548
   },
-  "last_posted_at": "2026-04-09T22:33:32.388866+00:00"
+  "last_posted_at": "2026-04-09T23:10:36.608408+00:00"
 }
