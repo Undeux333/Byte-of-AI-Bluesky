@@ -2,28 +2,6 @@
   "last_collected": "2026-04-08T22:35:32.476130+00:00",
   "queue": [
     {
-      "tweet": "World leaders are actually being whipsawed by Trump’s whims right now. That’s just a rough way to run a planet.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/europe/iran-ceasefire-world-reaction.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Even as They Praise Iran Cease-Fire, World Leaders Are Whipsawed by Trump",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-08T22:35:32.474834+00:00"
-    },
-    {
-      "tweet": "Did you see they actually figured out teleportation? It’s not Star Trek level or anything yet, but man. Weird.",
-      "original_url": "https://www.mentalfloss.com/science/physics/is-teleportation-possible?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Teleportation Is Possible—Just Not in the Way You Might Think",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-08T22:35:32.474819+00:00"
-    },
-    {
       "tweet": "Oil prices are tanking and stocks are popping because of that US-Iran ceasefire. Guess war is expensive for everyone else.",
       "original_url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 178,
+    "total_posted": 180,
     "total_collected": 420
   },
-  "last_posted_at": "2026-04-08T23:32:55.689159+00:00"
+  "last_posted_at": "2026-04-09T00:01:46.172804+00:00"
 }
