@@ -2,28 +2,6 @@
   "last_collected": "2026-04-10T20:07:01.034241+00:00",
   "queue": [
     {
-      "tweet": "That Quebec band Angine de Poitrine is blowing up after that KEXP set. It’s that feeling when you find a new sound and realize you're late to the party.",
-      "original_url": "https://www.billboard.com/pro/angine-de-poitrine-demand-viral-video-canada-music-news/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "In Canada: Live Demand for Quebec Band Angine de Poitrine Explodes After Viral KEXP Performance",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-10T20:07:01.033608+00:00"
-    },
-    {
-      "tweet": "Dude, did you know caddies at The Masters have to wear those white jumpsuits? It’s literally for the tradition, they’ve been doing it since like the 40s. Just wild.",
-      "original_url": "https://www.mentalfloss.com/sports/why-masters-caddies-wear-white-jumpsuits?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why Do Masters Caddies Wear White Jumpsuits?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-10T20:07:01.033593+00:00"
-    },
-    {
       "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
       "buzz_score": 95,
@@ -33,6 +11,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251727+00:00"
+    },
+    {
+      "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
+      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026",
+      "buzz_score": 90,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "📈 Ranking top men's hoops players in the portal",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
       "tweet": "Did you see that own goal by Martim Fernandes? How do you even put the ball in your own net that badly?",
@@ -46,15 +35,15 @@
       "added_at": "2026-04-10T13:18:39.607465+00:00"
     },
     {
-      "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
-      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026",
-      "buzz_score": 90,
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "📈 Ranking top men's hoops players in the portal",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-09T07:14:41.251481+00:00"
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "Epic is apparently making a Disney-themed extraction shooter. Imagine getting taken out by Mickey.",
@@ -88,17 +77,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-10T20:07:01.033600+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "A literal wolf escaped the zoo in South Korea and they had to close the schools. Imagine showing up to class and hearing a wolf is on the loose.",
@@ -442,17 +420,6 @@
       "added_at": "2026-04-10T17:32:58.043205+00:00"
     },
     {
-      "tweet": "Anitta had to apologize for stealing Sarah Sherman’s lunch from the SNL fridge again. Like, imagine being that hungry in 30 Rock",
-      "original_url": "https://www.billboard.com/culture/tv-film/anitta-apologizes-sarah-sherman-lunch-snl-promo-colman-domingo-1236219800/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Anitta Apologizes, Again, For Snagging Sarah Sherman’s Lunch From ‘SNL’ Fridge in Promo For Colman Domingo-Hosted Episode",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-10T15:31:13.378860+00:00"
-    },
-    {
       "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 82,
@@ -497,37 +464,15 @@
       "added_at": "2026-04-09T22:23:59.524130+00:00"
     },
     {
-      "tweet": "Nick Lachey said his label gave 98 Degrees a literal age of consent guide for every state. The nineties were a different planet, man.",
-      "original_url": "https://www.billboard.com/music/pop/nick-lachey-label-gave-98-degrees-age-consent-guide-each-state-1236219749/",
-      "buzz_score": 80,
+      "tweet": "Anitta had to apologize for stealing Sarah Sherman’s lunch from the SNL fridge again. Like, imagine being that hungry in 30 Rock",
+      "original_url": "https://www.billboard.com/culture/tv-film/anitta-apologizes-sarah-sherman-lunch-snl-promo-colman-domingo-1236219800/",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Nick Lachey Says Label Gave 98 Degrees an ‘Age of Consent’ Guide For Each State On First Tour",
+      "original_title": "Anitta Apologizes, Again, For Snagging Sarah Sherman’s Lunch From ‘SNL’ Fridge in Promo For Colman Domingo-Hosted Episode",
       "source": "Billboard",
       "category": "entertainment",
-      "added_at": "2026-04-10T13:18:39.607089+00:00"
-    },
-    {
-      "tweet": "So these women in Nigeria are just straight up outsmarting religious censors by publishing erotica online. Absolute legends.",
-      "original_url": "https://www.nytimes.com/2026/04/09/world/africa/nigeria-erotica-writers-censors.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The Hit Erotica Writers Outwitting Nigeria’s Religious Censors",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-10T13:18:39.606962+00:00"
-    },
-    {
-      "tweet": "Hold on, so this German far-right extremist got arrested in Czech Republic and it turns out they're transgender? You can't make this up.",
-      "original_url": "https://www.bbc.com/news/articles/cn4vdnr8knjo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "German transgender far-right extremist arrested in Czech Republic",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-10T13:18:39.606800+00:00"
+      "added_at": "2026-04-10T15:31:13.378860+00:00"
     },
     {
       "tweet": "Senegal's prime minister just called Trump an agent of global destabilization. Tell us how you really feel.",
@@ -596,48 +541,37 @@
       "added_at": "2026-04-08T15:44:16.953760+00:00"
     },
     {
-      "tweet": "35 candidates for president in Peru just to try and fix their instability. Honestly sounds like just another day of trying to keep the lights on.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/10/peru-election-polls-instability",
-      "buzz_score": 75,
+      "tweet": "Nick Lachey said his label gave 98 Degrees a literal age of consent guide for every state. The nineties were a different planet, man.",
+      "original_url": "https://www.billboard.com/music/pop/nick-lachey-label-gave-98-degrees-age-consent-guide-each-state-1236219749/",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Peruvians to go to polls hoping to break cycle of instability",
-      "source": "The Guardian",
+      "original_title": "Nick Lachey Says Label Gave 98 Degrees an ‘Age of Consent’ Guide For Each State On First Tour",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-10T13:18:39.607089+00:00"
+    },
+    {
+      "tweet": "So these women in Nigeria are just straight up outsmarting religious censors by publishing erotica online. Absolute legends.",
+      "original_url": "https://www.nytimes.com/2026/04/09/world/africa/nigeria-erotica-writers-censors.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Hit Erotica Writers Outwitting Nigeria’s Religious Censors",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-04-10T13:18:39.607975+00:00"
+      "added_at": "2026-04-10T13:18:39.606962+00:00"
     },
     {
-      "tweet": "Pep wants Bernardo Silva to retire at Man City, but honestly, these guys always say that right before the transfer window opens.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c8r43zp81lgo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
+      "tweet": "Hold on, so this German far-right extremist got arrested in Czech Republic and it turns out they're transgender? You can't make this up.",
+      "original_url": "https://www.bbc.com/news/articles/cn4vdnr8knjo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Guardiola would 'love' Silva to stay at Man City",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-10T13:18:39.607590+00:00"
-    },
-    {
-      "tweet": "Seeing UCLA players dominating the WNBA mock draft is wild. Guess that's what happens when you build a squad that actually knows how to win.",
-      "original_url": "https://www.espn.com/wnba/story/_/id/48424940/wnba-mock-draft-2026-dallas-wings-no-1-pick-olivia-miles-awa-fam-azzi-fudd-awa-fam-lauren-betts",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "🏀 WNBA mock draft: New projected No. 1",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-10T13:18:39.607340+00:00"
-    },
-    {
-      "tweet": "Just read about the backstories for some old kids toys and man, they're actually kind of nightmare fuel. Guess some things are better off left in the attic.",
-      "original_url": "https://www.mentalfloss.com/fun/toys/childrens-toys-disturbing-backstories?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "8 Children’s Toys With Disturbing Backstories",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-10T13:18:39.606797+00:00"
+      "original_title": "German transgender far-right extremist arrested in Czech Republic",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-10T13:18:39.606800+00:00"
     },
     {
       "tweet": "Six months into this ceasefire and the situation in Gaza is somehow even worse. Is it even a ceasefire at this point",
@@ -838,15 +772,48 @@
       "added_at": "2026-04-05T23:55:53.317370+00:00"
     },
     {
-      "tweet": "KATSEYE is out here talking about Beyonce inspiration for Coachella while half the group is on hiatus. The PR spin is working overtime.",
-      "original_url": "https://www.billboard.com/music/pop/katseye-talk-sister-forever-manon-beyonce-inspiration-coachella-1236219762/",
-      "buzz_score": 70,
+      "tweet": "35 candidates for president in Peru just to try and fix their instability. Honestly sounds like just another day of trying to keep the lights on.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/10/peru-election-polls-instability",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "KATSEYE Talk ‘Sister Forever’ Manon and Beyoncé Inspiration For Coachella Debut: ‘The Most Iconic’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-10T13:18:39.608219+00:00"
+      "original_title": "Peruvians to go to polls hoping to break cycle of instability",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-10T13:18:39.607975+00:00"
+    },
+    {
+      "tweet": "Pep wants Bernardo Silva to retire at Man City, but honestly, these guys always say that right before the transfer window opens.",
+      "original_url": "https://www.bbc.com/sport/football/articles/c8r43zp81lgo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Guardiola would 'love' Silva to stay at Man City",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-10T13:18:39.607590+00:00"
+    },
+    {
+      "tweet": "Seeing UCLA players dominating the WNBA mock draft is wild. Guess that's what happens when you build a squad that actually knows how to win.",
+      "original_url": "https://www.espn.com/wnba/story/_/id/48424940/wnba-mock-draft-2026-dallas-wings-no-1-pick-olivia-miles-awa-fam-azzi-fudd-awa-fam-lauren-betts",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "🏀 WNBA mock draft: New projected No. 1",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-10T13:18:39.607340+00:00"
+    },
+    {
+      "tweet": "Just read about the backstories for some old kids toys and man, they're actually kind of nightmare fuel. Guess some things are better off left in the attic.",
+      "original_url": "https://www.mentalfloss.com/fun/toys/childrens-toys-disturbing-backstories?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "8 Children’s Toys With Disturbing Backstories",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-10T13:18:39.606797+00:00"
     },
     {
       "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
@@ -1034,6 +1001,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T14:10:48.793722+00:00"
+    },
+    {
+      "tweet": "KATSEYE is out here talking about Beyonce inspiration for Coachella while half the group is on hiatus. The PR spin is working overtime.",
+      "original_url": "https://www.billboard.com/music/pop/katseye-talk-sister-forever-manon-beyonce-inspiration-coachella-1236219762/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "KATSEYE Talk ‘Sister Forever’ Manon and Beyoncé Inspiration For Coachella Debut: ‘The Most Iconic’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-10T13:18:39.608219+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 235,
+    "total_posted": 237,
     "total_collected": 666
   },
-  "last_posted_at": "2026-04-10T20:14:17.003849+00:00"
+  "last_posted_at": "2026-04-10T21:00:23.735248+00:00"
 }
