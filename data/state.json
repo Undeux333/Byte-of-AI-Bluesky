@@ -2,28 +2,6 @@
   "last_collected": "2026-04-10T04:22:35.263806+00:00",
   "queue": [
     {
-      "tweet": "White House staff got told not to bet on prediction markets. Like, imagine you're literally helping run the country and your boss has to tell you to stop gambling on it.",
-      "original_url": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "White House staff told not to place bets on prediction markets",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-10T04:22:35.261983+00:00"
-    },
-    {
-      "tweet": "Read that over-optimizing your life actually makes you more fragile. Honestly makes sense, we're all out here stressing over productivity hacks just to end up burnt out.",
-      "original_url": "https://bigthink.com/series/full-interview/excellence-stulberg/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Over-optimizing your life is making you fragile, not better",
-      "source": "Big Think",
-      "category": "trivia",
-      "added_at": "2026-04-10T04:22:35.261980+00:00"
-    },
-    {
       "tweet": "Andra Day is finally winning against her manager who siphoned off all her cash. Imagine working that hard just for your team to rob you blind.",
       "original_url": "https://www.rollingstone.com/music/music-news/andra-day-manager-lawsuit-1235544653/",
       "buzz_score": 75,
@@ -167,39 +145,6 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "A sequel to Behind the Mask is actually happening after 20 years. That takes me back.",
-      "original_url": "https://variety.com/2026/film/news/behind-the-mask-sequel-leslie-vernon-cast-1236712587/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘Behind the Mask’ Sequel Set After 20 Years, Reuniting Original Director and Cast for ‘The Return of Leslie Vernon’ (EXCLUSIVE)",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-10T04:22:35.263558+00:00"
-    },
-    {
-      "tweet": "Greens are pushing Australia to do more about the war in Lebanon, while Tony Abbott wants us sending troops. It's a complete mess.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/10/australia-pressure-israel-war-lebanon-greens",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Greens say Australia should step up pressure on Israel over ‘disastrous, illegal, immoral war’ on Lebanon",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-10T04:22:35.263041+00:00"
-    },
-    {
-      "tweet": "India is trying to pass rules giving the government control over what influencers post. Are we just gonna let them decide what counts as news now?",
-      "original_url": "https://www.bbc.com/news/articles/ce9mx2j3xlxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "India proposes new rules to regulate news and political posts on social media",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-10T04:22:35.262140+00:00"
-    },
-    {
       "tweet": "So apparently the ceasefire is already a grave violation. At what point do we just admit the whole thing is a joke?",
       "original_url": "https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -277,6 +222,61 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
+      "tweet": "A sequel to Behind the Mask is actually happening after 20 years. That takes me back.",
+      "original_url": "https://variety.com/2026/film/news/behind-the-mask-sequel-leslie-vernon-cast-1236712587/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘Behind the Mask’ Sequel Set After 20 Years, Reuniting Original Director and Cast for ‘The Return of Leslie Vernon’ (EXCLUSIVE)",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-10T04:22:35.263558+00:00"
+    },
+    {
+      "tweet": "Greens are pushing Australia to do more about the war in Lebanon, while Tony Abbott wants us sending troops. It's a complete mess.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/10/australia-pressure-israel-war-lebanon-greens",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Greens say Australia should step up pressure on Israel over ‘disastrous, illegal, immoral war’ on Lebanon",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-10T04:22:35.263041+00:00"
+    },
+    {
+      "tweet": "India is trying to pass rules giving the government control over what influencers post. Are we just gonna let them decide what counts as news now?",
+      "original_url": "https://www.bbc.com/news/articles/ce9mx2j3xlxo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "India proposes new rules to regulate news and political posts on social media",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-10T04:22:35.262140+00:00"
+    },
+    {
+      "tweet": "So European leaders are telling the U.S. that a ceasefire with Iran has to include Lebanon. Why do we keep acting like these things are separate?",
+      "original_url": "https://www.nytimes.com/2026/04/09/world/middleeast/european-demands-iran-us-cease-fire-lebanon.html",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "European Leaders Demand That U.S. Cease-Fire With Iran Include Lebanon",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T12:09:23.834794+00:00"
+    },
+    {
+      "tweet": "That 14-year-old kid who stole Donnarumma’s penalty notes during the qualifier is getting hailed as a hero. Absolute legend.",
+      "original_url": "https://www.aljazeera.com/sports/2026/4/9/bosnian-ball-boy-who-hid-donnarummas-penalty-shootout-notes-hailed-as-hero?traffic_source=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Bosnian ball boy who hid Donnarumma’s penalty shootout notes hailed as hero",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-09T12:09:23.834019+00:00"
+    },
+    {
       "tweet": "Iran's leaders acting like surviving an onslaught is a total win. I guess when your bar is just staying in power, anything counts as a victory.",
       "original_url": "https://www.nytimes.com/2026/04/09/world/middleeast/iran-war-leadership.html",
       "buzz_score": 75,
@@ -310,26 +310,26 @@
       "added_at": "2026-04-10T04:22:35.262269+00:00"
     },
     {
-      "tweet": "So European leaders are telling the U.S. that a ceasefire with Iran has to include Lebanon. Why do we keep acting like these things are separate?",
-      "original_url": "https://www.nytimes.com/2026/04/09/world/middleeast/european-demands-iran-us-cease-fire-lebanon.html",
-      "buzz_score": 75,
+      "tweet": "Melanie Martinez hit number one again. Wild.",
+      "original_url": "https://www.billboard.com/pro/melanie-martinez-hades-number-1-top-rock-alternative-albums/",
+      "buzz_score": 70,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "European Leaders Demand That U.S. Cease-Fire With Iran Include Lebanon",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T12:09:23.834794+00:00"
+      "original_title": "Melanie Martinez Scores Top Rock & Alternative Albums No. 1 With ‘Hades’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-09T16:56:43.712844+00:00"
     },
     {
-      "tweet": "That 14-year-old kid who stole Donnarumma’s penalty notes during the qualifier is getting hailed as a hero. Absolute legend.",
-      "original_url": "https://www.aljazeera.com/sports/2026/4/9/bosnian-ball-boy-who-hid-donnarummas-penalty-shootout-notes-hailed-as-hero?traffic_source=rss",
-      "buzz_score": 75,
+      "tweet": "I keep seeing these git commands people run before reading code. We all have our own little rituals.",
+      "original_url": "https://piechowski.io/post/git-commands-before-reading-code/",
+      "buzz_score": 70,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Bosnian ball boy who hid Donnarumma’s penalty shootout notes hailed as hero",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-09T12:09:23.834019+00:00"
+      "original_title": "Git commands I run before reading any code",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
       "tweet": "Democrats are slamming Pam Bondi for blowing off that Epstein hearing. It's crazy how subpoenas are just optional now",
@@ -365,26 +365,37 @@
       "added_at": "2026-04-10T01:19:23.996891+00:00"
     },
     {
-      "tweet": "Melanie Martinez hit number one again. Wild.",
-      "original_url": "https://www.billboard.com/pro/melanie-martinez-hades-number-1-top-rock-alternative-albums/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
+      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 82,
+      "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "Melanie Martinez Scores Top Rock & Alternative Albums No. 1 With ‘Hades’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-09T16:56:43.712844+00:00"
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-08T04:12:50.486178+00:00"
     },
     {
-      "tweet": "I keep seeing these git commands people run before reading code. We all have our own little rituals.",
-      "original_url": "https://piechowski.io/post/git-commands-before-reading-code/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
+      "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
+      "original_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
+      "buzz_score": 95,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Git commands I run before reading any code",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-09T16:56:43.712347+00:00"
+      "original_title": "Fact check: Trump's objectives in the war with Iran have largely not been achieved",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-08T22:35:32.474831+00:00"
+    },
+    {
+      "tweet": "Everyone in Tehran is claiming victory after that ceasefire. It’s pretty clear nobody actually won anything.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/8/iranians-breathe-a-ceasefire-sigh-of-relief-as-all-sides-claim-victory?traffic_source=rss",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iranians breathe a ‘ceasefire’ sigh of relief as all sides claim victory",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-08T20:03:08.618965+00:00"
     },
     {
       "tweet": "Jennie from BLACKPINK is the new face of Ray-Ban Meta now. Everyone's gonna be wearing those things.",
@@ -429,83 +440,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-10T01:19:23.996895+00:00"
-    },
-    {
-      "tweet": "The Aces just dropped over a million on Jackie Young. That's a massive bag for a WNBA player.",
-      "original_url": "https://www.espn.com/wnba/story/_/id/48442449/aces-agree-119-million-deal-jackie-young",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sources: Aces agree to $1.19M deal with Young",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-10T01:19:23.996898+00:00"
-    },
-    {
-      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-08T04:12:50.486178+00:00"
-    },
-    {
-      "tweet": "Netanyahu says we're holding talks with Lebanon but there’s no ceasefire. It's basically a meeting where you just keep getting shot at",
-      "original_url": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israel to hold direct talks with Lebanon but no ceasefire, Netanyahu says",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-09T22:23:59.523224+00:00"
-    },
-    {
-      "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
-      "original_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fact check: Trump's objectives in the war with Iran have largely not been achieved",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-08T22:35:32.474831+00:00"
-    },
-    {
-      "tweet": "Everyone in Tehran is claiming victory after that ceasefire. It’s pretty clear nobody actually won anything.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/8/iranians-breathe-a-ceasefire-sigh-of-relief-as-all-sides-claim-victory?traffic_source=rss",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iranians breathe a ‘ceasefire’ sigh of relief as all sides claim victory",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-08T20:03:08.618965+00:00"
-    },
-    {
-      "tweet": "North Korea is just using the Iran war as a cheat sheet for their own weapons testing. They aren't even trying to hide the strategy",
-      "original_url": "https://www.nytimes.com/2026/04/09/world/asia/north-korea-weapons-iran.html",
-      "buzz_score": 78,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "North Korea Tests New Weapons, Drawing Lessons from Iran War",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T22:23:59.523402+00:00"
-    },
-    {
-      "tweet": "Putin announced a 32-hour ceasefire for Orthodox Easter. Imagine getting a time limit on not being shelled",
-      "original_url": "https://www.theguardian.com/world/2026/apr/09/vladimir-putin-announces-orthodox-easter-ceasefire-with-ukraine",
-      "buzz_score": 76,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Vladimir Putin announces Orthodox Easter ceasefire with Ukraine",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-09T22:23:59.524251+00:00"
     },
     {
       "tweet": "Hold on, the U.S.-Iran cease-fire is already shaky? That was fast.",
@@ -563,59 +497,37 @@
       "added_at": "2026-04-08T15:44:16.953760+00:00"
     },
     {
-      "tweet": "Morgan Rogers is about to be at the center of a transfer tug of war all summer. Another season of reading the same headlines",
-      "original_url": "https://www.bbc.com/sport/football/articles/clyxkqpxpl9o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 72,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Rogers centre of transfer tug of war - Friday's gossip",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-09T22:23:59.524009+00:00"
-    },
-    {
-      "tweet": "Apparently there’s chimps out there fighting a legit civil war. What the hell",
-      "original_url": "https://www.theguardian.com/environment/2026/apr/09/civil-war-chimpanzee-group-closer-to-human-condition-aoe",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Wild chimpanzees recorded waging ‘civil war’ with coordinated attacks between two groups",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-09T19:57:43.830008+00:00"
-    },
-    {
-      "tweet": "DOJ is finally poking around the NFL over those TV deals. About time someone looked into that monopoly",
-      "original_url": "https://www.espn.com/nfl/story/_/id/48440303/sources-doj-opens-antitrust-investigation-nfl-tv-deals",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sources: DOJ opens probe of NFL over TV deals",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-09T19:57:43.829472+00:00"
-    },
-    {
-      "tweet": "So Melania is out here saying she never had a relationship with Epstein. Glad we cleared that up",
-      "original_url": "https://www.bbc.com/news/videos/c0e7dz0zwd0o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Melania Trump: 'I never had a relationship with Epstein'",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-09T19:57:43.829459+00:00"
-    },
-    {
-      "tweet": "Michigan just landed J.P. Estrella from the portal. Guess that's how we’re building teams now",
-      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48441085/michigan-lands-coveted-tennessee-transfer-jp-estrella",
+      "tweet": "The Aces just dropped over a million on Jackie Young. That's a massive bag for a WNBA player.",
+      "original_url": "https://www.espn.com/wnba/story/_/id/48442449/aces-agree-119-million-deal-jackie-young",
       "buzz_score": 70,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Michigan lands coveted Vols transfer Estrella",
+      "original_title": "Sources: Aces agree to $1.19M deal with Young",
       "source": "ESPN",
       "category": "sports",
-      "added_at": "2026-04-09T22:23:59.523766+00:00"
+      "added_at": "2026-04-10T01:19:23.996898+00:00"
+    },
+    {
+      "tweet": "Netanyahu says we're holding talks with Lebanon but there’s no ceasefire. It's basically a meeting where you just keep getting shot at",
+      "original_url": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Israel to hold direct talks with Lebanon but no ceasefire, Netanyahu says",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-09T22:23:59.523224+00:00"
+    },
+    {
+      "tweet": "North Korea is just using the Iran war as a cheat sheet for their own weapons testing. They aren't even trying to hide the strategy",
+      "original_url": "https://www.nytimes.com/2026/04/09/world/asia/north-korea-weapons-iran.html",
+      "buzz_score": 78,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "North Korea Tests New Weapons, Drawing Lessons from Iran War",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T22:23:59.523402+00:00"
     },
     {
       "tweet": "They're putting armed officers on NT buses now. Does anyone actually think that's gonna help.",
@@ -805,6 +717,17 @@
       "added_at": "2026-04-05T23:55:53.317370+00:00"
     },
     {
+      "tweet": "Putin announced a 32-hour ceasefire for Orthodox Easter. Imagine getting a time limit on not being shelled",
+      "original_url": "https://www.theguardian.com/world/2026/apr/09/vladimir-putin-announces-orthodox-easter-ceasefire-with-ukraine",
+      "buzz_score": 76,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Vladimir Putin announces Orthodox Easter ceasefire with Ukraine",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-09T22:23:59.524251+00:00"
+    },
+    {
       "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
       "original_url": "https://variety.com/2026/film/reviews/faces-of-death-review-1236706326/",
       "buzz_score": 82,
@@ -827,59 +750,48 @@
       "added_at": "2026-04-05T23:55:53.317362+00:00"
     },
     {
-      "tweet": "Zelensky says there’s a small window for peace, but he’s pretty skeptical. Like, does he have a choice",
-      "original_url": "https://www.nytimes.com/2026/04/09/world/europe/ukraine-russia-war-peace-talks.html",
-      "buzz_score": 75,
+      "tweet": "Morgan Rogers is about to be at the center of a transfer tug of war all summer. Another season of reading the same headlines",
+      "original_url": "https://www.bbc.com/sport/football/articles/clyxkqpxpl9o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 72,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Zelensky Sees Small Window for Peace",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T19:57:43.830645+00:00"
-    },
-    {
-      "tweet": "So the US is pressuring countries to cut off those Cuban doctors. That’s lowkey petty",
-      "original_url": "https://www.theguardian.com/world/2026/apr/09/us-cuban-doctors-program",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US accused of pressuring Latin America to cut ties with Cuban doctors program",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-09T19:57:43.830151+00:00"
-    },
-    {
-      "tweet": "Robertson is leaving Liverpool this summer. End of an era",
-      "original_url": "https://www.bbc.com/sport/football/articles/cp8d4jvj108o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Robertson to leave Liverpool at the end of the season",
+      "original_title": "Rogers centre of transfer tug of war - Friday's gossip",
       "source": "BBC Sport",
       "category": "sports",
-      "added_at": "2026-04-09T19:57:43.829756+00:00"
+      "added_at": "2026-04-09T22:23:59.524009+00:00"
     },
     {
-      "tweet": "Man, Embiid is out with appendicitis? Can’t catch a break",
-      "original_url": "https://www.espn.com/nba/story/_/id/48440701/76ers-joel-embiid-undergoes-surgery-appendicitis",
-      "buzz_score": 75,
+      "tweet": "Apparently there’s chimps out there fighting a legit civil war. What the hell",
+      "original_url": "https://www.theguardian.com/environment/2026/apr/09/civil-war-chimpanzee-group-closer-to-human-condition-aoe",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Sixers' Embiid undergoes surgery for appendicitis",
+      "original_title": "Wild chimpanzees recorded waging ‘civil war’ with coordinated attacks between two groups",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-09T19:57:43.830008+00:00"
+    },
+    {
+      "tweet": "DOJ is finally poking around the NFL over those TV deals. About time someone looked into that monopoly",
+      "original_url": "https://www.espn.com/nfl/story/_/id/48440303/sources-doj-opens-antitrust-investigation-nfl-tv-deals",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sources: DOJ opens probe of NFL over TV deals",
       "source": "ESPN",
       "category": "sports",
-      "added_at": "2026-04-09T19:57:43.829628+00:00"
+      "added_at": "2026-04-09T19:57:43.829472+00:00"
     },
     {
-      "tweet": "There’s like 710,000 fewer babies born now compared to twenty years ago. Makes sense when you look at the cost of literally everything",
-      "original_url": "https://www.npr.org/2026/04/09/nx-s1-5779627/birthrate-united-states-babies-immigration",
-      "buzz_score": 75,
+      "tweet": "So Melania is out here saying she never had a relationship with Epstein. Glad we cleared that up",
+      "original_url": "https://www.bbc.com/news/videos/c0e7dz0zwd0o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "710,000 fewer babies were born last year in U.S. compared with two decades ago",
-      "source": "NPR News",
+      "original_title": "Melania Trump: 'I never had a relationship with Epstein'",
+      "source": "BBC World",
       "category": "world",
-      "added_at": "2026-04-09T19:57:43.829462+00:00"
+      "added_at": "2026-04-09T19:57:43.829459+00:00"
     },
     {
       "tweet": "Argentina just approved mining in the glaciers. Literally digging up the mountains for cash.",
@@ -1034,6 +946,72 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-08T15:44:16.953755+00:00"
+    },
+    {
+      "tweet": "Michigan just landed J.P. Estrella from the portal. Guess that's how we’re building teams now",
+      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48441085/michigan-lands-coveted-tennessee-transfer-jp-estrella",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Michigan lands coveted Vols transfer Estrella",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-09T22:23:59.523766+00:00"
+    },
+    {
+      "tweet": "Zelensky says there’s a small window for peace, but he’s pretty skeptical. Like, does he have a choice",
+      "original_url": "https://www.nytimes.com/2026/04/09/world/europe/ukraine-russia-war-peace-talks.html",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Zelensky Sees Small Window for Peace",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T19:57:43.830645+00:00"
+    },
+    {
+      "tweet": "So the US is pressuring countries to cut off those Cuban doctors. That’s lowkey petty",
+      "original_url": "https://www.theguardian.com/world/2026/apr/09/us-cuban-doctors-program",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US accused of pressuring Latin America to cut ties with Cuban doctors program",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-09T19:57:43.830151+00:00"
+    },
+    {
+      "tweet": "Robertson is leaving Liverpool this summer. End of an era",
+      "original_url": "https://www.bbc.com/sport/football/articles/cp8d4jvj108o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Robertson to leave Liverpool at the end of the season",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-09T19:57:43.829756+00:00"
+    },
+    {
+      "tweet": "Man, Embiid is out with appendicitis? Can’t catch a break",
+      "original_url": "https://www.espn.com/nba/story/_/id/48440701/76ers-joel-embiid-undergoes-surgery-appendicitis",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sixers' Embiid undergoes surgery for appendicitis",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-09T19:57:43.829628+00:00"
+    },
+    {
+      "tweet": "There’s like 710,000 fewer babies born now compared to twenty years ago. Makes sense when you look at the cost of literally everything",
+      "original_url": "https://www.npr.org/2026/04/09/nx-s1-5779627/birthrate-united-states-babies-immigration",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "710,000 fewer babies were born last year in U.S. compared with two decades ago",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-09T19:57:43.829462+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 210,
+    "total_posted": 212,
     "total_collected": 576
   },
-  "last_posted_at": "2026-04-10T04:31:33.961503+00:00"
+  "last_posted_at": "2026-04-10T06:19:41.901726+00:00"
 }
