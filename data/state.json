@@ -2,28 +2,6 @@
   "last_collected": "2026-04-10T17:32:58.044773+00:00",
   "queue": [
     {
-      "tweet": "The Phantom Blade Zero devs are fighting back against AI slopface. Finally someone said it.",
-      "original_url": "https://kotaku.com/phantom-blade-zero-ai-dlss5-nvidia-2000686687",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Phantom Blade Zero Dev Comes Out Against AI Slopface That Could ‘Alter Our Artists’ Original Creative Intent’ After DLSS 5 Drama",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-10T17:32:58.044522+00:00"
-    },
-    {
-      "tweet": "Prince Harry is getting sued by the charity he co-founded. You honestly can't make this stuff up.",
-      "original_url": "https://www.bbc.com/news/articles/cr517n2v7myo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Prince Harry sued for defamation by charity Sentebale he co-founded",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-10T17:32:58.043200+00:00"
-    },
-    {
       "tweet": "Did you see EFF is officially leaving X? Honestly it was only a matter of time before they finally pulled the plug on that place.",
       "original_url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
       "buzz_score": 85,
@@ -244,28 +222,6 @@
       "added_at": "2026-04-10T17:32:58.043197+00:00"
     },
     {
-      "tweet": "Gold Dancer got put down after winning that race at Aintree. Man, that’s just brutal",
-      "original_url": "https://www.bbc.com/sport/horse-racing/articles/c3v614gk1g4o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Gold Dancer put down after winning at Aintree",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-10T15:31:13.379022+00:00"
-    },
-    {
-      "tweet": "So apparently therapists are now supposed to ask if we’re using AI chatbots. Like they’re gonna get jealous of the robot. It’s definitely getting weird",
-      "original_url": "https://www.npr.org/2026/04/10/nx-s1-5780796/artificial-intelligence-ai-mental-health-chatgpt-jama-psychiatry",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "'How are you using AI?' Your therapist should ask you that question, experts argue",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-10T15:31:13.378855+00:00"
-    },
-    {
       "tweet": "Elliot Cadeau just won Most Outstanding Player and is already saying he's back with the Wolverines. Bro doesn't even want a vacation.",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48443335/star-pg-elliot-cadeau-return-senior-season-michigan",
       "buzz_score": 75,
@@ -310,6 +266,28 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
+      "tweet": "Gold Dancer got put down after winning that race at Aintree. Man, that’s just brutal",
+      "original_url": "https://www.bbc.com/sport/horse-racing/articles/c3v614gk1g4o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Gold Dancer put down after winning at Aintree",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-10T15:31:13.379022+00:00"
+    },
+    {
+      "tweet": "So apparently therapists are now supposed to ask if we’re using AI chatbots. Like they’re gonna get jealous of the robot. It’s definitely getting weird",
+      "original_url": "https://www.npr.org/2026/04/10/nx-s1-5780796/artificial-intelligence-ai-mental-health-chatgpt-jama-psychiatry",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "'How are you using AI?' Your therapist should ask you that question, experts argue",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-10T15:31:13.378855+00:00"
+    },
+    {
       "tweet": "A court finally said those guys deported to Eswatini get to see a lawyer. Nine months later.",
       "original_url": "https://www.theguardian.com/us-news/2026/apr/10/trump-administration-deport-men-eswatini-court-rule",
       "buzz_score": 70,
@@ -341,17 +319,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-10T17:32:58.043205+00:00"
-    },
-    {
-      "tweet": "Anitta had to apologize for stealing Sarah Sherman’s lunch from the SNL fridge again. Like, imagine being that hungry in 30 Rock",
-      "original_url": "https://www.billboard.com/culture/tv-film/anitta-apologizes-sarah-sherman-lunch-snl-promo-colman-domingo-1236219800/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Anitta Apologizes, Again, For Snagging Sarah Sherman’s Lunch From ‘SNL’ Fridge in Promo For Colman Domingo-Hosted Episode",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-10T15:31:13.378860+00:00"
     },
     {
       "tweet": "The Hacks creators are already teasing a reboot after the finale. Can we just let a show end for once?",
@@ -398,6 +365,17 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "Anitta had to apologize for stealing Sarah Sherman’s lunch from the SNL fridge again. Like, imagine being that hungry in 30 Rock",
+      "original_url": "https://www.billboard.com/culture/tv-film/anitta-apologizes-sarah-sherman-lunch-snl-promo-colman-domingo-1236219800/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Anitta Apologizes, Again, For Snagging Sarah Sherman’s Lunch From ‘SNL’ Fridge in Promo For Colman Domingo-Hosted Episode",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-10T15:31:13.378860+00:00"
+    },
+    {
       "tweet": "Nick Lachey said his label gave 98 Degrees a literal age of consent guide for every state. The nineties were a different planet, man.",
       "original_url": "https://www.billboard.com/music/pop/nick-lachey-label-gave-98-degrees-age-consent-guide-each-state-1236219749/",
       "buzz_score": 80,
@@ -440,6 +418,50 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-10T10:16:53.218320+00:00"
+    },
+    {
+      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 82,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-08T04:12:50.486178+00:00"
+    },
+    {
+      "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
+      "original_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Fact check: Trump's objectives in the war with Iran have largely not been achieved",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-08T22:35:32.474831+00:00"
+    },
+    {
+      "tweet": "Everyone in Tehran is claiming victory after that ceasefire. It’s pretty clear nobody actually won anything.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/8/iranians-breathe-a-ceasefire-sigh-of-relief-as-all-sides-claim-victory?traffic_source=rss",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iranians breathe a ‘ceasefire’ sigh of relief as all sides claim victory",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-08T20:03:08.618965+00:00"
+    },
+    {
+      "tweet": "Democrats are slamming Pam Bondi for blowing off that Epstein hearing. It's crazy how subpoenas are just optional now",
+      "original_url": "https://www.aljazeera.com/news/2026/4/9/democrats-in-us-slam-pam-bondi-for-refusing-to-appear-for-epstein-hearing?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Democrats in US slam Pam Bondi for refusing to appear for Epstein hearing",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-09T22:23:59.524130+00:00"
     },
     {
       "tweet": "35 candidates for president in Peru just to try and fix their instability. Honestly sounds like just another day of trying to keep the lights on.",
@@ -486,17 +508,6 @@
       "added_at": "2026-04-10T13:18:39.606797+00:00"
     },
     {
-      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-08T04:12:50.486178+00:00"
-    },
-    {
       "tweet": "Six months into this ceasefire and the situation in Gaza is somehow even worse. Is it even a ceasefire at this point",
       "original_url": "https://www.aljazeera.com/gallery/2026/4/10/six-months-into-a-us-brokered-ceasefire-gaza-remains-under-israeli-attacks?traffic_source=rss",
       "buzz_score": 85,
@@ -506,72 +517,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-10T10:16:53.218446+00:00"
-    },
-    {
-      "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
-      "original_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fact check: Trump's objectives in the war with Iran have largely not been achieved",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-08T22:35:32.474831+00:00"
-    },
-    {
-      "tweet": "Everyone in Tehran is claiming victory after that ceasefire. It’s pretty clear nobody actually won anything.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/8/iranians-breathe-a-ceasefire-sigh-of-relief-as-all-sides-claim-victory?traffic_source=rss",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iranians breathe a ‘ceasefire’ sigh of relief as all sides claim victory",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-08T20:03:08.618965+00:00"
-    },
-    {
-      "tweet": "Democrats are slamming Pam Bondi for blowing off that Epstein hearing. It's crazy how subpoenas are just optional now",
-      "original_url": "https://www.aljazeera.com/news/2026/4/9/democrats-in-us-slam-pam-bondi-for-refusing-to-appear-for-epstein-hearing?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Democrats in US slam Pam Bondi for refusing to appear for Epstein hearing",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-09T22:23:59.524130+00:00"
-    },
-    {
-      "tweet": "KATSEYE is out here talking about Beyonce inspiration for Coachella while half the group is on hiatus. The PR spin is working overtime.",
-      "original_url": "https://www.billboard.com/music/pop/katseye-talk-sister-forever-manon-beyonce-inspiration-coachella-1236219762/",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "KATSEYE Talk ‘Sister Forever’ Manon and Beyoncé Inspiration For Coachella Debut: ‘The Most Iconic’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-10T13:18:39.608219+00:00"
-    },
-    {
-      "tweet": "The US won't let them stay and Venezuela won't give them a passport to come home. Just stuck in nowhere.",
-      "original_url": "https://www.nytimes.com/2026/04/10/world/americas/venezuelans-return-passports-trump.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Many Venezuelans Want to Go Home. But They Can’t Get Passports.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-10T10:16:53.217912+00:00"
-    },
-    {
-      "tweet": "So apparently the Trump administration has disaster funding for these towns stuck in limbo. Just another Tuesday in government.",
-      "original_url": "https://www.npr.org/2026/04/10/nx-s1-5770433/delay-funding-fema-hurricanes-disasters-wildfires-floods",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Communities are waiting on billions in disaster funding from the Trump administration",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-10T10:16:53.217905+00:00"
     },
     {
       "tweet": "Hold on, the U.S.-Iran cease-fire is already shaky? That was fast.",
@@ -627,6 +572,39 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-08T15:44:16.953760+00:00"
+    },
+    {
+      "tweet": "KATSEYE is out here talking about Beyonce inspiration for Coachella while half the group is on hiatus. The PR spin is working overtime.",
+      "original_url": "https://www.billboard.com/music/pop/katseye-talk-sister-forever-manon-beyonce-inspiration-coachella-1236219762/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "KATSEYE Talk ‘Sister Forever’ Manon and Beyoncé Inspiration For Coachella Debut: ‘The Most Iconic’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-10T13:18:39.608219+00:00"
+    },
+    {
+      "tweet": "The US won't let them stay and Venezuela won't give them a passport to come home. Just stuck in nowhere.",
+      "original_url": "https://www.nytimes.com/2026/04/10/world/americas/venezuelans-return-passports-trump.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Many Venezuelans Want to Go Home. But They Can’t Get Passports.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-10T10:16:53.217912+00:00"
+    },
+    {
+      "tweet": "So apparently the Trump administration has disaster funding for these towns stuck in limbo. Just another Tuesday in government.",
+      "original_url": "https://www.npr.org/2026/04/10/nx-s1-5770433/delay-funding-fema-hurricanes-disasters-wildfires-floods",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Communities are waiting on billions in disaster funding from the Trump administration",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-10T10:16:53.217905+00:00"
     },
     {
       "tweet": "They're putting armed officers on NT buses now. Does anyone actually think that's gonna help.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 230,
+    "total_posted": 232,
     "total_collected": 656
   },
-  "last_posted_at": "2026-04-10T17:40:49.361478+00:00"
+  "last_posted_at": "2026-04-10T18:37:21.240586+00:00"
 }
