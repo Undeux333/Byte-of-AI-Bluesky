@@ -2,15 +2,15 @@
   "last_collected": "2026-04-10T17:32:58.044773+00:00",
   "queue": [
     {
-      "tweet": "Did you see EFF is officially leaving X? Honestly it was only a matter of time before they finally pulled the plug on that place.",
-      "original_url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
-      "buzz_score": 85,
+      "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
+      "buzz_score": 95,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "EFF is leaving X",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-10T13:18:39.606791+00:00"
+      "original_title": "UK’s Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing St",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251727+00:00"
     },
     {
       "tweet": "Did you see that own goal by Martim Fernandes? How do you even put the ball in your own net that badly?",
@@ -22,17 +22,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-10T13:18:39.607465+00:00"
-    },
-    {
-      "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "UK’s Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing St",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251727+00:00"
     },
     {
       "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
@@ -189,39 +178,6 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Orbán and Magyar are just accusing each other of foreign interference now. Standard.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/10/viktor-orban-peter-magyar-hungary-election-campaign",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Orbán and Magyar trade accusations in last days of Hungary election campaign",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-10T17:32:58.044260+00:00"
-    },
-    {
-      "tweet": "Starmer is already looking for new allies because he's fed up with Trump. That special relationship is going great.",
-      "original_url": "https://www.nytimes.com/2026/04/10/world/europe/trump-starmer-fed-up-iran-war.html",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘I’m Fed Up.’ Frustrated With Trump, Starmer Embraces Other Allies.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-10T17:32:58.043203+00:00"
-    },
-    {
-      "tweet": "Did you see that macOS privacy settings don't actually do what they say? It's just a toggle that feels good.",
-      "original_url": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "You can't trust macOS Privacy and Security settings",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-10T17:32:58.043197+00:00"
-    },
-    {
       "tweet": "Elliot Cadeau just won Most Outstanding Player and is already saying he's back with the Wolverines. Bro doesn't even want a vacation.",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48443335/star-pg-elliot-cadeau-return-senior-season-michigan",
       "buzz_score": 75,
@@ -264,6 +220,83 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T12:09:23.834019+00:00"
+    },
+    {
+      "tweet": "Orbán and Magyar are just accusing each other of foreign interference now. Standard.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/10/viktor-orban-peter-magyar-hungary-election-campaign",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Orbán and Magyar trade accusations in last days of Hungary election campaign",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-10T17:32:58.044260+00:00"
+    },
+    {
+      "tweet": "Starmer is already looking for new allies because he's fed up with Trump. That special relationship is going great.",
+      "original_url": "https://www.nytimes.com/2026/04/10/world/europe/trump-starmer-fed-up-iran-war.html",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘I’m Fed Up.’ Frustrated With Trump, Starmer Embraces Other Allies.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-10T17:32:58.043203+00:00"
+    },
+    {
+      "tweet": "Did you see that macOS privacy settings don't actually do what they say? It's just a toggle that feels good.",
+      "original_url": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "You can't trust macOS Privacy and Security settings",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-10T17:32:58.043197+00:00"
+    },
+    {
+      "tweet": "The Hacks creators are already teasing a reboot after the finale. Can we just let a show end for once?",
+      "original_url": "https://variety.com/2026/tv/news/hacks-cast-creators-never-say-never-future-reboot-1236712715/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "‘Hacks’ Creators Would Consider Reboot Following Season 5 Series Finale: ‘Never Say Never’",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-10T04:22:35.263433+00:00"
+    },
+    {
+      "tweet": "Orion has another helium leak. We're literally trying to go back to the Moon and we can't get the valves to work.",
+      "original_url": "https://arstechnica.com/space/2026/04/nasa-homes-in-on-likely-redesign-to-fix-orion-spacecrafts-leaky-valves/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Orion helium leak no threat to Artemis II reentry, but will require redesign",
+      "source": "Ars Technica",
+      "category": "tech",
+      "added_at": "2026-04-10T04:22:35.263165+00:00"
+    },
+    {
+      "tweet": "Melanie Martinez hit number one again. Wild.",
+      "original_url": "https://www.billboard.com/pro/melanie-martinez-hades-number-1-top-rock-alternative-albums/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Melanie Martinez Scores Top Rock & Alternative Albums No. 1 With ‘Hades’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-09T16:56:43.712844+00:00"
+    },
+    {
+      "tweet": "I keep seeing these git commands people run before reading code. We all have our own little rituals.",
+      "original_url": "https://piechowski.io/post/git-commands-before-reading-code/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Git commands I run before reading any code",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
       "tweet": "Gold Dancer got put down after winning that race at Aintree. Man, that’s just brutal",
@@ -321,50 +354,6 @@
       "added_at": "2026-04-10T17:32:58.043205+00:00"
     },
     {
-      "tweet": "The Hacks creators are already teasing a reboot after the finale. Can we just let a show end for once?",
-      "original_url": "https://variety.com/2026/tv/news/hacks-cast-creators-never-say-never-future-reboot-1236712715/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘Hacks’ Creators Would Consider Reboot Following Season 5 Series Finale: ‘Never Say Never’",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-10T04:22:35.263433+00:00"
-    },
-    {
-      "tweet": "Orion has another helium leak. We're literally trying to go back to the Moon and we can't get the valves to work.",
-      "original_url": "https://arstechnica.com/space/2026/04/nasa-homes-in-on-likely-redesign-to-fix-orion-spacecrafts-leaky-valves/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Orion helium leak no threat to Artemis II reentry, but will require redesign",
-      "source": "Ars Technica",
-      "category": "tech",
-      "added_at": "2026-04-10T04:22:35.263165+00:00"
-    },
-    {
-      "tweet": "Melanie Martinez hit number one again. Wild.",
-      "original_url": "https://www.billboard.com/pro/melanie-martinez-hades-number-1-top-rock-alternative-albums/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Melanie Martinez Scores Top Rock & Alternative Albums No. 1 With ‘Hades’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-09T16:56:43.712844+00:00"
-    },
-    {
-      "tweet": "I keep seeing these git commands people run before reading code. We all have our own little rituals.",
-      "original_url": "https://piechowski.io/post/git-commands-before-reading-code/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Git commands I run before reading any code",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-09T16:56:43.712347+00:00"
-    },
-    {
       "tweet": "Anitta had to apologize for stealing Sarah Sherman’s lunch from the SNL fridge again. Like, imagine being that hungry in 30 Rock",
       "original_url": "https://www.billboard.com/culture/tv-film/anitta-apologizes-sarah-sherman-lunch-snl-promo-colman-domingo-1236219800/",
       "buzz_score": 75,
@@ -374,50 +363,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-10T15:31:13.378860+00:00"
-    },
-    {
-      "tweet": "Nick Lachey said his label gave 98 Degrees a literal age of consent guide for every state. The nineties were a different planet, man.",
-      "original_url": "https://www.billboard.com/music/pop/nick-lachey-label-gave-98-degrees-age-consent-guide-each-state-1236219749/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Nick Lachey Says Label Gave 98 Degrees an ‘Age of Consent’ Guide For Each State On First Tour",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-10T13:18:39.607089+00:00"
-    },
-    {
-      "tweet": "So these women in Nigeria are just straight up outsmarting religious censors by publishing erotica online. Absolute legends.",
-      "original_url": "https://www.nytimes.com/2026/04/09/world/africa/nigeria-erotica-writers-censors.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The Hit Erotica Writers Outwitting Nigeria’s Religious Censors",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-10T13:18:39.606962+00:00"
-    },
-    {
-      "tweet": "Hold on, so this German far-right extremist got arrested in Czech Republic and it turns out they're transgender? You can't make this up.",
-      "original_url": "https://www.bbc.com/news/articles/cn4vdnr8knjo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "German transgender far-right extremist arrested in Czech Republic",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-10T13:18:39.606800+00:00"
-    },
-    {
-      "tweet": "Senegal's prime minister just called Trump an agent of global destabilization. Tell us how you really feel.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/senegal-pm-labels-trump-agent-of-global?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Senegal PM labels Trump ‘agent of global destabilisation’",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-10T10:16:53.218320+00:00"
     },
     {
       "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
@@ -453,6 +398,39 @@
       "added_at": "2026-04-08T20:03:08.618965+00:00"
     },
     {
+      "tweet": "Nick Lachey said his label gave 98 Degrees a literal age of consent guide for every state. The nineties were a different planet, man.",
+      "original_url": "https://www.billboard.com/music/pop/nick-lachey-label-gave-98-degrees-age-consent-guide-each-state-1236219749/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Nick Lachey Says Label Gave 98 Degrees an ‘Age of Consent’ Guide For Each State On First Tour",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-10T13:18:39.607089+00:00"
+    },
+    {
+      "tweet": "So these women in Nigeria are just straight up outsmarting religious censors by publishing erotica online. Absolute legends.",
+      "original_url": "https://www.nytimes.com/2026/04/09/world/africa/nigeria-erotica-writers-censors.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Hit Erotica Writers Outwitting Nigeria’s Religious Censors",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-10T13:18:39.606962+00:00"
+    },
+    {
+      "tweet": "Hold on, so this German far-right extremist got arrested in Czech Republic and it turns out they're transgender? You can't make this up.",
+      "original_url": "https://www.bbc.com/news/articles/cn4vdnr8knjo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "German transgender far-right extremist arrested in Czech Republic",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-10T13:18:39.606800+00:00"
+    },
+    {
       "tweet": "Democrats are slamming Pam Bondi for blowing off that Epstein hearing. It's crazy how subpoenas are just optional now",
       "original_url": "https://www.aljazeera.com/news/2026/4/9/democrats-in-us-slam-pam-bondi-for-refusing-to-appear-for-epstein-hearing?traffic_source=rss",
       "buzz_score": 80,
@@ -464,59 +442,15 @@
       "added_at": "2026-04-09T22:23:59.524130+00:00"
     },
     {
-      "tweet": "35 candidates for president in Peru just to try and fix their instability. Honestly sounds like just another day of trying to keep the lights on.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/10/peru-election-polls-instability",
-      "buzz_score": 75,
+      "tweet": "Senegal's prime minister just called Trump an agent of global destabilization. Tell us how you really feel.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/senegal-pm-labels-trump-agent-of-global?traffic_source=rss",
+      "buzz_score": 90,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Peruvians to go to polls hoping to break cycle of instability",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-10T13:18:39.607975+00:00"
-    },
-    {
-      "tweet": "Pep wants Bernardo Silva to retire at Man City, but honestly, these guys always say that right before the transfer window opens.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c8r43zp81lgo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Guardiola would 'love' Silva to stay at Man City",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-10T13:18:39.607590+00:00"
-    },
-    {
-      "tweet": "Seeing UCLA players dominating the WNBA mock draft is wild. Guess that's what happens when you build a squad that actually knows how to win.",
-      "original_url": "https://www.espn.com/wnba/story/_/id/48424940/wnba-mock-draft-2026-dallas-wings-no-1-pick-olivia-miles-awa-fam-azzi-fudd-awa-fam-lauren-betts",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "🏀 WNBA mock draft: New projected No. 1",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-10T13:18:39.607340+00:00"
-    },
-    {
-      "tweet": "Just read about the backstories for some old kids toys and man, they're actually kind of nightmare fuel. Guess some things are better off left in the attic.",
-      "original_url": "https://www.mentalfloss.com/fun/toys/childrens-toys-disturbing-backstories?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "8 Children’s Toys With Disturbing Backstories",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-10T13:18:39.606797+00:00"
-    },
-    {
-      "tweet": "Six months into this ceasefire and the situation in Gaza is somehow even worse. Is it even a ceasefire at this point",
-      "original_url": "https://www.aljazeera.com/gallery/2026/4/10/six-months-into-a-us-brokered-ceasefire-gaza-remains-under-israeli-attacks?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Six months into ‘ceasefire’, Gaza suffers under persistent Israeli attacks",
+      "original_title": "Senegal PM labels Trump ‘agent of global destabilisation’",
       "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-04-10T10:16:53.218446+00:00"
+      "added_at": "2026-04-10T10:16:53.218320+00:00"
     },
     {
       "tweet": "Hold on, the U.S.-Iran cease-fire is already shaky? That was fast.",
@@ -574,37 +508,59 @@
       "added_at": "2026-04-08T15:44:16.953760+00:00"
     },
     {
-      "tweet": "KATSEYE is out here talking about Beyonce inspiration for Coachella while half the group is on hiatus. The PR spin is working overtime.",
-      "original_url": "https://www.billboard.com/music/pop/katseye-talk-sister-forever-manon-beyonce-inspiration-coachella-1236219762/",
-      "buzz_score": 70,
+      "tweet": "35 candidates for president in Peru just to try and fix their instability. Honestly sounds like just another day of trying to keep the lights on.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/10/peru-election-polls-instability",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "KATSEYE Talk ‘Sister Forever’ Manon and Beyoncé Inspiration For Coachella Debut: ‘The Most Iconic’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-10T13:18:39.608219+00:00"
+      "original_title": "Peruvians to go to polls hoping to break cycle of instability",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-10T13:18:39.607975+00:00"
     },
     {
-      "tweet": "The US won't let them stay and Venezuela won't give them a passport to come home. Just stuck in nowhere.",
-      "original_url": "https://www.nytimes.com/2026/04/10/world/americas/venezuelans-return-passports-trump.html",
-      "buzz_score": 80,
+      "tweet": "Pep wants Bernardo Silva to retire at Man City, but honestly, these guys always say that right before the transfer window opens.",
+      "original_url": "https://www.bbc.com/sport/football/articles/c8r43zp81lgo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Many Venezuelans Want to Go Home. But They Can’t Get Passports.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-10T10:16:53.217912+00:00"
+      "original_title": "Guardiola would 'love' Silva to stay at Man City",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-10T13:18:39.607590+00:00"
     },
     {
-      "tweet": "So apparently the Trump administration has disaster funding for these towns stuck in limbo. Just another Tuesday in government.",
-      "original_url": "https://www.npr.org/2026/04/10/nx-s1-5770433/delay-funding-fema-hurricanes-disasters-wildfires-floods",
-      "buzz_score": 80,
+      "tweet": "Seeing UCLA players dominating the WNBA mock draft is wild. Guess that's what happens when you build a squad that actually knows how to win.",
+      "original_url": "https://www.espn.com/wnba/story/_/id/48424940/wnba-mock-draft-2026-dallas-wings-no-1-pick-olivia-miles-awa-fam-azzi-fudd-awa-fam-lauren-betts",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Communities are waiting on billions in disaster funding from the Trump administration",
-      "source": "NPR News",
+      "original_title": "🏀 WNBA mock draft: New projected No. 1",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-10T13:18:39.607340+00:00"
+    },
+    {
+      "tweet": "Just read about the backstories for some old kids toys and man, they're actually kind of nightmare fuel. Guess some things are better off left in the attic.",
+      "original_url": "https://www.mentalfloss.com/fun/toys/childrens-toys-disturbing-backstories?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "8 Children’s Toys With Disturbing Backstories",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-10T13:18:39.606797+00:00"
+    },
+    {
+      "tweet": "Six months into this ceasefire and the situation in Gaza is somehow even worse. Is it even a ceasefire at this point",
+      "original_url": "https://www.aljazeera.com/gallery/2026/4/10/six-months-into-a-us-brokered-ceasefire-gaza-remains-under-israeli-attacks?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Six months into ‘ceasefire’, Gaza suffers under persistent Israeli attacks",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-04-10T10:16:53.217905+00:00"
+      "added_at": "2026-04-10T10:16:53.218446+00:00"
     },
     {
       "tweet": "They're putting armed officers on NT buses now. Does anyone actually think that's gonna help.",
@@ -792,6 +748,39 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-05T23:55:53.317370+00:00"
+    },
+    {
+      "tweet": "KATSEYE is out here talking about Beyonce inspiration for Coachella while half the group is on hiatus. The PR spin is working overtime.",
+      "original_url": "https://www.billboard.com/music/pop/katseye-talk-sister-forever-manon-beyonce-inspiration-coachella-1236219762/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "KATSEYE Talk ‘Sister Forever’ Manon and Beyoncé Inspiration For Coachella Debut: ‘The Most Iconic’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-10T13:18:39.608219+00:00"
+    },
+    {
+      "tweet": "The US won't let them stay and Venezuela won't give them a passport to come home. Just stuck in nowhere.",
+      "original_url": "https://www.nytimes.com/2026/04/10/world/americas/venezuelans-return-passports-trump.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Many Venezuelans Want to Go Home. But They Can’t Get Passports.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-10T10:16:53.217912+00:00"
+    },
+    {
+      "tweet": "So apparently the Trump administration has disaster funding for these towns stuck in limbo. Just another Tuesday in government.",
+      "original_url": "https://www.npr.org/2026/04/10/nx-s1-5770433/delay-funding-fema-hurricanes-disasters-wildfires-floods",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Communities are waiting on billions in disaster funding from the Trump administration",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-10T10:16:53.217905+00:00"
     },
     {
       "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
@@ -2018,8 +2007,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 232,
+    "total_posted": 233,
     "total_collected": 656
   },
-  "last_posted_at": "2026-04-10T18:37:21.240586+00:00"
+  "last_posted_at": "2026-04-10T19:30:44.105005+00:00"
 }
