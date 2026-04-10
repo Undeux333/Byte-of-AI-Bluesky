@@ -2,28 +2,6 @@
   "last_collected": "2026-04-10T15:31:13.380409+00:00",
   "queue": [
     {
-      "tweet": "Robert MacIntyre really just flipped off the green at the Masters after a bad hole. Dude chose violence today.",
-      "original_url": "https://www.espn.com/golf/story/_/id/48445882/robert-macintyre-risks-disciplinary-action-angry-masters-2026-gesture",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Frustrated McIntyre flips off green at Masters",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-10T13:18:39.607215+00:00"
-    },
-    {
-      "tweet": "Gas prices are spiking again and inflation's hitting two-year highs. Are we just gonna pretend like this is normal now?",
-      "original_url": "https://www.npr.org/2026/04/10/nx-s1-5780604/inflation-consumer-prices-economy",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Inflation surges to highest level in nearly two years as energy costs spike",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-10T13:18:39.606802+00:00"
-    },
-    {
       "tweet": "Did you see EFF is officially leaving X? Honestly it was only a matter of time before they finally pulled the plug on that place.",
       "original_url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
       "buzz_score": 85,
@@ -244,39 +222,6 @@
       "added_at": "2026-04-10T15:31:13.378860+00:00"
     },
     {
-      "tweet": "Nick Lachey said his label gave 98 Degrees a literal age of consent guide for every state. The nineties were a different planet, man.",
-      "original_url": "https://www.billboard.com/music/pop/nick-lachey-label-gave-98-degrees-age-consent-guide-each-state-1236219749/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Nick Lachey Says Label Gave 98 Degrees an ‘Age of Consent’ Guide For Each State On First Tour",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-10T13:18:39.607089+00:00"
-    },
-    {
-      "tweet": "So these women in Nigeria are just straight up outsmarting religious censors by publishing erotica online. Absolute legends.",
-      "original_url": "https://www.nytimes.com/2026/04/09/world/africa/nigeria-erotica-writers-censors.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The Hit Erotica Writers Outwitting Nigeria’s Religious Censors",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-10T13:18:39.606962+00:00"
-    },
-    {
-      "tweet": "Hold on, so this German far-right extremist got arrested in Czech Republic and it turns out they're transgender? You can't make this up.",
-      "original_url": "https://www.bbc.com/news/articles/cn4vdnr8knjo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "German transgender far-right extremist arrested in Czech Republic",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-10T13:18:39.606800+00:00"
-    },
-    {
       "tweet": "Elliot Cadeau just won Most Outstanding Player and is already saying he's back with the Wolverines. Bro doesn't even want a vacation.",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48443335/star-pg-elliot-cadeau-return-senior-season-michigan",
       "buzz_score": 75,
@@ -319,6 +264,83 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T12:09:23.834019+00:00"
+    },
+    {
+      "tweet": "Nick Lachey said his label gave 98 Degrees a literal age of consent guide for every state. The nineties were a different planet, man.",
+      "original_url": "https://www.billboard.com/music/pop/nick-lachey-label-gave-98-degrees-age-consent-guide-each-state-1236219749/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Nick Lachey Says Label Gave 98 Degrees an ‘Age of Consent’ Guide For Each State On First Tour",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-10T13:18:39.607089+00:00"
+    },
+    {
+      "tweet": "So these women in Nigeria are just straight up outsmarting religious censors by publishing erotica online. Absolute legends.",
+      "original_url": "https://www.nytimes.com/2026/04/09/world/africa/nigeria-erotica-writers-censors.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Hit Erotica Writers Outwitting Nigeria’s Religious Censors",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-10T13:18:39.606962+00:00"
+    },
+    {
+      "tweet": "Hold on, so this German far-right extremist got arrested in Czech Republic and it turns out they're transgender? You can't make this up.",
+      "original_url": "https://www.bbc.com/news/articles/cn4vdnr8knjo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "German transgender far-right extremist arrested in Czech Republic",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-10T13:18:39.606800+00:00"
+    },
+    {
+      "tweet": "The Hacks creators are already teasing a reboot after the finale. Can we just let a show end for once?",
+      "original_url": "https://variety.com/2026/tv/news/hacks-cast-creators-never-say-never-future-reboot-1236712715/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "‘Hacks’ Creators Would Consider Reboot Following Season 5 Series Finale: ‘Never Say Never’",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-10T04:22:35.263433+00:00"
+    },
+    {
+      "tweet": "Orion has another helium leak. We're literally trying to go back to the Moon and we can't get the valves to work.",
+      "original_url": "https://arstechnica.com/space/2026/04/nasa-homes-in-on-likely-redesign-to-fix-orion-spacecrafts-leaky-valves/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Orion helium leak no threat to Artemis II reentry, but will require redesign",
+      "source": "Ars Technica",
+      "category": "tech",
+      "added_at": "2026-04-10T04:22:35.263165+00:00"
+    },
+    {
+      "tweet": "Melanie Martinez hit number one again. Wild.",
+      "original_url": "https://www.billboard.com/pro/melanie-martinez-hades-number-1-top-rock-alternative-albums/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Melanie Martinez Scores Top Rock & Alternative Albums No. 1 With ‘Hades’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-09T16:56:43.712844+00:00"
+    },
+    {
+      "tweet": "I keep seeing these git commands people run before reading code. We all have our own little rituals.",
+      "original_url": "https://piechowski.io/post/git-commands-before-reading-code/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Git commands I run before reading any code",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
       "tweet": "Senegal's prime minister just called Trump an agent of global destabilization. Tell us how you really feel.",
@@ -376,50 +398,6 @@
       "added_at": "2026-04-10T13:18:39.606797+00:00"
     },
     {
-      "tweet": "The Hacks creators are already teasing a reboot after the finale. Can we just let a show end for once?",
-      "original_url": "https://variety.com/2026/tv/news/hacks-cast-creators-never-say-never-future-reboot-1236712715/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘Hacks’ Creators Would Consider Reboot Following Season 5 Series Finale: ‘Never Say Never’",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-10T04:22:35.263433+00:00"
-    },
-    {
-      "tweet": "Orion has another helium leak. We're literally trying to go back to the Moon and we can't get the valves to work.",
-      "original_url": "https://arstechnica.com/space/2026/04/nasa-homes-in-on-likely-redesign-to-fix-orion-spacecrafts-leaky-valves/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Orion helium leak no threat to Artemis II reentry, but will require redesign",
-      "source": "Ars Technica",
-      "category": "tech",
-      "added_at": "2026-04-10T04:22:35.263165+00:00"
-    },
-    {
-      "tweet": "Melanie Martinez hit number one again. Wild.",
-      "original_url": "https://www.billboard.com/pro/melanie-martinez-hades-number-1-top-rock-alternative-albums/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Melanie Martinez Scores Top Rock & Alternative Albums No. 1 With ‘Hades’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-09T16:56:43.712844+00:00"
-    },
-    {
-      "tweet": "I keep seeing these git commands people run before reading code. We all have our own little rituals.",
-      "original_url": "https://piechowski.io/post/git-commands-before-reading-code/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Git commands I run before reading any code",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-09T16:56:43.712347+00:00"
-    },
-    {
       "tweet": "Six months into this ceasefire and the situation in Gaza is somehow even worse. Is it even a ceasefire at this point",
       "original_url": "https://www.aljazeera.com/gallery/2026/4/10/six-months-into-a-us-brokered-ceasefire-gaza-remains-under-israeli-attacks?traffic_source=rss",
       "buzz_score": 85,
@@ -440,28 +418,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-10T13:18:39.608219+00:00"
-    },
-    {
-      "tweet": "The US won't let them stay and Venezuela won't give them a passport to come home. Just stuck in nowhere.",
-      "original_url": "https://www.nytimes.com/2026/04/10/world/americas/venezuelans-return-passports-trump.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Many Venezuelans Want to Go Home. But They Can’t Get Passports.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-10T10:16:53.217912+00:00"
-    },
-    {
-      "tweet": "So apparently the Trump administration has disaster funding for these towns stuck in limbo. Just another Tuesday in government.",
-      "original_url": "https://www.npr.org/2026/04/10/nx-s1-5770433/delay-funding-fema-hurricanes-disasters-wildfires-floods",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Communities are waiting on billions in disaster funding from the Trump administration",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-10T10:16:53.217905+00:00"
     },
     {
       "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
@@ -495,6 +451,28 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-08T20:03:08.618965+00:00"
+    },
+    {
+      "tweet": "The US won't let them stay and Venezuela won't give them a passport to come home. Just stuck in nowhere.",
+      "original_url": "https://www.nytimes.com/2026/04/10/world/americas/venezuelans-return-passports-trump.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Many Venezuelans Want to Go Home. But They Can’t Get Passports.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-10T10:16:53.217912+00:00"
+    },
+    {
+      "tweet": "So apparently the Trump administration has disaster funding for these towns stuck in limbo. Just another Tuesday in government.",
+      "original_url": "https://www.npr.org/2026/04/10/nx-s1-5770433/delay-funding-fema-hurricanes-disasters-wildfires-floods",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Communities are waiting on billions in disaster funding from the Trump administration",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-10T10:16:53.217905+00:00"
     },
     {
       "tweet": "Democrats are slamming Pam Bondi for blowing off that Epstein hearing. It's crazy how subpoenas are just optional now",
@@ -783,6 +761,28 @@
       "added_at": "2026-04-05T23:55:53.317370+00:00"
     },
     {
+      "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
+      "original_url": "https://variety.com/2026/film/reviews/faces-of-death-review-1236706326/",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘Faces of Death’ Review: A ’70s-Style B-Horror Movie Taps into the Growing Appetite for Horror That’s ‘Real’",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-06T04:21:17.194792+00:00"
+    },
+    {
+      "tweet": "UCLA took down South Carolina for the championship. Huge game.",
+      "original_url": "https://deadline.com/2026/04/ucla-wins-ncaa-womens-basketball-title-south-carolina-1236780047/",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "UCLA Triumphs Over South Carolina For First-Ever NCAA Women’s Basketball Title",
+      "source": "Deadline",
+      "category": "entertainment",
+      "added_at": "2026-04-05T23:55:53.317362+00:00"
+    },
+    {
       "tweet": "Surfshark’s doing 87 percent off today. Everyone just uses a VPN now, right?",
       "original_url": "https://www.wired.com/story/surfshark-coupon/",
       "buzz_score": 75,
@@ -814,28 +814,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-10T07:59:47.583281+00:00"
-    },
-    {
-      "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
-      "original_url": "https://variety.com/2026/film/reviews/faces-of-death-review-1236706326/",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘Faces of Death’ Review: A ’70s-Style B-Horror Movie Taps into the Growing Appetite for Horror That’s ‘Real’",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-06T04:21:17.194792+00:00"
-    },
-    {
-      "tweet": "UCLA took down South Carolina for the championship. Huge game.",
-      "original_url": "https://deadline.com/2026/04/ucla-wins-ncaa-womens-basketball-title-south-carolina-1236780047/",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "UCLA Triumphs Over South Carolina For First-Ever NCAA Women’s Basketball Title",
-      "source": "Deadline",
-      "category": "entertainment",
-      "added_at": "2026-04-05T23:55:53.317362+00:00"
     },
     {
       "tweet": "A sequel to Behind the Mask is actually happening after 20 years. That takes me back.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 226,
+    "total_posted": 228,
     "total_collected": 640
   },
-  "last_posted_at": "2026-04-10T15:40:40.129939+00:00"
+  "last_posted_at": "2026-04-10T16:42:07.296770+00:00"
 }
