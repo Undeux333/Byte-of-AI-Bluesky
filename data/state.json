@@ -2,28 +2,6 @@
   "last_collected": "2026-04-10T22:55:06.227202+00:00",
   "queue": [
     {
-      "tweet": "Watching the Artemis II astronauts hitting the atmosphere right now. Those guys are lucky to be home.",
-      "original_url": "https://www.npr.org/2026/04/10/nx-s1-5781327/nasa-artemis-ii-return-earth-splashdown-moon",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "WATCH LIVE: Artemis II astronauts return to Earth",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-10T22:55:06.226449+00:00"
-    },
-    {
-      "tweet": "Li Haotong said he was living in the toilet while sick and now he's in contention for the Green Jacket. That’s a grind.",
-      "original_url": "https://www.bbc.com/sport/golf/articles/c9d4vl49jyqo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'I was living in the toilet' - sick Li moves into Masters contention",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-10T22:55:06.225927+00:00"
-    },
-    {
       "tweet": "Bro, researchers in Uganda say chimps have been in a literal civil war for eight years now. They’re really just out there living like it’s Game of Thrones.",
       "original_url": "https://www.bbc.com/news/articles/cr71lkzv49po",
       "buzz_score": 85,
@@ -79,17 +57,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "New evidence is showing U.S. missiles hit that sports hall in Iran. How many times are we gonna do this?",
-      "original_url": "https://www.nytimes.com/2026/04/10/world/middleeast/iran-us-missle-strike-civilians-lamerd.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "New Evidence Further Implicates U.S. Missiles in Strikes That Killed 21 Civilians in Iran",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-10T22:55:06.227062+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -99,6 +66,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "New evidence is showing U.S. missiles hit that sports hall in Iran. How many times are we gonna do this?",
+      "original_url": "https://www.nytimes.com/2026/04/10/world/middleeast/iran-us-missle-strike-civilians-lamerd.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "New Evidence Further Implicates U.S. Missiles in Strikes That Killed 21 Civilians in Iran",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-10T22:55:06.227062+00:00"
     },
     {
       "tweet": "A literal wolf escaped the zoo in South Korea and they had to close the schools. Imagine showing up to class and hearing a wolf is on the loose.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 239,
+    "total_posted": 241,
     "total_collected": 682
   },
-  "last_posted_at": "2026-04-10T23:02:04.198515+00:00"
+  "last_posted_at": "2026-04-10T23:30:51.587335+00:00"
 }
