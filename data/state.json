@@ -2,28 +2,6 @@
   "last_collected": "2026-04-11T03:59:38.755086+00:00",
   "queue": [
     {
-      "tweet": "Bro, the Celtics just hit 29 threes tonight. Twenty-nine. That's just stupid.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48453131/celtics-tie-nba-record-29-3s-clinch-no-2-seed",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Celtics tie NBA record with 29 3s; clinch 2-seed",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T03:59:38.753276+00:00"
-    },
-    {
-      "tweet": "Cardi B is going after Tasha K for those sanctions, trying to make it economically painful. She's really not playing around anymore",
-      "original_url": "https://www.rollingstone.com/music/music-news/cardi-b-offset-tasha-k-sanctions-alleged-harassment-1235545253/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Cardi B Wants Blogger Tasha K to Face ‘Economically Painful’ Sanctions for ‘Relentless’ Harassment",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-04-11T01:26:59.581659+00:00"
-    },
-    {
       "tweet": "Did you see the table? West Ham crushed Wolves, and now Spurs are sitting in the drop zone. That season is a total disaster",
       "original_url": "https://www.bbc.com/sport/football/articles/cr71jvrpp5ro?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -79,17 +57,6 @@
       "added_at": "2026-04-09T07:14:41.251727+00:00"
     },
     {
-      "tweet": "Scottie Scheffler actually posted a round over par at the Masters today. Even the best just have those days.",
-      "original_url": "https://www.espn.com/golf/story/_/id/48450992/scottie-scheffler-posts-2-74-2nd-round-masters",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Scheffler posts rare round over par at Masters",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-10T22:55:06.225798+00:00"
-    },
-    {
       "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026",
       "buzz_score": 90,
@@ -99,6 +66,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "Scottie Scheffler actually posted a round over par at the Masters today. Even the best just have those days.",
+      "original_url": "https://www.espn.com/golf/story/_/id/48450992/scottie-scheffler-posts-2-74-2nd-round-masters",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Scheffler posts rare round over par at Masters",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-10T22:55:06.225798+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -143,28 +121,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
-    },
-    {
-      "tweet": "De Zerbi acting shocked that people didn't like his Mason Greenwood take. Man just stop talking.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cdxde1g4dvqo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "De Zerbi 'not surprised' by reaction to Greenwood comments",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-11T03:59:38.753973+00:00"
-    },
-    {
-      "tweet": "Trump says he won't deal with Iran turning the Strait of Hormuz into a toll booth. Like we’re paying for that.",
-      "original_url": "https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump says Strait of Hormuz to reopen ‘soon’ as US, Iran head to talks",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-11T03:59:38.753452+00:00"
     },
     {
       "tweet": "Did you see that own goal by Martim Fernandes? How do you even put the ball in your own net that badly?",
@@ -277,6 +233,28 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
+      "tweet": "De Zerbi acting shocked that people didn't like his Mason Greenwood take. Man just stop talking.",
+      "original_url": "https://www.bbc.com/sport/football/articles/cdxde1g4dvqo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "De Zerbi 'not surprised' by reaction to Greenwood comments",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-11T03:59:38.753973+00:00"
+    },
+    {
+      "tweet": "Trump says he won't deal with Iran turning the Strait of Hormuz into a toll booth. Like we’re paying for that.",
+      "original_url": "https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump says Strait of Hormuz to reopen ‘soon’ as US, Iran head to talks",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-11T03:59:38.753452+00:00"
+    },
+    {
       "tweet": "Elliot Cadeau just won Most Outstanding Player and is already saying he's back with the Wolverines. Bro doesn't even want a vacation.",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48443335/star-pg-elliot-cadeau-return-senior-season-michigan",
       "buzz_score": 75,
@@ -319,17 +297,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T12:09:23.834019+00:00"
-    },
-    {
-      "tweet": "So apparently JD Vance is heading to Pakistan to talk to Iranian officials about a cease-fire. Sending him to negotiate peace after that whole mess is definitely a choice",
-      "original_url": "https://www.nytimes.com/2026/04/10/us/politics/iran-israel-lebanon-trump-talks.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "World Leaders Push to Save Iran Talks Amid Israel’s Attacks in Lebanon",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-11T01:26:59.581213+00:00"
     },
     {
       "tweet": "The Hacks creators are already teasing a reboot after the finale. Can we just let a show end for once?",
@@ -376,6 +343,17 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "So apparently JD Vance is heading to Pakistan to talk to Iranian officials about a cease-fire. Sending him to negotiate peace after that whole mess is definitely a choice",
+      "original_url": "https://www.nytimes.com/2026/04/10/us/politics/iran-israel-lebanon-trump-talks.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "World Leaders Push to Save Iran Talks Amid Israel’s Attacks in Lebanon",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-11T01:26:59.581213+00:00"
+    },
+    {
       "tweet": "RMIT just dropped that case against the student who called them out. They probably realized they didn't want the headache of a massive public fight",
       "original_url": "https://www.theguardian.com/australia-news/2026/apr/11/rmit-drops-misconduct-case-student-gaza-claims-ntwnfb",
       "buzz_score": 75,
@@ -409,6 +387,39 @@
       "added_at": "2026-04-11T03:59:38.754471+00:00"
     },
     {
+      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 82,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-08T04:12:50.486178+00:00"
+    },
+    {
+      "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
+      "original_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Fact check: Trump's objectives in the war with Iran have largely not been achieved",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-08T22:35:32.474831+00:00"
+    },
+    {
+      "tweet": "Everyone in Tehran is claiming victory after that ceasefire. It’s pretty clear nobody actually won anything.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/8/iranians-breathe-a-ceasefire-sigh-of-relief-as-all-sides-claim-victory?traffic_source=rss",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iranians breathe a ‘ceasefire’ sigh of relief as all sides claim victory",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-08T20:03:08.618965+00:00"
+    },
+    {
       "tweet": "So those Artemis II guys finally made it back from the Moon. Took them 53 years to decide to go back.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/artemis-ii-astronauts-journey-back-to-earth-after-moon-mission?traffic_source=rss",
       "buzz_score": 75,
@@ -418,6 +429,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-11T03:59:38.753285+00:00"
+    },
+    {
+      "tweet": "Democrats are slamming Pam Bondi for blowing off that Epstein hearing. It's crazy how subpoenas are just optional now",
+      "original_url": "https://www.aljazeera.com/news/2026/4/9/democrats-in-us-slam-pam-bondi-for-refusing-to-appear-for-epstein-hearing?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Democrats in US slam Pam Bondi for refusing to appear for Epstein hearing",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-09T22:23:59.524130+00:00"
     },
     {
       "tweet": "Apparently Amazon has a whole list of 'sexy but not too sexy' clothes now. We're all just trying to navigate the vibe check without looking like we're trying too hard",
@@ -462,105 +484,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-10T22:55:06.225639+00:00"
-    },
-    {
-      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-08T04:12:50.486178+00:00"
-    },
-    {
-      "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
-      "original_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fact check: Trump's objectives in the war with Iran have largely not been achieved",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-08T22:35:32.474831+00:00"
-    },
-    {
-      "tweet": "Everyone in Tehran is claiming victory after that ceasefire. It’s pretty clear nobody actually won anything.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/8/iranians-breathe-a-ceasefire-sigh-of-relief-as-all-sides-claim-victory?traffic_source=rss",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iranians breathe a ‘ceasefire’ sigh of relief as all sides claim victory",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-08T20:03:08.618965+00:00"
-    },
-    {
-      "tweet": "Bruce Springsteen's partners are suing to stop knockoff merch at his Jersey show. Don't mess with the Boss.",
-      "original_url": "https://www.billboard.com/pro/bruce-springsteen-partner-sues-tour-knockoffs-new-jersey/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Bruce Springsteen’s Merch Partner Sues to Stop Tour Knockoffs in New Jersey",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-10T22:55:06.226939+00:00"
-    },
-    {
-      "tweet": "MemeHouse is setting up this whole streaming experience at Coachella. We're at the point where we can't even go to a festival without watching someone else watch it.",
-      "original_url": "https://www.billboard.com/culture/product-recommendations/memehouse-scene-experience-coachella-how-to-watch-online-1236219119/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "MemeHouse Brings Creator Culture to Coachella With ‘The Scene’ IRL Streaming Experience",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-10T22:55:06.225644+00:00"
-    },
-    {
-      "tweet": "Democrats are slamming Pam Bondi for blowing off that Epstein hearing. It's crazy how subpoenas are just optional now",
-      "original_url": "https://www.aljazeera.com/news/2026/4/9/democrats-in-us-slam-pam-bondi-for-refusing-to-appear-for-epstein-hearing?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Democrats in US slam Pam Bondi for refusing to appear for Epstein hearing",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-09T22:23:59.524130+00:00"
-    },
-    {
-      "tweet": "Epic is apparently making a Disney-themed extraction shooter. Imagine getting taken out by Mickey.",
-      "original_url": "https://kotaku.com/epic-is-reportedly-making-a-disney-themed-extraction-shooter-2000686749",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Epic Is Reportedly Making A Disney-Themed Extraction Shooter",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-10T20:07:01.034102+00:00"
-    },
-    {
-      "tweet": "So this fifteen-year-old kid in the IPL just hit a fifty off fifteen balls. That’s just stupid fast.",
-      "original_url": "https://www.bbc.com/sport/cricket/articles/cdxk46dzewxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Teenager Suryavanshi smashes 15-ball fifty in IPL",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-10T20:07:01.033754+00:00"
-    },
-    {
-      "tweet": "Lebanon is saying they won’t even sit down for talks with Israel unless a ceasefire is already locked in. Honestly, they’re just skipping the middleman.",
-      "original_url": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Lebanon says ceasefire must be in place before Israel talks",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-10T20:07:01.033600+00:00"
     },
     {
       "tweet": "Senegal's prime minister just called Trump an agent of global destabilization. Tell us how you really feel.",
@@ -629,70 +552,59 @@
       "added_at": "2026-04-08T15:44:16.953760+00:00"
     },
     {
-      "tweet": "Got some new stuff on Netflix and Apple TV this weekend. Finally got something to watch.",
-      "original_url": "https://www.polygon.com/new-movies-to-watch-thrash-the-bride-psycho-killer-april-10-2026/",
-      "buzz_score": 70,
+      "tweet": "Bruce Springsteen's partners are suing to stop knockoff merch at his Jersey show. Don't mess with the Boss.",
+      "original_url": "https://www.billboard.com/pro/bruce-springsteen-partner-sues-tour-knockoffs-new-jersey/",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "The best new movies on streaming and Netflix this weekend (April 10-12)",
-      "source": "Polygon",
+      "original_title": "Bruce Springsteen’s Merch Partner Sues to Stop Tour Knockoffs in New Jersey",
+      "source": "Billboard",
       "category": "entertainment",
-      "added_at": "2026-04-10T22:55:06.226817+00:00"
+      "added_at": "2026-04-10T22:55:06.226939+00:00"
     },
     {
-      "tweet": "So Orbán and Magyar are doing final rallies in Hungary. Election season is always a mess.",
-      "original_url": "https://www.theguardian.com/world/live/2026/apr/10/hungary-election-orban-europe-budapest-latest-news-updates",
-      "buzz_score": 70,
+      "tweet": "MemeHouse is setting up this whole streaming experience at Coachella. We're at the point where we can't even go to a festival without watching someone else watch it.",
+      "original_url": "https://www.billboard.com/culture/product-recommendations/memehouse-scene-experience-coachella-how-to-watch-online-1236219119/",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Orbán and rival Magyar hold rallies as Hungary election campaigns enter final stretch – as it happened",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-10T22:55:06.226695+00:00"
-    },
-    {
-      "tweet": "Stefano Gabbana is stepping down as chairman of D&G. End of an era.",
-      "original_url": "https://hypebeast.com/2026/4/stefano-gabbana-steps-down-as-dg-chairman-dior-announces-la-runway-in-this-weeks-top-fashion-news",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Stefano Gabbana Steps Down as D&G Chairman & Dior Announces LA Runway in This Week's Top Fashion News",
-      "source": "Hypebeast",
+      "original_title": "MemeHouse Brings Creator Culture to Coachella With ‘The Scene’ IRL Streaming Experience",
+      "source": "Billboard",
       "category": "entertainment",
-      "added_at": "2026-04-10T22:55:06.226325+00:00"
+      "added_at": "2026-04-10T22:55:06.225644+00:00"
     },
     {
-      "tweet": "Dude, the Eagles just grabbed Wicks from the Packers for two picks. They're really going all in.",
-      "original_url": "https://www.espn.com/nfl/story/_/id/48451181/eagles-get-wr-dontayvion-wick-packers-sources-say",
-      "buzz_score": 70,
+      "tweet": "Epic is apparently making a Disney-themed extraction shooter. Imagine getting taken out by Mickey.",
+      "original_url": "https://kotaku.com/epic-is-reportedly-making-a-disney-themed-extraction-shooter-2000686749",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Sources: Eagles land WR Wicks from GB for picks",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-10T22:55:06.225646+00:00"
-    },
-    {
-      "tweet": "This former Bethesda guy is out here saying they aren't making anything authentic at Microsoft anymore. Guess the magic's gone.",
-      "original_url": "https://kotaku.com/ex-bethesda-exec-says-the-elder-scrolls-6-maker-isnt-part-of-something-genuine-or-authentic-at-microsoft-2000686743",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Ex-Bethesda Exec Says The Elder Scrolls 6 Maker Isn’t Part Of Something ‘Genuine’ Or ‘Authentic’ At Microsoft",
+      "original_title": "Epic Is Reportedly Making A Disney-Themed Extraction Shooter",
       "source": "Kotaku",
       "category": "entertainment",
-      "added_at": "2026-04-10T20:07:01.033987+00:00"
+      "added_at": "2026-04-10T20:07:01.034102+00:00"
     },
     {
-      "tweet": "Kelsey Mitchell just signed that 1.4 million supermax deal to stay with the Fever. She’s really getting paid.",
-      "original_url": "https://www.espn.com/wnba/story/_/id/48450282/source-kelsey-mitchell-sign-14m-supermax-deal-fever",
-      "buzz_score": 80,
+      "tweet": "So this fifteen-year-old kid in the IPL just hit a fifty off fifteen balls. That’s just stupid fast.",
+      "original_url": "https://www.bbc.com/sport/cricket/articles/cdxk46dzewxo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Source: Mitchell to ink supermax deal with Fever",
-      "source": "ESPN",
+      "original_title": "Teenager Suryavanshi smashes 15-ball fifty in IPL",
+      "source": "BBC Sport",
       "category": "sports",
-      "added_at": "2026-04-10T20:07:01.033610+00:00"
+      "added_at": "2026-04-10T20:07:01.033754+00:00"
+    },
+    {
+      "tweet": "Lebanon is saying they won’t even sit down for talks with Israel unless a ceasefire is already locked in. Honestly, they’re just skipping the middleman.",
+      "original_url": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Lebanon says ceasefire must be in place before Israel talks",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-10T20:07:01.033600+00:00"
     },
     {
       "tweet": "Six months into this ceasefire and the situation in Gaza is somehow even worse. Is it even a ceasefire at this point",
@@ -891,6 +803,72 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-05T23:55:53.317370+00:00"
+    },
+    {
+      "tweet": "Got some new stuff on Netflix and Apple TV this weekend. Finally got something to watch.",
+      "original_url": "https://www.polygon.com/new-movies-to-watch-thrash-the-bride-psycho-killer-april-10-2026/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The best new movies on streaming and Netflix this weekend (April 10-12)",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-10T22:55:06.226817+00:00"
+    },
+    {
+      "tweet": "So Orbán and Magyar are doing final rallies in Hungary. Election season is always a mess.",
+      "original_url": "https://www.theguardian.com/world/live/2026/apr/10/hungary-election-orban-europe-budapest-latest-news-updates",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Orbán and rival Magyar hold rallies as Hungary election campaigns enter final stretch – as it happened",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-10T22:55:06.226695+00:00"
+    },
+    {
+      "tweet": "Stefano Gabbana is stepping down as chairman of D&G. End of an era.",
+      "original_url": "https://hypebeast.com/2026/4/stefano-gabbana-steps-down-as-dg-chairman-dior-announces-la-runway-in-this-weeks-top-fashion-news",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Stefano Gabbana Steps Down as D&G Chairman & Dior Announces LA Runway in This Week's Top Fashion News",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-10T22:55:06.226325+00:00"
+    },
+    {
+      "tweet": "Dude, the Eagles just grabbed Wicks from the Packers for two picks. They're really going all in.",
+      "original_url": "https://www.espn.com/nfl/story/_/id/48451181/eagles-get-wr-dontayvion-wick-packers-sources-say",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sources: Eagles land WR Wicks from GB for picks",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-10T22:55:06.225646+00:00"
+    },
+    {
+      "tweet": "This former Bethesda guy is out here saying they aren't making anything authentic at Microsoft anymore. Guess the magic's gone.",
+      "original_url": "https://kotaku.com/ex-bethesda-exec-says-the-elder-scrolls-6-maker-isnt-part-of-something-genuine-or-authentic-at-microsoft-2000686743",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Ex-Bethesda Exec Says The Elder Scrolls 6 Maker Isn’t Part Of Something ‘Genuine’ Or ‘Authentic’ At Microsoft",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-10T20:07:01.033987+00:00"
+    },
+    {
+      "tweet": "Kelsey Mitchell just signed that 1.4 million supermax deal to stay with the Fever. She’s really getting paid.",
+      "original_url": "https://www.espn.com/wnba/story/_/id/48450282/source-kelsey-mitchell-sign-14m-supermax-deal-fever",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Source: Mitchell to ink supermax deal with Fever",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-10T20:07:01.033610+00:00"
     },
     {
       "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 247,
+    "total_posted": 249,
     "total_collected": 708
   },
-  "last_posted_at": "2026-04-11T04:08:08.570663+00:00"
+  "last_posted_at": "2026-04-11T05:30:32.322926+00:00"
 }
