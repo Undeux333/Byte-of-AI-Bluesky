@@ -2,17 +2,6 @@
   "last_collected": "2026-04-11T18:28:31.087264+00:00",
   "queue": [
     {
-      "tweet": "They're deporting the son of that prominent figure from the 1979 hostage crisis. Wild that it took this long.",
-      "original_url": "https://www.nytimes.com/2026/04/11/us/politics/deportation-iranian-revolution.html",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "U.S. Moves to Deport Son of Prominent Figure in Iranian Revolution",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-11T18:28:31.086109+00:00"
-    },
-    {
       "tweet": "If you’re still waiting for a Bloodborne sequel, check out this new game Tombwater. It’s basically that cosmic horror itch we’ve been needing.",
       "original_url": "https://www.polygon.com/tombwater-impressions-2d-soulslike-bloodborne/",
       "buzz_score": 85,
@@ -46,17 +35,6 @@
       "added_at": "2026-04-11T13:57:12.329235+00:00"
     },
     {
-      "tweet": "Can't believe Magic the Gathering's Seventh Edition was 25 years ago. We’re getting old, man.",
-      "original_url": "https://www.polygon.com/mtg-seventh-edition-25th-anniversary-7ed/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "25 years ago, MTG's Seventh Edition set quietly changed the game forever",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-11T13:57:12.329544+00:00"
-    },
-    {
       "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
       "buzz_score": 95,
@@ -66,6 +44,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251727+00:00"
+    },
+    {
+      "tweet": "Can't believe Magic the Gathering's Seventh Edition was 25 years ago. We’re getting old, man.",
+      "original_url": "https://www.polygon.com/mtg-seventh-edition-25th-anniversary-7ed/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "25 years ago, MTG's Seventh Edition set quietly changed the game forever",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-11T13:57:12.329544+00:00"
     },
     {
       "tweet": "Joe Jonas is out here teaching masterclasses on the perfect Coachella day party. Like that's the priority right now.",
@@ -101,28 +90,6 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Israel is having a full row with South Korea because the president there said they don't reflect on any of the criticism. Yikes",
-      "original_url": "https://www.aljazeera.com/news/2026/4/11/israel-in-row-with-south-korea-leader-over-palestinian-abuse-concerns?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Israel in row with South Korean leader over Palestinian abuse concerns",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-11T11:33:17.227323+00:00"
-    },
-    {
-      "tweet": "Interview With the Vampire pretty much created the modern brooding vampire trope. I mean, Edward Cullen literally owes that book everything.",
-      "original_url": "https://www.mentalfloss.com/literature/books/books-wouldnt-exist-without-interview-with-the-vampire?utm_source=RSS",
-      "buzz_score": 72,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "4 Books That Wouldn’t Exist Without 'Interview With the Vampire'",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-11T18:28:31.087001+00:00"
-    },
-    {
       "tweet": "A literal wolf escaped the zoo in South Korea and they had to close the schools. Imagine showing up to class and hearing a wolf is on the loose.",
       "original_url": "https://www.theguardian.com/world/2026/apr/09/wolf-escaped-zoo-daejeon-south-korea",
       "buzz_score": 85,
@@ -154,6 +121,28 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
+    },
+    {
+      "tweet": "Israel is having a full row with South Korea because the president there said they don't reflect on any of the criticism. Yikes",
+      "original_url": "https://www.aljazeera.com/news/2026/4/11/israel-in-row-with-south-korea-leader-over-palestinian-abuse-concerns?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Israel in row with South Korean leader over Palestinian abuse concerns",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-11T11:33:17.227323+00:00"
+    },
+    {
+      "tweet": "Interview With the Vampire pretty much created the modern brooding vampire trope. I mean, Edward Cullen literally owes that book everything.",
+      "original_url": "https://www.mentalfloss.com/literature/books/books-wouldnt-exist-without-interview-with-the-vampire?utm_source=RSS",
+      "buzz_score": 72,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "4 Books That Wouldn’t Exist Without 'Interview With the Vampire'",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-11T18:28:31.087001+00:00"
     },
     {
       "tweet": "Did you see that own goal by Martim Fernandes? How do you even put the ball in your own net that badly?",
@@ -277,39 +266,6 @@
       "added_at": "2026-04-11T18:28:31.085860+00:00"
     },
     {
-      "tweet": "Magic is finally dropping that cancelled Monster Hunter card in the new decks. Sometimes the stuff that gets cut is actually the best part.",
-      "original_url": "https://www.polygon.com/monster-hunter-secret-lair-drakuseth-strixhaven/",
-      "buzz_score": 78,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Magic's new Welcome Decks include a Monster Hunter card that was previously canceled",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-11T18:28:31.086257+00:00"
-    },
-    {
-      "tweet": "Some guy was just walking around Grand Central with a machete before police took him down. Just a normal Tuesday in New York.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/11/machete-wielding-man-shot-by-police-in-new-york-city-grand-central-station?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Machete-wielding man shot by police in New York City Grand Central station",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-11T16:24:36.534936+00:00"
-    },
-    {
-      "tweet": "They finally put Malcolm in the Middle back on streaming after twenty years. Makes you realize how fast we're all getting old.",
-      "original_url": "https://www.billboard.com/culture/product-recommendations/watch-malcolm-in-the-middle-lifes-still-unfair-online-1236220486/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "How to Watch ‘Malcolm in the Middle: Life’s Still Unfair’ Online",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-11T16:24:36.534385+00:00"
-    },
-    {
       "tweet": "Rory McIlroy is up by six shots at the Masters right now. He's literally playing a different game than everyone else out there",
       "original_url": "https://www.espn.com/golf/story/_/id/48451273/rory-mcilroy-36-hole-lead-2026-masters-anyone-catch-him",
       "buzz_score": 75,
@@ -387,6 +343,39 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
+      "tweet": "Magic is finally dropping that cancelled Monster Hunter card in the new decks. Sometimes the stuff that gets cut is actually the best part.",
+      "original_url": "https://www.polygon.com/monster-hunter-secret-lair-drakuseth-strixhaven/",
+      "buzz_score": 78,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Magic's new Welcome Decks include a Monster Hunter card that was previously canceled",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-11T18:28:31.086257+00:00"
+    },
+    {
+      "tweet": "Some guy was just walking around Grand Central with a machete before police took him down. Just a normal Tuesday in New York.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/11/machete-wielding-man-shot-by-police-in-new-york-city-grand-central-station?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Machete-wielding man shot by police in New York City Grand Central station",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-11T16:24:36.534936+00:00"
+    },
+    {
+      "tweet": "They finally put Malcolm in the Middle back on streaming after twenty years. Makes you realize how fast we're all getting old.",
+      "original_url": "https://www.billboard.com/culture/product-recommendations/watch-malcolm-in-the-middle-lifes-still-unfair-online-1236220486/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "How to Watch ‘Malcolm in the Middle: Life’s Still Unfair’ Online",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-11T16:24:36.534385+00:00"
+    },
+    {
       "tweet": "The Liberty just signed Satou Sabally and Jones to multiyear deals. They aren't messing around this time.",
       "original_url": "https://www.espn.com/wnba/story/_/id/48457874/all-star-satou-sabally-agrees-multiyear-deal-liberty",
       "buzz_score": 75,
@@ -418,28 +407,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-11T18:28:31.085571+00:00"
-    },
-    {
-      "tweet": "So an appeals panel just ruled NFL teams didn't collude on those huge QB deals. Since when does the house ever rule against itself.",
-      "original_url": "https://www.espn.com/nfl/story/_/id/48456898/panel-rules-nflpa-says-not-enough-proof-collusion",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Panel rules NFL teams didn't collude on QB deals",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T16:24:36.534682+00:00"
-    },
-    {
-      "tweet": "France is finally ditching Windows for Linux because they think US tech is a strategic risk. Honestly, can you even blame them.",
-      "original_url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-11T16:24:36.534379+00:00"
     },
     {
       "tweet": "The Hacks creators are already teasing a reboot after the finale. Can we just let a show end for once?",
@@ -486,15 +453,26 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
-      "tweet": "Nearly eighty thousand people turned out for that Red Roses game. That's a lot of people.",
-      "original_url": "https://www.bbc.com/sport/rugby-union/articles/cn8d1ejd727o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
+      "tweet": "So an appeals panel just ruled NFL teams didn't collude on those huge QB deals. Since when does the house ever rule against itself.",
+      "original_url": "https://www.espn.com/nfl/story/_/id/48456898/panel-rules-nflpa-says-not-enough-proof-collusion",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "England far from perfect but Red Roses machine marches on",
-      "source": "BBC Sport",
+      "original_title": "Panel rules NFL teams didn't collude on QB deals",
+      "source": "ESPN",
       "category": "sports",
-      "added_at": "2026-04-11T18:28:31.086877+00:00"
+      "added_at": "2026-04-11T16:24:36.534682+00:00"
+    },
+    {
+      "tweet": "France is finally ditching Windows for Linux because they think US tech is a strategic risk. Honestly, can you even blame them.",
+      "original_url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-11T16:24:36.534379+00:00"
     },
     {
       "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
@@ -506,6 +484,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-11T03:59:38.753282+00:00"
+    },
+    {
+      "tweet": "Nearly eighty thousand people turned out for that Red Roses game. That's a lot of people.",
+      "original_url": "https://www.bbc.com/sport/rugby-union/articles/cn8d1ejd727o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "England far from perfect but Red Roses machine marches on",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-11T18:28:31.086877+00:00"
     },
     {
       "tweet": "Found this list of bougie Amazon stuff that’s actually cheap. It’s that specific kind of shopping where you buy things you don't need just to feel fancy.",
@@ -541,39 +530,6 @@
       "added_at": "2026-04-08T04:12:50.486178+00:00"
     },
     {
-      "tweet": "Don't bother spending over 50 bucks on a Switch 2 dock. Nintendo just likes to keep us guessing on accessories.",
-      "original_url": "https://www.theverge.com/gadgets/907645/nintendo-switch-2-genki-jsaux-usb-c-dock-hands-on",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "You don’t have to spend more than $50 on a great USB-C dock for your Switch 2",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-04-11T13:57:12.330297+00:00"
-    },
-    {
-      "tweet": "Hold on, the UK is starting a crackdown on EU citizens' rights after that whole HMRC fiasco. Seems like they're just making it up as they go.",
-      "original_url": "https://www.theguardian.com/politics/2026/apr/10/home-office-starts-crackdown-on-eu-citizens-post-brexit-rights-to-live-in-uk",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "UK starts crackdown on EU citizens’ post-Brexit rights",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-11T13:57:12.329254+00:00"
-    },
-    {
-      "tweet": "Coachella day one just happened and apparently John Summit and Sabrina Carpenter were the main event. Coachella brain rot is officially back.",
-      "original_url": "https://www.billboard.com/lists/coachella-2026-day-one-best-sabrina-carpenter-katseye/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sabrina Carpenter, KATSEYE, Turnstile, John Summit & More: Best Moments From Coachella 2026 Day 1",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-11T13:57:12.329244+00:00"
-    },
-    {
       "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
       "original_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
       "buzz_score": 95,
@@ -607,6 +563,39 @@
       "added_at": "2026-04-09T22:23:59.524130+00:00"
     },
     {
+      "tweet": "Don't bother spending over 50 bucks on a Switch 2 dock. Nintendo just likes to keep us guessing on accessories.",
+      "original_url": "https://www.theverge.com/gadgets/907645/nintendo-switch-2-genki-jsaux-usb-c-dock-hands-on",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "You don’t have to spend more than $50 on a great USB-C dock for your Switch 2",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-04-11T13:57:12.330297+00:00"
+    },
+    {
+      "tweet": "Hold on, the UK is starting a crackdown on EU citizens' rights after that whole HMRC fiasco. Seems like they're just making it up as they go.",
+      "original_url": "https://www.theguardian.com/politics/2026/apr/10/home-office-starts-crackdown-on-eu-citizens-post-brexit-rights-to-live-in-uk",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "UK starts crackdown on EU citizens’ post-Brexit rights",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-11T13:57:12.329254+00:00"
+    },
+    {
+      "tweet": "Coachella day one just happened and apparently John Summit and Sabrina Carpenter were the main event. Coachella brain rot is officially back.",
+      "original_url": "https://www.billboard.com/lists/coachella-2026-day-one-best-sabrina-carpenter-katseye/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sabrina Carpenter, KATSEYE, Turnstile, John Summit & More: Best Moments From Coachella 2026 Day 1",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-11T13:57:12.329244+00:00"
+    },
+    {
       "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
       "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 78,
@@ -616,39 +605,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-11T09:01:18.261834+00:00"
-    },
-    {
-      "tweet": "A Quiet Place Part II is back on Netflix if you wanna be stressed out tonight. My heart can't take it.",
-      "original_url": "https://usa.newonnetflix.info/info/81186806",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "11th Apr: A Quiet Place Part II (2021), 1hr 38m [PG-13] - Streaming Again (6.6/10)",
-      "source": "New on Netflix",
-      "category": "entertainment",
-      "added_at": "2026-04-11T13:57:12.329792+00:00"
-    },
-    {
-      "tweet": "Stephon Castle is doing these watch brand deals now. It’s that point in the career where you realize you made it when you start tracking time with luxury pieces.",
-      "original_url": "https://hypebeast.com/2026/4/watches-of-switzerland-stephon-castle-career-in-watches",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Stephon Castle Shows His Career Evolution With Timepieces from Watches of Switzerland",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-11T13:57:12.329414+00:00"
-    },
-    {
-      "tweet": "Polygon is calling Critters a Gremlins knock-off. Honestly, that movie is just pure chaos.",
-      "original_url": "https://www.polygon.com/40-years-later-gremlins-knock-off-critters/",
-      "buzz_score": 70,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "Critters might be a Gremlins knock-off but it's B-movie magic",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-11T18:28:31.087125+00:00"
     },
     {
       "tweet": "Wembanyama hit 65 games and dropped 40 points like it's nothing. They really just made a cheat code and put him in the league",
@@ -728,37 +684,37 @@
       "added_at": "2026-04-08T15:44:16.953760+00:00"
     },
     {
-      "tweet": "Everyone in Britain is panic-buying solar panels 'cause their energy bills are through the roof. We're all just one price hike away from doing the same thing",
-      "original_url": "https://www.theguardian.com/business/2026/apr/11/homes-great-britain-green-energy-fuel-prices",
-      "buzz_score": 80,
+      "tweet": "A Quiet Place Part II is back on Netflix if you wanna be stressed out tonight. My heart can't take it.",
+      "original_url": "https://usa.newonnetflix.info/info/81186806",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Record number of homes in Great Britain turn to green energy as fuel prices soar",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-11T11:33:17.227569+00:00"
+      "original_title": "11th Apr: A Quiet Place Part II (2021), 1hr 38m [PG-13] - Streaming Again (6.6/10)",
+      "source": "New on Netflix",
+      "category": "entertainment",
+      "added_at": "2026-04-11T13:57:12.329792+00:00"
     },
     {
-      "tweet": "NBA players are apparently obsessed with chess now instead of working on their game. We've all got that one hobby we use to avoid actual work",
-      "original_url": "https://www.espn.com/nba/story/_/id/48389239/rise-nba-chess-popularity-antetokounmpo-wembanyama-derrick-rose",
-      "buzz_score": 80,
+      "tweet": "Stephon Castle is doing these watch brand deals now. It’s that point in the career where you realize you made it when you start tracking time with luxury pieces.",
+      "original_url": "https://hypebeast.com/2026/4/watches-of-switzerland-stephon-castle-career-in-watches",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "King's gambit: Why NBA players are turning to chess",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T11:33:17.227056+00:00"
+      "original_title": "Stephon Castle Shows His Career Evolution With Timepieces from Watches of Switzerland",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-11T13:57:12.329414+00:00"
     },
     {
-      "tweet": "India is actually cracking down on people for making fun of Modi. Like, does he really think that's gonna make people stop",
-      "original_url": "https://www.npr.org/2026/04/11/g-s1-116582/india-cracks-down-satirists-turning-prime-minister-punch-line-modi",
-      "buzz_score": 80,
-      "buzz_score2": 90,
+      "tweet": "Polygon is calling Critters a Gremlins knock-off. Honestly, that movie is just pure chaos.",
+      "original_url": "https://www.polygon.com/40-years-later-gremlins-knock-off-critters/",
+      "buzz_score": 70,
+      "buzz_score2": 88,
       "rewrite_count": 0,
-      "original_title": "India cracks down on satirists for turning its prime minister into a punch line",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-11T11:33:17.226756+00:00"
+      "original_title": "Critters might be a Gremlins knock-off but it's B-movie magic",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-11T18:28:31.087125+00:00"
     },
     {
       "tweet": "Anyma's set at Coachella got canceled because of the wind. Just sitting in the desert waiting for a show that isn't happening.",
@@ -770,17 +726,6 @@
       "source": "Variety",
       "category": "entertainment",
       "added_at": "2026-04-11T09:01:18.262497+00:00"
-    },
-    {
-      "tweet": "Netflix dropped a Salish and Jordan Matter series. Kids are gonna eat this up, I guess.",
-      "original_url": "https://usa.newonnetflix.info/info/82738277",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "11th Apr: Salish & Jordan Matter (2026), 7 Episodes [TV-PG] (6/10)",
-      "source": "New on Netflix",
-      "category": "entertainment",
-      "added_at": "2026-04-11T13:57:12.329916+00:00"
     },
     {
       "tweet": "China turned Lu Xun into a Disney-style mascot for the party. Imagine making a guy who hated your guts the face of your brand",
@@ -968,6 +913,50 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-08T20:03:08.619722+00:00"
+    },
+    {
+      "tweet": "Everyone in Britain is panic-buying solar panels 'cause their energy bills are through the roof. We're all just one price hike away from doing the same thing",
+      "original_url": "https://www.theguardian.com/business/2026/apr/11/homes-great-britain-green-energy-fuel-prices",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Record number of homes in Great Britain turn to green energy as fuel prices soar",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-11T11:33:17.227569+00:00"
+    },
+    {
+      "tweet": "NBA players are apparently obsessed with chess now instead of working on their game. We've all got that one hobby we use to avoid actual work",
+      "original_url": "https://www.espn.com/nba/story/_/id/48389239/rise-nba-chess-popularity-antetokounmpo-wembanyama-derrick-rose",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "King's gambit: Why NBA players are turning to chess",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T11:33:17.227056+00:00"
+    },
+    {
+      "tweet": "India is actually cracking down on people for making fun of Modi. Like, does he really think that's gonna make people stop",
+      "original_url": "https://www.npr.org/2026/04/11/g-s1-116582/india-cracks-down-satirists-turning-prime-minister-punch-line-modi",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "India cracks down on satirists for turning its prime minister into a punch line",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-11T11:33:17.226756+00:00"
+    },
+    {
+      "tweet": "Netflix dropped a Salish and Jordan Matter series. Kids are gonna eat this up, I guess.",
+      "original_url": "https://usa.newonnetflix.info/info/82738277",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "11th Apr: Salish & Jordan Matter (2026), 7 Episodes [TV-PG] (6/10)",
+      "source": "New on Netflix",
+      "category": "entertainment",
+      "added_at": "2026-04-11T13:57:12.329916+00:00"
     },
     {
       "tweet": "The director of that Faces of Death reboot is out here explaining the ending like it's high art. Give me a break",
@@ -1996,8 +1985,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 274,
+    "total_posted": 275,
     "total_collected": 801
   },
-  "last_posted_at": "2026-04-11T19:58:10.521474+00:00"
+  "last_posted_at": "2026-04-11T20:20:26.887130+00:00"
 }
