@@ -2,17 +2,6 @@
   "last_collected": "2026-04-11T16:24:36.536088+00:00",
   "queue": [
     {
-      "tweet": "Dude, scientists are saying chimps in Uganda have been locked in an eight-year civil war. Like, actual organized warfare. Just monkeys with beef.",
-      "original_url": "https://www.bbc.com/news/articles/cr71lkzv49po",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-11T16:24:36.534373+00:00"
-    },
-    {
       "tweet": "If you’re still waiting for a Bloodborne sequel, check out this new game Tombwater. It’s basically that cosmic horror itch we’ve been needing.",
       "original_url": "https://www.polygon.com/tombwater-impressions-2d-soulslike-bloodborne/",
       "buzz_score": 85,
@@ -90,6 +79,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
       "tweet": "Some guy was just walking around Grand Central with a machete before police took him down. Just a normal Tuesday in New York.",
       "original_url": "https://www.aljazeera.com/news/2026/4/11/machete-wielding-man-shot-by-police-in-new-york-city-grand-central-station?traffic_source=rss",
       "buzz_score": 85,
@@ -110,17 +110,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-11T16:24:36.534385+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "A literal wolf escaped the zoo in South Korea and they had to close the schools. Imagine showing up to class and hearing a wolf is on the loose.",
@@ -563,39 +552,6 @@
       "added_at": "2026-04-08T04:12:50.486178+00:00"
     },
     {
-      "tweet": "Anyma's set at Coachella got canceled because of the wind. Just sitting in the desert waiting for a show that isn't happening.",
-      "original_url": "https://variety.com/2026/music/news/anyma-coachella-set-canceled-1236719446/",
-      "buzz_score": 72,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Anyma’s Coachella Set Canceled Due to ‘Strong Wind Conditions’",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-11T09:01:18.262497+00:00"
-    },
-    {
-      "tweet": "The director of that Faces of Death reboot is out here explaining the ending like it's high art. Give me a break",
-      "original_url": "https://www.polygon.com/faces-of-death-ending-explained-behind-the-scenes/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Faces of Death ending explained: Director and cast break down the movie's gory finale",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-11T11:33:17.227691+00:00"
-    },
-    {
-      "tweet": "Sabrina Carpenter basically turned Coachella into her own show. We’ve all been to a festival where one person is just trying way too hard",
-      "original_url": "https://www.billboard.com/lists/sabrina-carpenter-coachella-2026-review-best-moments/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sabrina Carpenter Turns Coachella Into ‘SABRINAWOOD’ With Superstar-Caliber Headline Performance: Recap and Best Moments",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-11T11:33:17.226927+00:00"
-    },
-    {
       "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
       "original_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
       "buzz_score": 95,
@@ -627,6 +583,39 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T22:23:59.524130+00:00"
+    },
+    {
+      "tweet": "Anyma's set at Coachella got canceled because of the wind. Just sitting in the desert waiting for a show that isn't happening.",
+      "original_url": "https://variety.com/2026/music/news/anyma-coachella-set-canceled-1236719446/",
+      "buzz_score": 72,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Anyma’s Coachella Set Canceled Due to ‘Strong Wind Conditions’",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-11T09:01:18.262497+00:00"
+    },
+    {
+      "tweet": "The director of that Faces of Death reboot is out here explaining the ending like it's high art. Give me a break",
+      "original_url": "https://www.polygon.com/faces-of-death-ending-explained-behind-the-scenes/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Faces of Death ending explained: Director and cast break down the movie's gory finale",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-11T11:33:17.227691+00:00"
+    },
+    {
+      "tweet": "Sabrina Carpenter basically turned Coachella into her own show. We’ve all been to a festival where one person is just trying way too hard",
+      "original_url": "https://www.billboard.com/lists/sabrina-carpenter-coachella-2026-review-best-moments/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sabrina Carpenter Turns Coachella Into ‘SABRINAWOOD’ With Superstar-Caliber Headline Performance: Recap and Best Moments",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-11T11:33:17.226927+00:00"
     },
     {
       "tweet": "Wembanyama hit 65 games and dropped 40 points like it's nothing. They really just made a cheat code and put him in the league",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 267,
+    "total_posted": 268,
     "total_collected": 785
   },
-  "last_posted_at": "2026-04-11T16:33:08.127696+00:00"
+  "last_posted_at": "2026-04-11T17:01:23.943204+00:00"
 }
