@@ -24,17 +24,6 @@
       "added_at": "2026-04-11T03:59:38.753282+00:00"
     },
     {
-      "tweet": "Wembanyama hit 65 games and dropped 40 points like it's nothing. They really just made a cheat code and put him in the league",
-      "original_url": "https://www.espn.com/nba/story/_/id/48453963/wembanyama-40-points-13-rebounds-hits-65-games-checks-another-box",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Wembanyama checks another 'box,' hits 65 games",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T06:36:56.764029+00:00"
-    },
-    {
       "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026",
       "buzz_score": 90,
@@ -44,6 +33,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "Wembanyama hit 65 games and dropped 40 points like it's nothing. They really just made a cheat code and put him in the league",
+      "original_url": "https://www.espn.com/nba/story/_/id/48453963/wembanyama-40-points-13-rebounds-hits-65-games-checks-another-box",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Wembanyama checks another 'box,' hits 65 games",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T06:36:56.764029+00:00"
     },
     {
       "tweet": "Rory McIlroy is up by six shots at the Masters right now. He's literally playing a different game than everyone else out there",
@@ -79,17 +79,6 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "China turned Lu Xun into a Disney-style mascot for the party. Imagine making a guy who hated your guts the face of your brand",
-      "original_url": "https://www.nytimes.com/2026/04/11/world/asia/lu-xun-chinese-writer-communist-mascot.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "How Lu Xun, a Famous Chinese Writer, Became a Cute Communist Mascot",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-11T06:36:56.763866+00:00"
-    },
-    {
       "tweet": "A literal wolf escaped the zoo in South Korea and they had to close the schools. Imagine showing up to class and hearing a wolf is on the loose.",
       "original_url": "https://www.theguardian.com/world/2026/apr/09/wolf-escaped-zoo-daejeon-south-korea",
       "buzz_score": 85,
@@ -121,6 +110,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
+    },
+    {
+      "tweet": "China turned Lu Xun into a Disney-style mascot for the party. Imagine making a guy who hated your guts the face of your brand",
+      "original_url": "https://www.nytimes.com/2026/04/11/world/asia/lu-xun-chinese-writer-communist-mascot.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "How Lu Xun, a Famous Chinese Writer, Became a Cute Communist Mascot",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-11T06:36:56.763866+00:00"
     },
     {
       "tweet": "Did you see that own goal by Martim Fernandes? How do you even put the ball in your own net that badly?",
@@ -288,28 +288,6 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "De Zerbi acting shocked that people didn't like his Mason Greenwood take. Man just stop talking.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cdxde1g4dvqo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "De Zerbi 'not surprised' by reaction to Greenwood comments",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-11T03:59:38.753973+00:00"
-    },
-    {
-      "tweet": "Trump says he won't deal with Iran turning the Strait of Hormuz into a toll booth. Like we’re paying for that.",
-      "original_url": "https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump says Strait of Hormuz to reopen ‘soon’ as US, Iran head to talks",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-11T03:59:38.753452+00:00"
-    },
-    {
       "tweet": "The Hacks creators are already teasing a reboot after the finale. Can we just let a show end for once?",
       "original_url": "https://variety.com/2026/tv/news/hacks-cast-creators-never-say-never-future-reboot-1236712715/",
       "buzz_score": 70,
@@ -354,6 +332,28 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "De Zerbi acting shocked that people didn't like his Mason Greenwood take. Man just stop talking.",
+      "original_url": "https://www.bbc.com/sport/football/articles/cdxde1g4dvqo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "De Zerbi 'not surprised' by reaction to Greenwood comments",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-11T03:59:38.753973+00:00"
+    },
+    {
+      "tweet": "Trump says he won't deal with Iran turning the Strait of Hormuz into a toll booth. Like we’re paying for that.",
+      "original_url": "https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump says Strait of Hormuz to reopen ‘soon’ as US, Iran head to talks",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-11T03:59:38.753452+00:00"
+    },
+    {
       "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 82,
@@ -387,17 +387,6 @@
       "added_at": "2026-04-08T20:03:08.618965+00:00"
     },
     {
-      "tweet": "So apparently JD Vance is heading to Pakistan to talk to Iranian officials about a cease-fire. Sending him to negotiate peace after that whole mess is definitely a choice",
-      "original_url": "https://www.nytimes.com/2026/04/10/us/politics/iran-israel-lebanon-trump-talks.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "World Leaders Push to Save Iran Talks Amid Israel’s Attacks in Lebanon",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-11T01:26:59.581213+00:00"
-    },
-    {
       "tweet": "Democrats are slamming Pam Bondi for blowing off that Epstein hearing. It's crazy how subpoenas are just optional now",
       "original_url": "https://www.aljazeera.com/news/2026/4/9/democrats-in-us-slam-pam-bondi-for-refusing-to-appear-for-epstein-hearing?traffic_source=rss",
       "buzz_score": 80,
@@ -407,6 +396,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T22:23:59.524130+00:00"
+    },
+    {
+      "tweet": "So apparently JD Vance is heading to Pakistan to talk to Iranian officials about a cease-fire. Sending him to negotiate peace after that whole mess is definitely a choice",
+      "original_url": "https://www.nytimes.com/2026/04/10/us/politics/iran-israel-lebanon-trump-talks.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "World Leaders Push to Save Iran Talks Amid Israel’s Attacks in Lebanon",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-11T01:26:59.581213+00:00"
     },
     {
       "tweet": "Senegal's prime minister just called Trump an agent of global destabilization. Tell us how you really feel.",
@@ -506,28 +506,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-11T03:59:38.754471+00:00"
-    },
-    {
-      "tweet": "So those Artemis II guys finally made it back from the Moon. Took them 53 years to decide to go back.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/artemis-ii-astronauts-journey-back-to-earth-after-moon-mission?traffic_source=rss",
-      "buzz_score": 75,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "Title: Artemis II astronauts journey back to Earth after Moon mission",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-11T03:59:38.753285+00:00"
-    },
-    {
-      "tweet": "Iran officials are in Islamabad for ceasefire talks with the US today. We've been doing this dance for over a month now",
-      "original_url": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Iran war: What is happening on day 43 of the US-Iran conflict?",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-11T06:36:56.764425+00:00"
     },
     {
       "tweet": "Epic is apparently making a Disney-themed extraction shooter. Imagine getting taken out by Mickey.",
@@ -761,6 +739,28 @@
       "added_at": "2026-04-05T23:55:53.317370+00:00"
     },
     {
+      "tweet": "So those Artemis II guys finally made it back from the Moon. Took them 53 years to decide to go back.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/artemis-ii-astronauts-journey-back-to-earth-after-moon-mission?traffic_source=rss",
+      "buzz_score": 75,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Title: Artemis II astronauts journey back to Earth after Moon mission",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-11T03:59:38.753285+00:00"
+    },
+    {
+      "tweet": "Iran officials are in Islamabad for ceasefire talks with the US today. We've been doing this dance for over a month now",
+      "original_url": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Iran war: What is happening on day 43 of the US-Iran conflict?",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-11T06:36:56.764425+00:00"
+    },
+    {
       "tweet": "Apparently Amazon has a whole list of 'sexy but not too sexy' clothes now. We're all just trying to navigate the vibe check without looking like we're trying too hard",
       "original_url": "https://www.bustle.com/style/sexy-but-not-too-sexy-clothes-on-amazon-with-near-perfect-reviews",
       "buzz_score": 70,
@@ -825,39 +825,6 @@
       "source": "Deadline",
       "category": "entertainment",
       "added_at": "2026-04-05T23:55:53.317362+00:00"
-    },
-    {
-      "tweet": "Seeing 'nowhere is safe' trending on tech forums. I guess we're all just living in a panopticon now",
-      "original_url": "https://steveblank.com/2026/04/09/nowhere-is-safe/",
-      "buzz_score": 80,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Nowhere is safe",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-11T06:36:56.765036+00:00"
-    },
-    {
-      "tweet": "Orbán’s grip on Hungary is actually being tested by drone footage of zebras. The world is getting weird",
-      "original_url": "https://www.theguardian.com/news/ng-interactive/2026/apr/11/zebras-wealth-and-power-hungarys-election-tests-orbans-grip-on-power",
-      "buzz_score": 80,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Zebras, wealth and power: Hungary’s election tests Orbán’s grip on power",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-11T06:36:56.764673+00:00"
-    },
-    {
-      "tweet": "Wallen played to 75,000 people in Minneapolis last night. Wild how we're all just collectively obsessed with the same guy",
-      "original_url": "https://www.billboard.com/lists/morgan-wallens-setlist-opening-night-still-the-problem-tour/",
-      "buzz_score": 80,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Morgan Wallen’s U.S. Bank Stadium Setlist: Every Song From Opening Night of His Still The Problem Tour in Minneapolis",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-11T06:36:56.763869+00:00"
     },
     {
       "tweet": "This former Bethesda guy is out here saying they aren't making anything authentic at Microsoft anymore. Guess the magic's gone.",
@@ -1001,6 +968,39 @@
       "source": "Variety",
       "category": "entertainment",
       "added_at": "2026-04-10T04:22:35.263558+00:00"
+    },
+    {
+      "tweet": "Seeing 'nowhere is safe' trending on tech forums. I guess we're all just living in a panopticon now",
+      "original_url": "https://steveblank.com/2026/04/09/nowhere-is-safe/",
+      "buzz_score": 80,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Nowhere is safe",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-11T06:36:56.765036+00:00"
+    },
+    {
+      "tweet": "Orbán’s grip on Hungary is actually being tested by drone footage of zebras. The world is getting weird",
+      "original_url": "https://www.theguardian.com/news/ng-interactive/2026/apr/11/zebras-wealth-and-power-hungarys-election-tests-orbans-grip-on-power",
+      "buzz_score": 80,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Zebras, wealth and power: Hungary’s election tests Orbán’s grip on power",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-11T06:36:56.764673+00:00"
+    },
+    {
+      "tweet": "Wallen played to 75,000 people in Minneapolis last night. Wild how we're all just collectively obsessed with the same guy",
+      "original_url": "https://www.billboard.com/lists/morgan-wallens-setlist-opening-night-still-the-problem-tour/",
+      "buzz_score": 80,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Morgan Wallen’s U.S. Bank Stadium Setlist: Every Song From Opening Night of His Still The Problem Tour in Minneapolis",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-11T06:36:56.763869+00:00"
     },
     {
       "tweet": "Bruce Springsteen's partners are suing to stop knockoff merch at his Jersey show. Don't mess with the Boss.",
