@@ -2,28 +2,6 @@
   "last_collected": "2026-04-11T20:56:37.533758+00:00",
   "queue": [
     {
-      "tweet": "So Russia says they're doing a ceasefire, then they hit Odesa with drones anyway. That tracks.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/11/russian-drone-attacks-persist-despite-kremlins-easter-ceasefire-ukrainian-forces-say",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Russian drone attacks persist despite Kremlin’s Easter ceasefire, Ukrainian forces say",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-11T20:56:37.532744+00:00"
-    },
-    {
-      "tweet": "Everyone's losing it over this 17-year-old kid Rio Ngumoha after that Fulham game. Like, are we seriously gonna throw him in against PSG?",
-      "original_url": "https://www.bbc.com/sport/football/articles/cddqgqgyerjo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fortune favours the brave - will Slot start Ngumoha against PSG?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-11T20:56:37.532579+00:00"
-    },
-    {
       "tweet": "Dude, people are actually using ABBA songs as travel guides for Europe now. Like, we're all just chasing the same three songs to feel something. Whatever.",
       "original_url": "https://www.mentalfloss.com/entertainment/music/abba-songs-lyrical-travel-guides-europe?utm_source=RSS",
       "buzz_score": 75,
@@ -33,6 +11,17 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-11T20:56:37.532563+00:00"
+    },
+    {
+      "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "UK’s Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing St",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251727+00:00"
     },
     {
       "tweet": "If you’re still waiting for a Bloodborne sequel, check out this new game Tombwater. It’s basically that cosmic horror itch we’ve been needing.",
@@ -68,15 +57,15 @@
       "added_at": "2026-04-11T13:57:12.329235+00:00"
     },
     {
-      "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
-      "buzz_score": 95,
+      "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
+      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026",
+      "buzz_score": 90,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "UK’s Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing St",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251727+00:00"
+      "original_title": "📈 Ranking top men's hoops players in the portal",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
       "tweet": "Can't believe Magic the Gathering's Seventh Edition was 25 years ago. We’re getting old, man.",
@@ -90,15 +79,15 @@
       "added_at": "2026-04-11T13:57:12.329544+00:00"
     },
     {
-      "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
-      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026",
-      "buzz_score": 90,
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "📈 Ranking top men's hoops players in the portal",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-09T07:14:41.251481+00:00"
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "Joe Jonas is out here teaching masterclasses on the perfect Coachella day party. Like that's the priority right now.",
@@ -110,17 +99,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-11T18:28:31.085574+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "A literal wolf escaped the zoo in South Korea and they had to close the schools. Imagine showing up to class and hearing a wolf is on the loose.",
@@ -198,17 +176,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-11T11:33:17.227323+00:00"
-    },
-    {
-      "tweet": "Interview With the Vampire pretty much created the modern brooding vampire trope. I mean, Edward Cullen literally owes that book everything.",
-      "original_url": "https://www.mentalfloss.com/literature/books/books-wouldnt-exist-without-interview-with-the-vampire?utm_source=RSS",
-      "buzz_score": 72,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "4 Books That Wouldn’t Exist Without 'Interview With the Vampire'",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-11T18:28:31.087001+00:00"
     },
     {
       "tweet": "Did you see that own goal by Martim Fernandes? How do you even put the ball in your own net that badly?",
@@ -319,6 +286,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-08T17:48:49.217272+00:00"
+    },
+    {
+      "tweet": "Interview With the Vampire pretty much created the modern brooding vampire trope. I mean, Edward Cullen literally owes that book everything.",
+      "original_url": "https://www.mentalfloss.com/literature/books/books-wouldnt-exist-without-interview-with-the-vampire?utm_source=RSS",
+      "buzz_score": 72,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "4 Books That Wouldn’t Exist Without 'Interview With the Vampire'",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-11T18:28:31.087001+00:00"
     },
     {
       "tweet": "They're still firing whistleblowers at the NDIS after all that talk about protecting them. Seems about right.",
@@ -508,28 +486,6 @@
       "added_at": "2026-04-11T18:28:31.086257+00:00"
     },
     {
-      "tweet": "Some guy was just walking around Grand Central with a machete before police took him down. Just a normal Tuesday in New York.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/11/machete-wielding-man-shot-by-police-in-new-york-city-grand-central-station?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Machete-wielding man shot by police in New York City Grand Central station",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-11T16:24:36.534936+00:00"
-    },
-    {
-      "tweet": "They finally put Malcolm in the Middle back on streaming after twenty years. Makes you realize how fast we're all getting old.",
-      "original_url": "https://www.billboard.com/culture/product-recommendations/watch-malcolm-in-the-middle-lifes-still-unfair-online-1236220486/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "How to Watch ‘Malcolm in the Middle: Life’s Still Unfair’ Online",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-11T16:24:36.534385+00:00"
-    },
-    {
       "tweet": "The Hacks creators are already teasing a reboot after the finale. Can we just let a show end for once?",
       "original_url": "https://variety.com/2026/tv/news/hacks-cast-creators-never-say-never-future-reboot-1236712715/",
       "buzz_score": 70,
@@ -572,6 +528,28 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T16:56:43.712347+00:00"
+    },
+    {
+      "tweet": "Some guy was just walking around Grand Central with a machete before police took him down. Just a normal Tuesday in New York.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/11/machete-wielding-man-shot-by-police-in-new-york-city-grand-central-station?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Machete-wielding man shot by police in New York City Grand Central station",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-11T16:24:36.534936+00:00"
+    },
+    {
+      "tweet": "They finally put Malcolm in the Middle back on streaming after twenty years. Makes you realize how fast we're all getting old.",
+      "original_url": "https://www.billboard.com/culture/product-recommendations/watch-malcolm-in-the-middle-lifes-still-unfair-online-1236220486/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "How to Watch ‘Malcolm in the Middle: Life’s Still Unfair’ Online",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-11T16:24:36.534385+00:00"
     },
     {
       "tweet": "The Liberty just signed Satou Sabally and Jones to multiyear deals. They aren't messing around this time.",
@@ -651,28 +629,6 @@
       "added_at": "2026-04-11T18:28:31.086877+00:00"
     },
     {
-      "tweet": "Found this list of bougie Amazon stuff that’s actually cheap. It’s that specific kind of shopping where you buy things you don't need just to feel fancy.",
-      "original_url": "https://www.bustle.com/life/bougie-as-hell-things-on-amazon-that-are-so-damn-cheap",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "65 Bougie-As-Hell Things On Amazon That Are So Damn Cheap",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-04-11T13:57:12.330038+00:00"
-    },
-    {
-      "tweet": "Badenoch is saying the Tories are gonna bring back that two-child benefit cap if they get re-elected. Just straight up austerity vibes again.",
-      "original_url": "https://www.theguardian.com/politics/2026/apr/11/tories-reinstate-two-child-benefit-cap-fund-defence-kemi-badenoch",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Tories would reinstate two-child benefit cap to fund defence, says Badenoch",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-11T13:57:12.329252+00:00"
-    },
-    {
       "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 82,
@@ -706,6 +662,28 @@
       "added_at": "2026-04-08T20:03:08.618965+00:00"
     },
     {
+      "tweet": "Found this list of bougie Amazon stuff that’s actually cheap. It’s that specific kind of shopping where you buy things you don't need just to feel fancy.",
+      "original_url": "https://www.bustle.com/life/bougie-as-hell-things-on-amazon-that-are-so-damn-cheap",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "65 Bougie-As-Hell Things On Amazon That Are So Damn Cheap",
+      "source": "Bustle",
+      "category": "sex",
+      "added_at": "2026-04-11T13:57:12.330038+00:00"
+    },
+    {
+      "tweet": "Badenoch is saying the Tories are gonna bring back that two-child benefit cap if they get re-elected. Just straight up austerity vibes again.",
+      "original_url": "https://www.theguardian.com/politics/2026/apr/11/tories-reinstate-two-child-benefit-cap-fund-defence-kemi-badenoch",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Tories would reinstate two-child benefit cap to fund defence, says Badenoch",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-11T13:57:12.329252+00:00"
+    },
+    {
       "tweet": "Democrats are slamming Pam Bondi for blowing off that Epstein hearing. It's crazy how subpoenas are just optional now",
       "original_url": "https://www.aljazeera.com/news/2026/4/9/democrats-in-us-slam-pam-bondi-for-refusing-to-appear-for-epstein-hearing?traffic_source=rss",
       "buzz_score": 80,
@@ -726,39 +704,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-11T09:01:18.261834+00:00"
-    },
-    {
-      "tweet": "Don't bother spending over 50 bucks on a Switch 2 dock. Nintendo just likes to keep us guessing on accessories.",
-      "original_url": "https://www.theverge.com/gadgets/907645/nintendo-switch-2-genki-jsaux-usb-c-dock-hands-on",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "You don’t have to spend more than $50 on a great USB-C dock for your Switch 2",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-04-11T13:57:12.330297+00:00"
-    },
-    {
-      "tweet": "Hold on, the UK is starting a crackdown on EU citizens' rights after that whole HMRC fiasco. Seems like they're just making it up as they go.",
-      "original_url": "https://www.theguardian.com/politics/2026/apr/10/home-office-starts-crackdown-on-eu-citizens-post-brexit-rights-to-live-in-uk",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "UK starts crackdown on EU citizens’ post-Brexit rights",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-11T13:57:12.329254+00:00"
-    },
-    {
-      "tweet": "Coachella day one just happened and apparently John Summit and Sabrina Carpenter were the main event. Coachella brain rot is officially back.",
-      "original_url": "https://www.billboard.com/lists/coachella-2026-day-one-best-sabrina-carpenter-katseye/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sabrina Carpenter, KATSEYE, Turnstile, John Summit & More: Best Moments From Coachella 2026 Day 1",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-11T13:57:12.329244+00:00"
     },
     {
       "tweet": "Wembanyama hit 65 games and dropped 40 points like it's nothing. They really just made a cheat code and put him in the league",
@@ -838,26 +783,37 @@
       "added_at": "2026-04-08T15:44:16.953760+00:00"
     },
     {
-      "tweet": "A Quiet Place Part II is back on Netflix if you wanna be stressed out tonight. My heart can't take it.",
-      "original_url": "https://usa.newonnetflix.info/info/81186806",
-      "buzz_score": 75,
+      "tweet": "Don't bother spending over 50 bucks on a Switch 2 dock. Nintendo just likes to keep us guessing on accessories.",
+      "original_url": "https://www.theverge.com/gadgets/907645/nintendo-switch-2-genki-jsaux-usb-c-dock-hands-on",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "11th Apr: A Quiet Place Part II (2021), 1hr 38m [PG-13] - Streaming Again (6.6/10)",
-      "source": "New on Netflix",
-      "category": "entertainment",
-      "added_at": "2026-04-11T13:57:12.329792+00:00"
+      "original_title": "You don’t have to spend more than $50 on a great USB-C dock for your Switch 2",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-04-11T13:57:12.330297+00:00"
     },
     {
-      "tweet": "Stephon Castle is doing these watch brand deals now. It’s that point in the career where you realize you made it when you start tracking time with luxury pieces.",
-      "original_url": "https://hypebeast.com/2026/4/watches-of-switzerland-stephon-castle-career-in-watches",
-      "buzz_score": 75,
+      "tweet": "Hold on, the UK is starting a crackdown on EU citizens' rights after that whole HMRC fiasco. Seems like they're just making it up as they go.",
+      "original_url": "https://www.theguardian.com/politics/2026/apr/10/home-office-starts-crackdown-on-eu-citizens-post-brexit-rights-to-live-in-uk",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Stephon Castle Shows His Career Evolution With Timepieces from Watches of Switzerland",
-      "source": "Hypebeast",
+      "original_title": "UK starts crackdown on EU citizens’ post-Brexit rights",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-11T13:57:12.329254+00:00"
+    },
+    {
+      "tweet": "Coachella day one just happened and apparently John Summit and Sabrina Carpenter were the main event. Coachella brain rot is officially back.",
+      "original_url": "https://www.billboard.com/lists/coachella-2026-day-one-best-sabrina-carpenter-katseye/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sabrina Carpenter, KATSEYE, Turnstile, John Summit & More: Best Moments From Coachella 2026 Day 1",
+      "source": "Billboard",
       "category": "entertainment",
-      "added_at": "2026-04-11T13:57:12.329414+00:00"
+      "added_at": "2026-04-11T13:57:12.329244+00:00"
     },
     {
       "tweet": "Anyma's set at Coachella got canceled because of the wind. Just sitting in the desert waiting for a show that isn't happening.",
@@ -869,17 +825,6 @@
       "source": "Variety",
       "category": "entertainment",
       "added_at": "2026-04-11T09:01:18.262497+00:00"
-    },
-    {
-      "tweet": "Polygon is calling Critters a Gremlins knock-off. Honestly, that movie is just pure chaos.",
-      "original_url": "https://www.polygon.com/40-years-later-gremlins-knock-off-critters/",
-      "buzz_score": 70,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "Critters might be a Gremlins knock-off but it's B-movie magic",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-11T18:28:31.087125+00:00"
     },
     {
       "tweet": "China turned Lu Xun into a Disney-style mascot for the party. Imagine making a guy who hated your guts the face of your brand",
@@ -1034,6 +979,39 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-09T01:26:52.022248+00:00"
+    },
+    {
+      "tweet": "A Quiet Place Part II is back on Netflix if you wanna be stressed out tonight. My heart can't take it.",
+      "original_url": "https://usa.newonnetflix.info/info/81186806",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "11th Apr: A Quiet Place Part II (2021), 1hr 38m [PG-13] - Streaming Again (6.6/10)",
+      "source": "New on Netflix",
+      "category": "entertainment",
+      "added_at": "2026-04-11T13:57:12.329792+00:00"
+    },
+    {
+      "tweet": "Stephon Castle is doing these watch brand deals now. It’s that point in the career where you realize you made it when you start tracking time with luxury pieces.",
+      "original_url": "https://hypebeast.com/2026/4/watches-of-switzerland-stephon-castle-career-in-watches",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Stephon Castle Shows His Career Evolution With Timepieces from Watches of Switzerland",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-11T13:57:12.329414+00:00"
+    },
+    {
+      "tweet": "Polygon is calling Critters a Gremlins knock-off. Honestly, that movie is just pure chaos.",
+      "original_url": "https://www.polygon.com/40-years-later-gremlins-knock-off-critters/",
+      "buzz_score": 70,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Critters might be a Gremlins knock-off but it's B-movie magic",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-11T18:28:31.087125+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 277,
+    "total_posted": 279,
     "total_collected": 817
   },
-  "last_posted_at": "2026-04-11T21:04:41.897187+00:00"
+  "last_posted_at": "2026-04-11T21:30:12.034241+00:00"
 }
