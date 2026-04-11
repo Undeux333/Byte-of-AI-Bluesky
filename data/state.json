@@ -2,28 +2,6 @@
   "last_collected": "2026-04-11T22:58:13.460591+00:00",
   "queue": [
     {
-      "tweet": "Did you see Trump wants to build a 250-foot gold arch in D.C.? Because that’s exactly what the National Mall needs right now.",
-      "original_url": "https://www.npr.org/2026/04/11/nx-s1-5782027/trump-triumphal-arch-plans-architecture",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump touts newly released plans for D.C. triumphal arch",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-11T22:58:13.459156+00:00"
-    },
-    {
-      "tweet": "Washington officials finally figured out those 21 dead things on the beach were just foxes used as fishing bait. Weirdest mystery ever.",
-      "original_url": "https://www.theguardian.com/us-news/2026/apr/11/washington-dead-canines-foxes-found-washed-ashore",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Washington officials say 21 dead canines that washed ashore were foxes, solving local mystery",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-11T22:58:13.460087+00:00"
-    },
-    {
       "tweet": "Scheffler just dropped a 65 at the Masters. Guy is a robot.",
       "original_url": "https://www.espn.com/golf/story/_/id/48460687/scottie-scheffler-fires-masters-career-low-65-back-mix",
       "buzz_score": 80,
@@ -101,6 +79,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
       "tweet": "If you’re still waiting for a Bloodborne sequel, check out this new game Tombwater. It’s basically that cosmic horror itch we’ve been needing.",
       "original_url": "https://www.polygon.com/tombwater-impressions-2d-soulslike-bloodborne/",
       "buzz_score": 85,
@@ -132,17 +121,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-04-11T13:57:12.329235+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "A literal wolf escaped the zoo in South Korea and they had to close the schools. Imagine showing up to class and hearing a wolf is on the loose.",
@@ -198,17 +176,6 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-11T13:57:12.329544+00:00"
-    },
-    {
-      "tweet": "Joe Jonas is out here teaching masterclasses on the perfect Coachella day party. Like that's the priority right now.",
-      "original_url": "https://www.billboard.com/music/pop/joe-jonas-interview-coachella-day-club-aperol-1236218360/",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Joe Jonas on What Makes the Perfect Coachella Day Party, From Kid Cudi on the Playlist to an Aperol Spritz in Hand",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-11T18:28:31.085574+00:00"
     },
     {
       "tweet": "Israel is having a full row with South Korea because the president there said they don't reflect on any of the criticism. Yikes",
@@ -332,6 +299,17 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
+      "tweet": "Joe Jonas is out here teaching masterclasses on the perfect Coachella day party. Like that's the priority right now.",
+      "original_url": "https://www.billboard.com/music/pop/joe-jonas-interview-coachella-day-club-aperol-1236218360/",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Joe Jonas on What Makes the Perfect Coachella Day Party, From Kid Cudi on the Playlist to an Aperol Spritz in Hand",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-11T18:28:31.085574+00:00"
+    },
+    {
       "tweet": "Bruno Mars finally kicked off his tour in Vegas. It's been ten years, man. Ten years.",
       "original_url": "https://www.billboard.com/lists/bruno-mars-romantic-tour-las-vegas-best-moments/",
       "buzz_score": 75,
@@ -352,39 +330,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-11T22:58:13.459163+00:00"
-    },
-    {
-      "tweet": "Read this thing about how everything online is basically lies now. We're just scrolling through noise at this point.",
-      "original_url": "https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The future of everything is lies, I guess – Part 5: Annoyances",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-11T20:56:37.533383+00:00"
-    },
-    {
-      "tweet": "One Piece is on season 33 now. We're all gonna be retired before Luffy finds that treasure, man.",
-      "original_url": "https://usa.newonnetflix.info/info/80107103",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "11th Apr: One Piece (2026), 33 Seasons [TV-14] - New Episodes (7.5/10)",
-      "source": "New on Netflix",
-      "category": "entertainment",
-      "added_at": "2026-04-11T20:56:37.533137+00:00"
-    },
-    {
-      "tweet": "Karl Urban wants to be John Marston in a Red Dead movie. Honestly, I'm kind of into it.",
-      "original_url": "https://kotaku.com/karl-urban-wants-to-play-john-marston-in-a-red-dead-redemption-film-2000686877",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Karl Urban Wants To Play John Marston In A Red Dead Redemption Film",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-11T20:56:37.532872+00:00"
     },
     {
       "tweet": "Rory McIlroy is up by six shots at the Masters right now. He's literally playing a different game than everyone else out there",
@@ -464,6 +409,39 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
+      "tweet": "Read this thing about how everything online is basically lies now. We're just scrolling through noise at this point.",
+      "original_url": "https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The future of everything is lies, I guess – Part 5: Annoyances",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-11T20:56:37.533383+00:00"
+    },
+    {
+      "tweet": "One Piece is on season 33 now. We're all gonna be retired before Luffy finds that treasure, man.",
+      "original_url": "https://usa.newonnetflix.info/info/80107103",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "11th Apr: One Piece (2026), 33 Seasons [TV-14] - New Episodes (7.5/10)",
+      "source": "New on Netflix",
+      "category": "entertainment",
+      "added_at": "2026-04-11T20:56:37.533137+00:00"
+    },
+    {
+      "tweet": "Karl Urban wants to be John Marston in a Red Dead movie. Honestly, I'm kind of into it.",
+      "original_url": "https://kotaku.com/karl-urban-wants-to-play-john-marston-in-a-red-dead-redemption-film-2000686877",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Karl Urban Wants To Play John Marston In A Red Dead Redemption Film",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-11T20:56:37.532872+00:00"
+    },
+    {
       "tweet": "Bustle is really out here telling us to buy wacky home stuff to get cool. Like, that's just clutter.",
       "original_url": "https://www.bustle.com/shopping/wacky-things-for-your-home-that-are-so-damn-cool",
       "buzz_score": 70,
@@ -495,50 +473,6 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-11T18:28:31.087001+00:00"
-    },
-    {
-      "tweet": "They're still firing whistleblowers at the NDIS after all that talk about protecting them. Seems about right.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/11/ndis-job-workers-whistleblower-protections-ntwnfb",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Susan was forced out of a disability support job after speaking out. Are NDIS whistleblower laws still too weak?",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-11T20:56:37.533630+00:00"
-    },
-    {
-      "tweet": "Some guy on HackerNews actually installed every single Firefox extension. His browser is probably screaming.",
-      "original_url": "https://jack.cab/blog/every-firefox-extension",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Installing every* Firefox extension",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-11T20:56:37.533506+00:00"
-    },
-    {
-      "tweet": "Willie Mullins just won his third Grand National in a row. The dude is basically immortal at this point.",
-      "original_url": "https://www.bbc.com/sport/horse-racing/articles/cj40llvykz2o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "'The older I get, the more I enjoy it' - Mullins etches name in Aintree folklore",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-11T20:56:37.532581+00:00"
-    },
-    {
-      "tweet": "Dusty May already got a new deal at Michigan. They're locked in for years apparently.",
-      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48459116/dusty-agrees-new-deal-michigan-warde-manuel-says",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "May agrees to new deal, Michigan AD Manuel says",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T20:56:37.532577+00:00"
     },
     {
       "tweet": "The Hacks creators are already teasing a reboot after the finale. Can we just let a show end for once?",
@@ -583,6 +517,50 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T16:56:43.712347+00:00"
+    },
+    {
+      "tweet": "They're still firing whistleblowers at the NDIS after all that talk about protecting them. Seems about right.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/11/ndis-job-workers-whistleblower-protections-ntwnfb",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Susan was forced out of a disability support job after speaking out. Are NDIS whistleblower laws still too weak?",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-11T20:56:37.533630+00:00"
+    },
+    {
+      "tweet": "Some guy on HackerNews actually installed every single Firefox extension. His browser is probably screaming.",
+      "original_url": "https://jack.cab/blog/every-firefox-extension",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Installing every* Firefox extension",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-11T20:56:37.533506+00:00"
+    },
+    {
+      "tweet": "Willie Mullins just won his third Grand National in a row. The dude is basically immortal at this point.",
+      "original_url": "https://www.bbc.com/sport/horse-racing/articles/cj40llvykz2o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "'The older I get, the more I enjoy it' - Mullins etches name in Aintree folklore",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-11T20:56:37.532581+00:00"
+    },
+    {
+      "tweet": "Dusty May already got a new deal at Michigan. They're locked in for years apparently.",
+      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48459116/dusty-agrees-new-deal-michigan-warde-manuel-says",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "May agrees to new deal, Michigan AD Manuel says",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T20:56:37.532577+00:00"
     },
     {
       "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
@@ -684,39 +662,6 @@
       "added_at": "2026-04-11T16:24:36.534385+00:00"
     },
     {
-      "tweet": "The Liberty just signed Satou Sabally and Jones to multiyear deals. They aren't messing around this time.",
-      "original_url": "https://www.espn.com/wnba/story/_/id/48457874/all-star-satou-sabally-agrees-multiyear-deal-liberty",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Liberty signing Sabally, Jones to multiyear deals",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T18:28:31.086507+00:00"
-    },
-    {
-      "tweet": "Dearica Hamby is staying with the Sparks on a multiyear deal. Finally some good news for them.",
-      "original_url": "https://www.espn.com/wnba/story/_/id/48457914/sources-hamby-finalizing-multiyear-deal-remain-sparks",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sources: Hamby finalizing deal to remain in L.A.",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T18:28:31.086383+00:00"
-    },
-    {
-      "tweet": "Artemis II just finished that whole splashdown thing. Pretty wild to think we're actually doing that again.",
-      "original_url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Artemis II safely splashes down",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-11T18:28:31.085571+00:00"
-    },
-    {
       "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 82,
@@ -750,6 +695,39 @@
       "added_at": "2026-04-08T20:03:08.618965+00:00"
     },
     {
+      "tweet": "The Liberty just signed Satou Sabally and Jones to multiyear deals. They aren't messing around this time.",
+      "original_url": "https://www.espn.com/wnba/story/_/id/48457874/all-star-satou-sabally-agrees-multiyear-deal-liberty",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Liberty signing Sabally, Jones to multiyear deals",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T18:28:31.086507+00:00"
+    },
+    {
+      "tweet": "Dearica Hamby is staying with the Sparks on a multiyear deal. Finally some good news for them.",
+      "original_url": "https://www.espn.com/wnba/story/_/id/48457914/sources-hamby-finalizing-multiyear-deal-remain-sparks",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sources: Hamby finalizing deal to remain in L.A.",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T18:28:31.086383+00:00"
+    },
+    {
+      "tweet": "Artemis II just finished that whole splashdown thing. Pretty wild to think we're actually doing that again.",
+      "original_url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Artemis II safely splashes down",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-11T18:28:31.085571+00:00"
+    },
+    {
       "tweet": "Democrats are slamming Pam Bondi for blowing off that Epstein hearing. It's crazy how subpoenas are just optional now",
       "original_url": "https://www.aljazeera.com/news/2026/4/9/democrats-in-us-slam-pam-bondi-for-refusing-to-appear-for-epstein-hearing?traffic_source=rss",
       "buzz_score": 80,
@@ -759,6 +737,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T22:23:59.524130+00:00"
+    },
+    {
+      "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
+      "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 78,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Forged through foster care - Ulberg's path to UFC title shot",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-11T09:01:18.261834+00:00"
     },
     {
       "tweet": "So an appeals panel just ruled NFL teams didn't collude on those huge QB deals. Since when does the house ever rule against itself.",
@@ -781,28 +770,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-11T16:24:36.534379+00:00"
-    },
-    {
-      "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
-      "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 78,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Forged through foster care - Ulberg's path to UFC title shot",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-11T09:01:18.261834+00:00"
-    },
-    {
-      "tweet": "Nearly eighty thousand people turned out for that Red Roses game. That's a lot of people.",
-      "original_url": "https://www.bbc.com/sport/rugby-union/articles/cn8d1ejd727o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "England far from perfect but Red Roses machine marches on",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-11T18:28:31.086877+00:00"
     },
     {
       "tweet": "Wembanyama hit 65 games and dropped 40 points like it's nothing. They really just made a cheat code and put him in the league",
@@ -880,6 +847,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-08T15:44:16.953760+00:00"
+    },
+    {
+      "tweet": "Nearly eighty thousand people turned out for that Red Roses game. That's a lot of people.",
+      "original_url": "https://www.bbc.com/sport/rugby-union/articles/cn8d1ejd727o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "England far from perfect but Red Roses machine marches on",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-11T18:28:31.086877+00:00"
     },
     {
       "tweet": "Found this list of bougie Amazon stuff that’s actually cheap. It’s that specific kind of shopping where you buy things you don't need just to feel fancy.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 282,
+    "total_posted": 284,
     "total_collected": 833
   },
-  "last_posted_at": "2026-04-11T23:04:55.154184+00:00"
+  "last_posted_at": "2026-04-11T23:36:51.227405+00:00"
 }
