@@ -2,28 +2,6 @@
   "last_collected": "2026-04-11T18:28:31.087264+00:00",
   "queue": [
     {
-      "tweet": "Dragon Age: Inquisition servers are going offline later this month. Man, that was a core memory for a lot of us.",
-      "original_url": "https://kotaku.com/dragon-age-inquisition-servers-going-offline-later-this-month-2000686871",
-      "buzz_score": 85,
-      "buzz_score2": 93,
-      "rewrite_count": 0,
-      "original_title": "Dragon Age: Inquisition Servers Going Offline Later This Month",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-11T18:28:31.085731+00:00"
-    },
-    {
-      "tweet": "State Department just revoked the green cards of those three Iranian nationals. Looks like they're finally cleaning house.",
-      "original_url": "https://www.theguardian.com/us-news/2026/apr/11/state-department-revokes-green-cards-iran-arrests",
-      "buzz_score": 82,
-      "buzz_score2": 93,
-      "rewrite_count": 0,
-      "original_title": "US state department revokes green cards of three Iranian nationals it links to regime",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-11T18:28:31.086754+00:00"
-    },
-    {
       "tweet": "They're deporting the son of that prominent figure from the 1979 hostage crisis. Wild that it took this long.",
       "original_url": "https://www.nytimes.com/2026/04/11/us/politics/deportation-iranian-revolution.html",
       "buzz_score": 88,
@@ -79,17 +57,6 @@
       "added_at": "2026-04-11T13:57:12.329544+00:00"
     },
     {
-      "tweet": "Joe Jonas is out here teaching masterclasses on the perfect Coachella day party. Like that's the priority right now.",
-      "original_url": "https://www.billboard.com/music/pop/joe-jonas-interview-coachella-day-club-aperol-1236218360/",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Joe Jonas on What Makes the Perfect Coachella Day Party, From Kid Cudi on the Playlist to an Aperol Spritz in Hand",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-11T18:28:31.085574+00:00"
-    },
-    {
       "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
       "buzz_score": 95,
@@ -99,6 +66,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251727+00:00"
+    },
+    {
+      "tweet": "Joe Jonas is out here teaching masterclasses on the perfect Coachella day party. Like that's the priority right now.",
+      "original_url": "https://www.billboard.com/music/pop/joe-jonas-interview-coachella-day-club-aperol-1236218360/",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Joe Jonas on What Makes the Perfect Coachella Day Party, From Kid Cudi on the Playlist to an Aperol Spritz in Hand",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-11T18:28:31.085574+00:00"
     },
     {
       "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
@@ -112,17 +90,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Israel is having a full row with South Korea because the president there said they don't reflect on any of the criticism. Yikes",
-      "original_url": "https://www.aljazeera.com/news/2026/4/11/israel-in-row-with-south-korea-leader-over-palestinian-abuse-concerns?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Israel in row with South Korean leader over Palestinian abuse concerns",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-11T11:33:17.227323+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -132,6 +99,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Israel is having a full row with South Korea because the president there said they don't reflect on any of the criticism. Yikes",
+      "original_url": "https://www.aljazeera.com/news/2026/4/11/israel-in-row-with-south-korea-leader-over-palestinian-abuse-concerns?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Israel in row with South Korean leader over Palestinian abuse concerns",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-11T11:33:17.227323+00:00"
     },
     {
       "tweet": "Interview With the Vampire pretty much created the modern brooding vampire trope. I mean, Edward Cullen literally owes that book everything.",
@@ -176,17 +154,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
-    },
-    {
-      "tweet": "Tyson Fury is actually fighting Arslanbek Makhmudov on Netflix this month. Guess that's what we're doing Friday night.",
-      "original_url": "https://usa.newonnetflix.info/info/82699237",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "11th Apr: Tyson Fury vs. Arslanbek Makhmudov (2026), 4hr [TV-MA] (6/10)",
-      "source": "New on Netflix",
-      "category": "entertainment",
-      "added_at": "2026-04-11T18:28:31.085860+00:00"
     },
     {
       "tweet": "Did you see that own goal by Martim Fernandes? How do you even put the ball in your own net that badly?",
@@ -299,6 +266,17 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
+      "tweet": "Tyson Fury is actually fighting Arslanbek Makhmudov on Netflix this month. Guess that's what we're doing Friday night.",
+      "original_url": "https://usa.newonnetflix.info/info/82699237",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "11th Apr: Tyson Fury vs. Arslanbek Makhmudov (2026), 4hr [TV-MA] (6/10)",
+      "source": "New on Netflix",
+      "category": "entertainment",
+      "added_at": "2026-04-11T18:28:31.085860+00:00"
+    },
+    {
       "tweet": "Magic is finally dropping that cancelled Monster Hunter card in the new decks. Sometimes the stuff that gets cut is actually the best part.",
       "original_url": "https://www.polygon.com/monster-hunter-secret-lair-drakuseth-strixhaven/",
       "buzz_score": 78,
@@ -330,39 +308,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-11T16:24:36.534385+00:00"
-    },
-    {
-      "tweet": "The Liberty just signed Satou Sabally and Jones to multiyear deals. They aren't messing around this time.",
-      "original_url": "https://www.espn.com/wnba/story/_/id/48457874/all-star-satou-sabally-agrees-multiyear-deal-liberty",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Liberty signing Sabally, Jones to multiyear deals",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T18:28:31.086507+00:00"
-    },
-    {
-      "tweet": "Dearica Hamby is staying with the Sparks on a multiyear deal. Finally some good news for them.",
-      "original_url": "https://www.espn.com/wnba/story/_/id/48457914/sources-hamby-finalizing-multiyear-deal-remain-sparks",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sources: Hamby finalizing deal to remain in L.A.",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T18:28:31.086383+00:00"
-    },
-    {
-      "tweet": "Artemis II just finished that whole splashdown thing. Pretty wild to think we're actually doing that again.",
-      "original_url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Artemis II safely splashes down",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-11T18:28:31.085571+00:00"
     },
     {
       "tweet": "Rory McIlroy is up by six shots at the Masters right now. He's literally playing a different game than everyone else out there",
@@ -442,6 +387,39 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
+      "tweet": "The Liberty just signed Satou Sabally and Jones to multiyear deals. They aren't messing around this time.",
+      "original_url": "https://www.espn.com/wnba/story/_/id/48457874/all-star-satou-sabally-agrees-multiyear-deal-liberty",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Liberty signing Sabally, Jones to multiyear deals",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T18:28:31.086507+00:00"
+    },
+    {
+      "tweet": "Dearica Hamby is staying with the Sparks on a multiyear deal. Finally some good news for them.",
+      "original_url": "https://www.espn.com/wnba/story/_/id/48457914/sources-hamby-finalizing-multiyear-deal-remain-sparks",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sources: Hamby finalizing deal to remain in L.A.",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T18:28:31.086383+00:00"
+    },
+    {
+      "tweet": "Artemis II just finished that whole splashdown thing. Pretty wild to think we're actually doing that again.",
+      "original_url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Artemis II safely splashes down",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-11T18:28:31.085571+00:00"
+    },
+    {
       "tweet": "So an appeals panel just ruled NFL teams didn't collude on those huge QB deals. Since when does the house ever rule against itself.",
       "original_url": "https://www.espn.com/nfl/story/_/id/48456898/panel-rules-nflpa-says-not-enough-proof-collusion",
       "buzz_score": 80,
@@ -462,17 +440,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-11T16:24:36.534379+00:00"
-    },
-    {
-      "tweet": "Nearly eighty thousand people turned out for that Red Roses game. That's a lot of people.",
-      "original_url": "https://www.bbc.com/sport/rugby-union/articles/cn8d1ejd727o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "England far from perfect but Red Roses machine marches on",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-11T18:28:31.086877+00:00"
     },
     {
       "tweet": "The Hacks creators are already teasing a reboot after the finale. Can we just let a show end for once?",
@@ -519,6 +486,28 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "Nearly eighty thousand people turned out for that Red Roses game. That's a lot of people.",
+      "original_url": "https://www.bbc.com/sport/rugby-union/articles/cn8d1ejd727o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "England far from perfect but Red Roses machine marches on",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-11T18:28:31.086877+00:00"
+    },
+    {
+      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T03:59:38.753282+00:00"
+    },
+    {
       "tweet": "Found this list of bougie Amazon stuff that’s actually cheap. It’s that specific kind of shopping where you buy things you don't need just to feel fancy.",
       "original_url": "https://www.bustle.com/life/bougie-as-hell-things-on-amazon-that-are-so-damn-cheap",
       "buzz_score": 85,
@@ -541,15 +530,15 @@
       "added_at": "2026-04-11T13:57:12.329252+00:00"
     },
     {
-      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
-      "buzz_score": 88,
+      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 82,
       "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T03:59:38.753282+00:00"
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-08T04:12:50.486178+00:00"
     },
     {
       "tweet": "Don't bother spending over 50 bucks on a Switch 2 dock. Nintendo just likes to keep us guessing on accessories.",
@@ -585,17 +574,6 @@
       "added_at": "2026-04-11T13:57:12.329244+00:00"
     },
     {
-      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-08T04:12:50.486178+00:00"
-    },
-    {
       "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
       "original_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
       "buzz_score": 95,
@@ -629,6 +607,17 @@
       "added_at": "2026-04-09T22:23:59.524130+00:00"
     },
     {
+      "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
+      "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 78,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Forged through foster care - Ulberg's path to UFC title shot",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-11T09:01:18.261834+00:00"
+    },
+    {
       "tweet": "A Quiet Place Part II is back on Netflix if you wanna be stressed out tonight. My heart can't take it.",
       "original_url": "https://usa.newonnetflix.info/info/81186806",
       "buzz_score": 75,
@@ -660,17 +649,6 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-11T18:28:31.087125+00:00"
-    },
-    {
-      "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
-      "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 78,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Forged through foster care - Ulberg's path to UFC title shot",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-11T09:01:18.261834+00:00"
     },
     {
       "tweet": "Wembanyama hit 65 games and dropped 40 points like it's nothing. They really just made a cheat code and put him in the league",
@@ -783,17 +761,6 @@
       "added_at": "2026-04-11T11:33:17.226756+00:00"
     },
     {
-      "tweet": "Netflix dropped a Salish and Jordan Matter series. Kids are gonna eat this up, I guess.",
-      "original_url": "https://usa.newonnetflix.info/info/82738277",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "11th Apr: Salish & Jordan Matter (2026), 7 Episodes [TV-PG] (6/10)",
-      "source": "New on Netflix",
-      "category": "entertainment",
-      "added_at": "2026-04-11T13:57:12.329916+00:00"
-    },
-    {
       "tweet": "Anyma's set at Coachella got canceled because of the wind. Just sitting in the desert waiting for a show that isn't happening.",
       "original_url": "https://variety.com/2026/music/news/anyma-coachella-set-canceled-1236719446/",
       "buzz_score": 72,
@@ -803,6 +770,17 @@
       "source": "Variety",
       "category": "entertainment",
       "added_at": "2026-04-11T09:01:18.262497+00:00"
+    },
+    {
+      "tweet": "Netflix dropped a Salish and Jordan Matter series. Kids are gonna eat this up, I guess.",
+      "original_url": "https://usa.newonnetflix.info/info/82738277",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "11th Apr: Salish & Jordan Matter (2026), 7 Episodes [TV-PG] (6/10)",
+      "source": "New on Netflix",
+      "category": "entertainment",
+      "added_at": "2026-04-11T13:57:12.329916+00:00"
     },
     {
       "tweet": "China turned Lu Xun into a Disney-style mascot for the party. Imagine making a guy who hated your guts the face of your brand",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 272,
+    "total_posted": 274,
     "total_collected": 801
   },
-  "last_posted_at": "2026-04-11T19:17:10.320265+00:00"
+  "last_posted_at": "2026-04-11T19:58:10.521474+00:00"
 }
