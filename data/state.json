@@ -2,39 +2,6 @@
   "last_collected": "2026-04-11T09:01:18.263507+00:00",
   "queue": [
     {
-      "tweet": "Bro, they finally pulled the tarp off that new Ichiro statue in Seattle and the thing just snapped in half. Talk about a warm welcome.",
-      "original_url": "https://www.bbc.com/news/articles/c0rx4v5q701o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Baseball statue broken as it is unveiled in Seattle",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-11T09:01:18.261822+00:00"
-    },
-    {
-      "tweet": "So apparently J.D. Vance is heading to Pakistan for these peace talks. Just feels like we’re throwing random people into a blender at this point.",
-      "original_url": "https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Iranian Delegation Arrives at Peace Talks, With Vance en Route",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-11T09:01:18.261828+00:00"
-    },
-    {
-      "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
-      "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 78,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Forged through foster care - Ulberg's path to UFC title shot",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-11T09:01:18.261834+00:00"
-    },
-    {
       "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
       "buzz_score": 95,
@@ -46,15 +13,15 @@
       "added_at": "2026-04-09T07:14:41.251727+00:00"
     },
     {
-      "tweet": "Anyma's set at Coachella got canceled because of the wind. Just sitting in the desert waiting for a show that isn't happening.",
-      "original_url": "https://variety.com/2026/music/news/anyma-coachella-set-canceled-1236719446/",
-      "buzz_score": 72,
+      "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
+      "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 78,
       "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "Anyma’s Coachella Set Canceled Due to ‘Strong Wind Conditions’",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-11T09:01:18.262497+00:00"
+      "original_title": "Forged through foster care - Ulberg's path to UFC title shot",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-11T09:01:18.261834+00:00"
     },
     {
       "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
@@ -79,15 +46,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
-      "buzz_score": 88,
+      "tweet": "Anyma's set at Coachella got canceled because of the wind. Just sitting in the desert waiting for a show that isn't happening.",
+      "original_url": "https://variety.com/2026/music/news/anyma-coachella-set-canceled-1236719446/",
+      "buzz_score": 72,
       "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T03:59:38.753282+00:00"
+      "original_title": "Anyma’s Coachella Set Canceled Due to ‘Strong Wind Conditions’",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-11T09:01:18.262497+00:00"
     },
     {
       "tweet": "A literal wolf escaped the zoo in South Korea and they had to close the schools. Imagine showing up to class and hearing a wolf is on the loose.",
@@ -121,6 +88,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
+    },
+    {
+      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T03:59:38.753282+00:00"
     },
     {
       "tweet": "Wembanyama hit 65 games and dropped 40 points like it's nothing. They really just made a cheat code and put him in the league",
@@ -165,17 +143,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-11T01:26:59.581201+00:00"
-    },
-    {
-      "tweet": "Apparently you can't even trust macOS privacy settings anymore. What's the point of the switch if it doesn't do anything.",
-      "original_url": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
-      "buzz_score": 78,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "You can't trust macOS Privacy and Security settings",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-11T09:01:18.262889+00:00"
     },
     {
       "tweet": "Did you see that own goal by Martim Fernandes? How do you even put the ball in your own net that badly?",
@@ -288,6 +255,17 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
+      "tweet": "Apparently you can't even trust macOS privacy settings anymore. What's the point of the switch if it doesn't do anything.",
+      "original_url": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
+      "buzz_score": 78,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "You can't trust macOS Privacy and Security settings",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-11T09:01:18.262889+00:00"
+    },
+    {
       "tweet": "China turned Lu Xun into a Disney-style mascot for the party. Imagine making a guy who hated your guts the face of your brand",
       "original_url": "https://www.nytimes.com/2026/04/11/world/asia/lu-xun-chinese-writer-communist-mascot.html",
       "buzz_score": 85,
@@ -319,17 +297,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-11T09:01:18.261831+00:00"
-    },
-    {
-      "tweet": "Trying to quiz myself on classic rock bands and realized I don't know who wrote half the stuff I listen to. We just vibe with it.",
-      "original_url": "https://www.mentalfloss.com/quizzes/match-classic-rock-song-to-band?utm_source=RSS",
-      "buzz_score": 72,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Quiz: Can You Match These Classic Rock Songs to the Bands Who Wrote Them?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-11T09:01:18.263014+00:00"
     },
     {
       "tweet": "Scottie Scheffler actually posted a round over par at the Masters today. Even the best just have those days.",
@@ -387,6 +354,17 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
+      "tweet": "Trying to quiz myself on classic rock bands and realized I don't know who wrote half the stuff I listen to. We just vibe with it.",
+      "original_url": "https://www.mentalfloss.com/quizzes/match-classic-rock-song-to-band?utm_source=RSS",
+      "buzz_score": 72,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Quiz: Can You Match These Classic Rock Songs to the Bands Who Wrote Them?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-11T09:01:18.263014+00:00"
+    },
+    {
       "tweet": "Just saw someone made a 1D version of chess on HN. As if we needed to make losing in ten moves even faster.",
       "original_url": "https://rowan441.github.io/1dchess/chess.html",
       "buzz_score": 70,
@@ -396,17 +374,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-11T09:01:18.262765+00:00"
-    },
-    {
-      "tweet": "Israel just rejected that ceasefire talk ahead of the Lebanon meetings. Like, what are we even doing at the table then",
-      "original_url": "https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week?traffic_source=rss",
-      "buzz_score": 82,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "Israel rejects ceasefire with Hezbollah ahead of Lebanon talks next week",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-11T09:01:18.261992+00:00"
     },
     {
       "tweet": "The Hacks creators are already teasing a reboot after the finale. Can we just let a show end for once?",
@@ -453,6 +420,28 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "Israel just rejected that ceasefire talk ahead of the Lebanon meetings. Like, what are we even doing at the table then",
+      "original_url": "https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week?traffic_source=rss",
+      "buzz_score": 82,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Israel rejects ceasefire with Hezbollah ahead of Lebanon talks next week",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-11T09:01:18.261992+00:00"
+    },
+    {
+      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 82,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-08T04:12:50.486178+00:00"
+    },
+    {
       "tweet": "De Zerbi acting shocked that people didn't like his Mason Greenwood take. Man just stop talking.",
       "original_url": "https://www.bbc.com/sport/football/articles/cdxde1g4dvqo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -473,28 +462,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-11T03:59:38.753452+00:00"
-    },
-    {
-      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-08T04:12:50.486178+00:00"
-    },
-    {
-      "tweet": "Katseye is talking about how they'll definitely be back at Coachella. Bold claim for a group missing a member during their debut.",
-      "original_url": "https://www.rollingstone.com/music/music-news/katseye-coachella-2026-performance-1235543469/",
-      "buzz_score": 70,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "Katseye Promise There Will Be ‘Many More Coachella’ Appearances During Fest Debut",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-04-11T09:01:18.263137+00:00"
     },
     {
       "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
@@ -528,6 +495,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T22:23:59.524130+00:00"
+    },
+    {
+      "tweet": "Katseye is talking about how they'll definitely be back at Coachella. Bold claim for a group missing a member during their debut.",
+      "original_url": "https://www.rollingstone.com/music/music-news/katseye-coachella-2026-performance-1235543469/",
+      "buzz_score": 70,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Katseye Promise There Will Be ‘Many More Coachella’ Appearances During Fest Debut",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-04-11T09:01:18.263137+00:00"
     },
     {
       "tweet": "Senegal's prime minister just called Trump an agent of global destabilization. Tell us how you really feel.",
@@ -849,28 +827,6 @@
       "added_at": "2026-04-05T23:55:53.317370+00:00"
     },
     {
-      "tweet": "RMIT just dropped that case against the student who called them out. They probably realized they didn't want the headache of a massive public fight",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/11/rmit-drops-misconduct-case-student-gaza-claims-ntwnfb",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "RMIT drops misconduct case against student who accused university of being ‘complicit in Gaza genocide’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-11T01:26:59.581219+00:00"
-    },
-    {
-      "tweet": "Iran’s embassies in Africa are out here full-blown trolling Trump on Twitter. We’re living in a simulation.",
-      "original_url": "https://www.nytimes.com/2026/04/10/world/africa/iran-south-africa-trump-war-ceasefire.html",
-      "buzz_score": 78,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "Iran’s South Africa Mission Trolls Trump Amid Hormuz Ceasefire",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-11T03:59:38.754471+00:00"
-    },
-    {
       "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
       "original_url": "https://variety.com/2026/film/reviews/faces-of-death-review-1236706326/",
       "buzz_score": 82,
@@ -893,15 +849,15 @@
       "added_at": "2026-04-05T23:55:53.317362+00:00"
     },
     {
-      "tweet": "So those Artemis II guys finally made it back from the Moon. Took them 53 years to decide to go back.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/artemis-ii-astronauts-journey-back-to-earth-after-moon-mission?traffic_source=rss",
+      "tweet": "RMIT just dropped that case against the student who called them out. They probably realized they didn't want the headache of a massive public fight",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/11/rmit-drops-misconduct-case-student-gaza-claims-ntwnfb",
       "buzz_score": 75,
-      "buzz_score2": 88,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Title: Artemis II astronauts journey back to Earth after Moon mission",
-      "source": "Al Jazeera",
+      "original_title": "RMIT drops misconduct case against student who accused university of being ‘complicit in Gaza genocide’",
+      "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-04-11T03:59:38.753285+00:00"
+      "added_at": "2026-04-11T01:26:59.581219+00:00"
     },
     {
       "tweet": "Crispin Odey just dropped that massive libel claim against the FT. Guess he realized he wasn't gonna win that one.",
@@ -1023,6 +979,28 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-04-10T10:16:53.217905+00:00"
+    },
+    {
+      "tweet": "Iran’s embassies in Africa are out here full-blown trolling Trump on Twitter. We’re living in a simulation.",
+      "original_url": "https://www.nytimes.com/2026/04/10/world/africa/iran-south-africa-trump-war-ceasefire.html",
+      "buzz_score": 78,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Iran’s South Africa Mission Trolls Trump Amid Hormuz Ceasefire",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-11T03:59:38.754471+00:00"
+    },
+    {
+      "tweet": "So those Artemis II guys finally made it back from the Moon. Took them 53 years to decide to go back.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/artemis-ii-astronauts-journey-back-to-earth-after-moon-mission?traffic_source=rss",
+      "buzz_score": 75,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Title: Artemis II astronauts journey back to Earth after Moon mission",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-11T03:59:38.753285+00:00"
     },
     {
       "tweet": "Iran officials are in Islamabad for ceasefire talks with the US today. We've been doing this dance for over a month now",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 254,
+    "total_posted": 256,
     "total_collected": 740
   },
-  "last_posted_at": "2026-04-11T09:11:07.541337+00:00"
+  "last_posted_at": "2026-04-11T10:01:06.013862+00:00"
 }
