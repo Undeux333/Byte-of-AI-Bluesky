@@ -2,28 +2,6 @@
   "last_collected": "2026-04-10T22:55:06.227202+00:00",
   "queue": [
     {
-      "tweet": "Bro, researchers in Uganda say chimps have been in a literal civil war for eight years now. They’re really just out there living like it’s Game of Thrones.",
-      "original_url": "https://www.bbc.com/news/articles/cr71lkzv49po",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-10T22:55:06.225632+00:00"
-    },
-    {
-      "tweet": "Bath just came back from 21 points down to beat Northampton. That was a classic.",
-      "original_url": "https://www.bbc.com/sport/rugby-union/articles/cr51zgy91y9o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Bath fightback stuns Northampton in quarter-final classic",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-10T22:55:06.226572+00:00"
-    },
-    {
       "tweet": "Scottie Scheffler actually posted a round over par at the Masters today. Even the best just have those days.",
       "original_url": "https://www.espn.com/golf/story/_/id/48450992/scottie-scheffler-posts-2-74-2nd-round-masters",
       "buzz_score": 75,
@@ -266,39 +244,6 @@
       "added_at": "2026-04-10T22:55:06.225644+00:00"
     },
     {
-      "tweet": "Epic is apparently making a Disney-themed extraction shooter. Imagine getting taken out by Mickey.",
-      "original_url": "https://kotaku.com/epic-is-reportedly-making-a-disney-themed-extraction-shooter-2000686749",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Epic Is Reportedly Making A Disney-Themed Extraction Shooter",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-10T20:07:01.034102+00:00"
-    },
-    {
-      "tweet": "So this fifteen-year-old kid in the IPL just hit a fifty off fifteen balls. That’s just stupid fast.",
-      "original_url": "https://www.bbc.com/sport/cricket/articles/cdxk46dzewxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Teenager Suryavanshi smashes 15-ball fifty in IPL",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-10T20:07:01.033754+00:00"
-    },
-    {
-      "tweet": "Lebanon is saying they won’t even sit down for talks with Israel unless a ceasefire is already locked in. Honestly, they’re just skipping the middleman.",
-      "original_url": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Lebanon says ceasefire must be in place before Israel talks",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-10T20:07:01.033600+00:00"
-    },
-    {
       "tweet": "Elliot Cadeau just won Most Outstanding Player and is already saying he's back with the Wolverines. Bro doesn't even want a vacation.",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48443335/star-pg-elliot-cadeau-return-senior-season-michigan",
       "buzz_score": 75,
@@ -341,6 +286,39 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T12:09:23.834019+00:00"
+    },
+    {
+      "tweet": "Epic is apparently making a Disney-themed extraction shooter. Imagine getting taken out by Mickey.",
+      "original_url": "https://kotaku.com/epic-is-reportedly-making-a-disney-themed-extraction-shooter-2000686749",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Epic Is Reportedly Making A Disney-Themed Extraction Shooter",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-10T20:07:01.034102+00:00"
+    },
+    {
+      "tweet": "So this fifteen-year-old kid in the IPL just hit a fifty off fifteen balls. That’s just stupid fast.",
+      "original_url": "https://www.bbc.com/sport/cricket/articles/cdxk46dzewxo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Teenager Suryavanshi smashes 15-ball fifty in IPL",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-10T20:07:01.033754+00:00"
+    },
+    {
+      "tweet": "Lebanon is saying they won’t even sit down for talks with Israel unless a ceasefire is already locked in. Honestly, they’re just skipping the middleman.",
+      "original_url": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Lebanon says ceasefire must be in place before Israel talks",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-10T20:07:01.033600+00:00"
     },
     {
       "tweet": "Got some new stuff on Netflix and Apple TV this weekend. Finally got something to watch.",
@@ -387,28 +365,6 @@
       "added_at": "2026-04-10T22:55:06.225646+00:00"
     },
     {
-      "tweet": "This former Bethesda guy is out here saying they aren't making anything authentic at Microsoft anymore. Guess the magic's gone.",
-      "original_url": "https://kotaku.com/ex-bethesda-exec-says-the-elder-scrolls-6-maker-isnt-part-of-something-genuine-or-authentic-at-microsoft-2000686743",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Ex-Bethesda Exec Says The Elder Scrolls 6 Maker Isn’t Part Of Something ‘Genuine’ Or ‘Authentic’ At Microsoft",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-10T20:07:01.033987+00:00"
-    },
-    {
-      "tweet": "Kelsey Mitchell just signed that 1.4 million supermax deal to stay with the Fever. She’s really getting paid.",
-      "original_url": "https://www.espn.com/wnba/story/_/id/48450282/source-kelsey-mitchell-sign-14m-supermax-deal-fever",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Source: Mitchell to ink supermax deal with Fever",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-10T20:07:01.033610+00:00"
-    },
-    {
       "tweet": "The Hacks creators are already teasing a reboot after the finale. Can we just let a show end for once?",
       "original_url": "https://variety.com/2026/tv/news/hacks-cast-creators-never-say-never-future-reboot-1236712715/",
       "buzz_score": 70,
@@ -453,15 +409,26 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
-      "tweet": "Edgehill finally hit number one on Billboard with that Doubletake track. You know when a song just hits right and suddenly everyone’s blasting it everywhere.",
-      "original_url": "https://www.billboard.com/music/chart-beat/edgehill-doubletake-number-1-alternative-airplay-1236220226/",
-      "buzz_score": 70,
+      "tweet": "This former Bethesda guy is out here saying they aren't making anything authentic at Microsoft anymore. Guess the magic's gone.",
+      "original_url": "https://kotaku.com/ex-bethesda-exec-says-the-elder-scrolls-6-maker-isnt-part-of-something-genuine-or-authentic-at-microsoft-2000686743",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Edgehill Scores First Billboard No. 1 as ‘Doubletake’ Tops Alternative Airplay",
-      "source": "Billboard",
+      "original_title": "Ex-Bethesda Exec Says The Elder Scrolls 6 Maker Isn’t Part Of Something ‘Genuine’ Or ‘Authentic’ At Microsoft",
+      "source": "Kotaku",
       "category": "entertainment",
-      "added_at": "2026-04-10T20:07:01.033605+00:00"
+      "added_at": "2026-04-10T20:07:01.033987+00:00"
+    },
+    {
+      "tweet": "Kelsey Mitchell just signed that 1.4 million supermax deal to stay with the Fever. She’s really getting paid.",
+      "original_url": "https://www.espn.com/wnba/story/_/id/48450282/source-kelsey-mitchell-sign-14m-supermax-deal-fever",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Source: Mitchell to ink supermax deal with Fever",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-10T20:07:01.033610+00:00"
     },
     {
       "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
@@ -497,6 +464,17 @@
       "added_at": "2026-04-08T20:03:08.618965+00:00"
     },
     {
+      "tweet": "Edgehill finally hit number one on Billboard with that Doubletake track. You know when a song just hits right and suddenly everyone’s blasting it everywhere.",
+      "original_url": "https://www.billboard.com/music/chart-beat/edgehill-doubletake-number-1-alternative-airplay-1236220226/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Edgehill Scores First Billboard No. 1 as ‘Doubletake’ Tops Alternative Airplay",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-10T20:07:01.033605+00:00"
+    },
+    {
       "tweet": "Democrats are slamming Pam Bondi for blowing off that Epstein hearing. It's crazy how subpoenas are just optional now",
       "original_url": "https://www.aljazeera.com/news/2026/4/9/democrats-in-us-slam-pam-bondi-for-refusing-to-appear-for-epstein-hearing?traffic_source=rss",
       "buzz_score": 80,
@@ -506,39 +484,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T22:23:59.524130+00:00"
-    },
-    {
-      "tweet": "Orbán and Magyar are just accusing each other of foreign interference now. Standard.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/10/viktor-orban-peter-magyar-hungary-election-campaign",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Orbán and Magyar trade accusations in last days of Hungary election campaign",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-10T17:32:58.044260+00:00"
-    },
-    {
-      "tweet": "Starmer is already looking for new allies because he's fed up with Trump. That special relationship is going great.",
-      "original_url": "https://www.nytimes.com/2026/04/10/world/europe/trump-starmer-fed-up-iran-war.html",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘I’m Fed Up.’ Frustrated With Trump, Starmer Embraces Other Allies.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-10T17:32:58.043203+00:00"
-    },
-    {
-      "tweet": "Did you see that macOS privacy settings don't actually do what they say? It's just a toggle that feels good.",
-      "original_url": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "You can't trust macOS Privacy and Security settings",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-10T17:32:58.043197+00:00"
     },
     {
       "tweet": "Senegal's prime minister just called Trump an agent of global destabilization. Tell us how you really feel.",
@@ -607,6 +552,39 @@
       "added_at": "2026-04-08T15:44:16.953760+00:00"
     },
     {
+      "tweet": "Orbán and Magyar are just accusing each other of foreign interference now. Standard.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/10/viktor-orban-peter-magyar-hungary-election-campaign",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Orbán and Magyar trade accusations in last days of Hungary election campaign",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-10T17:32:58.044260+00:00"
+    },
+    {
+      "tweet": "Starmer is already looking for new allies because he's fed up with Trump. That special relationship is going great.",
+      "original_url": "https://www.nytimes.com/2026/04/10/world/europe/trump-starmer-fed-up-iran-war.html",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘I’m Fed Up.’ Frustrated With Trump, Starmer Embraces Other Allies.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-10T17:32:58.043203+00:00"
+    },
+    {
+      "tweet": "Did you see that macOS privacy settings don't actually do what they say? It's just a toggle that feels good.",
+      "original_url": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "You can't trust macOS Privacy and Security settings",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-10T17:32:58.043197+00:00"
+    },
+    {
       "tweet": "Gold Dancer got put down after winning that race at Aintree. Man, that’s just brutal",
       "original_url": "https://www.bbc.com/sport/horse-racing/articles/c3v614gk1g4o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -627,39 +605,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-04-10T15:31:13.378855+00:00"
-    },
-    {
-      "tweet": "A court finally said those guys deported to Eswatini get to see a lawyer. Nine months later.",
-      "original_url": "https://www.theguardian.com/us-news/2026/apr/10/trump-administration-deport-men-eswatini-court-rule",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Four men deported by US to Eswatini have right to see lawyer, court rules",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-10T17:32:58.044136+00:00"
-    },
-    {
-      "tweet": "Kilauea is just blasting lava into the sky again. That volcano doesn't care.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/hawaiis-kilauea-erupts-blasting-lava-sky-high?traffic_source=rss",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hawaii’s Kilauea erupts, blasting lava sky-high",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-10T17:32:58.043886+00:00"
-    },
-    {
-      "tweet": "Iran is demanding their blocked assets back before they even show up for peace talks. Classic.",
-      "original_url": "https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon/a-senior-iranian-official-says-blocked-assets-must-be-released-before-talks-with-the-us-can-begin",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran Demands Release of ‘Blocked Assets’ Before Peace Talks",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-10T17:32:58.043205+00:00"
     },
     {
       "tweet": "Six months into this ceasefire and the situation in Gaza is somehow even worse. Is it even a ceasefire at this point",
@@ -860,15 +805,37 @@
       "added_at": "2026-04-05T23:55:53.317370+00:00"
     },
     {
-      "tweet": "Anitta had to apologize for stealing Sarah Sherman’s lunch from the SNL fridge again. Like, imagine being that hungry in 30 Rock",
-      "original_url": "https://www.billboard.com/culture/tv-film/anitta-apologizes-sarah-sherman-lunch-snl-promo-colman-domingo-1236219800/",
-      "buzz_score": 75,
+      "tweet": "A court finally said those guys deported to Eswatini get to see a lawyer. Nine months later.",
+      "original_url": "https://www.theguardian.com/us-news/2026/apr/10/trump-administration-deport-men-eswatini-court-rule",
+      "buzz_score": 70,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Anitta Apologizes, Again, For Snagging Sarah Sherman’s Lunch From ‘SNL’ Fridge in Promo For Colman Domingo-Hosted Episode",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-10T15:31:13.378860+00:00"
+      "original_title": "Four men deported by US to Eswatini have right to see lawyer, court rules",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-10T17:32:58.044136+00:00"
+    },
+    {
+      "tweet": "Kilauea is just blasting lava into the sky again. That volcano doesn't care.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/hawaiis-kilauea-erupts-blasting-lava-sky-high?traffic_source=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hawaii’s Kilauea erupts, blasting lava sky-high",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-10T17:32:58.043886+00:00"
+    },
+    {
+      "tweet": "Iran is demanding their blocked assets back before they even show up for peace talks. Classic.",
+      "original_url": "https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon/a-senior-iranian-official-says-blocked-assets-must-be-released-before-talks-with-the-us-can-begin",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iran Demands Release of ‘Blocked Assets’ Before Peace Talks",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-10T17:32:58.043205+00:00"
     },
     {
       "tweet": "Reviewers are saying the killer in the new Faces of Death is just part of the attention economy. We're really out here commodifying everything.",
@@ -891,6 +858,17 @@
       "source": "Deadline",
       "category": "entertainment",
       "added_at": "2026-04-05T23:55:53.317362+00:00"
+    },
+    {
+      "tweet": "Anitta had to apologize for stealing Sarah Sherman’s lunch from the SNL fridge again. Like, imagine being that hungry in 30 Rock",
+      "original_url": "https://www.billboard.com/culture/tv-film/anitta-apologizes-sarah-sherman-lunch-snl-promo-colman-domingo-1236219800/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Anitta Apologizes, Again, For Snagging Sarah Sherman’s Lunch From ‘SNL’ Fridge in Promo For Colman Domingo-Hosted Episode",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-10T15:31:13.378860+00:00"
     },
     {
       "tweet": "Nick Lachey said his label gave 98 Degrees a literal age of consent guide for every state. The nineties were a different planet, man.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 241,
+    "total_posted": 243,
     "total_collected": 682
   },
-  "last_posted_at": "2026-04-10T23:30:51.587335+00:00"
+  "last_posted_at": "2026-04-11T00:03:26.692215+00:00"
 }
