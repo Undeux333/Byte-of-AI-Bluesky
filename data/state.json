@@ -2,28 +2,6 @@
   "last_collected": "2026-04-12T10:08:04.133833+00:00",
   "queue": [
     {
-      "tweet": "Found some guy running multiple 10k a month companies on a 20 dollar tech stack. Makes you wonder why we're out here stressing about overhead",
-      "original_url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "I run multiple $10K MRR companies on a $20/month tech stack",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-12T10:08:04.132491+00:00"
-    },
-    {
-      "tweet": "Dude, Ulberg knocked out Jiri to take the belt while Trump was sitting right there. Surreal.",
-      "original_url": "https://www.aljazeera.com/sports/2026/4/12/ufc-327-ulberg-wins-light-heavyweight-belt-with-knockout-in-front-of-trump?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "UFC 327: Ulberg wins light-heavyweight belt with knockout in front of Trump",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-12T07:57:09.630986+00:00"
-    },
-    {
       "tweet": "Did you hear about those chimpanzees in Uganda? They've been locked in an eight-year civil war. Brutal.",
       "original_url": "https://www.bbc.com/news/articles/cr71lkzv49po",
       "buzz_score": 80,
@@ -134,6 +112,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
       "tweet": "Everyone's saying that Wireless booking Kanye West was a massive house of cards. They really didn't see that coming",
       "original_url": "https://www.theguardian.com/news/ng-interactive/2026/apr/12/a-house-of-cards-how-did-wireless-festival-get-it-so-wrong-on-kanye-west",
       "buzz_score": 85,
@@ -154,17 +143,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-12T10:08:04.132506+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "If you’re still waiting for a Bloodborne sequel, check out this new game Tombwater. It’s basically that cosmic horror itch we’ve been needing.",
@@ -497,17 +475,6 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "Saw a map of which states have the most billionaires. It's basically a map of where all the money actually went.",
-      "original_url": "https://www.mentalfloss.com/geography/maps/states-created-most-billionaires?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "These States Have Created the Most Billionaires—See the Map",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-12T07:57:09.631512+00:00"
-    },
-    {
       "tweet": "The Hacks creators are already teasing a reboot after the finale. Can we just let a show end for once?",
       "original_url": "https://variety.com/2026/tv/news/hacks-cast-creators-never-say-never-future-reboot-1236712715/",
       "buzz_score": 70,
@@ -552,6 +519,17 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "Saw a map of which states have the most billionaires. It's basically a map of where all the money actually went.",
+      "original_url": "https://www.mentalfloss.com/geography/maps/states-created-most-billionaires?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "These States Have Created the Most Billionaires—See the Map",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-12T07:57:09.631512+00:00"
+    },
+    {
       "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
       "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
       "buzz_score": 88,
@@ -572,28 +550,6 @@
       "source": "Variety",
       "category": "entertainment",
       "added_at": "2026-04-12T05:13:07.528680+00:00"
-    },
-    {
-      "tweet": "Israel just approved 34 new settlements in the West Bank. Like they're just not even pretending anymore",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank?traffic_source=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Palestinians appalled as Israel approves settlements in occupied West Bank",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-12T02:32:59.107054+00:00"
-    },
-    {
-      "tweet": "So apparently Hungarians are finally voting on that whole Orbán thing today. 16 years is a long time to keep one person in charge",
-      "original_url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hungarians decide whether to end 16 years of Orbán rule and elect rival",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-12T02:32:59.106860+00:00"
     },
     {
       "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
@@ -627,6 +583,61 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-08T20:03:08.618965+00:00"
+    },
+    {
+      "tweet": "Joe Jonas is out here teaching masterclasses on the perfect Coachella day party. Like that's the priority right now.",
+      "original_url": "https://www.billboard.com/music/pop/joe-jonas-interview-coachella-day-club-aperol-1236218360/",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Joe Jonas on What Makes the Perfect Coachella Day Party, From Kid Cudi on the Playlist to an Aperol Spritz in Hand",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-11T18:28:31.085574+00:00"
+    },
+    {
+      "tweet": "Democrats are slamming Pam Bondi for blowing off that Epstein hearing. It's crazy how subpoenas are just optional now",
+      "original_url": "https://www.aljazeera.com/news/2026/4/9/democrats-in-us-slam-pam-bondi-for-refusing-to-appear-for-epstein-hearing?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Democrats in US slam Pam Bondi for refusing to appear for Epstein hearing",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-09T22:23:59.524130+00:00"
+    },
+    {
+      "tweet": "Israel just approved 34 new settlements in the West Bank. Like they're just not even pretending anymore",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank?traffic_source=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Palestinians appalled as Israel approves settlements in occupied West Bank",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-12T02:32:59.107054+00:00"
+    },
+    {
+      "tweet": "So apparently Hungarians are finally voting on that whole Orbán thing today. 16 years is a long time to keep one person in charge",
+      "original_url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hungarians decide whether to end 16 years of Orbán rule and elect rival",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-12T02:32:59.106860+00:00"
+    },
+    {
+      "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
+      "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 78,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Forged through foster care - Ulberg's path to UFC title shot",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-11T09:01:18.261834+00:00"
     },
     {
       "tweet": "So the court says the White House can keep building that ballroom for now. Apparently 300 million just happens",
@@ -671,39 +682,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-12T05:13:07.528024+00:00"
-    },
-    {
-      "tweet": "Joe Jonas is out here teaching masterclasses on the perfect Coachella day party. Like that's the priority right now.",
-      "original_url": "https://www.billboard.com/music/pop/joe-jonas-interview-coachella-day-club-aperol-1236218360/",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Joe Jonas on What Makes the Perfect Coachella Day Party, From Kid Cudi on the Playlist to an Aperol Spritz in Hand",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-11T18:28:31.085574+00:00"
-    },
-    {
-      "tweet": "Democrats are slamming Pam Bondi for blowing off that Epstein hearing. It's crazy how subpoenas are just optional now",
-      "original_url": "https://www.aljazeera.com/news/2026/4/9/democrats-in-us-slam-pam-bondi-for-refusing-to-appear-for-epstein-hearing?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Democrats in US slam Pam Bondi for refusing to appear for Epstein hearing",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-09T22:23:59.524130+00:00"
-    },
-    {
-      "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
-      "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 78,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Forged through foster care - Ulberg's path to UFC title shot",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-11T09:01:18.261834+00:00"
     },
     {
       "tweet": "So we're clearing mines in the Strait of Hormuz while talks are ongoing? Nothing like a little light work during a peace summit.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 300,
+    "total_posted": 302,
     "total_collected": 890
   },
-  "last_posted_at": "2026-04-12T10:13:55.373625+00:00"
+  "last_posted_at": "2026-04-12T11:03:24.640464+00:00"
 }
