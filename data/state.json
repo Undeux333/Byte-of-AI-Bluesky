@@ -2,28 +2,6 @@
   "last_collected": "2026-04-12T10:08:04.133833+00:00",
   "queue": [
     {
-      "tweet": "Did you hear about those chimpanzees in Uganda? They've been locked in an eight-year civil war. Brutal.",
-      "original_url": "https://www.bbc.com/news/articles/cr71lkzv49po",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-12T07:57:09.630688+00:00"
-    },
-    {
-      "tweet": "The universe is apparently expanding way faster than we thought and nobody knows why. Are we just missing something huge?",
-      "original_url": "https://www.sciencedaily.com/releases/2026/04/260411022025.htm",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Universe is expanding too fast and scientists still can’t explain it",
-      "source": "ScienceDaily",
-      "category": "science",
-      "added_at": "2026-04-12T07:57:09.631760+00:00"
-    },
-    {
       "tweet": "Guy Fieri put out a list of the best mac and cheese spots. I mean, we're all just chasing that comfort food high anyway.",
       "original_url": "https://www.mentalfloss.com/food/restaurants/best-mac-and-cheese-restaurants-guy-fieri?utm_source=RSS",
       "buzz_score": 75,
@@ -68,17 +46,6 @@
       "added_at": "2026-04-12T02:32:59.106863+00:00"
     },
     {
-      "tweet": "So apparently those US-Iran talks in Pakistan just went nowhere. Vance is already heading home like it's just another meeting that didn't work out",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/watch-jd-vances-full-remarks-after-us-iran-talks-end-without-deal?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Watch JD Vance’s full remarks after US-Iran talks end without deal",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-12T05:13:07.528027+00:00"
-    },
-    {
       "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
       "buzz_score": 95,
@@ -90,15 +57,15 @@
       "added_at": "2026-04-09T07:14:41.251727+00:00"
     },
     {
-      "tweet": "Bro, just found this game Starfling that's literally one single file. How does a whole game fit in one HTML page tho",
-      "original_url": "https://playstarfling.com",
-      "buzz_score": 85,
+      "tweet": "So apparently those US-Iran talks in Pakistan just went nowhere. Vance is already heading home like it's just another meeting that didn't work out",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/watch-jd-vances-full-remarks-after-us-iran-talks-end-without-deal?traffic_source=rss",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-12T02:32:59.106854+00:00"
+      "original_title": "Watch JD Vance’s full remarks after US-Iran talks end without deal",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-12T05:13:07.528027+00:00"
     },
     {
       "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
@@ -112,6 +79,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Bro, just found this game Starfling that's literally one single file. How does a whole game fit in one HTML page tho",
+      "original_url": "https://playstarfling.com",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-12T02:32:59.106854+00:00"
+    },
+    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -121,28 +99,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Everyone's saying that Wireless booking Kanye West was a massive house of cards. They really didn't see that coming",
-      "original_url": "https://www.theguardian.com/news/ng-interactive/2026/apr/12/a-house-of-cards-how-did-wireless-festival-get-it-so-wrong-on-kanye-west",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘A house of cards’: how did Wireless festival get it so wrong on Kanye West?",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-12T10:08:04.132817+00:00"
-    },
-    {
-      "tweet": "South Korea has a world-class medical system but people are getting rejected from dozens of ERs. That's a system failure",
-      "original_url": "https://www.nytimes.com/2026/04/12/world/asia/south-korea-emergency-room-medical-crisis.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Rejected by Dozens of Emergency Rooms: South Korea’s Medical Crisis",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-12T10:08:04.132506+00:00"
     },
     {
       "tweet": "If you’re still waiting for a Bloodborne sequel, check out this new game Tombwater. It’s basically that cosmic horror itch we’ve been needing.",
@@ -211,37 +167,26 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Read about those toys with creepy backstories. Ruins the whole childhood vibe",
-      "original_url": "https://www.mentalfloss.com/fun/toys/childrens-toys-disturbing-backstories?utm_source=RSS",
-      "buzz_score": 80,
+      "tweet": "Everyone's saying that Wireless booking Kanye West was a massive house of cards. They really didn't see that coming",
+      "original_url": "https://www.theguardian.com/news/ng-interactive/2026/apr/12/a-house-of-cards-how-did-wireless-festival-get-it-so-wrong-on-kanye-west",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "8 Children’s Toys With Disturbing Backstories",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-12T10:08:04.133318+00:00"
+      "original_title": "‘A house of cards’: how did Wireless festival get it so wrong on Kanye West?",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-12T10:08:04.132817+00:00"
     },
     {
-      "tweet": "Searching for mug warmers because coffee has to be hot or it's not worth drinking. We really are obsessed",
-      "original_url": "https://www.wired.com/story/best-coffee-warmers-and-mug-warmers/",
-      "buzz_score": 80,
+      "tweet": "South Korea has a world-class medical system but people are getting rejected from dozens of ERs. That's a system failure",
+      "original_url": "https://www.nytimes.com/2026/04/12/world/asia/south-korea-emergency-room-medical-crisis.html",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "The 3 Best Mug Warmers of 2026: Better Than the Ember Mug?",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-04-12T10:08:04.133068+00:00"
-    },
-    {
-      "tweet": "Hold on, they just ruled that 158-year-old ban on home distilling is unconstitutional. About time",
-      "original_url": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-12T10:08:04.132498+00:00"
+      "original_title": "Rejected by Dozens of Emergency Rooms: South Korea’s Medical Crisis",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-12T10:08:04.132506+00:00"
     },
     {
       "tweet": "Can't believe Magic the Gathering's Seventh Edition was 25 years ago. We’re getting old, man.",
@@ -374,6 +319,39 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-08T17:48:49.217272+00:00"
+    },
+    {
+      "tweet": "Read about those toys with creepy backstories. Ruins the whole childhood vibe",
+      "original_url": "https://www.mentalfloss.com/fun/toys/childrens-toys-disturbing-backstories?utm_source=RSS",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "8 Children’s Toys With Disturbing Backstories",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-12T10:08:04.133318+00:00"
+    },
+    {
+      "tweet": "Searching for mug warmers because coffee has to be hot or it's not worth drinking. We really are obsessed",
+      "original_url": "https://www.wired.com/story/best-coffee-warmers-and-mug-warmers/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The 3 Best Mug Warmers of 2026: Better Than the Ember Mug?",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-04-12T10:08:04.133068+00:00"
+    },
+    {
+      "tweet": "Hold on, they just ruled that 158-year-old ban on home distilling is unconstitutional. About time",
+      "original_url": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-12T10:08:04.132498+00:00"
     },
     {
       "tweet": "Fury finally fought again and beat Makhmudov. Already calling out Joshua, too. Can't help himself.",
@@ -519,17 +497,6 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
-      "tweet": "Saw a map of which states have the most billionaires. It's basically a map of where all the money actually went.",
-      "original_url": "https://www.mentalfloss.com/geography/maps/states-created-most-billionaires?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "These States Have Created the Most Billionaires—See the Map",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-12T07:57:09.631512+00:00"
-    },
-    {
       "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
       "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
       "buzz_score": 88,
@@ -541,15 +508,15 @@
       "added_at": "2026-04-11T03:59:38.753282+00:00"
     },
     {
-      "tweet": "Colman Domingo roasting Euphoria fans on SNL was hilarious. Everyone knows exactly who he's talking about",
-      "original_url": "https://variety.com/2026/tv/news/colman-domingo-snl-monologue-1236719677/",
-      "buzz_score": 80,
+      "tweet": "Saw a map of which states have the most billionaires. It's basically a map of where all the money actually went.",
+      "original_url": "https://www.mentalfloss.com/geography/maps/states-created-most-billionaires?utm_source=RSS",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Colman Domingo Sets the ‘Vibe’ in ‘SNL’ Monologue, Jokes About ‘Creepy’ ‘Euphoria’ Viewers",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-12T05:13:07.528680+00:00"
+      "original_title": "These States Have Created the Most Billionaires—See the Map",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-12T07:57:09.631512+00:00"
     },
     {
       "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
@@ -585,6 +552,17 @@
       "added_at": "2026-04-08T20:03:08.618965+00:00"
     },
     {
+      "tweet": "Colman Domingo roasting Euphoria fans on SNL was hilarious. Everyone knows exactly who he's talking about",
+      "original_url": "https://variety.com/2026/tv/news/colman-domingo-snl-monologue-1236719677/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Colman Domingo Sets the ‘Vibe’ in ‘SNL’ Monologue, Jokes About ‘Creepy’ ‘Euphoria’ Viewers",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-12T05:13:07.528680+00:00"
+    },
+    {
       "tweet": "Joe Jonas is out here teaching masterclasses on the perfect Coachella day party. Like that's the priority right now.",
       "original_url": "https://www.billboard.com/music/pop/joe-jonas-interview-coachella-day-club-aperol-1236218360/",
       "buzz_score": 80,
@@ -607,6 +585,17 @@
       "added_at": "2026-04-09T22:23:59.524130+00:00"
     },
     {
+      "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
+      "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 78,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Forged through foster care - Ulberg's path to UFC title shot",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-11T09:01:18.261834+00:00"
+    },
+    {
       "tweet": "Israel just approved 34 new settlements in the West Bank. Like they're just not even pretending anymore",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank?traffic_source=rss",
       "buzz_score": 88,
@@ -627,61 +616,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-12T02:32:59.106860+00:00"
-    },
-    {
-      "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
-      "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 78,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Forged through foster care - Ulberg's path to UFC title shot",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-11T09:01:18.261834+00:00"
-    },
-    {
-      "tweet": "So the court says the White House can keep building that ballroom for now. Apparently 300 million just happens",
-      "original_url": "https://www.npr.org/2026/04/11/nx-s1-5782084/dc-appeals-court-trump-ballroom-bunker",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "White House ballroom construction can continue for now, appeals court says",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-12T05:13:07.529561+00:00"
-    },
-    {
-      "tweet": "Imagine getting locked up for singing love songs in Vietnam. Dude's still doing it tho",
-      "original_url": "https://www.nytimes.com/2026/04/12/world/asia/vietnam-singer-prisoner.html",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Jailed for Love Songs? Yes, and Still Singing.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-12T05:13:07.529073+00:00"
-    },
-    {
-      "tweet": "Nine Inch Nails did an entire set of remixes at Coachella. We're all just getting older, man",
-      "original_url": "https://www.rollingstone.com/music/music-news/nine-inch-noize-performance-coachella-2026-1235543497/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Nine Inch Noize Performed a Full Set for the First Time at Coachella",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-04-12T05:13:07.528434+00:00"
-    },
-    {
-      "tweet": "Dude, Carlos Ulberg just won the title after blowing out his knee. How is that even possible",
-      "original_url": "https://www.espn.com/mma/story/_/id/48463277/badly-hobbled-ulberg-stuns-prochazka-wild-ko-ufc-327",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Badly hobbled, Ulberg KO's Prochazka to win title",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-12T05:13:07.528024+00:00"
     },
     {
       "tweet": "So we're clearing mines in the Strait of Hormuz while talks are ongoing? Nothing like a little light work during a peace summit.",
@@ -772,48 +706,48 @@
       "added_at": "2026-04-08T15:44:16.953760+00:00"
     },
     {
-      "tweet": "They just figured out atomic-scale memory storage. We're living in the future now",
-      "original_url": "https://zenodo.org/records/19513269",
-      "buzz_score": 70,
+      "tweet": "So the court says the White House can keep building that ballroom for now. Apparently 300 million just happens",
+      "original_url": "https://www.npr.org/2026/04/11/nx-s1-5782084/dc-appeals-court-trump-ballroom-bunker",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-12T05:13:07.529317+00:00"
-    },
-    {
-      "tweet": "Coachella is already falling apart with those Anyma cancelations. Classic",
-      "original_url": "https://www.bbc.com/news/articles/cpwjnvrpn8eo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Coachella kicks off with Sabrina Carpenter and surprise guests",
-      "source": "BBC World",
+      "original_title": "White House ballroom construction can continue for now, appeals court says",
+      "source": "NPR News",
       "category": "world",
-      "added_at": "2026-04-12T05:13:07.528950+00:00"
+      "added_at": "2026-04-12T05:13:07.529561+00:00"
     },
     {
-      "tweet": "Anyma is out here posting apologies for his Coachella set being canceled by wind. Like he controls the weather tho",
-      "original_url": "https://variety.com/2026/music/news/anyma-canceled-coachella-set-1236719652/",
-      "buzz_score": 70,
+      "tweet": "Imagine getting locked up for singing love songs in Vietnam. Dude's still doing it tho",
+      "original_url": "https://www.nytimes.com/2026/04/12/world/asia/vietnam-singer-prisoner.html",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Anyma Says He’s ‘Truly Devastated and Deeply Sorry’ Following Canceled Coachella Set: ‘I’m Working on a Solution’",
-      "source": "Variety",
+      "original_title": "Jailed for Love Songs? Yes, and Still Singing.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-12T05:13:07.529073+00:00"
+    },
+    {
+      "tweet": "Nine Inch Nails did an entire set of remixes at Coachella. We're all just getting older, man",
+      "original_url": "https://www.rollingstone.com/music/music-news/nine-inch-noize-performance-coachella-2026-1235543497/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Nine Inch Noize Performed a Full Set for the First Time at Coachella",
+      "source": "Rolling Stone",
       "category": "entertainment",
-      "added_at": "2026-04-12T05:13:07.528558+00:00"
+      "added_at": "2026-04-12T05:13:07.528434+00:00"
     },
     {
-      "tweet": "Amazon and Flipkart are basically just crushing every small quick commerce startup in India. It's just how the game works now",
-      "original_url": "https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/",
-      "buzz_score": 70,
+      "tweet": "Dude, Carlos Ulberg just won the title after blowing out his knee. How is that even possible",
+      "original_url": "https://www.espn.com/mma/story/_/id/48463277/badly-hobbled-ulberg-stuns-prochazka-wild-ko-ufc-327",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-04-12T05:13:07.528181+00:00"
+      "original_title": "Badly hobbled, Ulberg KO's Prochazka to win title",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-12T05:13:07.528024+00:00"
     },
     {
       "tweet": "Interview With the Vampire pretty much created the modern brooding vampire trope. I mean, Edward Cullen literally owes that book everything.",
@@ -1001,6 +935,50 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-09T10:02:44.429739+00:00"
+    },
+    {
+      "tweet": "They just figured out atomic-scale memory storage. We're living in the future now",
+      "original_url": "https://zenodo.org/records/19513269",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-12T05:13:07.529317+00:00"
+    },
+    {
+      "tweet": "Coachella is already falling apart with those Anyma cancelations. Classic",
+      "original_url": "https://www.bbc.com/news/articles/cpwjnvrpn8eo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Coachella kicks off with Sabrina Carpenter and surprise guests",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-12T05:13:07.528950+00:00"
+    },
+    {
+      "tweet": "Anyma is out here posting apologies for his Coachella set being canceled by wind. Like he controls the weather tho",
+      "original_url": "https://variety.com/2026/music/news/anyma-canceled-coachella-set-1236719652/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Anyma Says He’s ‘Truly Devastated and Deeply Sorry’ Following Canceled Coachella Set: ‘I’m Working on a Solution’",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-12T05:13:07.528558+00:00"
+    },
+    {
+      "tweet": "Amazon and Flipkart are basically just crushing every small quick commerce startup in India. It's just how the game works now",
+      "original_url": "https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-04-12T05:13:07.528181+00:00"
     },
     {
       "tweet": "There is a Tinkatink event in Pokémon Go today. We're still doing this, aren't we",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 302,
+    "total_posted": 304,
     "total_collected": 890
   },
-  "last_posted_at": "2026-04-12T11:03:24.640464+00:00"
+  "last_posted_at": "2026-04-12T11:38:34.768372+00:00"
 }
