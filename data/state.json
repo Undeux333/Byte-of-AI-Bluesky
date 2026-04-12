@@ -2,28 +2,6 @@
   "last_collected": "2026-04-12T19:57:32.532169+00:00",
   "queue": [
     {
-      "tweet": "Did you see that stampede in Haiti at the fortress? Over a social media personality. People are wild.",
-      "original_url": "https://www.nytimes.com/2026/04/12/world/americas/haiti-stampede-citadelle-laferriere-deaths.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mass Stampede at Haitian Tourist Site Leaves Dozens Dead",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-12T19:57:32.530925+00:00"
-    },
-    {
-      "tweet": "Maximilian Dood is dropping ten grand just to get rollback netcode for Marvel vs. Capcom 3. That's a hell of a way to spend your own money.",
-      "original_url": "https://kotaku.com/maximilian-dood-puts-10-grand-incentive-on-marvel-vs-capcom-3-rollback-netcode-2000686991",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Maximilian Dood Puts $10 Grand Incentive On Marvel Vs. Capcom 3 Rollback Netcode",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-12T19:57:32.530368+00:00"
-    },
-    {
       "tweet": "Britain might just adopt EU rules without even voting on it. So much for that whole thing.",
       "original_url": "https://www.theguardian.com/politics/2026/apr/12/britain-single-market-rules-uk-eu-reset",
       "buzz_score": 85,
@@ -112,17 +90,6 @@
       "added_at": "2026-04-09T07:14:41.251727+00:00"
     },
     {
-      "tweet": "People are already finding ways to exploit those new AI agent benchmarks. We really don't change at all.",
-      "original_url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Exploiting the most prominent AI agent benchmarks",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-12T19:57:32.531546+00:00"
-    },
-    {
       "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
       "original_url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
       "buzz_score": 92,
@@ -134,15 +101,15 @@
       "added_at": "2026-04-12T02:32:59.106863+00:00"
     },
     {
-      "tweet": "K-pop albums are everywhere on the Billboard 200 now. It's actually wild how far that's come.",
-      "original_url": "https://www.billboard.com/lists/k-pop-albums-number-one-billboard-200-albums-full-list/",
-      "buzz_score": 72,
+      "tweet": "People are already finding ways to exploit those new AI agent benchmarks. We really don't change at all.",
+      "original_url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "buzz_score": 75,
       "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "Here Are All the K-Pop Albums That Have Topped the Billboard 200: Full List",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-12T19:57:32.531923+00:00"
+      "original_title": "Exploiting the most prominent AI agent benchmarks",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-12T19:57:32.531546+00:00"
     },
     {
       "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
@@ -154,6 +121,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "K-pop albums are everywhere on the Billboard 200 now. It's actually wild how far that's come.",
+      "original_url": "https://www.billboard.com/lists/k-pop-albums-number-one-billboard-200-albums-full-list/",
+      "buzz_score": 72,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Here Are All the K-Pop Albums That Have Topped the Billboard 200: Full List",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-12T19:57:32.531923+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -242,17 +220,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
-    },
-    {
-      "tweet": "Steven Soderbergh said he felt obligated to use AI for that John Lennon doc. Since when do we need machines to tell us what a guy sounded like",
-      "original_url": "https://kotaku.com/steven-soderbergh-says-he-felt-obligated-to-use-ai-on-john-lennon-documentary-2000686984",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Steven Soderbergh Says He Felt “Obligated” To Use AI On John Lennon Documentary",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-12T17:51:52.289439+00:00"
     },
     {
       "tweet": "So apparently those US-Iran talks in Pakistan just went nowhere. Vance is already heading home like it's just another meeting that didn't work out",
@@ -398,6 +365,17 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
+      "tweet": "Steven Soderbergh said he felt obligated to use AI for that John Lennon doc. Since when do we need machines to tell us what a guy sounded like",
+      "original_url": "https://kotaku.com/steven-soderbergh-says-he-felt-obligated-to-use-ai-on-john-lennon-documentary-2000686984",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Steven Soderbergh Says He Felt “Obligated” To Use AI On John Lennon Documentary",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-12T17:51:52.289439+00:00"
+    },
+    {
       "tweet": "Seeing Morgan Wallen and Taylor Swift top the country charts just makes you realize how weird music is now.",
       "original_url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
       "buzz_score": 75,
@@ -418,28 +396,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-12T19:57:32.530660+00:00"
-    },
-    {
-      "tweet": "So apparently the Nigerian air force just hit a market in Yobe state and killed a hundred people. They’re calling it a misfire like that makes it okay.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/12/nigeria-airstrike-market-yobe-state-boko-haram",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Nigerian airstrike targeting jihadists reportedly kills at least 100 civilians",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-12T17:51:52.289047+00:00"
-    },
-    {
-      "tweet": "Tom Dumont just dropped that he has Parkinson’s. It’s always the ones you grew up listening to that remind you everything is temporary.",
-      "original_url": "https://www.billboard.com/music/music-news/tom-dumont-no-doubt-parkinsons-disease-diagnosis-1236221183/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "No Doubt’s Tom Dumont Reveals Early Onset Parkinson’s Disease Diagnosis: ‘It’s Been a Struggle’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-12T17:51:52.288748+00:00"
     },
     {
       "tweet": "Man, UFC 327 was wild. Ulberg blew out his knee and Jiri blew his title shot by being too nice. Absolute chaos.",
@@ -552,6 +508,28 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
+      "tweet": "So apparently the Nigerian air force just hit a market in Yobe state and killed a hundred people. They’re calling it a misfire like that makes it okay.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/12/nigeria-airstrike-market-yobe-state-boko-haram",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Nigerian airstrike targeting jihadists reportedly kills at least 100 civilians",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-12T17:51:52.289047+00:00"
+    },
+    {
+      "tweet": "Tom Dumont just dropped that he has Parkinson’s. It’s always the ones you grew up listening to that remind you everything is temporary.",
+      "original_url": "https://www.billboard.com/music/music-news/tom-dumont-no-doubt-parkinsons-disease-diagnosis-1236221183/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "No Doubt’s Tom Dumont Reveals Early Onset Parkinson’s Disease Diagnosis: ‘It’s Been a Struggle’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-12T17:51:52.288748+00:00"
+    },
+    {
       "tweet": "Reading through the best 90s sci-fi movies. Nothing from today hits the same.",
       "original_url": "https://www.mentalfloss.com/entertainment/movies/best-sci-fi-movie-every-year-1990s?utm_source=RSS",
       "buzz_score": 70,
@@ -583,39 +561,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-12T19:57:32.531424+00:00"
-    },
-    {
-      "tweet": "Hold on, influencers already have the new Xbox swag. They’re literally handing out the future before we can even buy the present.",
-      "original_url": "https://kotaku.com/next-gen-xbox-swag-has-already-begun-circulating-with-influencers-project-helix-2000686887",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Next Gen Xbox Swag Has Already Begun Circulating With Influencers",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-12T17:51:52.289308+00:00"
-    },
-    {
-      "tweet": "Seeing Cristian Romero crying after that Tottenham game is tough. Is this really how we’re gonna remember their whole season",
-      "original_url": "https://www.bbc.com/sport/football/articles/ce8lnjd7n4po?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Will Romero's tears become the enduring image of Tottenham's season?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-12T17:51:52.288912+00:00"
-    },
-    {
-      "tweet": "Man, Asha Bhosle died at 92. It’s wild thinking about how one voice can be the actual soundtrack for someone’s entire life.",
-      "original_url": "https://www.nytimes.com/2026/04/12/world/asia/asha-bhosle-india-singer-bollywood.html",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Asha Bhosle, One of India’s Most Beloved Singers, Dies at 92",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-12T17:51:52.288720+00:00"
     },
     {
       "tweet": "The Hacks creators are already teasing a reboot after the finale. Can we just let a show end for once?",
@@ -662,6 +607,50 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "Hold on, influencers already have the new Xbox swag. They’re literally handing out the future before we can even buy the present.",
+      "original_url": "https://kotaku.com/next-gen-xbox-swag-has-already-begun-circulating-with-influencers-project-helix-2000686887",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Next Gen Xbox Swag Has Already Begun Circulating With Influencers",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-12T17:51:52.289308+00:00"
+    },
+    {
+      "tweet": "Seeing Cristian Romero crying after that Tottenham game is tough. Is this really how we’re gonna remember their whole season",
+      "original_url": "https://www.bbc.com/sport/football/articles/ce8lnjd7n4po?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Will Romero's tears become the enduring image of Tottenham's season?",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-12T17:51:52.288912+00:00"
+    },
+    {
+      "tweet": "Man, Asha Bhosle died at 92. It’s wild thinking about how one voice can be the actual soundtrack for someone’s entire life.",
+      "original_url": "https://www.nytimes.com/2026/04/12/world/asia/asha-bhosle-india-singer-bollywood.html",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Asha Bhosle, One of India’s Most Beloved Singers, Dies at 92",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-12T17:51:52.288720+00:00"
+    },
+    {
+      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T03:59:38.753282+00:00"
+    },
+    {
       "tweet": "Albanese is out here asking Israel to stop the attacks during a ceasefire. That’s how you know the whole thing is broken.",
       "original_url": "https://www.theguardian.com/australia-news/2026/apr/13/anthony-albanese-urges-israel-to-stop-lebanon-attacks-that-intensified-during-middle-east-ceasefire",
       "buzz_score": 80,
@@ -695,17 +684,6 @@
       "added_at": "2026-04-12T15:50:47.586490+00:00"
     },
     {
-      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T03:59:38.753282+00:00"
-    },
-    {
       "tweet": "So apparently Iran thinks the US was just trying to dictate during those talks. Guess we're still pretending that approach works.",
       "original_url": "https://www.nytimes.com/2026/04/12/world/middleeast/iran-united-states-negotiations.html",
       "buzz_score": 85,
@@ -715,6 +693,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-12T13:33:24.514596+00:00"
+    },
+    {
+      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 82,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-08T04:12:50.486178+00:00"
     },
     {
       "tweet": "Thousands just swarmed the port in Barcelona for that flotilla headed to Gaza. It’s getting real over there.",
@@ -748,28 +737,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-12T15:50:47.586496+00:00"
-    },
-    {
-      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-08T04:12:50.486178+00:00"
-    },
-    {
-      "tweet": "Trying to build a SaaS in 2026 using only EU infrastructure. Sounds like a headache.",
-      "original_url": "https://eualternative.eu/guides/building-saas-eu-stack/",
-      "buzz_score": 70,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "Building a SaaS in 2026 Using Only EU Infrastructure",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-12T19:57:32.531667+00:00"
     },
     {
       "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
@@ -816,6 +783,28 @@
       "added_at": "2026-04-09T22:23:59.524130+00:00"
     },
     {
+      "tweet": "Trying to build a SaaS in 2026 using only EU infrastructure. Sounds like a headache.",
+      "original_url": "https://eualternative.eu/guides/building-saas-eu-stack/",
+      "buzz_score": 70,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Building a SaaS in 2026 Using Only EU Infrastructure",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-12T19:57:32.531667+00:00"
+    },
+    {
+      "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
+      "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 78,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Forged through foster care - Ulberg's path to UFC title shot",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-11T09:01:18.261834+00:00"
+    },
+    {
       "tweet": "Takamoto Katsuta just took the lead in the WRC after that wild ending in Croatia. Total chaos.",
       "original_url": "https://www.bbc.com/sport/motorsport/articles/c0lejwg36e7o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -836,17 +825,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-12T13:33:24.514600+00:00"
-    },
-    {
-      "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
-      "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 78,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Forged through foster care - Ulberg's path to UFC title shot",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-11T09:01:18.261834+00:00"
     },
     {
       "tweet": "So we're clearing mines in the Strait of Hormuz while talks are ongoing? Nothing like a little light work during a peace summit.",
@@ -937,28 +915,6 @@
       "added_at": "2026-04-08T15:44:16.953760+00:00"
     },
     {
-      "tweet": "Laura Blindkilde Brown said she likes proving the doubters wrong at City. That's the only motivation that actually keeps people going.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cx24r575y9po?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "I like proving the doubters wrong, says England's Blindkilde Brown",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-12T13:33:24.514603+00:00"
-    },
-    {
-      "tweet": "USWNT just snagged their 10th straight win against Japan. Ten in a row, man.",
-      "original_url": "https://www.espn.com/soccer/story/_/id/48460994/rose-lavelle-usa-japan-lindsey-heaps-friendly-soccer",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hayes hails U.S. evolution after 10th straight win",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-12T13:33:24.514598+00:00"
-    },
-    {
       "tweet": "Israel just approved 34 new settlements in the West Bank. Like they're just not even pretending anymore",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank?traffic_source=rss",
       "buzz_score": 88,
@@ -979,6 +935,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-12T02:32:59.106860+00:00"
+    },
+    {
+      "tweet": "Laura Blindkilde Brown said she likes proving the doubters wrong at City. That's the only motivation that actually keeps people going.",
+      "original_url": "https://www.bbc.com/sport/football/articles/cx24r575y9po?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "I like proving the doubters wrong, says England's Blindkilde Brown",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-12T13:33:24.514603+00:00"
+    },
+    {
+      "tweet": "USWNT just snagged their 10th straight win against Japan. Ten in a row, man.",
+      "original_url": "https://www.espn.com/soccer/story/_/id/48460994/rose-lavelle-usa-japan-lindsey-heaps-friendly-soccer",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hayes hails U.S. evolution after 10th straight win",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-12T13:33:24.514598+00:00"
     },
     {
       "tweet": "Interview With the Vampire pretty much created the modern brooding vampire trope. I mean, Edward Cullen literally owes that book everything.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 317,
+    "total_posted": 319,
     "total_collected": 943
   },
-  "last_posted_at": "2026-04-12T20:05:51.046424+00:00"
+  "last_posted_at": "2026-04-12T20:38:43.307319+00:00"
 }
