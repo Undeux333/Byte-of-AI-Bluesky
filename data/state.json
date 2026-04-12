@@ -68,17 +68,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Steven Soderbergh said he felt obligated to use AI for that John Lennon doc. Since when do we need machines to tell us what a guy sounded like",
-      "original_url": "https://kotaku.com/steven-soderbergh-says-he-felt-obligated-to-use-ai-on-john-lennon-documentary-2000686984",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Steven Soderbergh Says He Felt “Obligated” To Use AI On John Lennon Documentary",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-12T17:51:52.289439+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -88,6 +77,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Steven Soderbergh said he felt obligated to use AI for that John Lennon doc. Since when do we need machines to tell us what a guy sounded like",
+      "original_url": "https://kotaku.com/steven-soderbergh-says-he-felt-obligated-to-use-ai-on-john-lennon-documentary-2000686984",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Steven Soderbergh Says He Felt “Obligated” To Use AI On John Lennon Documentary",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-12T17:51:52.289439+00:00"
     },
     {
       "tweet": "Bro, just found this game Starfling that's literally one single file. How does a whole game fit in one HTML page tho",
@@ -365,39 +365,6 @@
       "added_at": "2026-04-12T17:51:52.288720+00:00"
     },
     {
-      "tweet": "Albanese is out here asking Israel to stop the attacks during a ceasefire. That’s how you know the whole thing is broken.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/13/anthony-albanese-urges-israel-to-stop-lebanon-attacks-that-intensified-during-middle-east-ceasefire",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Anthony Albanese urges Israel to stop Lebanon attacks that intensified during Middle East ceasefire",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-12T15:50:47.587683+00:00"
-    },
-    {
-      "tweet": "FIFA is straight up refusing to move Iran’s World Cup games out of the US. Like, do they even look at a map?",
-      "original_url": "https://www.aljazeera.com/sports/2026/4/12/fifa-rejects-irans-request-to-relocate-world-cup-games-amid-us-israel-war?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "FIFA rejects Iran’s request to relocate World Cup games amid US-Israel war",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-12T15:50:47.586671+00:00"
-    },
-    {
-      "tweet": "People are saying AI is gonna be met with straight violence. Honestly, at the rate things are going, I can’t say I’m surprised.",
-      "original_url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-12T15:50:47.586490+00:00"
-    },
-    {
       "tweet": "Man, UFC 327 was wild. Ulberg blew out his knee and Jiri blew his title shot by being too nice. Absolute chaos.",
       "original_url": "https://www.espn.com/mma/story/_/id/48463309/carlos-ulberg-blew-knee-jiri-prochazka-blew-title-chance-ufc-327",
       "buzz_score": 75,
@@ -508,6 +475,39 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
+      "tweet": "Albanese is out here asking Israel to stop the attacks during a ceasefire. That’s how you know the whole thing is broken.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/13/anthony-albanese-urges-israel-to-stop-lebanon-attacks-that-intensified-during-middle-east-ceasefire",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Anthony Albanese urges Israel to stop Lebanon attacks that intensified during Middle East ceasefire",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-12T15:50:47.587683+00:00"
+    },
+    {
+      "tweet": "FIFA is straight up refusing to move Iran’s World Cup games out of the US. Like, do they even look at a map?",
+      "original_url": "https://www.aljazeera.com/sports/2026/4/12/fifa-rejects-irans-request-to-relocate-world-cup-games-amid-us-israel-war?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "FIFA rejects Iran’s request to relocate World Cup games amid US-Israel war",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-12T15:50:47.586671+00:00"
+    },
+    {
+      "tweet": "People are saying AI is gonna be met with straight violence. Honestly, at the rate things are going, I can’t say I’m surprised.",
+      "original_url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-12T15:50:47.586490+00:00"
+    },
+    {
       "tweet": "So apparently Iran thinks the US was just trying to dictate during those talks. Guess we're still pretending that approach works.",
       "original_url": "https://www.nytimes.com/2026/04/12/world/middleeast/iran-united-states-negotiations.html",
       "buzz_score": 85,
@@ -517,39 +517,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-12T13:33:24.514596+00:00"
-    },
-    {
-      "tweet": "Thousands just swarmed the port in Barcelona for that flotilla headed to Gaza. It’s getting real over there.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/global-sumud-flotilla-sets-sail-from-barcelona-for-gaza?traffic_source=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Global Sumud Flotilla sets sail from Barcelona for Gaza",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-12T15:50:47.587562+00:00"
-    },
-    {
-      "tweet": "Apparently we need to start focusing on the scale of temporariness for immigration. Just another way to say we have no clue what we're doing.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/13/australia-should-set-immigration-targets-to-achieve-a-stable-temporary-population-report-says",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Australia should set immigration targets to achieve a ‘stable temporary population’, report says",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-12T15:50:47.586804+00:00"
-    },
-    {
-      "tweet": "Kelsey Plum just signed a one-year deal for 999,999 dollars. Someone really wanted to save that last buck.",
-      "original_url": "https://www.espn.com/wnba/story/_/id/48465712/sources-kelsey-plum-signing-one-year-deal-return-sparks",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sources: Sparks re-signing Plum to 1-year deal",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-12T15:50:47.586496+00:00"
     },
     {
       "tweet": "The Hacks creators are already teasing a reboot after the finale. Can we just let a show end for once?",
@@ -596,6 +563,50 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "Thousands just swarmed the port in Barcelona for that flotilla headed to Gaza. It’s getting real over there.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/global-sumud-flotilla-sets-sail-from-barcelona-for-gaza?traffic_source=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Global Sumud Flotilla sets sail from Barcelona for Gaza",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-12T15:50:47.587562+00:00"
+    },
+    {
+      "tweet": "Apparently we need to start focusing on the scale of temporariness for immigration. Just another way to say we have no clue what we're doing.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/13/australia-should-set-immigration-targets-to-achieve-a-stable-temporary-population-report-says",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Australia should set immigration targets to achieve a ‘stable temporary population’, report says",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-12T15:50:47.586804+00:00"
+    },
+    {
+      "tweet": "Kelsey Plum just signed a one-year deal for 999,999 dollars. Someone really wanted to save that last buck.",
+      "original_url": "https://www.espn.com/wnba/story/_/id/48465712/sources-kelsey-plum-signing-one-year-deal-return-sparks",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sources: Sparks re-signing Plum to 1-year deal",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-12T15:50:47.586496+00:00"
+    },
+    {
+      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T03:59:38.753282+00:00"
+    },
+    {
       "tweet": "Takamoto Katsuta just took the lead in the WRC after that wild ending in Croatia. Total chaos.",
       "original_url": "https://www.bbc.com/sport/motorsport/articles/c0lejwg36e7o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -618,15 +629,15 @@
       "added_at": "2026-04-12T13:33:24.514600+00:00"
     },
     {
-      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
-      "buzz_score": 88,
+      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 82,
       "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T03:59:38.753282+00:00"
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-08T04:12:50.486178+00:00"
     },
     {
       "tweet": "Laura Blindkilde Brown said she likes proving the doubters wrong at City. That's the only motivation that actually keeps people going.",
@@ -649,17 +660,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-12T13:33:24.514598+00:00"
-    },
-    {
-      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-08T04:12:50.486178+00:00"
     },
     {
       "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
@@ -706,6 +706,17 @@
       "added_at": "2026-04-09T22:23:59.524130+00:00"
     },
     {
+      "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
+      "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 78,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Forged through foster care - Ulberg's path to UFC title shot",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-11T09:01:18.261834+00:00"
+    },
+    {
       "tweet": "Everyone's saying that Wireless booking Kanye West was a massive house of cards. They really didn't see that coming",
       "original_url": "https://www.theguardian.com/news/ng-interactive/2026/apr/12/a-house-of-cards-how-did-wireless-festival-get-it-so-wrong-on-kanye-west",
       "buzz_score": 85,
@@ -748,17 +759,6 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-12T13:33:24.514590+00:00"
-    },
-    {
-      "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
-      "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 78,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Forged through foster care - Ulberg's path to UFC title shot",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-11T09:01:18.261834+00:00"
     },
     {
       "tweet": "So we're clearing mines in the Strait of Hormuz while talks are ongoing? Nothing like a little light work during a peace summit.",
@@ -849,6 +849,28 @@
       "added_at": "2026-04-08T15:44:16.953760+00:00"
     },
     {
+      "tweet": "Israel just approved 34 new settlements in the West Bank. Like they're just not even pretending anymore",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank?traffic_source=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Palestinians appalled as Israel approves settlements in occupied West Bank",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-12T02:32:59.107054+00:00"
+    },
+    {
+      "tweet": "So apparently Hungarians are finally voting on that whole Orbán thing today. 16 years is a long time to keep one person in charge",
+      "original_url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hungarians decide whether to end 16 years of Orbán rule and elect rival",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-12T02:32:59.106860+00:00"
+    },
+    {
       "tweet": "Read about those toys with creepy backstories. Ruins the whole childhood vibe",
       "original_url": "https://www.mentalfloss.com/fun/toys/childrens-toys-disturbing-backstories?utm_source=RSS",
       "buzz_score": 80,
@@ -880,28 +902,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-12T10:08:04.132498+00:00"
-    },
-    {
-      "tweet": "Israel just approved 34 new settlements in the West Bank. Like they're just not even pretending anymore",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank?traffic_source=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Palestinians appalled as Israel approves settlements in occupied West Bank",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-12T02:32:59.107054+00:00"
-    },
-    {
-      "tweet": "So apparently Hungarians are finally voting on that whole Orbán thing today. 16 years is a long time to keep one person in charge",
-      "original_url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hungarians decide whether to end 16 years of Orbán rule and elect rival",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-12T02:32:59.106860+00:00"
     },
     {
       "tweet": "Interview With the Vampire pretty much created the modern brooding vampire trope. I mean, Edward Cullen literally owes that book everything.",
