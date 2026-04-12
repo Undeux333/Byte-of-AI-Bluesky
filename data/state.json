@@ -2,28 +2,6 @@
   "last_collected": "2026-04-11T22:58:13.460591+00:00",
   "queue": [
     {
-      "tweet": "Scheffler just dropped a 65 at the Masters. Guy is a robot.",
-      "original_url": "https://www.espn.com/golf/story/_/id/48460687/scottie-scheffler-fires-masters-career-low-65-back-mix",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Scheffler fires Masters career-low 65, back in mix",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T22:58:13.459467+00:00"
-    },
-    {
-      "tweet": "Someone built an API-level Mac OS from the 80s for modern Macs. We're literally trying to live in the past.",
-      "original_url": "https://www.v68k.org/advanced-mac-substitute/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-11T22:58:13.460465+00:00"
-    },
-    {
       "tweet": "Fury finally fought again and beat Makhmudov. Already calling out Joshua, too. Can't help himself.",
       "original_url": "https://www.espn.com/boxing/story/_/id/48459845/tyson-fury-arslanbek-makhmudov-anthony-joshua-fight",
       "buzz_score": 75,
@@ -464,17 +442,6 @@
       "added_at": "2026-04-11T22:58:13.459719+00:00"
     },
     {
-      "tweet": "Interview With the Vampire pretty much created the modern brooding vampire trope. I mean, Edward Cullen literally owes that book everything.",
-      "original_url": "https://www.mentalfloss.com/literature/books/books-wouldnt-exist-without-interview-with-the-vampire?utm_source=RSS",
-      "buzz_score": 72,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "4 Books That Wouldn’t Exist Without 'Interview With the Vampire'",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-11T18:28:31.087001+00:00"
-    },
-    {
       "tweet": "The Hacks creators are already teasing a reboot after the finale. Can we just let a show end for once?",
       "original_url": "https://variety.com/2026/tv/news/hacks-cast-creators-never-say-never-future-reboot-1236712715/",
       "buzz_score": 70,
@@ -517,6 +484,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T16:56:43.712347+00:00"
+    },
+    {
+      "tweet": "Interview With the Vampire pretty much created the modern brooding vampire trope. I mean, Edward Cullen literally owes that book everything.",
+      "original_url": "https://www.mentalfloss.com/literature/books/books-wouldnt-exist-without-interview-with-the-vampire?utm_source=RSS",
+      "buzz_score": 72,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "4 Books That Wouldn’t Exist Without 'Interview With the Vampire'",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-11T18:28:31.087001+00:00"
     },
     {
       "tweet": "They're still firing whistleblowers at the NDIS after all that talk about protecting them. Seems about right.",
@@ -629,6 +607,17 @@
       "added_at": "2026-04-11T20:56:37.532572+00:00"
     },
     {
+      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 82,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-08T04:12:50.486178+00:00"
+    },
+    {
       "tweet": "Magic is finally dropping that cancelled Monster Hunter card in the new decks. Sometimes the stuff that gets cut is actually the best part.",
       "original_url": "https://www.polygon.com/monster-hunter-secret-lair-drakuseth-strixhaven/",
       "buzz_score": 78,
@@ -638,6 +627,28 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-11T18:28:31.086257+00:00"
+    },
+    {
+      "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
+      "original_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Fact check: Trump's objectives in the war with Iran have largely not been achieved",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-08T22:35:32.474831+00:00"
+    },
+    {
+      "tweet": "Everyone in Tehran is claiming victory after that ceasefire. It’s pretty clear nobody actually won anything.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/8/iranians-breathe-a-ceasefire-sigh-of-relief-as-all-sides-claim-victory?traffic_source=rss",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iranians breathe a ‘ceasefire’ sigh of relief as all sides claim victory",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-08T20:03:08.618965+00:00"
     },
     {
       "tweet": "Some guy was just walking around Grand Central with a machete before police took him down. Just a normal Tuesday in New York.",
@@ -662,37 +673,15 @@
       "added_at": "2026-04-11T16:24:36.534385+00:00"
     },
     {
-      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 82,
+      "tweet": "Democrats are slamming Pam Bondi for blowing off that Epstein hearing. It's crazy how subpoenas are just optional now",
+      "original_url": "https://www.aljazeera.com/news/2026/4/9/democrats-in-us-slam-pam-bondi-for-refusing-to-appear-for-epstein-hearing?traffic_source=rss",
+      "buzz_score": 80,
       "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-08T04:12:50.486178+00:00"
-    },
-    {
-      "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
-      "original_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fact check: Trump's objectives in the war with Iran have largely not been achieved",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-08T22:35:32.474831+00:00"
-    },
-    {
-      "tweet": "Everyone in Tehran is claiming victory after that ceasefire. It’s pretty clear nobody actually won anything.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/8/iranians-breathe-a-ceasefire-sigh-of-relief-as-all-sides-claim-victory?traffic_source=rss",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iranians breathe a ‘ceasefire’ sigh of relief as all sides claim victory",
+      "original_title": "Democrats in US slam Pam Bondi for refusing to appear for Epstein hearing",
       "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-04-08T20:03:08.618965+00:00"
+      "added_at": "2026-04-09T22:23:59.524130+00:00"
     },
     {
       "tweet": "The Liberty just signed Satou Sabally and Jones to multiyear deals. They aren't messing around this time.",
@@ -728,17 +717,6 @@
       "added_at": "2026-04-11T18:28:31.085571+00:00"
     },
     {
-      "tweet": "Democrats are slamming Pam Bondi for blowing off that Epstein hearing. It's crazy how subpoenas are just optional now",
-      "original_url": "https://www.aljazeera.com/news/2026/4/9/democrats-in-us-slam-pam-bondi-for-refusing-to-appear-for-epstein-hearing?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Democrats in US slam Pam Bondi for refusing to appear for Epstein hearing",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-09T22:23:59.524130+00:00"
-    },
-    {
       "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
       "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 78,
@@ -748,28 +726,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-11T09:01:18.261834+00:00"
-    },
-    {
-      "tweet": "So an appeals panel just ruled NFL teams didn't collude on those huge QB deals. Since when does the house ever rule against itself.",
-      "original_url": "https://www.espn.com/nfl/story/_/id/48456898/panel-rules-nflpa-says-not-enough-proof-collusion",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Panel rules NFL teams didn't collude on QB deals",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T16:24:36.534682+00:00"
-    },
-    {
-      "tweet": "France is finally ditching Windows for Linux because they think US tech is a strategic risk. Honestly, can you even blame them.",
-      "original_url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-11T16:24:36.534379+00:00"
     },
     {
       "tweet": "Wembanyama hit 65 games and dropped 40 points like it's nothing. They really just made a cheat code and put him in the league",
@@ -849,6 +805,28 @@
       "added_at": "2026-04-08T15:44:16.953760+00:00"
     },
     {
+      "tweet": "So an appeals panel just ruled NFL teams didn't collude on those huge QB deals. Since when does the house ever rule against itself.",
+      "original_url": "https://www.espn.com/nfl/story/_/id/48456898/panel-rules-nflpa-says-not-enough-proof-collusion",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Panel rules NFL teams didn't collude on QB deals",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T16:24:36.534682+00:00"
+    },
+    {
+      "tweet": "France is finally ditching Windows for Linux because they think US tech is a strategic risk. Honestly, can you even blame them.",
+      "original_url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-11T16:24:36.534379+00:00"
+    },
+    {
       "tweet": "Nearly eighty thousand people turned out for that Red Roses game. That's a lot of people.",
       "original_url": "https://www.bbc.com/sport/rugby-union/articles/cn8d1ejd727o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 70,
@@ -858,6 +836,17 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-11T18:28:31.086877+00:00"
+    },
+    {
+      "tweet": "Anyma's set at Coachella got canceled because of the wind. Just sitting in the desert waiting for a show that isn't happening.",
+      "original_url": "https://variety.com/2026/music/news/anyma-coachella-set-canceled-1236719446/",
+      "buzz_score": 72,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Anyma’s Coachella Set Canceled Due to ‘Strong Wind Conditions’",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-11T09:01:18.262497+00:00"
     },
     {
       "tweet": "Found this list of bougie Amazon stuff that’s actually cheap. It’s that specific kind of shopping where you buy things you don't need just to feel fancy.",
@@ -880,17 +869,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-11T13:57:12.329252+00:00"
-    },
-    {
-      "tweet": "Anyma's set at Coachella got canceled because of the wind. Just sitting in the desert waiting for a show that isn't happening.",
-      "original_url": "https://variety.com/2026/music/news/anyma-coachella-set-canceled-1236719446/",
-      "buzz_score": 72,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Anyma’s Coachella Set Canceled Due to ‘Strong Wind Conditions’",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-11T09:01:18.262497+00:00"
     },
     {
       "tweet": "China turned Lu Xun into a Disney-style mascot for the party. Imagine making a guy who hated your guts the face of your brand",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 284,
+    "total_posted": 286,
     "total_collected": 833
   },
-  "last_posted_at": "2026-04-11T23:36:51.227405+00:00"
+  "last_posted_at": "2026-04-12T00:07:38.441210+00:00"
 }
