@@ -2,17 +2,6 @@
   "last_collected": "2026-04-12T15:50:47.588063+00:00",
   "queue": [
     {
-      "tweet": "Euphoria is finally coming back after like four years. That’s enough time to literally forget what happened in the last season.",
-      "original_url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-euphoria-season-three-online-free-1236217727/",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Here’s How to Watch the Long-Awaited ‘Euphoria’ Season 3 Online for Free",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-12T15:50:47.586494+00:00"
-    },
-    {
       "tweet": "The new Pokémon Champions launch is basically just customer service simulator. We're really just paying to be tech support now.",
       "original_url": "https://www.polygon.com/patch-notes-pokemon-champions/",
       "buzz_score": 85,
@@ -211,17 +200,6 @@
       "added_at": "2026-04-12T07:57:09.630696+00:00"
     },
     {
-      "tweet": "So apparently Iran thinks the US was just trying to dictate during those talks. Guess we're still pretending that approach works.",
-      "original_url": "https://www.nytimes.com/2026/04/12/world/middleeast/iran-united-states-negotiations.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "In Pakistan Talks, Iran Saw a U.S. Trying to Dictate, Not Negotiate",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-12T13:33:24.514596+00:00"
-    },
-    {
       "tweet": "So apparently those US-Iran talks in Pakistan just went nowhere. Vance is already heading home like it's just another meeting that didn't work out",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/watch-jd-vances-full-remarks-after-us-iran-talks-end-without-deal?traffic_source=rss",
       "buzz_score": 80,
@@ -365,6 +343,17 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
+      "tweet": "So apparently Iran thinks the US was just trying to dictate during those talks. Guess we're still pretending that approach works.",
+      "original_url": "https://www.nytimes.com/2026/04/12/world/middleeast/iran-united-states-negotiations.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "In Pakistan Talks, Iran Saw a U.S. Trying to Dictate, Not Negotiate",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-12T13:33:24.514596+00:00"
+    },
+    {
       "tweet": "Thousands just swarmed the port in Barcelona for that flotilla headed to Gaza. It’s getting real over there.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/global-sumud-flotilla-sets-sail-from-barcelona-for-gaza?traffic_source=rss",
       "buzz_score": 75,
@@ -396,28 +385,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-12T15:50:47.586496+00:00"
-    },
-    {
-      "tweet": "Takamoto Katsuta just took the lead in the WRC after that wild ending in Croatia. Total chaos.",
-      "original_url": "https://www.bbc.com/sport/motorsport/articles/c0lejwg36e7o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Drama as Katsuta wins to take WRC lead over Evans",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-12T13:33:24.514605+00:00"
-    },
-    {
-      "tweet": "Looking at the NFL draft risers and it’s crazy how much stock one season can move. It's really just a gamble at this point.",
-      "original_url": "https://www.espn.com/nfl/draft2026/story/_/id/48443025/2026-nfl-draft-risers-prospects-freeling-thieneman-iheanachor",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The NFL draft's biggest risers: Seven players who have boosted their stock",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-12T13:33:24.514600+00:00"
     },
     {
       "tweet": "Fury finally fought again and beat Makhmudov. Already calling out Joshua, too. Can't help himself.",
@@ -519,26 +486,26 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "Laura Blindkilde Brown said she likes proving the doubters wrong at City. That's the only motivation that actually keeps people going.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cx24r575y9po?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
+      "tweet": "Takamoto Katsuta just took the lead in the WRC after that wild ending in Croatia. Total chaos.",
+      "original_url": "https://www.bbc.com/sport/motorsport/articles/c0lejwg36e7o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "I like proving the doubters wrong, says England's Blindkilde Brown",
+      "original_title": "Drama as Katsuta wins to take WRC lead over Evans",
       "source": "BBC Sport",
       "category": "sports",
-      "added_at": "2026-04-12T13:33:24.514603+00:00"
+      "added_at": "2026-04-12T13:33:24.514605+00:00"
     },
     {
-      "tweet": "USWNT just snagged their 10th straight win against Japan. Ten in a row, man.",
-      "original_url": "https://www.espn.com/soccer/story/_/id/48460994/rose-lavelle-usa-japan-lindsey-heaps-friendly-soccer",
-      "buzz_score": 75,
+      "tweet": "Looking at the NFL draft risers and it’s crazy how much stock one season can move. It's really just a gamble at this point.",
+      "original_url": "https://www.espn.com/nfl/draft2026/story/_/id/48443025/2026-nfl-draft-risers-prospects-freeling-thieneman-iheanachor",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Hayes hails U.S. evolution after 10th straight win",
+      "original_title": "The NFL draft's biggest risers: Seven players who have boosted their stock",
       "source": "ESPN",
       "category": "sports",
-      "added_at": "2026-04-12T13:33:24.514598+00:00"
+      "added_at": "2026-04-12T13:33:24.514600+00:00"
     },
     {
       "tweet": "The Hacks creators are already teasing a reboot after the finale. Can we just let a show end for once?",
@@ -583,6 +550,28 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T16:56:43.712347+00:00"
+    },
+    {
+      "tweet": "Laura Blindkilde Brown said she likes proving the doubters wrong at City. That's the only motivation that actually keeps people going.",
+      "original_url": "https://www.bbc.com/sport/football/articles/cx24r575y9po?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "I like proving the doubters wrong, says England's Blindkilde Brown",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-12T13:33:24.514603+00:00"
+    },
+    {
+      "tweet": "USWNT just snagged their 10th straight win against Japan. Ten in a row, man.",
+      "original_url": "https://www.espn.com/soccer/story/_/id/48460994/rose-lavelle-usa-japan-lindsey-heaps-friendly-soccer",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hayes hails U.S. evolution after 10th straight win",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-12T13:33:24.514598+00:00"
     },
     {
       "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
@@ -640,39 +629,6 @@
       "added_at": "2026-04-12T13:33:24.514590+00:00"
     },
     {
-      "tweet": "Read about those toys with creepy backstories. Ruins the whole childhood vibe",
-      "original_url": "https://www.mentalfloss.com/fun/toys/childrens-toys-disturbing-backstories?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "8 Children’s Toys With Disturbing Backstories",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-12T10:08:04.133318+00:00"
-    },
-    {
-      "tweet": "Searching for mug warmers because coffee has to be hot or it's not worth drinking. We really are obsessed",
-      "original_url": "https://www.wired.com/story/best-coffee-warmers-and-mug-warmers/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The 3 Best Mug Warmers of 2026: Better Than the Ember Mug?",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-04-12T10:08:04.133068+00:00"
-    },
-    {
-      "tweet": "Hold on, they just ruled that 158-year-old ban on home distilling is unconstitutional. About time",
-      "original_url": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-12T10:08:04.132498+00:00"
-    },
-    {
       "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 82,
@@ -704,6 +660,39 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-08T20:03:08.618965+00:00"
+    },
+    {
+      "tweet": "Read about those toys with creepy backstories. Ruins the whole childhood vibe",
+      "original_url": "https://www.mentalfloss.com/fun/toys/childrens-toys-disturbing-backstories?utm_source=RSS",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "8 Children’s Toys With Disturbing Backstories",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-12T10:08:04.133318+00:00"
+    },
+    {
+      "tweet": "Searching for mug warmers because coffee has to be hot or it's not worth drinking. We really are obsessed",
+      "original_url": "https://www.wired.com/story/best-coffee-warmers-and-mug-warmers/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The 3 Best Mug Warmers of 2026: Better Than the Ember Mug?",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-04-12T10:08:04.133068+00:00"
+    },
+    {
+      "tweet": "Hold on, they just ruled that 158-year-old ban on home distilling is unconstitutional. About time",
+      "original_url": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-12T10:08:04.132498+00:00"
     },
     {
       "tweet": "Joe Jonas is out here teaching masterclasses on the perfect Coachella day party. Like that's the priority right now.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 312,
+    "total_posted": 313,
     "total_collected": 917
   },
-  "last_posted_at": "2026-04-12T15:59:11.809664+00:00"
+  "last_posted_at": "2026-04-12T16:26:07.135200+00:00"
 }
