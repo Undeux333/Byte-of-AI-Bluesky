@@ -2,28 +2,6 @@
   "last_collected": "2026-04-12T07:57:09.631888+00:00",
   "queue": [
     {
-      "tweet": "Wait, scientists found that yeast cells can survive Martian conditions in the lab. So Mars isn't totally unlivable.",
-      "original_url": "https://www.sciencedaily.com/releases/2026/04/260411022033.htm",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Life on Mars? Tiny cells just survived shock waves and toxic soil",
-      "source": "ScienceDaily",
-      "category": "science",
-      "added_at": "2026-04-12T07:57:09.631636+00:00"
-    },
-    {
-      "tweet": "Tyson Fury just destroyed Makhmudov and now he's calling out Anthony Joshua again. Never gonna happen.",
-      "original_url": "https://hypebeast.com/2026/4/netflix-tyson-fury-defeats-arslanbek-makhmudov-boxing-heavyweight-bout-calls-out-anthony-joshua",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tyson Fury Defeats Arslanbek Makhmudov in Heavyweight Bout, Calls Out Anthony Joshua in Dominant Return",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-12T07:57:09.631241+00:00"
-    },
-    {
       "tweet": "Dude, Ulberg knocked out Jiri to take the belt while Trump was sitting right there. Surreal.",
       "original_url": "https://www.aljazeera.com/sports/2026/4/12/ufc-327-ulberg-wins-light-heavyweight-belt-with-knockout-in-front-of-trump?traffic_source=rss",
       "buzz_score": 80,
@@ -354,17 +332,6 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Saw a map of which states have the most billionaires. It's basically a map of where all the money actually went.",
-      "original_url": "https://www.mentalfloss.com/geography/maps/states-created-most-billionaires?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "These States Have Created the Most Billionaires—See the Map",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-12T07:57:09.631512+00:00"
-    },
-    {
       "tweet": "Fury finally fought again and beat Makhmudov. Already calling out Joshua, too. Can't help himself.",
       "original_url": "https://www.espn.com/boxing/story/_/id/48459845/tyson-fury-arslanbek-makhmudov-anthony-joshua-fight",
       "buzz_score": 75,
@@ -464,15 +431,15 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "Colman Domingo roasting Euphoria fans on SNL was hilarious. Everyone knows exactly who he's talking about",
-      "original_url": "https://variety.com/2026/tv/news/colman-domingo-snl-monologue-1236719677/",
-      "buzz_score": 80,
+      "tweet": "Saw a map of which states have the most billionaires. It's basically a map of where all the money actually went.",
+      "original_url": "https://www.mentalfloss.com/geography/maps/states-created-most-billionaires?utm_source=RSS",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Colman Domingo Sets the ‘Vibe’ in ‘SNL’ Monologue, Jokes About ‘Creepy’ ‘Euphoria’ Viewers",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-12T05:13:07.528680+00:00"
+      "original_title": "These States Have Created the Most Billionaires—See the Map",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-12T07:57:09.631512+00:00"
     },
     {
       "tweet": "The Hacks creators are already teasing a reboot after the finale. Can we just let a show end for once?",
@@ -519,6 +486,28 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "Colman Domingo roasting Euphoria fans on SNL was hilarious. Everyone knows exactly who he's talking about",
+      "original_url": "https://variety.com/2026/tv/news/colman-domingo-snl-monologue-1236719677/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Colman Domingo Sets the ‘Vibe’ in ‘SNL’ Monologue, Jokes About ‘Creepy’ ‘Euphoria’ Viewers",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-12T05:13:07.528680+00:00"
+    },
+    {
+      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T03:59:38.753282+00:00"
+    },
+    {
       "tweet": "Israel just approved 34 new settlements in the West Bank. Like they're just not even pretending anymore",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank?traffic_source=rss",
       "buzz_score": 88,
@@ -539,17 +528,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-12T02:32:59.106860+00:00"
-    },
-    {
-      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T03:59:38.753282+00:00"
     },
     {
       "tweet": "So the court says the White House can keep building that ballroom for now. Apparently 300 million just happens",
@@ -607,50 +585,6 @@
       "added_at": "2026-04-08T04:12:50.486178+00:00"
     },
     {
-      "tweet": "They just figured out atomic-scale memory storage. We're living in the future now",
-      "original_url": "https://zenodo.org/records/19513269",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-12T05:13:07.529317+00:00"
-    },
-    {
-      "tweet": "Coachella is already falling apart with those Anyma cancelations. Classic",
-      "original_url": "https://www.bbc.com/news/articles/cpwjnvrpn8eo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Coachella kicks off with Sabrina Carpenter and surprise guests",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-12T05:13:07.528950+00:00"
-    },
-    {
-      "tweet": "Anyma is out here posting apologies for his Coachella set being canceled by wind. Like he controls the weather tho",
-      "original_url": "https://variety.com/2026/music/news/anyma-canceled-coachella-set-1236719652/",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Anyma Says He’s ‘Truly Devastated and Deeply Sorry’ Following Canceled Coachella Set: ‘I’m Working on a Solution’",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-12T05:13:07.528558+00:00"
-    },
-    {
-      "tweet": "Amazon and Flipkart are basically just crushing every small quick commerce startup in India. It's just how the game works now",
-      "original_url": "https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-04-12T05:13:07.528181+00:00"
-    },
-    {
       "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
       "original_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
       "buzz_score": 95,
@@ -695,6 +629,50 @@
       "added_at": "2026-04-09T22:23:59.524130+00:00"
     },
     {
+      "tweet": "They just figured out atomic-scale memory storage. We're living in the future now",
+      "original_url": "https://zenodo.org/records/19513269",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-12T05:13:07.529317+00:00"
+    },
+    {
+      "tweet": "Coachella is already falling apart with those Anyma cancelations. Classic",
+      "original_url": "https://www.bbc.com/news/articles/cpwjnvrpn8eo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Coachella kicks off with Sabrina Carpenter and surprise guests",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-12T05:13:07.528950+00:00"
+    },
+    {
+      "tweet": "Anyma is out here posting apologies for his Coachella set being canceled by wind. Like he controls the weather tho",
+      "original_url": "https://variety.com/2026/music/news/anyma-canceled-coachella-set-1236719652/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Anyma Says He’s ‘Truly Devastated and Deeply Sorry’ Following Canceled Coachella Set: ‘I’m Working on a Solution’",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-12T05:13:07.528558+00:00"
+    },
+    {
+      "tweet": "Amazon and Flipkart are basically just crushing every small quick commerce startup in India. It's just how the game works now",
+      "original_url": "https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-04-12T05:13:07.528181+00:00"
+    },
+    {
       "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
       "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 78,
@@ -715,28 +693,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-11T22:58:13.459965+00:00"
-    },
-    {
-      "tweet": "There is a Tinkatink event in Pokémon Go today. We're still doing this, aren't we",
-      "original_url": "https://www.polygon.com/pokemon-go-tinkatink-community-day-shiny-tinkaton-moveset/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Pokémon Go Tinkatink Community Day event guide",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-12T02:32:59.107314+00:00"
-    },
-    {
-      "tweet": "Sabrina Carpenter is out here apologizing for not knowing what a Zaghrouta is at Coachella. We've all been that clueless in public at least once",
-      "original_url": "https://www.billboard.com/music/music-news/sabrina-carpenter-coachella-zaghrouta-reaction-apology-1236221010/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sabrina Carpenter Apologizes For Her Reaction to Crowd Chant at Coachella: ‘Now I Know What a Zaghrouta Is’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-12T02:32:59.106866+00:00"
     },
     {
       "tweet": "Wembanyama hit 65 games and dropped 40 points like it's nothing. They really just made a cheat code and put him in the league",
@@ -814,6 +770,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-08T15:44:16.953760+00:00"
+    },
+    {
+      "tweet": "There is a Tinkatink event in Pokémon Go today. We're still doing this, aren't we",
+      "original_url": "https://www.polygon.com/pokemon-go-tinkatink-community-day-shiny-tinkaton-moveset/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Pokémon Go Tinkatink Community Day event guide",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-12T02:32:59.107314+00:00"
+    },
+    {
+      "tweet": "Sabrina Carpenter is out here apologizing for not knowing what a Zaghrouta is at Coachella. We've all been that clueless in public at least once",
+      "original_url": "https://www.billboard.com/music/music-news/sabrina-carpenter-coachella-zaghrouta-reaction-apology-1236221010/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sabrina Carpenter Apologizes For Her Reaction to Crowd Chant at Coachella: ‘Now I Know What a Zaghrouta Is’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-12T02:32:59.106866+00:00"
     },
     {
       "tweet": "Interview With the Vampire pretty much created the modern brooding vampire trope. I mean, Edward Cullen literally owes that book everything.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 296,
+    "total_posted": 298,
     "total_collected": 874
   },
-  "last_posted_at": "2026-04-12T08:47:47.809632+00:00"
+  "last_posted_at": "2026-04-12T09:36:53.323984+00:00"
 }
