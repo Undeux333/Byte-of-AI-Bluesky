@@ -2,28 +2,6 @@
   "last_collected": "2026-04-12T13:33:24.515031+00:00",
   "queue": [
     {
-      "tweet": "Justin Bieber headlining Coachella just singing along to his own old YouTube videos. That's just the peak of the industry right there.",
-      "original_url": "https://www.bbc.com/news/articles/c75kx5dw395o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Justin Bieber headlines Coachella with nostalgia-fuelled set",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-12T13:33:24.514593+00:00"
-    },
-    {
-      "tweet": "Bro, people on HackerNews are literally filing the corners off their MacBooks. We've officially reached the point where we just can't leave perfectly good stuff alone.",
-      "original_url": "https://kentwalters.com/posts/corners/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Filing the corners off my MacBooks",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-12T13:33:24.514584+00:00"
-    },
-    {
       "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
       "buzz_score": 95,
@@ -33,17 +11,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251727+00:00"
-    },
-    {
-      "tweet": "Man, UFC 327 was wild. Ulberg blew out his knee and Jiri blew his title shot by being too nice. Absolute chaos.",
-      "original_url": "https://www.espn.com/mma/story/_/id/48463309/carlos-ulberg-blew-knee-jiri-prochazka-blew-title-chance-ufc-327",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "UFC 327 takeaways: Ulberg blew out his knee, but Procházka blew his title chance",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-12T07:57:09.630696+00:00"
     },
     {
       "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
@@ -68,15 +35,15 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "So apparently Iran thinks the US was just trying to dictate during those talks. Guess we're still pretending that approach works.",
-      "original_url": "https://www.nytimes.com/2026/04/12/world/middleeast/iran-united-states-negotiations.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
+      "tweet": "Man, UFC 327 was wild. Ulberg blew out his knee and Jiri blew his title shot by being too nice. Absolute chaos.",
+      "original_url": "https://www.espn.com/mma/story/_/id/48463309/carlos-ulberg-blew-knee-jiri-prochazka-blew-title-chance-ufc-327",
+      "buzz_score": 75,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "In Pakistan Talks, Iran Saw a U.S. Trying to Dictate, Not Negotiate",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-12T13:33:24.514596+00:00"
+      "original_title": "UFC 327 takeaways: Ulberg blew out his knee, but Procházka blew his title chance",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-12T07:57:09.630696+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -90,15 +57,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "So apparently those US-Iran talks in Pakistan just went nowhere. Vance is already heading home like it's just another meeting that didn't work out",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/watch-jd-vances-full-remarks-after-us-iran-talks-end-without-deal?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
+      "tweet": "So apparently Iran thinks the US was just trying to dictate during those talks. Guess we're still pretending that approach works.",
+      "original_url": "https://www.nytimes.com/2026/04/12/world/middleeast/iran-united-states-negotiations.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Watch JD Vance’s full remarks after US-Iran talks end without deal",
-      "source": "Al Jazeera",
+      "original_title": "In Pakistan Talks, Iran Saw a U.S. Trying to Dictate, Not Negotiate",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-04-12T05:13:07.528027+00:00"
+      "added_at": "2026-04-12T13:33:24.514596+00:00"
     },
     {
       "tweet": "Bro, just found this game Starfling that's literally one single file. How does a whole game fit in one HTML page tho",
@@ -176,6 +143,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
+    },
+    {
+      "tweet": "So apparently those US-Iran talks in Pakistan just went nowhere. Vance is already heading home like it's just another meeting that didn't work out",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/watch-jd-vances-full-remarks-after-us-iran-talks-end-without-deal?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Watch JD Vance’s full remarks after US-Iran talks end without deal",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-12T05:13:07.528027+00:00"
     },
     {
       "tweet": "Takamoto Katsuta just took the lead in the WRC after that wild ending in Croatia. Total chaos.",
@@ -354,28 +332,6 @@
       "added_at": "2026-04-12T13:33:24.514598+00:00"
     },
     {
-      "tweet": "Everyone's saying that Wireless booking Kanye West was a massive house of cards. They really didn't see that coming",
-      "original_url": "https://www.theguardian.com/news/ng-interactive/2026/apr/12/a-house-of-cards-how-did-wireless-festival-get-it-so-wrong-on-kanye-west",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘A house of cards’: how did Wireless festival get it so wrong on Kanye West?",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-12T10:08:04.132817+00:00"
-    },
-    {
-      "tweet": "South Korea has a world-class medical system but people are getting rejected from dozens of ERs. That's a system failure",
-      "original_url": "https://www.nytimes.com/2026/04/12/world/asia/south-korea-emergency-room-medical-crisis.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Rejected by Dozens of Emergency Rooms: South Korea’s Medical Crisis",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-12T10:08:04.132506+00:00"
-    },
-    {
       "tweet": "Fury finally fought again and beat Makhmudov. Already calling out Joshua, too. Can't help himself.",
       "original_url": "https://www.espn.com/boxing/story/_/id/48459845/tyson-fury-arslanbek-makhmudov-anthony-joshua-fight",
       "buzz_score": 75,
@@ -475,6 +431,28 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
+      "tweet": "Everyone's saying that Wireless booking Kanye West was a massive house of cards. They really didn't see that coming",
+      "original_url": "https://www.theguardian.com/news/ng-interactive/2026/apr/12/a-house-of-cards-how-did-wireless-festival-get-it-so-wrong-on-kanye-west",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘A house of cards’: how did Wireless festival get it so wrong on Kanye West?",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-12T10:08:04.132817+00:00"
+    },
+    {
+      "tweet": "South Korea has a world-class medical system but people are getting rejected from dozens of ERs. That's a system failure",
+      "original_url": "https://www.nytimes.com/2026/04/12/world/asia/south-korea-emergency-room-medical-crisis.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Rejected by Dozens of Emergency Rooms: South Korea’s Medical Crisis",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-12T10:08:04.132506+00:00"
+    },
+    {
       "tweet": "Russia and Ukraine are already blaming each other for breaking the Easter ceasefire. Did we really expect anything else?",
       "original_url": "https://www.aljazeera.com/news/2026/4/12/ukraine-and-russia-accuse-each-other-of-breaching-easter-ceasefire?traffic_source=rss",
       "buzz_score": 70,
@@ -495,39 +473,6 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-12T13:33:24.514590+00:00"
-    },
-    {
-      "tweet": "Read about those toys with creepy backstories. Ruins the whole childhood vibe",
-      "original_url": "https://www.mentalfloss.com/fun/toys/childrens-toys-disturbing-backstories?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "8 Children’s Toys With Disturbing Backstories",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-12T10:08:04.133318+00:00"
-    },
-    {
-      "tweet": "Searching for mug warmers because coffee has to be hot or it's not worth drinking. We really are obsessed",
-      "original_url": "https://www.wired.com/story/best-coffee-warmers-and-mug-warmers/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The 3 Best Mug Warmers of 2026: Better Than the Ember Mug?",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-04-12T10:08:04.133068+00:00"
-    },
-    {
-      "tweet": "Hold on, they just ruled that 158-year-old ban on home distilling is unconstitutional. About time",
-      "original_url": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-12T10:08:04.132498+00:00"
     },
     {
       "tweet": "The Hacks creators are already teasing a reboot after the finale. Can we just let a show end for once?",
@@ -572,6 +517,39 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T16:56:43.712347+00:00"
+    },
+    {
+      "tweet": "Read about those toys with creepy backstories. Ruins the whole childhood vibe",
+      "original_url": "https://www.mentalfloss.com/fun/toys/childrens-toys-disturbing-backstories?utm_source=RSS",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "8 Children’s Toys With Disturbing Backstories",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-12T10:08:04.133318+00:00"
+    },
+    {
+      "tweet": "Searching for mug warmers because coffee has to be hot or it's not worth drinking. We really are obsessed",
+      "original_url": "https://www.wired.com/story/best-coffee-warmers-and-mug-warmers/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The 3 Best Mug Warmers of 2026: Better Than the Ember Mug?",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-04-12T10:08:04.133068+00:00"
+    },
+    {
+      "tweet": "Hold on, they just ruled that 158-year-old ban on home distilling is unconstitutional. About time",
+      "original_url": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-12T10:08:04.132498+00:00"
     },
     {
       "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
@@ -638,17 +616,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T22:23:59.524130+00:00"
-    },
-    {
-      "tweet": "Saw a map of which states have the most billionaires. It's basically a map of where all the money actually went.",
-      "original_url": "https://www.mentalfloss.com/geography/maps/states-created-most-billionaires?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "These States Have Created the Most Billionaires—See the Map",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-12T07:57:09.631512+00:00"
     },
     {
       "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
@@ -750,6 +717,17 @@
       "added_at": "2026-04-08T15:44:16.953760+00:00"
     },
     {
+      "tweet": "Saw a map of which states have the most billionaires. It's basically a map of where all the money actually went.",
+      "original_url": "https://www.mentalfloss.com/geography/maps/states-created-most-billionaires?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "These States Have Created the Most Billionaires—See the Map",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-12T07:57:09.631512+00:00"
+    },
+    {
       "tweet": "Israel just approved 34 new settlements in the West Bank. Like they're just not even pretending anymore",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank?traffic_source=rss",
       "buzz_score": 88,
@@ -770,17 +748,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-12T02:32:59.106860+00:00"
-    },
-    {
-      "tweet": "Colman Domingo roasting Euphoria fans on SNL was hilarious. Everyone knows exactly who he's talking about",
-      "original_url": "https://variety.com/2026/tv/news/colman-domingo-snl-monologue-1236719677/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Colman Domingo Sets the ‘Vibe’ in ‘SNL’ Monologue, Jokes About ‘Creepy’ ‘Euphoria’ Viewers",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-12T05:13:07.528680+00:00"
     },
     {
       "tweet": "Interview With the Vampire pretty much created the modern brooding vampire trope. I mean, Edward Cullen literally owes that book everything.",
@@ -968,6 +935,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-09T10:02:44.429739+00:00"
+    },
+    {
+      "tweet": "Colman Domingo roasting Euphoria fans on SNL was hilarious. Everyone knows exactly who he's talking about",
+      "original_url": "https://variety.com/2026/tv/news/colman-domingo-snl-monologue-1236719677/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Colman Domingo Sets the ‘Vibe’ in ‘SNL’ Monologue, Jokes About ‘Creepy’ ‘Euphoria’ Viewers",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-12T05:13:07.528680+00:00"
     },
     {
       "tweet": "So the court says the White House can keep building that ballroom for now. Apparently 300 million just happens",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 308,
+    "total_posted": 310,
     "total_collected": 901
   },
-  "last_posted_at": "2026-04-12T13:39:45.911897+00:00"
+  "last_posted_at": "2026-04-12T14:32:44.420970+00:00"
 }
