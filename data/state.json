@@ -2,28 +2,6 @@
   "last_collected": "2026-04-12T10:08:04.133833+00:00",
   "queue": [
     {
-      "tweet": "Guy Fieri put out a list of the best mac and cheese spots. I mean, we're all just chasing that comfort food high anyway.",
-      "original_url": "https://www.mentalfloss.com/food/restaurants/best-mac-and-cheese-restaurants-guy-fieri?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "5 of the Best Mac and Cheese Spots in America, According to Guy Fieri",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-12T07:57:09.631386+00:00"
-    },
-    {
-      "tweet": "Man, Cyclone Vaianu is absolutely trashing New Zealand right now. Destructive.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/12/cyclone-vaianu-new-zealand-north-island-floods-power-outages-hundreds-evacuated",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Floods, power outages and hundreds evacuated as Cyclone Vaianu lashes New Zealand’s North Island",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-12T07:57:09.631113+00:00"
-    },
-    {
       "tweet": "Man, UFC 327 was wild. Ulberg blew out his knee and Jiri blew his title shot by being too nice. Absolute chaos.",
       "original_url": "https://www.espn.com/mma/story/_/id/48463309/carlos-ulberg-blew-knee-jiri-prochazka-blew-title-chance-ufc-327",
       "buzz_score": 75,
@@ -35,17 +13,6 @@
       "added_at": "2026-04-12T07:57:09.630696+00:00"
     },
     {
-      "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
-      "original_url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
-      "buzz_score": 92,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mexico’s Police Focus on World Cup While Thousands Remain Missing",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-12T02:32:59.106863+00:00"
-    },
-    {
       "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
       "buzz_score": 95,
@@ -55,6 +22,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251727+00:00"
+    },
+    {
+      "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
+      "original_url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
+      "buzz_score": 92,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Mexico’s Police Focus on World Cup While Thousands Remain Missing",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-12T02:32:59.106863+00:00"
     },
     {
       "tweet": "So apparently those US-Iran talks in Pakistan just went nowhere. Vance is already heading home like it's just another meeting that didn't work out",
@@ -79,17 +57,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Bro, just found this game Starfling that's literally one single file. How does a whole game fit in one HTML page tho",
-      "original_url": "https://playstarfling.com",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-12T02:32:59.106854+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -99,6 +66,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Bro, just found this game Starfling that's literally one single file. How does a whole game fit in one HTML page tho",
+      "original_url": "https://playstarfling.com",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-12T02:32:59.106854+00:00"
     },
     {
       "tweet": "If you’re still waiting for a Bloodborne sequel, check out this new game Tombwater. It’s basically that cosmic horror itch we’ve been needing.",
@@ -552,17 +530,6 @@
       "added_at": "2026-04-08T20:03:08.618965+00:00"
     },
     {
-      "tweet": "Colman Domingo roasting Euphoria fans on SNL was hilarious. Everyone knows exactly who he's talking about",
-      "original_url": "https://variety.com/2026/tv/news/colman-domingo-snl-monologue-1236719677/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Colman Domingo Sets the ‘Vibe’ in ‘SNL’ Monologue, Jokes About ‘Creepy’ ‘Euphoria’ Viewers",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-12T05:13:07.528680+00:00"
-    },
-    {
       "tweet": "Joe Jonas is out here teaching masterclasses on the perfect Coachella day party. Like that's the priority right now.",
       "original_url": "https://www.billboard.com/music/pop/joe-jonas-interview-coachella-day-club-aperol-1236218360/",
       "buzz_score": 80,
@@ -585,6 +552,17 @@
       "added_at": "2026-04-09T22:23:59.524130+00:00"
     },
     {
+      "tweet": "Colman Domingo roasting Euphoria fans on SNL was hilarious. Everyone knows exactly who he's talking about",
+      "original_url": "https://variety.com/2026/tv/news/colman-domingo-snl-monologue-1236719677/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Colman Domingo Sets the ‘Vibe’ in ‘SNL’ Monologue, Jokes About ‘Creepy’ ‘Euphoria’ Viewers",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-12T05:13:07.528680+00:00"
+    },
+    {
       "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
       "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 78,
@@ -594,28 +572,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-11T09:01:18.261834+00:00"
-    },
-    {
-      "tweet": "Israel just approved 34 new settlements in the West Bank. Like they're just not even pretending anymore",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank?traffic_source=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Palestinians appalled as Israel approves settlements in occupied West Bank",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-12T02:32:59.107054+00:00"
-    },
-    {
-      "tweet": "So apparently Hungarians are finally voting on that whole Orbán thing today. 16 years is a long time to keep one person in charge",
-      "original_url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hungarians decide whether to end 16 years of Orbán rule and elect rival",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-12T02:32:59.106860+00:00"
     },
     {
       "tweet": "So we're clearing mines in the Strait of Hormuz while talks are ongoing? Nothing like a little light work during a peace summit.",
@@ -704,6 +660,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-08T15:44:16.953760+00:00"
+    },
+    {
+      "tweet": "Israel just approved 34 new settlements in the West Bank. Like they're just not even pretending anymore",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank?traffic_source=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Palestinians appalled as Israel approves settlements in occupied West Bank",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-12T02:32:59.107054+00:00"
+    },
+    {
+      "tweet": "So apparently Hungarians are finally voting on that whole Orbán thing today. 16 years is a long time to keep one person in charge",
+      "original_url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hungarians decide whether to end 16 years of Orbán rule and elect rival",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-12T02:32:59.106860+00:00"
     },
     {
       "tweet": "So the court says the White House can keep building that ballroom for now. Apparently 300 million just happens",
@@ -1996,8 +1974,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 304,
+    "total_posted": 306,
     "total_collected": 890
   },
-  "last_posted_at": "2026-04-12T11:38:34.768372+00:00"
+  "last_posted_at": "2026-04-12T12:11:40.782982+00:00"
 }
