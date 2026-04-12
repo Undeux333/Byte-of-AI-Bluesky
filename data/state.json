@@ -35,17 +35,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Man, UFC 327 was wild. Ulberg blew out his knee and Jiri blew his title shot by being too nice. Absolute chaos.",
-      "original_url": "https://www.espn.com/mma/story/_/id/48463309/carlos-ulberg-blew-knee-jiri-prochazka-blew-title-chance-ufc-327",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "UFC 327 takeaways: Ulberg blew out his knee, but Procházka blew his title chance",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-12T07:57:09.630696+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -57,15 +46,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "So apparently Iran thinks the US was just trying to dictate during those talks. Guess we're still pretending that approach works.",
-      "original_url": "https://www.nytimes.com/2026/04/12/world/middleeast/iran-united-states-negotiations.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
+      "tweet": "Man, UFC 327 was wild. Ulberg blew out his knee and Jiri blew his title shot by being too nice. Absolute chaos.",
+      "original_url": "https://www.espn.com/mma/story/_/id/48463309/carlos-ulberg-blew-knee-jiri-prochazka-blew-title-chance-ufc-327",
+      "buzz_score": 75,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "In Pakistan Talks, Iran Saw a U.S. Trying to Dictate, Not Negotiate",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-12T13:33:24.514596+00:00"
+      "original_title": "UFC 327 takeaways: Ulberg blew out his knee, but Procházka blew his title chance",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-12T07:57:09.630696+00:00"
     },
     {
       "tweet": "Bro, just found this game Starfling that's literally one single file. How does a whole game fit in one HTML page tho",
@@ -145,6 +134,17 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
+      "tweet": "So apparently Iran thinks the US was just trying to dictate during those talks. Guess we're still pretending that approach works.",
+      "original_url": "https://www.nytimes.com/2026/04/12/world/middleeast/iran-united-states-negotiations.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "In Pakistan Talks, Iran Saw a U.S. Trying to Dictate, Not Negotiate",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-12T13:33:24.514596+00:00"
+    },
+    {
       "tweet": "So apparently those US-Iran talks in Pakistan just went nowhere. Vance is already heading home like it's just another meeting that didn't work out",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/watch-jd-vances-full-remarks-after-us-iran-talks-end-without-deal?traffic_source=rss",
       "buzz_score": 80,
@@ -154,28 +154,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-12T05:13:07.528027+00:00"
-    },
-    {
-      "tweet": "Takamoto Katsuta just took the lead in the WRC after that wild ending in Croatia. Total chaos.",
-      "original_url": "https://www.bbc.com/sport/motorsport/articles/c0lejwg36e7o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Drama as Katsuta wins to take WRC lead over Evans",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-12T13:33:24.514605+00:00"
-    },
-    {
-      "tweet": "Looking at the NFL draft risers and it’s crazy how much stock one season can move. It's really just a gamble at this point.",
-      "original_url": "https://www.espn.com/nfl/draft2026/story/_/id/48443025/2026-nfl-draft-risers-prospects-freeling-thieneman-iheanachor",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The NFL draft's biggest risers: Seven players who have boosted their stock",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-12T13:33:24.514600+00:00"
     },
     {
       "tweet": "Can't believe Magic the Gathering's Seventh Edition was 25 years ago. We’re getting old, man.",
@@ -310,26 +288,26 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Laura Blindkilde Brown said she likes proving the doubters wrong at City. That's the only motivation that actually keeps people going.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cx24r575y9po?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
+      "tweet": "Takamoto Katsuta just took the lead in the WRC after that wild ending in Croatia. Total chaos.",
+      "original_url": "https://www.bbc.com/sport/motorsport/articles/c0lejwg36e7o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "I like proving the doubters wrong, says England's Blindkilde Brown",
+      "original_title": "Drama as Katsuta wins to take WRC lead over Evans",
       "source": "BBC Sport",
       "category": "sports",
-      "added_at": "2026-04-12T13:33:24.514603+00:00"
+      "added_at": "2026-04-12T13:33:24.514605+00:00"
     },
     {
-      "tweet": "USWNT just snagged their 10th straight win against Japan. Ten in a row, man.",
-      "original_url": "https://www.espn.com/soccer/story/_/id/48460994/rose-lavelle-usa-japan-lindsey-heaps-friendly-soccer",
-      "buzz_score": 75,
+      "tweet": "Looking at the NFL draft risers and it’s crazy how much stock one season can move. It's really just a gamble at this point.",
+      "original_url": "https://www.espn.com/nfl/draft2026/story/_/id/48443025/2026-nfl-draft-risers-prospects-freeling-thieneman-iheanachor",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Hayes hails U.S. evolution after 10th straight win",
+      "original_title": "The NFL draft's biggest risers: Seven players who have boosted their stock",
       "source": "ESPN",
       "category": "sports",
-      "added_at": "2026-04-12T13:33:24.514598+00:00"
+      "added_at": "2026-04-12T13:33:24.514600+00:00"
     },
     {
       "tweet": "Fury finally fought again and beat Makhmudov. Already calling out Joshua, too. Can't help himself.",
@@ -431,6 +409,28 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
+      "tweet": "Laura Blindkilde Brown said she likes proving the doubters wrong at City. That's the only motivation that actually keeps people going.",
+      "original_url": "https://www.bbc.com/sport/football/articles/cx24r575y9po?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "I like proving the doubters wrong, says England's Blindkilde Brown",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-12T13:33:24.514603+00:00"
+    },
+    {
+      "tweet": "USWNT just snagged their 10th straight win against Japan. Ten in a row, man.",
+      "original_url": "https://www.espn.com/soccer/story/_/id/48460994/rose-lavelle-usa-japan-lindsey-heaps-friendly-soccer",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hayes hails U.S. evolution after 10th straight win",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-12T13:33:24.514598+00:00"
+    },
+    {
       "tweet": "Everyone's saying that Wireless booking Kanye West was a massive house of cards. They really didn't see that coming",
       "original_url": "https://www.theguardian.com/news/ng-interactive/2026/apr/12/a-house-of-cards-how-did-wireless-festival-get-it-so-wrong-on-kanye-west",
       "buzz_score": 85,
@@ -451,28 +451,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-12T10:08:04.132506+00:00"
-    },
-    {
-      "tweet": "Russia and Ukraine are already blaming each other for breaking the Easter ceasefire. Did we really expect anything else?",
-      "original_url": "https://www.aljazeera.com/news/2026/4/12/ukraine-and-russia-accuse-each-other-of-breaching-easter-ceasefire?traffic_source=rss",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Ukraine and Russia accuse each other of breaching Easter ceasefire",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-12T13:33:24.514609+00:00"
-    },
-    {
-      "tweet": "Taking this quiz on state nicknames and realizing I don't know half of them. Kinda wild how we live in these places but have no idea what they're actually called.",
-      "original_url": "https://www.mentalfloss.com/quizzes/match-50-states-nicknames-5-minutes?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Quiz: Can You Match All 50 States to Their Nicknames in Under 5 Minutes?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-12T13:33:24.514590+00:00"
     },
     {
       "tweet": "The Hacks creators are already teasing a reboot after the finale. Can we just let a show end for once?",
@@ -519,6 +497,39 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "Russia and Ukraine are already blaming each other for breaking the Easter ceasefire. Did we really expect anything else?",
+      "original_url": "https://www.aljazeera.com/news/2026/4/12/ukraine-and-russia-accuse-each-other-of-breaching-easter-ceasefire?traffic_source=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Ukraine and Russia accuse each other of breaching Easter ceasefire",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-12T13:33:24.514609+00:00"
+    },
+    {
+      "tweet": "Taking this quiz on state nicknames and realizing I don't know half of them. Kinda wild how we live in these places but have no idea what they're actually called.",
+      "original_url": "https://www.mentalfloss.com/quizzes/match-50-states-nicknames-5-minutes?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Quiz: Can You Match All 50 States to Their Nicknames in Under 5 Minutes?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-12T13:33:24.514590+00:00"
+    },
+    {
+      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T03:59:38.753282+00:00"
+    },
+    {
       "tweet": "Read about those toys with creepy backstories. Ruins the whole childhood vibe",
       "original_url": "https://www.mentalfloss.com/fun/toys/childrens-toys-disturbing-backstories?utm_source=RSS",
       "buzz_score": 80,
@@ -550,17 +561,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-12T10:08:04.132498+00:00"
-    },
-    {
-      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T03:59:38.753282+00:00"
     },
     {
       "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
@@ -717,17 +717,6 @@
       "added_at": "2026-04-08T15:44:16.953760+00:00"
     },
     {
-      "tweet": "Saw a map of which states have the most billionaires. It's basically a map of where all the money actually went.",
-      "original_url": "https://www.mentalfloss.com/geography/maps/states-created-most-billionaires?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "These States Have Created the Most Billionaires—See the Map",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-12T07:57:09.631512+00:00"
-    },
-    {
       "tweet": "Israel just approved 34 new settlements in the West Bank. Like they're just not even pretending anymore",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank?traffic_source=rss",
       "buzz_score": 88,
@@ -748,6 +737,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-12T02:32:59.106860+00:00"
+    },
+    {
+      "tweet": "Saw a map of which states have the most billionaires. It's basically a map of where all the money actually went.",
+      "original_url": "https://www.mentalfloss.com/geography/maps/states-created-most-billionaires?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "These States Have Created the Most Billionaires—See the Map",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-12T07:57:09.631512+00:00"
     },
     {
       "tweet": "Interview With the Vampire pretty much created the modern brooding vampire trope. I mean, Edward Cullen literally owes that book everything.",
