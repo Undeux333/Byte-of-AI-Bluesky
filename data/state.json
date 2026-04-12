@@ -2,28 +2,6 @@
   "last_collected": "2026-04-12T07:57:09.631888+00:00",
   "queue": [
     {
-      "tweet": "Bro, people are really questioning if the Lakers are toast in the postseason. Rough.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48443792/nba-playoffs-intel-lebron-lakers-chances-curry-warriors-issues-major-questions",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "🏀 NBA postseason intel: Big questions, more",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-12T07:57:09.630694+00:00"
-    },
-    {
-      "tweet": "Hold on, France is actually ditching Windows for Linux because they're worried about US tech spying. That's a serious move.",
-      "original_url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-12T07:57:09.630682+00:00"
-    },
-    {
       "tweet": "Wait, scientists found that yeast cells can survive Martian conditions in the lab. So Mars isn't totally unlivable.",
       "original_url": "https://www.sciencedaily.com/releases/2026/04/260411022033.htm",
       "buzz_score": 80,
@@ -497,28 +475,6 @@
       "added_at": "2026-04-12T05:13:07.528680+00:00"
     },
     {
-      "tweet": "Israel just approved 34 new settlements in the West Bank. Like they're just not even pretending anymore",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank?traffic_source=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Palestinians appalled as Israel approves settlements in occupied West Bank",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-12T02:32:59.107054+00:00"
-    },
-    {
-      "tweet": "So apparently Hungarians are finally voting on that whole Orbán thing today. 16 years is a long time to keep one person in charge",
-      "original_url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hungarians decide whether to end 16 years of Orbán rule and elect rival",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-12T02:32:59.106860+00:00"
-    },
-    {
       "tweet": "The Hacks creators are already teasing a reboot after the finale. Can we just let a show end for once?",
       "original_url": "https://variety.com/2026/tv/news/hacks-cast-creators-never-say-never-future-reboot-1236712715/",
       "buzz_score": 70,
@@ -561,6 +517,39 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T16:56:43.712347+00:00"
+    },
+    {
+      "tweet": "Israel just approved 34 new settlements in the West Bank. Like they're just not even pretending anymore",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank?traffic_source=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Palestinians appalled as Israel approves settlements in occupied West Bank",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-12T02:32:59.107054+00:00"
+    },
+    {
+      "tweet": "So apparently Hungarians are finally voting on that whole Orbán thing today. 16 years is a long time to keep one person in charge",
+      "original_url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hungarians decide whether to end 16 years of Orbán rule and elect rival",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-12T02:32:59.106860+00:00"
+    },
+    {
+      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T03:59:38.753282+00:00"
     },
     {
       "tweet": "So the court says the White House can keep building that ballroom for now. Apparently 300 million just happens",
@@ -607,15 +596,15 @@
       "added_at": "2026-04-12T05:13:07.528024+00:00"
     },
     {
-      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
-      "buzz_score": 88,
+      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 82,
       "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T03:59:38.753282+00:00"
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-08T04:12:50.486178+00:00"
     },
     {
       "tweet": "They just figured out atomic-scale memory storage. We're living in the future now",
@@ -662,17 +651,6 @@
       "added_at": "2026-04-12T05:13:07.528181+00:00"
     },
     {
-      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-08T04:12:50.486178+00:00"
-    },
-    {
       "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
       "original_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
       "buzz_score": 95,
@@ -717,6 +695,17 @@
       "added_at": "2026-04-09T22:23:59.524130+00:00"
     },
     {
+      "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
+      "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 78,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Forged through foster care - Ulberg's path to UFC title shot",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-11T09:01:18.261834+00:00"
+    },
+    {
       "tweet": "So we're clearing mines in the Strait of Hormuz while talks are ongoing? Nothing like a little light work during a peace summit.",
       "original_url": "https://www.theguardian.com/world/live/2026/apr/11/middle-east-crisis-live-iranian-officials-arrive-in-islamabad-for-conditional-peace-talks-with-us",
       "buzz_score": 90,
@@ -748,17 +737,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-12T02:32:59.106866+00:00"
-    },
-    {
-      "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
-      "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 78,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Forged through foster care - Ulberg's path to UFC title shot",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-11T09:01:18.261834+00:00"
     },
     {
       "tweet": "Wembanyama hit 65 games and dropped 40 points like it's nothing. They really just made a cheat code and put him in the league",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 294,
+    "total_posted": 296,
     "total_collected": 874
   },
-  "last_posted_at": "2026-04-12T08:03:45.714697+00:00"
+  "last_posted_at": "2026-04-12T08:47:47.809632+00:00"
 }
