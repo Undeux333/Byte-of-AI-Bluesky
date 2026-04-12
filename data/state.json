@@ -46,6 +46,17 @@
       "added_at": "2026-04-09T07:14:41.251727+00:00"
     },
     {
+      "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
+      "original_url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
+      "buzz_score": 92,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Mexico’s Police Focus on World Cup While Thousands Remain Missing",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-12T02:32:59.106863+00:00"
+    },
+    {
       "tweet": "Orban actually conceded in Hungary. Looks like the upstart guy Magyar really pulled it off.",
       "original_url": "https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz?traffic_source=rss",
       "buzz_score": 80,
@@ -68,17 +79,6 @@
       "added_at": "2026-04-12T19:57:32.530372+00:00"
     },
     {
-      "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
-      "original_url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
-      "buzz_score": 92,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mexico’s Police Focus on World Cup While Thousands Remain Missing",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-12T02:32:59.106863+00:00"
-    },
-    {
       "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026",
       "buzz_score": 90,
@@ -88,17 +88,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "People are already finding ways to exploit those new AI agent benchmarks. We really don't change at all.",
-      "original_url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Exploiting the most prominent AI agent benchmarks",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-12T19:57:32.531546+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -112,15 +101,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "K-pop albums are everywhere on the Billboard 200 now. It's actually wild how far that's come.",
-      "original_url": "https://www.billboard.com/lists/k-pop-albums-number-one-billboard-200-albums-full-list/",
-      "buzz_score": 72,
+      "tweet": "People are already finding ways to exploit those new AI agent benchmarks. We really don't change at all.",
+      "original_url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "buzz_score": 75,
       "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "Here Are All the K-Pop Albums That Have Topped the Billboard 200: Full List",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-12T19:57:32.531923+00:00"
+      "original_title": "Exploiting the most prominent AI agent benchmarks",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-12T19:57:32.531546+00:00"
     },
     {
       "tweet": "Bro, just found this game Starfling that's literally one single file. How does a whole game fit in one HTML page tho",
@@ -198,6 +187,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
+    },
+    {
+      "tweet": "K-pop albums are everywhere on the Billboard 200 now. It's actually wild how far that's come.",
+      "original_url": "https://www.billboard.com/lists/k-pop-albums-number-one-billboard-200-albums-full-list/",
+      "buzz_score": 72,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Here Are All the K-Pop Albums That Have Topped the Billboard 200: Full List",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-12T19:57:32.531923+00:00"
     },
     {
       "tweet": "So apparently those US-Iran talks in Pakistan just went nowhere. Vance is already heading home like it's just another meeting that didn't work out",
@@ -343,39 +343,6 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Steven Soderbergh said he felt obligated to use AI for that John Lennon doc. Since when do we need machines to tell us what a guy sounded like",
-      "original_url": "https://kotaku.com/steven-soderbergh-says-he-felt-obligated-to-use-ai-on-john-lennon-documentary-2000686984",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Steven Soderbergh Says He Felt “Obligated” To Use AI On John Lennon Documentary",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-12T17:51:52.289439+00:00"
-    },
-    {
-      "tweet": "Seeing Morgan Wallen and Taylor Swift top the country charts just makes you realize how weird music is now.",
-      "original_url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-12T19:57:32.531790+00:00"
-    },
-    {
-      "tweet": "Eddie Howe saying he's accountable for that Newcastle loss after three weeks off. Guess that's what you say when there's nothing else to say.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cdxkgz70qv9o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "'I'm not blind' - Howe 'accountable' for loss after three-week break",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-12T19:57:32.530660+00:00"
-    },
-    {
       "tweet": "Man, UFC 327 was wild. Ulberg blew out his knee and Jiri blew his title shot by being too nice. Absolute chaos.",
       "original_url": "https://www.espn.com/mma/story/_/id/48463309/carlos-ulberg-blew-knee-jiri-prochazka-blew-title-chance-ufc-327",
       "buzz_score": 75,
@@ -486,48 +453,37 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "So apparently the Nigerian air force just hit a market in Yobe state and killed a hundred people. They’re calling it a misfire like that makes it okay.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/12/nigeria-airstrike-market-yobe-state-boko-haram",
-      "buzz_score": 80,
+      "tweet": "Steven Soderbergh said he felt obligated to use AI for that John Lennon doc. Since when do we need machines to tell us what a guy sounded like",
+      "original_url": "https://kotaku.com/steven-soderbergh-says-he-felt-obligated-to-use-ai-on-john-lennon-documentary-2000686984",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Nigerian airstrike targeting jihadists reportedly kills at least 100 civilians",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-12T17:51:52.289047+00:00"
+      "original_title": "Steven Soderbergh Says He Felt “Obligated” To Use AI On John Lennon Documentary",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-12T17:51:52.289439+00:00"
     },
     {
-      "tweet": "Tom Dumont just dropped that he has Parkinson’s. It’s always the ones you grew up listening to that remind you everything is temporary.",
-      "original_url": "https://www.billboard.com/music/music-news/tom-dumont-no-doubt-parkinsons-disease-diagnosis-1236221183/",
-      "buzz_score": 80,
+      "tweet": "Seeing Morgan Wallen and Taylor Swift top the country charts just makes you realize how weird music is now.",
+      "original_url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "No Doubt’s Tom Dumont Reveals Early Onset Parkinson’s Disease Diagnosis: ‘It’s Been a Struggle’",
+      "original_title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
       "source": "Billboard",
       "category": "entertainment",
-      "added_at": "2026-04-12T17:51:52.288748+00:00"
+      "added_at": "2026-04-12T19:57:32.531790+00:00"
     },
     {
-      "tweet": "Reading through the best 90s sci-fi movies. Nothing from today hits the same.",
-      "original_url": "https://www.mentalfloss.com/entertainment/movies/best-sci-fi-movie-every-year-1990s?utm_source=RSS",
-      "buzz_score": 70,
+      "tweet": "Eddie Howe saying he's accountable for that Newcastle loss after three weeks off. Guess that's what you say when there's nothing else to say.",
+      "original_url": "https://www.bbc.com/sport/football/articles/cdxkgz70qv9o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "The Best Sci-Fi Movie From Every Year in the 1990s",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-12T19:57:32.532045+00:00"
-    },
-    {
-      "tweet": "Phil Garner passed away. Man, seeing these guys go makes you feel like time is moving way faster than it should.",
-      "original_url": "https://www.espn.com/mlb/story/_/id/48467343/three-all-star-former-manager-phil-garner-dies-age-76",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Three-time All-Star, former manager Garner dies",
-      "source": "ESPN",
+      "original_title": "'I'm not blind' - Howe 'accountable' for loss after three-week break",
+      "source": "BBC Sport",
       "category": "sports",
-      "added_at": "2026-04-12T19:57:32.530785+00:00"
+      "added_at": "2026-04-12T19:57:32.530660+00:00"
     },
     {
       "tweet": "The Hacks creators are already teasing a reboot after the finale. Can we just let a show end for once?",
@@ -574,15 +530,48 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
-      "tweet": "Another thirteen people gone in Lebanon after those strikes. Seems like the news is just endless at this point.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/rescuers-dig-through-rubble-after-deadly-israeli-strikes-in-south-lebanon?traffic_source=rss",
-      "buzz_score": 82,
-      "buzz_score2": 88,
+      "tweet": "So apparently the Nigerian air force just hit a market in Yobe state and killed a hundred people. They’re calling it a misfire like that makes it okay.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/12/nigeria-airstrike-market-yobe-state-boko-haram",
+      "buzz_score": 80,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Rescuers dig through rubble after deadly Israeli strikes in south Lebanon",
-      "source": "Al Jazeera",
+      "original_title": "Nigerian airstrike targeting jihadists reportedly kills at least 100 civilians",
+      "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-04-12T19:57:32.531424+00:00"
+      "added_at": "2026-04-12T17:51:52.289047+00:00"
+    },
+    {
+      "tweet": "Tom Dumont just dropped that he has Parkinson’s. It’s always the ones you grew up listening to that remind you everything is temporary.",
+      "original_url": "https://www.billboard.com/music/music-news/tom-dumont-no-doubt-parkinsons-disease-diagnosis-1236221183/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "No Doubt’s Tom Dumont Reveals Early Onset Parkinson’s Disease Diagnosis: ‘It’s Been a Struggle’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-12T17:51:52.288748+00:00"
+    },
+    {
+      "tweet": "Reading through the best 90s sci-fi movies. Nothing from today hits the same.",
+      "original_url": "https://www.mentalfloss.com/entertainment/movies/best-sci-fi-movie-every-year-1990s?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Best Sci-Fi Movie From Every Year in the 1990s",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-12T19:57:32.532045+00:00"
+    },
+    {
+      "tweet": "Phil Garner passed away. Man, seeing these guys go makes you feel like time is moving way faster than it should.",
+      "original_url": "https://www.espn.com/mlb/story/_/id/48467343/three-all-star-former-manager-phil-garner-dies-age-76",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Three-time All-Star, former manager Garner dies",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-12T19:57:32.530785+00:00"
     },
     {
       "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
@@ -594,6 +583,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-11T03:59:38.753282+00:00"
+    },
+    {
+      "tweet": "Another thirteen people gone in Lebanon after those strikes. Seems like the news is just endless at this point.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/rescuers-dig-through-rubble-after-deadly-israeli-strikes-in-south-lebanon?traffic_source=rss",
+      "buzz_score": 82,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Rescuers dig through rubble after deadly Israeli strikes in south Lebanon",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-12T19:57:32.531424+00:00"
     },
     {
       "tweet": "Hold on, influencers already have the new Xbox swag. They’re literally handing out the future before we can even buy the present.",
@@ -695,17 +695,6 @@
       "added_at": "2026-04-08T20:03:08.618965+00:00"
     },
     {
-      "tweet": "So apparently Iran thinks the US was just trying to dictate during those talks. Guess we're still pretending that approach works.",
-      "original_url": "https://www.nytimes.com/2026/04/12/world/middleeast/iran-united-states-negotiations.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "In Pakistan Talks, Iran Saw a U.S. Trying to Dictate, Not Negotiate",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-12T13:33:24.514596+00:00"
-    },
-    {
       "tweet": "Joe Jonas is out here teaching masterclasses on the perfect Coachella day party. Like that's the priority right now.",
       "original_url": "https://www.billboard.com/music/pop/joe-jonas-interview-coachella-day-club-aperol-1236218360/",
       "buzz_score": 80,
@@ -726,6 +715,28 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T22:23:59.524130+00:00"
+    },
+    {
+      "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
+      "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 78,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Forged through foster care - Ulberg's path to UFC title shot",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-11T09:01:18.261834+00:00"
+    },
+    {
+      "tweet": "So apparently Iran thinks the US was just trying to dictate during those talks. Guess we're still pretending that approach works.",
+      "original_url": "https://www.nytimes.com/2026/04/12/world/middleeast/iran-united-states-negotiations.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "In Pakistan Talks, Iran Saw a U.S. Trying to Dictate, Not Negotiate",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-12T13:33:24.514596+00:00"
     },
     {
       "tweet": "Thousands just swarmed the port in Barcelona for that flotilla headed to Gaza. It’s getting real over there.",
@@ -759,28 +770,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-12T15:50:47.586496+00:00"
-    },
-    {
-      "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
-      "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 78,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Forged through foster care - Ulberg's path to UFC title shot",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-11T09:01:18.261834+00:00"
-    },
-    {
-      "tweet": "Trying to build a SaaS in 2026 using only EU infrastructure. Sounds like a headache.",
-      "original_url": "https://eualternative.eu/guides/building-saas-eu-stack/",
-      "buzz_score": 70,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "Building a SaaS in 2026 Using Only EU Infrastructure",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-12T19:57:32.531667+00:00"
     },
     {
       "tweet": "So we're clearing mines in the Strait of Hormuz while talks are ongoing? Nothing like a little light work during a peace summit.",
@@ -871,26 +860,15 @@
       "added_at": "2026-04-08T15:44:16.953760+00:00"
     },
     {
-      "tweet": "Takamoto Katsuta just took the lead in the WRC after that wild ending in Croatia. Total chaos.",
-      "original_url": "https://www.bbc.com/sport/motorsport/articles/c0lejwg36e7o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
+      "tweet": "Trying to build a SaaS in 2026 using only EU infrastructure. Sounds like a headache.",
+      "original_url": "https://eualternative.eu/guides/building-saas-eu-stack/",
+      "buzz_score": 70,
+      "buzz_score2": 88,
       "rewrite_count": 0,
-      "original_title": "Drama as Katsuta wins to take WRC lead over Evans",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-12T13:33:24.514605+00:00"
-    },
-    {
-      "tweet": "Looking at the NFL draft risers and it’s crazy how much stock one season can move. It's really just a gamble at this point.",
-      "original_url": "https://www.espn.com/nfl/draft2026/story/_/id/48443025/2026-nfl-draft-risers-prospects-freeling-thieneman-iheanachor",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The NFL draft's biggest risers: Seven players who have boosted their stock",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-12T13:33:24.514600+00:00"
+      "original_title": "Building a SaaS in 2026 Using Only EU Infrastructure",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-12T19:57:32.531667+00:00"
     },
     {
       "tweet": "Israel just approved 34 new settlements in the West Bank. Like they're just not even pretending anymore",
@@ -913,6 +891,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-12T02:32:59.106860+00:00"
+    },
+    {
+      "tweet": "Takamoto Katsuta just took the lead in the WRC after that wild ending in Croatia. Total chaos.",
+      "original_url": "https://www.bbc.com/sport/motorsport/articles/c0lejwg36e7o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Drama as Katsuta wins to take WRC lead over Evans",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-12T13:33:24.514605+00:00"
+    },
+    {
+      "tweet": "Looking at the NFL draft risers and it’s crazy how much stock one season can move. It's really just a gamble at this point.",
+      "original_url": "https://www.espn.com/nfl/draft2026/story/_/id/48443025/2026-nfl-draft-risers-prospects-freeling-thieneman-iheanachor",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The NFL draft's biggest risers: Seven players who have boosted their stock",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-12T13:33:24.514600+00:00"
     },
     {
       "tweet": "Interview With the Vampire pretty much created the modern brooding vampire trope. I mean, Edward Cullen literally owes that book everything.",
