@@ -2,28 +2,6 @@
   "last_collected": "2026-04-13T11:40:07.733539+00:00",
   "queue": [
     {
-      "tweet": "Rory McIlroy actually pulled off the repeat at the Masters. That's legendary",
-      "original_url": "https://hypebeast.com/2026/4/hisashi-sushi-tokyo-japan-restaurant-opening-announcement-info-2",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Rory McIlroy Defends Masters Title With Historic Repeat",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-13T11:40:07.733041+00:00"
-    },
-    {
-      "tweet": "Sunderland is calling out the racist abuse Brobbey's getting online. Honestly, the internet is just the worst place sometimes",
-      "original_url": "https://www.bbc.com/sport/football/articles/c4gx5rdne35o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Sunderland condemn racist abuse of Brobbey",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-13T11:40:07.732530+00:00"
-    },
-    {
       "tweet": "Dude, seven countries are already running on basically all renewable energy. Imagine that. Turns out we're just choosing not to",
       "original_url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
       "buzz_score": 85,
@@ -167,17 +145,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Trump asked other countries to help out with that Iran blockade. Turns out he's throwing a party where nobody's showing up",
-      "original_url": "https://www.nytimes.com/2026/04/13/world/middleeast/trump-iran-blockade-strait-of-hormuz.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump Said Other Countries Would Help Blockade Iran. So Far, There Are No Takers.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-13T11:40:07.732013+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -187,6 +154,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Trump asked other countries to help out with that Iran blockade. Turns out he's throwing a party where nobody's showing up",
+      "original_url": "https://www.nytimes.com/2026/04/13/world/middleeast/trump-iran-blockade-strait-of-hormuz.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump Said Other Countries Would Help Blockade Iran. So Far, There Are No Takers.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-13T11:40:07.732013+00:00"
     },
     {
       "tweet": "The new Pokémon Champions launch is basically just customer service simulator. We're really just paying to be tech support now.",
@@ -695,28 +673,6 @@
       "added_at": "2026-04-09T22:23:59.524130+00:00"
     },
     {
-      "tweet": "Doc Rivers is already out with the Bucks after three years. At this point, that’s just how the league works.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48470896/sources-doc-rivers-three-years-bucks-coach",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sources: Rivers out after three years with Bucks",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-13T03:51:35.351135+00:00"
-    },
-    {
-      "tweet": "Britney Spears is back in treatment after that whole DUI thing. Just rough, man.",
-      "original_url": "https://www.billboard.com/music/music-news/britney-spears-treatment-facility-voluntary-check-in-1236221276/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Britney Spears Checked Herself Into a Treatment Facility, Rep Confirms",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-13T03:51:35.351131+00:00"
-    },
-    {
       "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
       "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 78,
@@ -827,15 +783,26 @@
       "added_at": "2026-04-12T19:57:32.531546+00:00"
     },
     {
-      "tweet": "So apparently Eric Swalwell is out of the race after all that stuff came out. Another one bites the dust.",
-      "original_url": "https://www.npr.org/2026/04/12/nx-s1-5782055/swalwell-suspends-campaign-assault-allegations-governor-california",
-      "buzz_score": 80,
+      "tweet": "Doc Rivers is already out with the Bucks after three years. At this point, that’s just how the league works.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48470896/sources-doc-rivers-three-years-bucks-coach",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Fighting assault allegations, Eric Swalwell suspends his bid for California governor",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-13T03:51:35.351128+00:00"
+      "original_title": "Sources: Rivers out after three years with Bucks",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-13T03:51:35.351135+00:00"
+    },
+    {
+      "tweet": "Britney Spears is back in treatment after that whole DUI thing. Just rough, man.",
+      "original_url": "https://www.billboard.com/music/music-news/britney-spears-treatment-facility-voluntary-check-in-1236221276/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Britney Spears Checked Herself Into a Treatment Facility, Rep Confirms",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-13T03:51:35.351131+00:00"
     },
     {
       "tweet": "Israel just approved 34 new settlements in the West Bank. Like they're just not even pretending anymore",
@@ -924,6 +891,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-12T13:33:24.514596+00:00"
+    },
+    {
+      "tweet": "So apparently Eric Swalwell is out of the race after all that stuff came out. Another one bites the dust.",
+      "original_url": "https://www.npr.org/2026/04/12/nx-s1-5782055/swalwell-suspends-campaign-assault-allegations-governor-california",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Fighting assault allegations, Eric Swalwell suspends his bid for California governor",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-13T03:51:35.351128+00:00"
     },
     {
       "tweet": "The Tisza party actually won in Hungary. The 16-year grip is gone.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 333,
+    "total_posted": 335,
     "total_collected": 985
   },
-  "last_posted_at": "2026-04-13T11:47:42.344359+00:00"
+  "last_posted_at": "2026-04-13T12:54:49.785764+00:00"
 }
