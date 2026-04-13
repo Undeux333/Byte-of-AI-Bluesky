@@ -2,28 +2,6 @@
   "last_collected": "2026-04-13T18:59:51.897207+00:00",
   "queue": [
     {
-      "tweet": "The Xbox boss basically said Game Pass is too expensive now. They finally realized we're not just gonna keep paying more for the same thing.",
-      "original_url": "https://kotaku.com/xbox-boss-thinks-game-pass-is-too-expensive-and-needs-to-evolve-2000687169",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Xbox Boss Thinks Game Pass Is Too Expensive And Needs To Evolve",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-13T18:59:51.896063+00:00"
-    },
-    {
-      "tweet": "Dude, people built a bot for Polymarket that just bets against everything that isn't sports. It's literally betting that nothing happens. Mood.",
-      "original_url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-13T18:59:51.895486+00:00"
-    },
-    {
       "tweet": "Arne Slot really thinks Liverpool can pull off a comeback against PSG after being down two goals. Does he know who he's coaching?",
       "original_url": "https://www.bbc.com/sport/football/articles/c203ly4y5zeo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -57,6 +35,28 @@
       "added_at": "2026-04-12T02:32:59.106863+00:00"
     },
     {
+      "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
+      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026",
+      "buzz_score": 90,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "📈 Ranking top men's hoops players in the portal",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
       "tweet": "Saw the clips from Coachella yesterday. I'm honestly just exhausted looking at the crowd. We're getting too old for that",
       "original_url": "https://www.billboard.com/lists/coachella-2026-day-three-best-young-thug-karol-g/",
       "buzz_score": 80,
@@ -79,17 +79,6 @@
       "added_at": "2026-04-13T16:53:34.821291+00:00"
     },
     {
-      "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
-      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "📈 Ranking top men's hoops players in the portal",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
       "tweet": "Jorginho is calling that whole Chappell Roan security thing a misunderstanding. Just another day of celebrities acting like they're in a war zone.",
       "original_url": "https://www.theguardian.com/music/2026/apr/13/jorginho-chappell-roan-security-incident-misunderstanding",
       "buzz_score": 85,
@@ -110,61 +99,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-13T18:59:51.895495+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Peru is literally extending voting into Monday because they ran out of computers and ballots. Imagine being a country and just forgetting the supplies",
-      "original_url": "https://www.theguardian.com/world/2026/apr/13/peru-presidential-election-voting",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Peru extends voting for president into Monday after chaos at polling stations",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-13T16:53:34.822165+00:00"
-    },
-    {
-      "tweet": "They're calling Carney a wartime leader now just to keep him in office. Pretty genius marketing move tho",
-      "original_url": "https://www.theguardian.com/world/2026/apr/13/mark-carney-canada-pm-liberals-majority",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘The perception is Carney is a wartime leader’: why Canada’s PM could secure a majority",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-13T11:40:07.732916+00:00"
-    },
-    {
-      "tweet": "Turns out the real winner in those African elections is just whoever has the most cash for fees. Democracy's just another paywall",
-      "original_url": "https://www.theguardian.com/global-development/2026/apr/13/elections-africa-soaring-nomination-fees-djibouti-benin",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "And the election winner is … the candidate who can afford Africa’s soaring nomination fees",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-13T11:40:07.732778+00:00"
-    },
-    {
-      "tweet": "Britney's back in rehab after that whole DUI thing. Rough to see, man. Sometimes you just need to step away from everything",
-      "original_url": "https://www.bbc.com/news/articles/ckgw8dy08m9o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Britney Spears goes into rehab after driving under the influence arrest",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-13T11:40:07.731835+00:00"
     },
     {
       "tweet": "The new Pokémon Champions launch is basically just customer service simulator. We're really just paying to be tech support now.",
@@ -277,70 +211,48 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Judge just tossed out that ten billion dollar lawsuit Trump filed against the Wall Street Journal. Seems like you can't just sue anyone who writes something you don't like",
-      "original_url": "https://www.npr.org/2026/04/13/g-s1-117248/judge-dismisses-trump-lawsuit-epstein-letter-wsj-story-murdoch",
-      "buzz_score": 88,
+      "tweet": "Peru is literally extending voting into Monday because they ran out of computers and ballots. Imagine being a country and just forgetting the supplies",
+      "original_url": "https://www.theguardian.com/world/2026/apr/13/peru-presidential-election-voting",
+      "buzz_score": 90,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Judge dismisses Trump's $10B lawsuit over the Wall Street Journal's Epstein reporting",
-      "source": "NPR News",
+      "original_title": "Peru extends voting for president into Monday after chaos at polling stations",
+      "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-04-13T16:53:34.821296+00:00"
+      "added_at": "2026-04-13T16:53:34.822165+00:00"
     },
     {
-      "tweet": "Cristian Romero is done for the season with that knee injury. Spurs really can’t catch a break at all",
-      "original_url": "https://www.bbc.com/sport/football/articles/c98mqrpz50vo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Spurs captain Romero out for rest of season with injury",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-13T16:53:34.821924+00:00"
-    },
-    {
-      "tweet": "RM from BTS is out here talking about how they're just a boy band from Korea while everyone else is stressing over the Super Bowl. Man's just vibing",
-      "original_url": "https://www.billboard.com/music/music-news/bts-super-bowl-competitors-taylor-swift-bruno-mars-1236221500/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "BTS Addresses Super Bowl Possibilities, Talks Being ‘Competitors’ With Taylor Swift & Bruno Mars",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-13T16:53:34.821450+00:00"
-    },
-    {
-      "tweet": "Pakistan managing the US-Iran talks is a weird timeline. Things are moving fast",
-      "original_url": "https://www.aljazeera.com/news/2026/4/13/how-the-us-iran-talks-in-islamabad-unfolded?traffic_source=rss",
-      "buzz_score": 70,
+      "tweet": "They're calling Carney a wartime leader now just to keep him in office. Pretty genius marketing move tho",
+      "original_url": "https://www.theguardian.com/world/2026/apr/13/mark-carney-canada-pm-liberals-majority",
+      "buzz_score": 75,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "How the US-Iran talks in Islamabad unfolded",
-      "source": "Al Jazeera",
+      "original_title": "‘The perception is Carney is a wartime leader’: why Canada’s PM could secure a majority",
+      "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-04-13T11:40:07.733412+00:00"
+      "added_at": "2026-04-13T11:40:07.732916+00:00"
     },
     {
-      "tweet": "Palace has another drop coming this week. My bank account is definitely gonna hate me",
-      "original_url": "https://hypebeast.com/2026/4/palace-skateboards-spring-2026-drop-11-release-info",
-      "buzz_score": 70,
+      "tweet": "Turns out the real winner in those African elections is just whoever has the most cash for fees. Democracy's just another paywall",
+      "original_url": "https://www.theguardian.com/global-development/2026/apr/13/elections-africa-soaring-nomination-fees-djibouti-benin",
+      "buzz_score": 75,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Everything Dropping at Palace This Week",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-13T11:40:07.733164+00:00"
+      "original_title": "And the election winner is … the candidate who can afford Africa’s soaring nomination fees",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-13T11:40:07.732778+00:00"
     },
     {
-      "tweet": "College coaches are out here trying to predict NFL sleepers for the draft. Like they'd actually know",
-      "original_url": "https://www.espn.com/nfl/draft2026/story/_/id/48380198/2026-nfl-draft-college-football-coaches-sleeper-picks",
-      "buzz_score": 70,
+      "tweet": "Britney's back in rehab after that whole DUI thing. Rough to see, man. Sometimes you just need to step away from everything",
+      "original_url": "https://www.bbc.com/news/articles/ckgw8dy08m9o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "College coaches pick 2026 NFL draft sleepers",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-13T11:40:07.732273+00:00"
+      "original_title": "Britney Spears goes into rehab after driving under the influence arrest",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-13T11:40:07.731835+00:00"
     },
     {
       "tweet": "So apparently those US-Iran talks in Pakistan just went nowhere. Vance is already heading home like it's just another meeting that didn't work out",
@@ -486,6 +398,72 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
+      "tweet": "Judge just tossed out that ten billion dollar lawsuit Trump filed against the Wall Street Journal. Seems like you can't just sue anyone who writes something you don't like",
+      "original_url": "https://www.npr.org/2026/04/13/g-s1-117248/judge-dismisses-trump-lawsuit-epstein-letter-wsj-story-murdoch",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Judge dismisses Trump's $10B lawsuit over the Wall Street Journal's Epstein reporting",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-13T16:53:34.821296+00:00"
+    },
+    {
+      "tweet": "Cristian Romero is done for the season with that knee injury. Spurs really can’t catch a break at all",
+      "original_url": "https://www.bbc.com/sport/football/articles/c98mqrpz50vo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Spurs captain Romero out for rest of season with injury",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-13T16:53:34.821924+00:00"
+    },
+    {
+      "tweet": "RM from BTS is out here talking about how they're just a boy band from Korea while everyone else is stressing over the Super Bowl. Man's just vibing",
+      "original_url": "https://www.billboard.com/music/music-news/bts-super-bowl-competitors-taylor-swift-bruno-mars-1236221500/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "BTS Addresses Super Bowl Possibilities, Talks Being ‘Competitors’ With Taylor Swift & Bruno Mars",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-13T16:53:34.821450+00:00"
+    },
+    {
+      "tweet": "Pakistan managing the US-Iran talks is a weird timeline. Things are moving fast",
+      "original_url": "https://www.aljazeera.com/news/2026/4/13/how-the-us-iran-talks-in-islamabad-unfolded?traffic_source=rss",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "How the US-Iran talks in Islamabad unfolded",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-13T11:40:07.733412+00:00"
+    },
+    {
+      "tweet": "Palace has another drop coming this week. My bank account is definitely gonna hate me",
+      "original_url": "https://hypebeast.com/2026/4/palace-skateboards-spring-2026-drop-11-release-info",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Everything Dropping at Palace This Week",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-13T11:40:07.733164+00:00"
+    },
+    {
+      "tweet": "College coaches are out here trying to predict NFL sleepers for the draft. Like they'd actually know",
+      "original_url": "https://www.espn.com/nfl/draft2026/story/_/id/48380198/2026-nfl-draft-college-football-coaches-sleeper-picks",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "College coaches pick 2026 NFL draft sleepers",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-13T11:40:07.732273+00:00"
+    },
+    {
       "tweet": "Workers are protesting in Noida 'cause the cost of living is insane. We're all feeling that one.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/indian-workers-protest-over-rising-living-cost?traffic_source=rss",
       "buzz_score": 75,
@@ -528,39 +506,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-13T18:59:51.895497+00:00"
-    },
-    {
-      "tweet": "Rory McIlroy won the Masters and spent four hours doing interviews after. That’s the real part of sports they don’t show on TV",
-      "original_url": "https://www.bbc.com/sport/golf/articles/cj0vdv3qzpdo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "McIlroy makes major warning after Masters triumph",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-13T16:53:34.821794+00:00"
-    },
-    {
-      "tweet": "Reading about Kobe's 60-point farewell again, and yeah, that really was the last time we saw anything like that.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48451916/kobe-bryant-last-game-10-year-anniversary",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "'He turned into the Black Mamba': Inside Kobe Bryant's 60-point farewell",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-13T14:20:44.700672+00:00"
-    },
-    {
-      "tweet": "Hold on, Trump just said the U.S. is gonna blockade Iranian ports after those peace talks fell apart. We're really doing that again.",
-      "original_url": "https://www.npr.org/2026/04/13/nx-s1-5782654/trump-says-us-will-blockade-iranian-ports-after-peace-talks-fail",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump says U.S. will blockade Iranian ports after peace talks fail",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-13T14:20:44.700118+00:00"
     },
     {
       "tweet": "Man, UFC 327 was wild. Ulberg blew out his knee and Jiri blew his title shot by being too nice. Absolute chaos.",
@@ -673,6 +618,39 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
+      "tweet": "Rory McIlroy won the Masters and spent four hours doing interviews after. That’s the real part of sports they don’t show on TV",
+      "original_url": "https://www.bbc.com/sport/golf/articles/cj0vdv3qzpdo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "McIlroy makes major warning after Masters triumph",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-13T16:53:34.821794+00:00"
+    },
+    {
+      "tweet": "Reading about Kobe's 60-point farewell again, and yeah, that really was the last time we saw anything like that.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48451916/kobe-bryant-last-game-10-year-anniversary",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "'He turned into the Black Mamba': Inside Kobe Bryant's 60-point farewell",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-13T14:20:44.700672+00:00"
+    },
+    {
+      "tweet": "Hold on, Trump just said the U.S. is gonna blockade Iranian ports after those peace talks fell apart. We're really doing that again.",
+      "original_url": "https://www.npr.org/2026/04/13/nx-s1-5782654/trump-says-us-will-blockade-iranian-ports-after-peace-talks-fail",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump says U.S. will blockade Iranian ports after peace talks fail",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-13T14:20:44.700118+00:00"
+    },
+    {
       "tweet": "Turns out the parents and agencies could've stopped that Southport attack. It's just depressing how much stuff could be prevented if people actually did their jobs.",
       "original_url": "https://www.nytimes.com/2026/04/13/world/europe/southport-attack-killers-parents-report.html",
       "buzz_score": 70,
@@ -682,17 +660,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-13T18:59:51.896445+00:00"
-    },
-    {
-      "tweet": "Maryland actually passed a law to keep rap lyrics out of criminal cases. About time someone called that practice what it is.",
-      "original_url": "https://www.billboard.com/pro/maryland-law-restricts-lyrics-in-criminal-cases/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘An Attack On Creative Freedom’: Maryland Passes New Law to Keep Rap Lyrics Out of Criminal Cases",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-13T14:20:44.700422+00:00"
     },
     {
       "tweet": "The Hacks creators are already teasing a reboot after the finale. Can we just let a show end for once?",
@@ -750,6 +717,17 @@
       "added_at": "2026-04-11T03:59:38.753282+00:00"
     },
     {
+      "tweet": "Maryland actually passed a law to keep rap lyrics out of criminal cases. About time someone called that practice what it is.",
+      "original_url": "https://www.billboard.com/pro/maryland-law-restricts-lyrics-in-criminal-cases/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘An Attack On Creative Freedom’: Maryland Passes New Law to Keep Rap Lyrics Out of Criminal Cases",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-13T14:20:44.700422+00:00"
+    },
+    {
       "tweet": "Some guy just set a Mario 64 world record right after saying he was cooked. We’ve all been there, just calling it before the win.",
       "original_url": "https://kotaku.com/speedrunner-breaks-super-mario-64-record-nintendo-2000687113",
       "buzz_score": 80,
@@ -781,17 +759,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-08T04:12:50.486178+00:00"
-    },
-    {
-      "tweet": "Trump asked other countries to help out with that Iran blockade. Turns out he's throwing a party where nobody's showing up",
-      "original_url": "https://www.nytimes.com/2026/04/13/world/middleeast/trump-iran-blockade-strait-of-hormuz.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump Said Other Countries Would Help Blockade Iran. So Far, There Are No Takers.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-13T11:40:07.732013+00:00"
     },
     {
       "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
@@ -871,15 +838,15 @@
       "added_at": "2026-04-11T09:01:18.261834+00:00"
     },
     {
-      "tweet": "So apparently the whole EU is celebrating because that Orban guy finally got the boot. They're acting like they just won the Super Bowl",
-      "original_url": "https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
+      "tweet": "Trump asked other countries to help out with that Iran blockade. Turns out he's throwing a party where nobody's showing up",
+      "original_url": "https://www.nytimes.com/2026/04/13/world/middleeast/trump-iran-blockade-strait-of-hormuz.html",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold",
-      "source": "BBC World",
+      "original_title": "Trump Said Other Countries Would Help Blockade Iran. So Far, There Are No Takers.",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-04-13T11:40:07.731832+00:00"
+      "added_at": "2026-04-13T11:40:07.732013+00:00"
     },
     {
       "tweet": "So we're clearing mines in the Strait of Hormuz while talks are ongoing? Nothing like a little light work during a peace summit.",
@@ -1023,6 +990,17 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-11T18:28:31.087001+00:00"
+    },
+    {
+      "tweet": "So apparently the whole EU is celebrating because that Orban guy finally got the boot. They're acting like they just won the Super Bowl",
+      "original_url": "https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-13T11:40:07.731832+00:00"
     },
     {
       "tweet": "Doc Rivers is already out with the Bucks after three years. At this point, that’s just how the league works.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 344,
+    "total_posted": 346,
     "total_collected": 1032
   },
-  "last_posted_at": "2026-04-13T19:05:30.362382+00:00"
+  "last_posted_at": "2026-04-13T20:10:54.848548+00:00"
 }
