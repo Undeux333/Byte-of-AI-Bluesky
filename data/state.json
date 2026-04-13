@@ -2,17 +2,6 @@
   "last_collected": "2026-04-12T22:22:35.617600+00:00",
   "queue": [
     {
-      "tweet": "Reading about all these 'life-changing' anxiety gadgets on Amazon. We're all just trying to keep it together, huh.",
-      "original_url": "https://www.bustle.com/shopping/if-youre-anxious-af-these-clever-things-with-near-perfect-reviews-are-life-changing",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "If You're Anxious AF, These Clever Things With Near-Perfect Reviews Are Life-Changing",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-04-12T22:22:35.616976+00:00"
-    },
-    {
       "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
       "buzz_score": 95,
@@ -22,6 +11,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251727+00:00"
+    },
+    {
+      "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
+      "original_url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
+      "buzz_score": 92,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Mexico’s Police Focus on World Cup While Thousands Remain Missing",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-12T02:32:59.106863+00:00"
     },
     {
       "tweet": "The new Pokémon Champions launch is basically just customer service simulator. We're really just paying to be tech support now.",
@@ -55,17 +55,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-12T15:50:47.586484+00:00"
-    },
-    {
-      "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
-      "original_url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
-      "buzz_score": 92,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mexico’s Police Focus on World Cup While Thousands Remain Missing",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-12T02:32:59.106863+00:00"
     },
     {
       "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
@@ -387,17 +376,6 @@
       "added_at": "2026-04-12T19:57:32.531546+00:00"
     },
     {
-      "tweet": "K-pop albums are everywhere on the Billboard 200 now. It's actually wild how far that's come.",
-      "original_url": "https://www.billboard.com/lists/k-pop-albums-number-one-billboard-200-albums-full-list/",
-      "buzz_score": 72,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Here Are All the K-Pop Albums That Have Topped the Billboard 200: Full List",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-12T19:57:32.531923+00:00"
-    },
-    {
       "tweet": "Man, UFC 327 was wild. Ulberg blew out his knee and Jiri blew his title shot by being too nice. Absolute chaos.",
       "original_url": "https://www.espn.com/mma/story/_/id/48463309/carlos-ulberg-blew-knee-jiri-prochazka-blew-title-chance-ufc-327",
       "buzz_score": 75,
@@ -506,6 +484,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T12:09:23.834019+00:00"
+    },
+    {
+      "tweet": "K-pop albums are everywhere on the Billboard 200 now. It's actually wild how far that's come.",
+      "original_url": "https://www.billboard.com/lists/k-pop-albums-number-one-billboard-200-albums-full-list/",
+      "buzz_score": 72,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Here Are All the K-Pop Albums That Have Topped the Billboard 200: Full List",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-12T19:57:32.531923+00:00"
     },
     {
       "tweet": "Vaaks is actually transferring to Illinois. Big move for the squad.",
@@ -629,28 +618,6 @@
       "added_at": "2026-04-12T19:57:32.530660+00:00"
     },
     {
-      "tweet": "So apparently the Nigerian air force just hit a market in Yobe state and killed a hundred people. They’re calling it a misfire like that makes it okay.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/12/nigeria-airstrike-market-yobe-state-boko-haram",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Nigerian airstrike targeting jihadists reportedly kills at least 100 civilians",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-12T17:51:52.289047+00:00"
-    },
-    {
-      "tweet": "Tom Dumont just dropped that he has Parkinson’s. It’s always the ones you grew up listening to that remind you everything is temporary.",
-      "original_url": "https://www.billboard.com/music/music-news/tom-dumont-no-doubt-parkinsons-disease-diagnosis-1236221183/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "No Doubt’s Tom Dumont Reveals Early Onset Parkinson’s Disease Diagnosis: ‘It’s Been a Struggle’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-12T17:51:52.288748+00:00"
-    },
-    {
       "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 82,
@@ -684,26 +651,26 @@
       "added_at": "2026-04-08T20:03:08.618965+00:00"
     },
     {
-      "tweet": "Reading through the best 90s sci-fi movies. Nothing from today hits the same.",
-      "original_url": "https://www.mentalfloss.com/entertainment/movies/best-sci-fi-movie-every-year-1990s?utm_source=RSS",
-      "buzz_score": 70,
+      "tweet": "So apparently the Nigerian air force just hit a market in Yobe state and killed a hundred people. They’re calling it a misfire like that makes it okay.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/12/nigeria-airstrike-market-yobe-state-boko-haram",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "The Best Sci-Fi Movie From Every Year in the 1990s",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-12T19:57:32.532045+00:00"
+      "original_title": "Nigerian airstrike targeting jihadists reportedly kills at least 100 civilians",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-12T17:51:52.289047+00:00"
     },
     {
-      "tweet": "Phil Garner passed away. Man, seeing these guys go makes you feel like time is moving way faster than it should.",
-      "original_url": "https://www.espn.com/mlb/story/_/id/48467343/three-all-star-former-manager-phil-garner-dies-age-76",
-      "buzz_score": 70,
+      "tweet": "Tom Dumont just dropped that he has Parkinson’s. It’s always the ones you grew up listening to that remind you everything is temporary.",
+      "original_url": "https://www.billboard.com/music/music-news/tom-dumont-no-doubt-parkinsons-disease-diagnosis-1236221183/",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Three-time All-Star, former manager Garner dies",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-12T19:57:32.530785+00:00"
+      "original_title": "No Doubt’s Tom Dumont Reveals Early Onset Parkinson’s Disease Diagnosis: ‘It’s Been a Struggle’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-12T17:51:52.288748+00:00"
     },
     {
       "tweet": "Joe Jonas is out here teaching masterclasses on the perfect Coachella day party. Like that's the priority right now.",
@@ -728,15 +695,26 @@
       "added_at": "2026-04-09T22:23:59.524130+00:00"
     },
     {
-      "tweet": "Another thirteen people gone in Lebanon after those strikes. Seems like the news is just endless at this point.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/rescuers-dig-through-rubble-after-deadly-israeli-strikes-in-south-lebanon?traffic_source=rss",
-      "buzz_score": 82,
-      "buzz_score2": 88,
+      "tweet": "Reading through the best 90s sci-fi movies. Nothing from today hits the same.",
+      "original_url": "https://www.mentalfloss.com/entertainment/movies/best-sci-fi-movie-every-year-1990s?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Rescuers dig through rubble after deadly Israeli strikes in south Lebanon",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-12T19:57:32.531424+00:00"
+      "original_title": "The Best Sci-Fi Movie From Every Year in the 1990s",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-12T19:57:32.532045+00:00"
+    },
+    {
+      "tweet": "Phil Garner passed away. Man, seeing these guys go makes you feel like time is moving way faster than it should.",
+      "original_url": "https://www.espn.com/mlb/story/_/id/48467343/three-all-star-former-manager-phil-garner-dies-age-76",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Three-time All-Star, former manager Garner dies",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-12T19:57:32.530785+00:00"
     },
     {
       "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
@@ -750,37 +728,15 @@
       "added_at": "2026-04-11T09:01:18.261834+00:00"
     },
     {
-      "tweet": "Hold on, influencers already have the new Xbox swag. They’re literally handing out the future before we can even buy the present.",
-      "original_url": "https://kotaku.com/next-gen-xbox-swag-has-already-begun-circulating-with-influencers-project-helix-2000686887",
-      "buzz_score": 75,
-      "buzz_score2": 90,
+      "tweet": "Another thirteen people gone in Lebanon after those strikes. Seems like the news is just endless at this point.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/rescuers-dig-through-rubble-after-deadly-israeli-strikes-in-south-lebanon?traffic_source=rss",
+      "buzz_score": 82,
+      "buzz_score2": 88,
       "rewrite_count": 0,
-      "original_title": "Next Gen Xbox Swag Has Already Begun Circulating With Influencers",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-12T17:51:52.289308+00:00"
-    },
-    {
-      "tweet": "Seeing Cristian Romero crying after that Tottenham game is tough. Is this really how we’re gonna remember their whole season",
-      "original_url": "https://www.bbc.com/sport/football/articles/ce8lnjd7n4po?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Will Romero's tears become the enduring image of Tottenham's season?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-12T17:51:52.288912+00:00"
-    },
-    {
-      "tweet": "Man, Asha Bhosle died at 92. It’s wild thinking about how one voice can be the actual soundtrack for someone’s entire life.",
-      "original_url": "https://www.nytimes.com/2026/04/12/world/asia/asha-bhosle-india-singer-bollywood.html",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Asha Bhosle, One of India’s Most Beloved Singers, Dies at 92",
-      "source": "NYT World",
+      "original_title": "Rescuers dig through rubble after deadly Israeli strikes in south Lebanon",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-04-12T17:51:52.288720+00:00"
+      "added_at": "2026-04-12T19:57:32.531424+00:00"
     },
     {
       "tweet": "So we're clearing mines in the Strait of Hormuz while talks are ongoing? Nothing like a little light work during a peace summit.",
@@ -871,6 +827,61 @@
       "added_at": "2026-04-08T15:44:16.953760+00:00"
     },
     {
+      "tweet": "Hold on, influencers already have the new Xbox swag. They’re literally handing out the future before we can even buy the present.",
+      "original_url": "https://kotaku.com/next-gen-xbox-swag-has-already-begun-circulating-with-influencers-project-helix-2000686887",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Next Gen Xbox Swag Has Already Begun Circulating With Influencers",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-12T17:51:52.289308+00:00"
+    },
+    {
+      "tweet": "Seeing Cristian Romero crying after that Tottenham game is tough. Is this really how we’re gonna remember their whole season",
+      "original_url": "https://www.bbc.com/sport/football/articles/ce8lnjd7n4po?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Will Romero's tears become the enduring image of Tottenham's season?",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-12T17:51:52.288912+00:00"
+    },
+    {
+      "tweet": "Man, Asha Bhosle died at 92. It’s wild thinking about how one voice can be the actual soundtrack for someone’s entire life.",
+      "original_url": "https://www.nytimes.com/2026/04/12/world/asia/asha-bhosle-india-singer-bollywood.html",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Asha Bhosle, One of India’s Most Beloved Singers, Dies at 92",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-12T17:51:52.288720+00:00"
+    },
+    {
+      "tweet": "Israel just approved 34 new settlements in the West Bank. Like they're just not even pretending anymore",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank?traffic_source=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Palestinians appalled as Israel approves settlements in occupied West Bank",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-12T02:32:59.107054+00:00"
+    },
+    {
+      "tweet": "So apparently Hungarians are finally voting on that whole Orbán thing today. 16 years is a long time to keep one person in charge",
+      "original_url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hungarians decide whether to end 16 years of Orbán rule and elect rival",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-12T02:32:59.106860+00:00"
+    },
+    {
       "tweet": "Albanese is out here asking Israel to stop the attacks during a ceasefire. That’s how you know the whole thing is broken.",
       "original_url": "https://www.theguardian.com/australia-news/2026/apr/13/anthony-albanese-urges-israel-to-stop-lebanon-attacks-that-intensified-during-middle-east-ceasefire",
       "buzz_score": 80,
@@ -902,28 +913,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-12T15:50:47.586490+00:00"
-    },
-    {
-      "tweet": "Israel just approved 34 new settlements in the West Bank. Like they're just not even pretending anymore",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank?traffic_source=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Palestinians appalled as Israel approves settlements in occupied West Bank",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-12T02:32:59.107054+00:00"
-    },
-    {
-      "tweet": "So apparently Hungarians are finally voting on that whole Orbán thing today. 16 years is a long time to keep one person in charge",
-      "original_url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hungarians decide whether to end 16 years of Orbán rule and elect rival",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-12T02:32:59.106860+00:00"
     },
     {
       "tweet": "Interview With the Vampire pretty much created the modern brooding vampire trope. I mean, Edward Cullen literally owes that book everything.",
@@ -1996,8 +1985,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 327,
+    "total_posted": 328,
     "total_collected": 959
   },
-  "last_posted_at": "2026-04-12T23:46:42.633291+00:00"
+  "last_posted_at": "2026-04-13T00:05:26.525327+00:00"
 }
