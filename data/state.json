@@ -409,28 +409,6 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "Doc Rivers is already out with the Bucks after three years. At this point, that’s just how the league works.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48470896/sources-doc-rivers-three-years-bucks-coach",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sources: Rivers out after three years with Bucks",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-13T03:51:35.351135+00:00"
-    },
-    {
-      "tweet": "Britney Spears is back in treatment after that whole DUI thing. Just rough, man.",
-      "original_url": "https://www.billboard.com/music/music-news/britney-spears-treatment-facility-voluntary-check-in-1236221276/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Britney Spears Checked Herself Into a Treatment Facility, Rep Confirms",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-13T03:51:35.351131+00:00"
-    },
-    {
       "tweet": "The Hacks creators are already teasing a reboot after the finale. Can we just let a show end for once?",
       "original_url": "https://variety.com/2026/tv/news/hacks-cast-creators-never-say-never-future-reboot-1236712715/",
       "buzz_score": 70,
@@ -486,15 +464,26 @@
       "added_at": "2026-04-11T03:59:38.753282+00:00"
     },
     {
-      "tweet": "So apparently Eric Swalwell is out of the race after all that stuff came out. Another one bites the dust.",
-      "original_url": "https://www.npr.org/2026/04/12/nx-s1-5782055/swalwell-suspends-campaign-assault-allegations-governor-california",
-      "buzz_score": 80,
+      "tweet": "Doc Rivers is already out with the Bucks after three years. At this point, that’s just how the league works.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48470896/sources-doc-rivers-three-years-bucks-coach",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Fighting assault allegations, Eric Swalwell suspends his bid for California governor",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-13T03:51:35.351128+00:00"
+      "original_title": "Sources: Rivers out after three years with Bucks",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-13T03:51:35.351135+00:00"
+    },
+    {
+      "tweet": "Britney Spears is back in treatment after that whole DUI thing. Just rough, man.",
+      "original_url": "https://www.billboard.com/music/music-news/britney-spears-treatment-facility-voluntary-check-in-1236221276/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Britney Spears Checked Herself Into a Treatment Facility, Rep Confirms",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-13T03:51:35.351131+00:00"
     },
     {
       "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
@@ -528,6 +517,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-08T20:03:08.618965+00:00"
+    },
+    {
+      "tweet": "So apparently Eric Swalwell is out of the race after all that stuff came out. Another one bites the dust.",
+      "original_url": "https://www.npr.org/2026/04/12/nx-s1-5782055/swalwell-suspends-campaign-assault-allegations-governor-california",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Fighting assault allegations, Eric Swalwell suspends his bid for California governor",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-13T03:51:35.351128+00:00"
     },
     {
       "tweet": "Orban actually conceded in Hungary. Looks like the upstart guy Magyar really pulled it off.",
