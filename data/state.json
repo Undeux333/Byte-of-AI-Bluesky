@@ -2,15 +2,15 @@
   "last_collected": "2026-04-13T16:53:34.822766+00:00",
   "queue": [
     {
-      "tweet": "Did you know Bruce Springsteen wrote like half the songs you grew up listening to. It’s wild how we just hear a track and assume the guy singing it actually sat down and wrote the whole thing",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/songs-didnt-know-written-bruce-springsteen?utm_source=RSS",
-      "buzz_score": 85,
+      "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
+      "buzz_score": 95,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "6 Songs You Might Not Know Were Written By Bruce Springsteen",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-13T16:53:34.821284+00:00"
+      "original_title": "UK’s Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing St",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251727+00:00"
     },
     {
       "tweet": "Saw the clips from Coachella yesterday. I'm honestly just exhausted looking at the crowd. We're getting too old for that",
@@ -35,15 +35,15 @@
       "added_at": "2026-04-13T16:53:34.821291+00:00"
     },
     {
-      "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
-      "buzz_score": 95,
+      "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
+      "original_url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
+      "buzz_score": 92,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "UK’s Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing St",
-      "source": "Al Jazeera",
+      "original_title": "Mexico’s Police Focus on World Cup While Thousands Remain Missing",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-04-09T07:14:41.251727+00:00"
+      "added_at": "2026-04-12T02:32:59.106863+00:00"
     },
     {
       "tweet": "Peru is literally extending voting into Monday because they ran out of computers and ballots. Imagine being a country and just forgetting the supplies",
@@ -55,6 +55,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-13T16:53:34.822165+00:00"
+    },
+    {
+      "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
+      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026",
+      "buzz_score": 90,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "📈 Ranking top men's hoops players in the portal",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
       "tweet": "They're calling Carney a wartime leader now just to keep him in office. Pretty genius marketing move tho",
@@ -101,26 +112,15 @@
       "added_at": "2026-04-13T16:53:34.821296+00:00"
     },
     {
-      "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
-      "original_url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
-      "buzz_score": 92,
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Mexico’s Police Focus on World Cup While Thousands Remain Missing",
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
       "source": "NYT World",
       "category": "world",
-      "added_at": "2026-04-12T02:32:59.106863+00:00"
-    },
-    {
-      "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
-      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "📈 Ranking top men's hoops players in the portal",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-09T07:14:41.251481+00:00"
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "Cristian Romero is done for the season with that knee injury. Spurs really can’t catch a break at all",
@@ -143,50 +143,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-13T16:53:34.821450+00:00"
-    },
-    {
-      "tweet": "Pakistan managing the US-Iran talks is a weird timeline. Things are moving fast",
-      "original_url": "https://www.aljazeera.com/news/2026/4/13/how-the-us-iran-talks-in-islamabad-unfolded?traffic_source=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "How the US-Iran talks in Islamabad unfolded",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-13T11:40:07.733412+00:00"
-    },
-    {
-      "tweet": "Palace has another drop coming this week. My bank account is definitely gonna hate me",
-      "original_url": "https://hypebeast.com/2026/4/palace-skateboards-spring-2026-drop-11-release-info",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Everything Dropping at Palace This Week",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-13T11:40:07.733164+00:00"
-    },
-    {
-      "tweet": "College coaches are out here trying to predict NFL sleepers for the draft. Like they'd actually know",
-      "original_url": "https://www.espn.com/nfl/draft2026/story/_/id/48380198/2026-nfl-draft-college-football-coaches-sleeper-picks",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "College coaches pick 2026 NFL draft sleepers",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-13T11:40:07.732273+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "The new Pokémon Champions launch is basically just customer service simulator. We're really just paying to be tech support now.",
@@ -297,6 +253,39 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
+    },
+    {
+      "tweet": "Pakistan managing the US-Iran talks is a weird timeline. Things are moving fast",
+      "original_url": "https://www.aljazeera.com/news/2026/4/13/how-the-us-iran-talks-in-islamabad-unfolded?traffic_source=rss",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "How the US-Iran talks in Islamabad unfolded",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-13T11:40:07.733412+00:00"
+    },
+    {
+      "tweet": "Palace has another drop coming this week. My bank account is definitely gonna hate me",
+      "original_url": "https://hypebeast.com/2026/4/palace-skateboards-spring-2026-drop-11-release-info",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Everything Dropping at Palace This Week",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-13T11:40:07.733164+00:00"
+    },
+    {
+      "tweet": "College coaches are out here trying to predict NFL sleepers for the draft. Like they'd actually know",
+      "original_url": "https://www.espn.com/nfl/draft2026/story/_/id/48380198/2026-nfl-draft-college-football-coaches-sleeper-picks",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "College coaches pick 2026 NFL draft sleepers",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-13T11:40:07.732273+00:00"
     },
     {
       "tweet": "Rory McIlroy won the Masters and spent four hours doing interviews after. That’s the real part of sports they don’t show on TV",
@@ -662,17 +651,6 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
-      "tweet": "Trump asked other countries to help out with that Iran blockade. Turns out he's throwing a party where nobody's showing up",
-      "original_url": "https://www.nytimes.com/2026/04/13/world/middleeast/trump-iran-blockade-strait-of-hormuz.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump Said Other Countries Would Help Blockade Iran. So Far, There Are No Takers.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-13T11:40:07.732013+00:00"
-    },
-    {
       "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
       "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
       "buzz_score": 88,
@@ -684,15 +662,15 @@
       "added_at": "2026-04-11T03:59:38.753282+00:00"
     },
     {
-      "tweet": "So apparently the whole EU is celebrating because that Orban guy finally got the boot. They're acting like they just won the Super Bowl",
-      "original_url": "https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
+      "tweet": "Trump asked other countries to help out with that Iran blockade. Turns out he's throwing a party where nobody's showing up",
+      "original_url": "https://www.nytimes.com/2026/04/13/world/middleeast/trump-iran-blockade-strait-of-hormuz.html",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold",
-      "source": "BBC World",
+      "original_title": "Trump Said Other Countries Would Help Blockade Iran. So Far, There Are No Takers.",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-04-13T11:40:07.731832+00:00"
+      "added_at": "2026-04-13T11:40:07.732013+00:00"
     },
     {
       "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
@@ -726,6 +704,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-08T20:03:08.618965+00:00"
+    },
+    {
+      "tweet": "So apparently the whole EU is celebrating because that Orban guy finally got the boot. They're acting like they just won the Super Bowl",
+      "original_url": "https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-13T11:40:07.731832+00:00"
     },
     {
       "tweet": "Orban actually conceded in Hungary. Looks like the upstart guy Magyar really pulled it off.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 341,
+    "total_posted": 342,
     "total_collected": 1016
   },
-  "last_posted_at": "2026-04-13T17:00:23.252607+00:00"
+  "last_posted_at": "2026-04-13T17:51:03.440996+00:00"
 }
