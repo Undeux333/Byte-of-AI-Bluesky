@@ -2,28 +2,6 @@
   "last_collected": "2026-04-13T14:20:44.701545+00:00",
   "queue": [
     {
-      "tweet": "This Peter Magyar guy just trounced the entire Hungarian government. Two-thirds majority. Wild",
-      "original_url": "https://www.aljazeera.com/news/2026/4/13/who-is-peter-magyar-hungarys-new-leader-who-trounced-viktor-orban?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Who is Peter Magyar, Hungary’s new leader who trounced Viktor Orban?",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-13T11:40:07.732655+00:00"
-    },
-    {
-      "tweet": "Pogacar is still chasing that Paris-Roubaix win. That race is straight up hell. Man",
-      "original_url": "https://www.bbc.com/sport/cycling/articles/cx2vld6yl3no?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Another Sunday In Hell: The brutal race that thwarts the greats",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-13T11:40:07.732401+00:00"
-    },
-    {
       "tweet": "Saw the clips from Coachella yesterday. I'm honestly just exhausted looking at the crowd. We're getting too old for that",
       "original_url": "https://www.billboard.com/lists/coachella-2026-day-three-best-young-thug-karol-g/",
       "buzz_score": 80,
@@ -68,6 +46,17 @@
       "added_at": "2026-04-13T11:40:07.731835+00:00"
     },
     {
+      "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "UK’s Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing St",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251727+00:00"
+    },
+    {
       "tweet": "Pakistan managing the US-Iran talks is a weird timeline. Things are moving fast",
       "original_url": "https://www.aljazeera.com/news/2026/4/13/how-the-us-iran-talks-in-islamabad-unfolded?traffic_source=rss",
       "buzz_score": 70,
@@ -101,39 +90,6 @@
       "added_at": "2026-04-13T11:40:07.732273+00:00"
     },
     {
-      "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "UK’s Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing St",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251727+00:00"
-    },
-    {
-      "tweet": "Reading about Kobe's 60-point farewell again, and yeah, that really was the last time we saw anything like that.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48451916/kobe-bryant-last-game-10-year-anniversary",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "'He turned into the Black Mamba': Inside Kobe Bryant's 60-point farewell",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-13T14:20:44.700672+00:00"
-    },
-    {
-      "tweet": "Hold on, Trump just said the U.S. is gonna blockade Iranian ports after those peace talks fell apart. We're really doing that again.",
-      "original_url": "https://www.npr.org/2026/04/13/nx-s1-5782654/trump-says-us-will-blockade-iranian-ports-after-peace-talks-fail",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump says U.S. will blockade Iranian ports after peace talks fail",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-13T14:20:44.700118+00:00"
-    },
-    {
       "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
       "original_url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
       "buzz_score": 92,
@@ -156,15 +112,26 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Maryland actually passed a law to keep rap lyrics out of criminal cases. About time someone called that practice what it is.",
-      "original_url": "https://www.billboard.com/pro/maryland-law-restricts-lyrics-in-criminal-cases/",
-      "buzz_score": 85,
+      "tweet": "Reading about Kobe's 60-point farewell again, and yeah, that really was the last time we saw anything like that.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48451916/kobe-bryant-last-game-10-year-anniversary",
+      "buzz_score": 90,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "‘An Attack On Creative Freedom’: Maryland Passes New Law to Keep Rap Lyrics Out of Criminal Cases",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-13T14:20:44.700422+00:00"
+      "original_title": "'He turned into the Black Mamba': Inside Kobe Bryant's 60-point farewell",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-13T14:20:44.700672+00:00"
+    },
+    {
+      "tweet": "Hold on, Trump just said the U.S. is gonna blockade Iranian ports after those peace talks fell apart. We're really doing that again.",
+      "original_url": "https://www.npr.org/2026/04/13/nx-s1-5782654/trump-says-us-will-blockade-iranian-ports-after-peace-talks-fail",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump says U.S. will blockade Iranian ports after peace talks fail",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-13T14:20:44.700118+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -288,26 +255,15 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Some guy just set a Mario 64 world record right after saying he was cooked. We’ve all been there, just calling it before the win.",
-      "original_url": "https://kotaku.com/speedrunner-breaks-super-mario-64-record-nintendo-2000687113",
-      "buzz_score": 80,
+      "tweet": "Maryland actually passed a law to keep rap lyrics out of criminal cases. About time someone called that practice what it is.",
+      "original_url": "https://www.billboard.com/pro/maryland-law-restricts-lyrics-in-criminal-cases/",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Just Moments After Declaring Himself ‘Cooked,’ Speedrunner Breaks Major Mario 64 World Record",
-      "source": "Kotaku",
+      "original_title": "‘An Attack On Creative Freedom’: Maryland Passes New Law to Keep Rap Lyrics Out of Criminal Cases",
+      "source": "Billboard",
       "category": "entertainment",
-      "added_at": "2026-04-13T14:20:44.701419+00:00"
-    },
-    {
-      "tweet": "Android finally stops you from sharing location data in your photos by default. Took them long enough to realize we don't need the whole world tracking our dinner spot.",
-      "original_url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Android now stops you sharing your location in photos",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-13T14:20:44.700113+00:00"
+      "added_at": "2026-04-13T14:20:44.700422+00:00"
     },
     {
       "tweet": "So apparently those US-Iran talks in Pakistan just went nowhere. Vance is already heading home like it's just another meeting that didn't work out",
@@ -453,15 +409,26 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Trump asked other countries to help out with that Iran blockade. Turns out he's throwing a party where nobody's showing up",
-      "original_url": "https://www.nytimes.com/2026/04/13/world/middleeast/trump-iran-blockade-strait-of-hormuz.html",
-      "buzz_score": 85,
+      "tweet": "Some guy just set a Mario 64 world record right after saying he was cooked. We’ve all been there, just calling it before the win.",
+      "original_url": "https://kotaku.com/speedrunner-breaks-super-mario-64-record-nintendo-2000687113",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Trump Said Other Countries Would Help Blockade Iran. So Far, There Are No Takers.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-13T11:40:07.732013+00:00"
+      "original_title": "Just Moments After Declaring Himself ‘Cooked,’ Speedrunner Breaks Major Mario 64 World Record",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-13T14:20:44.701419+00:00"
+    },
+    {
+      "tweet": "Android finally stops you from sharing location data in your photos by default. Took them long enough to realize we don't need the whole world tracking our dinner spot.",
+      "original_url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Android now stops you sharing your location in photos",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-13T14:20:44.700113+00:00"
     },
     {
       "tweet": "Man, UFC 327 was wild. Ulberg blew out his knee and Jiri blew his title shot by being too nice. Absolute chaos.",
@@ -574,15 +541,15 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "So apparently the whole EU is celebrating because that Orban guy finally got the boot. They're acting like they just won the Super Bowl",
-      "original_url": "https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
+      "tweet": "Trump asked other countries to help out with that Iran blockade. Turns out he's throwing a party where nobody's showing up",
+      "original_url": "https://www.nytimes.com/2026/04/13/world/middleeast/trump-iran-blockade-strait-of-hormuz.html",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold",
-      "source": "BBC World",
+      "original_title": "Trump Said Other Countries Would Help Blockade Iran. So Far, There Are No Takers.",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-04-13T11:40:07.731832+00:00"
+      "added_at": "2026-04-13T11:40:07.732013+00:00"
     },
     {
       "tweet": "The Hacks creators are already teasing a reboot after the finale. Can we just let a show end for once?",
@@ -627,6 +594,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T16:56:43.712347+00:00"
+    },
+    {
+      "tweet": "So apparently the whole EU is celebrating because that Orban guy finally got the boot. They're acting like they just won the Super Bowl",
+      "original_url": "https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-13T11:40:07.731832+00:00"
     },
     {
       "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
@@ -816,28 +794,6 @@
       "added_at": "2026-04-08T15:44:16.953760+00:00"
     },
     {
-      "tweet": "Man, six more people killed in southern Lebanon strikes right before those peace talks. It's like the timing is just a sick joke.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/13/at-least-six-killed-in-israeli-strikes-in-southern-lebanon?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "At least six killed in Israeli strikes in southern Lebanon",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-13T14:20:44.701038+00:00"
-    },
-    {
-      "tweet": "Russia is now out here recruiting students to fill out their drone force ranks. Like, that's where we're at now.",
-      "original_url": "https://www.nytimes.com/2026/04/13/world/europe/russia-ukraine-war-recruitment-students.html",
-      "buzz_score": 85,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "To Fill Drone Force Ranks, Russia Targets a New Demographic: Students",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-13T14:20:44.700120+00:00"
-    },
-    {
       "tweet": "People are already finding ways to exploit those new AI agent benchmarks. We really don't change at all.",
       "original_url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
       "buzz_score": 75,
@@ -957,6 +913,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-12T13:33:24.514596+00:00"
+    },
+    {
+      "tweet": "Man, six more people killed in southern Lebanon strikes right before those peace talks. It's like the timing is just a sick joke.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/13/at-least-six-killed-in-israeli-strikes-in-southern-lebanon?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "At least six killed in Israeli strikes in southern Lebanon",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-13T14:20:44.701038+00:00"
+    },
+    {
+      "tweet": "Russia is now out here recruiting students to fill out their drone force ranks. Like, that's where we're at now.",
+      "original_url": "https://www.nytimes.com/2026/04/13/world/europe/russia-ukraine-war-recruitment-students.html",
+      "buzz_score": 85,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "To Fill Drone Force Ranks, Russia Targets a New Demographic: Students",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-13T14:20:44.700120+00:00"
     },
     {
       "tweet": "So apparently Eric Swalwell is out of the race after all that stuff came out. Another one bites the dust.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 337,
+    "total_posted": 339,
     "total_collected": 1000
   },
-  "last_posted_at": "2026-04-13T14:30:43.013799+00:00"
+  "last_posted_at": "2026-04-13T15:58:08.960149+00:00"
 }
