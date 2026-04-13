@@ -2,28 +2,6 @@
   "last_collected": "2026-04-13T21:07:58.602523+00:00",
   "queue": [
     {
-      "tweet": "The Brazilian ex-intelligence chief just got nabbed by US immigration. Man really thought he could just disappear here after that whole coup thing.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/13/brazilian-ex-intelligence-chief-detained-by-us-immigration-authorities?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Brazilian ex-intelligence chief detained by US immigration authorities",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-13T21:07:58.601896+00:00"
-    },
-    {
-      "tweet": "Bro, Lisandro Martinez actually got sent off for pulling a guy's hair during the game. I haven't seen that since middle school soccer.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c145mdge2gdo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Man Utd's Martinez sent off for hair-pull against Leeds",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-13T21:07:58.601499+00:00"
-    },
-    {
       "tweet": "Luka Doncic is flying back from Spain with a bunch of injections for that hamstring strain. Reminds me how much we just push through until something actually snaps.",
       "original_url": "https://www.espn.com/nba/story/_/id/48477183/doncic-return-spain-friday-status-unknown",
       "buzz_score": 75,
@@ -68,17 +46,6 @@
       "added_at": "2026-04-12T02:32:59.106863+00:00"
     },
     {
-      "tweet": "The US actually started a blockade of the Strait of Hormuz, but every European country just said no thanks. We're really out here doing the most alone.",
-      "original_url": "https://www.nytimes.com/2026/04/13/world/middleeast/blockade-hormuz-iran-united-states.html",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "U.S. Begins a Blockade of the Strait of Hormuz",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-13T21:07:58.601204+00:00"
-    },
-    {
       "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026",
       "buzz_score": 90,
@@ -101,26 +68,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "The Xbox CEO admitted in a memo that Game Pass is too expensive. Finally, someone said it, man.",
-      "original_url": "https://www.polygon.com/xbox-game-pass-price-cut-ceo-asha-sharma-memo-leak/",
-      "buzz_score": 85,
+      "tweet": "The US actually started a blockade of the Strait of Hormuz, but every European country just said no thanks. We're really out here doing the most alone.",
+      "original_url": "https://www.nytimes.com/2026/04/13/world/middleeast/blockade-hormuz-iran-united-states.html",
+      "buzz_score": 90,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Xbox CEO admits Game Pass is 'too expensive' in leaked memo",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-13T21:07:58.602396+00:00"
-    },
-    {
-      "tweet": "Bernie is trying to push a resolution to block weapons to Israel. Even if it goes nowhere, it's pretty clear where the cracks are starting to show.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/13/bernie-sanders-vows-to-push-resolution-to-block-us-weapons-to-israel?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Bernie Sanders vows to push resolution to block US weapons to Israel",
-      "source": "Al Jazeera",
+      "original_title": "U.S. Begins a Blockade of the Strait of Hormuz",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-04-13T21:07:58.601754+00:00"
+      "added_at": "2026-04-13T21:07:58.601204+00:00"
     },
     {
       "tweet": "The new Pokémon Champions launch is basically just customer service simulator. We're really just paying to be tech support now.",
@@ -231,6 +187,28 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
+    },
+    {
+      "tweet": "The Xbox CEO admitted in a memo that Game Pass is too expensive. Finally, someone said it, man.",
+      "original_url": "https://www.polygon.com/xbox-game-pass-price-cut-ceo-asha-sharma-memo-leak/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Xbox CEO admits Game Pass is 'too expensive' in leaked memo",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-13T21:07:58.602396+00:00"
+    },
+    {
+      "tweet": "Bernie is trying to push a resolution to block weapons to Israel. Even if it goes nowhere, it's pretty clear where the cracks are starting to show.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/13/bernie-sanders-vows-to-push-resolution-to-block-us-weapons-to-israel?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Bernie Sanders vows to push resolution to block US weapons to Israel",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-13T21:07:58.601754+00:00"
     },
     {
       "tweet": "Saw the clips from Coachella yesterday. I'm honestly just exhausted looking at the crowd. We're getting too old for that",
@@ -387,50 +365,6 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Just saw a map of the most sleep-deprived cities. Honestly, feel like we’re all just walking around running on caffeine and stress at this point",
-      "original_url": "https://www.mentalfloss.com/geography/maps/most-sleep-deprived-u-s-cities?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "The Most Sleep-Deprived U.S. Cities, Mapped",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-13T16:53:34.821291+00:00"
-    },
-    {
-      "tweet": "Jorginho is calling that whole Chappell Roan security thing a misunderstanding. Just another day of celebrities acting like they're in a war zone.",
-      "original_url": "https://www.theguardian.com/music/2026/apr/13/jorginho-chappell-roan-security-incident-misunderstanding",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Jorginho calls Chappell Roan security incident a ‘misunderstanding’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-13T18:59:51.895935+00:00"
-    },
-    {
-      "tweet": "Katy Perry is calling those assault allegations from Ruby Rose reckless lies. 20 years later and we're still doing this in the tabloids.",
-      "original_url": "https://www.billboard.com/music/music-news/katy-perry-denies-ruby-rose-claim-sexual-assault-lies-1236221438/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Katy Perry Denies Ruby Rose’s Sexual Assault Allegations, Calls Them ‘Dangerous, Reckless Lies’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-13T18:59:51.895495+00:00"
-    },
-    {
-      "tweet": "Did you see Billie Eilish linked up with James Cameron for that 3D concert film? Seems like an insane combo, man.",
-      "original_url": "https://www.billboard.com/music/music-news/billie-eilish-new-hit-me-hard-and-soft-the-tour-film-trailer-1236221727/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Billie Eilish Drops New ‘Hit Me Hard and Soft: The Tour’ Film Trailer",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-13T21:07:58.601206+00:00"
-    },
-    {
       "tweet": "They're calling Carney a wartime leader now just to keep him in office. Pretty genius marketing move tho",
       "original_url": "https://www.theguardian.com/world/2026/apr/13/mark-carney-canada-pm-liberals-majority",
       "buzz_score": 75,
@@ -574,6 +508,50 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
+      "tweet": "Just saw a map of the most sleep-deprived cities. Honestly, feel like we’re all just walking around running on caffeine and stress at this point",
+      "original_url": "https://www.mentalfloss.com/geography/maps/most-sleep-deprived-u-s-cities?utm_source=RSS",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "The Most Sleep-Deprived U.S. Cities, Mapped",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-13T16:53:34.821291+00:00"
+    },
+    {
+      "tweet": "Jorginho is calling that whole Chappell Roan security thing a misunderstanding. Just another day of celebrities acting like they're in a war zone.",
+      "original_url": "https://www.theguardian.com/music/2026/apr/13/jorginho-chappell-roan-security-incident-misunderstanding",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Jorginho calls Chappell Roan security incident a ‘misunderstanding’",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-13T18:59:51.895935+00:00"
+    },
+    {
+      "tweet": "Katy Perry is calling those assault allegations from Ruby Rose reckless lies. 20 years later and we're still doing this in the tabloids.",
+      "original_url": "https://www.billboard.com/music/music-news/katy-perry-denies-ruby-rose-claim-sexual-assault-lies-1236221438/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Katy Perry Denies Ruby Rose’s Sexual Assault Allegations, Calls Them ‘Dangerous, Reckless Lies’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-13T18:59:51.895495+00:00"
+    },
+    {
+      "tweet": "Did you see Billie Eilish linked up with James Cameron for that 3D concert film? Seems like an insane combo, man.",
+      "original_url": "https://www.billboard.com/music/music-news/billie-eilish-new-hit-me-hard-and-soft-the-tour-film-trailer-1236221727/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Billie Eilish Drops New ‘Hit Me Hard and Soft: The Tour’ Film Trailer",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-13T21:07:58.601206+00:00"
+    },
+    {
       "tweet": "Peru is literally extending voting into Monday because they ran out of computers and ballots. Imagine being a country and just forgetting the supplies",
       "original_url": "https://www.theguardian.com/world/2026/apr/13/peru-presidential-election-voting",
       "buzz_score": 90,
@@ -583,28 +561,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-13T16:53:34.822165+00:00"
-    },
-    {
-      "tweet": "Judge just tossed out that ten billion dollar lawsuit Trump filed against the Wall Street Journal. Seems like you can't just sue anyone who writes something you don't like",
-      "original_url": "https://www.npr.org/2026/04/13/g-s1-117248/judge-dismisses-trump-lawsuit-epstein-letter-wsj-story-murdoch",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Judge dismisses Trump's $10B lawsuit over the Wall Street Journal's Epstein reporting",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-13T16:53:34.821296+00:00"
-    },
-    {
-      "tweet": "Arsenal and Chelsea are already chasing Lewis Hall. The transfer window hasn't even opened and the gossip is already exhausting.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c070j2klg9mo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Arsenal and Chelsea chase Hall - Tuesday's gossip",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-13T21:07:58.601626+00:00"
     },
     {
       "tweet": "Pakistan managing the US-Iran talks is a weird timeline. Things are moving fast",
@@ -684,6 +640,39 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "Judge just tossed out that ten billion dollar lawsuit Trump filed against the Wall Street Journal. Seems like you can't just sue anyone who writes something you don't like",
+      "original_url": "https://www.npr.org/2026/04/13/g-s1-117248/judge-dismisses-trump-lawsuit-epstein-letter-wsj-story-murdoch",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Judge dismisses Trump's $10B lawsuit over the Wall Street Journal's Epstein reporting",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-13T16:53:34.821296+00:00"
+    },
+    {
+      "tweet": "Arsenal and Chelsea are already chasing Lewis Hall. The transfer window hasn't even opened and the gossip is already exhausting.",
+      "original_url": "https://www.bbc.com/sport/football/articles/c070j2klg9mo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Arsenal and Chelsea chase Hall - Tuesday's gossip",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-13T21:07:58.601626+00:00"
+    },
+    {
+      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T03:59:38.753282+00:00"
+    },
+    {
       "tweet": "Cristian Romero is done for the season with that knee injury. Spurs really can’t catch a break at all",
       "original_url": "https://www.bbc.com/sport/football/articles/c98mqrpz50vo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -750,15 +739,15 @@
       "added_at": "2026-04-13T18:59:51.895497+00:00"
     },
     {
-      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
-      "buzz_score": 88,
+      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 82,
       "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T03:59:38.753282+00:00"
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-08T04:12:50.486178+00:00"
     },
     {
       "tweet": "Rory McIlroy won the Masters and spent four hours doing interviews after. That’s the real part of sports they don’t show on TV",
@@ -794,28 +783,6 @@
       "added_at": "2026-04-13T14:20:44.700118+00:00"
     },
     {
-      "tweet": "Turns out the parents and agencies could've stopped that Southport attack. It's just depressing how much stuff could be prevented if people actually did their jobs.",
-      "original_url": "https://www.nytimes.com/2026/04/13/world/europe/southport-attack-killers-parents-report.html",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Killer’s Parents Could Have Prevented Southport Attack in U.K., Report Says",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-13T18:59:51.896445+00:00"
-    },
-    {
-      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-08T04:12:50.486178+00:00"
-    },
-    {
       "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
       "original_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
       "buzz_score": 95,
@@ -836,6 +803,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-08T20:03:08.618965+00:00"
+    },
+    {
+      "tweet": "Turns out the parents and agencies could've stopped that Southport attack. It's just depressing how much stuff could be prevented if people actually did their jobs.",
+      "original_url": "https://www.nytimes.com/2026/04/13/world/europe/southport-attack-killers-parents-report.html",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Killer’s Parents Could Have Prevented Southport Attack in U.K., Report Says",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-13T18:59:51.896445+00:00"
     },
     {
       "tweet": "Orban actually conceded in Hungary. Looks like the upstart guy Magyar really pulled it off.",
@@ -882,17 +860,6 @@
       "added_at": "2026-04-09T22:23:59.524130+00:00"
     },
     {
-      "tweet": "Maryland actually passed a law to keep rap lyrics out of criminal cases. About time someone called that practice what it is.",
-      "original_url": "https://www.billboard.com/pro/maryland-law-restricts-lyrics-in-criminal-cases/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘An Attack On Creative Freedom’: Maryland Passes New Law to Keep Rap Lyrics Out of Criminal Cases",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-13T14:20:44.700422+00:00"
-    },
-    {
       "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
       "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 78,
@@ -902,6 +869,17 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-11T09:01:18.261834+00:00"
+    },
+    {
+      "tweet": "Maryland actually passed a law to keep rap lyrics out of criminal cases. About time someone called that practice what it is.",
+      "original_url": "https://www.billboard.com/pro/maryland-law-restricts-lyrics-in-criminal-cases/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘An Attack On Creative Freedom’: Maryland Passes New Law to Keep Rap Lyrics Out of Criminal Cases",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-13T14:20:44.700422+00:00"
     },
     {
       "tweet": "So we're clearing mines in the Strait of Hormuz while talks are ongoing? Nothing like a little light work during a peace summit.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 350,
+    "total_posted": 352,
     "total_collected": 1046
   },
-  "last_posted_at": "2026-04-13T22:06:17.664897+00:00"
+  "last_posted_at": "2026-04-13T22:55:30.201762+00:00"
 }
