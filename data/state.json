@@ -2,28 +2,6 @@
   "last_collected": "2026-04-14T21:33:01.289017+00:00",
   "queue": [
     {
-      "tweet": "Viktor Orban lost in Hungary. Are we really surprised the economy finally mattered more than the politics?",
-      "original_url": "https://www.nytimes.com/2026/04/14/world/hungary-orban-populism-magyar-war-imf.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Hungary’s Populist Paradox",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-14T21:33:01.288397+00:00"
-    },
-    {
-      "tweet": "Northern Ireland actually won 4-0 against Malta. Unexpected.",
-      "original_url": "https://www.bbc.com/sport/articles/ce9mmrjy17ko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "McArdle praises NI's 'intent' in big win over Malta",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-14T21:33:01.288767+00:00"
-    },
-    {
       "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
       "buzz_score": 95,
@@ -33,17 +11,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251727+00:00"
-    },
-    {
-      "tweet": "Coachella’s pushing the whole art exhibit thing again this year. Honestly, it’s just something to stare at while we're trying to figure out where the stage is.",
-      "original_url": "https://hypebeast.com/2026/4/coachella-2026-art-installations",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Coachella 2026 Is an Art Oasis, Too",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-14T21:33:01.287480+00:00"
     },
     {
       "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
@@ -57,6 +24,17 @@
       "added_at": "2026-04-12T02:32:59.106863+00:00"
     },
     {
+      "tweet": "Coachella’s pushing the whole art exhibit thing again this year. Honestly, it’s just something to stare at while we're trying to figure out where the stage is.",
+      "original_url": "https://hypebeast.com/2026/4/coachella-2026-art-installations",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Coachella 2026 Is an Art Oasis, Too",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-14T21:33:01.287480+00:00"
+    },
+    {
       "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026",
       "buzz_score": 90,
@@ -68,17 +46,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "They’re actually putting in a new spam policy for that back button hijacking thing. About time.",
-      "original_url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "A new spam policy for “back button hijacking”",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-14T21:33:01.287764+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -88,6 +55,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "They’re actually putting in a new spam policy for that back button hijacking thing. About time.",
+      "original_url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+      "buzz_score": 75,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "A new spam policy for “back button hijacking”",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-14T21:33:01.287764+00:00"
     },
     {
       "tweet": "The new Pokémon Champions launch is basically just customer service simulator. We're really just paying to be tech support now.",
@@ -198,28 +176,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
-    },
-    {
-      "tweet": "Billie Eilish and Sia are apparently huge Survivor fans. It’s that show that somehow never goes away.",
-      "original_url": "https://www.billboard.com/lists/famous-survivor-fans-music/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Musicians Who Love ‘Survivor,’ From Billie Eilish to Sia",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-14T21:33:01.288890+00:00"
-    },
-    {
-      "tweet": "Thousands of people just felt an earthquake in NSW and Albanese is in Brunei for fuel talks. Can we get one day where everything isn't falling apart?",
-      "original_url": "https://www.theguardian.com/australia-news/live/2026/apr/15/anthony-albanese-brunei-jim-chalmers-washington-iran-war-fuel-prices-economy-angus-taylor-labor-coalition-political-reactions-ntwnfb",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Australia news live: thousands feel ‘large’ earthquake in central-west NSW; Albanese arrives in Brunei for fuel supply talks",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-14T21:33:01.287636+00:00"
     },
     {
       "tweet": "Arne Slot really thinks Liverpool can pull off a comeback against PSG after being down two goals. Does he know who he's coaching?",
@@ -387,37 +343,26 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Another list of NBA signature shoes just dropped. It’s that thing where everyone needs their own shoe now.",
-      "original_url": "https://hypebeast.com/2026/4/nba-wnba-signature-shoe-list-2026",
-      "buzz_score": 75,
+      "tweet": "Billie Eilish and Sia are apparently huge Survivor fans. It’s that show that somehow never goes away.",
+      "original_url": "https://www.billboard.com/lists/famous-survivor-fans-music/",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "The A-Z's of Active NBA and WNBA Players' Signature Shoes: 2026 Edition",
-      "source": "Hypebeast",
+      "original_title": "Musicians Who Love ‘Survivor,’ From Billie Eilish to Sia",
+      "source": "Billboard",
       "category": "entertainment",
-      "added_at": "2026-04-14T21:33:01.288523+00:00"
+      "added_at": "2026-04-14T21:33:01.288890+00:00"
     },
     {
-      "tweet": "Apparently a bunch of Elvis hits were just covers. My life is a lie.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/elvis-presley-songs-you-didn-t-know-were-covers?utm_source=RSS",
-      "buzz_score": 75,
+      "tweet": "Thousands of people just felt an earthquake in NSW and Albanese is in Brunei for fuel talks. Can we get one day where everything isn't falling apart?",
+      "original_url": "https://www.theguardian.com/australia-news/live/2026/apr/15/anthony-albanese-brunei-jim-chalmers-washington-iran-war-fuel-prices-economy-angus-taylor-labor-coalition-political-reactions-ntwnfb",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "5 Elvis Presley Hits You Didn’t Know Were Covers",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-14T21:33:01.288139+00:00"
-    },
-    {
-      "tweet": "John Terry’s out here scouting Colchester United while everyone’s saying he’s trying to buy the team. Is there any club he doesn't want to get involved with?",
-      "original_url": "https://www.bbc.com/sport/football/articles/cx2rr31drwxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Terry attends Colchester game amid takeover reports",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-14T21:33:01.287477+00:00"
+      "original_title": "Australia news live: thousands feel ‘large’ earthquake in central-west NSW; Albanese arrives in Brunei for fuel supply talks",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-14T21:33:01.287636+00:00"
     },
     {
       "tweet": "Luka Doncic is flying back from Spain with a bunch of injections for that hamstring strain. Reminds me how much we just push through until something actually snaps.",
@@ -574,26 +519,37 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "More pixel art games and pirate stuff this week. It’s the same stuff we’ve been playing for years.",
-      "original_url": "https://kotaku.com/the-week-in-games-pixel-art-dwarves-and-the-ghost-of-skull-bones-2000687568",
-      "buzz_score": 70,
+      "tweet": "Another list of NBA signature shoes just dropped. It’s that thing where everyone needs their own shoe now.",
+      "original_url": "https://hypebeast.com/2026/4/nba-wnba-signature-shoe-list-2026",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "The Week In Games: Pixel-Art Dwarves And The Ghost Of Skull & Bones",
-      "source": "Kotaku",
+      "original_title": "The A-Z's of Active NBA and WNBA Players' Signature Shoes: 2026 Edition",
+      "source": "Hypebeast",
       "category": "entertainment",
-      "added_at": "2026-04-14T21:33:01.288262+00:00"
+      "added_at": "2026-04-14T21:33:01.288523+00:00"
     },
     {
-      "tweet": "DaVinci Resolve is looking pretty good. It’s that kind of software that makes you realize how much time we waste on everything else.",
-      "original_url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
-      "buzz_score": 70,
+      "tweet": "Apparently a bunch of Elvis hits were just covers. My life is a lie.",
+      "original_url": "https://www.mentalfloss.com/entertainment/music/elvis-presley-songs-you-didn-t-know-were-covers?utm_source=RSS",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "DaVinci Resolve – Photo",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-14T21:33:01.288015+00:00"
+      "original_title": "5 Elvis Presley Hits You Didn’t Know Were Covers",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-14T21:33:01.288139+00:00"
+    },
+    {
+      "tweet": "John Terry’s out here scouting Colchester United while everyone’s saying he’s trying to buy the team. Is there any club he doesn't want to get involved with?",
+      "original_url": "https://www.bbc.com/sport/football/articles/cx2rr31drwxo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Terry attends Colchester game amid takeover reports",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-14T21:33:01.287477+00:00"
     },
     {
       "tweet": "Pakistan managing the US-Iran talks is a weird timeline. Things are moving fast",
@@ -671,6 +627,28 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T16:56:43.712347+00:00"
+    },
+    {
+      "tweet": "More pixel art games and pirate stuff this week. It’s the same stuff we’ve been playing for years.",
+      "original_url": "https://kotaku.com/the-week-in-games-pixel-art-dwarves-and-the-ghost-of-skull-bones-2000687568",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Week In Games: Pixel-Art Dwarves And The Ghost Of Skull & Bones",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-14T21:33:01.288262+00:00"
+    },
+    {
+      "tweet": "DaVinci Resolve is looking pretty good. It’s that kind of software that makes you realize how much time we waste on everything else.",
+      "original_url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "DaVinci Resolve – Photo",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-14T21:33:01.288015+00:00"
     },
     {
       "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 360,
+    "total_posted": 362,
     "total_collected": 1072
   },
-  "last_posted_at": "2026-04-14T22:33:34.075246+00:00"
+  "last_posted_at": "2026-04-14T23:20:14.455144+00:00"
 }
