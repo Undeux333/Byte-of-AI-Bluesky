@@ -2,28 +2,6 @@
   "last_collected": "2026-04-13T23:34:42.310592+00:00",
   "queue": [
     {
-      "tweet": "Did you know we use red, yellow, and green for traffic lights because that's literally all our eyes can distinguish clearly from a distance. Evolution's just lazy.",
-      "original_url": "https://www.mentalfloss.com/transportation/roads/why-traffic-lights-are-red-yellow-green-not-other-colors?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why Traffic Lights Are Red, Yellow, and Green (And Not Any Other Colors)",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-13T23:34:42.310022+00:00"
-    },
-    {
-      "tweet": "Eric Swalwell is actually resigning from Congress after that whole assault thing. About time.",
-      "original_url": "https://www.npr.org/2026/04/13/nx-s1-5784030/eric-swalwell-resigns-from-congress",
-      "buzz_score": 92,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Eric Swalwell will resign from Congress as he faces backlash over assault allegations",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-13T23:34:42.310032+00:00"
-    },
-    {
       "tweet": "Luka Doncic is flying back from Spain with a bunch of injections for that hamstring strain. Reminds me how much we just push through until something actually snaps.",
       "original_url": "https://www.espn.com/nba/story/_/id/48477183/doncic-return-spain-friday-status-unknown",
       "buzz_score": 75,
@@ -33,17 +11,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-13T21:07:58.601370+00:00"
-    },
-    {
-      "tweet": "Arne Slot really thinks Liverpool can pull off a comeback against PSG after being down two goals. Does he know who he's coaching?",
-      "original_url": "https://www.bbc.com/sport/football/articles/c203ly4y5zeo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Liverpool can do special things against PSG - Slot",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-13T18:59:51.895655+00:00"
     },
     {
       "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
@@ -57,15 +24,15 @@
       "added_at": "2026-04-09T07:14:41.251727+00:00"
     },
     {
-      "tweet": "Hungary's next PM is basically saying he wouldn't even pick up the phone if Putin calls. Finally someone acting like a normal person.",
-      "original_url": "https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
+      "tweet": "Arne Slot really thinks Liverpool can pull off a comeback against PSG after being down two goals. Does he know who he's coaching?",
+      "original_url": "https://www.bbc.com/sport/football/articles/c203ly4y5zeo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-13T23:34:42.310028+00:00"
+      "original_title": "Liverpool can do special things against PSG - Slot",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-13T18:59:51.895655+00:00"
     },
     {
       "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
@@ -99,6 +66,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Hungary's next PM is basically saying he wouldn't even pick up the phone if Putin calls. Finally someone acting like a normal person.",
+      "original_url": "https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-13T23:34:42.310028+00:00"
     },
     {
       "tweet": "The new Pokémon Champions launch is basically just customer service simulator. We're really just paying to be tech support now.",
@@ -209,39 +187,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
-    },
-    {
-      "tweet": "The US actually started a blockade of the Strait of Hormuz, but every European country just said no thanks. We're really out here doing the most alone.",
-      "original_url": "https://www.nytimes.com/2026/04/13/world/middleeast/blockade-hormuz-iran-united-states.html",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "U.S. Begins a Blockade of the Strait of Hormuz",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-13T21:07:58.601204+00:00"
-    },
-    {
-      "tweet": "Azzi Fudd just signed for 500k as the number one pick. That's a lot of bread for a rookie.",
-      "original_url": "https://www.espn.com/wnba/story/_/id/48479117/dallas-wings-select-uconn-huskies-azzi-fudd-top-pick-2026-wnba-draft",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fudd drafted No. 1, will join Bueckers in Dallas",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-13T23:34:42.310042+00:00"
-    },
-    {
-      "tweet": "Jack Harlow's own aunt thought that SNL guy was actually him. We've all had that moment where we can't tell who's who anymore.",
-      "original_url": "https://www.billboard.com/music/rb-hip-hop/jack-harlow-snl-weekend-update-aunt-thought-it-was-him-1236221998/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Even Jack Harlow’s Family Got Tricked by Ben Marshall’s ‘SNL’ Impression: ‘My Aunt Actually Thought That Was Me’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-13T23:34:42.310037+00:00"
     },
     {
       "tweet": "Saw the clips from Coachella yesterday. I'm honestly just exhausted looking at the crowd. We're getting too old for that",
@@ -398,26 +343,37 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "The Xbox CEO admitted in a memo that Game Pass is too expensive. Finally, someone said it, man.",
-      "original_url": "https://www.polygon.com/xbox-game-pass-price-cut-ceo-asha-sharma-memo-leak/",
-      "buzz_score": 85,
+      "tweet": "The US actually started a blockade of the Strait of Hormuz, but every European country just said no thanks. We're really out here doing the most alone.",
+      "original_url": "https://www.nytimes.com/2026/04/13/world/middleeast/blockade-hormuz-iran-united-states.html",
+      "buzz_score": 90,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Xbox CEO admits Game Pass is 'too expensive' in leaked memo",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-13T21:07:58.602396+00:00"
+      "original_title": "U.S. Begins a Blockade of the Strait of Hormuz",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-13T21:07:58.601204+00:00"
     },
     {
-      "tweet": "Bernie is trying to push a resolution to block weapons to Israel. Even if it goes nowhere, it's pretty clear where the cracks are starting to show.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/13/bernie-sanders-vows-to-push-resolution-to-block-us-weapons-to-israel?traffic_source=rss",
-      "buzz_score": 85,
+      "tweet": "Azzi Fudd just signed for 500k as the number one pick. That's a lot of bread for a rookie.",
+      "original_url": "https://www.espn.com/wnba/story/_/id/48479117/dallas-wings-select-uconn-huskies-azzi-fudd-top-pick-2026-wnba-draft",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Bernie Sanders vows to push resolution to block US weapons to Israel",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-13T21:07:58.601754+00:00"
+      "original_title": "Fudd drafted No. 1, will join Bueckers in Dallas",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-13T23:34:42.310042+00:00"
+    },
+    {
+      "tweet": "Jack Harlow's own aunt thought that SNL guy was actually him. We've all had that moment where we can't tell who's who anymore.",
+      "original_url": "https://www.billboard.com/music/rb-hip-hop/jack-harlow-snl-weekend-update-aunt-thought-it-was-him-1236221998/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Even Jack Harlow’s Family Got Tricked by Ben Marshall’s ‘SNL’ Impression: ‘My Aunt Actually Thought That Was Me’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-13T23:34:42.310037+00:00"
     },
     {
       "tweet": "They're calling Carney a wartime leader now just to keep him in office. Pretty genius marketing move tho",
@@ -563,37 +519,26 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "Just saw a map of the most sleep-deprived cities. Honestly, feel like we’re all just walking around running on caffeine and stress at this point",
-      "original_url": "https://www.mentalfloss.com/geography/maps/most-sleep-deprived-u-s-cities?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "The Most Sleep-Deprived U.S. Cities, Mapped",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-13T16:53:34.821291+00:00"
-    },
-    {
-      "tweet": "Jorginho is calling that whole Chappell Roan security thing a misunderstanding. Just another day of celebrities acting like they're in a war zone.",
-      "original_url": "https://www.theguardian.com/music/2026/apr/13/jorginho-chappell-roan-security-incident-misunderstanding",
+      "tweet": "The Xbox CEO admitted in a memo that Game Pass is too expensive. Finally, someone said it, man.",
+      "original_url": "https://www.polygon.com/xbox-game-pass-price-cut-ceo-asha-sharma-memo-leak/",
       "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Jorginho calls Chappell Roan security incident a ‘misunderstanding’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-13T18:59:51.895935+00:00"
-    },
-    {
-      "tweet": "Katy Perry is calling those assault allegations from Ruby Rose reckless lies. 20 years later and we're still doing this in the tabloids.",
-      "original_url": "https://www.billboard.com/music/music-news/katy-perry-denies-ruby-rose-claim-sexual-assault-lies-1236221438/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Katy Perry Denies Ruby Rose’s Sexual Assault Allegations, Calls Them ‘Dangerous, Reckless Lies’",
-      "source": "Billboard",
+      "original_title": "Xbox CEO admits Game Pass is 'too expensive' in leaked memo",
+      "source": "Polygon",
       "category": "entertainment",
-      "added_at": "2026-04-13T18:59:51.895495+00:00"
+      "added_at": "2026-04-13T21:07:58.602396+00:00"
+    },
+    {
+      "tweet": "Bernie is trying to push a resolution to block weapons to Israel. Even if it goes nowhere, it's pretty clear where the cracks are starting to show.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/13/bernie-sanders-vows-to-push-resolution-to-block-us-weapons-to-israel?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Bernie Sanders vows to push resolution to block US weapons to Israel",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-13T21:07:58.601754+00:00"
     },
     {
       "tweet": "Pakistan managing the US-Iran talks is a weird timeline. Things are moving fast",
@@ -673,6 +618,50 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T03:59:38.753282+00:00"
+    },
+    {
+      "tweet": "Just saw a map of the most sleep-deprived cities. Honestly, feel like we’re all just walking around running on caffeine and stress at this point",
+      "original_url": "https://www.mentalfloss.com/geography/maps/most-sleep-deprived-u-s-cities?utm_source=RSS",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "The Most Sleep-Deprived U.S. Cities, Mapped",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-13T16:53:34.821291+00:00"
+    },
+    {
+      "tweet": "Jorginho is calling that whole Chappell Roan security thing a misunderstanding. Just another day of celebrities acting like they're in a war zone.",
+      "original_url": "https://www.theguardian.com/music/2026/apr/13/jorginho-chappell-roan-security-incident-misunderstanding",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Jorginho calls Chappell Roan security incident a ‘misunderstanding’",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-13T18:59:51.895935+00:00"
+    },
+    {
+      "tweet": "Katy Perry is calling those assault allegations from Ruby Rose reckless lies. 20 years later and we're still doing this in the tabloids.",
+      "original_url": "https://www.billboard.com/music/music-news/katy-perry-denies-ruby-rose-claim-sexual-assault-lies-1236221438/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Katy Perry Denies Ruby Rose’s Sexual Assault Allegations, Calls Them ‘Dangerous, Reckless Lies’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-13T18:59:51.895495+00:00"
+    },
+    {
       "tweet": "Did you see Billie Eilish linked up with James Cameron for that 3D concert film? Seems like an insane combo, man.",
       "original_url": "https://www.billboard.com/music/music-news/billie-eilish-new-hit-me-hard-and-soft-the-tour-film-trailer-1236221727/",
       "buzz_score": 75,
@@ -706,105 +695,6 @@
       "added_at": "2026-04-13T16:53:34.822165+00:00"
     },
     {
-      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T03:59:38.753282+00:00"
-    },
-    {
-      "tweet": "Judge just tossed out that ten billion dollar lawsuit Trump filed against the Wall Street Journal. Seems like you can't just sue anyone who writes something you don't like",
-      "original_url": "https://www.npr.org/2026/04/13/g-s1-117248/judge-dismisses-trump-lawsuit-epstein-letter-wsj-story-murdoch",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Judge dismisses Trump's $10B lawsuit over the Wall Street Journal's Epstein reporting",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-13T16:53:34.821296+00:00"
-    },
-    {
-      "tweet": "Arsenal and Chelsea are already chasing Lewis Hall. The transfer window hasn't even opened and the gossip is already exhausting.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c070j2klg9mo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Arsenal and Chelsea chase Hall - Tuesday's gossip",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-13T21:07:58.601626+00:00"
-    },
-    {
-      "tweet": "Cristian Romero is done for the season with that knee injury. Spurs really can’t catch a break at all",
-      "original_url": "https://www.bbc.com/sport/football/articles/c98mqrpz50vo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Spurs captain Romero out for rest of season with injury",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-13T16:53:34.821924+00:00"
-    },
-    {
-      "tweet": "RM from BTS is out here talking about how they're just a boy band from Korea while everyone else is stressing over the Super Bowl. Man's just vibing",
-      "original_url": "https://www.billboard.com/music/music-news/bts-super-bowl-competitors-taylor-swift-bruno-mars-1236221500/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "BTS Addresses Super Bowl Possibilities, Talks Being ‘Competitors’ With Taylor Swift & Bruno Mars",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-13T16:53:34.821450+00:00"
-    },
-    {
-      "tweet": "Workers are protesting in Noida 'cause the cost of living is insane. We're all feeling that one.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/indian-workers-protest-over-rising-living-cost?traffic_source=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Indian workers protest over rising living cost",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-13T18:59:51.896570+00:00"
-    },
-    {
-      "tweet": "PowerWash Simulator is scrubbing the FF7 and Tomb Raider DLCs soon. Nothing is sacred in gaming anymore.",
-      "original_url": "https://www.polygon.com/powerwash-simulator-dlc-ff7-tomb-raider-delisted/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "PowerWash Simulator's free FF7 and Tomb Raider DLC is getting delisted soon",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-13T18:59:51.896319+00:00"
-    },
-    {
-      "tweet": "Did you see those 10ft tall jeans Denim Tears put up in the city? It's like they're trying to mock us for how much we pay for denim.",
-      "original_url": "https://hypebeast.com/2026/4/denim-tears-denim-ss26-collection-release-date-info-moko-jumbie",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Denim Tears' 10ft Tall Jeans Take Over the Streets of NYC",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-13T18:59:51.896193+00:00"
-    },
-    {
-      "tweet": "Tyrese Haliburton said shingles actually slowed his Achilles recovery. Imagine being an elite athlete and getting taken out by the chickenpox virus.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48476673/pacers-haliburton-details-frustrating-battle-shingles",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Haliburton details frustrating battle with shingles",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-13T18:59:51.895497+00:00"
-    },
-    {
       "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 82,
@@ -836,6 +726,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-08T20:03:08.618965+00:00"
+    },
+    {
+      "tweet": "Judge just tossed out that ten billion dollar lawsuit Trump filed against the Wall Street Journal. Seems like you can't just sue anyone who writes something you don't like",
+      "original_url": "https://www.npr.org/2026/04/13/g-s1-117248/judge-dismisses-trump-lawsuit-epstein-letter-wsj-story-murdoch",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Judge dismisses Trump's $10B lawsuit over the Wall Street Journal's Epstein reporting",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-13T16:53:34.821296+00:00"
     },
     {
       "tweet": "Orban actually conceded in Hungary. Looks like the upstart guy Magyar really pulled it off.",
@@ -882,15 +783,48 @@
       "added_at": "2026-04-09T22:23:59.524130+00:00"
     },
     {
-      "tweet": "Rory McIlroy won the Masters and spent four hours doing interviews after. That’s the real part of sports they don’t show on TV",
-      "original_url": "https://www.bbc.com/sport/golf/articles/cj0vdv3qzpdo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
+      "tweet": "Arsenal and Chelsea are already chasing Lewis Hall. The transfer window hasn't even opened and the gossip is already exhausting.",
+      "original_url": "https://www.bbc.com/sport/football/articles/c070j2klg9mo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "McIlroy makes major warning after Masters triumph",
+      "original_title": "Arsenal and Chelsea chase Hall - Tuesday's gossip",
       "source": "BBC Sport",
       "category": "sports",
-      "added_at": "2026-04-13T16:53:34.821794+00:00"
+      "added_at": "2026-04-13T21:07:58.601626+00:00"
+    },
+    {
+      "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
+      "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 78,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Forged through foster care - Ulberg's path to UFC title shot",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-11T09:01:18.261834+00:00"
+    },
+    {
+      "tweet": "Cristian Romero is done for the season with that knee injury. Spurs really can’t catch a break at all",
+      "original_url": "https://www.bbc.com/sport/football/articles/c98mqrpz50vo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Spurs captain Romero out for rest of season with injury",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-13T16:53:34.821924+00:00"
+    },
+    {
+      "tweet": "RM from BTS is out here talking about how they're just a boy band from Korea while everyone else is stressing over the Super Bowl. Man's just vibing",
+      "original_url": "https://www.billboard.com/music/music-news/bts-super-bowl-competitors-taylor-swift-bruno-mars-1236221500/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "BTS Addresses Super Bowl Possibilities, Talks Being ‘Competitors’ With Taylor Swift & Bruno Mars",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-13T16:53:34.821450+00:00"
     },
     {
       "tweet": "Reading about Kobe's 60-point farewell again, and yeah, that really was the last time we saw anything like that.",
@@ -913,28 +847,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-04-13T14:20:44.700118+00:00"
-    },
-    {
-      "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
-      "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 78,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Forged through foster care - Ulberg's path to UFC title shot",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-11T09:01:18.261834+00:00"
-    },
-    {
-      "tweet": "Turns out the parents and agencies could've stopped that Southport attack. It's just depressing how much stuff could be prevented if people actually did their jobs.",
-      "original_url": "https://www.nytimes.com/2026/04/13/world/europe/southport-attack-killers-parents-report.html",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Killer’s Parents Could Have Prevented Southport Attack in U.K., Report Says",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-13T18:59:51.896445+00:00"
     },
     {
       "tweet": "So we're clearing mines in the Strait of Hormuz while talks are ongoing? Nothing like a little light work during a peace summit.",
@@ -1025,6 +937,61 @@
       "added_at": "2026-04-08T15:44:16.953760+00:00"
     },
     {
+      "tweet": "Workers are protesting in Noida 'cause the cost of living is insane. We're all feeling that one.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/indian-workers-protest-over-rising-living-cost?traffic_source=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Indian workers protest over rising living cost",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-13T18:59:51.896570+00:00"
+    },
+    {
+      "tweet": "PowerWash Simulator is scrubbing the FF7 and Tomb Raider DLCs soon. Nothing is sacred in gaming anymore.",
+      "original_url": "https://www.polygon.com/powerwash-simulator-dlc-ff7-tomb-raider-delisted/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "PowerWash Simulator's free FF7 and Tomb Raider DLC is getting delisted soon",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-13T18:59:51.896319+00:00"
+    },
+    {
+      "tweet": "Did you see those 10ft tall jeans Denim Tears put up in the city? It's like they're trying to mock us for how much we pay for denim.",
+      "original_url": "https://hypebeast.com/2026/4/denim-tears-denim-ss26-collection-release-date-info-moko-jumbie",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Denim Tears' 10ft Tall Jeans Take Over the Streets of NYC",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-13T18:59:51.896193+00:00"
+    },
+    {
+      "tweet": "Tyrese Haliburton said shingles actually slowed his Achilles recovery. Imagine being an elite athlete and getting taken out by the chickenpox virus.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48476673/pacers-haliburton-details-frustrating-battle-shingles",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Haliburton details frustrating battle with shingles",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-13T18:59:51.895497+00:00"
+    },
+    {
+      "tweet": "Rory McIlroy won the Masters and spent four hours doing interviews after. That’s the real part of sports they don’t show on TV",
+      "original_url": "https://www.bbc.com/sport/golf/articles/cj0vdv3qzpdo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "McIlroy makes major warning after Masters triumph",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-13T16:53:34.821794+00:00"
+    },
+    {
       "tweet": "Maryland actually passed a law to keep rap lyrics out of criminal cases. About time someone called that practice what it is.",
       "original_url": "https://www.billboard.com/pro/maryland-law-restricts-lyrics-in-criminal-cases/",
       "buzz_score": 85,
@@ -1034,6 +1001,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-13T14:20:44.700422+00:00"
+    },
+    {
+      "tweet": "Turns out the parents and agencies could've stopped that Southport attack. It's just depressing how much stuff could be prevented if people actually did their jobs.",
+      "original_url": "https://www.nytimes.com/2026/04/13/world/europe/southport-attack-killers-parents-report.html",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Killer’s Parents Could Have Prevented Southport Attack in U.K., Report Says",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-13T18:59:51.896445+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 354,
+    "total_posted": 356,
     "total_collected": 1056
   },
-  "last_posted_at": "2026-04-13T23:43:31.687538+00:00"
+  "last_posted_at": "2026-04-14T01:17:01.099275+00:00"
 }
