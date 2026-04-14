@@ -2,28 +2,6 @@
   "last_collected": "2026-04-14T21:33:01.289017+00:00",
   "queue": [
     {
-      "tweet": "Major labels are hiring some elite Supreme Court attorney just to fight over copyright stuff. Must be nice to have that kind of money to burn.",
-      "original_url": "https://www.billboard.com/pro/major-labels-hire-supreme-court-lawyer-global-rights-case/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Major Labels Hire Elite Supreme Court Attorney for Battle Over Global Copyright Termination Rights",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-14T21:33:01.287482+00:00"
-    },
-    {
-      "tweet": "So apparently Disney just pulled a bunch of games off Steam with zero warning. Like, they’re just gone. Classic.",
-      "original_url": "https://kotaku.com/disney-delists-15-more-games-from-steam-with-no-warning-star-wars-pc-2000687543",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Disney Removes A Bunch More Games From Steam With No Warning",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-14T21:33:01.287466+00:00"
-    },
-    {
       "tweet": "Viktor Orban lost in Hungary. Are we really surprised the economy finally mattered more than the politics?",
       "original_url": "https://www.nytimes.com/2026/04/14/world/hungary-orban-populism-magyar-war-imf.html",
       "buzz_score": 80,
@@ -46,17 +24,6 @@
       "added_at": "2026-04-14T21:33:01.288767+00:00"
     },
     {
-      "tweet": "Coachella’s pushing the whole art exhibit thing again this year. Honestly, it’s just something to stare at while we're trying to figure out where the stage is.",
-      "original_url": "https://hypebeast.com/2026/4/coachella-2026-art-installations",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Coachella 2026 Is an Art Oasis, Too",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-14T21:33:01.287480+00:00"
-    },
-    {
       "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
       "buzz_score": 95,
@@ -68,15 +35,15 @@
       "added_at": "2026-04-09T07:14:41.251727+00:00"
     },
     {
-      "tweet": "They’re actually putting in a new spam policy for that back button hijacking thing. About time.",
-      "original_url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
-      "buzz_score": 75,
+      "tweet": "Coachella’s pushing the whole art exhibit thing again this year. Honestly, it’s just something to stare at while we're trying to figure out where the stage is.",
+      "original_url": "https://hypebeast.com/2026/4/coachella-2026-art-installations",
+      "buzz_score": 80,
       "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "A new spam policy for “back button hijacking”",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-14T21:33:01.287764+00:00"
+      "original_title": "Coachella 2026 Is an Art Oasis, Too",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-14T21:33:01.287480+00:00"
     },
     {
       "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
@@ -99,6 +66,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "They’re actually putting in a new spam policy for that back button hijacking thing. About time.",
+      "original_url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+      "buzz_score": 75,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "A new spam policy for “back button hijacking”",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-14T21:33:01.287764+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 358,
+    "total_posted": 360,
     "total_collected": 1072
   },
-  "last_posted_at": "2026-04-14T21:41:38.380937+00:00"
+  "last_posted_at": "2026-04-14T22:33:34.075246+00:00"
 }
