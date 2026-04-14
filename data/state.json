@@ -651,17 +651,6 @@
       "added_at": "2026-04-09T22:23:59.524130+00:00"
     },
     {
-      "tweet": "Hungary's next PM is basically saying he wouldn't even pick up the phone if Putin calls. Finally someone acting like a normal person.",
-      "original_url": "https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-13T23:34:42.310028+00:00"
-    },
-    {
       "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
       "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 78,
@@ -805,6 +794,17 @@
       "added_at": "2026-04-08T15:44:16.953760+00:00"
     },
     {
+      "tweet": "Hungary's next PM is basically saying he wouldn't even pick up the phone if Putin calls. Finally someone acting like a normal person.",
+      "original_url": "https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-13T23:34:42.310028+00:00"
+    },
+    {
       "tweet": "Judge just tossed out that ten billion dollar lawsuit Trump filed against the Wall Street Journal. Seems like you can't just sue anyone who writes something you don't like",
       "original_url": "https://www.npr.org/2026/04/13/g-s1-117248/judge-dismisses-trump-lawsuit-epstein-letter-wsj-story-murdoch",
       "buzz_score": 88,
@@ -814,28 +814,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-04-13T16:53:34.821296+00:00"
-    },
-    {
-      "tweet": "Azzi Fudd just signed for 500k as the number one pick. That's a lot of bread for a rookie.",
-      "original_url": "https://www.espn.com/wnba/story/_/id/48479117/dallas-wings-select-uconn-huskies-azzi-fudd-top-pick-2026-wnba-draft",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fudd drafted No. 1, will join Bueckers in Dallas",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-13T23:34:42.310042+00:00"
-    },
-    {
-      "tweet": "Jack Harlow's own aunt thought that SNL guy was actually him. We've all had that moment where we can't tell who's who anymore.",
-      "original_url": "https://www.billboard.com/music/rb-hip-hop/jack-harlow-snl-weekend-update-aunt-thought-it-was-him-1236221998/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Even Jack Harlow’s Family Got Tricked by Ben Marshall’s ‘SNL’ Impression: ‘My Aunt Actually Thought That Was Me’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-13T23:34:42.310037+00:00"
     },
     {
       "tweet": "The Xbox CEO admitted in a memo that Game Pass is too expensive. Finally, someone said it, man.",
@@ -913,6 +891,28 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-13T14:20:44.700422+00:00"
+    },
+    {
+      "tweet": "Azzi Fudd just signed for 500k as the number one pick. That's a lot of bread for a rookie.",
+      "original_url": "https://www.espn.com/wnba/story/_/id/48479117/dallas-wings-select-uconn-huskies-azzi-fudd-top-pick-2026-wnba-draft",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Fudd drafted No. 1, will join Bueckers in Dallas",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-13T23:34:42.310042+00:00"
+    },
+    {
+      "tweet": "Jack Harlow's own aunt thought that SNL guy was actually him. We've all had that moment where we can't tell who's who anymore.",
+      "original_url": "https://www.billboard.com/music/rb-hip-hop/jack-harlow-snl-weekend-update-aunt-thought-it-was-him-1236221998/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Even Jack Harlow’s Family Got Tricked by Ben Marshall’s ‘SNL’ Impression: ‘My Aunt Actually Thought That Was Me’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-13T23:34:42.310037+00:00"
     },
     {
       "tweet": "Rory McIlroy won the Masters and spent four hours doing interviews after. That’s the real part of sports they don’t show on TV",
