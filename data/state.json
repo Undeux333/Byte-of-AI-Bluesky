@@ -321,28 +321,6 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Experts are saying it’s basically impossible to stop abusive AI images now. We’re really just living in the wild west with this tech.",
-      "original_url": "https://www.npr.org/2026/04/14/g-s1-117410/deepfake-ai-images-child-sex-abuse",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Law enforcement is trying to combat abusive AI. Experts say easier said than done",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-15T04:53:13.703699+00:00"
-    },
-    {
-      "tweet": "Saw that Godzilla Minus Zero teaser. They’re bringing full kaiju chaos to NYC. My inner kid is losing it.",
-      "original_url": "https://hypebeast.com/2026/4/takashi-yamazakis-godzilla-minus-zero-teaser-trailer-brings-kaiju-chaos-to-new-york-city",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Takashi Yamazaki’s 'Godzilla Minus Zero' Teaser Trailer Brings Kaiju Chaos to New York City",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-15T04:53:13.703445+00:00"
-    },
-    {
       "tweet": "Luka Doncic is flying back from Spain with a bunch of injections for that hamstring strain. Reminds me how much we just push through until something actually snaps.",
       "original_url": "https://www.espn.com/nba/story/_/id/48477183/doncic-return-spain-friday-status-unknown",
       "buzz_score": 75,
@@ -497,26 +475,26 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "Sheinbaum is out here actually taking a stance against Trump while everyone else just caves. Someone finally decided to push back.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/15/mexico-president-claudia-sheinbaum-donald-trump-ice-deaths",
-      "buzz_score": 80,
+      "tweet": "Experts are saying it’s basically impossible to stop abusive AI images now. We’re really just living in the wild west with this tech.",
+      "original_url": "https://www.npr.org/2026/04/14/g-s1-117410/deepfake-ai-images-child-sex-abuse",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Sheinbaum vows to ‘defend Mexicans at every level’ amid anger at Trump over migrant deaths",
-      "source": "The Guardian",
+      "original_title": "Law enforcement is trying to combat abusive AI. Experts say easier said than done",
+      "source": "NPR News",
       "category": "world",
-      "added_at": "2026-04-15T04:53:13.703016+00:00"
+      "added_at": "2026-04-15T04:53:13.703699+00:00"
     },
     {
-      "tweet": "Spo is saying LaMelo should’ve been tossed for tripping Bam. Honestly, looking at the replay, he’s not wrong.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48489290/heat-bam-adebayo-limps-tumble-lamelo-ball",
-      "buzz_score": 80,
+      "tweet": "Saw that Godzilla Minus Zero teaser. They’re bringing full kaiju chaos to NYC. My inner kid is losing it.",
+      "original_url": "https://hypebeast.com/2026/4/takashi-yamazakis-godzilla-minus-zero-teaser-trailer-brings-kaiju-chaos-to-new-york-city",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Spo: Ball should've been tossed for Adebayo trip",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-15T04:53:13.703014+00:00"
+      "original_title": "Takashi Yamazaki’s 'Godzilla Minus Zero' Teaser Trailer Brings Kaiju Chaos to New York City",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-15T04:53:13.703445+00:00"
     },
     {
       "tweet": "Pakistan managing the US-Iran talks is a weird timeline. Things are moving fast",
@@ -607,15 +585,26 @@
       "added_at": "2026-04-11T03:59:38.753282+00:00"
     },
     {
-      "tweet": "Joe Perry is saying Aerosmith isn't done yet despite that whole tour cancellation. I mean, at what point do you just hang it up?",
-      "original_url": "https://www.billboard.com/music/rock/joe-perry-interview-aerosmith-steven-tyler-1236223216/",
-      "buzz_score": 75,
+      "tweet": "Sheinbaum is out here actually taking a stance against Trump while everyone else just caves. Someone finally decided to push back.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/15/mexico-president-claudia-sheinbaum-donald-trump-ice-deaths",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "‘There Are Certainly Other Options:’ Joe Perry Isn’t Calling Time on Aerosmith",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-15T04:53:13.703008+00:00"
+      "original_title": "Sheinbaum vows to ‘defend Mexicans at every level’ amid anger at Trump over migrant deaths",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-15T04:53:13.703016+00:00"
+    },
+    {
+      "tweet": "Spo is saying LaMelo should’ve been tossed for tripping Bam. Honestly, looking at the replay, he’s not wrong.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48489290/heat-bam-adebayo-limps-tumble-lamelo-ball",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Spo: Ball should've been tossed for Adebayo trip",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-15T04:53:13.703014+00:00"
     },
     {
       "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
@@ -627,6 +616,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-08T04:12:50.486178+00:00"
+    },
+    {
+      "tweet": "Joe Perry is saying Aerosmith isn't done yet despite that whole tour cancellation. I mean, at what point do you just hang it up?",
+      "original_url": "https://www.billboard.com/music/rock/joe-perry-interview-aerosmith-steven-tyler-1236223216/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘There Are Certainly Other Options:’ Joe Perry Isn’t Calling Time on Aerosmith",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-15T04:53:13.703008+00:00"
     },
     {
       "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
@@ -915,6 +915,28 @@
       "added_at": "2026-04-14T23:58:04.501161+00:00"
     },
     {
+      "tweet": "Billie Eilish and Sia are apparently huge Survivor fans. It’s that show that somehow never goes away.",
+      "original_url": "https://www.billboard.com/lists/famous-survivor-fans-music/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Musicians Who Love ‘Survivor,’ From Billie Eilish to Sia",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-14T21:33:01.288890+00:00"
+    },
+    {
+      "tweet": "Thousands of people just felt an earthquake in NSW and Albanese is in Brunei for fuel talks. Can we get one day where everything isn't falling apart?",
+      "original_url": "https://www.theguardian.com/australia-news/live/2026/apr/15/anthony-albanese-brunei-jim-chalmers-washington-iran-war-fuel-prices-economy-angus-taylor-labor-coalition-political-reactions-ntwnfb",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Australia news live: thousands feel ‘large’ earthquake in central-west NSW; Albanese arrives in Brunei for fuel supply talks",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-14T21:33:01.287636+00:00"
+    },
+    {
       "tweet": "Gen Hoshino's 2019 tour is back on Netflix. Definitely feels like a lifetime ago.",
       "original_url": "https://usa.newonnetflix.info/info/81171871",
       "buzz_score": 75,
@@ -948,26 +970,26 @@
       "added_at": "2026-04-14T23:58:04.501155+00:00"
     },
     {
-      "tweet": "Billie Eilish and Sia are apparently huge Survivor fans. It’s that show that somehow never goes away.",
-      "original_url": "https://www.billboard.com/lists/famous-survivor-fans-music/",
-      "buzz_score": 80,
+      "tweet": "Another list of NBA signature shoes just dropped. It’s that thing where everyone needs their own shoe now.",
+      "original_url": "https://hypebeast.com/2026/4/nba-wnba-signature-shoe-list-2026",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Musicians Who Love ‘Survivor,’ From Billie Eilish to Sia",
-      "source": "Billboard",
+      "original_title": "The A-Z's of Active NBA and WNBA Players' Signature Shoes: 2026 Edition",
+      "source": "Hypebeast",
       "category": "entertainment",
-      "added_at": "2026-04-14T21:33:01.288890+00:00"
+      "added_at": "2026-04-14T21:33:01.288523+00:00"
     },
     {
-      "tweet": "Thousands of people just felt an earthquake in NSW and Albanese is in Brunei for fuel talks. Can we get one day where everything isn't falling apart?",
-      "original_url": "https://www.theguardian.com/australia-news/live/2026/apr/15/anthony-albanese-brunei-jim-chalmers-washington-iran-war-fuel-prices-economy-angus-taylor-labor-coalition-political-reactions-ntwnfb",
-      "buzz_score": 80,
+      "tweet": "Apparently a bunch of Elvis hits were just covers. My life is a lie.",
+      "original_url": "https://www.mentalfloss.com/entertainment/music/elvis-presley-songs-you-didn-t-know-were-covers?utm_source=RSS",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Australia news live: thousands feel ‘large’ earthquake in central-west NSW; Albanese arrives in Brunei for fuel supply talks",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-14T21:33:01.287636+00:00"
+      "original_title": "5 Elvis Presley Hits You Didn’t Know Were Covers",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-14T21:33:01.288139+00:00"
     },
     {
       "tweet": "Aperol Spritz nails are the big summer trend now. Guess we're all just matching our drinks.",
@@ -990,28 +1012,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-14T23:58:04.501166+00:00"
-    },
-    {
-      "tweet": "Another list of NBA signature shoes just dropped. It’s that thing where everyone needs their own shoe now.",
-      "original_url": "https://hypebeast.com/2026/4/nba-wnba-signature-shoe-list-2026",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The A-Z's of Active NBA and WNBA Players' Signature Shoes: 2026 Edition",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-14T21:33:01.288523+00:00"
-    },
-    {
-      "tweet": "Apparently a bunch of Elvis hits were just covers. My life is a lie.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/elvis-presley-songs-you-didn-t-know-were-covers?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "5 Elvis Presley Hits You Didn’t Know Were Covers",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-14T21:33:01.288139+00:00"
     }
   ],
   "seen_urls": [
