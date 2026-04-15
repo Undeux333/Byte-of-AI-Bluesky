@@ -662,28 +662,6 @@
       "added_at": "2026-04-09T22:23:59.524130+00:00"
     },
     {
-      "tweet": "Experts are saying it’s basically impossible to stop abusive AI images now. We’re really just living in the wild west with this tech.",
-      "original_url": "https://www.npr.org/2026/04/14/g-s1-117410/deepfake-ai-images-child-sex-abuse",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Law enforcement is trying to combat abusive AI. Experts say easier said than done",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-15T04:53:13.703699+00:00"
-    },
-    {
-      "tweet": "Saw that Godzilla Minus Zero teaser. They’re bringing full kaiju chaos to NYC. My inner kid is losing it.",
-      "original_url": "https://hypebeast.com/2026/4/takashi-yamazakis-godzilla-minus-zero-teaser-trailer-brings-kaiju-chaos-to-new-york-city",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Takashi Yamazaki’s 'Godzilla Minus Zero' Teaser Trailer Brings Kaiju Chaos to New York City",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-15T04:53:13.703445+00:00"
-    },
-    {
       "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
       "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 78,
@@ -860,6 +838,28 @@
       "added_at": "2026-04-13T16:53:34.821296+00:00"
     },
     {
+      "tweet": "Experts are saying it’s basically impossible to stop abusive AI images now. We’re really just living in the wild west with this tech.",
+      "original_url": "https://www.npr.org/2026/04/14/g-s1-117410/deepfake-ai-images-child-sex-abuse",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Law enforcement is trying to combat abusive AI. Experts say easier said than done",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-15T04:53:13.703699+00:00"
+    },
+    {
+      "tweet": "Saw that Godzilla Minus Zero teaser. They’re bringing full kaiju chaos to NYC. My inner kid is losing it.",
+      "original_url": "https://hypebeast.com/2026/4/takashi-yamazakis-godzilla-minus-zero-teaser-trailer-brings-kaiju-chaos-to-new-york-city",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Takashi Yamazaki’s 'Godzilla Minus Zero' Teaser Trailer Brings Kaiju Chaos to New York City",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-15T04:53:13.703445+00:00"
+    },
+    {
       "tweet": "Sheinbaum is out here actually taking a stance against Trump while everyone else just caves. Someone finally decided to push back.",
       "original_url": "https://www.theguardian.com/world/2026/apr/15/mexico-president-claudia-sheinbaum-donald-trump-ice-deaths",
       "buzz_score": 80,
@@ -880,17 +880,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-15T04:53:13.703014+00:00"
-    },
-    {
-      "tweet": "Joe Perry is saying Aerosmith isn't done yet despite that whole tour cancellation. I mean, at what point do you just hang it up?",
-      "original_url": "https://www.billboard.com/music/rock/joe-perry-interview-aerosmith-steven-tyler-1236223216/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘There Are Certainly Other Options:’ Joe Perry Isn’t Calling Time on Aerosmith",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-15T04:53:13.703008+00:00"
     },
     {
       "tweet": "The retrial for Maradona's medical team is starting today. That whole thing never ends.",
@@ -935,6 +924,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-14T21:33:01.287636+00:00"
+    },
+    {
+      "tweet": "Joe Perry is saying Aerosmith isn't done yet despite that whole tour cancellation. I mean, at what point do you just hang it up?",
+      "original_url": "https://www.billboard.com/music/rock/joe-perry-interview-aerosmith-steven-tyler-1236223216/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘There Are Certainly Other Options:’ Joe Perry Isn’t Calling Time on Aerosmith",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-15T04:53:13.703008+00:00"
     },
     {
       "tweet": "Gen Hoshino's 2019 tour is back on Netflix. Definitely feels like a lifetime ago.",
