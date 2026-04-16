@@ -2,28 +2,6 @@
   "last_collected": "2026-04-16T15:06:05.168434+00:00",
   "queue": [
     {
-      "tweet": "They're replacing Aerosmith with the Muppets on that Rock 'n' Roller Coaster. Weird Al at Disney, man.",
-      "original_url": "https://www.billboard.com/culture/lifestyle/muppets-rock-n-roller-coaster-hollywood-studios-celeb-cameos-1236224196/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Can You Picture Kelly Clarkson, Travis Barker and ‘Weird Al’ Cameos On New Muppets-Themed Rock ‘n’ Roller Coaster at Hollywood Studios?",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-16T15:06:05.166870+00:00"
-    },
-    {
-      "tweet": "Did you see that jury finally called out Live Nation for that whole monopoly thing? Took them long enough to say what we've all been paying for.",
-      "original_url": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Live Nation illegally monopolized ticketing market, jury finds",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-16T15:06:05.166286+00:00"
-    },
-    {
       "tweet": "Seeing these stats on people still living with their parents. Honestly, I get it, rent is just not a joke anymore.",
       "original_url": "https://www.mentalfloss.com/geography/maps/states-young-adults-live-most-with-parents?utm_source=RSS",
       "buzz_score": 80,
@@ -101,17 +79,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Seventeen people killed in that latest Russian strike on Ukraine. When does this actually stop.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/16/russia-attack-ukraine-drones-missiles-kyiv-odesa-volodymyr-zelenskyy",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "At least 17 people killed in Russia’s deadliest attack on Ukraine this year",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-16T15:06:05.167520+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -121,17 +88,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Dude, some random guy on Polymarket just cleared 300k betting on Biden's pardons. Imagine knowing that much about how the government works. Absolute hustle.",
-      "original_url": "https://www.npr.org/2026/04/16/nx-s1-5786580/a-polymarket-trader-made-300-000-betting-on-bidens-pardons",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "A Polymarket trader made $300,000 betting on Biden's pardons, a new analysis shows",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-16T13:03:06.242219+00:00"
     },
     {
       "tweet": "The new Pokémon Champions launch is basically just customer service simulator. We're really just paying to be tech support now.",
@@ -244,37 +200,15 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Battlefield 6 devs have a big plan to fix the game again. Hope they actually mean it this time.",
-      "original_url": "https://kotaku.com/battlefield-6-7-new-maps-ea-season-3-wake-island-prox-server-browser-reworks-2000687562",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Battlefield 6 Devs Reveal Their Big Plan To Improve The Game",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-16T15:06:05.167792+00:00"
-    },
-    {
-      "tweet": "Max Homa is calling out those Sergio Garcia antics at the Masters. About time someone just said it's a bad look.",
-      "original_url": "https://www.espn.com/golf/story/_/id/48502780/max-homa-asked-garcia-says-angry-golfers-look-spoiled",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Homa: Antics like Garcia's are 'bad look' for golf",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-16T15:06:05.167129+00:00"
-    },
-    {
-      "tweet": "Man, it's actually wild that a jury just officially called Live Nation a monopoly. Like we didn't already know that every time we tried to buy concert tickets.",
-      "original_url": "https://www.npr.org/2026/04/16/g-s1-117639/up-first-newsletter-trump-iran-war-strait-pope-leo-ticketmaster-live-nation-january-6",
+      "tweet": "Seventeen people killed in that latest Russian strike on Ukraine. When does this actually stop.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/16/russia-attack-ukraine-drones-missiles-kyiv-odesa-volodymyr-zelenskyy",
       "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Iran War timeline continues to shift. And, jury rules Live Nation acted as monopoly",
-      "source": "NPR News",
+      "original_title": "At least 17 people killed in Russia’s deadliest attack on Ukraine this year",
+      "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-04-16T13:03:06.242222+00:00"
+      "added_at": "2026-04-16T15:06:05.167520+00:00"
     },
     {
       "tweet": "Arne Slot really thinks Liverpool can pull off a comeback against PSG after being down two goals. Does he know who he's coaching?",
@@ -442,59 +376,37 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Turkiye is trying to become a top missile exporter while everything else is going down. Business as usual.",
-      "original_url": "https://www.aljazeera.com/economy/2026/4/16/turkiyes-roketsan-eyes-top-10-exporter-rank-amid-middle-east-conflict?traffic_source=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Turkiye’s Roketsan eyes top 10 exporter rank amid Middle East conflict",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-16T15:06:05.167391+00:00"
-    },
-    {
-      "tweet": "So NPR just got like 113 million in gifts. Glad they have stability, but it's weird to think of a news station needing a massive donation like that.",
-      "original_url": "https://www.npr.org/2026/04/16/nx-s1-5787634/npr-113-million-charitable-gifts-connie-ballmer",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "NPR receives $113 million in charitable gifts",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-16T15:06:05.166608+00:00"
-    },
-    {
-      "tweet": "Russia hit Ukraine with that massive attack even after the talk about an Easter ceasefire. It was never gonna happen.",
-      "original_url": "https://www.nytimes.com/2026/04/16/world/europe/russia-ukraine-missile-drone-attacks.html",
+      "tweet": "Dude, some random guy on Polymarket just cleared 300k betting on Biden's pardons. Imagine knowing that much about how the government works. Absolute hustle.",
+      "original_url": "https://www.npr.org/2026/04/16/nx-s1-5786580/a-polymarket-trader-made-300-000-betting-on-bidens-pardons",
       "buzz_score": 90,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Russian Strikes Kill at Least 15 in Ukraine in Biggest Attack in Months",
-      "source": "NYT World",
+      "original_title": "A Polymarket trader made $300,000 betting on Biden's pardons, a new analysis shows",
+      "source": "NPR News",
       "category": "world",
-      "added_at": "2026-04-16T10:54:53.025790+00:00"
+      "added_at": "2026-04-16T13:03:06.242219+00:00"
     },
     {
-      "tweet": "Ubisoft finally settled with those devs they laid off after the union stuff. Took them long enough.",
-      "original_url": "https://kotaku.com/ubisoft-settles-with-developers-who-were-laid-off-after-unionizing-2000688192",
+      "tweet": "Battlefield 6 devs have a big plan to fix the game again. Hope they actually mean it this time.",
+      "original_url": "https://kotaku.com/battlefield-6-7-new-maps-ea-season-3-wake-island-prox-server-browser-reworks-2000687562",
       "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Ubisoft Settles With Developers Who Were Laid Off After Unionizing",
+      "original_title": "Battlefield 6 Devs Reveal Their Big Plan To Improve The Game",
       "source": "Kotaku",
       "category": "entertainment",
-      "added_at": "2026-04-16T13:03:06.243131+00:00"
+      "added_at": "2026-04-16T15:06:05.167792+00:00"
     },
     {
-      "tweet": "Jude Bellingham called that red card on Camavinga a total joke. Real Madrid fans are losing their minds right now.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cvg0zwl4zwko?at_medium=RSS&at_campaign=rss",
+      "tweet": "Max Homa is calling out those Sergio Garcia antics at the Masters. About time someone just said it's a bad look.",
+      "original_url": "https://www.espn.com/golf/story/_/id/48502780/max-homa-asked-garcia-says-angry-golfers-look-spoiled",
       "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Bellingham says Camavinga red 'a joke' as Real fury grows",
-      "source": "BBC Sport",
+      "original_title": "Homa: Antics like Garcia's are 'bad look' for golf",
+      "source": "ESPN",
       "category": "sports",
-      "added_at": "2026-04-16T13:03:06.242632+00:00"
+      "added_at": "2026-04-16T15:06:05.167129+00:00"
     },
     {
       "tweet": "Luka Doncic is flying back from Spain with a bunch of injections for that hamstring strain. Reminds me how much we just push through until something actually snaps.",
@@ -651,48 +563,48 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "Sudan war's been going on for three years now with zero progress. What are we even doing.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/16/after-three-years-of-war-sudan-army-and-rsf-locked-in-military-impasse?traffic_source=rss",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "After three years of war, Sudan army and RSF locked in military impasse",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-16T15:06:05.168303+00:00"
-    },
-    {
-      "tweet": "Seeing Tyshawn Jones' best ollies is wild. Makes me wanna go skate until my ankles give out.",
-      "original_url": "https://hypebeast.com/2026/4/pop-documented-tyshawn-jones-10-best-ollies-ever",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Pop, Documented: Tyshawn Jones’ 10 Best Ollies Ever",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-16T15:06:05.168049+00:00"
-    },
-    {
-      "tweet": "Disney's bringing back Miley, Hilary, and Demi for 2026. Feels like we're just recycling high school.",
-      "original_url": "https://www.billboard.com/music/pop/miley-cyrus-demi-lovato-hilary-duff-disney-2026-success-1236223814/",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Miley Cyrus, Hilary Duff & Demi Lovato Are Helping Disney Dominate 2026: ‘This Class Is Just Unique In Music History’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-16T15:06:05.167000+00:00"
-    },
-    {
-      "tweet": "Anna's Archive didn't even show up to that 322 million dollar Spotify lawsuit. They just took the L and left.",
-      "original_url": "https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/",
+      "tweet": "Man, it's actually wild that a jury just officially called Live Nation a monopoly. Like we didn't already know that every time we tried to buy concert tickets.",
+      "original_url": "https://www.npr.org/2026/04/16/g-s1-117639/up-first-newsletter-trump-iran-war-strait-pope-leo-ticketmaster-live-nation-january-6",
       "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Anna's Archive loses $322M Spotify piracy case without a fight",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-16T10:54:53.025387+00:00"
+      "original_title": "Iran War timeline continues to shift. And, jury rules Live Nation acted as monopoly",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-16T13:03:06.242222+00:00"
+    },
+    {
+      "tweet": "Turkiye is trying to become a top missile exporter while everything else is going down. Business as usual.",
+      "original_url": "https://www.aljazeera.com/economy/2026/4/16/turkiyes-roketsan-eyes-top-10-exporter-rank-amid-middle-east-conflict?traffic_source=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Turkiye’s Roketsan eyes top 10 exporter rank amid Middle East conflict",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-16T15:06:05.167391+00:00"
+    },
+    {
+      "tweet": "So NPR just got like 113 million in gifts. Glad they have stability, but it's weird to think of a news station needing a massive donation like that.",
+      "original_url": "https://www.npr.org/2026/04/16/nx-s1-5787634/npr-113-million-charitable-gifts-connie-ballmer",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "NPR receives $113 million in charitable gifts",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-16T15:06:05.166608+00:00"
+    },
+    {
+      "tweet": "Russia hit Ukraine with that massive attack even after the talk about an Easter ceasefire. It was never gonna happen.",
+      "original_url": "https://www.nytimes.com/2026/04/16/world/europe/russia-ukraine-missile-drone-attacks.html",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Russian Strikes Kill at Least 15 in Ukraine in Biggest Attack in Months",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-16T10:54:53.025790+00:00"
     },
     {
       "tweet": "Pakistan managing the US-Iran talks is a weird timeline. Things are moving fast",
@@ -772,6 +684,61 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "Ubisoft finally settled with those devs they laid off after the union stuff. Took them long enough.",
+      "original_url": "https://kotaku.com/ubisoft-settles-with-developers-who-were-laid-off-after-unionizing-2000688192",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Ubisoft Settles With Developers Who Were Laid Off After Unionizing",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-16T13:03:06.243131+00:00"
+    },
+    {
+      "tweet": "Jude Bellingham called that red card on Camavinga a total joke. Real Madrid fans are losing their minds right now.",
+      "original_url": "https://www.bbc.com/sport/football/articles/cvg0zwl4zwko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Bellingham says Camavinga red 'a joke' as Real fury grows",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-16T13:03:06.242632+00:00"
+    },
+    {
+      "tweet": "Sudan war's been going on for three years now with zero progress. What are we even doing.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/16/after-three-years-of-war-sudan-army-and-rsf-locked-in-military-impasse?traffic_source=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "After three years of war, Sudan army and RSF locked in military impasse",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-16T15:06:05.168303+00:00"
+    },
+    {
+      "tweet": "Seeing Tyshawn Jones' best ollies is wild. Makes me wanna go skate until my ankles give out.",
+      "original_url": "https://hypebeast.com/2026/4/pop-documented-tyshawn-jones-10-best-ollies-ever",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Pop, Documented: Tyshawn Jones’ 10 Best Ollies Ever",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-16T15:06:05.168049+00:00"
+    },
+    {
+      "tweet": "Disney's bringing back Miley, Hilary, and Demi for 2026. Feels like we're just recycling high school.",
+      "original_url": "https://www.billboard.com/music/pop/miley-cyrus-demi-lovato-hilary-duff-disney-2026-success-1236223814/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Miley Cyrus, Hilary Duff & Demi Lovato Are Helping Disney Dominate 2026: ‘This Class Is Just Unique In Music History’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-16T15:06:05.167000+00:00"
+    },
+    {
       "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
       "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
       "buzz_score": 88,
@@ -783,37 +750,15 @@
       "added_at": "2026-04-11T03:59:38.753282+00:00"
     },
     {
-      "tweet": "French Open prize money is going up another 9.5 percent. Must be nice.",
-      "original_url": "https://www.bbc.com/sport/tennis/articles/cj40pwznpdqo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 60,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "French Open prize money to increase by 9.5%",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-16T15:06:05.168176+00:00"
-    },
-    {
-      "tweet": "Bukele in El Salvador is now throwing 12-year-olds in prison for life. That is actually insane.",
-      "original_url": "https://www.npr.org/2026/04/16/g-s1-117613/bukele-life-prison-sentences-for-people-as-young-as-12",
+      "tweet": "Anna's Archive didn't even show up to that 322 million dollar Spotify lawsuit. They just took the L and left.",
+      "original_url": "https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/",
       "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Bukele signs reforms allowing life prison sentences for people as young as 12",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-16T08:11:13.847578+00:00"
-    },
-    {
-      "tweet": "Boards of Canada might actually be back. After thirteen years of silence, a couple of posters is all it takes to send the entire internet spiraling.",
-      "original_url": "https://www.billboard.com/music/music-news/warp-records-cryptic-poster-boards-of-canada-1236224138/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Warp Records’ Cryptic Poster Run Hints at Boards of Canada Return",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-16T08:11:13.847053+00:00"
+      "original_title": "Anna's Archive loses $322M Spotify piracy case without a fight",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-16T10:54:53.025387+00:00"
     },
     {
       "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
@@ -915,6 +860,17 @@
       "added_at": "2026-04-09T22:23:59.524130+00:00"
     },
     {
+      "tweet": "French Open prize money is going up another 9.5 percent. Must be nice.",
+      "original_url": "https://www.bbc.com/sport/tennis/articles/cj40pwznpdqo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 60,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "French Open prize money to increase by 9.5%",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-16T15:06:05.168176+00:00"
+    },
+    {
       "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
       "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 78,
@@ -926,37 +882,26 @@
       "added_at": "2026-04-11T09:01:18.261834+00:00"
     },
     {
-      "tweet": "Millions of people in Bengal just got their voting rights nuked under the radar. That's how you rig a democracy.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/16/muslims-the-target-fury-as-millions-lose-voting-rights-in-indias-bengal?traffic_source=rss",
-      "buzz_score": 80,
+      "tweet": "Bukele in El Salvador is now throwing 12-year-olds in prison for life. That is actually insane.",
+      "original_url": "https://www.npr.org/2026/04/16/g-s1-117613/bukele-life-prison-sentences-for-people-as-young-as-12",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Muslims the target? Fury as millions lose voting rights in India’s Bengal",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-16T08:11:13.848330+00:00"
-    },
-    {
-      "tweet": "We've really got the government out here detaining an 86-year-old widow like she's some kind of threat. That's a new low.",
-      "original_url": "https://www.npr.org/2026/04/16/g-s1-117615/france-seeks-release-of-86-year-old-detained-by-ice",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "French government seeking release of 86-year-old French widow detained by ICE",
+      "original_title": "Bukele signs reforms allowing life prison sentences for people as young as 12",
       "source": "NPR News",
       "category": "world",
-      "added_at": "2026-04-16T08:11:13.847454+00:00"
+      "added_at": "2026-04-16T08:11:13.847578+00:00"
     },
     {
-      "tweet": "Watching Curry take over that game against the Clippers was wild. That dude is just not human.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48500300/warriors-rally-clippers-4th-advance-play-in",
-      "buzz_score": 80,
+      "tweet": "Boards of Canada might actually be back. After thirteen years of silence, a couple of posters is all it takes to send the entire internet spiraling.",
+      "original_url": "https://www.billboard.com/music/music-news/warp-records-cryptic-poster-boards-of-canada-1236224138/",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Vintage Curry takes over as Dubs extend season",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-16T08:11:13.846896+00:00"
+      "original_title": "Warp Records’ Cryptic Poster Run Hints at Boards of Canada Return",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-16T08:11:13.847053+00:00"
     },
     {
       "tweet": "The US actually started a blockade of the Strait of Hormuz, but every European country just said no thanks. We're really out here doing the most alone.",
@@ -1034,6 +979,39 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-10T10:16:53.218320+00:00"
+    },
+    {
+      "tweet": "Millions of people in Bengal just got their voting rights nuked under the radar. That's how you rig a democracy.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/16/muslims-the-target-fury-as-millions-lose-voting-rights-in-indias-bengal?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Muslims the target? Fury as millions lose voting rights in India’s Bengal",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-16T08:11:13.848330+00:00"
+    },
+    {
+      "tweet": "We've really got the government out here detaining an 86-year-old widow like she's some kind of threat. That's a new low.",
+      "original_url": "https://www.npr.org/2026/04/16/g-s1-117615/france-seeks-release-of-86-year-old-detained-by-ice",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "French government seeking release of 86-year-old French widow detained by ICE",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-16T08:11:13.847454+00:00"
+    },
+    {
+      "tweet": "Watching Curry take over that game against the Clippers was wild. That dude is just not human.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48500300/warriors-rally-clippers-4th-advance-play-in",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Vintage Curry takes over as Dubs extend season",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-16T08:11:13.846896+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 375,
+    "total_posted": 377,
     "total_collected": 1163
   },
-  "last_posted_at": "2026-04-16T15:11:57.588128+00:00"
+  "last_posted_at": "2026-04-16T16:55:16.340690+00:00"
 }
