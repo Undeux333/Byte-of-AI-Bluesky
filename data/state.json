@@ -2,17 +2,6 @@
   "last_collected": "2026-04-16T10:54:53.027301+00:00",
   "queue": [
     {
-      "tweet": "Dude, Carlos Ulberg just won the UFC belt and immediately lost it celebrating. Man can fight the best in the world but can't keep track of his own luggage.",
-      "original_url": "https://www.espn.com/mma/story/_/id/48499734/carlos-ulberg-says-lost-title-belt-celebrating-ufc-327-win",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Ulberg says he lost UFC title belt celebrating win",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-16T08:11:13.846893+00:00"
-    },
-    {
       "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
       "buzz_score": 95,
@@ -22,17 +11,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251727+00:00"
-    },
-    {
-      "tweet": "Russia hit Ukraine with that massive attack even after the talk about an Easter ceasefire. It was never gonna happen.",
-      "original_url": "https://www.nytimes.com/2026/04/16/world/europe/russia-ukraine-missile-drone-attacks.html",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Russian Strikes Kill at Least 15 in Ukraine in Biggest Attack in Months",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-16T10:54:53.025790+00:00"
     },
     {
       "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
@@ -46,6 +24,17 @@
       "added_at": "2026-04-12T02:32:59.106863+00:00"
     },
     {
+      "tweet": "Russia hit Ukraine with that massive attack even after the talk about an Easter ceasefire. It was never gonna happen.",
+      "original_url": "https://www.nytimes.com/2026/04/16/world/europe/russia-ukraine-missile-drone-attacks.html",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Russian Strikes Kill at Least 15 in Ukraine in Biggest Attack in Months",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-16T10:54:53.025790+00:00"
+    },
+    {
       "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026",
       "buzz_score": 90,
@@ -57,17 +46,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Anna's Archive didn't even show up to that 322 million dollar Spotify lawsuit. They just took the L and left.",
-      "original_url": "https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Anna's Archive loses $322M Spotify piracy case without a fight",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-16T10:54:53.025387+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -77,6 +55,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Anna's Archive didn't even show up to that 322 million dollar Spotify lawsuit. They just took the L and left.",
+      "original_url": "https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Anna's Archive loses $322M Spotify piracy case without a fight",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-16T10:54:53.025387+00:00"
     },
     {
       "tweet": "The new Pokémon Champions launch is basically just customer service simulator. We're really just paying to be tech support now.",
@@ -354,28 +343,6 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Bukele in El Salvador is now throwing 12-year-olds in prison for life. That is actually insane.",
-      "original_url": "https://www.npr.org/2026/04/16/g-s1-117613/bukele-life-prison-sentences-for-people-as-young-as-12",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Bukele signs reforms allowing life prison sentences for people as young as 12",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-16T08:11:13.847578+00:00"
-    },
-    {
-      "tweet": "Boards of Canada might actually be back. After thirteen years of silence, a couple of posters is all it takes to send the entire internet spiraling.",
-      "original_url": "https://www.billboard.com/music/music-news/warp-records-cryptic-poster-boards-of-canada-1236224138/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Warp Records’ Cryptic Poster Run Hints at Boards of Canada Return",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-16T08:11:13.847053+00:00"
-    },
-    {
       "tweet": "Luka Doncic is flying back from Spain with a bunch of injections for that hamstring strain. Reminds me how much we just push through until something actually snaps.",
       "original_url": "https://www.espn.com/nba/story/_/id/48477183/doncic-return-spain-friday-status-unknown",
       "buzz_score": 75,
@@ -530,37 +497,26 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "Millions of people in Bengal just got their voting rights nuked under the radar. That's how you rig a democracy.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/16/muslims-the-target-fury-as-millions-lose-voting-rights-in-indias-bengal?traffic_source=rss",
-      "buzz_score": 80,
+      "tweet": "Bukele in El Salvador is now throwing 12-year-olds in prison for life. That is actually insane.",
+      "original_url": "https://www.npr.org/2026/04/16/g-s1-117613/bukele-life-prison-sentences-for-people-as-young-as-12",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Muslims the target? Fury as millions lose voting rights in India’s Bengal",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-16T08:11:13.848330+00:00"
-    },
-    {
-      "tweet": "We've really got the government out here detaining an 86-year-old widow like she's some kind of threat. That's a new low.",
-      "original_url": "https://www.npr.org/2026/04/16/g-s1-117615/france-seeks-release-of-86-year-old-detained-by-ice",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "French government seeking release of 86-year-old French widow detained by ICE",
+      "original_title": "Bukele signs reforms allowing life prison sentences for people as young as 12",
       "source": "NPR News",
       "category": "world",
-      "added_at": "2026-04-16T08:11:13.847454+00:00"
+      "added_at": "2026-04-16T08:11:13.847578+00:00"
     },
     {
-      "tweet": "Watching Curry take over that game against the Clippers was wild. That dude is just not human.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48500300/warriors-rally-clippers-4th-advance-play-in",
-      "buzz_score": 80,
+      "tweet": "Boards of Canada might actually be back. After thirteen years of silence, a couple of posters is all it takes to send the entire internet spiraling.",
+      "original_url": "https://www.billboard.com/music/music-news/warp-records-cryptic-poster-boards-of-canada-1236224138/",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Vintage Curry takes over as Dubs extend season",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-16T08:11:13.846896+00:00"
+      "original_title": "Warp Records’ Cryptic Poster Run Hints at Boards of Canada Return",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-16T08:11:13.847053+00:00"
     },
     {
       "tweet": "Pakistan managing the US-Iran talks is a weird timeline. Things are moving fast",
@@ -640,6 +596,50 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "Millions of people in Bengal just got their voting rights nuked under the radar. That's how you rig a democracy.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/16/muslims-the-target-fury-as-millions-lose-voting-rights-in-indias-bengal?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Muslims the target? Fury as millions lose voting rights in India’s Bengal",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-16T08:11:13.848330+00:00"
+    },
+    {
+      "tweet": "We've really got the government out here detaining an 86-year-old widow like she's some kind of threat. That's a new low.",
+      "original_url": "https://www.npr.org/2026/04/16/g-s1-117615/france-seeks-release-of-86-year-old-detained-by-ice",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "French government seeking release of 86-year-old French widow detained by ICE",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-16T08:11:13.847454+00:00"
+    },
+    {
+      "tweet": "Watching Curry take over that game against the Clippers was wild. That dude is just not human.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48500300/warriors-rally-clippers-4th-advance-play-in",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Vintage Curry takes over as Dubs extend season",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-16T08:11:13.846896+00:00"
+    },
+    {
+      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T03:59:38.753282+00:00"
+    },
+    {
       "tweet": "NSW court just nuked that anti-protest law. About time someone told them that marching isn't a crime.",
       "original_url": "https://www.theguardian.com/australia-news/2026/apr/16/nsws-highest-court-strikes-down-anti-protest-law-introduced-in-wake-of-bondi-beach-terror-attack-ntwnfb",
       "buzz_score": 75,
@@ -673,15 +673,37 @@
       "added_at": "2026-04-16T08:11:13.846898+00:00"
     },
     {
-      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
-      "buzz_score": 88,
+      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 82,
       "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T03:59:38.753282+00:00"
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-08T04:12:50.486178+00:00"
+    },
+    {
+      "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
+      "original_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Fact check: Trump's objectives in the war with Iran have largely not been achieved",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-08T22:35:32.474831+00:00"
+    },
+    {
+      "tweet": "Everyone in Tehran is claiming victory after that ceasefire. It’s pretty clear nobody actually won anything.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/8/iranians-breathe-a-ceasefire-sigh-of-relief-as-all-sides-claim-victory?traffic_source=rss",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iranians breathe a ‘ceasefire’ sigh of relief as all sides claim victory",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-08T20:03:08.618965+00:00"
     },
     {
       "tweet": "Hold on, someone's out here trying to explain the strong nuclear force without colors. I barely know what that is with colors.",
@@ -748,39 +770,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-16T08:11:13.846901+00:00"
-    },
-    {
-      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-08T04:12:50.486178+00:00"
-    },
-    {
-      "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
-      "original_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fact check: Trump's objectives in the war with Iran have largely not been achieved",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-08T22:35:32.474831+00:00"
-    },
-    {
-      "tweet": "Everyone in Tehran is claiming victory after that ceasefire. It’s pretty clear nobody actually won anything.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/8/iranians-breathe-a-ceasefire-sigh-of-relief-as-all-sides-claim-victory?traffic_source=rss",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iranians breathe a ‘ceasefire’ sigh of relief as all sides claim victory",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-08T20:03:08.618965+00:00"
     },
     {
       "tweet": "Coachella’s pushing the whole art exhibit thing again this year. Honestly, it’s just something to stare at while we're trying to figure out where the stage is.",
@@ -992,6 +981,17 @@
       "added_at": "2026-04-08T15:44:16.953760+00:00"
     },
     {
+      "tweet": "They’re actually putting in a new spam policy for that back button hijacking thing. About time.",
+      "original_url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+      "buzz_score": 75,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "A new spam policy for “back button hijacking”",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-14T21:33:01.287764+00:00"
+    },
+    {
       "tweet": "Studio Ghibli did a double feature with Totoro and Grave of the Fireflies 38 years ago. Talk about emotional whiplash.",
       "original_url": "https://www.polygon.com/my-neighbor-totoro-grave-of-the-fireflies-double-feature-studio-ghibli/",
       "buzz_score": 85,
@@ -1023,17 +1023,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-16T10:54:53.026040+00:00"
-    },
-    {
-      "tweet": "They’re actually putting in a new spam policy for that back button hijacking thing. About time.",
-      "original_url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "A new spam policy for “back button hijacking”",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-14T21:33:01.287764+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 372,
+    "total_posted": 373,
     "total_collected": 1131
   },
-  "last_posted_at": "2026-04-16T11:04:11.132682+00:00"
+  "last_posted_at": "2026-04-16T11:51:09.713765+00:00"
 }
