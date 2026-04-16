@@ -2,28 +2,6 @@
   "last_collected": "2026-04-16T22:36:02.701203+00:00",
   "queue": [
     {
-      "tweet": "Hold on, so Trump says there's a ten-day ceasefire but the Israel prime minister is still saying troops aren't leaving. At this point we're just making it up as we go.",
-      "original_url": "https://www.bbc.com/news/articles/c8x7w1w9gd2o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Israel and Lebanon agree 10-day ceasefire, Trump says",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-16T22:36:02.699311+00:00"
-    },
-    {
-      "tweet": "The Pope is out here calling people tyrants for spending billions on war right after Trump called him weak. Like, is this really what we're doing now",
-      "original_url": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-16T22:36:02.699314+00:00"
-    },
-    {
       "tweet": "Trump is mad at Australia for not helping in the strait of Hormuz, but the Aussies are saying they never even got a request. Are we even talking to each other",
       "original_url": "https://www.theguardian.com/australia-news/2026/apr/17/donald-trump-criticises-australia-strait-of-hormuz",
       "buzz_score": 85,
@@ -90,17 +68,6 @@
       "added_at": "2026-04-12T02:32:59.106863+00:00"
     },
     {
-      "tweet": "Seeing these stats on people still living with their parents. Honestly, I get it, rent is just not a joke anymore.",
-      "original_url": "https://www.mentalfloss.com/geography/maps/states-young-adults-live-most-with-parents?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Home Sweet (Parents’) Home: The States Where Young Adults Haven’t Moved Out",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-16T15:06:05.166454+00:00"
-    },
-    {
       "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026",
       "buzz_score": 90,
@@ -110,17 +77,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "Everyone in Lebanon is just waiting for the ceasefire to actually mean something before they go home. It's just a tense way to live.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/16/displaced-lebanese-wary-as-ceasefire-between-israel-and-hezbollah-begins?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Displaced Lebanese wary as ceasefire between Israel and Hezbollah begins",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-16T22:36:02.700284+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -134,6 +90,28 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
+      "tweet": "Seeing these stats on people still living with their parents. Honestly, I get it, rent is just not a joke anymore.",
+      "original_url": "https://www.mentalfloss.com/geography/maps/states-young-adults-live-most-with-parents?utm_source=RSS",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Home Sweet (Parents’) Home: The States Where Young Adults Haven’t Moved Out",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-16T15:06:05.166454+00:00"
+    },
+    {
+      "tweet": "Everyone in Lebanon is just waiting for the ceasefire to actually mean something before they go home. It's just a tense way to live.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/16/displaced-lebanese-wary-as-ceasefire-between-israel-and-hezbollah-begins?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Displaced Lebanese wary as ceasefire between Israel and Hezbollah begins",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-16T22:36:02.700284+00:00"
+    },
+    {
       "tweet": "So apparently the Pope is out here lecturing world leaders on war spending. Kinda funny considering the timing with that whole Trump spat. Must be nice.",
       "original_url": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -143,17 +121,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-16T13:03:06.242212+00:00"
-    },
-    {
-      "tweet": "They made a whole Street Fighter movie about Ryu and Ken going through a rough patch. Drama, really.",
-      "original_url": "https://kotaku.com/street-fighter-movie-trailer-ryu-ken-chun-li-cammy-bison-2000688206",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Ryu And Ken Are Going Through A Rough Patch In The New Street Fighter Movie",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-16T15:06:05.167920+00:00"
     },
     {
       "tweet": "The new Pokémon Champions launch is basically just customer service simulator. We're really just paying to be tech support now.",
@@ -264,6 +231,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
+    },
+    {
+      "tweet": "They made a whole Street Fighter movie about Ryu and Ken going through a rough patch. Drama, really.",
+      "original_url": "https://kotaku.com/street-fighter-movie-trailer-ryu-ken-chun-li-cammy-bison-2000688206",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Ryu And Ken Are Going Through A Rough Patch In The New Street Fighter Movie",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-16T15:06:05.167920+00:00"
     },
     {
       "tweet": "Did you see Israel agreed to a 10-day ceasefire in Lebanon but Netanyahu is already saying they aren't pulling the troops out. Like, what even is a ceasefire then",
@@ -673,17 +651,6 @@
       "added_at": "2026-04-16T22:36:02.699611+00:00"
     },
     {
-      "tweet": "Ashley Cole said England basically discouraged him from going into management. We wonder why the coaching pipeline is so dry",
-      "original_url": "https://www.bbc.com/sport/football/articles/c6244xp5lvno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Italy made me a manager when England 'discouraged' me - Cole",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-16T20:27:56.595197+00:00"
-    },
-    {
       "tweet": "Pakistan managing the US-Iran talks is a weird timeline. Things are moving fast",
       "original_url": "https://www.aljazeera.com/news/2026/4/13/how-the-us-iran-talks-in-islamabad-unfolded?traffic_source=rss",
       "buzz_score": 70,
@@ -761,6 +728,28 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "Ashley Cole said England basically discouraged him from going into management. We wonder why the coaching pipeline is so dry",
+      "original_url": "https://www.bbc.com/sport/football/articles/c6244xp5lvno?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Italy made me a manager when England 'discouraged' me - Cole",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-16T20:27:56.595197+00:00"
+    },
+    {
+      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T03:59:38.753282+00:00"
+    },
+    {
       "tweet": "William Ellard just smashed the world record for the 100m freestyle. That's insane.",
       "original_url": "https://www.bbc.com/sport/swimming/articles/ce8jpwdypzgo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 65,
@@ -781,17 +770,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-16T22:36:02.700669+00:00"
-    },
-    {
-      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T03:59:38.753282+00:00"
     },
     {
       "tweet": "People are already asking if this is the end for LIV Golf. I mean, at what point do you just admit it didn't really work out",
@@ -827,28 +805,6 @@
       "added_at": "2026-04-16T22:36:02.700541+00:00"
     },
     {
-      "tweet": "That new Metro 2039 gameplay actually looks insane. Graphics are crazy for a game coming out later this year",
-      "original_url": "https://kotaku.com/metro-2039-looks-stunning-in-first-gameplay-launching-later-this-year-2000688279",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Metro 2039 Looks Stunning In First Gameplay, Launching Later This Year",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-16T18:02:35.469603+00:00"
-    },
-    {
-      "tweet": "Found a list of towns where cars are banned. Honestly sounds like the dream until you realize you have to carry your groceries three miles home. My legs hurt just thinking about it",
-      "original_url": "https://www.mentalfloss.com/geography/wanderlust/quiet-towns-where-cars-are-banned?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "6 Quiet Towns Where Cars Are Banned",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-16T18:02:35.469061+00:00"
-    },
-    {
       "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 82,
@@ -858,17 +814,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-08T04:12:50.486178+00:00"
-    },
-    {
-      "tweet": "Seventeen people killed in that latest Russian strike on Ukraine. When does this actually stop.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/16/russia-attack-ukraine-drones-missiles-kyiv-odesa-volodymyr-zelenskyy",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "At least 17 people killed in Russia’s deadliest attack on Ukraine this year",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-16T15:06:05.167520+00:00"
     },
     {
       "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
@@ -959,6 +904,28 @@
       "added_at": "2026-04-09T22:23:59.524130+00:00"
     },
     {
+      "tweet": "That new Metro 2039 gameplay actually looks insane. Graphics are crazy for a game coming out later this year",
+      "original_url": "https://kotaku.com/metro-2039-looks-stunning-in-first-gameplay-launching-later-this-year-2000688279",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Metro 2039 Looks Stunning In First Gameplay, Launching Later This Year",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-16T18:02:35.469603+00:00"
+    },
+    {
+      "tweet": "Found a list of towns where cars are banned. Honestly sounds like the dream until you realize you have to carry your groceries three miles home. My legs hurt just thinking about it",
+      "original_url": "https://www.mentalfloss.com/geography/wanderlust/quiet-towns-where-cars-are-banned?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "6 Quiet Towns Where Cars Are Banned",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-16T18:02:35.469061+00:00"
+    },
+    {
       "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
       "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 78,
@@ -970,6 +937,17 @@
       "added_at": "2026-04-11T09:01:18.261834+00:00"
     },
     {
+      "tweet": "Seventeen people killed in that latest Russian strike on Ukraine. When does this actually stop.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/16/russia-attack-ukraine-drones-missiles-kyiv-odesa-volodymyr-zelenskyy",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "At least 17 people killed in Russia’s deadliest attack on Ukraine this year",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-16T15:06:05.167520+00:00"
+    },
+    {
       "tweet": "Dude, some random guy on Polymarket just cleared 300k betting on Biden's pardons. Imagine knowing that much about how the government works. Absolute hustle.",
       "original_url": "https://www.npr.org/2026/04/16/nx-s1-5786580/a-polymarket-trader-made-300-000-betting-on-bidens-pardons",
       "buzz_score": 90,
@@ -979,39 +957,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-04-16T13:03:06.242219+00:00"
-    },
-    {
-      "tweet": "Luka and Cunningham finally got their award eligibility back after that 65-game rule mess. Seems like common sense finally won out",
-      "original_url": "https://www.espn.com/nba/story/_/id/48504211/luka-doncic-cade-cunningham-eligible-nba-season-awards",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Luka, Cunningham win appeal, eligible for awards",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-16T18:02:35.469069+00:00"
-    },
-    {
-      "tweet": "Battlefield 6 devs have a big plan to fix the game again. Hope they actually mean it this time.",
-      "original_url": "https://kotaku.com/battlefield-6-7-new-maps-ea-season-3-wake-island-prox-server-browser-reworks-2000687562",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Battlefield 6 Devs Reveal Their Big Plan To Improve The Game",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-16T15:06:05.167792+00:00"
-    },
-    {
-      "tweet": "Max Homa is calling out those Sergio Garcia antics at the Masters. About time someone just said it's a bad look.",
-      "original_url": "https://www.espn.com/golf/story/_/id/48502780/max-homa-asked-garcia-says-angry-golfers-look-spoiled",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Homa: Antics like Garcia's are 'bad look' for golf",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-16T15:06:05.167129+00:00"
     },
     {
       "tweet": "Russia hit Ukraine with that massive attack even after the talk about an Easter ceasefire. It was never gonna happen.",
@@ -1056,6 +1001,39 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-13T14:20:44.700672+00:00"
+    },
+    {
+      "tweet": "Luka and Cunningham finally got their award eligibility back after that 65-game rule mess. Seems like common sense finally won out",
+      "original_url": "https://www.espn.com/nba/story/_/id/48504211/luka-doncic-cade-cunningham-eligible-nba-season-awards",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Luka, Cunningham win appeal, eligible for awards",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-16T18:02:35.469069+00:00"
+    },
+    {
+      "tweet": "Battlefield 6 devs have a big plan to fix the game again. Hope they actually mean it this time.",
+      "original_url": "https://kotaku.com/battlefield-6-7-new-maps-ea-season-3-wake-island-prox-server-browser-reworks-2000687562",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Battlefield 6 Devs Reveal Their Big Plan To Improve The Game",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-16T15:06:05.167792+00:00"
+    },
+    {
+      "tweet": "Max Homa is calling out those Sergio Garcia antics at the Masters. About time someone just said it's a bad look.",
+      "original_url": "https://www.espn.com/golf/story/_/id/48502780/max-homa-asked-garcia-says-angry-golfers-look-spoiled",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Homa: Antics like Garcia's are 'bad look' for golf",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-16T15:06:05.167129+00:00"
     }
   ],
   "seen_urls": [
@@ -2062,8 +2040,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 383,
+    "total_posted": 385,
     "total_collected": 1204
   },
-  "last_posted_at": "2026-04-16T21:19:29.825407+00:00"
+  "last_posted_at": "2026-04-16T23:30:02.901973+00:00"
 }
