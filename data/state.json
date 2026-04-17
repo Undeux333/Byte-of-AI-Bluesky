@@ -2,17 +2,6 @@
   "last_collected": "2026-04-17T05:53:06.957764+00:00",
   "queue": [
     {
-      "tweet": "Mark Williams is out here threatening to run the M4 naked if he breaks the snooker record. Absolute madman.",
-      "original_url": "https://www.bbc.com/sport/snooker/articles/cgmeerx9pxwo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'I'd run the M4 naked' - Williams targets snooker history",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-17T05:53:06.955895+00:00"
-    },
-    {
       "tweet": "Bro, Qwen3.6 is finally out and it’s actually writing code for me now. I’m gonna be out of a job by Tuesday.",
       "original_url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
       "buzz_score": 85,
@@ -112,17 +101,6 @@
       "added_at": "2026-04-12T02:32:59.106863+00:00"
     },
     {
-      "tweet": "Mike Trout just hit his fifth homer at Yankee Stadium in four games. Guy is literally playing a video game on rookie mode.",
-      "original_url": "https://www.espn.com/mlb/story/_/id/48506296/mike-trout-crushes-fifth-yankee-stadium-hr-four-games",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trout unleashes HR barrage at Yankee Stadium",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-16T22:36:02.699872+00:00"
-    },
-    {
       "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026",
       "buzz_score": 90,
@@ -132,17 +110,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "Man, 137 charges for that childcare worker in Sydney. That’s actually nauseating.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/17/sydney-childcare-worker-child-abuse-charges-multiple-centres-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘Parent’s worst nightmare’: Sydney childcare worker faces 137 child abuse charges relating to multiple centres",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-17T05:53:06.956855+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -277,26 +244,26 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Iran is legit winning the PR war against the US with Lego videos. You can’t make this stuff up.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/17/vengeance-for-all-how-irans-lego-videos-won-narrative-war-against-trump?traffic_source=rss",
+      "tweet": "Mike Trout just hit his fifth homer at Yankee Stadium in four games. Guy is literally playing a video game on rookie mode.",
+      "original_url": "https://www.espn.com/mlb/story/_/id/48506296/mike-trout-crushes-fifth-yankee-stadium-hr-four-games",
       "buzz_score": 80,
-      "buzz_score2": 90,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "‘Vengeance for all’: How Iran’s Lego videos won narrative war against Trump",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-17T05:53:06.956452+00:00"
-    },
-    {
-      "tweet": "McDavid just bagged his 6th scoring title with 138 points. At this point the NHL might as well just name the trophy after him and call it a day.",
-      "original_url": "https://www.espn.com/nhl/story/_/id/48509318/oilers-mcdavid-wraps-nhl-scoring-title-4-assist-finale",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "McDavid seals 6th scoring title with 4-assist finale",
+      "original_title": "Trout unleashes HR barrage at Yankee Stadium",
       "source": "ESPN",
       "category": "sports",
-      "added_at": "2026-04-17T05:53:06.955892+00:00"
+      "added_at": "2026-04-16T22:36:02.699872+00:00"
+    },
+    {
+      "tweet": "Man, 137 charges for that childcare worker in Sydney. That’s actually nauseating.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/17/sydney-childcare-worker-child-abuse-charges-multiple-centres-ntwnfb",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘Parent’s worst nightmare’: Sydney childcare worker faces 137 child abuse charges relating to multiple centres",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-17T05:53:06.956855+00:00"
     },
     {
       "tweet": "Hold on, some bank robbers in Naples literally just vanished through the sewer system after taking hostages. Absolute movie behavior man",
@@ -486,48 +453,26 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "These NHL experts are already trying to predict the 2026 playoffs. Like, let us survive this season first.",
-      "original_url": "https://www.espn.com/nhl/story/_/id/48487303/nhl-2025-26-stanley-cup-playoffs-predictions-player-coach-gm-top-teams",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Postseason roundtable: NHL player, coach, GM predict the 2026 Stanley Cup playoffs",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-17T05:53:06.957495+00:00"
-    },
-    {
-      "tweet": "Patta and Nike are putting out these chrome cleats that look like space tech. I don't even play and I want them.",
-      "original_url": "https://hypebeast.com/2026/4/patta-nike-mercurial-vapor-16-elite-fg-chrome-iq3365-001-release-info",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Patta x Nike Mercurial Vapor 16 Elite FG \"Chrome\"",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-17T05:53:06.957113+00:00"
-    },
-    {
-      "tweet": "Watching these seniors in Japan take classes just to figure out how to hang up a phone. Honestly, we’ve all been there.",
-      "original_url": "https://www.theguardian.com/technology/2026/apr/17/japanese-over-70s-mobile-master-smartphones",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘How do I end a call?’: the elderly Japanese people determined to master smartphones",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-17T05:53:06.956057+00:00"
-    },
-    {
-      "tweet": "The House actually passed that bill protecting Haitian migrants. Guess some people in the GOP are tired of just doing whatever Trump says.",
-      "original_url": "https://www.npr.org/2026/04/16/g-s1-117718/house-passes-bill-extending-protections-for-haitian-migrants-in-the-u-s",
+      "tweet": "Iran is legit winning the PR war against the US with Lego videos. You can’t make this stuff up.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/17/vengeance-for-all-how-irans-lego-videos-won-narrative-war-against-trump?traffic_source=rss",
       "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "House passes bill extending protections for Haitian migrants in the U.S.",
-      "source": "NPR News",
+      "original_title": "‘Vengeance for all’: How Iran’s Lego videos won narrative war against Trump",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-04-17T03:43:20.430190+00:00"
+      "added_at": "2026-04-17T05:53:06.956452+00:00"
+    },
+    {
+      "tweet": "McDavid just bagged his 6th scoring title with 138 points. At this point the NHL might as well just name the trophy after him and call it a day.",
+      "original_url": "https://www.espn.com/nhl/story/_/id/48509318/oilers-mcdavid-wraps-nhl-scoring-title-4-assist-finale",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "McDavid seals 6th scoring title with 4-assist finale",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-17T05:53:06.955892+00:00"
     },
     {
       "tweet": "They made a whole Street Fighter movie about Ryu and Ken going through a rough patch. Drama, really.",
@@ -706,59 +651,48 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "Trying to figure out Pragmata and I’m literally hunting for a Lim Eraser to kill these spikes. This game is testing my patience.",
-      "original_url": "https://www.polygon.com/pragmata-how-to-get-rid-of-the-spikes-blocked-walls/",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "How to get rid of the spikes in Pragmata",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-17T05:53:06.957368+00:00"
-    },
-    {
-      "tweet": "Australia says no fuel restrictions even with that massive refinery fire in Geelong. They're banking on vibes.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/17/albanese-no-fuel-restrictions-geelong-refinery-fire",
+      "tweet": "These NHL experts are already trying to predict the 2026 playoffs. Like, let us survive this season first.",
+      "original_url": "https://www.espn.com/nhl/story/_/id/48487303/nhl-2025-26-stanley-cup-playoffs-predictions-player-coach-gm-top-teams",
       "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Albanese says no fuel restrictions in wake of massive Geelong refinery fire",
+      "original_title": "Postseason roundtable: NHL player, coach, GM predict the 2026 Stanley Cup playoffs",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-17T05:53:06.957495+00:00"
+    },
+    {
+      "tweet": "Patta and Nike are putting out these chrome cleats that look like space tech. I don't even play and I want them.",
+      "original_url": "https://hypebeast.com/2026/4/patta-nike-mercurial-vapor-16-elite-fg-chrome-iq3365-001-release-info",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Patta x Nike Mercurial Vapor 16 Elite FG \"Chrome\"",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-17T05:53:06.957113+00:00"
+    },
+    {
+      "tweet": "Watching these seniors in Japan take classes just to figure out how to hang up a phone. Honestly, we’ve all been there.",
+      "original_url": "https://www.theguardian.com/technology/2026/apr/17/japanese-over-70s-mobile-master-smartphones",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘How do I end a call?’: the elderly Japanese people determined to master smartphones",
       "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-04-17T03:43:20.431157+00:00"
+      "added_at": "2026-04-17T05:53:06.956057+00:00"
     },
     {
-      "tweet": "Crystal Palace is actually in the Conference League semi-finals. How does that even happen?",
-      "original_url": "https://www.bbc.com/sport/football/articles/cvg4z1pn7g4o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
+      "tweet": "The House actually passed that bill protecting Haitian migrants. Guess some people in the GOP are tired of just doing whatever Trump says.",
+      "original_url": "https://www.npr.org/2026/04/16/g-s1-117718/house-passes-bill-extending-protections-for-haitian-migrants-in-the-u-s",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Why 'sensational' Palace & Conference League are good fit",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-17T03:43:20.430773+00:00"
-    },
-    {
-      "tweet": "Aston Villa went from relegation ten years ago to European semi-finals under Emery. Things can actually turn around if you just don't suck.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c3ex2w04kd0o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Spectacular European nights the new normal for Villa under Emery",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-17T03:43:20.430643+00:00"
-    },
-    {
-      "tweet": "China is just watching the Middle East fall apart and doing nothing. Not exactly the global leader energy they keep talking about.",
-      "original_url": "https://www.nytimes.com/2026/04/16/world/asia/china-iran-trump-diplomacy-hormuz.html",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Why China Isn’t Pushing Iran to Accept U.S. Demands to End War",
-      "source": "NYT World",
+      "original_title": "House passes bill extending protections for Haitian migrants in the U.S.",
+      "source": "NPR News",
       "category": "world",
-      "added_at": "2026-04-17T03:43:20.430193+00:00"
+      "added_at": "2026-04-17T03:43:20.430190+00:00"
     },
     {
       "tweet": "Pakistan managing the US-Iran talks is a weird timeline. Things are moving fast",
@@ -838,6 +772,17 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "Trying to figure out Pragmata and I’m literally hunting for a Lim Eraser to kill these spikes. This game is testing my patience.",
+      "original_url": "https://www.polygon.com/pragmata-how-to-get-rid-of-the-spikes-blocked-walls/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "How to get rid of the spikes in Pragmata",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-17T05:53:06.957368+00:00"
+    },
+    {
       "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
       "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
       "buzz_score": 88,
@@ -847,6 +792,61 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-11T03:59:38.753282+00:00"
+    },
+    {
+      "tweet": "Australia says no fuel restrictions even with that massive refinery fire in Geelong. They're banking on vibes.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/17/albanese-no-fuel-restrictions-geelong-refinery-fire",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Albanese says no fuel restrictions in wake of massive Geelong refinery fire",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-17T03:43:20.431157+00:00"
+    },
+    {
+      "tweet": "Crystal Palace is actually in the Conference League semi-finals. How does that even happen?",
+      "original_url": "https://www.bbc.com/sport/football/articles/cvg4z1pn7g4o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Why 'sensational' Palace & Conference League are good fit",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-17T03:43:20.430773+00:00"
+    },
+    {
+      "tweet": "Aston Villa went from relegation ten years ago to European semi-finals under Emery. Things can actually turn around if you just don't suck.",
+      "original_url": "https://www.bbc.com/sport/football/articles/c3ex2w04kd0o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Spectacular European nights the new normal for Villa under Emery",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-17T03:43:20.430643+00:00"
+    },
+    {
+      "tweet": "China is just watching the Middle East fall apart and doing nothing. Not exactly the global leader energy they keep talking about.",
+      "original_url": "https://www.nytimes.com/2026/04/16/world/asia/china-iran-trump-diplomacy-hormuz.html",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Why China Isn’t Pushing Iran to Accept U.S. Demands to End War",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-17T03:43:20.430193+00:00"
+    },
+    {
+      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 82,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-08T04:12:50.486178+00:00"
     },
     {
       "tweet": "Trying to name cities in the Eastern time zone and realizing I have no idea where anything is. Geography is hard.",
@@ -902,28 +902,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-17T03:43:20.430195+00:00"
-    },
-    {
-      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-08T04:12:50.486178+00:00"
-    },
-    {
-      "tweet": "Everyone in Lebanon is just waiting for the ceasefire to actually mean something before they go home. It's just a tense way to live.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/16/displaced-lebanese-wary-as-ceasefire-between-israel-and-hezbollah-begins?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Displaced Lebanese wary as ceasefire between Israel and Hezbollah begins",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-16T22:36:02.700284+00:00"
     },
     {
       "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
@@ -1023,6 +1001,17 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-11T09:01:18.261834+00:00"
+    },
+    {
+      "tweet": "Everyone in Lebanon is just waiting for the ceasefire to actually mean something before they go home. It's just a tense way to live.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/16/displaced-lebanese-wary-as-ceasefire-between-israel-and-hezbollah-begins?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Displaced Lebanese wary as ceasefire between Israel and Hezbollah begins",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-16T22:36:02.700284+00:00"
     },
     {
       "tweet": "Did you see Israel agreed to a 10-day ceasefire in Lebanon but Netanyahu is already saying they aren't pulling the troops out. Like, what even is a ceasefire then",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 391,
+    "total_posted": 392,
     "total_collected": 1236
   },
-  "last_posted_at": "2026-04-17T06:00:54.557770+00:00"
+  "last_posted_at": "2026-04-17T07:17:37.971759+00:00"
 }
