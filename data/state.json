@@ -2,28 +2,6 @@
   "last_collected": "2026-04-17T16:42:03.459203+00:00",
   "queue": [
     {
-      "tweet": "Bro, have you seen the new Claude UI updates? I feel like I'm spending more time staring at the interface than actually getting any work done.",
-      "original_url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Claude Design",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-17T16:42:03.457861+00:00"
-    },
-    {
-      "tweet": "Experts are telling NSW to back off on banning protest slogans after the court ruling. Government power is getting checked.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/18/nsw-should-think-twice-before-banning-globalise-the-intifada-after-court-struck-down-anti-protest-law-legal-expert-says-ntwnfb",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "NSW should think twice before banning ‘globalise the intifada’ after court struck down anti-protest law, legal expert says",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-17T16:42:03.458569+00:00"
-    },
-    {
       "tweet": "Lutnick is already trying to tear up the trade deal with Canada before talks even start. Can't just go a week without chaos.",
       "original_url": "https://www.nytimes.com/2026/04/17/world/canada/trump-lutnick-canada-us-talks-trade-deal.html",
       "buzz_score": 80,
@@ -44,17 +22,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251727+00:00"
-    },
-    {
-      "tweet": "WrestleMania 42 is gonna have thirteen matches over two nights. That's just a workout.",
-      "original_url": "https://www.espn.com/wwe/story/_/id/48490151/wrestlemania-42-key-stats-notes-cm-punk-roman-reigns-cody-rhodes-randy-orton",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "WrestleMania 42: Key stats for all 13 matches across both nights",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-17T11:13:19.256444+00:00"
     },
     {
       "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
@@ -79,37 +46,15 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Found an article explaining what DTM means. We really need a guide for three-letter slang now.",
-      "original_url": "https://www.mentalfloss.com/language/slang/dtm-explained-popular-text-abbreviation-meaning?utm_source=RSS",
-      "buzz_score": 75,
+      "tweet": "WrestleMania 42 is gonna have thirteen matches over two nights. That's just a workout.",
+      "original_url": "https://www.espn.com/wwe/story/_/id/48490151/wrestlemania-42-key-stats-notes-cm-punk-roman-reigns-cody-rhodes-randy-orton",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "The Meaning of Viral Text Abbreviation \"DTM,\" Explained",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-17T11:13:19.257373+00:00"
-    },
-    {
-      "tweet": "Nike dropped new pics of the Moon Shoe OG. It literally looks like a piece of sourdough.",
-      "original_url": "https://hypebeast.com/2026/4/nike-moon-shoe-og-summit-white-iw0955-100-official-images",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Nike Offers a Better Look at the Moon Shoe OG “Summit White”",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-17T11:13:19.257124+00:00"
-    },
-    {
-      "tweet": "Robert MacIntyre is out here saying he doesn't care about the Masters criticism. Whatever helps him sleep.",
-      "original_url": "https://www.bbc.com/sport/golf/articles/cq6jpnj24j1o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "MacIntyre not fazed by criticism of Masters behaviour",
-      "source": "BBC Sport",
+      "original_title": "WrestleMania 42: Key stats for all 13 matches across both nights",
+      "source": "ESPN",
       "category": "sports",
-      "added_at": "2026-04-17T11:13:19.256447+00:00"
+      "added_at": "2026-04-17T11:13:19.256444+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -288,37 +233,37 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "UK police are investigating these drones near the Israeli embassy in London. Can we just have one normal news cycle?",
-      "original_url": "https://www.nytimes.com/2026/04/17/world/europe/london-israeli-embassy-drone-threat.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
+      "tweet": "Found an article explaining what DTM means. We really need a guide for three-letter slang now.",
+      "original_url": "https://www.mentalfloss.com/language/slang/dtm-explained-popular-text-abbreviation-meaning?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "U.K. Police Investigate Claims Drones Targeted Israeli Embassy in London",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-17T16:42:03.458938+00:00"
+      "original_title": "The Meaning of Viral Text Abbreviation \"DTM,\" Explained",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-17T11:13:19.257373+00:00"
     },
     {
-      "tweet": "Russell saying he'd understand if Verstappen leaves F1 is wild. At some point you're just done with the whole thing.",
-      "original_url": "https://www.bbc.com/sport/formula1/articles/cj37p3k1nx8o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
+      "tweet": "Nike dropped new pics of the Moon Shoe OG. It literally looks like a piece of sourdough.",
+      "original_url": "https://hypebeast.com/2026/4/nike-moon-shoe-og-summit-white-iw0955-100-official-images",
+      "buzz_score": 75,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Russell 'would understand' if Verstappen leaves F1",
+      "original_title": "Nike Offers a Better Look at the Moon Shoe OG “Summit White”",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-17T11:13:19.257124+00:00"
+    },
+    {
+      "tweet": "Robert MacIntyre is out here saying he doesn't care about the Masters criticism. Whatever helps him sleep.",
+      "original_url": "https://www.bbc.com/sport/golf/articles/cq6jpnj24j1o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "MacIntyre not fazed by criticism of Masters behaviour",
       "source": "BBC Sport",
       "category": "sports",
-      "added_at": "2026-04-17T16:42:03.457876+00:00"
-    },
-    {
-      "tweet": "Hayley Williams is actually playing games about whether she's on that Beyonce album. What do you want me to do if I am? Iconic.",
-      "original_url": "https://www.billboard.com/music/music-news/paramore-hayley-williams-beyonce-act-iii-collab-rumors-1236225226/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Paramore’s Hayley Williams Addresses Whether She’s on Beyoncé’s ‘Act III’ Amid Rock Rumors",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-17T16:42:03.457868+00:00"
+      "added_at": "2026-04-17T11:13:19.256447+00:00"
     },
     {
       "tweet": "Nine Inch Nails and Boys Noize just dropped a track and it hits like a hammer. Coachella is gonna be a war zone.",
@@ -552,59 +497,37 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "There's a ceasefire in Lebanon right now but nobody really thinks it's gonna hold. It's just that heavy feeling.",
-      "original_url": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
+      "tweet": "UK police are investigating these drones near the Israeli embassy in London. Can we just have one normal news cycle?",
+      "original_url": "https://www.nytimes.com/2026/04/17/world/europe/london-israeli-embassy-drone-threat.html",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain",
-      "source": "BBC World",
+      "original_title": "U.K. Police Investigate Claims Drones Targeted Israeli Embassy in London",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-04-17T16:42:03.459062+00:00"
+      "added_at": "2026-04-17T16:42:03.458938+00:00"
     },
     {
-      "tweet": "Reading about the Beatles breaking up at their peak is honestly just depressing. We all know that feeling of when it's just over.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/bands-that-broke-up-at-their-peak?utm_source=RSS",
-      "buzz_score": 75,
+      "tweet": "Russell saying he'd understand if Verstappen leaves F1 is wild. At some point you're just done with the whole thing.",
+      "original_url": "https://www.bbc.com/sport/formula1/articles/cj37p3k1nx8o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "The Beatles and 6 Bands That Broke Up at Their Peak",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-17T16:42:03.458693+00:00"
+      "original_title": "Russell 'would understand' if Verstappen leaves F1",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-17T16:42:03.457876+00:00"
     },
     {
-      "tweet": "Jacinta Allan is trying to sell a 12-year-old government as brand new for the election. Do they think we're not paying attention?",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/18/jacinta-allan-wants-voters-to-see-victorias-12-year-old-labor-government-as-new-and-united-can-she-cling-to-power",
-      "buzz_score": 75,
+      "tweet": "Hayley Williams is actually playing games about whether she's on that Beyonce album. What do you want me to do if I am? Iconic.",
+      "original_url": "https://www.billboard.com/music/music-news/paramore-hayley-williams-beyonce-act-iii-collab-rumors-1236225226/",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Jacinta Allan wants voters to see Victoria’s 12-year-old Labor government as ‘new and united’. Can she cling to power?",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-17T16:42:03.458444+00:00"
-    },
-    {
-      "tweet": "Oil prices are tanking because Iran just said the Strait is open for business. Isn't that just how the world works now?",
-      "original_url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Oil prices plunge as Iran says Strait 'open'",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-17T16:42:03.458188+00:00"
-    },
-    {
-      "tweet": "The dev for Fortune's Run is out of prison and finally back to work. That is definitely one way to end a dev cycle.",
-      "original_url": "https://kotaku.com/fortunes-run-immersive-sim-dizzie-prison-release-update-2000688560",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Steam Cult Hit Fortune’s Run Might Finally Get Finished Now That Its Developer Is Out Of Prison",
-      "source": "Kotaku",
+      "original_title": "Paramore’s Hayley Williams Addresses Whether She’s on Beyoncé’s ‘Act III’ Amid Rock Rumors",
+      "source": "Billboard",
       "category": "entertainment",
-      "added_at": "2026-04-17T16:42:03.457880+00:00"
+      "added_at": "2026-04-17T16:42:03.457868+00:00"
     },
     {
       "tweet": "They made a whole Street Fighter movie about Ryu and Ken going through a rough patch. Drama, really.",
@@ -783,15 +706,59 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "Iran and the U.S. are actually agreeing that the Strait of Hormuz is open again. Weird times, man.",
-      "original_url": "https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump",
-      "buzz_score": 80,
+      "tweet": "There's a ceasefire in Lebanon right now but nobody really thinks it's gonna hold. It's just that heavy feeling.",
+      "original_url": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Iran War Live Updates: Strait of Hormuz Is ‘Completely Open’ After Lebanon Deal, Iran and U.S. Say",
-      "source": "NYT World",
+      "original_title": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain",
+      "source": "BBC World",
       "category": "world",
-      "added_at": "2026-04-17T13:57:14.533513+00:00"
+      "added_at": "2026-04-17T16:42:03.459062+00:00"
+    },
+    {
+      "tweet": "Reading about the Beatles breaking up at their peak is honestly just depressing. We all know that feeling of when it's just over.",
+      "original_url": "https://www.mentalfloss.com/entertainment/music/bands-that-broke-up-at-their-peak?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Beatles and 6 Bands That Broke Up at Their Peak",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-17T16:42:03.458693+00:00"
+    },
+    {
+      "tweet": "Jacinta Allan is trying to sell a 12-year-old government as brand new for the election. Do they think we're not paying attention?",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/18/jacinta-allan-wants-voters-to-see-victorias-12-year-old-labor-government-as-new-and-united-can-she-cling-to-power",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Jacinta Allan wants voters to see Victoria’s 12-year-old Labor government as ‘new and united’. Can she cling to power?",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-17T16:42:03.458444+00:00"
+    },
+    {
+      "tweet": "Oil prices are tanking because Iran just said the Strait is open for business. Isn't that just how the world works now?",
+      "original_url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Oil prices plunge as Iran says Strait 'open'",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-17T16:42:03.458188+00:00"
+    },
+    {
+      "tweet": "The dev for Fortune's Run is out of prison and finally back to work. That is definitely one way to end a dev cycle.",
+      "original_url": "https://kotaku.com/fortunes-run-immersive-sim-dizzie-prison-release-update-2000688560",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Steam Cult Hit Fortune’s Run Might Finally Get Finished Now That Its Developer Is Out Of Prison",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-17T16:42:03.457880+00:00"
     },
     {
       "tweet": "Pakistan managing the US-Iran talks is a weird timeline. Things are moving fast",
@@ -882,6 +849,28 @@
       "added_at": "2026-04-11T03:59:38.753282+00:00"
     },
     {
+      "tweet": "Iran and the U.S. are actually agreeing that the Strait of Hormuz is open again. Weird times, man.",
+      "original_url": "https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iran War Live Updates: Strait of Hormuz Is ‘Completely Open’ After Lebanon Deal, Iran and U.S. Say",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-17T13:57:14.533513+00:00"
+    },
+    {
+      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 82,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-08T04:12:50.486178+00:00"
+    },
+    {
       "tweet": "Saw this story about a mother in Gaza waiting two years for news on her kids. That's just rough.",
       "original_url": "https://www.aljazeera.com/features/2026/4/17/waiting-without-answers-gaza-mothers-fear-for-her-three-imprisoned-sons?traffic_source=rss",
       "buzz_score": 75,
@@ -915,15 +904,15 @@
       "added_at": "2026-04-17T13:57:14.532663+00:00"
     },
     {
-      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 82,
-      "buzz_score2": 92,
+      "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
+      "original_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
+      "buzz_score": 95,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
+      "original_title": "Fact check: Trump's objectives in the war with Iran have largely not been achieved",
+      "source": "NPR News",
       "category": "world",
-      "added_at": "2026-04-08T04:12:50.486178+00:00"
+      "added_at": "2026-04-08T22:35:32.474831+00:00"
     },
     {
       "tweet": "Iran's foreign minister is out here claiming the Strait of Hormuz is completely open. Just doing his job, I guess.",
@@ -979,17 +968,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-17T13:57:14.532670+00:00"
-    },
-    {
-      "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
-      "original_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fact check: Trump's objectives in the war with Iran have largely not been achieved",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-08T22:35:32.474831+00:00"
     },
     {
       "tweet": "Jon Favreau said that Mandalorian chase scene was ripped straight from The French Connection. Makes total sense.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 406,
+    "total_posted": 408,
     "total_collected": 1280
   },
-  "last_posted_at": "2026-04-17T17:41:08.821416+00:00"
+  "last_posted_at": "2026-04-17T18:43:29.263202+00:00"
 }
