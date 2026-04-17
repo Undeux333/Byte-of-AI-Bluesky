@@ -68,17 +68,6 @@
       "added_at": "2026-04-17T03:43:20.430183+00:00"
     },
     {
-      "tweet": "Parker Messick had a no-hitter through eight innings and lost it in the ninth. Talk about a brutal way to end a night.",
-      "original_url": "https://www.espn.com/mlb/story/_/id/48508569/messick-loses-no-hit-bid-9th-guardians-hold-orioles",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Messick loses no-hit bid in 9th; Guardians hold on",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-17T03:43:20.430511+00:00"
-    },
-    {
       "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
       "buzz_score": 95,
@@ -88,6 +77,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251727+00:00"
+    },
+    {
+      "tweet": "Parker Messick had a no-hitter through eight innings and lost it in the ninth. Talk about a brutal way to end a night.",
+      "original_url": "https://www.espn.com/mlb/story/_/id/48508569/messick-loses-no-hit-bid-9th-guardians-hold-orioles",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Messick loses no-hit bid in 9th; Guardians hold on",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-17T03:43:20.430511+00:00"
     },
     {
       "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
@@ -442,17 +442,6 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Man, 137 charges for that childcare worker in Sydney. That’s actually nauseating.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/17/sydney-childcare-worker-child-abuse-charges-multiple-centres-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘Parent’s worst nightmare’: Sydney childcare worker faces 137 child abuse charges relating to multiple centres",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-17T05:53:06.956855+00:00"
-    },
-    {
       "tweet": "They made a whole Street Fighter movie about Ryu and Ken going through a rough patch. Drama, really.",
       "original_url": "https://kotaku.com/street-fighter-movie-trailer-ryu-ken-chun-li-cammy-bison-2000688206",
       "buzz_score": 75,
@@ -629,26 +618,15 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "Iran is legit winning the PR war against the US with Lego videos. You can’t make this stuff up.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/17/vengeance-for-all-how-irans-lego-videos-won-narrative-war-against-trump?traffic_source=rss",
-      "buzz_score": 80,
+      "tweet": "Man, 137 charges for that childcare worker in Sydney. That’s actually nauseating.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/17/sydney-childcare-worker-child-abuse-charges-multiple-centres-ntwnfb",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "‘Vengeance for all’: How Iran’s Lego videos won narrative war against Trump",
-      "source": "Al Jazeera",
+      "original_title": "‘Parent’s worst nightmare’: Sydney childcare worker faces 137 child abuse charges relating to multiple centres",
+      "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-04-17T05:53:06.956452+00:00"
-    },
-    {
-      "tweet": "McDavid just bagged his 6th scoring title with 138 points. At this point the NHL might as well just name the trophy after him and call it a day.",
-      "original_url": "https://www.espn.com/nhl/story/_/id/48509318/oilers-mcdavid-wraps-nhl-scoring-title-4-assist-finale",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "McDavid seals 6th scoring title with 4-assist finale",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-17T05:53:06.955892+00:00"
+      "added_at": "2026-04-17T05:53:06.956855+00:00"
     },
     {
       "tweet": "Pakistan managing the US-Iran talks is a weird timeline. Things are moving fast",
@@ -728,6 +706,39 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "Iran is legit winning the PR war against the US with Lego videos. You can’t make this stuff up.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/17/vengeance-for-all-how-irans-lego-videos-won-narrative-war-against-trump?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘Vengeance for all’: How Iran’s Lego videos won narrative war against Trump",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-17T05:53:06.956452+00:00"
+    },
+    {
+      "tweet": "McDavid just bagged his 6th scoring title with 138 points. At this point the NHL might as well just name the trophy after him and call it a day.",
+      "original_url": "https://www.espn.com/nhl/story/_/id/48509318/oilers-mcdavid-wraps-nhl-scoring-title-4-assist-finale",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "McDavid seals 6th scoring title with 4-assist finale",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-17T05:53:06.955892+00:00"
+    },
+    {
+      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T03:59:38.753282+00:00"
+    },
+    {
       "tweet": "These NHL experts are already trying to predict the 2026 playoffs. Like, let us survive this season first.",
       "original_url": "https://www.espn.com/nhl/story/_/id/48487303/nhl-2025-26-stanley-cup-playoffs-predictions-player-coach-gm-top-teams",
       "buzz_score": 75,
@@ -761,39 +772,6 @@
       "added_at": "2026-04-17T05:53:06.956057+00:00"
     },
     {
-      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T03:59:38.753282+00:00"
-    },
-    {
-      "tweet": "The House actually passed that bill protecting Haitian migrants. Guess some people in the GOP are tired of just doing whatever Trump says.",
-      "original_url": "https://www.npr.org/2026/04/16/g-s1-117718/house-passes-bill-extending-protections-for-haitian-migrants-in-the-u-s",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "House passes bill extending protections for Haitian migrants in the U.S.",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-17T03:43:20.430190+00:00"
-    },
-    {
-      "tweet": "Trying to figure out Pragmata and I’m literally hunting for a Lim Eraser to kill these spikes. This game is testing my patience.",
-      "original_url": "https://www.polygon.com/pragmata-how-to-get-rid-of-the-spikes-blocked-walls/",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "How to get rid of the spikes in Pragmata",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-17T05:53:06.957368+00:00"
-    },
-    {
       "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 82,
@@ -825,6 +803,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-08T20:03:08.618965+00:00"
+    },
+    {
+      "tweet": "The House actually passed that bill protecting Haitian migrants. Guess some people in the GOP are tired of just doing whatever Trump says.",
+      "original_url": "https://www.npr.org/2026/04/16/g-s1-117718/house-passes-bill-extending-protections-for-haitian-migrants-in-the-u-s",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "House passes bill extending protections for Haitian migrants in the U.S.",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-17T03:43:20.430190+00:00"
     },
     {
       "tweet": "Coachella’s pushing the whole art exhibit thing again this year. Honestly, it’s just something to stare at while we're trying to figure out where the stage is.",
@@ -893,6 +882,28 @@
       "added_at": "2026-04-09T22:23:59.524130+00:00"
     },
     {
+      "tweet": "Trying to figure out Pragmata and I’m literally hunting for a Lim Eraser to kill these spikes. This game is testing my patience.",
+      "original_url": "https://www.polygon.com/pragmata-how-to-get-rid-of-the-spikes-blocked-walls/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "How to get rid of the spikes in Pragmata",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-17T05:53:06.957368+00:00"
+    },
+    {
+      "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
+      "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 78,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Forged through foster care - Ulberg's path to UFC title shot",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-11T09:01:18.261834+00:00"
+    },
+    {
       "tweet": "Australia says no fuel restrictions even with that massive refinery fire in Geelong. They're banking on vibes.",
       "original_url": "https://www.theguardian.com/australia-news/2026/apr/17/albanese-no-fuel-restrictions-geelong-refinery-fire",
       "buzz_score": 75,
@@ -937,15 +948,26 @@
       "added_at": "2026-04-17T03:43:20.430193+00:00"
     },
     {
-      "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
-      "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 78,
-      "buzz_score2": 92,
+      "tweet": "Did you see Israel agreed to a 10-day ceasefire in Lebanon but Netanyahu is already saying they aren't pulling the troops out. Like, what even is a ceasefire then",
+      "original_url": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news",
+      "buzz_score": 88,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Forged through foster care - Ulberg's path to UFC title shot",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-11T09:01:18.261834+00:00"
+      "original_title": "Iran War Live Updates: Israel Agrees to 10-Day Cease-Fire in Lebanon",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-16T20:27:56.594790+00:00"
+    },
+    {
+      "tweet": "Everyone in Lebanon is just waiting for the ceasefire to actually mean something before they go home. It's just a tense way to live.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/16/displaced-lebanese-wary-as-ceasefire-between-israel-and-hezbollah-begins?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Displaced Lebanese wary as ceasefire between Israel and Hezbollah begins",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-16T22:36:02.700284+00:00"
     },
     {
       "tweet": "Trying to name cities in the Eastern time zone and realizing I have no idea where anything is. Geography is hard.",
@@ -1001,28 +1023,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-17T03:43:20.430195+00:00"
-    },
-    {
-      "tweet": "Did you see Israel agreed to a 10-day ceasefire in Lebanon but Netanyahu is already saying they aren't pulling the troops out. Like, what even is a ceasefire then",
-      "original_url": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran War Live Updates: Israel Agrees to 10-Day Cease-Fire in Lebanon",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-16T20:27:56.594790+00:00"
-    },
-    {
-      "tweet": "Everyone in Lebanon is just waiting for the ceasefire to actually mean something before they go home. It's just a tense way to live.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/16/displaced-lebanese-wary-as-ceasefire-between-israel-and-hezbollah-begins?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Displaced Lebanese wary as ceasefire between Israel and Hezbollah begins",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-16T22:36:02.700284+00:00"
     }
   ],
   "seen_urls": [
