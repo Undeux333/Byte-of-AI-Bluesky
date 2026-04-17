@@ -2,28 +2,6 @@
   "last_collected": "2026-04-16T22:36:02.701203+00:00",
   "queue": [
     {
-      "tweet": "Trump is mad at Australia for not helping in the strait of Hormuz, but the Aussies are saying they never even got a request. Are we even talking to each other",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/17/donald-trump-criticises-australia-strait-of-hormuz",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "No ‘specific request’ to help US in strait of Hormuz, Marles says, as Trump repeats criticism of Australia",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-16T22:36:02.700413+00:00"
-    },
-    {
-      "tweet": "Bro, I just got this local model running Qwen 3.6 on my laptop and it actually drew a better pelican than Claude Opus. Computers are getting too weird, man.",
-      "original_url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-16T22:36:02.699304+00:00"
-    },
-    {
       "tweet": "Mike Trout just hit his fifth homer at Yankee Stadium in four games. Guy is literally playing a video game on rookie mode.",
       "original_url": "https://www.espn.com/mlb/story/_/id/48506296/mike-trout-crushes-fifth-yankee-stadium-hr-four-games",
       "buzz_score": 80,
@@ -88,28 +66,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Seeing these stats on people still living with their parents. Honestly, I get it, rent is just not a joke anymore.",
-      "original_url": "https://www.mentalfloss.com/geography/maps/states-young-adults-live-most-with-parents?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Home Sweet (Parents’) Home: The States Where Young Adults Haven’t Moved Out",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-16T15:06:05.166454+00:00"
-    },
-    {
-      "tweet": "Everyone in Lebanon is just waiting for the ceasefire to actually mean something before they go home. It's just a tense way to live.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/16/displaced-lebanese-wary-as-ceasefire-between-israel-and-hezbollah-begins?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Displaced Lebanese wary as ceasefire between Israel and Hezbollah begins",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-16T22:36:02.700284+00:00"
     },
     {
       "tweet": "So apparently the Pope is out here lecturing world leaders on war spending. Kinda funny considering the timing with that whole Trump spat. Must be nice.",
@@ -233,26 +189,26 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "They made a whole Street Fighter movie about Ryu and Ken going through a rough patch. Drama, really.",
-      "original_url": "https://kotaku.com/street-fighter-movie-trailer-ryu-ken-chun-li-cammy-bison-2000688206",
-      "buzz_score": 75,
+      "tweet": "Seeing these stats on people still living with their parents. Honestly, I get it, rent is just not a joke anymore.",
+      "original_url": "https://www.mentalfloss.com/geography/maps/states-young-adults-live-most-with-parents?utm_source=RSS",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Ryu And Ken Are Going Through A Rough Patch In The New Street Fighter Movie",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-16T15:06:05.167920+00:00"
+      "original_title": "Home Sweet (Parents’) Home: The States Where Young Adults Haven’t Moved Out",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-16T15:06:05.166454+00:00"
     },
     {
-      "tweet": "Did you see Israel agreed to a 10-day ceasefire in Lebanon but Netanyahu is already saying they aren't pulling the troops out. Like, what even is a ceasefire then",
-      "original_url": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news",
-      "buzz_score": 88,
+      "tweet": "Everyone in Lebanon is just waiting for the ceasefire to actually mean something before they go home. It's just a tense way to live.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/16/displaced-lebanese-wary-as-ceasefire-between-israel-and-hezbollah-begins?traffic_source=rss",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Iran War Live Updates: Israel Agrees to 10-Day Cease-Fire in Lebanon",
-      "source": "NYT World",
+      "original_title": "Displaced Lebanese wary as ceasefire between Israel and Hezbollah begins",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-04-16T20:27:56.594790+00:00"
+      "added_at": "2026-04-16T22:36:02.700284+00:00"
     },
     {
       "tweet": "Arne Slot really thinks Liverpool can pull off a comeback against PSG after being down two goals. Does he know who he's coaching?",
@@ -420,48 +376,26 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "State Department is blocking visas for anyone who 'supports adversaries' now. That's a hell of a way to close the door.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/16/us-state-department-restricts-visas-for-those-who-support-adversaries?traffic_source=rss",
+      "tweet": "They made a whole Street Fighter movie about Ryu and Ken going through a rough patch. Drama, really.",
+      "original_url": "https://kotaku.com/street-fighter-movie-trailer-ryu-ken-chun-li-cammy-bison-2000688206",
       "buzz_score": 75,
-      "buzz_score2": 90,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "US State Department restricts visas for those who ‘support adversaries’",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-16T22:36:02.700928+00:00"
-    },
-    {
-      "tweet": "NCAA wants to start football earlier now, like we need more of this. At this rate the season's just gonna start in July.",
-      "original_url": "https://www.espn.com/college-football/story/_/id/48507083/ncaa-recommends-earlier-start-football-season-2027",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "NCAA recommends earlier start to football season",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-16T22:36:02.700022+00:00"
-    },
-    {
-      "tweet": "Bieber streams are still skyrocketing after that Coachella set. We really just can't let go of the stuff we grew up with, huh.",
-      "original_url": "https://www.billboard.com/music/chart-beat/justin-bieber-coachella-streams-trending-up-1236224658/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "How Much Have Justin Bieber’s Streams Continued to Rise Post-Coachella?",
-      "source": "Billboard",
+      "original_title": "Ryu And Ken Are Going Through A Rough Patch In The New Street Fighter Movie",
+      "source": "Kotaku",
       "category": "entertainment",
-      "added_at": "2026-04-16T22:36:02.699742+00:00"
+      "added_at": "2026-04-16T15:06:05.167920+00:00"
     },
     {
-      "tweet": "Did you see there's a whole band playing the soundtrack for the anti-ICE protests in LA now. Guess we're all just looking for a rhythm to survive the chaos",
-      "original_url": "https://www.npr.org/2026/04/16/nx-s1-5717551/these-musicians-are-providing-the-soundtrack-for-anti-ice-protests-in-la",
-      "buzz_score": 75,
+      "tweet": "Did you see Israel agreed to a 10-day ceasefire in Lebanon but Netanyahu is already saying they aren't pulling the troops out. Like, what even is a ceasefire then",
+      "original_url": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news",
+      "buzz_score": 88,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "These musicians are providing the soundtrack for anti-ICE protests in LA",
-      "source": "NPR News",
+      "original_title": "Iran War Live Updates: Israel Agrees to 10-Day Cease-Fire in Lebanon",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-04-16T22:36:02.699478+00:00"
+      "added_at": "2026-04-16T20:27:56.594790+00:00"
     },
     {
       "tweet": "YouTube finally letting us set Shorts to zero minutes. Finally, a way to actually turn off the brainrot.",
@@ -629,26 +563,48 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "Men's Health is out here giving tips on how to have multiple orgasms now. Guess we're all just trying to level up.",
-      "original_url": "https://www.menshealth.com/sex-women/a19545094/how-to-have-multiple-orgasms/",
-      "buzz_score": 70,
+      "tweet": "State Department is blocking visas for anyone who 'supports adversaries' now. That's a hell of a way to close the door.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/16/us-state-department-restricts-visas-for-those-who-support-adversaries?traffic_source=rss",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Wanna Have Multiple Orgasms? Try These Expert-Recommended Tips and Techniques",
-      "source": "Men's Health Sex",
-      "category": "sex",
-      "added_at": "2026-04-16T22:36:02.700154+00:00"
+      "original_title": "US State Department restricts visas for those who ‘support adversaries’",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-16T22:36:02.700928+00:00"
     },
     {
-      "tweet": "Dogfish Head just dropped a Grateful Dead lager. My dad is gonna lose his mind.",
-      "original_url": "https://www.billboard.com/culture/product-recommendations/dogfish-head-grateful-dead-citrus-daydream-lager-buy-online-1236198852/",
-      "buzz_score": 70,
+      "tweet": "NCAA wants to start football earlier now, like we need more of this. At this rate the season's just gonna start in July.",
+      "original_url": "https://www.espn.com/college-football/story/_/id/48507083/ncaa-recommends-earlier-start-football-season-2027",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Dogfish Head Craft Brewery Has New Collaboration With The Grateful Dead",
+      "original_title": "NCAA recommends earlier start to football season",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-16T22:36:02.700022+00:00"
+    },
+    {
+      "tweet": "Bieber streams are still skyrocketing after that Coachella set. We really just can't let go of the stuff we grew up with, huh.",
+      "original_url": "https://www.billboard.com/music/chart-beat/justin-bieber-coachella-streams-trending-up-1236224658/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "How Much Have Justin Bieber’s Streams Continued to Rise Post-Coachella?",
       "source": "Billboard",
       "category": "entertainment",
-      "added_at": "2026-04-16T22:36:02.699611+00:00"
+      "added_at": "2026-04-16T22:36:02.699742+00:00"
+    },
+    {
+      "tweet": "Did you see there's a whole band playing the soundtrack for the anti-ICE protests in LA now. Guess we're all just looking for a rhythm to survive the chaos",
+      "original_url": "https://www.npr.org/2026/04/16/nx-s1-5717551/these-musicians-are-providing-the-soundtrack-for-anti-ice-protests-in-la",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "These musicians are providing the soundtrack for anti-ICE protests in LA",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-16T22:36:02.699478+00:00"
     },
     {
       "tweet": "Pakistan managing the US-Iran talks is a weird timeline. Things are moving fast",
@@ -728,15 +684,26 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
-      "tweet": "Ashley Cole said England basically discouraged him from going into management. We wonder why the coaching pipeline is so dry",
-      "original_url": "https://www.bbc.com/sport/football/articles/c6244xp5lvno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
+      "tweet": "Men's Health is out here giving tips on how to have multiple orgasms now. Guess we're all just trying to level up.",
+      "original_url": "https://www.menshealth.com/sex-women/a19545094/how-to-have-multiple-orgasms/",
+      "buzz_score": 70,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Italy made me a manager when England 'discouraged' me - Cole",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-16T20:27:56.595197+00:00"
+      "original_title": "Wanna Have Multiple Orgasms? Try These Expert-Recommended Tips and Techniques",
+      "source": "Men's Health Sex",
+      "category": "sex",
+      "added_at": "2026-04-16T22:36:02.700154+00:00"
+    },
+    {
+      "tweet": "Dogfish Head just dropped a Grateful Dead lager. My dad is gonna lose his mind.",
+      "original_url": "https://www.billboard.com/culture/product-recommendations/dogfish-head-grateful-dead-citrus-daydream-lager-buy-online-1236198852/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Dogfish Head Craft Brewery Has New Collaboration With The Grateful Dead",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-16T22:36:02.699611+00:00"
     },
     {
       "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
@@ -748,6 +715,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-11T03:59:38.753282+00:00"
+    },
+    {
+      "tweet": "Ashley Cole said England basically discouraged him from going into management. We wonder why the coaching pipeline is so dry",
+      "original_url": "https://www.bbc.com/sport/football/articles/c6244xp5lvno?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Italy made me a manager when England 'discouraged' me - Cole",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-16T20:27:56.595197+00:00"
     },
     {
       "tweet": "William Ellard just smashed the world record for the 100m freestyle. That's insane.",
@@ -772,39 +750,6 @@
       "added_at": "2026-04-16T22:36:02.700669+00:00"
     },
     {
-      "tweet": "People are already asking if this is the end for LIV Golf. I mean, at what point do you just admit it didn't really work out",
-      "original_url": "https://www.bbc.com/sport/golf/articles/cm2rpk19pd1o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Is this the beginning of the end for LIV Golf?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-16T18:02:35.469226+00:00"
-    },
-    {
-      "tweet": "Apparently Nolan and Cameron got their movie ideas from dreams. I guess we're all just one nap away from a blockbuster.",
-      "original_url": "https://www.mentalfloss.com/entertainment/movies/movies-inspired-by-dreams?utm_source=RSS",
-      "buzz_score": 60,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "7 Iconic Movies Inspired by Dreams",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-16T22:36:02.701071+00:00"
-    },
-    {
-      "tweet": "IPv6 finally crossed fifty percent of web traffic. We're finally catching up to the nineties.",
-      "original_url": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
-      "buzz_score": 60,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "IPv6 traffic crosses the 50% mark",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-16T22:36:02.700541+00:00"
-    },
-    {
       "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 82,
@@ -814,6 +759,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-08T04:12:50.486178+00:00"
+    },
+    {
+      "tweet": "People are already asking if this is the end for LIV Golf. I mean, at what point do you just admit it didn't really work out",
+      "original_url": "https://www.bbc.com/sport/golf/articles/cm2rpk19pd1o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Is this the beginning of the end for LIV Golf?",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-16T18:02:35.469226+00:00"
     },
     {
       "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
@@ -904,6 +860,39 @@
       "added_at": "2026-04-09T22:23:59.524130+00:00"
     },
     {
+      "tweet": "Apparently Nolan and Cameron got their movie ideas from dreams. I guess we're all just one nap away from a blockbuster.",
+      "original_url": "https://www.mentalfloss.com/entertainment/movies/movies-inspired-by-dreams?utm_source=RSS",
+      "buzz_score": 60,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "7 Iconic Movies Inspired by Dreams",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-16T22:36:02.701071+00:00"
+    },
+    {
+      "tweet": "IPv6 finally crossed fifty percent of web traffic. We're finally catching up to the nineties.",
+      "original_url": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
+      "buzz_score": 60,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "IPv6 traffic crosses the 50% mark",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-16T22:36:02.700541+00:00"
+    },
+    {
+      "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
+      "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 78,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Forged through foster care - Ulberg's path to UFC title shot",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-11T09:01:18.261834+00:00"
+    },
+    {
       "tweet": "That new Metro 2039 gameplay actually looks insane. Graphics are crazy for a game coming out later this year",
       "original_url": "https://kotaku.com/metro-2039-looks-stunning-in-first-gameplay-launching-later-this-year-2000688279",
       "buzz_score": 75,
@@ -924,28 +913,6 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-16T18:02:35.469061+00:00"
-    },
-    {
-      "tweet": "Was reading about Carlos Ulberg’s path to the UFC and it’s wild how much some people have to claw for their shot. Makes you appreciate where you're at.",
-      "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgwd0v0drxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 78,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Forged through foster care - Ulberg's path to UFC title shot",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-11T09:01:18.261834+00:00"
-    },
-    {
-      "tweet": "Seventeen people killed in that latest Russian strike on Ukraine. When does this actually stop.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/16/russia-attack-ukraine-drones-missiles-kyiv-odesa-volodymyr-zelenskyy",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "At least 17 people killed in Russia’s deadliest attack on Ukraine this year",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-16T15:06:05.167520+00:00"
     },
     {
       "tweet": "Dude, some random guy on Polymarket just cleared 300k betting on Biden's pardons. Imagine knowing that much about how the government works. Absolute hustle.",
@@ -1001,6 +968,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-13T14:20:44.700672+00:00"
+    },
+    {
+      "tweet": "Seventeen people killed in that latest Russian strike on Ukraine. When does this actually stop.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/16/russia-attack-ukraine-drones-missiles-kyiv-odesa-volodymyr-zelenskyy",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "At least 17 people killed in Russia’s deadliest attack on Ukraine this year",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-16T15:06:05.167520+00:00"
     },
     {
       "tweet": "Luka and Cunningham finally got their award eligibility back after that 65-game rule mess. Seems like common sense finally won out",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 385,
+    "total_posted": 387,
     "total_collected": 1204
   },
-  "last_posted_at": "2026-04-16T23:30:02.901973+00:00"
+  "last_posted_at": "2026-04-17T00:11:50.735667+00:00"
 }
