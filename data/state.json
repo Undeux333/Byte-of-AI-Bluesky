@@ -2,28 +2,6 @@
   "last_collected": "2026-04-17T16:42:03.459203+00:00",
   "queue": [
     {
-      "tweet": "Arteta is literally lighting fires at the Arsenal training ground to motivate the guys. These coaches are losing it.",
-      "original_url": "https://www.bbc.com/sport/football/articles/ckge7n0lgkzo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Arteta lights fire at training ground to inspire Arsenal players",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-17T16:42:03.457878+00:00"
-    },
-    {
-      "tweet": "Zay Flowers is blaming those Harbaugh practices for all the Ravens injuries last year. The heavy practice excuse is real.",
-      "original_url": "https://www.espn.com/nfl/story/_/id/48512386/harbaugh-practices-why-ravens-had-lot-injuries",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "WR Flowers: Harbaugh's practices led to injuries",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-17T16:42:03.457874+00:00"
-    },
-    {
       "tweet": "Bro, have you seen the new Claude UI updates? I feel like I'm spending more time staring at the interface than actually getting any work done.",
       "original_url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
       "buzz_score": 85,
@@ -57,6 +35,17 @@
       "added_at": "2026-04-17T16:42:03.458316+00:00"
     },
     {
+      "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "UK’s Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing St",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251727+00:00"
+    },
+    {
       "tweet": "WrestleMania 42 is gonna have thirteen matches over two nights. That's just a workout.",
       "original_url": "https://www.espn.com/wwe/story/_/id/48490151/wrestlemania-42-key-stats-notes-cm-punk-roman-reigns-cody-rhodes-randy-orton",
       "buzz_score": 80,
@@ -68,15 +57,26 @@
       "added_at": "2026-04-17T11:13:19.256444+00:00"
     },
     {
-      "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
-      "buzz_score": 95,
+      "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
+      "original_url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
+      "buzz_score": 92,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "UK’s Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing St",
-      "source": "Al Jazeera",
+      "original_title": "Mexico’s Police Focus on World Cup While Thousands Remain Missing",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-04-09T07:14:41.251727+00:00"
+      "added_at": "2026-04-12T02:32:59.106863+00:00"
+    },
+    {
+      "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
+      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026",
+      "buzz_score": 90,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "📈 Ranking top men's hoops players in the portal",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
       "tweet": "Found an article explaining what DTM means. We really need a guide for three-letter slang now.",
@@ -110,28 +110,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-17T11:13:19.256447+00:00"
-    },
-    {
-      "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
-      "original_url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
-      "buzz_score": 92,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mexico’s Police Focus on World Cup While Thousands Remain Missing",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-12T02:32:59.106863+00:00"
-    },
-    {
-      "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
-      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "📈 Ranking top men's hoops players in the portal",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -893,6 +871,17 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T03:59:38.753282+00:00"
+    },
+    {
       "tweet": "Saw this story about a mother in Gaza waiting two years for news on her kids. That's just rough.",
       "original_url": "https://www.aljazeera.com/features/2026/4/17/waiting-without-answers-gaza-mothers-fear-for-her-three-imprisoned-sons?traffic_source=rss",
       "buzz_score": 75,
@@ -926,15 +915,15 @@
       "added_at": "2026-04-17T13:57:14.532663+00:00"
     },
     {
-      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
-      "buzz_score": 88,
+      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 82,
       "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T03:59:38.753282+00:00"
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-08T04:12:50.486178+00:00"
     },
     {
       "tweet": "Iran's foreign minister is out here claiming the Strait of Hormuz is completely open. Just doing his job, I guess.",
@@ -992,6 +981,17 @@
       "added_at": "2026-04-17T13:57:14.532670+00:00"
     },
     {
+      "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
+      "original_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Fact check: Trump's objectives in the war with Iran have largely not been achieved",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-08T22:35:32.474831+00:00"
+    },
+    {
       "tweet": "Jon Favreau said that Mandalorian chase scene was ripped straight from The French Connection. Makes total sense.",
       "original_url": "https://www.polygon.com/star-wars-mandalorian-grogu-french-connection/",
       "buzz_score": 80,
@@ -1012,28 +1012,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-17T11:13:19.256853+00:00"
-    },
-    {
-      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-08T04:12:50.486178+00:00"
-    },
-    {
-      "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
-      "original_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fact check: Trump's objectives in the war with Iran have largely not been achieved",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-08T22:35:32.474831+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 404,
+    "total_posted": 406,
     "total_collected": 1280
   },
-  "last_posted_at": "2026-04-17T16:48:27.619967+00:00"
+  "last_posted_at": "2026-04-17T17:41:08.821416+00:00"
 }
