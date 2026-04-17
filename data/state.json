@@ -2,28 +2,6 @@
   "last_collected": "2026-04-17T13:57:14.534087+00:00",
   "queue": [
     {
-      "tweet": "Hezbollah says they're under a ceasefire but won't even say if they're gonna follow it. Why do we even call it a deal then?",
-      "original_url": "https://www.npr.org/2026/04/17/g-s1-117788/middle-east-conflict-israel-lebanon-us-updates",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Leaders urge for restraint as 10-day Israel-Lebanon ceasefire takes effect",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-17T13:57:14.532666+00:00"
-    },
-    {
-      "tweet": "Over half of Britons want to rejoin the EU now. Like, did they really think the grass was gonna be greener?",
-      "original_url": "https://www.theguardian.com/politics/2026/apr/17/half-britons-support-rejoining-eu-10-years-brexit-vote",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "More than half of Britons support rejoining EU 10 years on from Brexit vote",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-17T13:57:14.533048+00:00"
-    },
-    {
       "tweet": "Dude, Mugabe's son actually caught a gun charge in South Africa. Imagine having that last name and still acting like you're in a music video. Embarrassing.",
       "original_url": "https://www.bbc.com/news/articles/cqxlp5pvr3wo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -101,17 +79,6 @@
       "added_at": "2026-04-09T07:14:41.251727+00:00"
     },
     {
-      "tweet": "Bro, Qwen3.6 is finally out and it’s actually writing code for me now. I’m gonna be out of a job by Tuesday.",
-      "original_url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-17T05:53:06.955886+00:00"
-    },
-    {
       "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
       "original_url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
       "buzz_score": 92,
@@ -134,6 +101,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Bro, Qwen3.6 is finally out and it’s actually writing code for me now. I’m gonna be out of a job by Tuesday.",
+      "original_url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-17T05:53:06.955886+00:00"
+    },
+    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -143,28 +121,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Nine Inch Nails and Boys Noize just dropped a track and it hits like a hammer. Coachella is gonna be a war zone.",
-      "original_url": "https://www.billboard.com/music/rock/nine-inch-nails-boys-noize-album-stream-it-now-1236224944/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Nine Inch Nail’s Album With Boys Noize Has Dropped Like a Hammer: Stream It Now",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-17T05:53:06.956985+00:00"
-    },
-    {
-      "tweet": "Doctor Who fans are still obsessing over the Tenth Doctor and Rose. Guess some people never actually move on from their high school ex.",
-      "original_url": "https://www.polygon.com/doctor-who-season-2-david-tennant-billie-piper/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Doctor Who fans still can't let go of the Tenth Doctor and Rose Tyler",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-17T05:53:06.956190+00:00"
     },
     {
       "tweet": "Reading about how the war turned Beirut upside down. Wild how fast your whole life can just disappear.",
@@ -319,6 +275,28 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
+    },
+    {
+      "tweet": "Nine Inch Nails and Boys Noize just dropped a track and it hits like a hammer. Coachella is gonna be a war zone.",
+      "original_url": "https://www.billboard.com/music/rock/nine-inch-nails-boys-noize-album-stream-it-now-1236224944/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Nine Inch Nail’s Album With Boys Noize Has Dropped Like a Hammer: Stream It Now",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-17T05:53:06.956985+00:00"
+    },
+    {
+      "tweet": "Doctor Who fans are still obsessing over the Tenth Doctor and Rose. Guess some people never actually move on from their high school ex.",
+      "original_url": "https://www.polygon.com/doctor-who-season-2-david-tennant-billie-piper/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Doctor Who fans still can't let go of the Tenth Doctor and Rose Tyler",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-17T05:53:06.956190+00:00"
     },
     {
       "tweet": "Iran and the U.S. are actually agreeing that the Strait of Hormuz is open again. Weird times, man.",
@@ -904,6 +882,17 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T03:59:38.753282+00:00"
+    },
+    {
       "tweet": "Hypebeast is opening a flea market in China. We're really just buying anything now.",
       "original_url": "https://hypebeast.com/2026/4/hypebeast-flea-hypedrive-guangzhou-china-announcement",
       "buzz_score": 75,
@@ -924,17 +913,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-17T11:13:19.256441+00:00"
-    },
-    {
-      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T03:59:38.753282+00:00"
     },
     {
       "tweet": "Hull FC are bringing in Steve McNamara as coach. Man, that team is just musical chairs at this point.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 398,
+    "total_posted": 400,
     "total_collected": 1264
   },
-  "last_posted_at": "2026-04-17T14:07:15.397590+00:00"
+  "last_posted_at": "2026-04-17T14:57:01.261472+00:00"
 }
