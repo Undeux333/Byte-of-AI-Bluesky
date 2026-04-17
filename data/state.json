@@ -2,28 +2,6 @@
   "last_collected": "2026-04-17T21:59:14.042618+00:00",
   "queue": [
     {
-      "tweet": "Ronnie O'Sullivan is 50 now and still chasing an eighth world title. The dude is a machine.",
-      "original_url": "https://www.bbc.com/sport/snooker/articles/c4g5ywe38dno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "O'Sullivan chasing eighth Crucible title aged 50",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-17T21:59:14.041696+00:00"
-    },
-    {
-      "tweet": "So Japan just made up a new name for 40-degree days because it's hitting that level way too often now. It basically translates to cruelly hot. Just brutal.",
-      "original_url": "https://www.bbc.com/news/articles/crr185nx0n9o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Japan reveals new name for 40C-and-hotter days after blistering summer",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-17T21:59:14.041492+00:00"
-    },
-    {
       "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
       "buzz_score": 95,
@@ -33,17 +11,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251727+00:00"
-    },
-    {
-      "tweet": "Starmer actually fired a guy for not clearing security checks involving that whole Epstein associate situation. How do you even let that slide past you in the first place.",
-      "original_url": "https://www.nytimes.com/2026/04/17/world/europe/uk-starmer-mandelson-foreign-office-robbins-fired.html",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Starmer Fires Senior U.K. Civil Servant Over Mandelson Revelations",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-17T21:59:14.041495+00:00"
     },
     {
       "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
@@ -57,6 +24,17 @@
       "added_at": "2026-04-12T02:32:59.106863+00:00"
     },
     {
+      "tweet": "Starmer actually fired a guy for not clearing security checks involving that whole Epstein associate situation. How do you even let that slide past you in the first place.",
+      "original_url": "https://www.nytimes.com/2026/04/17/world/europe/uk-starmer-mandelson-foreign-office-robbins-fired.html",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Starmer Fires Senior U.K. Civil Servant Over Mandelson Revelations",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-17T21:59:14.041495+00:00"
+    },
+    {
       "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026",
       "buzz_score": 90,
@@ -66,6 +44,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "Turns out there's zero evidence for that whole gang-rape claim in Epsom that people were protesting over. Can we stop believing everything on the internet.",
@@ -88,17 +77,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-17T21:59:14.041831+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "Bro, Qwen3.6 is finally out and it’s actually writing code for me now. I’m gonna be out of a job by Tuesday.",
@@ -297,17 +275,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-17T21:59:14.041503+00:00"
-    },
-    {
-      "tweet": "Iran reopened the Strait of Hormuz but the US still has the blockade up. It's like watching a standoff that nobody wants to win.",
-      "original_url": "https://www.theguardian.com/world/live/2026/apr/17/middle-east-crisis-live-news-israel-lebanon-ceasefire-iran-war-us-latest-updates",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Middle East crisis live: Iran reopens strait of Hormuz but US blockade remains",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-17T19:43:55.638708+00:00"
     },
     {
       "tweet": "WrestleMania 42 is gonna have thirteen matches over two nights. That's just a workout.",
@@ -552,6 +519,17 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
+      "tweet": "Iran reopened the Strait of Hormuz but the US still has the blockade up. It's like watching a standoff that nobody wants to win.",
+      "original_url": "https://www.theguardian.com/world/live/2026/apr/17/middle-east-crisis-live-news-israel-lebanon-ceasefire-iran-war-us-latest-updates",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Middle East crisis live: Iran reopens strait of Hormuz but US blockade remains",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-17T19:43:55.638708+00:00"
+    },
+    {
       "tweet": "Mac Miller's family dropped this new Steelers collection and it's actually pretty clean. Makes sense, man just repped Pittsburgh no matter what.",
       "original_url": "https://www.billboard.com/culture/product-recommendations/mac-miller-pittsburgh-steelers-apparel-capsule-shop-online-1236225849/",
       "buzz_score": 75,
@@ -561,39 +539,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-17T21:59:14.041500+00:00"
-    },
-    {
-      "tweet": "Apparently LeBron and Tom Holland just bond over golf now. I guess that's just what everyone does when they run out of things to talk about.",
-      "original_url": "https://hypebeast.com/2026/4/golf-culture-crossovers-lebron-james-bob-does-sports-reggie-bush-tom-holland-vuori-bryson-dechambeau-kevin-hart",
-      "buzz_score": 72,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Golf Is What Tom Holland and LeBron James Have In Common",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-17T21:59:14.042350+00:00"
-    },
-    {
-      "tweet": "Congress just quietly extended those FISA surveillance powers again. Like, do they even care about the warrant thing anymore",
-      "original_url": "https://www.aljazeera.com/news/2026/4/17/us-congress-temporarily-extends-controversial-surveillance-power-under-fisa?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US Congress temporarily extends controversial surveillance power under FISA",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-17T19:43:55.638431+00:00"
-    },
-    {
-      "tweet": "Wait, they finally caught Daniel Kinahan in Dubai. Dude thought he was untouchable.",
-      "original_url": "https://www.bbc.com/news/articles/c4g4yl5dd4do?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Irish fugitive and suspected crime boss Daniel Kinahan arrested in Dubai",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-17T19:43:55.638262+00:00"
     },
     {
       "tweet": "Found an article explaining what DTM means. We really need a guide for three-letter slang now.",
@@ -805,26 +750,37 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "BAFTA pulled that game because they didn't like the subject matter. Guess we’re back to letting people decide what’s 'appropriate' to make.",
-      "original_url": "https://kotaku.com/bafta-game-awards-quiet-things-trailer-silver-script-2000688583",
-      "buzz_score": 75,
+      "tweet": "Apparently LeBron and Tom Holland just bond over golf now. I guess that's just what everyone does when they run out of things to talk about.",
+      "original_url": "https://hypebeast.com/2026/4/golf-culture-crossovers-lebron-james-bob-does-sports-reggie-bush-tom-holland-vuori-bryson-dechambeau-kevin-hart",
+      "buzz_score": 72,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Developer Feels ‘Shut Down And Silenced’ After BAFTA Awards Pulled Her Game Over Its Subject Matter [Update]",
-      "source": "Kotaku",
+      "original_title": "Golf Is What Tom Holland and LeBron James Have In Common",
+      "source": "Hypebeast",
       "category": "entertainment",
-      "added_at": "2026-04-17T19:43:55.638833+00:00"
+      "added_at": "2026-04-17T21:59:14.042350+00:00"
     },
     {
-      "tweet": "So apparently gas prices might actually drop below four dollars soon. Is this supposed to be a win or what",
-      "original_url": "https://www.npr.org/2026/04/17/nx-s1-5788819/oil-gasoline-cheaper-war-iran",
-      "buzz_score": 75,
+      "tweet": "Congress just quietly extended those FISA surveillance powers again. Like, do they even care about the warrant thing anymore",
+      "original_url": "https://www.aljazeera.com/news/2026/4/17/us-congress-temporarily-extends-controversial-surveillance-power-under-fisa?traffic_source=rss",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Gasoline could drop below $4 in coming days",
-      "source": "NPR News",
+      "original_title": "US Congress temporarily extends controversial surveillance power under FISA",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-04-17T19:43:55.638265+00:00"
+      "added_at": "2026-04-17T19:43:55.638431+00:00"
+    },
+    {
+      "tweet": "Wait, they finally caught Daniel Kinahan in Dubai. Dude thought he was untouchable.",
+      "original_url": "https://www.bbc.com/news/articles/c4g4yl5dd4do?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Irish fugitive and suspected crime boss Daniel Kinahan arrested in Dubai",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-17T19:43:55.638262+00:00"
     },
     {
       "tweet": "Pakistan managing the US-Iran talks is a weird timeline. Things are moving fast",
@@ -904,6 +860,28 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "BAFTA pulled that game because they didn't like the subject matter. Guess we’re back to letting people decide what’s 'appropriate' to make.",
+      "original_url": "https://kotaku.com/bafta-game-awards-quiet-things-trailer-silver-script-2000688583",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Developer Feels ‘Shut Down And Silenced’ After BAFTA Awards Pulled Her Game Over Its Subject Matter [Update]",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-17T19:43:55.638833+00:00"
+    },
+    {
+      "tweet": "So apparently gas prices might actually drop below four dollars soon. Is this supposed to be a win or what",
+      "original_url": "https://www.npr.org/2026/04/17/nx-s1-5788819/oil-gasoline-cheaper-war-iran",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Gasoline could drop below $4 in coming days",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-17T19:43:55.638265+00:00"
+    },
+    {
       "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
       "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
       "buzz_score": 88,
@@ -913,6 +891,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-11T03:59:38.753282+00:00"
+    },
+    {
+      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 82,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-08T04:12:50.486178+00:00"
     },
     {
       "tweet": "UK police are investigating these drones near the Israeli embassy in London. Can we just have one normal news cycle?",
@@ -946,17 +935,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-17T16:42:03.457868+00:00"
-    },
-    {
-      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-08T04:12:50.486178+00:00"
     },
     {
       "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 416,
+    "total_posted": 418,
     "total_collected": 1305
   },
-  "last_posted_at": "2026-04-17T22:08:51.924261+00:00"
+  "last_posted_at": "2026-04-17T22:43:22.336843+00:00"
 }
