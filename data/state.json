@@ -2,28 +2,6 @@
   "last_collected": "2026-04-17T19:43:55.638963+00:00",
   "queue": [
     {
-      "tweet": "Starmer is still acting clueless about that whole Mandelson scandal. You’d think the guy would learn by now.",
-      "original_url": "https://www.nytimes.com/2026/04/17/world/europe/starmer-credibility-mandelson-epstein-scandal.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Starmer’s Credibility Just Took Another Body Blow Over the Mandelson Scandal",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-17T19:43:55.638267+00:00"
-    },
-    {
-      "tweet": "Dude, OpenAI is charging way more for Claude Opus now. Like, we're literally paying them to make us work harder to get the same output.",
-      "original_url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Claude Opus 4.7 costs 20–30% more per session",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-17T19:43:55.638254+00:00"
-    },
-    {
       "tweet": "A Kenyan firm just fired over a thousand people because Meta cut their contract. Wild how they just dump everyone the second a project ends.",
       "original_url": "https://www.theguardian.com/technology/2026/apr/17/kenyan-outsourcing-company-for-meta-sacks-workers",
       "buzz_score": 80,
@@ -79,17 +57,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Iran reopened the Strait of Hormuz but the US still has the blockade up. It's like watching a standoff that nobody wants to win.",
-      "original_url": "https://www.theguardian.com/world/live/2026/apr/17/middle-east-crisis-live-news-israel-lebanon-ceasefire-iran-war-us-latest-updates",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Middle East crisis live: Iran reopens strait of Hormuz but US blockade remains",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-17T19:43:55.638708+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -101,15 +68,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "WrestleMania 42 is gonna have thirteen matches over two nights. That's just a workout.",
-      "original_url": "https://www.espn.com/wwe/story/_/id/48490151/wrestlemania-42-key-stats-notes-cm-punk-roman-reigns-cody-rhodes-randy-orton",
-      "buzz_score": 80,
-      "buzz_score2": 95,
+      "tweet": "Iran reopened the Strait of Hormuz but the US still has the blockade up. It's like watching a standoff that nobody wants to win.",
+      "original_url": "https://www.theguardian.com/world/live/2026/apr/17/middle-east-crisis-live-news-israel-lebanon-ceasefire-iran-war-us-latest-updates",
+      "buzz_score": 85,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "WrestleMania 42: Key stats for all 13 matches across both nights",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-17T11:13:19.256444+00:00"
+      "original_title": "Middle East crisis live: Iran reopens strait of Hormuz but US blockade remains",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-17T19:43:55.638708+00:00"
     },
     {
       "tweet": "Bro, Qwen3.6 is finally out and it’s actually writing code for me now. I’m gonna be out of a job by Tuesday.",
@@ -277,6 +244,17 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
+      "tweet": "WrestleMania 42 is gonna have thirteen matches over two nights. That's just a workout.",
+      "original_url": "https://www.espn.com/wwe/story/_/id/48490151/wrestlemania-42-key-stats-notes-cm-punk-roman-reigns-cody-rhodes-randy-orton",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "WrestleMania 42: Key stats for all 13 matches across both nights",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-17T11:13:19.256444+00:00"
+    },
+    {
       "tweet": "Congress just quietly extended those FISA surveillance powers again. Like, do they even care about the warrant thing anymore",
       "original_url": "https://www.aljazeera.com/news/2026/4/17/us-congress-temporarily-extends-controversial-surveillance-power-under-fisa?traffic_source=rss",
       "buzz_score": 80,
@@ -297,39 +275,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-17T19:43:55.638262+00:00"
-    },
-    {
-      "tweet": "Found an article explaining what DTM means. We really need a guide for three-letter slang now.",
-      "original_url": "https://www.mentalfloss.com/language/slang/dtm-explained-popular-text-abbreviation-meaning?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Meaning of Viral Text Abbreviation \"DTM,\" Explained",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-17T11:13:19.257373+00:00"
-    },
-    {
-      "tweet": "Nike dropped new pics of the Moon Shoe OG. It literally looks like a piece of sourdough.",
-      "original_url": "https://hypebeast.com/2026/4/nike-moon-shoe-og-summit-white-iw0955-100-official-images",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Nike Offers a Better Look at the Moon Shoe OG “Summit White”",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-17T11:13:19.257124+00:00"
-    },
-    {
-      "tweet": "Robert MacIntyre is out here saying he doesn't care about the Masters criticism. Whatever helps him sleep.",
-      "original_url": "https://www.bbc.com/sport/golf/articles/cq6jpnj24j1o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "MacIntyre not fazed by criticism of Masters behaviour",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-17T11:13:19.256447+00:00"
     },
     {
       "tweet": "Nine Inch Nails and Boys Noize just dropped a track and it hits like a hammer. Coachella is gonna be a war zone.",
@@ -563,6 +508,39 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
+      "tweet": "Found an article explaining what DTM means. We really need a guide for three-letter slang now.",
+      "original_url": "https://www.mentalfloss.com/language/slang/dtm-explained-popular-text-abbreviation-meaning?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Meaning of Viral Text Abbreviation \"DTM,\" Explained",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-17T11:13:19.257373+00:00"
+    },
+    {
+      "tweet": "Nike dropped new pics of the Moon Shoe OG. It literally looks like a piece of sourdough.",
+      "original_url": "https://hypebeast.com/2026/4/nike-moon-shoe-og-summit-white-iw0955-100-official-images",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Nike Offers a Better Look at the Moon Shoe OG “Summit White”",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-17T11:13:19.257124+00:00"
+    },
+    {
+      "tweet": "Robert MacIntyre is out here saying he doesn't care about the Masters criticism. Whatever helps him sleep.",
+      "original_url": "https://www.bbc.com/sport/golf/articles/cq6jpnj24j1o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "MacIntyre not fazed by criticism of Masters behaviour",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-17T11:13:19.256447+00:00"
+    },
+    {
       "tweet": "BAFTA pulled that game because they didn't like the subject matter. Guess we’re back to letting people decide what’s 'appropriate' to make.",
       "original_url": "https://kotaku.com/bafta-game-awards-quiet-things-trailer-silver-script-2000688583",
       "buzz_score": 75,
@@ -761,39 +739,6 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "UK police are investigating these drones near the Israeli embassy in London. Can we just have one normal news cycle?",
-      "original_url": "https://www.nytimes.com/2026/04/17/world/europe/london-israeli-embassy-drone-threat.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "U.K. Police Investigate Claims Drones Targeted Israeli Embassy in London",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-17T16:42:03.458938+00:00"
-    },
-    {
-      "tweet": "Russell saying he'd understand if Verstappen leaves F1 is wild. At some point you're just done with the whole thing.",
-      "original_url": "https://www.bbc.com/sport/formula1/articles/cj37p3k1nx8o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Russell 'would understand' if Verstappen leaves F1",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-17T16:42:03.457876+00:00"
-    },
-    {
-      "tweet": "Hayley Williams is actually playing games about whether she's on that Beyonce album. What do you want me to do if I am? Iconic.",
-      "original_url": "https://www.billboard.com/music/music-news/paramore-hayley-williams-beyonce-act-iii-collab-rumors-1236225226/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Paramore’s Hayley Williams Addresses Whether She’s on Beyoncé’s ‘Act III’ Amid Rock Rumors",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-17T16:42:03.457868+00:00"
-    },
-    {
       "tweet": "Pakistan managing the US-Iran talks is a weird timeline. Things are moving fast",
       "original_url": "https://www.aljazeera.com/news/2026/4/13/how-the-us-iran-talks-in-islamabad-unfolded?traffic_source=rss",
       "buzz_score": 70,
@@ -871,6 +816,50 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "UK police are investigating these drones near the Israeli embassy in London. Can we just have one normal news cycle?",
+      "original_url": "https://www.nytimes.com/2026/04/17/world/europe/london-israeli-embassy-drone-threat.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "U.K. Police Investigate Claims Drones Targeted Israeli Embassy in London",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-17T16:42:03.458938+00:00"
+    },
+    {
+      "tweet": "Russell saying he'd understand if Verstappen leaves F1 is wild. At some point you're just done with the whole thing.",
+      "original_url": "https://www.bbc.com/sport/formula1/articles/cj37p3k1nx8o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Russell 'would understand' if Verstappen leaves F1",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-17T16:42:03.457876+00:00"
+    },
+    {
+      "tweet": "Hayley Williams is actually playing games about whether she's on that Beyonce album. What do you want me to do if I am? Iconic.",
+      "original_url": "https://www.billboard.com/music/music-news/paramore-hayley-williams-beyonce-act-iii-collab-rumors-1236225226/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Paramore’s Hayley Williams Addresses Whether She’s on Beyoncé’s ‘Act III’ Amid Rock Rumors",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-17T16:42:03.457868+00:00"
+    },
+    {
+      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T03:59:38.753282+00:00"
+    },
+    {
       "tweet": "There's a ceasefire in Lebanon right now but nobody really thinks it's gonna hold. It's just that heavy feeling.",
       "original_url": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -926,28 +915,6 @@
       "added_at": "2026-04-17T16:42:03.457880+00:00"
     },
     {
-      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T03:59:38.753282+00:00"
-    },
-    {
-      "tweet": "Iran and the U.S. are actually agreeing that the Strait of Hormuz is open again. Weird times, man.",
-      "original_url": "https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran War Live Updates: Strait of Hormuz Is ‘Completely Open’ After Lebanon Deal, Iran and U.S. Say",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-17T13:57:14.533513+00:00"
-    },
-    {
       "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 82,
@@ -968,6 +935,17 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-04-08T22:35:32.474831+00:00"
+    },
+    {
+      "tweet": "Iran and the U.S. are actually agreeing that the Strait of Hormuz is open again. Weird times, man.",
+      "original_url": "https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iran War Live Updates: Strait of Hormuz Is ‘Completely Open’ After Lebanon Deal, Iran and U.S. Say",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-17T13:57:14.533513+00:00"
     },
     {
       "tweet": "Saw this story about a mother in Gaza waiting two years for news on her kids. That's just rough.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 410,
+    "total_posted": 412,
     "total_collected": 1291
   },
-  "last_posted_at": "2026-04-17T19:50:03.601012+00:00"
+  "last_posted_at": "2026-04-17T20:32:46.701796+00:00"
 }
