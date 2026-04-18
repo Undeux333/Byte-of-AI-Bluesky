@@ -211,28 +211,6 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "That Russian blogger Victoria Bonya is literally telling Putin everyone's scared of him. Bold move, man.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/18/russian-blogger-fierce-kremlin-critique-goes-viral",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Russian blogger’s fierce critique of Kremlin goes viral: ‘People are afraid of you’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-18T10:00:31.523798+00:00"
-    },
-    {
-      "tweet": "So apparently Iran is back to controlling the Strait of Hormuz now. Guess we're just pretending that whole thing didn't happen.",
-      "original_url": "https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran War Live Updates: Iran’s Military Says It Has Reimposed ‘Strict Control’ of Strait of Hormuz",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-18T10:00:31.523637+00:00"
-    },
-    {
       "tweet": "WrestleMania 42 is gonna have thirteen matches over two nights. That's just a workout.",
       "original_url": "https://www.espn.com/wwe/story/_/id/48490151/wrestlemania-42-key-stats-notes-cm-punk-roman-reigns-cody-rhodes-randy-orton",
       "buzz_score": 80,
@@ -475,15 +453,26 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Trump is saying we're gonna start dropping bombs again if that Iran deal doesn't happen. Is this really the only gear we have left?",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-says-us-will-start-dropping-bombs-again-if-no-iran-deal-is-reached?traffic_source=rss",
-      "buzz_score": 85,
+      "tweet": "That Russian blogger Victoria Bonya is literally telling Putin everyone's scared of him. Bold move, man.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/18/russian-blogger-fierce-kremlin-critique-goes-viral",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Trump says US will ‘start dropping bombs again’ if no Iran deal is reached",
-      "source": "Al Jazeera",
+      "original_title": "Russian blogger’s fierce critique of Kremlin goes viral: ‘People are afraid of you’",
+      "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-04-18T07:34:31.988661+00:00"
+      "added_at": "2026-04-18T10:00:31.523798+00:00"
+    },
+    {
+      "tweet": "So apparently Iran is back to controlling the Strait of Hormuz now. Guess we're just pretending that whole thing didn't happen.",
+      "original_url": "https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iran War Live Updates: Iran’s Military Says It Has Reimposed ‘Strict Control’ of Strait of Hormuz",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-18T10:00:31.523637+00:00"
     },
     {
       "tweet": "Found an article explaining what DTM means. We really need a guide for three-letter slang now.",
@@ -695,6 +684,17 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
+      "tweet": "Trump is saying we're gonna start dropping bombs again if that Iran deal doesn't happen. Is this really the only gear we have left?",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-says-us-will-start-dropping-bombs-again-if-no-iran-deal-is-reached?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump says US will ‘start dropping bombs again’ if no Iran deal is reached",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-18T07:34:31.988661+00:00"
+    },
+    {
       "tweet": "Steve Kerr is out here talking about jobs having expiration dates after that loss. We all know that feeling when you've just been at it way too long.",
       "original_url": "https://www.espn.com/nba/story/_/id/48519533/warriors-kerr-mull-future-knows-jobs-expiration-dates",
       "buzz_score": 82,
@@ -704,28 +704,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-18T07:34:31.988504+00:00"
-    },
-    {
-      "tweet": "Nutella just dropped a peanut version. My diet is officially over.",
-      "original_url": "https://hypebeast.com/2026/4/nutella-peanut-new-flavor-official-launch-announcement",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Nutella Officially Has a New Flavor, and It's Peanut",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-18T07:34:31.989195+00:00"
-    },
-    {
-      "tweet": "Did you see Sabrina Carpenter brought out Madonna at Coachella? Man, the generational whiplash is real.",
-      "original_url": "https://www.billboard.com/music/concerts/madonna-sabrina-carpenter-coachella-2026-1236226082/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sabrina Carpenter Brought Out Madonna for Coachella Weekend Two Performance",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-18T07:34:31.988499+00:00"
     },
     {
       "tweet": "Pakistan managing the US-Iran talks is a weird timeline. Things are moving fast",
@@ -805,6 +783,39 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "Nutella just dropped a peanut version. My diet is officially over.",
+      "original_url": "https://hypebeast.com/2026/4/nutella-peanut-new-flavor-official-launch-announcement",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Nutella Officially Has a New Flavor, and It's Peanut",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-18T07:34:31.989195+00:00"
+    },
+    {
+      "tweet": "Did you see Sabrina Carpenter brought out Madonna at Coachella? Man, the generational whiplash is real.",
+      "original_url": "https://www.billboard.com/music/concerts/madonna-sabrina-carpenter-coachella-2026-1236226082/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sabrina Carpenter Brought Out Madonna for Coachella Weekend Two Performance",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-18T07:34:31.988499+00:00"
+    },
+    {
+      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T03:59:38.753282+00:00"
+    },
+    {
       "tweet": "Did you see that Claude design update on HN? It's literally just us building stuff to replace ourselves.",
       "original_url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
       "buzz_score": 75,
@@ -827,15 +838,26 @@
       "added_at": "2026-04-18T04:58:03.983949+00:00"
     },
     {
-      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
-      "buzz_score": 88,
+      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 82,
       "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T03:59:38.753282+00:00"
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-08T04:12:50.486178+00:00"
+    },
+    {
+      "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
+      "original_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Fact check: Trump's objectives in the war with Iran have largely not been achieved",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-08T22:35:32.474831+00:00"
     },
     {
       "tweet": "Arsenal literally lit a fire at their training ground to motivate the players. Whatever works, I guess.",
@@ -858,28 +880,6 @@
       "source": "Rolling Stone",
       "category": "entertainment",
       "added_at": "2026-04-18T04:58:03.983413+00:00"
-    },
-    {
-      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-08T04:12:50.486178+00:00"
-    },
-    {
-      "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
-      "original_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fact check: Trump's objectives in the war with Iran have largely not been achieved",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-08T22:35:32.474831+00:00"
     },
     {
       "tweet": "Hyperscalers have outspent every massive US megaproject. At this point we're just throwing money at computers.",
@@ -915,17 +915,6 @@
       "added_at": "2026-04-17T21:59:14.041495+00:00"
     },
     {
-      "tweet": "There’s an article about ABBA songs that are basically travel guides for Europe. We've reached peak boredom.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/abba-songs-lyrical-travel-guides-europe?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "3 ABBA Songs That Double as Lyrical Travel Guides Through Europe",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-18T04:58:03.984312+00:00"
-    },
-    {
       "tweet": "Turns out there's zero evidence for that whole gang-rape claim in Epsom that people were protesting over. Can we stop believing everything on the internet.",
       "original_url": "https://www.theguardian.com/uk-news/2026/apr/17/police-say-no-evidence-of-offence-found-in-epsom-incident",
       "buzz_score": 85,
@@ -957,6 +946,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-17T19:43:55.638708+00:00"
+    },
+    {
+      "tweet": "There’s an article about ABBA songs that are basically travel guides for Europe. We've reached peak boredom.",
+      "original_url": "https://www.mentalfloss.com/entertainment/music/abba-songs-lyrical-travel-guides-europe?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "3 ABBA Songs That Double as Lyrical Travel Guides Through Europe",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-18T04:58:03.984312+00:00"
     },
     {
       "tweet": "Expedition 33 just won every major GOTY award. That's honestly wild for one game.",
