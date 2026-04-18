@@ -2,28 +2,6 @@
   "last_collected": "2026-04-18T22:22:55.049759+00:00",
   "queue": [
     {
-      "tweet": "Trump is calling the Strait of Hormuz situation blackmail. Like, does he really think that’s gonna make them open it back up?",
-      "original_url": "https://www.aljazeera.com/news/2026/4/18/iran-reasserts-control-of-hormuz-strait-as-trump-warns-against-blackmail?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Iran reasserts control of Hormuz Strait as Trump warns against ‘blackmail’",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-18T22:22:55.048592+00:00"
-    },
-    {
-      "tweet": "Australia is bragging about emissions cuts while their coal mine pollution is actually going up. Gotta love that accounting math.",
-      "original_url": "https://www.theguardian.com/environment/2026/apr/19/australia-emissions-increasing-coalmines-climate-policy-analysis",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australia’s coalmine emissions are increasing. Is this how a major policy to cut climate pollution is meant to work?",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-18T22:22:55.048746+00:00"
-    },
-    {
       "tweet": "Bro, people are going absolutely feral over the new Claude design. It’s wild how much we care about the UI of a thing that literally just thinks for us. Whatever, it looks cool.",
       "original_url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
       "buzz_score": 85,
@@ -112,17 +90,6 @@
       "added_at": "2026-04-12T02:32:59.106863+00:00"
     },
     {
-      "tweet": "The star of Pragmata had to keep his role secret for two years. Could you imagine having that kind of news and not being able to say a word.",
-      "original_url": "https://www.polygon.com/pragmata-hugh-actor-david-menkin-interview-profile/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Pragmata star reveals the top secret process he 'had to mourn' alone",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-18T17:57:17.580215+00:00"
-    },
-    {
       "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026",
       "buzz_score": 90,
@@ -134,15 +101,15 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Hold on, US officials are in Havana trying to tell Cuba how to run their economy. Like the Trump admin has the magic touch for that right now. Give me a break.",
-      "original_url": "https://www.nytimes.com/2026/04/18/world/americas/us-officials-cuba-trump.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
+      "tweet": "The star of Pragmata had to keep his role secret for two years. Could you imagine having that kind of news and not being able to say a word.",
+      "original_url": "https://www.polygon.com/pragmata-hugh-actor-david-menkin-interview-profile/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "U.S. Officials Visited Havana to Lay Out Proposals for Cuban Reforms",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-18T22:22:55.048585+00:00"
+      "original_title": "Pragmata star reveals the top secret process he 'had to mourn' alone",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-18T17:57:17.580215+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -154,6 +121,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Hold on, US officials are in Havana trying to tell Cuba how to run their economy. Like the Trump admin has the magic touch for that right now. Give me a break.",
+      "original_url": "https://www.nytimes.com/2026/04/18/world/americas/us-officials-cuba-trump.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "U.S. Officials Visited Havana to Lay Out Proposals for Cuban Reforms",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-18T22:22:55.048585+00:00"
     },
     {
       "tweet": "Bro, Qwen3.6 is finally out and it’s actually writing code for me now. I’m gonna be out of a job by Tuesday.",
@@ -596,28 +574,6 @@
       "added_at": "2026-04-18T22:22:55.049122+00:00"
     },
     {
-      "tweet": "Machado gave her Nobel medal to Trump after he captured Maduro. The audacity is something else.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/18/no-regrets-venezuelas-machado-defends-giving-nobel-medal-to-trump?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘No regrets’: Venezuela’s Machado defends giving Nobel medal to Trump",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-18T17:57:17.579761+00:00"
-    },
-    {
-      "tweet": "Hold on, Tory Lanez is suing the California prison system for a hundred million over that stabbing. That's a massive check.",
-      "original_url": "https://www.billboard.com/business/legal/tory-lanez-sues-california-prison-system-inmate-stabbing-1236226246/",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Tory Lanez Sues California Prison System for $100M Over Stabbing by Inmate",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-18T17:57:17.579266+00:00"
-    },
-    {
       "tweet": "Found an article explaining what DTM means. We really need a guide for three-letter slang now.",
       "original_url": "https://www.mentalfloss.com/language/slang/dtm-explained-popular-text-abbreviation-meaning?utm_source=RSS",
       "buzz_score": 75,
@@ -825,6 +781,28 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T12:09:23.834019+00:00"
+    },
+    {
+      "tweet": "Machado gave her Nobel medal to Trump after he captured Maduro. The audacity is something else.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/18/no-regrets-venezuelas-machado-defends-giving-nobel-medal-to-trump?traffic_source=rss",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘No regrets’: Venezuela’s Machado defends giving Nobel medal to Trump",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-18T17:57:17.579761+00:00"
+    },
+    {
+      "tweet": "Hold on, Tory Lanez is suing the California prison system for a hundred million over that stabbing. That's a massive check.",
+      "original_url": "https://www.billboard.com/business/legal/tory-lanez-sues-california-prison-system-inmate-stabbing-1236226246/",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Tory Lanez Sues California Prison System for $100M Over Stabbing by Inmate",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-18T17:57:17.579266+00:00"
     },
     {
       "tweet": "Hold on, Charles Dance is in The Batman Part 2 now? That’s actually huge.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 450,
+    "total_posted": 452,
     "total_collected": 1415
   },
-  "last_posted_at": "2026-04-18T22:30:22.015148+00:00"
+  "last_posted_at": "2026-04-18T23:10:06.952413+00:00"
 }
