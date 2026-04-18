@@ -2,28 +2,6 @@
   "last_collected": "2026-04-18T15:23:10.057142+00:00",
   "queue": [
     {
-      "tweet": "Venice is already looking for a plan B for their flood barriers five years after launching them. Typical government stuff.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/18/venice-flood-barrier-plan-b-rising-sea-level",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘We can’t wait’: Venice already seeking floods plan B five years after barriers’ launch",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-18T15:23:10.055585+00:00"
-    },
-    {
-      "tweet": "Hold on, Joe Jonas is performing at WrestleMania 42. Whatever they're paying him, it's not enough.",
-      "original_url": "https://www.billboard.com/culture/product-recommendations/wwe-wrestlemania-42-how-to-watch-online-1236226043/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "WrestleMania 42: Here’s Where to Watch WWE’s Biggest Event Online",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-18T15:23:10.055580+00:00"
-    },
-    {
       "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
       "buzz_score": 95,
@@ -915,6 +893,17 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T03:59:38.753282+00:00"
+    },
+    {
       "tweet": "BBC is reporting people are actually trying to move back into Khiam after that ceasefire. Brave or crazy.",
       "original_url": "https://www.bbc.com/news/videos/cly90z9g5q3o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -959,15 +948,15 @@
       "added_at": "2026-04-18T12:36:07.731961+00:00"
     },
     {
-      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
-      "buzz_score": 88,
+      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 82,
       "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T03:59:38.753282+00:00"
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-08T04:12:50.486178+00:00"
     },
     {
       "tweet": "Apparently spring-cleaning is supposed to be more than just hiding your mess in the closet. My bad.",
@@ -1012,17 +1001,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-18T10:00:31.523637+00:00"
-    },
-    {
-      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-08T04:12:50.486178+00:00"
     },
     {
       "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 433,
+    "total_posted": 435,
     "total_collected": 1372
   },
-  "last_posted_at": "2026-04-18T15:28:27.282732+00:00"
+  "last_posted_at": "2026-04-18T16:06:31.760355+00:00"
 }
