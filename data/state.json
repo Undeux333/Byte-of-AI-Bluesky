@@ -2,15 +2,15 @@
   "last_collected": "2026-04-18T19:59:03.194864+00:00",
   "queue": [
     {
-      "tweet": "Did you see Iran is basically relying on a mosquito fleet now? Tiny boats.",
-      "original_url": "https://www.nytimes.com/2026/04/18/world/middleeast/iran-irgc-navy-strait-of-hormuz.html",
-      "buzz_score": 75,
+      "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
+      "buzz_score": 95,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "A Potent Threat in Strait of Hormuz: Iran’s ‘Mosquito Fleet’",
-      "source": "NYT World",
+      "original_title": "UK’s Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing St",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-04-18T17:57:17.579261+00:00"
+      "added_at": "2026-04-09T07:14:41.251727+00:00"
     },
     {
       "tweet": "The star of Pragmata had to keep his role secret for two years. Could you imagine having that kind of news and not being able to say a word.",
@@ -22,17 +22,6 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-18T17:57:17.580215+00:00"
-    },
-    {
-      "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "UK’s Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing St",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251727+00:00"
     },
     {
       "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
@@ -231,28 +220,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
-    },
-    {
-      "tweet": "Machado gave her Nobel medal to Trump after he captured Maduro. The audacity is something else.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/18/no-regrets-venezuelas-machado-defends-giving-nobel-medal-to-trump?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘No regrets’: Venezuela’s Machado defends giving Nobel medal to Trump",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-18T17:57:17.579761+00:00"
-    },
-    {
-      "tweet": "Hold on, Tory Lanez is suing the California prison system for a hundred million over that stabbing. That's a massive check.",
-      "original_url": "https://www.billboard.com/business/legal/tory-lanez-sues-california-prison-system-inmate-stabbing-1236226246/",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Tory Lanez Sues California Prison System for $100M Over Stabbing by Inmate",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-18T17:57:17.579266+00:00"
     },
     {
       "tweet": "WrestleMania 42 is gonna have thirteen matches over two nights. That's just a workout.",
@@ -495,6 +462,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-08T17:48:49.217272+00:00"
+    },
+    {
+      "tweet": "Machado gave her Nobel medal to Trump after he captured Maduro. The audacity is something else.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/18/no-regrets-venezuelas-machado-defends-giving-nobel-medal-to-trump?traffic_source=rss",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘No regrets’: Venezuela’s Machado defends giving Nobel medal to Trump",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-18T17:57:17.579761+00:00"
+    },
+    {
+      "tweet": "Hold on, Tory Lanez is suing the California prison system for a hundred million over that stabbing. That's a massive check.",
+      "original_url": "https://www.billboard.com/business/legal/tory-lanez-sues-california-prison-system-inmate-stabbing-1236226246/",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Tory Lanez Sues California Prison System for $100M Over Stabbing by Inmate",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-18T17:57:17.579266+00:00"
     },
     {
       "tweet": "Hold on, Charles Dance is in The Batman Part 2 now? That’s actually huge.",
@@ -761,17 +750,6 @@
       "added_at": "2026-04-18T19:59:03.193779+00:00"
     },
     {
-      "tweet": "So apparently the Pope had to go on record saying his comments about tyrants weren't about Trump. Everyone knows exactly who he meant.",
-      "original_url": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Pope says 'tyrants' speech was not aimed at Trump",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-18T17:57:17.579258+00:00"
-    },
-    {
       "tweet": "Pakistan managing the US-Iran talks is a weird timeline. Things are moving fast",
       "original_url": "https://www.aljazeera.com/news/2026/4/13/how-the-us-iran-talks-in-islamabad-unfolded?traffic_source=rss",
       "buzz_score": 70,
@@ -849,6 +827,17 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "So apparently the Pope had to go on record saying his comments about tyrants weren't about Trump. Everyone knows exactly who he meant.",
+      "original_url": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Pope says 'tyrants' speech was not aimed at Trump",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-18T17:57:17.579258+00:00"
+    },
+    {
       "tweet": "People are comparing Tomodachi Life to Animal Crossing and realized one is just way less work. Sometimes you just want the low-stakes life.",
       "original_url": "https://www.polygon.com/animal-crossing-new-horizons-tomodachi-life-living-the-dream-comparison/",
       "buzz_score": 70,
@@ -904,6 +893,17 @@
       "added_at": "2026-04-18T17:57:17.579530+00:00"
     },
     {
+      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 82,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-08T04:12:50.486178+00:00"
+    },
+    {
       "tweet": "The IRGC just restricted the Strait of Hormuz after all that drama with Trump. Here we go again.",
       "original_url": "https://www.aljazeera.com/news/2026/4/18/trump-claims-on-iranian-concessions-trigger-questions-rejections-in-tehran?traffic_source=rss",
       "buzz_score": 80,
@@ -935,17 +935,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-18T15:23:10.056013+00:00"
-    },
-    {
-      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-08T04:12:50.486178+00:00"
     },
     {
       "tweet": "Millions of people are blasting that new Teddy Afro track because it calls out the government. Who doesn't love a protest anthem.",
@@ -1996,8 +1985,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 447,
+    "total_posted": 448,
     "total_collected": 1399
   },
-  "last_posted_at": "2026-04-18T21:14:41.863417+00:00"
+  "last_posted_at": "2026-04-18T21:49:32.968830+00:00"
 }
