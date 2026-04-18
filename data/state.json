@@ -2,28 +2,6 @@
   "last_collected": "2026-04-18T19:59:03.194864+00:00",
   "queue": [
     {
-      "tweet": "Some guy is spending months coding the old way on purpose. We're all just tired of the shortcuts, huh.",
-      "original_url": "https://miguelconner.substack.com/p/im-coding-by-hand",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "I’m spending months coding the old way",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-18T19:59:03.193793+00:00"
-    },
-    {
-      "tweet": "Dude, did you see OpenAI just hiked their prices like 45% out of nowhere? Just inflation things I guess.",
-      "original_url": "https://tokens.billchambers.me/leaderboard",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Opus 4.7 to 4.6 Inflation is ~45%",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-18T19:59:03.193773+00:00"
-    },
-    {
       "tweet": "Bungie tried to make Marathon nicer with mercy kits and players are literally using them to kill each other twice. Typical.",
       "original_url": "https://kotaku.com/marathon-mercy-kit-troll-bungie-revive-2000688790",
       "buzz_score": 80,
@@ -110,28 +88,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Machado gave her Nobel medal to Trump after he captured Maduro. The audacity is something else.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/18/no-regrets-venezuelas-machado-defends-giving-nobel-medal-to-trump?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘No regrets’: Venezuela’s Machado defends giving Nobel medal to Trump",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-18T17:57:17.579761+00:00"
-    },
-    {
-      "tweet": "Hold on, Tory Lanez is suing the California prison system for a hundred million over that stabbing. That's a massive check.",
-      "original_url": "https://www.billboard.com/business/legal/tory-lanez-sues-california-prison-system-inmate-stabbing-1236226246/",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Tory Lanez Sues California Prison System for $100M Over Stabbing by Inmate",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-18T17:57:17.579266+00:00"
     },
     {
       "tweet": "Bro, Qwen3.6 is finally out and it’s actually writing code for me now. I’m gonna be out of a job by Tuesday.",
@@ -297,6 +253,28 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
+    },
+    {
+      "tweet": "Machado gave her Nobel medal to Trump after he captured Maduro. The audacity is something else.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/18/no-regrets-venezuelas-machado-defends-giving-nobel-medal-to-trump?traffic_source=rss",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘No regrets’: Venezuela’s Machado defends giving Nobel medal to Trump",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-18T17:57:17.579761+00:00"
+    },
+    {
+      "tweet": "Hold on, Tory Lanez is suing the California prison system for a hundred million over that stabbing. That's a massive check.",
+      "original_url": "https://www.billboard.com/business/legal/tory-lanez-sues-california-prison-system-inmate-stabbing-1236226246/",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Tory Lanez Sues California Prison System for $100M Over Stabbing by Inmate",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-18T17:57:17.579266+00:00"
     },
     {
       "tweet": "Hold on, Charles Dance is in The Batman Part 2 now? That’s actually huge.",
@@ -596,17 +574,6 @@
       "added_at": "2026-04-18T19:59:03.193779+00:00"
     },
     {
-      "tweet": "So apparently the Pope had to go on record saying his comments about tyrants weren't about Trump. Everyone knows exactly who he meant.",
-      "original_url": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Pope says 'tyrants' speech was not aimed at Trump",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-18T17:57:17.579258+00:00"
-    },
-    {
       "tweet": "Found an article explaining what DTM means. We really need a guide for three-letter slang now.",
       "original_url": "https://www.mentalfloss.com/language/slang/dtm-explained-popular-text-abbreviation-meaning?utm_source=RSS",
       "buzz_score": 75,
@@ -816,6 +783,17 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
+      "tweet": "So apparently the Pope had to go on record saying his comments about tyrants weren't about Trump. Everyone knows exactly who he meant.",
+      "original_url": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Pope says 'tyrants' speech was not aimed at Trump",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-18T17:57:17.579258+00:00"
+    },
+    {
       "tweet": "People are comparing Tomodachi Life to Animal Crossing and realized one is just way less work. Sometimes you just want the low-stakes life.",
       "original_url": "https://www.polygon.com/animal-crossing-new-horizons-tomodachi-life-living-the-dream-comparison/",
       "buzz_score": 70,
@@ -847,17 +825,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-18T19:59:03.193789+00:00"
-    },
-    {
-      "tweet": "Popovich addressed the Spurs from rehab. That's the energy you want before a playoff run.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48522561/gregg-popovich-addresses-spurs-prior-playoff-series-vs-portland",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Spurs motivated, inspired by Popovich address",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-18T17:57:17.579530+00:00"
     },
     {
       "tweet": "Pakistan managing the US-Iran talks is a weird timeline. Things are moving fast",
@@ -937,6 +904,17 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "Popovich addressed the Spurs from rehab. That's the energy you want before a playoff run.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48522561/gregg-popovich-addresses-spurs-prior-playoff-series-vs-portland",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Spurs motivated, inspired by Popovich address",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-18T17:57:17.579530+00:00"
+    },
+    {
       "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
       "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
       "buzz_score": 88,
@@ -981,6 +959,17 @@
       "added_at": "2026-04-18T15:23:10.056013+00:00"
     },
     {
+      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 82,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-08T04:12:50.486178+00:00"
+    },
+    {
       "tweet": "Millions of people are blasting that new Teddy Afro track because it calls out the government. Who doesn't love a protest anthem.",
       "original_url": "https://www.bbc.com/news/articles/cqj81g5dxkyo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -1023,17 +1012,6 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-18T15:23:10.055577+00:00"
-    },
-    {
-      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-08T04:12:50.486178+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 443,
+    "total_posted": 445,
     "total_collected": 1399
   },
-  "last_posted_at": "2026-04-18T20:06:14.488124+00:00"
+  "last_posted_at": "2026-04-18T20:40:23.704952+00:00"
 }
