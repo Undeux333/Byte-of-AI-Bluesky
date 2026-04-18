@@ -2,28 +2,6 @@
   "last_collected": "2026-04-18T07:34:31.990061+00:00",
   "queue": [
     {
-      "tweet": "Israeli police were actually out there popping kids' soccer balls at Al-Aqsa. Like, what are we even doing at this point.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/israeli-police-destroy-childrens-footballs-at-al-aqsa-mosque?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Israeli police destroy children’s footballs at Al-Aqsa mosque",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-18T07:34:31.988506+00:00"
-    },
-    {
-      "tweet": "Suns knocked the Warriors out of the playoffs. Honestly, seeing that dynasty finally go quiet is just weird.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48519075/suns-end-warriors-season-set-first-round-date-thunder",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Suns end Warriors' season, await No. 1 Thunder",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-18T07:34:31.988502+00:00"
-    },
-    {
       "tweet": "So apparently Orban’s done and Hungary is already moving on to that new guy. Kinda wild how fast a whole political era just hits the expiration date.",
       "original_url": "https://www.bbc.com/news/articles/c4g40npz37lo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -68,17 +46,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Trump is saying we're gonna start dropping bombs again if that Iran deal doesn't happen. Is this really the only gear we have left?",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-says-us-will-start-dropping-bombs-again-if-no-iran-deal-is-reached?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump says US will ‘start dropping bombs again’ if no Iran deal is reached",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-18T07:34:31.988661+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -90,15 +57,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Steve Kerr is out here talking about jobs having expiration dates after that loss. We all know that feeling when you've just been at it way too long.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48519533/warriors-kerr-mull-future-knows-jobs-expiration-dates",
-      "buzz_score": 82,
+      "tweet": "Trump is saying we're gonna start dropping bombs again if that Iran deal doesn't happen. Is this really the only gear we have left?",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-says-us-will-start-dropping-bombs-again-if-no-iran-deal-is-reached?traffic_source=rss",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Kerr on future: These jobs have 'expiration dates'",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-18T07:34:31.988504+00:00"
+      "original_title": "Trump says US will ‘start dropping bombs again’ if no Iran deal is reached",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-18T07:34:31.988661+00:00"
     },
     {
       "tweet": "Bro, Qwen3.6 is finally out and it’s actually writing code for me now. I’m gonna be out of a job by Tuesday.",
@@ -264,6 +231,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
+    },
+    {
+      "tweet": "Steve Kerr is out here talking about jobs having expiration dates after that loss. We all know that feeling when you've just been at it way too long.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48519533/warriors-kerr-mull-future-knows-jobs-expiration-dates",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Kerr on future: These jobs have 'expiration dates'",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-18T07:34:31.988504+00:00"
     },
     {
       "tweet": "Nutella just dropped a peanut version. My diet is officially over.",
@@ -860,6 +838,17 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T03:59:38.753282+00:00"
+    },
+    {
       "tweet": "Hyperscalers have outspent every massive US megaproject. At this point we're just throwing money at computers.",
       "original_url": "https://twitter.com/finmoorhouse/status/2044933442236776794",
       "buzz_score": 75,
@@ -882,15 +871,15 @@
       "added_at": "2026-04-18T04:58:03.983707+00:00"
     },
     {
-      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
-      "buzz_score": 88,
+      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 82,
       "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T03:59:38.753282+00:00"
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-08T04:12:50.486178+00:00"
     },
     {
       "tweet": "There’s an article about ABBA songs that are basically travel guides for Europe. We've reached peak boredom.",
@@ -902,17 +891,6 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-18T04:58:03.984312+00:00"
-    },
-    {
-      "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-08T04:12:50.486178+00:00"
     },
     {
       "tweet": "Funny how Trump’s big plan for Iran was regime change and ending their nuclear program. Neither of those happened.",
@@ -968,17 +946,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-17T19:43:55.638708+00:00"
-    },
-    {
-      "tweet": "Romania's measles cases are spiking 'cause people stopped getting shots. We're really doing the anti-science thing again, huh.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/18/romania-eu-measles-cases-vaccination-rates-collapse",
-      "buzz_score": 78,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "‘It’s a powder keg’: Romania leads EU measles cases as vaccination rates collapse",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-18T07:34:31.988918+00:00"
     },
     {
       "tweet": "Expedition 33 just won every major GOTY award. That's honestly wild for one game.",
@@ -1056,6 +1023,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-17T16:42:03.457868+00:00"
+    },
+    {
+      "tweet": "Romania's measles cases are spiking 'cause people stopped getting shots. We're really doing the anti-science thing again, huh.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/18/romania-eu-measles-cases-vaccination-rates-collapse",
+      "buzz_score": 78,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "‘It’s a powder keg’: Romania leads EU measles cases as vaccination rates collapse",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-18T07:34:31.988918+00:00"
     }
   ],
   "seen_urls": [
@@ -2062,8 +2040,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 422,
+    "total_posted": 424,
     "total_collected": 1333
   },
-  "last_posted_at": "2026-04-18T06:15:51.165016+00:00"
+  "last_posted_at": "2026-04-18T08:32:05.981246+00:00"
 }
