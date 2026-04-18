@@ -2,28 +2,6 @@
   "last_collected": "2026-04-18T12:36:07.733793+00:00",
   "queue": [
     {
-      "tweet": "Dude, did you know moon dust literally smells like spent gunpowder? All 12 of those guys who walked on the moon were walking around in it. Wild.",
-      "original_url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-18T12:36:07.731952+00:00"
-    },
-    {
-      "tweet": "Norway is actually investigating their Epstein files to save faith in democracy. Wish we had that energy here.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/18/jeffrey-epstein-files-shaken-norway-faith-in-democracy-oversight-committee",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Norwegian politicians hope Epstein files inquiry will restore faith in democracy",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-18T12:36:07.732652+00:00"
-    },
-    {
       "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
       "buzz_score": 95,
@@ -55,28 +33,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "Slay The Spire 2 devs just confirmed 49 percent of you monsters have been eating the bird eggs. We are not okay.",
-      "original_url": "https://kotaku.com/as-slay-the-spire-2-continues-to-dominate-devs-outline-the-future-roadmap-and-confirm-49-percent-of-you-monsters-have-been-eating-the-bird-eggsegg-2000688668",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "As Slay The Spire 2 Continues To Dominate Devs Outline The Future Roadmap And Confirm 49 Percent Of You Monsters Have Been Eating The Bird EggsEgg)",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-18T12:36:07.732780+00:00"
-    },
-    {
-      "tweet": "Gunboats are out there firing at tankers in the Strait of Hormuz. Gas prices tomorrow.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/gunfire-reported-by-vessel-in-strait-of-hormuz?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Gunfire reported by vessel in Strait of Hormuz",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-18T12:36:07.732527+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -255,15 +211,26 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "So apparently NIO is just swapping out entire EV batteries instead of waiting to charge. Imagine never plugging your car in again. Efficiency.",
-      "original_url": "https://www.npr.org/2026/04/18/nx-s1-5788990/ev-battery-charge-long-china-nio",
-      "buzz_score": 80,
+      "tweet": "Slay The Spire 2 devs just confirmed 49 percent of you monsters have been eating the bird eggs. We are not okay.",
+      "original_url": "https://kotaku.com/as-slay-the-spire-2-continues-to-dominate-devs-outline-the-future-roadmap-and-confirm-49-percent-of-you-monsters-have-been-eating-the-bird-eggsegg-2000688668",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Tired of waiting for your EV to charge up? One Chinese company has a novel solution",
-      "source": "NPR News",
+      "original_title": "As Slay The Spire 2 Continues To Dominate Devs Outline The Future Roadmap And Confirm 49 Percent Of You Monsters Have Been Eating The Bird EggsEgg)",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-18T12:36:07.732780+00:00"
+    },
+    {
+      "tweet": "Gunboats are out there firing at tankers in the Strait of Hormuz. Gas prices tomorrow.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/gunfire-reported-by-vessel-in-strait-of-hormuz?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Gunfire reported by vessel in Strait of Hormuz",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-04-18T12:36:07.731958+00:00"
+      "added_at": "2026-04-18T12:36:07.732527+00:00"
     },
     {
       "tweet": "WrestleMania 42 is gonna have thirteen matches over two nights. That's just a workout.",
@@ -508,48 +475,15 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "BBC is reporting people are actually trying to move back into Khiam after that ceasefire. Brave or crazy.",
-      "original_url": "https://www.bbc.com/news/videos/cly90z9g5q3o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
+      "tweet": "So apparently NIO is just swapping out entire EV batteries instead of waiting to charge. Imagine never plugging your car in again. Efficiency.",
+      "original_url": "https://www.npr.org/2026/04/18/nx-s1-5788990/ev-battery-charge-long-china-nio",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "BBC reports from Lebanese border town as residents try to return home",
-      "source": "BBC World",
+      "original_title": "Tired of waiting for your EV to charge up? One Chinese company has a novel solution",
+      "source": "NPR News",
       "category": "world",
-      "added_at": "2026-04-18T12:36:07.733291+00:00"
-    },
-    {
-      "tweet": "Polygon just dropped their top 8 video game quotes of all time. I still quote Portal 2 daily.",
-      "original_url": "https://www.polygon.com/greatest-video-game-quotes-fan-vote/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The 8 greatest video game quotes voted on by fans",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-18T12:36:07.732904+00:00"
-    },
-    {
-      "tweet": "Sue Bird and Megan Rapinoe are splitting after ten years. Even the best ones don't make it forever.",
-      "original_url": "https://www.espn.com/wnba/story/_/id/48515476/sue-bird-megan-rapinoe-announce-separating",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Retired stars Bird, Rapinoe announce separation",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-18T12:36:07.732142+00:00"
-    },
-    {
-      "tweet": "Aliyah Boston just landed a 6.3 million extension with the Fever. The league is finally paying up.",
-      "original_url": "https://www.espn.com/wnba/story/_/id/48516150/aliyah-boston-indiana-fever-agree-4-year-extension",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fever's Boston lands record $6.3M extension",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-18T12:36:07.731961+00:00"
+      "added_at": "2026-04-18T12:36:07.731958+00:00"
     },
     {
       "tweet": "Found an article explaining what DTM means. We really need a guide for three-letter slang now.",
@@ -761,48 +695,48 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "Apparently spring-cleaning is supposed to be more than just hiding your mess in the closet. My bad.",
-      "original_url": "https://www.nytimes.com/2026/04/18/briefing/trading-spaces.html",
-      "buzz_score": 70,
+      "tweet": "BBC is reporting people are actually trying to move back into Khiam after that ceasefire. Brave or crazy.",
+      "original_url": "https://www.bbc.com/news/videos/cly90z9g5q3o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Trading Spaces",
-      "source": "NYT World",
+      "original_title": "BBC reports from Lebanese border town as residents try to return home",
+      "source": "BBC World",
       "category": "world",
-      "added_at": "2026-04-18T12:36:07.733663+00:00"
+      "added_at": "2026-04-18T12:36:07.733291+00:00"
     },
     {
-      "tweet": "Hungary's new guy is already trying to run to Poland to fix things with the EU. That's how you know you messed up.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/18/hungary-peter-magyar-donald-tusk-poland-europe",
-      "buzz_score": 70,
+      "tweet": "Polygon just dropped their top 8 video game quotes of all time. I still quote Portal 2 daily.",
+      "original_url": "https://www.polygon.com/greatest-video-game-quotes-fan-vote/",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Hungary’s incoming PM seeks Polish help to renew EU relations",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-18T12:36:07.733165+00:00"
+      "original_title": "The 8 greatest video game quotes voted on by fans",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-18T12:36:07.732904+00:00"
     },
     {
-      "tweet": "That Russian blogger Victoria Bonya is literally telling Putin everyone's scared of him. Bold move, man.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/18/russian-blogger-fierce-kremlin-critique-goes-viral",
-      "buzz_score": 80,
+      "tweet": "Sue Bird and Megan Rapinoe are splitting after ten years. Even the best ones don't make it forever.",
+      "original_url": "https://www.espn.com/wnba/story/_/id/48515476/sue-bird-megan-rapinoe-announce-separating",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Russian blogger’s fierce critique of Kremlin goes viral: ‘People are afraid of you’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-18T10:00:31.523798+00:00"
+      "original_title": "Retired stars Bird, Rapinoe announce separation",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-18T12:36:07.732142+00:00"
     },
     {
-      "tweet": "So apparently Iran is back to controlling the Strait of Hormuz now. Guess we're just pretending that whole thing didn't happen.",
-      "original_url": "https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz",
-      "buzz_score": 80,
+      "tweet": "Aliyah Boston just landed a 6.3 million extension with the Fever. The league is finally paying up.",
+      "original_url": "https://www.espn.com/wnba/story/_/id/48516150/aliyah-boston-indiana-fever-agree-4-year-extension",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Iran War Live Updates: Iran’s Military Says It Has Reimposed ‘Strict Control’ of Strait of Hormuz",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-18T10:00:31.523637+00:00"
+      "original_title": "Fever's Boston lands record $6.3M extension",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-18T12:36:07.731961+00:00"
     },
     {
       "tweet": "Pakistan managing the US-Iran talks is a weird timeline. Things are moving fast",
@@ -882,15 +816,48 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
-      "tweet": "Trump is saying we're gonna start dropping bombs again if that Iran deal doesn't happen. Is this really the only gear we have left?",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-says-us-will-start-dropping-bombs-again-if-no-iran-deal-is-reached?traffic_source=rss",
-      "buzz_score": 85,
+      "tweet": "Apparently spring-cleaning is supposed to be more than just hiding your mess in the closet. My bad.",
+      "original_url": "https://www.nytimes.com/2026/04/18/briefing/trading-spaces.html",
+      "buzz_score": 70,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Trump says US will ‘start dropping bombs again’ if no Iran deal is reached",
-      "source": "Al Jazeera",
+      "original_title": "Trading Spaces",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-04-18T07:34:31.988661+00:00"
+      "added_at": "2026-04-18T12:36:07.733663+00:00"
+    },
+    {
+      "tweet": "Hungary's new guy is already trying to run to Poland to fix things with the EU. That's how you know you messed up.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/18/hungary-peter-magyar-donald-tusk-poland-europe",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hungary’s incoming PM seeks Polish help to renew EU relations",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-18T12:36:07.733165+00:00"
+    },
+    {
+      "tweet": "That Russian blogger Victoria Bonya is literally telling Putin everyone's scared of him. Bold move, man.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/18/russian-blogger-fierce-kremlin-critique-goes-viral",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Russian blogger’s fierce critique of Kremlin goes viral: ‘People are afraid of you’",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-18T10:00:31.523798+00:00"
+    },
+    {
+      "tweet": "So apparently Iran is back to controlling the Strait of Hormuz now. Guess we're just pretending that whole thing didn't happen.",
+      "original_url": "https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iran War Live Updates: Iran’s Military Says It Has Reimposed ‘Strict Control’ of Strait of Hormuz",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-18T10:00:31.523637+00:00"
     },
     {
       "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
@@ -904,6 +871,17 @@
       "added_at": "2026-04-11T03:59:38.753282+00:00"
     },
     {
+      "tweet": "Trump is saying we're gonna start dropping bombs again if that Iran deal doesn't happen. Is this really the only gear we have left?",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-says-us-will-start-dropping-bombs-again-if-no-iran-deal-is-reached?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump says US will ‘start dropping bombs again’ if no Iran deal is reached",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-18T07:34:31.988661+00:00"
+    },
+    {
       "tweet": "Steve Kerr is out here talking about jobs having expiration dates after that loss. We all know that feeling when you've just been at it way too long.",
       "original_url": "https://www.espn.com/nba/story/_/id/48519533/warriors-kerr-mull-future-knows-jobs-expiration-dates",
       "buzz_score": 82,
@@ -913,28 +891,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-18T07:34:31.988504+00:00"
-    },
-    {
-      "tweet": "Nutella just dropped a peanut version. My diet is officially over.",
-      "original_url": "https://hypebeast.com/2026/4/nutella-peanut-new-flavor-official-launch-announcement",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Nutella Officially Has a New Flavor, and It's Peanut",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-18T07:34:31.989195+00:00"
-    },
-    {
-      "tweet": "Did you see Sabrina Carpenter brought out Madonna at Coachella? Man, the generational whiplash is real.",
-      "original_url": "https://www.billboard.com/music/concerts/madonna-sabrina-carpenter-coachella-2026-1236226082/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sabrina Carpenter Brought Out Madonna for Coachella Weekend Two Performance",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-18T07:34:31.988499+00:00"
     },
     {
       "tweet": "Dude, this guy Dominic Khoo was basically running a luxury watch Ponzi scheme in Singapore. People really just hand over millions for a metal strap.",
@@ -959,6 +915,28 @@
       "added_at": "2026-04-08T22:35:32.474831+00:00"
     },
     {
+      "tweet": "Nutella just dropped a peanut version. My diet is officially over.",
+      "original_url": "https://hypebeast.com/2026/4/nutella-peanut-new-flavor-official-launch-announcement",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Nutella Officially Has a New Flavor, and It's Peanut",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-18T07:34:31.989195+00:00"
+    },
+    {
+      "tweet": "Did you see Sabrina Carpenter brought out Madonna at Coachella? Man, the generational whiplash is real.",
+      "original_url": "https://www.billboard.com/music/concerts/madonna-sabrina-carpenter-coachella-2026-1236226082/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sabrina Carpenter Brought Out Madonna for Coachella Weekend Two Performance",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-18T07:34:31.988499+00:00"
+    },
+    {
       "tweet": "Did you see that Claude design update on HN? It's literally just us building stuff to replace ourselves.",
       "original_url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
       "buzz_score": 75,
@@ -979,28 +957,6 @@
       "source": "Men's Health Sex",
       "category": "sex",
       "added_at": "2026-04-18T04:58:03.983949+00:00"
-    },
-    {
-      "tweet": "Arsenal literally lit a fire at their training ground to motivate the players. Whatever works, I guess.",
-      "original_url": "https://www.bbc.com/sport/football/articles/ckge7n0lgkzo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Arsenal light training ground fire to inspire players",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-18T04:58:03.983417+00:00"
-    },
-    {
-      "tweet": "Ice Spice said that fight at McDonald's wouldn't happen at Wendy's. Honestly, she's probably right.",
-      "original_url": "https://www.rollingstone.com/music/music-news/ice-spice-mcdonalds-wouldnt-happen-at-wendys-1235549917/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Ice Spice Quips on McDonald’s Scuffle: ‘This Wouldn’t Happen at Wendy’s’",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-04-18T04:58:03.983413+00:00"
     },
     {
       "tweet": "Starmer actually fired a guy for not clearing security checks involving that whole Epstein associate situation. How do you even let that slide past you in the first place.",
@@ -1034,6 +990,28 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-17T21:59:14.041831+00:00"
+    },
+    {
+      "tweet": "Arsenal literally lit a fire at their training ground to motivate the players. Whatever works, I guess.",
+      "original_url": "https://www.bbc.com/sport/football/articles/ckge7n0lgkzo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Arsenal light training ground fire to inspire players",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-18T04:58:03.983417+00:00"
+    },
+    {
+      "tweet": "Ice Spice said that fight at McDonald's wouldn't happen at Wendy's. Honestly, she's probably right.",
+      "original_url": "https://www.rollingstone.com/music/music-news/ice-spice-mcdonalds-wouldnt-happen-at-wendys-1235549917/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Ice Spice Quips on McDonald’s Scuffle: ‘This Wouldn’t Happen at Wendy’s’",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-04-18T04:58:03.983413+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 429,
+    "total_posted": 431,
     "total_collected": 1356
   },
-  "last_posted_at": "2026-04-18T12:44:10.933549+00:00"
+  "last_posted_at": "2026-04-18T13:54:03.847910+00:00"
 }
