@@ -2,28 +2,6 @@
   "last_collected": "2026-04-18T22:22:55.049759+00:00",
   "queue": [
     {
-      "tweet": "Bro, people are going absolutely feral over the new Claude design. It’s wild how much we care about the UI of a thing that literally just thinks for us. Whatever, it looks cool.",
-      "original_url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Claude Design",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-18T22:22:55.048573+00:00"
-    },
-    {
-      "tweet": "Spurs are still in the bottom three after that Rutter goal. Like, how are they this bad with that roster?",
-      "original_url": "https://www.bbc.com/sport/football/videos/cr41772xd92o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Rutter scores late equaliser to deny Spurs crucial win",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-18T22:22:55.048590+00:00"
-    },
-    {
       "tweet": "Those Moon Child devs are back and just laughing at the shitposts. You gotta respect them for not taking it seriously at all.",
       "original_url": "https://kotaku.com/developers-of-moon-child-resurface-to-bask-in-all-the-shitposts-amiga-prototype-2000688827",
       "buzz_score": 75,
@@ -101,17 +79,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "The star of Pragmata had to keep his role secret for two years. Could you imagine having that kind of news and not being able to say a word.",
-      "original_url": "https://www.polygon.com/pragmata-hugh-actor-david-menkin-interview-profile/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Pragmata star reveals the top secret process he 'had to mourn' alone",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-18T17:57:17.580215+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -123,15 +90,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Hold on, US officials are in Havana trying to tell Cuba how to run their economy. Like the Trump admin has the magic touch for that right now. Give me a break.",
-      "original_url": "https://www.nytimes.com/2026/04/18/world/americas/us-officials-cuba-trump.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
+      "tweet": "The star of Pragmata had to keep his role secret for two years. Could you imagine having that kind of news and not being able to say a word.",
+      "original_url": "https://www.polygon.com/pragmata-hugh-actor-david-menkin-interview-profile/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "U.S. Officials Visited Havana to Lay Out Proposals for Cuban Reforms",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-18T22:22:55.048585+00:00"
+      "original_title": "Pragmata star reveals the top secret process he 'had to mourn' alone",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-18T17:57:17.580215+00:00"
     },
     {
       "tweet": "Bro, Qwen3.6 is finally out and it’s actually writing code for me now. I’m gonna be out of a job by Tuesday.",
@@ -299,26 +266,15 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "That 'independent' energy group just got caught taking a million from the coal lobby. It’s always the same playbook, man.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/19/energy-for-australians-accepted-1m-coal-australia-independent-claims",
-      "buzz_score": 80,
+      "tweet": "Hold on, US officials are in Havana trying to tell Cuba how to run their economy. Like the Trump admin has the magic touch for that right now. Give me a break.",
+      "original_url": "https://www.nytimes.com/2026/04/18/world/americas/us-officials-cuba-trump.html",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "‘Independent’ group Energy for Australians that ran anti-Labor ads received more than $1m from coal lobby",
-      "source": "The Guardian",
+      "original_title": "U.S. Officials Visited Havana to Lay Out Proposals for Cuban Reforms",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-04-18T22:22:55.048874+00:00"
-    },
-    {
-      "tweet": "Did you see that Titanic life jacket just sold for nine hundred grand? Like, I know it’s history and all, but someone paid a luxury car price for some old, wet fabric. Crazy.",
-      "original_url": "https://www.npr.org/2026/04/18/nx-s1-5789909/life-jacket-titanic-auction",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Life jacket worn by a passenger who survived the Titanic auctioned off for over $900,000",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-18T22:22:55.048579+00:00"
+      "added_at": "2026-04-18T22:22:55.048585+00:00"
     },
     {
       "tweet": "WrestleMania 42 is gonna have thirteen matches over two nights. That's just a workout.",
@@ -563,15 +519,26 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Everyone’s back on that Asimov story 'The Last Question' again. It’s the kind of thing you read once at sixteen and then talk about like it’s a religious text.",
-      "original_url": "https://hex.ooo/library/last_question.html",
-      "buzz_score": 75,
+      "tweet": "That 'independent' energy group just got caught taking a million from the coal lobby. It’s always the same playbook, man.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/19/energy-for-australians-accepted-1m-coal-australia-independent-claims",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Isaac Asimov: The Last Question (1956)",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-18T22:22:55.049122+00:00"
+      "original_title": "‘Independent’ group Energy for Australians that ran anti-Labor ads received more than $1m from coal lobby",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-18T22:22:55.048874+00:00"
+    },
+    {
+      "tweet": "Did you see that Titanic life jacket just sold for nine hundred grand? Like, I know it’s history and all, but someone paid a luxury car price for some old, wet fabric. Crazy.",
+      "original_url": "https://www.npr.org/2026/04/18/nx-s1-5789909/life-jacket-titanic-auction",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Life jacket worn by a passenger who survived the Titanic auctioned off for over $900,000",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-18T22:22:55.048579+00:00"
     },
     {
       "tweet": "Found an article explaining what DTM means. We really need a guide for three-letter slang now.",
@@ -783,6 +750,17 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
+      "tweet": "Everyone’s back on that Asimov story 'The Last Question' again. It’s the kind of thing you read once at sixteen and then talk about like it’s a religious text.",
+      "original_url": "https://hex.ooo/library/last_question.html",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Isaac Asimov: The Last Question (1956)",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-18T22:22:55.049122+00:00"
+    },
+    {
       "tweet": "Machado gave her Nobel medal to Trump after he captured Maduro. The audacity is something else.",
       "original_url": "https://www.aljazeera.com/news/2026/4/18/no-regrets-venezuelas-machado-defends-giving-nobel-medal-to-trump?traffic_source=rss",
       "buzz_score": 90,
@@ -803,39 +781,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-18T17:57:17.579266+00:00"
-    },
-    {
-      "tweet": "Hold on, Charles Dance is in The Batman Part 2 now? That’s actually huge.",
-      "original_url": "https://www.polygon.com/batman-part-2-charles-dance/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The Batman Part 2 adds a critical new cast member on Superman Day",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-18T19:59:03.194608+00:00"
-    },
-    {
-      "tweet": "Ice Spice is out here saying her McDonald’s fight wouldn’t have happened at Wendy’s. Imagine the frosties.",
-      "original_url": "https://www.billboard.com/music/music-news/ice-spice-mcdonalds-fight-wendys-comment-1236226248/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Ice Spice Jokes That Her McDonald’s Fight ‘Wouldn’t Happen at Wendy’s’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-18T19:59:03.193786+00:00"
-    },
-    {
-      "tweet": "United actually beat Chelsea today. Cunha scored and suddenly everyone is acting like they’re winning the whole thing.",
-      "original_url": "https://www.aljazeera.com/sports/2026/4/18/manchester-united-beat-chelsea-as-cunha-strike-boosts-champions-league-hope?traffic_source=rss",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Manchester United beat Chelsea as Cunha strike boosts Champions League hope",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-18T22:22:55.048594+00:00"
     },
     {
       "tweet": "Pakistan managing the US-Iran talks is a weird timeline. Things are moving fast",
@@ -915,6 +860,50 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "Hold on, Charles Dance is in The Batman Part 2 now? That’s actually huge.",
+      "original_url": "https://www.polygon.com/batman-part-2-charles-dance/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Batman Part 2 adds a critical new cast member on Superman Day",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-18T19:59:03.194608+00:00"
+    },
+    {
+      "tweet": "Ice Spice is out here saying her McDonald’s fight wouldn’t have happened at Wendy’s. Imagine the frosties.",
+      "original_url": "https://www.billboard.com/music/music-news/ice-spice-mcdonalds-fight-wendys-comment-1236226248/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Ice Spice Jokes That Her McDonald’s Fight ‘Wouldn’t Happen at Wendy’s’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-18T19:59:03.193786+00:00"
+    },
+    {
+      "tweet": "United actually beat Chelsea today. Cunha scored and suddenly everyone is acting like they’re winning the whole thing.",
+      "original_url": "https://www.aljazeera.com/sports/2026/4/18/manchester-united-beat-chelsea-as-cunha-strike-boosts-champions-league-hope?traffic_source=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Manchester United beat Chelsea as Cunha strike boosts Champions League hope",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-18T22:22:55.048594+00:00"
+    },
+    {
+      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T03:59:38.753282+00:00"
+    },
+    {
       "tweet": "Hollywood announced like ten sequels during E3 week. Zero original ideas left.",
       "original_url": "https://kotaku.com/cinemacon-2026-top-gun-spaceballs-mcu-star-wars-2000688808",
       "buzz_score": 75,
@@ -946,17 +935,6 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-18T19:59:03.193779+00:00"
-    },
-    {
-      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T03:59:38.753282+00:00"
     },
     {
       "tweet": "So apparently the Pope had to go on record saying his comments about tyrants weren't about Trump. Everyone knows exactly who he meant.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 452,
+    "total_posted": 454,
     "total_collected": 1415
   },
-  "last_posted_at": "2026-04-18T23:10:06.952413+00:00"
+  "last_posted_at": "2026-04-18T23:58:08.518338+00:00"
 }
