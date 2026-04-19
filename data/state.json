@@ -2,28 +2,6 @@
   "last_collected": "2026-04-19T20:39:19.473349+00:00",
   "queue": [
     {
-      "tweet": "Found out eight legendary albums were recorded in under a week. We really act like we need three years and a soundproofed fortress just to track some drums.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/famous-albums-recorded-in-less-than-a-week?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "8 Famous Albums Recorded in Less Than a Week",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-19T18:33:54.253671+00:00"
-    },
-    {
-      "tweet": "That village in Borneo just burned down overnight. Entire place gone just like that.",
-      "original_url": "https://www.nytimes.com/2026/04/19/world/asia/coastal-village-fire-borneo-malaysia.html",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fire Destroys Most of Coastal Village in Malaysia",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-19T18:33:54.254967+00:00"
-    },
-    {
       "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
       "buzz_score": 95,
@@ -57,17 +35,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "City just beat Arsenal and now it's a three point game with a game in hand. Absolute chaos.",
-      "original_url": "https://www.bbc.com/sport/football/videos/c203ek521wno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Man City beat Arsenal to close gap in title race",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-19T20:39:19.472048+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -77,6 +44,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "City just beat Arsenal and now it's a three point game with a game in hand. Absolute chaos.",
+      "original_url": "https://www.bbc.com/sport/football/videos/c203ek521wno?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Man City beat Arsenal to close gap in title race",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-19T20:39:19.472048+00:00"
     },
     {
       "tweet": "Bro, Qwen3.6 is finally out and it’s actually writing code for me now. I’m gonna be out of a job by Tuesday.",
@@ -264,28 +242,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-19T20:39:19.472037+00:00"
-    },
-    {
-      "tweet": "People keep talking about how Israel and Iran were friends way back when. Why does it feel like we're just cycling through the same disasters?",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/iran-and-israel-from-friends-to-enemies?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran and Israel: From friends to enemies",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-19T18:33:54.255089+00:00"
-    },
-    {
-      "tweet": "Ukraine police chief resigned because his officers allegedly bailed during a shooting. That's a hell of a way to admit you're in the wrong line of work.",
-      "original_url": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Ukraine police chief resigns after officers allegedly fled deadly shooting",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-19T18:33:54.253678+00:00"
     },
     {
       "tweet": "WrestleMania 42 is gonna have thirteen matches over two nights. That's just a workout.",
@@ -530,26 +486,26 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Counterterrorism police in the UK are investigating those attacks on Jewish sites. When does the world just take a collective breath?",
-      "original_url": "https://www.nytimes.com/2026/04/19/world/europe/arson-london-synagogue-jew-antsemitism.html",
-      "buzz_score": 80,
+      "tweet": "People keep talking about how Israel and Iran were friends way back when. Why does it feel like we're just cycling through the same disasters?",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/iran-and-israel-from-friends-to-enemies?traffic_source=rss",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "British Counterterrorism Police Investigating Attacks Against Jewish Sites",
-      "source": "NYT World",
+      "original_title": "Iran and Israel: From friends to enemies",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-04-19T18:33:54.254846+00:00"
+      "added_at": "2026-04-19T18:33:54.255089+00:00"
     },
     {
-      "tweet": "Cardi B almost canceled that Atlanta show 'cause of the venue staff. Is it really that hard to just be cool for one night?",
-      "original_url": "https://www.billboard.com/music/music-news/cardi-b-nearly-cancels-atlanta-show-clash-venue-staff-1236226538/",
-      "buzz_score": 80,
+      "tweet": "Ukraine police chief resigned because his officers allegedly bailed during a shooting. That's a hell of a way to admit you're in the wrong line of work.",
+      "original_url": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Cardi B Nearly Pulls Plug on Atlanta Concert After Heated Backstage Clash With Venue Staff",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-19T18:33:54.253683+00:00"
+      "original_title": "Ukraine police chief resigns after officers allegedly fled deadly shooting",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-19T18:33:54.253678+00:00"
     },
     {
       "tweet": "Those Moon Child devs are back and just laughing at the shitposts. You gotta respect them for not taking it seriously at all.",
@@ -783,26 +739,26 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "Liverpool got that hundredth-minute winner against Everton and people are acting like the job is done. Honestly, we just love the drama.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c9qd94rzr01o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
+      "tweet": "Counterterrorism police in the UK are investigating those attacks on Jewish sites. When does the world just take a collective breath?",
+      "original_url": "https://www.nytimes.com/2026/04/19/world/europe/arson-london-synagogue-jew-antsemitism.html",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Dream derby result for Liverpool fans but huge summer ahead for Slot",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-19T18:33:54.254090+00:00"
+      "original_title": "British Counterterrorism Police Investigating Attacks Against Jewish Sites",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-19T18:33:54.254846+00:00"
     },
     {
-      "tweet": "CinemaCon is out here showing off Avengers and Dune while the gaming industry is just dead silent. We really peaked with E3.",
-      "original_url": "https://www.polygon.com/patch-notes-e3-hype-cinemacon-pragmata/",
-      "buzz_score": 85,
+      "tweet": "Cardi B almost canceled that Atlanta show 'cause of the venue staff. Is it really that hard to just be cool for one night?",
+      "original_url": "https://www.billboard.com/music/music-news/cardi-b-nearly-cancels-atlanta-show-clash-venue-staff-1236226538/",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "CinemaCon news makes me miss the peak era of E3 hype",
-      "source": "Polygon",
+      "original_title": "Cardi B Nearly Pulls Plug on Atlanta Concert After Heated Backstage Clash With Venue Staff",
+      "source": "Billboard",
       "category": "entertainment",
-      "added_at": "2026-04-19T15:52:58.173437+00:00"
+      "added_at": "2026-04-19T18:33:54.253683+00:00"
     },
     {
       "tweet": "NASA just shut off another instrument on Voyager 1 to keep it running. It's hanging on for dear life.",
@@ -915,6 +871,28 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "Liverpool got that hundredth-minute winner against Everton and people are acting like the job is done. Honestly, we just love the drama.",
+      "original_url": "https://www.bbc.com/sport/football/articles/c9qd94rzr01o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Dream derby result for Liverpool fans but huge summer ahead for Slot",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-19T18:33:54.254090+00:00"
+    },
+    {
+      "tweet": "CinemaCon is out here showing off Avengers and Dune while the gaming industry is just dead silent. We really peaked with E3.",
+      "original_url": "https://www.polygon.com/patch-notes-e3-hype-cinemacon-pragmata/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "CinemaCon news makes me miss the peak era of E3 hype",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-19T15:52:58.173437+00:00"
+    },
+    {
       "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
       "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
       "buzz_score": 88,
@@ -924,6 +902,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-11T03:59:38.753282+00:00"
+    },
+    {
+      "tweet": "My brother just sent me a Disney quiz to prove if I’m a fan. I literally couldn't name a single side character. I’m cooked.",
+      "original_url": "https://www.mentalfloss.com/entertainment/disney/disney-quiz-trivia-questions?utm_source=RSS",
+      "buzz_score": 65,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Best Disney Quiz Questions to Test If You’re a Real Fan",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-18T22:22:55.049632+00:00"
     },
     {
       "tweet": "Watches and Wonders had some insane releases this year. I'm just looking at the price tags and remembering why I don't own a yacht.",
@@ -957,17 +946,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-19T15:52:58.173275+00:00"
-    },
-    {
-      "tweet": "My brother just sent me a Disney quiz to prove if I’m a fan. I literally couldn't name a single side character. I’m cooked.",
-      "original_url": "https://www.mentalfloss.com/entertainment/disney/disney-quiz-trivia-questions?utm_source=RSS",
-      "buzz_score": 65,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Best Disney Quiz Questions to Test If You’re a Real Fan",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-18T22:22:55.049632+00:00"
     },
     {
       "tweet": "Saw this thing about a guy still buying his wife presents even though she has dementia and doesn't remember. That's just love, man.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 482,
+    "total_posted": 484,
     "total_collected": 1512
   },
-  "last_posted_at": "2026-04-19T20:45:54.549444+00:00"
+  "last_posted_at": "2026-04-19T21:13:24.845669+00:00"
 }
