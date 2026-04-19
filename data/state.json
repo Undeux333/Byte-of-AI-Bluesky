@@ -2,28 +2,6 @@
   "last_collected": "2026-04-19T07:47:03.785564+00:00",
   "queue": [
     {
-      "tweet": "NJ Transit is seriously charging 150 bucks for a 15-minute train ride. That's just a shakedown.",
-      "original_url": "https://hypebeast.com/2026/4/fifa-2026-world-cup-fans-hit-with-150-nj-transit",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "\"A Chilling Effect\": FIFA COO Heimo Schirgi Slams NJ Transit’s $150 USD Fare Hike",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-19T07:47:03.784899+00:00"
-    },
-    {
-      "tweet": "Did you hear about Ben Roberts-Smith? He's actually fighting those war crime charges. The audacity.",
-      "original_url": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australia's most-decorated soldier vows to 'fight' war crime charges",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-19T07:47:03.784335+00:00"
-    },
-    {
       "tweet": "Lord Byron just had pet bears and secret memoirs we'll never see. We all know that one guy.",
       "original_url": "https://www.mentalfloss.com/literature/authors/lord-byron-facts?utm_source=RSS",
       "buzz_score": 75,
@@ -893,17 +871,6 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
-      "tweet": "Jamal Murray went 16 for 16 from the line against the Wolves. The guy didn't miss once. Literally unguardable.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48527044/murray-16-16-night-line-lifts-nuggets-game-1-win",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Murray's FT dominance irks Wolves, lifts Nuggets",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-19T01:26:56.036550+00:00"
-    },
-    {
       "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
       "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
       "buzz_score": 88,
@@ -924,6 +891,17 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-18T22:22:55.049632+00:00"
+    },
+    {
+      "tweet": "Jamal Murray went 16 for 16 from the line against the Wolves. The guy didn't miss once. Literally unguardable.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48527044/murray-16-16-night-line-lifts-nuggets-game-1-win",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Murray's FT dominance irks Wolves, lifts Nuggets",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-19T01:26:56.036550+00:00"
     },
     {
       "tweet": "Man, Carrick is actually getting Man Utd into the Champions League. Everyone spent all season saying he was finished too.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 459,
+    "total_posted": 461,
     "total_collected": 1443
   },
-  "last_posted_at": "2026-04-19T07:56:35.595642+00:00"
+  "last_posted_at": "2026-04-19T08:47:46.339332+00:00"
 }
