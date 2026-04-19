@@ -2,28 +2,6 @@
   "last_collected": "2026-04-19T18:33:54.255335+00:00",
   "queue": [
     {
-      "tweet": "Zachariah Branch gets arrested right before the draft. Dude really decided to commit career suicide a week before the league called.",
-      "original_url": "https://www.espn.com/nfl/story/_/id/48532665/nfl-draft-prospect-zachariah-branch-arrested-georgia",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "NFL draft prospect Branch arrested in Georgia",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-19T18:33:54.253966+00:00"
-    },
-    {
-      "tweet": "Seeing the reports on healthcare attacks in Iran, Lebanon and Gaza. At some point you just stop looking at the news for your own sanity.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/israeli-attacks-on-healthcare-across-iran-lebanon-and-gaza?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Israeli attacks on healthcare across Iran, Lebanon and Gaza",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-19T18:33:54.255210+00:00"
-    },
-    {
       "tweet": "Gibbs-White just dropped a hat-trick for Forest after Spurs passed on him. Watching him torch them feels like a lesson in regret.",
       "original_url": "https://www.bbc.com/sport/football/articles/cvg09l0y72no?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -112,6 +90,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
       "tweet": "People keep talking about how Israel and Iran were friends way back when. Why does it feel like we're just cycling through the same disasters?",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/iran-and-israel-from-friends-to-enemies?traffic_source=rss",
       "buzz_score": 85,
@@ -132,17 +121,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-19T18:33:54.253678+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "Bro, Qwen3.6 is finally out and it’s actually writing code for me now. I’m gonna be out of a job by Tuesday.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 476,
+    "total_posted": 478,
     "total_collected": 1496
   },
-  "last_posted_at": "2026-04-19T18:43:43.176013+00:00"
+  "last_posted_at": "2026-04-19T19:35:52.352754+00:00"
 }
