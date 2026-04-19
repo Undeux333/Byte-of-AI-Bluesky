@@ -2,28 +2,6 @@
   "last_collected": "2026-04-19T18:33:54.255335+00:00",
   "queue": [
     {
-      "tweet": "Gibbs-White just dropped a hat-trick for Forest after Spurs passed on him. Watching him torch them feels like a lesson in regret.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cvg09l0y72no?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Forest hat-trick hero plunges summer suitors Spurs into deeper danger",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-19T18:33:54.254212+00:00"
-    },
-    {
-      "tweet": "Some YouTuber just rebuilt that lost Nintendo arcade game from scratch. It’s wild what people will do when they're bored and technically gifted.",
-      "original_url": "https://kotaku.com/youtuber-reconstructs-nintendos-notoriously-rare-first-arcade-game-2000688868",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "YouTuber Reconstructs Nintendo’s Notoriously Rare First Arcade Game",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-19T18:33:54.254601+00:00"
-    },
-    {
       "tweet": "Bengals just gave Dexter Lawrence twenty-eight million for one year. That's a lot of money to be that angry at quarterbacks.",
       "original_url": "https://www.espn.com/nfl/story/_/id/48532001/bengals-sign-dt-dexter-lawrence-one-year-28m-extension",
       "buzz_score": 75,
@@ -99,28 +77,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "People keep talking about how Israel and Iran were friends way back when. Why does it feel like we're just cycling through the same disasters?",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/iran-and-israel-from-friends-to-enemies?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran and Israel: From friends to enemies",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-19T18:33:54.255089+00:00"
-    },
-    {
-      "tweet": "Ukraine police chief resigned because his officers allegedly bailed during a shooting. That's a hell of a way to admit you're in the wrong line of work.",
-      "original_url": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Ukraine police chief resigns after officers allegedly fled deadly shooting",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-19T18:33:54.253678+00:00"
     },
     {
       "tweet": "Bro, Qwen3.6 is finally out and it’s actually writing code for me now. I’m gonna be out of a job by Tuesday.",
@@ -288,26 +244,26 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Counterterrorism police in the UK are investigating those attacks on Jewish sites. When does the world just take a collective breath?",
-      "original_url": "https://www.nytimes.com/2026/04/19/world/europe/arson-london-synagogue-jew-antsemitism.html",
-      "buzz_score": 80,
+      "tweet": "People keep talking about how Israel and Iran were friends way back when. Why does it feel like we're just cycling through the same disasters?",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/iran-and-israel-from-friends-to-enemies?traffic_source=rss",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "British Counterterrorism Police Investigating Attacks Against Jewish Sites",
-      "source": "NYT World",
+      "original_title": "Iran and Israel: From friends to enemies",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-04-19T18:33:54.254846+00:00"
+      "added_at": "2026-04-19T18:33:54.255089+00:00"
     },
     {
-      "tweet": "Cardi B almost canceled that Atlanta show 'cause of the venue staff. Is it really that hard to just be cool for one night?",
-      "original_url": "https://www.billboard.com/music/music-news/cardi-b-nearly-cancels-atlanta-show-clash-venue-staff-1236226538/",
-      "buzz_score": 80,
+      "tweet": "Ukraine police chief resigned because his officers allegedly bailed during a shooting. That's a hell of a way to admit you're in the wrong line of work.",
+      "original_url": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Cardi B Nearly Pulls Plug on Atlanta Concert After Heated Backstage Clash With Venue Staff",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-19T18:33:54.253683+00:00"
+      "original_title": "Ukraine police chief resigns after officers allegedly fled deadly shooting",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-19T18:33:54.253678+00:00"
     },
     {
       "tweet": "WrestleMania 42 is gonna have thirteen matches over two nights. That's just a workout.",
@@ -552,26 +508,26 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Liverpool got that hundredth-minute winner against Everton and people are acting like the job is done. Honestly, we just love the drama.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c9qd94rzr01o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
+      "tweet": "Counterterrorism police in the UK are investigating those attacks on Jewish sites. When does the world just take a collective breath?",
+      "original_url": "https://www.nytimes.com/2026/04/19/world/europe/arson-london-synagogue-jew-antsemitism.html",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Dream derby result for Liverpool fans but huge summer ahead for Slot",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-19T18:33:54.254090+00:00"
+      "original_title": "British Counterterrorism Police Investigating Attacks Against Jewish Sites",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-19T18:33:54.254846+00:00"
     },
     {
-      "tweet": "CinemaCon is out here showing off Avengers and Dune while the gaming industry is just dead silent. We really peaked with E3.",
-      "original_url": "https://www.polygon.com/patch-notes-e3-hype-cinemacon-pragmata/",
-      "buzz_score": 85,
+      "tweet": "Cardi B almost canceled that Atlanta show 'cause of the venue staff. Is it really that hard to just be cool for one night?",
+      "original_url": "https://www.billboard.com/music/music-news/cardi-b-nearly-cancels-atlanta-show-clash-venue-staff-1236226538/",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "CinemaCon news makes me miss the peak era of E3 hype",
-      "source": "Polygon",
+      "original_title": "Cardi B Nearly Pulls Plug on Atlanta Concert After Heated Backstage Clash With Venue Staff",
+      "source": "Billboard",
       "category": "entertainment",
-      "added_at": "2026-04-19T15:52:58.173437+00:00"
+      "added_at": "2026-04-19T18:33:54.253683+00:00"
     },
     {
       "tweet": "Those Moon Child devs are back and just laughing at the shitposts. You gotta respect them for not taking it seriously at all.",
@@ -805,37 +761,26 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "Watches and Wonders had some insane releases this year. I'm just looking at the price tags and remembering why I don't own a yacht.",
-      "original_url": "https://hypebeast.com/2026/4/best-releases-watches-and-wonders-geneva-watch-week-2026",
-      "buzz_score": 70,
+      "tweet": "Liverpool got that hundredth-minute winner against Everton and people are acting like the job is done. Honestly, we just love the drama.",
+      "original_url": "https://www.bbc.com/sport/football/articles/c9qd94rzr01o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "The Best Releases of Watches and Wonders 2026",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-19T18:33:54.254724+00:00"
+      "original_title": "Dream derby result for Liverpool fans but huge summer ahead for Slot",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-19T18:33:54.254090+00:00"
     },
     {
-      "tweet": "Italy’s government is basically gonna pay lawyers bounties now to get people to leave. Wild west stuff.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/19/italian-lawyers-giorgia-meloni-wild-west-bounties-immigration",
-      "buzz_score": 80,
+      "tweet": "CinemaCon is out here showing off Avengers and Dune while the gaming industry is just dead silent. We really peaked with E3.",
+      "original_url": "https://www.polygon.com/patch-notes-e3-hype-cinemacon-pragmata/",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Italian lawyers could win ‘wild west-style bounties’ if immigration clients go home",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-19T15:52:58.173283+00:00"
-    },
-    {
-      "tweet": "Did you see Coachella this weekend? Justin Bieber and SZA just pulled up to perform like it’s nothing. Coachella stuff is just wild.",
-      "original_url": "https://www.billboard.com/music/music-news/justin-bieber-billie-eilish-coachella-weekend-two-1236226510/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Justin Bieber Serenades Billie Eilish, Duets With SZA During Guest-Filled Coachella Weekend 2 Set",
-      "source": "Billboard",
+      "original_title": "CinemaCon news makes me miss the peak era of E3 hype",
+      "source": "Polygon",
       "category": "entertainment",
-      "added_at": "2026-04-19T15:52:58.173275+00:00"
+      "added_at": "2026-04-19T15:52:58.173437+00:00"
     },
     {
       "tweet": "NASA just shut off another instrument on Voyager 1 to keep it running. It's hanging on for dear life.",
@@ -946,6 +891,39 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T16:56:43.712347+00:00"
+    },
+    {
+      "tweet": "Watches and Wonders had some insane releases this year. I'm just looking at the price tags and remembering why I don't own a yacht.",
+      "original_url": "https://hypebeast.com/2026/4/best-releases-watches-and-wonders-geneva-watch-week-2026",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Best Releases of Watches and Wonders 2026",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-19T18:33:54.254724+00:00"
+    },
+    {
+      "tweet": "Italy’s government is basically gonna pay lawyers bounties now to get people to leave. Wild west stuff.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/19/italian-lawyers-giorgia-meloni-wild-west-bounties-immigration",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Italian lawyers could win ‘wild west-style bounties’ if immigration clients go home",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-19T15:52:58.173283+00:00"
+    },
+    {
+      "tweet": "Did you see Coachella this weekend? Justin Bieber and SZA just pulled up to perform like it’s nothing. Coachella stuff is just wild.",
+      "original_url": "https://www.billboard.com/music/music-news/justin-bieber-billie-eilish-coachella-weekend-two-1236226510/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Justin Bieber Serenades Billie Eilish, Duets With SZA During Guest-Filled Coachella Weekend 2 Set",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-19T15:52:58.173275+00:00"
     },
     {
       "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 478,
+    "total_posted": 480,
     "total_collected": 1496
   },
-  "last_posted_at": "2026-04-19T19:35:52.352754+00:00"
+  "last_posted_at": "2026-04-19T20:09:27.808835+00:00"
 }
