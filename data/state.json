@@ -24,17 +24,6 @@
       "added_at": "2026-04-19T07:47:03.785305+00:00"
     },
     {
-      "tweet": "Saw this thing about a guy still buying his wife presents even though she has dementia and doesn't remember. That's just love, man.",
-      "original_url": "https://www.npr.org/2026/04/19/nx-s1-5789011/dementia-wife-husband-gift-birthday",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "She no longer remembers it's her birthday. He got her a present anyway",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-19T10:08:24.838673+00:00"
-    },
-    {
       "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
       "original_url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
       "buzz_score": 92,
@@ -44,6 +33,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-12T02:32:59.106863+00:00"
+    },
+    {
+      "tweet": "Saw this thing about a guy still buying his wife presents even though she has dementia and doesn't remember. That's just love, man.",
+      "original_url": "https://www.npr.org/2026/04/19/nx-s1-5789011/dementia-wife-husband-gift-birthday",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "She no longer remembers it's her birthday. He got her a present anyway",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-19T10:08:24.838673+00:00"
     },
     {
       "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
@@ -948,28 +948,6 @@
       "added_at": "2026-04-19T07:47:03.784508+00:00"
     },
     {
-      "tweet": "This F1 kid is out here living his dream and learning to skateboard on the side. Makes my desk job feel real slow.",
-      "original_url": "https://www.bbc.com/news/articles/c0kr27j6z2vo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "Britain's youngest F1 driver on his debut season so far - and learning to skateboard",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-19T10:08:24.839382+00:00"
-    },
-    {
-      "tweet": "Everyone in the UK is canceling their vacations because of the war. Nothing like staying home to keep things quiet.",
-      "original_url": "https://www.theguardian.com/business/2026/apr/19/britons-holiday-uk-summer-flights-iran-war",
-      "buzz_score": 70,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "More Britons opt to holiday in UK this summer amid uncertainty over flights",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-19T10:08:24.838686+00:00"
-    },
-    {
       "tweet": "Machado gave her Nobel medal to Trump after he captured Maduro. The audacity is something else.",
       "original_url": "https://www.aljazeera.com/news/2026/4/18/no-regrets-venezuelas-machado-defends-giving-nobel-medal-to-trump?traffic_source=rss",
       "buzz_score": 90,
@@ -990,6 +968,28 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-18T17:57:17.579266+00:00"
+    },
+    {
+      "tweet": "This F1 kid is out here living his dream and learning to skateboard on the side. Makes my desk job feel real slow.",
+      "original_url": "https://www.bbc.com/news/articles/c0kr27j6z2vo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Britain's youngest F1 driver on his debut season so far - and learning to skateboard",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-19T10:08:24.839382+00:00"
+    },
+    {
+      "tweet": "Everyone in the UK is canceling their vacations because of the war. Nothing like staying home to keep things quiet.",
+      "original_url": "https://www.theguardian.com/business/2026/apr/19/britons-holiday-uk-summer-flights-iran-war",
+      "buzz_score": 70,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "More Britons opt to holiday in UK this summer amid uncertainty over flights",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-19T10:08:24.838686+00:00"
     },
     {
       "tweet": "Jamal Murray went 16 for 16 from the line against the Wolves. The guy didn't miss once. Literally unguardable.",
