@@ -2,28 +2,6 @@
   "last_collected": "2026-04-19T10:08:24.840033+00:00",
   "queue": [
     {
-      "tweet": "Billy Joel released his list of his worst songs and he basically hates his own biggest hits. Funny how that works.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/billy-joel-favorite-least-favorite-billy-joel-songs?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Billy Joel's Favorite (And Least Favorite) Billy Joel Songs",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-19T10:08:24.838841+00:00"
-    },
-    {
-      "tweet": "Jalen Brunson dropping 22 in the first half for the Knicks is just absurd. We really just watch him cook at this point.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48528923/jalen-brunson-nets-28-points-knicks-outlast-hawks-game-1",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Buoyed by Brunson, Knicks seal 'hard-fought win'",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-19T07:47:03.784346+00:00"
-    },
-    {
       "tweet": "NASA just shut off another instrument on Voyager 1 to keep it running. It's hanging on for dear life.",
       "original_url": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
       "buzz_score": 70,
@@ -79,17 +57,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "The military is just straight up targeting the medics now? It's wild how we watch this happen every single day.",
-      "original_url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/19/how-the-israeli-military-targets-the-people-who-save-lives?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "How the Israeli military targets the people who save lives",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-19T10:08:24.839888+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -99,6 +66,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "The military is just straight up targeting the medics now? It's wild how we watch this happen every single day.",
+      "original_url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/19/how-the-israeli-military-targets-the-people-who-save-lives?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "How the Israeli military targets the people who save lives",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-19T10:08:24.839888+00:00"
     },
     {
       "tweet": "Bro, Qwen3.6 is finally out and it’s actually writing code for me now. I’m gonna be out of a job by Tuesday.",
@@ -915,17 +893,6 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
-      "tweet": "Morgan Wallen just brought out Ella Langley to premiere that new duet on stage. Man, that's gonna be everywhere.",
-      "original_url": "https://www.billboard.com/music/country/morgan-wallen-ella-langley-new-duet-i-cant-love-you-anymore-1236226502/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Morgan Wallen and Ella Langley Premiere New Duet, ‘I Can’t Love You Anymore’ On Stage",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-19T07:47:03.784344+00:00"
-    },
-    {
       "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
       "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
       "buzz_score": 88,
@@ -935,6 +902,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-11T03:59:38.753282+00:00"
+    },
+    {
+      "tweet": "Morgan Wallen just brought out Ella Langley to premiere that new duet on stage. Man, that's gonna be everywhere.",
+      "original_url": "https://www.billboard.com/music/country/morgan-wallen-ella-langley-new-duet-i-cant-love-you-anymore-1236226502/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Morgan Wallen and Ella Langley Premiere New Duet, ‘I Can’t Love You Anymore’ On Stage",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-19T07:47:03.784344+00:00"
     },
     {
       "tweet": "My brother just sent me a Disney quiz to prove if I’m a fan. I literally couldn't name a single side character. I’m cooked.",
@@ -992,17 +970,6 @@
       "added_at": "2026-04-19T10:08:24.838686+00:00"
     },
     {
-      "tweet": "Jamal Murray went 16 for 16 from the line against the Wolves. The guy didn't miss once. Literally unguardable.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48527044/murray-16-16-night-line-lifts-nuggets-game-1-win",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Murray's FT dominance irks Wolves, lifts Nuggets",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-19T01:26:56.036550+00:00"
-    },
-    {
       "tweet": "Machado gave her Nobel medal to Trump after he captured Maduro. The audacity is something else.",
       "original_url": "https://www.aljazeera.com/news/2026/4/18/no-regrets-venezuelas-machado-defends-giving-nobel-medal-to-trump?traffic_source=rss",
       "buzz_score": 90,
@@ -1023,6 +990,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-18T17:57:17.579266+00:00"
+    },
+    {
+      "tweet": "Jamal Murray went 16 for 16 from the line against the Wolves. The guy didn't miss once. Literally unguardable.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48527044/murray-16-16-night-line-lifts-nuggets-game-1-win",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Murray's FT dominance irks Wolves, lifts Nuggets",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-19T01:26:56.036550+00:00"
     },
     {
       "tweet": "Man, Carrick is actually getting Man Utd into the Champions League. Everyone spent all season saying he was finished too.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 465,
+    "total_posted": 467,
     "total_collected": 1459
   },
-  "last_posted_at": "2026-04-19T10:17:39.126480+00:00"
+  "last_posted_at": "2026-04-19T11:03:17.865724+00:00"
 }
