@@ -2,28 +2,6 @@
   "last_collected": "2026-04-19T07:47:03.785564+00:00",
   "queue": [
     {
-      "tweet": "Lord Byron just had pet bears and secret memoirs we'll never see. We all know that one guy.",
-      "original_url": "https://www.mentalfloss.com/literature/authors/lord-byron-facts?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "6 Wild Facts About Lord Byron",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-19T07:47:03.785157+00:00"
-    },
-    {
-      "tweet": "Bulgarians are heading to the polls for the eighth time in five years. Like, how are they still doing this?",
-      "original_url": "https://www.aljazeera.com/news/2026/4/19/bulgarians-head-to-polls-to-elect-parliament-for-eighth-time-in-5-years?traffic_source=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Bulgarians head to polls for eighth time in five years",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-19T07:47:03.784640+00:00"
-    },
-    {
       "tweet": "Jalen Brunson dropping 22 in the first half for the Knicks is just absurd. We really just watch him cook at this point.",
       "original_url": "https://www.espn.com/nba/story/_/id/48528923/jalen-brunson-nets-28-points-knicks-outlast-hawks-game-1",
       "buzz_score": 75,
@@ -253,17 +231,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
-    },
-    {
-      "tweet": "Harry and Meghan's tour in Australia just fell totally flat. Seems like nobody cared.",
-      "original_url": "https://www.bbc.com/news/articles/cwyx014e2wqo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Harry and Meghan's trip felt like a royal tour - except many Aussies weren't interested",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-19T07:47:03.785434+00:00"
     },
     {
       "tweet": "WrestleMania 42 is gonna have thirteen matches over two nights. That's just a workout.",
@@ -508,15 +475,15 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Morgan Wallen just brought out Ella Langley to premiere that new duet on stage. Man, that's gonna be everywhere.",
-      "original_url": "https://www.billboard.com/music/country/morgan-wallen-ella-langley-new-duet-i-cant-love-you-anymore-1236226502/",
-      "buzz_score": 75,
+      "tweet": "Harry and Meghan's tour in Australia just fell totally flat. Seems like nobody cared.",
+      "original_url": "https://www.bbc.com/news/articles/cwyx014e2wqo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Morgan Wallen and Ella Langley Premiere New Duet, ‘I Can’t Love You Anymore’ On Stage",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-19T07:47:03.784344+00:00"
+      "original_title": "Harry and Meghan's trip felt like a royal tour - except many Aussies weren't interested",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-19T07:47:03.785434+00:00"
     },
     {
       "tweet": "Those Moon Child devs are back and just laughing at the shitposts. You gotta respect them for not taking it seriously at all.",
@@ -750,26 +717,15 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "WACKO MARIA is dropping a Terrifier collab. We'll buy anything if it looks cool enough.",
-      "original_url": "https://hypebeast.com/2026/4/terrifier-wacko-maria-spring-summer-ss-2026-collaboration-collection-release-info",
-      "buzz_score": 70,
+      "tweet": "Morgan Wallen just brought out Ella Langley to premiere that new duet on stage. Man, that's gonna be everywhere.",
+      "original_url": "https://www.billboard.com/music/country/morgan-wallen-ella-langley-new-duet-i-cant-love-you-anymore-1236226502/",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "WACKO MARIA Debuts Brand New ‘Terrifier’ Collaboration for SS26",
-      "source": "Hypebeast",
+      "original_title": "Morgan Wallen and Ella Langley Premiere New Duet, ‘I Can’t Love You Anymore’ On Stage",
+      "source": "Billboard",
       "category": "entertainment",
-      "added_at": "2026-04-19T07:47:03.785028+00:00"
-    },
-    {
-      "tweet": "The Bournemouth owners are trying to buy Exeter Chiefs now. Can't let the billionaire sports collectors stop.",
-      "original_url": "https://www.bbc.com/sport/rugby-union/articles/cvg0dg03402o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Bournemouth owners close to Exeter Chiefs takeover",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-19T07:47:03.784508+00:00"
+      "added_at": "2026-04-19T07:47:03.784344+00:00"
     },
     {
       "tweet": "WrestleMania 42 is live and people are losing their minds over Night One. It’s just scripted drama for dudes, but we’re still watching.",
@@ -871,6 +827,28 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "WACKO MARIA is dropping a Terrifier collab. We'll buy anything if it looks cool enough.",
+      "original_url": "https://hypebeast.com/2026/4/terrifier-wacko-maria-spring-summer-ss-2026-collaboration-collection-release-info",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "WACKO MARIA Debuts Brand New ‘Terrifier’ Collaboration for SS26",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-19T07:47:03.785028+00:00"
+    },
+    {
+      "tweet": "The Bournemouth owners are trying to buy Exeter Chiefs now. Can't let the billionaire sports collectors stop.",
+      "original_url": "https://www.bbc.com/sport/rugby-union/articles/cvg0dg03402o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Bournemouth owners close to Exeter Chiefs takeover",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-19T07:47:03.784508+00:00"
+    },
+    {
       "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
       "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
       "buzz_score": 88,
@@ -915,28 +893,6 @@
       "added_at": "2026-04-19T01:26:56.036553+00:00"
     },
     {
-      "tweet": "Hezbollah says they're cool with a ceasefire with Israel, but only if they get everything they want. Like, is that even a negotiation?",
-      "original_url": "https://www.nytimes.com/2026/04/18/world/middleeast/hezbollah-cease-fire-israel-lebanon.html",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hezbollah is willing to cooperate with a cease-fire with Israel. For now.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-19T01:26:56.036845+00:00"
-    },
-    {
-      "tweet": "Olivia Rodrigo just popped up at Coachella with Addison Rae. We’re really just living in a simulation at this point.",
-      "original_url": "https://variety.com/2026/music/news/olivia-rodrigo-addison-rae-coachella-headphones-drop-dead-1236725377/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Olivia Rodrigo Joins Addison Rae at Coachella for ‘Headphones On’ and Live Debut of New Single ‘Drop Dead’",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-19T01:26:56.036558+00:00"
-    },
-    {
       "tweet": "Machado gave her Nobel medal to Trump after he captured Maduro. The audacity is something else.",
       "original_url": "https://www.aljazeera.com/news/2026/4/18/no-regrets-venezuelas-machado-defends-giving-nobel-medal-to-trump?traffic_source=rss",
       "buzz_score": 90,
@@ -957,6 +913,28 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-18T17:57:17.579266+00:00"
+    },
+    {
+      "tweet": "Hezbollah says they're cool with a ceasefire with Israel, but only if they get everything they want. Like, is that even a negotiation?",
+      "original_url": "https://www.nytimes.com/2026/04/18/world/middleeast/hezbollah-cease-fire-israel-lebanon.html",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hezbollah is willing to cooperate with a cease-fire with Israel. For now.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-19T01:26:56.036845+00:00"
+    },
+    {
+      "tweet": "Olivia Rodrigo just popped up at Coachella with Addison Rae. We’re really just living in a simulation at this point.",
+      "original_url": "https://variety.com/2026/music/news/olivia-rodrigo-addison-rae-coachella-headphones-drop-dead-1236725377/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Olivia Rodrigo Joins Addison Rae at Coachella for ‘Headphones On’ and Live Debut of New Single ‘Drop Dead’",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-19T01:26:56.036558+00:00"
     },
     {
       "tweet": "Hold on, US officials are in Havana trying to tell Cuba how to run their economy. Like the Trump admin has the magic touch for that right now. Give me a break.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 461,
+    "total_posted": 463,
     "total_collected": 1443
   },
-  "last_posted_at": "2026-04-19T08:47:46.339332+00:00"
+  "last_posted_at": "2026-04-19T09:36:12.255955+00:00"
 }
