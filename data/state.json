@@ -2,6 +2,17 @@
   "last_collected": "2026-04-19T10:08:24.840033+00:00",
   "queue": [
     {
+      "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "UK’s Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing St",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251727+00:00"
+    },
+    {
       "tweet": "NASA just shut off another instrument on Voyager 1 to keep it running. It's hanging on for dear life.",
       "original_url": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
       "buzz_score": 70,
@@ -22,17 +33,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-04-19T10:08:24.838673+00:00"
-    },
-    {
-      "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "UK’s Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing St",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251727+00:00"
     },
     {
       "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
@@ -66,17 +66,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "The military is just straight up targeting the medics now? It's wild how we watch this happen every single day.",
-      "original_url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/19/how-the-israeli-military-targets-the-people-who-save-lives?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "How the Israeli military targets the people who save lives",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-19T10:08:24.839888+00:00"
     },
     {
       "tweet": "Bro, Qwen3.6 is finally out and it’s actually writing code for me now. I’m gonna be out of a job by Tuesday.",
@@ -242,6 +231,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
+    },
+    {
+      "tweet": "The military is just straight up targeting the medics now? It's wild how we watch this happen every single day.",
+      "original_url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/19/how-the-israeli-military-targets-the-people-who-save-lives?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "How the Israeli military targets the people who save lives",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-19T10:08:24.839888+00:00"
     },
     {
       "tweet": "WrestleMania 42 is gonna have thirteen matches over two nights. That's just a workout.",
@@ -486,50 +486,6 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Turns out men and women are just wired for different things according to some study. Finally, some common sense.",
-      "original_url": "https://www.psypost.org/men-and-women-show-different-relative-cognitive-strengths-across-their-lifespans/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Men and women show different relative cognitive strengths across their lifespans",
-      "source": "PsyPost",
-      "category": "psychology",
-      "added_at": "2026-04-19T10:08:24.839509+00:00"
-    },
-    {
-      "tweet": "Bulgaria is on their eighth election in five years. At this point I don't think they're even trying to hide the clown show anymore.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/19/bulgaria-election-rumen-radev-boyko-borissov",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Bulgaria votes as pro-Russian former president leads in the polls",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-19T10:08:24.838684+00:00"
-    },
-    {
-      "tweet": "They finally scored a goal using that daylight offside rule in Canada. It looks so weird, dude.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c04xk952zd4o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "First 'daylight' offside goal scored in Canada",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-19T10:08:24.838682+00:00"
-    },
-    {
-      "tweet": "So apparently Gen Z is actually trying to fix things in Nepal. Guess we're finally running out of patience for the same old trash.",
-      "original_url": "https://www.nytimes.com/2026/04/19/world/asia/nepal-elections-gen-z-balen-shah.html",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Gen Z Looks to Nepal as a Test Case of Its Hopes",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-19T10:08:24.838676+00:00"
-    },
-    {
       "tweet": "Those Moon Child devs are back and just laughing at the shitposts. You gotta respect them for not taking it seriously at all.",
       "original_url": "https://kotaku.com/developers-of-moon-child-resurface-to-bask-in-all-the-shitposts-amiga-prototype-2000688827",
       "buzz_score": 75,
@@ -761,37 +717,48 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "Harry and Meghan's tour in Australia just fell totally flat. Seems like nobody cared.",
-      "original_url": "https://www.bbc.com/news/articles/cwyx014e2wqo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
+      "tweet": "Turns out men and women are just wired for different things according to some study. Finally, some common sense.",
+      "original_url": "https://www.psypost.org/men-and-women-show-different-relative-cognitive-strengths-across-their-lifespans/",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Harry and Meghan's trip felt like a royal tour - except many Aussies weren't interested",
-      "source": "BBC World",
+      "original_title": "Men and women show different relative cognitive strengths across their lifespans",
+      "source": "PsyPost",
+      "category": "psychology",
+      "added_at": "2026-04-19T10:08:24.839509+00:00"
+    },
+    {
+      "tweet": "Bulgaria is on their eighth election in five years. At this point I don't think they're even trying to hide the clown show anymore.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/19/bulgaria-election-rumen-radev-boyko-borissov",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Bulgaria votes as pro-Russian former president leads in the polls",
+      "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-04-19T07:47:03.785434+00:00"
+      "added_at": "2026-04-19T10:08:24.838684+00:00"
     },
     {
-      "tweet": "They're making fans now that follow you around the room? We're just paying for laziness at this point.",
-      "original_url": "https://www.wired.com/story/the-best-fans-2026/",
-      "buzz_score": 70,
+      "tweet": "They finally scored a goal using that daylight offside rule in Canada. It looks so weird, dude.",
+      "original_url": "https://www.bbc.com/sport/football/articles/c04xk952zd4o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "The 11 Best Fans to Buy Before It Gets Hot Again (2026)",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-04-19T10:08:24.838995+00:00"
-    },
-    {
-      "tweet": "Hold on, PSG is trying to poach Martinelli from Arsenal? If that actually happens I'm done.",
-      "original_url": "https://www.espn.com/soccer/story/_/id/48529699/transfer-rumors-news-psg-move-arsenal-star-gabriel-martinelli",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Transfer rumors, news: PSG move for Arsenal star Martinelli",
-      "source": "ESPN",
+      "original_title": "First 'daylight' offside goal scored in Canada",
+      "source": "BBC Sport",
       "category": "sports",
-      "added_at": "2026-04-19T10:08:24.838679+00:00"
+      "added_at": "2026-04-19T10:08:24.838682+00:00"
+    },
+    {
+      "tweet": "So apparently Gen Z is actually trying to fix things in Nepal. Guess we're finally running out of patience for the same old trash.",
+      "original_url": "https://www.nytimes.com/2026/04/19/world/asia/nepal-elections-gen-z-balen-shah.html",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Gen Z Looks to Nepal as a Test Case of Its Hopes",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-19T10:08:24.838676+00:00"
     },
     {
       "tweet": "WrestleMania 42 is live and people are losing their minds over Night One. It’s just scripted drama for dudes, but we’re still watching.",
@@ -893,6 +860,39 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "Harry and Meghan's tour in Australia just fell totally flat. Seems like nobody cared.",
+      "original_url": "https://www.bbc.com/news/articles/cwyx014e2wqo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Harry and Meghan's trip felt like a royal tour - except many Aussies weren't interested",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-19T07:47:03.785434+00:00"
+    },
+    {
+      "tweet": "They're making fans now that follow you around the room? We're just paying for laziness at this point.",
+      "original_url": "https://www.wired.com/story/the-best-fans-2026/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The 11 Best Fans to Buy Before It Gets Hot Again (2026)",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-04-19T10:08:24.838995+00:00"
+    },
+    {
+      "tweet": "Hold on, PSG is trying to poach Martinelli from Arsenal? If that actually happens I'm done.",
+      "original_url": "https://www.espn.com/soccer/story/_/id/48529699/transfer-rumors-news-psg-move-arsenal-star-gabriel-martinelli",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Transfer rumors, news: PSG move for Arsenal star Martinelli",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-19T10:08:24.838679+00:00"
+    },
+    {
       "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
       "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
       "buzz_score": 88,
@@ -904,17 +904,6 @@
       "added_at": "2026-04-11T03:59:38.753282+00:00"
     },
     {
-      "tweet": "Morgan Wallen just brought out Ella Langley to premiere that new duet on stage. Man, that's gonna be everywhere.",
-      "original_url": "https://www.billboard.com/music/country/morgan-wallen-ella-langley-new-duet-i-cant-love-you-anymore-1236226502/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Morgan Wallen and Ella Langley Premiere New Duet, ‘I Can’t Love You Anymore’ On Stage",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-19T07:47:03.784344+00:00"
-    },
-    {
       "tweet": "My brother just sent me a Disney quiz to prove if I’m a fan. I literally couldn't name a single side character. I’m cooked.",
       "original_url": "https://www.mentalfloss.com/entertainment/disney/disney-quiz-trivia-questions?utm_source=RSS",
       "buzz_score": 65,
@@ -924,6 +913,17 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-18T22:22:55.049632+00:00"
+    },
+    {
+      "tweet": "Morgan Wallen just brought out Ella Langley to premiere that new duet on stage. Man, that's gonna be everywhere.",
+      "original_url": "https://www.billboard.com/music/country/morgan-wallen-ella-langley-new-duet-i-cant-love-you-anymore-1236226502/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Morgan Wallen and Ella Langley Premiere New Duet, ‘I Can’t Love You Anymore’ On Stage",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-19T07:47:03.784344+00:00"
     },
     {
       "tweet": "WACKO MARIA is dropping a Terrifier collab. We'll buy anything if it looks cool enough.",
