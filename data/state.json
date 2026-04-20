@@ -2,28 +2,6 @@
   "last_collected": "2026-04-20T08:59:51.756960+00:00",
   "queue": [
     {
-      "tweet": "Wemby is literally carrying the Spurs right now. Playoffs are just different.",
-      "original_url": "https://www.bbc.com/sport/basketball/articles/cz907v58k0jo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Wembanyama stars for Spurs as Thunder and Celtics win",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-20T08:59:51.756576+00:00"
-    },
-    {
-      "tweet": "Saw this thing about how we need to stop engineering our way out of listening to people. Maybe we're just bad at talking to each other.",
-      "original_url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Stop trying to engineer your way out of listening to people",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-20T08:59:51.755540+00:00"
-    },
-    {
       "tweet": "Bro, a humanoid robot just crushed the human half-marathon world record in Beijing. Ran the whole thing in 50 minutes. We're officially cooked.",
       "original_url": "https://www.npr.org/2026/04/20/g-s1-118086/humanoid-robot-half-marathon",
       "buzz_score": 85,
@@ -44,17 +22,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251727+00:00"
-    },
-    {
-      "tweet": "So apparently oil is hitting 96 bucks a barrel after we seized that Iranian cargo ship. Just casually starting a war over a boat.",
-      "original_url": "https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran War Live Updates: Oil Prices Rise as Iran Vows Retaliation for Cargo Ship Attack",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-20T08:59:51.755373+00:00"
     },
     {
       "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
@@ -90,15 +57,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "The Strokes used their whole Coachella set to call out the destruction of universities in Gaza and Iran. That's one way to use a stage.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/the-strokes-highlight-destroyed-gaza-and-iran-universities-at-coachella?traffic_source=rss",
-      "buzz_score": 82,
+      "tweet": "So apparently oil is hitting 96 bucks a barrel after we seized that Iranian cargo ship. Just casually starting a war over a boat.",
+      "original_url": "https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz",
+      "buzz_score": 90,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "The Strokes highlight destroyed Gaza and Iran universities at Coachella",
-      "source": "Al Jazeera",
+      "original_title": "Iran War Live Updates: Oil Prices Rise as Iran Vows Retaliation for Cargo Ship Attack",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-04-20T08:59:51.755953+00:00"
+      "added_at": "2026-04-20T08:59:51.755373+00:00"
     },
     {
       "tweet": "Bro, Qwen3.6 is finally out and it’s actually writing code for me now. I’m gonna be out of a job by Tuesday.",
@@ -264,28 +231,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
-    },
-    {
-      "tweet": "Hold on, this video of a kid dangling from a moving bus in Australia is insane. How do you even survive that?",
-      "original_url": "https://www.bbc.com/news/videos/c80mn1jjyvno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Watch: Trapped boy dangles from moving bus in Australia",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-20T08:59:51.756206+00:00"
-    },
-    {
-      "tweet": "Katy Perry just tossed her credit card into the Trevi Fountain for good luck. Must be nice to be that rich.",
-      "original_url": "https://www.billboard.com/music/music-news/katy-perry-rome-trevi-fountain-1236226682/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Katy Perry Tosses Credit Card Into Trevi Fountain for ‘Good Luck’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-20T08:59:51.755376+00:00"
     },
     {
       "tweet": "WrestleMania 42 is gonna have thirteen matches over two nights. That's just a workout.",
@@ -528,6 +473,39 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-08T17:48:49.217272+00:00"
+    },
+    {
+      "tweet": "The Strokes used their whole Coachella set to call out the destruction of universities in Gaza and Iran. That's one way to use a stage.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/the-strokes-highlight-destroyed-gaza-and-iran-universities-at-coachella?traffic_source=rss",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Strokes highlight destroyed Gaza and Iran universities at Coachella",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-20T08:59:51.755953+00:00"
+    },
+    {
+      "tweet": "Hold on, this video of a kid dangling from a moving bus in Australia is insane. How do you even survive that?",
+      "original_url": "https://www.bbc.com/news/videos/c80mn1jjyvno?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Watch: Trapped boy dangles from moving bus in Australia",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-20T08:59:51.756206+00:00"
+    },
+    {
+      "tweet": "Katy Perry just tossed her credit card into the Trevi Fountain for good luck. Must be nice to be that rich.",
+      "original_url": "https://www.billboard.com/music/music-news/katy-perry-rome-trevi-fountain-1236226682/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Katy Perry Tosses Credit Card Into Trevi Fountain for ‘Good Luck’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-20T08:59:51.755376+00:00"
     },
     {
       "tweet": "So apparently the market is rallying while we're on the edge of a massive war. I guess as long as the numbers stay green, nothing actually matters.",
@@ -915,6 +893,17 @@
       "added_at": "2026-04-18T22:22:55.049632+00:00"
     },
     {
+      "tweet": "Saw this thing about a guy still buying his wife presents even though she has dementia and doesn't remember. That's just love, man.",
+      "original_url": "https://www.npr.org/2026/04/19/nx-s1-5789011/dementia-wife-husband-gift-birthday",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "She no longer remembers it's her birthday. He got her a present anyway",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-19T10:08:24.838673+00:00"
+    },
+    {
       "tweet": "US just seized an Iranian ship in the Strait of Hormuz. Another day in paradise",
       "original_url": "https://www.npr.org/2026/04/19/nx-s1-5790378/iran-us-hormuz-closed-impossible",
       "buzz_score": 85,
@@ -935,28 +924,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-20T01:26:05.709641+00:00"
-    },
-    {
-      "tweet": "Saw this thing about a guy still buying his wife presents even though she has dementia and doesn't remember. That's just love, man.",
-      "original_url": "https://www.npr.org/2026/04/19/nx-s1-5789011/dementia-wife-husband-gift-birthday",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "She no longer remembers it's her birthday. He got her a present anyway",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-19T10:08:24.838673+00:00"
-    },
-    {
-      "tweet": "Billy Joel actually shared his least favorite song of his own. Always weird when the guy who made it hates his own hit",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/billy-joel-favorite-least-favorite-billy-joel-songs?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Billy Joel's Favorite (And Least Favorite) Billy Joel Songs",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-20T01:26:05.710324+00:00"
     },
     {
       "tweet": "City just beat Arsenal and now it's a three point game with a game in hand. Absolute chaos.",
@@ -992,6 +959,28 @@
       "added_at": "2026-04-19T18:33:54.253678+00:00"
     },
     {
+      "tweet": "Billy Joel actually shared his least favorite song of his own. Always weird when the guy who made it hates his own hit",
+      "original_url": "https://www.mentalfloss.com/entertainment/music/billy-joel-favorite-least-favorite-billy-joel-songs?utm_source=RSS",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Billy Joel's Favorite (And Least Favorite) Billy Joel Songs",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-20T01:26:05.710324+00:00"
+    },
+    {
+      "tweet": "Bro, a humanoid robot just crushed a half-marathon in Beijing. We're training robots to outrun us now. Terrifying.",
+      "original_url": "https://www.nytimes.com/2026/04/19/world/asia/running-robot-sets-record.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "A Humanoid Robot Races to a Record Half-Marathon Finish",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-19T23:02:01.168658+00:00"
+    },
+    {
       "tweet": "Thunder took game one and they’re acting like the Suns are gonna get better. That's cold",
       "original_url": "https://www.espn.com/nba/story/_/id/48536050/oklahoma-city-thunder-dominant-opener-rout-phoenix-suns",
       "buzz_score": 75,
@@ -1023,17 +1012,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-20T08:59:51.756452+00:00"
-    },
-    {
-      "tweet": "Bro, a humanoid robot just crushed a half-marathon in Beijing. We're training robots to outrun us now. Terrifying.",
-      "original_url": "https://www.nytimes.com/2026/04/19/world/asia/running-robot-sets-record.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "A Humanoid Robot Races to a Record Half-Marathon Finish",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-19T23:02:01.168658+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 494,
+    "total_posted": 496,
     "total_collected": 1556
   },
-  "last_posted_at": "2026-04-20T09:06:24.385531+00:00"
+  "last_posted_at": "2026-04-20T10:54:12.709936+00:00"
 }
