@@ -2,17 +2,6 @@
   "last_collected": "2026-04-20T17:34:31.336068+00:00",
   "queue": [
     {
-      "tweet": "Ticketmaster has to pay 9.9 million for those hidden fees in D.C. They made billions doing it, so I guess this is just the cost of doing business for them now.",
-      "original_url": "https://www.billboard.com/pro/live-nation-ticketmaster-pay-9-9m-settle-hidden-fee-claims/",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Live Nation & Ticketmaster To Pay $9.9M to Settle Claims Over ‘Predatory’ Hidden Fees to D.C. Fans",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-20T17:34:31.335138+00:00"
-    },
-    {
       "tweet": "So apparently Atlassian is just turning on data collection to train their AI by default now. Guess they just decided we all signed up to be their training data. Typical.",
       "original_url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
       "buzz_score": 85,
@@ -46,6 +35,17 @@
       "added_at": "2026-04-20T17:34:31.335816+00:00"
     },
     {
+      "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "UK’s Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing St",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251727+00:00"
+    },
+    {
       "tweet": "Cam Schlittler is getting threats just for starting against the Red Sox. People really need to touch grass, it's just a game.",
       "original_url": "https://www.espn.com/mlb/story/_/id/48541741/yankees-cam-schlittler-amid-threats-excited-face-red-sox",
       "buzz_score": 80,
@@ -66,17 +66,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-20T17:34:31.335130+00:00"
-    },
-    {
-      "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "UK’s Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing St",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251727+00:00"
     },
     {
       "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
@@ -915,17 +904,6 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
-      "tweet": "IKEA is bringing back inflatable furniture. We’re officially running out of new ideas and just recycling the 90s.",
-      "original_url": "https://hypebeast.com/2026/4/ikea-ps-2026-collection-inflatable-furniture-milan-design-week",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "IKEA is Bringing Back Inflatable Furniture",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-20T11:59:26.548970+00:00"
-    },
-    {
       "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
       "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
       "buzz_score": 88,
@@ -946,6 +924,28 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-18T22:22:55.049632+00:00"
+    },
+    {
+      "tweet": "IKEA is bringing back inflatable furniture. We’re officially running out of new ideas and just recycling the 90s.",
+      "original_url": "https://hypebeast.com/2026/4/ikea-ps-2026-collection-inflatable-furniture-milan-design-week",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "IKEA is Bringing Back Inflatable Furniture",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-20T11:59:26.548970+00:00"
+    },
+    {
+      "tweet": "Saw this thing about a guy still buying his wife presents even though she has dementia and doesn't remember. That's just love, man.",
+      "original_url": "https://www.npr.org/2026/04/19/nx-s1-5789011/dementia-wife-husband-gift-birthday",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "She no longer remembers it's her birthday. He got her a present anyway",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-19T10:08:24.838673+00:00"
     },
     {
       "tweet": "Wait, the new One Piece chapter is literally impossible to understand because of a translation error. Guess we're waiting for the edit.",
@@ -979,17 +979,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-20T08:59:51.755373+00:00"
-    },
-    {
-      "tweet": "Saw this thing about a guy still buying his wife presents even though she has dementia and doesn't remember. That's just love, man.",
-      "original_url": "https://www.npr.org/2026/04/19/nx-s1-5789011/dementia-wife-husband-gift-birthday",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "She no longer remembers it's her birthday. He got her a present anyway",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-19T10:08:24.838673+00:00"
     },
     {
       "tweet": "Barry Cable was cleared of those charges even though the judge thought the victim was telling the truth. How does that even work",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 502,
+    "total_posted": 503,
     "total_collected": 1583
   },
-  "last_posted_at": "2026-04-20T17:43:06.504595+00:00"
+  "last_posted_at": "2026-04-20T18:40:32.299604+00:00"
 }
