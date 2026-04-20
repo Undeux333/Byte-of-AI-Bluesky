@@ -13,28 +13,6 @@
       "added_at": "2026-04-09T07:14:41.251727+00:00"
     },
     {
-      "tweet": "So apparently the market is rallying while we're on the edge of a massive war. I guess as long as the numbers stay green, nothing actually matters.",
-      "original_url": "https://www.nytimes.com/2026/04/19/world/iran-war-stock-market-hormuz-attack.html",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Messy War, Happy Stock Markets",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-19T23:02:01.168661+00:00"
-    },
-    {
-      "tweet": "Dude, Switzerland is actually trying to kick Microsoft to the curb. Imagine trying to run an entire country's tech stack and realizing you're just paying for an endless subscription. Good luck.",
-      "original_url": "https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Swiss authorities want to reduce dependency on Microsoft",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-19T23:02:01.168648+00:00"
-    },
-    {
       "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
       "original_url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
       "buzz_score": 92,
@@ -231,6 +209,28 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
+    },
+    {
+      "tweet": "So apparently the market is rallying while we're on the edge of a massive war. I guess as long as the numbers stay green, nothing actually matters.",
+      "original_url": "https://www.nytimes.com/2026/04/19/world/iran-war-stock-market-hormuz-attack.html",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Messy War, Happy Stock Markets",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-19T23:02:01.168661+00:00"
+    },
+    {
+      "tweet": "Dude, Switzerland is actually trying to kick Microsoft to the curb. Imagine trying to run an entire country's tech stack and realizing you're just paying for an endless subscription. Good luck.",
+      "original_url": "https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Swiss authorities want to reduce dependency on Microsoft",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-19T23:02:01.168648+00:00"
     },
     {
       "tweet": "WrestleMania 42 is gonna have thirteen matches over two nights. That's just a workout.",
@@ -475,28 +475,6 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "US just seized an Iranian ship in the Strait of Hormuz. Another day in paradise",
-      "original_url": "https://www.npr.org/2026/04/19/nx-s1-5790378/iran-us-hormuz-closed-impossible",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "U.S. seizes Iranian cargo ship in Strait of Hormuz",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-20T01:26:05.710448+00:00"
-    },
-    {
-      "tweet": "So apparently the Army is bumping the enlistment age up to 42 now. Like, what are we actually doing here",
-      "original_url": "https://www.aljazeera.com/news/2026/4/20/whats-behind-the-us-armys-decision-to-raise-enlistment-age-to-42?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "What’s behind the US army’s decision to raise enlistment age to 42?",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-20T01:26:05.709641+00:00"
-    },
-    {
       "tweet": "Those Moon Child devs are back and just laughing at the shitposts. You gotta respect them for not taking it seriously at all.",
       "original_url": "https://kotaku.com/developers-of-moon-child-resurface-to-bask-in-all-the-shitposts-amiga-prototype-2000688827",
       "buzz_score": 75,
@@ -728,17 +706,6 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "Billy Joel actually shared his least favorite song of his own. Always weird when the guy who made it hates his own hit",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/billy-joel-favorite-least-favorite-billy-joel-songs?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Billy Joel's Favorite (And Least Favorite) Billy Joel Songs",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-20T01:26:05.710324+00:00"
-    },
-    {
       "tweet": "NASA just shut off another instrument on Voyager 1 to keep it running. It's hanging on for dear life.",
       "original_url": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
       "buzz_score": 70,
@@ -849,6 +816,28 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "US just seized an Iranian ship in the Strait of Hormuz. Another day in paradise",
+      "original_url": "https://www.npr.org/2026/04/19/nx-s1-5790378/iran-us-hormuz-closed-impossible",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "U.S. seizes Iranian cargo ship in Strait of Hormuz",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-20T01:26:05.710448+00:00"
+    },
+    {
+      "tweet": "So apparently the Army is bumping the enlistment age up to 42 now. Like, what are we actually doing here",
+      "original_url": "https://www.aljazeera.com/news/2026/4/20/whats-behind-the-us-armys-decision-to-raise-enlistment-age-to-42?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "What’s behind the US army’s decision to raise enlistment age to 42?",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-20T01:26:05.709641+00:00"
+    },
+    {
       "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
       "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
       "buzz_score": 88,
@@ -858,6 +847,28 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-11T03:59:38.753282+00:00"
+    },
+    {
+      "tweet": "My brother just sent me a Disney quiz to prove if I’m a fan. I literally couldn't name a single side character. I’m cooked.",
+      "original_url": "https://www.mentalfloss.com/entertainment/disney/disney-quiz-trivia-questions?utm_source=RSS",
+      "buzz_score": 65,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Best Disney Quiz Questions to Test If You’re a Real Fan",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-18T22:22:55.049632+00:00"
+    },
+    {
+      "tweet": "Billy Joel actually shared his least favorite song of his own. Always weird when the guy who made it hates his own hit",
+      "original_url": "https://www.mentalfloss.com/entertainment/music/billy-joel-favorite-least-favorite-billy-joel-songs?utm_source=RSS",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Billy Joel's Favorite (And Least Favorite) Billy Joel Songs",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-20T01:26:05.710324+00:00"
     },
     {
       "tweet": "Thunder took game one and they’re acting like the Suns are gonna get better. That's cold",
@@ -882,15 +893,15 @@
       "added_at": "2026-04-20T01:26:05.709646+00:00"
     },
     {
-      "tweet": "My brother just sent me a Disney quiz to prove if I’m a fan. I literally couldn't name a single side character. I’m cooked.",
-      "original_url": "https://www.mentalfloss.com/entertainment/disney/disney-quiz-trivia-questions?utm_source=RSS",
-      "buzz_score": 65,
-      "buzz_score2": 95,
+      "tweet": "Saw this thing about a guy still buying his wife presents even though she has dementia and doesn't remember. That's just love, man.",
+      "original_url": "https://www.npr.org/2026/04/19/nx-s1-5789011/dementia-wife-husband-gift-birthday",
+      "buzz_score": 80,
+      "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "The Best Disney Quiz Questions to Test If You’re a Real Fan",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-18T22:22:55.049632+00:00"
+      "original_title": "She no longer remembers it's her birthday. He got her a present anyway",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-19T10:08:24.838673+00:00"
     },
     {
       "tweet": "Bro, a humanoid robot just crushed a half-marathon in Beijing. We're training robots to outrun us now. Terrifying.",
@@ -904,17 +915,6 @@
       "added_at": "2026-04-19T23:02:01.168658+00:00"
     },
     {
-      "tweet": "Saw this thing about a guy still buying his wife presents even though she has dementia and doesn't remember. That's just love, man.",
-      "original_url": "https://www.npr.org/2026/04/19/nx-s1-5789011/dementia-wife-husband-gift-birthday",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "She no longer remembers it's her birthday. He got her a present anyway",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-19T10:08:24.838673+00:00"
-    },
-    {
       "tweet": "City just beat Arsenal and now it's a three point game with a game in hand. Absolute chaos.",
       "original_url": "https://www.bbc.com/sport/football/videos/c203ek521wno?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -924,6 +924,28 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-19T20:39:19.472048+00:00"
+    },
+    {
+      "tweet": "People keep talking about how Israel and Iran were friends way back when. Why does it feel like we're just cycling through the same disasters?",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/iran-and-israel-from-friends-to-enemies?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iran and Israel: From friends to enemies",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-19T18:33:54.255089+00:00"
+    },
+    {
+      "tweet": "Ukraine police chief resigned because his officers allegedly bailed during a shooting. That's a hell of a way to admit you're in the wrong line of work.",
+      "original_url": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Ukraine police chief resigns after officers allegedly fled deadly shooting",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-19T18:33:54.253678+00:00"
     },
     {
       "tweet": "Yo, they caught some woman in LA running an arms trafficking ring for the Iranian government. Out of all places, she's doing that in California.",
@@ -959,39 +981,6 @@
       "added_at": "2026-04-19T20:39:19.472037+00:00"
     },
     {
-      "tweet": "Eddie Murphy finally got that AFI lifetime achievement award. Seeing everyone line up to pay respects to the GOAT is wild, man. Makes me feel old.",
-      "original_url": "https://www.billboard.com/culture/tv-film/eddie-murphy-afi-lifetime-achievement-award-2026-1236226587/",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Eddie Murphy Receives AFI Lifetime Achievement Award in Star-Filled Tribute",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-19T23:02:01.168663+00:00"
-    },
-    {
-      "tweet": "People keep talking about how Israel and Iran were friends way back when. Why does it feel like we're just cycling through the same disasters?",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/iran-and-israel-from-friends-to-enemies?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran and Israel: From friends to enemies",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-19T18:33:54.255089+00:00"
-    },
-    {
-      "tweet": "Ukraine police chief resigned because his officers allegedly bailed during a shooting. That's a hell of a way to admit you're in the wrong line of work.",
-      "original_url": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Ukraine police chief resigns after officers allegedly fled deadly shooting",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-19T18:33:54.253678+00:00"
-    },
-    {
       "tweet": "Counterterrorism police in the UK are investigating those attacks on Jewish sites. When does the world just take a collective breath?",
       "original_url": "https://www.nytimes.com/2026/04/19/world/europe/arson-london-synagogue-jew-antsemitism.html",
       "buzz_score": 80,
@@ -1012,6 +1001,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-19T18:33:54.253683+00:00"
+    },
+    {
+      "tweet": "Eddie Murphy finally got that AFI lifetime achievement award. Seeing everyone line up to pay respects to the GOAT is wild, man. Makes me feel old.",
+      "original_url": "https://www.billboard.com/culture/tv-film/eddie-murphy-afi-lifetime-achievement-award-2026-1236226587/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Eddie Murphy Receives AFI Lifetime Achievement Award in Star-Filled Tribute",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-19T23:02:01.168663+00:00"
     }
   ],
   "seen_urls": [
