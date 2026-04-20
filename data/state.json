@@ -2,17 +2,6 @@
   "last_collected": "2026-04-20T22:00:37.740832+00:00",
   "queue": [
     {
-      "tweet": "Starfield was the best-selling game in the US the week it hit PS5. Took them long enough to let everyone else play.",
-      "original_url": "https://kotaku.com/starfield-best-selling-game-ps5-launch-2000689070",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Starfield Was The Best-Selling Game In The U.S. During The Week It Finally Arrived On PS5",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-20T22:00:37.739956+00:00"
-    },
-    {
       "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
       "buzz_score": 95,
@@ -24,17 +13,6 @@
       "added_at": "2026-04-09T07:14:41.251727+00:00"
     },
     {
-      "tweet": "Elon Musk just completely snubbed that legal summons in France. The guy literally acts like the law is just a suggestion.",
-      "original_url": "https://www.theguardian.com/technology/2026/apr/20/french-prosecutors-summon-elon-musk-over-alleged-child-abuse-images-on-x",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Elon Musk snubs Paris legal summons over alleged child abuse images on X",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-20T22:00:37.739705+00:00"
-    },
-    {
       "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
       "original_url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
       "buzz_score": 92,
@@ -44,6 +22,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-12T02:32:59.106863+00:00"
+    },
+    {
+      "tweet": "Elon Musk just completely snubbed that legal summons in France. The guy literally acts like the law is just a suggestion.",
+      "original_url": "https://www.theguardian.com/technology/2026/apr/20/french-prosecutors-summon-elon-musk-over-alleged-child-abuse-images-on-x",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Elon Musk snubs Paris legal summons over alleged child abuse images on X",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-20T22:00:37.739705+00:00"
     },
     {
       "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
@@ -66,17 +55,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Woolworths is actually in court right now over those fake discounts they were running on Tim Tams and baby rice. Like we didn't notice the price hike before the sale.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/21/consumer-watchdog-accc-supermarket-woolworths-court-hearings-australia",
-      "buzz_score": 85,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Consumer watchdog zeroes in on Woolworths’ allegedly fake discounts as it meets supermarket giant in court",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-20T17:34:31.335816+00:00"
     },
     {
       "tweet": "Bro, Qwen3.6 is finally out and it’s actually writing code for me now. I’m gonna be out of a job by Tuesday.",
@@ -244,6 +222,17 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
+      "tweet": "Woolworths is actually in court right now over those fake discounts they were running on Tim Tams and baby rice. Like we didn't notice the price hike before the sale.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/21/consumer-watchdog-accc-supermarket-woolworths-court-hearings-australia",
+      "buzz_score": 85,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Consumer watchdog zeroes in on Woolworths’ allegedly fake discounts as it meets supermarket giant in court",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-20T17:34:31.335816+00:00"
+    },
+    {
       "tweet": "Wait, did you hear about that Iranian ship the US just intercepted? Stuff is getting real tense over there.",
       "original_url": "https://www.bbc.com/news/articles/c75kg0vdxyro?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -264,28 +253,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-20T22:00:37.739388+00:00"
-    },
-    {
-      "tweet": "Cam Schlittler is getting threats just for starting against the Red Sox. People really need to touch grass, it's just a game.",
-      "original_url": "https://www.espn.com/mlb/story/_/id/48541741/yankees-cam-schlittler-amid-threats-excited-face-red-sox",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Amid threats, Yanks' Schlittler excited to face Sox",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-20T17:34:31.335443+00:00"
-    },
-    {
-      "tweet": "The government is finally refunding those tariffs, but somehow consumers won't see a dime of that 160 billion. Love how the companies get the check while we just keep paying the markup.",
-      "original_url": "https://www.bbc.com/news/articles/c7vqgge5g8lo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Trump tariff refunds begin but consumers likely to miss out",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-20T17:34:31.335130+00:00"
     },
     {
       "tweet": "WrestleMania 42 is gonna have thirteen matches over two nights. That's just a workout.",
@@ -530,6 +497,28 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
+      "tweet": "Cam Schlittler is getting threats just for starting against the Red Sox. People really need to touch grass, it's just a game.",
+      "original_url": "https://www.espn.com/mlb/story/_/id/48541741/yankees-cam-schlittler-amid-threats-excited-face-red-sox",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Amid threats, Yanks' Schlittler excited to face Sox",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-20T17:34:31.335443+00:00"
+    },
+    {
+      "tweet": "The government is finally refunding those tariffs, but somehow consumers won't see a dime of that 160 billion. Love how the companies get the check while we just keep paying the markup.",
+      "original_url": "https://www.bbc.com/news/articles/c7vqgge5g8lo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Trump tariff refunds begin but consumers likely to miss out",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-20T17:34:31.335130+00:00"
+    },
+    {
       "tweet": "Reading about those theories on how Poe actually died. Man, the dude's life was just a trip.",
       "original_url": "https://www.mentalfloss.com/literature/poetry/unsettling-theories-edgar-allan-poe-death-experts-can-t-explain?utm_source=RSS",
       "buzz_score": 75,
@@ -561,17 +550,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-04-20T22:00:37.739392+00:00"
-    },
-    {
-      "tweet": "So apparently oil prices are jumping again because Trump said an Iranian ship got seized. Back to that whole thing again.",
-      "original_url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Oil prices rise after Trump says Iranian ship seized",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-20T19:43:39.175467+00:00"
     },
     {
       "tweet": "So apparently the market is rallying while we're on the edge of a massive war. I guess as long as the numbers stay green, nothing actually matters.",
@@ -827,26 +805,15 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "Report says Gaza is gonna need 71 billion for recovery. That’s just a wild number to wrap your head around.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/20/report-finds-gaza-needs-more-than-71bn-in-next-decade-for-recovery?traffic_source=rss",
-      "buzz_score": 75,
+      "tweet": "So apparently oil prices are jumping again because Trump said an Iranian ship got seized. Back to that whole thing again.",
+      "original_url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Report finds Gaza needs more than $71bn in next decade for recovery",
-      "source": "Al Jazeera",
+      "original_title": "Oil prices rise after Trump says Iranian ship seized",
+      "source": "BBC World",
       "category": "world",
-      "added_at": "2026-04-20T19:43:39.175755+00:00"
-    },
-    {
-      "tweet": "Elon Musk is just straight up ghosting French prosecutors now. Guess he’s not really into the whole regulation thing.",
-      "original_url": "https://www.nytimes.com/2026/04/20/world/europe/elon-musk-ignores-french-summons.html",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Elon Musk Ignores French Prosecutors, Widening Tech Rift With Europe",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-20T19:43:39.175470+00:00"
+      "added_at": "2026-04-20T19:43:39.175467+00:00"
     },
     {
       "tweet": "NASA just shut off another instrument on Voyager 1 to keep it running. It's hanging on for dear life.",
@@ -959,6 +926,28 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "Report says Gaza is gonna need 71 billion for recovery. That’s just a wild number to wrap your head around.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/20/report-finds-gaza-needs-more-than-71bn-in-next-decade-for-recovery?traffic_source=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Report finds Gaza needs more than $71bn in next decade for recovery",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-20T19:43:39.175755+00:00"
+    },
+    {
+      "tweet": "Elon Musk is just straight up ghosting French prosecutors now. Guess he’s not really into the whole regulation thing.",
+      "original_url": "https://www.nytimes.com/2026/04/20/world/europe/elon-musk-ignores-french-summons.html",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Elon Musk Ignores French Prosecutors, Widening Tech Rift With Europe",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-20T19:43:39.175470+00:00"
+    },
+    {
       "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
       "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
       "buzz_score": 88,
@@ -979,6 +968,17 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-18T22:22:55.049632+00:00"
+    },
+    {
+      "tweet": "Saw this thing about a guy still buying his wife presents even though she has dementia and doesn't remember. That's just love, man.",
+      "original_url": "https://www.npr.org/2026/04/19/nx-s1-5789011/dementia-wife-husband-gift-birthday",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "She no longer remembers it's her birthday. He got her a present anyway",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-19T10:08:24.838673+00:00"
     },
     {
       "tweet": "Oscar Isaac was apparently fighting for his life to make that Palpatine line in the last Star Wars not sound like a total joke. Some things you just can't save.",
@@ -1012,17 +1012,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-20T17:34:31.335135+00:00"
-    },
-    {
-      "tweet": "Saw this thing about a guy still buying his wife presents even though she has dementia and doesn't remember. That's just love, man.",
-      "original_url": "https://www.npr.org/2026/04/19/nx-s1-5789011/dementia-wife-husband-gift-birthday",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "She no longer remembers it's her birthday. He got her a present anyway",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-19T10:08:24.838673+00:00"
     },
     {
       "tweet": "So apparently oil is hitting 96 bucks a barrel after we seized that Iranian cargo ship. Just casually starting a war over a boat.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 510,
+    "total_posted": 511,
     "total_collected": 1609
   },
-  "last_posted_at": "2026-04-20T22:07:10.233115+00:00"
+  "last_posted_at": "2026-04-20T22:46:04.215850+00:00"
 }
