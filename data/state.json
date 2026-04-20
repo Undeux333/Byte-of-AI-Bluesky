@@ -453,17 +453,6 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "IKEA is bringing back inflatable furniture. We’re officially running out of new ideas and just recycling the 90s.",
-      "original_url": "https://hypebeast.com/2026/4/ikea-ps-2026-collection-inflatable-furniture-milan-design-week",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "IKEA is Bringing Back Inflatable Furniture",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-20T11:59:26.548970+00:00"
-    },
-    {
       "tweet": "So apparently the market is rallying while we're on the edge of a massive war. I guess as long as the numbers stay green, nothing actually matters.",
       "original_url": "https://www.nytimes.com/2026/04/19/world/iran-war-stock-market-hormuz-attack.html",
       "buzz_score": 75,
@@ -717,37 +706,15 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "Wait, the new One Piece chapter is literally impossible to understand because of a translation error. Guess we're waiting for the edit.",
-      "original_url": "https://www.polygon.com/one-piece-1180-imu-omen-powers-zoro-sanji/",
-      "buzz_score": 80,
+      "tweet": "IKEA is bringing back inflatable furniture. We’re officially running out of new ideas and just recycling the 90s.",
+      "original_url": "https://hypebeast.com/2026/4/ikea-ps-2026-collection-inflatable-furniture-milan-design-week",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "One Piece chapter 1180 reveals Imu's true power but it's lost in translation",
-      "source": "Polygon",
+      "original_title": "IKEA is Bringing Back Inflatable Furniture",
+      "source": "Hypebeast",
       "category": "entertainment",
-      "added_at": "2026-04-20T11:59:26.549094+00:00"
-    },
-    {
-      "tweet": "Hold on, we're seizing an Iranian ship while also trying to fly a team over to start peace talks. Who thought that was the right play",
-      "original_url": "https://www.npr.org/2026/04/20/nx-s1-5791256/iran-middle-east-updates",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Peace talks in doubt as U.S. seizes Iranian ship",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-20T11:59:26.548549+00:00"
-    },
-    {
-      "tweet": "So apparently oil is hitting 96 bucks a barrel after we seized that Iranian cargo ship. Just casually starting a war over a boat.",
-      "original_url": "https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran War Live Updates: Oil Prices Rise as Iran Vows Retaliation for Cargo Ship Attack",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-20T08:59:51.755373+00:00"
+      "added_at": "2026-04-20T11:59:26.548970+00:00"
     },
     {
       "tweet": "NASA just shut off another instrument on Voyager 1 to keep it running. It's hanging on for dear life.",
@@ -860,6 +827,61 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
+      "tweet": "Wait, the new One Piece chapter is literally impossible to understand because of a translation error. Guess we're waiting for the edit.",
+      "original_url": "https://www.polygon.com/one-piece-1180-imu-omen-powers-zoro-sanji/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "One Piece chapter 1180 reveals Imu's true power but it's lost in translation",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-20T11:59:26.549094+00:00"
+    },
+    {
+      "tweet": "Hold on, we're seizing an Iranian ship while also trying to fly a team over to start peace talks. Who thought that was the right play",
+      "original_url": "https://www.npr.org/2026/04/20/nx-s1-5791256/iran-middle-east-updates",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Peace talks in doubt as U.S. seizes Iranian ship",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-20T11:59:26.548549+00:00"
+    },
+    {
+      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-11T03:59:38.753282+00:00"
+    },
+    {
+      "tweet": "So apparently oil is hitting 96 bucks a barrel after we seized that Iranian cargo ship. Just casually starting a war over a boat.",
+      "original_url": "https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iran War Live Updates: Oil Prices Rise as Iran Vows Retaliation for Cargo Ship Attack",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-20T08:59:51.755373+00:00"
+    },
+    {
+      "tweet": "My brother just sent me a Disney quiz to prove if I’m a fan. I literally couldn't name a single side character. I’m cooked.",
+      "original_url": "https://www.mentalfloss.com/entertainment/disney/disney-quiz-trivia-questions?utm_source=RSS",
+      "buzz_score": 65,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Best Disney Quiz Questions to Test If You’re a Real Fan",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-18T22:22:55.049632+00:00"
+    },
+    {
       "tweet": "Barry Cable was cleared of those charges even though the judge thought the victim was telling the truth. How does that even work",
       "original_url": "https://www.theguardian.com/australia-news/2026/apr/20/former-footballer-barry-cable-cleared-of-historic-child-sex-abuse-charges",
       "buzz_score": 75,
@@ -893,26 +915,15 @@
       "added_at": "2026-04-20T11:59:26.548553+00:00"
     },
     {
-      "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
-      "buzz_score": 88,
+      "tweet": "Saw this thing about a guy still buying his wife presents even though she has dementia and doesn't remember. That's just love, man.",
+      "original_url": "https://www.npr.org/2026/04/19/nx-s1-5789011/dementia-wife-husband-gift-birthday",
+      "buzz_score": 80,
       "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "Redick: 'Everybody' wants to face hobbled Lakers",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-11T03:59:38.753282+00:00"
-    },
-    {
-      "tweet": "My brother just sent me a Disney quiz to prove if I’m a fan. I literally couldn't name a single side character. I’m cooked.",
-      "original_url": "https://www.mentalfloss.com/entertainment/disney/disney-quiz-trivia-questions?utm_source=RSS",
-      "buzz_score": 65,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Best Disney Quiz Questions to Test If You’re a Real Fan",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-18T22:22:55.049632+00:00"
+      "original_title": "She no longer remembers it's her birthday. He got her a present anyway",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-19T10:08:24.838673+00:00"
     },
     {
       "tweet": "The Strokes used their whole Coachella set to call out the destruction of universities in Gaza and Iran. That's one way to use a stage.",
@@ -990,17 +1001,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-20T08:59:51.755376+00:00"
-    },
-    {
-      "tweet": "Saw this thing about a guy still buying his wife presents even though she has dementia and doesn't remember. That's just love, man.",
-      "original_url": "https://www.npr.org/2026/04/19/nx-s1-5789011/dementia-wife-husband-gift-birthday",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "She no longer remembers it's her birthday. He got her a present anyway",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-19T10:08:24.838673+00:00"
     },
     {
       "tweet": "Venezuela’s Machado is trying to align with Spain’s right wing. Politics really makes for some weird roommates.",
