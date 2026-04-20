@@ -2,17 +2,6 @@
   "last_collected": "2026-04-20T19:43:39.176476+00:00",
   "queue": [
     {
-      "tweet": "JD Vance is leading a delegation to Pakistan if Iran agrees to talks? That’s definitely a pivot.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/20/jd-vance-to-lead-us-delegation-in-pakistan-if-iran-agrees-to-talks",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "JD Vance to lead US delegation in Pakistan if Iran agrees to talks",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-20T19:43:39.176096+00:00"
-    },
-    {
       "tweet": "So apparently Atlassian is just turning on data collection to train their AI by default now. Guess they just decided we all signed up to be their training data. Typical.",
       "original_url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
       "buzz_score": 85,
@@ -79,6 +68,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
       "tweet": "Cam Schlittler is getting threats just for starting against the Red Sox. People really need to touch grass, it's just a game.",
       "original_url": "https://www.espn.com/mlb/story/_/id/48541741/yankees-cam-schlittler-amid-threats-excited-face-red-sox",
       "buzz_score": 80,
@@ -99,17 +99,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-20T17:34:31.335130+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "Bro, Qwen3.6 is finally out and it’s actually writing code for me now. I’m gonna be out of a job by Tuesday.",
@@ -805,39 +794,6 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "Oscar Isaac was apparently fighting for his life to make that Palpatine line in the last Star Wars not sound like a total joke. Some things you just can't save.",
-      "original_url": "https://kotaku.com/oscar-isaac-tried-really-hard-to-make-star-wars-episode-9-palpatine-line-not-sound-dum-2000689083",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Oscar Isaac Tried Really Hard To Make Star Wars Episode 9 Palpatine Line Not Sound Dumb",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-20T17:34:31.335943+00:00"
-    },
-    {
-      "tweet": "The Cowboys actually made Brandon Aubrey the highest-paid kicker in history. Kicker, man.",
-      "original_url": "https://www.espn.com/nfl/story/_/id/48542115/cowboys-give-brandon-aubrey-4-year-deal-averaging-7m-per-season",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Cowboys make Aubrey NFL's highest-paid kicker",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-20T17:34:31.335315+00:00"
-    },
-    {
-      "tweet": "People are actually heading back home to southern Lebanon now that the truce is holding. Just wild to think about having to rebuild your whole life from scratch like that.",
-      "original_url": "https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz/in-lebanon-residents-of-the-south-make-their-way-home-over-signs-of-war",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "In Lebanon, residents of the south make their way home over signs of war.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-20T17:34:31.335135+00:00"
-    },
-    {
       "tweet": "NASA just shut off another instrument on Voyager 1 to keep it running. It's hanging on for dear life.",
       "original_url": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
       "buzz_score": 70,
@@ -946,6 +902,39 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T16:56:43.712347+00:00"
+    },
+    {
+      "tweet": "Oscar Isaac was apparently fighting for his life to make that Palpatine line in the last Star Wars not sound like a total joke. Some things you just can't save.",
+      "original_url": "https://kotaku.com/oscar-isaac-tried-really-hard-to-make-star-wars-episode-9-palpatine-line-not-sound-dum-2000689083",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Oscar Isaac Tried Really Hard To Make Star Wars Episode 9 Palpatine Line Not Sound Dumb",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-20T17:34:31.335943+00:00"
+    },
+    {
+      "tweet": "The Cowboys actually made Brandon Aubrey the highest-paid kicker in history. Kicker, man.",
+      "original_url": "https://www.espn.com/nfl/story/_/id/48542115/cowboys-give-brandon-aubrey-4-year-deal-averaging-7m-per-season",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Cowboys make Aubrey NFL's highest-paid kicker",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-20T17:34:31.335315+00:00"
+    },
+    {
+      "tweet": "People are actually heading back home to southern Lebanon now that the truce is holding. Just wild to think about having to rebuild your whole life from scratch like that.",
+      "original_url": "https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz/in-lebanon-residents-of-the-south-make-their-way-home-over-signs-of-war",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "In Lebanon, residents of the south make their way home over signs of war.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-20T17:34:31.335135+00:00"
     },
     {
       "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 505,
+    "total_posted": 506,
     "total_collected": 1593
   },
-  "last_posted_at": "2026-04-20T19:52:04.247874+00:00"
+  "last_posted_at": "2026-04-20T20:26:25.795146+00:00"
 }
