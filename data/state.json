@@ -2,28 +2,6 @@
   "last_collected": "2026-04-21T08:15:28.701379+00:00",
   "queue": [
     {
-      "tweet": "Woolworths is in court 'cause they allegedly faked their marketing magic. It’s always just a lie for the margins",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/21/woolworths-price-drop-marketing-trick-customers-accc-court",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Woolworths engaged in ‘marketing magic’ to trick customers, consumer watchdog tells court",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-21T08:15:28.700600+00:00"
-    },
-    {
-      "tweet": "Rudy Gobert really decided to lock up Jokic the same day he got snubbed for DPOY. Petty energy is undefeated",
-      "original_url": "https://www.espn.com/nba/story/_/id/48547786/timberwolves-rally-nuggets-win-game-2-even-series",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Gobert carries DPOY snub into Jokic matchup, win",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-21T08:15:28.699925+00:00"
-    },
-    {
       "tweet": "Bro, Kimi K2.6 is actually wild. You spend five minutes coding now and the AI does the rest. Just feels like cheating",
       "original_url": "https://www.kimi.com/blog/kimi-k2-6",
       "buzz_score": 85,
@@ -242,39 +220,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
-    },
-    {
-      "tweet": "Dude, the guy behind BTS is getting arrested for fraud. Imagine going from global pop stardom to a holding cell",
-      "original_url": "https://www.theguardian.com/world/2026/apr/21/south-korea-music-executive-bang-si-hyuk-k-pop-bts-police",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Music executive behind K-pop group BTS faces arrest in South Korea",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-21T08:15:28.700471+00:00"
-    },
-    {
-      "tweet": "Violent Soho is back after four years. We’re really getting old, man",
-      "original_url": "https://www.billboard.com/music/rock/violent-soho-announce-2026-australian-tour-1236227543/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Violent Soho Announce 2026 Australian Tour Following Four-Year Hiatus",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-21T08:15:28.699764+00:00"
-    },
-    {
-      "tweet": "So Japan is officially done with that post-WW2 pacifism thing. Guess they finally realized selling weapons is just too much money to leave on the table",
-      "original_url": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Japan loosens arms export rules in break from post-WW2 pacifism",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-21T08:15:28.699758+00:00"
     },
     {
       "tweet": "WrestleMania 42 is gonna have thirteen matches over two nights. That's just a workout.",
@@ -517,6 +462,39 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-08T17:48:49.217272+00:00"
+    },
+    {
+      "tweet": "Dude, the guy behind BTS is getting arrested for fraud. Imagine going from global pop stardom to a holding cell",
+      "original_url": "https://www.theguardian.com/world/2026/apr/21/south-korea-music-executive-bang-si-hyuk-k-pop-bts-police",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Music executive behind K-pop group BTS faces arrest in South Korea",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-21T08:15:28.700471+00:00"
+    },
+    {
+      "tweet": "Violent Soho is back after four years. We’re really getting old, man",
+      "original_url": "https://www.billboard.com/music/rock/violent-soho-announce-2026-australian-tour-1236227543/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Violent Soho Announce 2026 Australian Tour Following Four-Year Hiatus",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-21T08:15:28.699764+00:00"
+    },
+    {
+      "tweet": "So Japan is officially done with that post-WW2 pacifism thing. Guess they finally realized selling weapons is just too much money to leave on the table",
+      "original_url": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Japan loosens arms export rules in break from post-WW2 pacifism",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-21T08:15:28.699758+00:00"
     },
     {
       "tweet": "So apparently the market is rallying while we're on the edge of a massive war. I guess as long as the numbers stay green, nothing actually matters.",
@@ -937,6 +915,17 @@
       "added_at": "2026-04-20T17:34:31.335130+00:00"
     },
     {
+      "tweet": "Elon Musk just completely snubbed that legal summons in France. The guy literally acts like the law is just a suggestion.",
+      "original_url": "https://www.theguardian.com/technology/2026/apr/20/french-prosecutors-summon-elon-musk-over-alleged-child-abuse-images-on-x",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Elon Musk snubs Paris legal summons over alleged child abuse images on X",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-20T22:00:37.739705+00:00"
+    },
+    {
       "tweet": "People are actually out here building fake star economies on GitHub just to look important. That's a sad hobby.",
       "original_url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
       "buzz_score": 80,
@@ -948,15 +937,26 @@
       "added_at": "2026-04-21T01:09:11.942863+00:00"
     },
     {
-      "tweet": "Elon Musk just completely snubbed that legal summons in France. The guy literally acts like the law is just a suggestion.",
-      "original_url": "https://www.theguardian.com/technology/2026/apr/20/french-prosecutors-summon-elon-musk-over-alleged-child-abuse-images-on-x",
-      "buzz_score": 90,
+      "tweet": "Wait, did you hear about that Iranian ship the US just intercepted? Stuff is getting real tense over there.",
+      "original_url": "https://www.bbc.com/news/articles/c75kg0vdxyro?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Elon Musk snubs Paris legal summons over alleged child abuse images on X",
-      "source": "The Guardian",
+      "original_title": "What we know about the Iranian ship seized by the US",
+      "source": "BBC World",
       "category": "world",
-      "added_at": "2026-04-20T22:00:37.739705+00:00"
+      "added_at": "2026-04-20T22:00:37.740205+00:00"
+    },
+    {
+      "tweet": "Seeing all this new anti-AI stuff popping up everywhere. Honestly, at this point we're just looking for any reason to feel human again.",
+      "original_url": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "AI Resistance: some recent anti-AI stuff that’s worth discussing",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-20T22:00:37.739388+00:00"
     },
     {
       "tweet": "Hold on, politicians in India are just carrying around fish for their campaigns now. Like, literal fish. What is going on.",
@@ -1012,28 +1012,6 @@
       "source": "Kotaku",
       "category": "entertainment",
       "added_at": "2026-04-21T01:09:11.942457+00:00"
-    },
-    {
-      "tweet": "Wait, did you hear about that Iranian ship the US just intercepted? Stuff is getting real tense over there.",
-      "original_url": "https://www.bbc.com/news/articles/c75kg0vdxyro?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "What we know about the Iranian ship seized by the US",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-20T22:00:37.740205+00:00"
-    },
-    {
-      "tweet": "Seeing all this new anti-AI stuff popping up everywhere. Honestly, at this point we're just looking for any reason to feel human again.",
-      "original_url": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "AI Resistance: some recent anti-AI stuff that’s worth discussing",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-20T22:00:37.739388+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 517,
+    "total_posted": 519,
     "total_collected": 1635
   },
-  "last_posted_at": "2026-04-21T08:24:50.072016+00:00"
+  "last_posted_at": "2026-04-21T10:01:10.613885+00:00"
 }
