@@ -706,17 +706,6 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "People are actually out here building fake star economies on GitHub just to look important. That's a sad hobby.",
-      "original_url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "GitHub's fake star economy",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-21T01:09:11.942863+00:00"
-    },
-    {
       "tweet": "NASA just shut off another instrument on Voyager 1 to keep it running. It's hanging on for dear life.",
       "original_url": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
       "buzz_score": 70,
@@ -827,17 +816,6 @@
       "added_at": "2026-04-09T16:56:43.712347+00:00"
     },
     {
-      "tweet": "Elon Musk just completely snubbed that legal summons in France. The guy literally acts like the law is just a suggestion.",
-      "original_url": "https://www.theguardian.com/technology/2026/apr/20/french-prosecutors-summon-elon-musk-over-alleged-child-abuse-images-on-x",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Elon Musk snubs Paris legal summons over alleged child abuse images on X",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-20T22:00:37.739705+00:00"
-    },
-    {
       "tweet": "JJ Redick said everyone’s trying to play the Lakers in the first round since they’re banged up. Honestly, tell us something we don't know.",
       "original_url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
       "buzz_score": 88,
@@ -847,6 +825,50 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-11T03:59:38.753282+00:00"
+    },
+    {
+      "tweet": "My brother just sent me a Disney quiz to prove if I’m a fan. I literally couldn't name a single side character. I’m cooked.",
+      "original_url": "https://www.mentalfloss.com/entertainment/disney/disney-quiz-trivia-questions?utm_source=RSS",
+      "buzz_score": 65,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Best Disney Quiz Questions to Test If You’re a Real Fan",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-18T22:22:55.049632+00:00"
+    },
+    {
+      "tweet": "People are actually out here building fake star economies on GitHub just to look important. That's a sad hobby.",
+      "original_url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "GitHub's fake star economy",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-21T01:09:11.942863+00:00"
+    },
+    {
+      "tweet": "Woolworths is actually in court right now over those fake discounts they were running on Tim Tams and baby rice. Like we didn't notice the price hike before the sale.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/21/consumer-watchdog-accc-supermarket-woolworths-court-hearings-australia",
+      "buzz_score": 85,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Consumer watchdog zeroes in on Woolworths’ allegedly fake discounts as it meets supermarket giant in court",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-20T17:34:31.335816+00:00"
+    },
+    {
+      "tweet": "Elon Musk just completely snubbed that legal summons in France. The guy literally acts like the law is just a suggestion.",
+      "original_url": "https://www.theguardian.com/technology/2026/apr/20/french-prosecutors-summon-elon-musk-over-alleged-child-abuse-images-on-x",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Elon Musk snubs Paris legal summons over alleged child abuse images on X",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-20T22:00:37.739705+00:00"
     },
     {
       "tweet": "Hold on, politicians in India are just carrying around fish for their campaigns now. Like, literal fish. What is going on.",
@@ -882,26 +904,26 @@
       "added_at": "2026-04-21T01:09:11.942027+00:00"
     },
     {
-      "tweet": "My brother just sent me a Disney quiz to prove if I’m a fan. I literally couldn't name a single side character. I’m cooked.",
-      "original_url": "https://www.mentalfloss.com/entertainment/disney/disney-quiz-trivia-questions?utm_source=RSS",
-      "buzz_score": 65,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Best Disney Quiz Questions to Test If You’re a Real Fan",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-18T22:22:55.049632+00:00"
-    },
-    {
-      "tweet": "Woolworths is actually in court right now over those fake discounts they were running on Tim Tams and baby rice. Like we didn't notice the price hike before the sale.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/21/consumer-watchdog-accc-supermarket-woolworths-court-hearings-australia",
-      "buzz_score": 85,
+      "tweet": "Cam Schlittler is getting threats just for starting against the Red Sox. People really need to touch grass, it's just a game.",
+      "original_url": "https://www.espn.com/mlb/story/_/id/48541741/yankees-cam-schlittler-amid-threats-excited-face-red-sox",
+      "buzz_score": 80,
       "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "Consumer watchdog zeroes in on Woolworths’ allegedly fake discounts as it meets supermarket giant in court",
-      "source": "The Guardian",
+      "original_title": "Amid threats, Yanks' Schlittler excited to face Sox",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-20T17:34:31.335443+00:00"
+    },
+    {
+      "tweet": "The government is finally refunding those tariffs, but somehow consumers won't see a dime of that 160 billion. Love how the companies get the check while we just keep paying the markup.",
+      "original_url": "https://www.bbc.com/news/articles/c7vqgge5g8lo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Trump tariff refunds begin but consumers likely to miss out",
+      "source": "BBC World",
       "category": "world",
-      "added_at": "2026-04-20T17:34:31.335816+00:00"
+      "added_at": "2026-04-20T17:34:31.335130+00:00"
     },
     {
       "tweet": "Kit Connor might be in that new Elden Ring movie. It’s pretty obvious they just want someone who can look miserable in a war zone.",
@@ -946,28 +968,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-20T22:00:37.739388+00:00"
-    },
-    {
-      "tweet": "Cam Schlittler is getting threats just for starting against the Red Sox. People really need to touch grass, it's just a game.",
-      "original_url": "https://www.espn.com/mlb/story/_/id/48541741/yankees-cam-schlittler-amid-threats-excited-face-red-sox",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Amid threats, Yanks' Schlittler excited to face Sox",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-20T17:34:31.335443+00:00"
-    },
-    {
-      "tweet": "The government is finally refunding those tariffs, but somehow consumers won't see a dime of that 160 billion. Love how the companies get the check while we just keep paying the markup.",
-      "original_url": "https://www.bbc.com/news/articles/c7vqgge5g8lo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Trump tariff refunds begin but consumers likely to miss out",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-20T17:34:31.335130+00:00"
     },
     {
       "tweet": "Reading about those theories on how Poe actually died. Man, the dude's life was just a trip.",
