@@ -2,28 +2,6 @@
   "last_collected": "2026-04-21T18:13:30.244713+00:00",
   "queue": [
     {
-      "tweet": "Man, that Midtjylland player got stabbed in Denmark. Stuff like that is just brutal.",
-      "original_url": "https://www.bbc.com/sport/football/articles/ce3drvx6kn4o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Midtjylland's Djabi seriously injured in stabbing",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-21T16:06:47.978945+00:00"
-    },
-    {
-      "tweet": "Did you see those soldiers got 30 days for trashing that Jesus statue in Lebanon? Wild that they thought they could just film themselves doing that.",
-      "original_url": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-21T16:06:47.978504+00:00"
-    },
-    {
       "tweet": "Coach K’s grandson just got hit with a DWI charge in a wreck where someone died. That is just brutal.",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48546255/mike-krzyzewski-grandson-charged-misdemeanor-dwi-collision-killed-teen",
       "buzz_score": 80,
@@ -46,17 +24,6 @@
       "added_at": "2026-04-21T13:29:30.133813+00:00"
     },
     {
-      "tweet": "Morgan Wallen just dropped 1.2 million to fix up his old high school baseball field. Pretty cool when you make it big and actually give back to your hometown like that.",
-      "original_url": "https://www.billboard.com/music/country/morgan-wallen-pledges-1-million-upgrade-high-school-baseball-field-1236227599/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Morgan Wallen Pledges $1.2 Million to Upgrade His High School’s Baseball Field",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-21T13:29:30.133808+00:00"
-    },
-    {
       "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
       "buzz_score": 95,
@@ -77,6 +44,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-12T02:32:59.106863+00:00"
+    },
+    {
+      "tweet": "Morgan Wallen just dropped 1.2 million to fix up his old high school baseball field. Pretty cool when you make it big and actually give back to your hometown like that.",
+      "original_url": "https://www.billboard.com/music/country/morgan-wallen-pledges-1-million-upgrade-high-school-baseball-field-1236227599/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Morgan Wallen Pledges $1.2 Million to Upgrade His High School’s Baseball Field",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-21T13:29:30.133808+00:00"
     },
     {
       "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
@@ -264,17 +242,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
-    },
-    {
-      "tweet": "Apparently my old iPod is actually worth something now. That’s wild, guess we're all turning into hoarders.",
-      "original_url": "https://www.mentalfloss.com/live-smarter/money/2000s-items-now-collectible?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "10 Things From the 2000s That Are Suddenly Collectible—and Valuable",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-21T18:13:30.244153+00:00"
     },
     {
       "tweet": "WrestleMania 42 is gonna have thirteen matches over two nights. That's just a workout.",
@@ -519,15 +486,15 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Billy Donovan is out as Bulls coach after all that time. Looks like they're finally just burning the whole thing down.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48550436/sources-billy-donovan-decides-step-bulls-coach",
+      "tweet": "Apparently my old iPod is actually worth something now. That’s wild, guess we're all turning into hoarders.",
+      "original_url": "https://www.mentalfloss.com/live-smarter/money/2000s-items-now-collectible?utm_source=RSS",
       "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Donovan leaves Bulls amid sweeping changes",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-21T16:06:47.978665+00:00"
+      "original_title": "10 Things From the 2000s That Are Suddenly Collectible—and Valuable",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-21T18:13:30.244153+00:00"
     },
     {
       "tweet": "So apparently the market is rallying while we're on the edge of a massive war. I guess as long as the numbers stay green, nothing actually matters.",
@@ -783,81 +750,15 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "Just saw this new city builder game and honestly, I think we all just need something stress-free to look at sometimes.",
-      "original_url": "https://kotaku.com/shantytown-indie-pc-steam-city-builder-cozy-game-2000689333",
-      "buzz_score": 70,
+      "tweet": "Billy Donovan is out as Bulls coach after all that time. Looks like they're finally just burning the whole thing down.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48550436/sources-billy-donovan-decides-step-bulls-coach",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "This Surrealist City Builder Is A Must For Those Seeking Stress-Free Chill Times",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-21T18:13:30.244566+00:00"
-    },
-    {
-      "tweet": "Did you see what Abhishek Sharma just did for the Sunrisers? That guy was just absolutely launching it.",
-      "original_url": "https://www.bbc.com/sport/cricket/articles/c070lp59m7po?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sunrisers' Abhishek hits fifth highest IPL score",
-      "source": "BBC Sport",
+      "original_title": "Donovan leaves Bulls amid sweeping changes",
+      "source": "ESPN",
       "category": "sports",
-      "added_at": "2026-04-21T18:13:30.244315+00:00"
-    },
-    {
-      "tweet": "Jude Bellingham just bought a stake in the Birmingham Phoenix. Casual side hustle.",
-      "original_url": "https://www.bbc.com/sport/articles/ce3dr56r9g3o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Bellingham invests in Birmingham Hundred franchise",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-21T18:13:30.244161+00:00"
-    },
-    {
-      "tweet": "The Department of War dropped a video of US forces boarding that tanker. Feels like a movie scene.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/21/video-us-forces-board-sanctioned-tanker-in-asia-pacific?traffic_source=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Video: US forces board sanctioned tanker in Asia Pacific",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-21T16:06:47.979199+00:00"
-    },
-    {
-      "tweet": "Championship clubs basically told VAR to take a hike for next season. Glad someone actually said no to that chaos.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c17vjwe4gyro?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Championship clubs reject bringing in VAR next season",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-21T16:06:47.978816+00:00"
-    },
-    {
-      "tweet": "They're saying we gotta stop using those myths about who's better at chores to fix the mental load. Like, maybe we're just both bad at it.",
-      "original_url": "https://www.npr.org/2026/04/21/nx-s1-5736111/want-to-lighten-your-mental-load-first-let-go-of-these-gender-myths",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Want to lighten your mental load? First, let go of these gender myths",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-21T16:06:47.978507+00:00"
-    },
-    {
-      "tweet": "So there's a legit reason why we remember faces but forget names the second we hear them. Explains why I'm always just smiling and nodding at people.",
-      "original_url": "https://www.mentalfloss.com/science/psychology/why-easier-remember-faces-than-names?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Why Is It Easier to Remember Faces Than Names?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-21T16:06:47.978501+00:00"
+      "added_at": "2026-04-21T16:06:47.978665+00:00"
     },
     {
       "tweet": "NASA just shut off another instrument on Voyager 1 to keep it running. It's hanging on for dear life.",
@@ -957,6 +858,83 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-09T16:56:43.712844+00:00"
+    },
+    {
+      "tweet": "Just saw this new city builder game and honestly, I think we all just need something stress-free to look at sometimes.",
+      "original_url": "https://kotaku.com/shantytown-indie-pc-steam-city-builder-cozy-game-2000689333",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "This Surrealist City Builder Is A Must For Those Seeking Stress-Free Chill Times",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-21T18:13:30.244566+00:00"
+    },
+    {
+      "tweet": "Did you see what Abhishek Sharma just did for the Sunrisers? That guy was just absolutely launching it.",
+      "original_url": "https://www.bbc.com/sport/cricket/articles/c070lp59m7po?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sunrisers' Abhishek hits fifth highest IPL score",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-21T18:13:30.244315+00:00"
+    },
+    {
+      "tweet": "Jude Bellingham just bought a stake in the Birmingham Phoenix. Casual side hustle.",
+      "original_url": "https://www.bbc.com/sport/articles/ce3dr56r9g3o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Bellingham invests in Birmingham Hundred franchise",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-21T18:13:30.244161+00:00"
+    },
+    {
+      "tweet": "The Department of War dropped a video of US forces boarding that tanker. Feels like a movie scene.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/21/video-us-forces-board-sanctioned-tanker-in-asia-pacific?traffic_source=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Video: US forces board sanctioned tanker in Asia Pacific",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-21T16:06:47.979199+00:00"
+    },
+    {
+      "tweet": "Championship clubs basically told VAR to take a hike for next season. Glad someone actually said no to that chaos.",
+      "original_url": "https://www.bbc.com/sport/football/articles/c17vjwe4gyro?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Championship clubs reject bringing in VAR next season",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-21T16:06:47.978816+00:00"
+    },
+    {
+      "tweet": "They're saying we gotta stop using those myths about who's better at chores to fix the mental load. Like, maybe we're just both bad at it.",
+      "original_url": "https://www.npr.org/2026/04/21/nx-s1-5736111/want-to-lighten-your-mental-load-first-let-go-of-these-gender-myths",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Want to lighten your mental load? First, let go of these gender myths",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-21T16:06:47.978507+00:00"
+    },
+    {
+      "tweet": "So there's a legit reason why we remember faces but forget names the second we hear them. Explains why I'm always just smiling and nodding at people.",
+      "original_url": "https://www.mentalfloss.com/science/psychology/why-easier-remember-faces-than-names?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Why Is It Easier to Remember Faces Than Names?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-21T16:06:47.978501+00:00"
     },
     {
       "tweet": "Reid did a mock draft for all 32 teams and I'm already tired just looking at it. That's a lot of homework.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 532,
+    "total_posted": 534,
     "total_collected": 1691
   },
-  "last_posted_at": "2026-04-21T18:23:14.256570+00:00"
+  "last_posted_at": "2026-04-21T19:43:11.862349+00:00"
 }
