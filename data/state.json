@@ -2,28 +2,6 @@
   "last_collected": "2026-04-22T18:13:26.721839+00:00",
   "queue": [
     {
-      "tweet": "Cowboys aren't giving George Pickens a long-term deal, just sticking him on the tag. Like, why even bother building a team?",
-      "original_url": "https://www.espn.com/nfl/story/_/id/48561830/cowboys-say-talk-long-term-deal-george-pickens",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Cowboys won't talk long-term deal with Pickens",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-22T18:13:26.721094+00:00"
-    },
-    {
-      "tweet": "Dude, did you see the new ChatGPT images update? It literally looks like actual photography now. Insane.",
-      "original_url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "ChatGPT Images 2.0",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-22T18:13:26.720531+00:00"
-    },
-    {
       "tweet": "So Justin Sun is suing the Trump family's crypto firm after dropping 45 million on tokens. That's how these guys play.",
       "original_url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -68,17 +46,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Iran seized two cargo ships in the Strait of Hormuz right before those peace talks. Total chaos.",
-      "original_url": "https://www.nytimes.com/2026/04/22/world/asia/pakistan-iran-us-talks-islamabad.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Pakistani Officials Remain Hopeful About U.S.-Iran Talks",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-22T18:13:26.720698+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -88,17 +55,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Israel’s Independence Day honoring the guy who called to flatten Gaza is wild. That’s how they’re choosing to celebrate?",
-      "original_url": "https://www.nytimes.com/2026/04/22/world/middleeast/israel-gaza-independence-day-rabbi-avraham-zarbiv.html",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "On Independence Day, Israel Honors Rabbi Who Called to ‘Flatten’ Gaza",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-22T16:02:18.996637+00:00"
     },
     {
       "tweet": "Did you see what OpenAI is doing with the new ChatGPT images? It's getting too real, man. We're cooked.",
@@ -277,15 +233,26 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Apple Music exec says the labels need to take responsibility for AI content. They're just passing the buck.",
-      "original_url": "https://www.billboard.com/pro/apple-music-exec-talks-ai-billboard-on-the-record/",
-      "buzz_score": 80,
+      "tweet": "Iran seized two cargo ships in the Strait of Hormuz right before those peace talks. Total chaos.",
+      "original_url": "https://www.nytimes.com/2026/04/22/world/asia/pakistan-iran-us-talks-islamabad.html",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Apple Music Exec Talks AI: ‘I Really Need the Content Providers and the Labels to Take Responsibility’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-22T18:13:26.720948+00:00"
+      "original_title": "Pakistani Officials Remain Hopeful About U.S.-Iran Talks",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-22T18:13:26.720698+00:00"
+    },
+    {
+      "tweet": "Israel’s Independence Day honoring the guy who called to flatten Gaza is wild. That’s how they’re choosing to celebrate?",
+      "original_url": "https://www.nytimes.com/2026/04/22/world/middleeast/israel-gaza-independence-day-rabbi-avraham-zarbiv.html",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "On Independence Day, Israel Honors Rabbi Who Called to ‘Flatten’ Gaza",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-22T16:02:18.996637+00:00"
     },
     {
       "tweet": "VJ Edgecombe just dropped 30 and 10 on a bad back to beat the Cs. Absolute beast.",
@@ -574,37 +541,15 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Ronnie O'Sullivan just swapped his cue mid-tournament at the Crucible and still made it through. Just a freak.",
-      "original_url": "https://www.bbc.com/sport/snooker/articles/c9qdzgv37e7o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "O'Sullivan's 'rolling the dice' cue gamble pays off",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-22T18:13:26.721348+00:00"
-    },
-    {
-      "tweet": "Ever notice how your phone flips your selfies? Apparently that’s just how we expect to see ourselves in a mirror. We're weird.",
-      "original_url": "https://www.mentalfloss.com/technology/phones/why-phone-cameras-flip-images?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Why Do Phone Cameras Flip Images?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-22T18:13:26.720538+00:00"
-    },
-    {
-      "tweet": "LA schools are actually limiting screen time now. Guess we finally realized that staring at a laptop for eight hours isn't exactly peak education.",
-      "original_url": "https://www.bbc.com/news/articles/c15d888ww39o?at_medium=RSS&at_campaign=rss",
+      "tweet": "Apple Music exec says the labels need to take responsibility for AI content. They're just passing the buck.",
+      "original_url": "https://www.billboard.com/pro/apple-music-exec-talks-ai-billboard-on-the-record/",
       "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Los Angeles becomes first major US school district to limit classroom screen time",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-22T16:02:18.996628+00:00"
+      "original_title": "Apple Music Exec Talks AI: ‘I Really Need the Content Providers and the Labels to Take Responsibility’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-22T18:13:26.720948+00:00"
     },
     {
       "tweet": "Ever notice how you know someone's face but can never remember their name? Brains are weird.",
@@ -882,37 +827,37 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "Hold on, that South Korean fighter jet collision happened because the pilot was busy recording a video. Priorities.",
-      "original_url": "https://www.nytimes.com/2026/04/22/world/asia/south-korean-fighter-jets-photos-phones.html",
-      "buzz_score": 70,
+      "tweet": "Ronnie O'Sullivan just swapped his cue mid-tournament at the Crucible and still made it through. Just a freak.",
+      "original_url": "https://www.bbc.com/sport/snooker/articles/c9qdzgv37e7o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Pilot Was Taking Pictures Before South Korean Fighter Jets Collided",
-      "source": "NYT World",
+      "original_title": "O'Sullivan's 'rolling the dice' cue gamble pays off",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-22T18:13:26.721348+00:00"
+    },
+    {
+      "tweet": "Ever notice how your phone flips your selfies? Apparently that’s just how we expect to see ourselves in a mirror. We're weird.",
+      "original_url": "https://www.mentalfloss.com/technology/phones/why-phone-cameras-flip-images?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Why Do Phone Cameras Flip Images?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-22T18:13:26.720538+00:00"
+    },
+    {
+      "tweet": "LA schools are actually limiting screen time now. Guess we finally realized that staring at a laptop for eight hours isn't exactly peak education.",
+      "original_url": "https://www.bbc.com/news/articles/c15d888ww39o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Los Angeles becomes first major US school district to limit classroom screen time",
+      "source": "BBC World",
       "category": "world",
-      "added_at": "2026-04-22T18:13:26.720543+00:00"
-    },
-    {
-      "tweet": "Did you see the Royals are teaming up with Hallmark for a new stadium? Like we're gonna watch baseball at a greeting card factory.",
-      "original_url": "https://www.espn.com/mlb/story/_/id/48560636/royals-hallmark-unveil-ballpark-plan-downtown-kansas-city",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Royals, Hallmark unveil downtown ballpark plan",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-22T16:02:18.996793+00:00"
-    },
-    {
-      "tweet": "Man, Wemby getting a concussion on that fall during the playoffs sucks. Hope he's good.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48555708/spurs-wembanyama-concussion-protocol-exits-vs-blazers",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Wemby concussed on hard fall in Spurs' G2 loss",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-22T16:02:18.996639+00:00"
+      "added_at": "2026-04-22T16:02:18.996628+00:00"
     },
     {
       "tweet": "NASA just shut off another instrument on Voyager 1 to keep it running. It's hanging on for dear life.",
@@ -990,6 +935,39 @@
       "source": "Variety",
       "category": "entertainment",
       "added_at": "2026-04-10T04:22:35.263433+00:00"
+    },
+    {
+      "tweet": "Hold on, that South Korean fighter jet collision happened because the pilot was busy recording a video. Priorities.",
+      "original_url": "https://www.nytimes.com/2026/04/22/world/asia/south-korean-fighter-jets-photos-phones.html",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Pilot Was Taking Pictures Before South Korean Fighter Jets Collided",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-22T18:13:26.720543+00:00"
+    },
+    {
+      "tweet": "Did you see the Royals are teaming up with Hallmark for a new stadium? Like we're gonna watch baseball at a greeting card factory.",
+      "original_url": "https://www.espn.com/mlb/story/_/id/48560636/royals-hallmark-unveil-ballpark-plan-downtown-kansas-city",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Royals, Hallmark unveil downtown ballpark plan",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-22T16:02:18.996793+00:00"
+    },
+    {
+      "tweet": "Man, Wemby getting a concussion on that fall during the playoffs sucks. Hope he's good.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48555708/spurs-wembanyama-concussion-protocol-exits-vs-blazers",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Wemby concussed on hard fall in Spurs' G2 loss",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-22T16:02:18.996639+00:00"
     },
     {
       "tweet": "The FBI is looking into scientists going missing at NASA and SpaceX. That's actually terrifying.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 559,
+    "total_posted": 561,
     "total_collected": 1802
   },
-  "last_posted_at": "2026-04-22T18:18:36.641925+00:00"
+  "last_posted_at": "2026-04-22T19:46:39.593954+00:00"
 }
