@@ -2,28 +2,6 @@
   "last_collected": "2026-04-22T20:33:48.647025+00:00",
   "queue": [
     {
-      "tweet": "So Justin Sun is suing the Trump family's crypto firm after dropping 45 million on tokens. That's how these guys play.",
-      "original_url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-22T18:13:26.720541+00:00"
-    },
-    {
-      "tweet": "Hold on, they’re actually making an Elden Ring movie? With the Dung Eater? Are we just adapting everything now.",
-      "original_url": "https://www.polygon.com/elden-ring-movie-set-leaks-cast-characters/",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Elden Ring movie set leaks confirm new details of Alex Garland's film",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-22T20:33:48.645636+00:00"
-    },
-    {
       "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
       "buzz_score": 95,
@@ -46,6 +24,17 @@
       "added_at": "2026-04-12T02:32:59.106863+00:00"
     },
     {
+      "tweet": "Hold on, they’re actually making an Elden Ring movie? With the Dung Eater? Are we just adapting everything now.",
+      "original_url": "https://www.polygon.com/elden-ring-movie-set-leaks-cast-characters/",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Elden Ring movie set leaks confirm new details of Alex Garland's film",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-22T20:33:48.645636+00:00"
+    },
+    {
       "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026",
       "buzz_score": 90,
@@ -55,17 +44,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "Chelsea owners have legit built a monument to chaos at Stamford Bridge. 106 days for a manager is just unserious.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c2k3ed1glp1o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hapless Chelsea owners have built a monument to chaos and decline",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-22T20:33:48.645470+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -253,6 +231,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
+    },
+    {
+      "tweet": "Chelsea owners have legit built a monument to chaos at Stamford Bridge. 106 days for a manager is just unserious.",
+      "original_url": "https://www.bbc.com/sport/football/articles/c2k3ed1glp1o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hapless Chelsea owners have built a monument to chaos and decline",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-22T20:33:48.645470+00:00"
     },
     {
       "tweet": "VJ Edgecombe just dropped 30 and 10 on a bad back to beat the Cs. Absolute beast.",
@@ -541,17 +530,6 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Iran seized two cargo ships in the Strait of Hormuz right before those peace talks. Total chaos.",
-      "original_url": "https://www.nytimes.com/2026/04/22/world/asia/pakistan-iran-us-talks-islamabad.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Pakistani Officials Remain Hopeful About U.S.-Iran Talks",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-22T18:13:26.720698+00:00"
-    },
-    {
       "tweet": "Ever notice how you know someone's face but can never remember their name? Brains are weird.",
       "original_url": "https://www.mentalfloss.com/science/psychology/why-easier-remember-faces-than-names?utm_source=RSS",
       "buzz_score": 75,
@@ -827,48 +805,15 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "Israel’s Independence Day honoring the guy who called to flatten Gaza is wild. That’s how they’re choosing to celebrate?",
-      "original_url": "https://www.nytimes.com/2026/04/22/world/middleeast/israel-gaza-independence-day-rabbi-avraham-zarbiv.html",
-      "buzz_score": 90,
+      "tweet": "Iran seized two cargo ships in the Strait of Hormuz right before those peace talks. Total chaos.",
+      "original_url": "https://www.nytimes.com/2026/04/22/world/asia/pakistan-iran-us-talks-islamabad.html",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "On Independence Day, Israel Honors Rabbi Who Called to ‘Flatten’ Gaza",
+      "original_title": "Pakistani Officials Remain Hopeful About U.S.-Iran Talks",
       "source": "NYT World",
       "category": "world",
-      "added_at": "2026-04-22T16:02:18.996637+00:00"
-    },
-    {
-      "tweet": "Apple Music exec says the labels need to take responsibility for AI content. They're just passing the buck.",
-      "original_url": "https://www.billboard.com/pro/apple-music-exec-talks-ai-billboard-on-the-record/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Apple Music Exec Talks AI: ‘I Really Need the Content Providers and the Labels to Take Responsibility’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-22T18:13:26.720948+00:00"
-    },
-    {
-      "tweet": "Reading people argue about acetaminophen versus ibuprofen on HackerNews is exactly how we kill time at work.",
-      "original_url": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Acetaminophen vs. ibuprofen",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-22T20:33:48.646896+00:00"
-    },
-    {
-      "tweet": "DAB Motors and Brabus dropped this new urban bike. It’s basically just a fancy scooter for people with too much money.",
-      "original_url": "https://hypebeast.com/2026/4/brabus-dab-motors-urban-e-first-edition-colorways",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The DAB Motors x Brabus Urban E First Edition Arrives in Four Limited Colors",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-22T20:33:48.646019+00:00"
+      "added_at": "2026-04-22T18:13:26.720698+00:00"
     },
     {
       "tweet": "NASA just shut off another instrument on Voyager 1 to keep it running. It's hanging on for dear life.",
@@ -946,6 +891,50 @@
       "source": "Variety",
       "category": "entertainment",
       "added_at": "2026-04-10T04:22:35.263433+00:00"
+    },
+    {
+      "tweet": "Israel’s Independence Day honoring the guy who called to flatten Gaza is wild. That’s how they’re choosing to celebrate?",
+      "original_url": "https://www.nytimes.com/2026/04/22/world/middleeast/israel-gaza-independence-day-rabbi-avraham-zarbiv.html",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "On Independence Day, Israel Honors Rabbi Who Called to ‘Flatten’ Gaza",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-22T16:02:18.996637+00:00"
+    },
+    {
+      "tweet": "Apple Music exec says the labels need to take responsibility for AI content. They're just passing the buck.",
+      "original_url": "https://www.billboard.com/pro/apple-music-exec-talks-ai-billboard-on-the-record/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Apple Music Exec Talks AI: ‘I Really Need the Content Providers and the Labels to Take Responsibility’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-22T18:13:26.720948+00:00"
+    },
+    {
+      "tweet": "Reading people argue about acetaminophen versus ibuprofen on HackerNews is exactly how we kill time at work.",
+      "original_url": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Acetaminophen vs. ibuprofen",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-22T20:33:48.646896+00:00"
+    },
+    {
+      "tweet": "DAB Motors and Brabus dropped this new urban bike. It’s basically just a fancy scooter for people with too much money.",
+      "original_url": "https://hypebeast.com/2026/4/brabus-dab-motors-urban-e-first-edition-colorways",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The DAB Motors x Brabus Urban E First Edition Arrives in Four Limited Colors",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-22T20:33:48.646019+00:00"
     },
     {
       "tweet": "Ronnie O'Sullivan just swapped his cue mid-tournament at the Crucible and still made it through. Just a freak.",
@@ -2018,8 +2007,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 565,
+    "total_posted": 566,
     "total_collected": 1818
   },
-  "last_posted_at": "2026-04-22T21:39:13.456775+00:00"
+  "last_posted_at": "2026-04-22T22:28:50.500791+00:00"
 }
