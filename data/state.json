@@ -2,28 +2,6 @@
   "last_collected": "2026-04-22T10:56:59.440131+00:00",
   "queue": [
     {
-      "tweet": "Bro, those South Korean fighter pilots actually crashed into each other 'cause they were busy taking photos. Just wild.",
-      "original_url": "https://www.bbc.com/news/articles/czjwz8we1zzo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "South Korean fighter jets collided due to pilots taking pictures, report finds",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-22T10:56:59.438688+00:00"
-    },
-    {
-      "tweet": "Just read this drunk post from a senior engineer about what they learned. We've all been there.",
-      "original_url": "https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Drunk post: Things I've learned as a senior engineer (2021)",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-22T10:56:59.439560+00:00"
-    },
-    {
       "tweet": "The Kentucky governor is calling out UK for that seven-figure gig for a retired AD. Who thought that was a move?",
       "original_url": "https://www.espn.com/college-sports/story/_/id/48553192/kentucky-governor-blasts-uk-athletics-decision-making",
       "buzz_score": 80,
@@ -46,17 +24,6 @@
       "added_at": "2026-04-09T07:14:41.251727+00:00"
     },
     {
-      "tweet": "VJ Edgecombe just dropped 30 and 10 on a bad back to beat the Cs. Absolute beast.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48555963/vj-edgecombe-tyrese-maxey-star-76ers-tie-first-round-series-vs-celtics",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Edgecombe makes history with 30-10 to stun C's",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-22T04:38:05.382252+00:00"
-    },
-    {
       "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
       "original_url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
       "buzz_score": 92,
@@ -68,6 +35,17 @@
       "added_at": "2026-04-12T02:32:59.106863+00:00"
     },
     {
+      "tweet": "VJ Edgecombe just dropped 30 and 10 on a bad back to beat the Cs. Absolute beast.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48555963/vj-edgecombe-tyrese-maxey-star-76ers-tie-first-round-series-vs-celtics",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Edgecombe makes history with 30-10 to stun C's",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-22T04:38:05.382252+00:00"
+    },
+    {
       "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026",
       "buzz_score": 90,
@@ -77,6 +55,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "The FBI is looking into scientists going missing at NASA and SpaceX. That's actually terrifying.",
@@ -110,17 +99,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-22T01:53:45.332910+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "Bro, Qwen3.6 is finally out and it’s actually writing code for me now. I’m gonna be out of a job by Tuesday.",
@@ -871,50 +849,6 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
-      "tweet": "People are actually selling old iPods for thousands now. I swear we just keep circling back to our childhood junk to feel something.",
-      "original_url": "https://www.mentalfloss.com/live-smarter/money/2000s-items-now-collectible?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "10 Things From the 2000s That Are Suddenly Collectible—and Valuable",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-22T08:13:56.917692+00:00"
-    },
-    {
-      "tweet": "Climate change is literally disrupting elections now, 23 of them in 2024 alone. Like, are we just supposed to wait for the world to flood before we vote.",
-      "original_url": "https://www.theguardian.com/global-development/2026/apr/22/climate-change-extreme-weather-heatwaves-floods-wildfires-threat-democracy-elections",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Heatwaves, floods and wildfires pose rising threat to democracy, report finds",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-22T08:13:56.917294+00:00"
-    },
-    {
-      "tweet": "So apparently the US just blocked a plane carrying 500 million in cash meant for Iraq to keep it from Iran. Who even moves half a billion in physical cash.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/22/us-halts-iraq-dollar-shipments-in-pressure-campaign-over-iran-linked-groups?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US halts shipment of Iraq’s oil dollars in bid to curb Iran-linked groups",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-22T08:13:56.917163+00:00"
-    },
-    {
-      "tweet": "Mexico is scrambling to beef up security at the pyramids for the World Cup after that shooting. Crazy that we're talking about armed guards at ancient ruins now.",
-      "original_url": "https://www.npr.org/2026/04/22/g-s1-118305/mexico-to-beef-up-security-at-tourist-sites",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Mexico to beef up security at tourist sites after shooting at pyramids",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-22T08:13:56.916992+00:00"
-    },
-    {
       "tweet": "NASA just shut off another instrument on Voyager 1 to keep it running. It's hanging on for dear life.",
       "original_url": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
       "buzz_score": 70,
@@ -990,6 +924,50 @@
       "source": "Variety",
       "category": "entertainment",
       "added_at": "2026-04-10T04:22:35.263433+00:00"
+    },
+    {
+      "tweet": "People are actually selling old iPods for thousands now. I swear we just keep circling back to our childhood junk to feel something.",
+      "original_url": "https://www.mentalfloss.com/live-smarter/money/2000s-items-now-collectible?utm_source=RSS",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "10 Things From the 2000s That Are Suddenly Collectible—and Valuable",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-22T08:13:56.917692+00:00"
+    },
+    {
+      "tweet": "Climate change is literally disrupting elections now, 23 of them in 2024 alone. Like, are we just supposed to wait for the world to flood before we vote.",
+      "original_url": "https://www.theguardian.com/global-development/2026/apr/22/climate-change-extreme-weather-heatwaves-floods-wildfires-threat-democracy-elections",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Heatwaves, floods and wildfires pose rising threat to democracy, report finds",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-22T08:13:56.917294+00:00"
+    },
+    {
+      "tweet": "So apparently the US just blocked a plane carrying 500 million in cash meant for Iraq to keep it from Iran. Who even moves half a billion in physical cash.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/22/us-halts-iraq-dollar-shipments-in-pressure-campaign-over-iran-linked-groups?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US halts shipment of Iraq’s oil dollars in bid to curb Iran-linked groups",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-22T08:13:56.917163+00:00"
+    },
+    {
+      "tweet": "Mexico is scrambling to beef up security at the pyramids for the World Cup after that shooting. Crazy that we're talking about armed guards at ancient ruins now.",
+      "original_url": "https://www.npr.org/2026/04/22/g-s1-118305/mexico-to-beef-up-security-at-tourist-sites",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Mexico to beef up security at tourist sites after shooting at pyramids",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-22T08:13:56.916992+00:00"
     },
     {
       "tweet": "Chelsea is moving all the women’s team games to Stamford Bridge now. About time they actually treated it like a real club.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 551,
+    "total_posted": 553,
     "total_collected": 1781
   },
-  "last_posted_at": "2026-04-22T11:03:18.283177+00:00"
+  "last_posted_at": "2026-04-22T12:00:42.062085+00:00"
 }
