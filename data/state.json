@@ -2,17 +2,6 @@
   "last_collected": "2026-04-22T16:02:18.997050+00:00",
   "queue": [
     {
-      "tweet": "Meta is literally tracking every keystroke and mouse movement for AI training now. We're just data points to them at this point.",
-      "original_url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-22T16:02:18.996621+00:00"
-    },
-    {
       "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
       "buzz_score": 95,
@@ -22,17 +11,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251727+00:00"
-    },
-    {
-      "tweet": "Israel’s Independence Day honoring the guy who called to flatten Gaza is wild. That’s how they’re choosing to celebrate?",
-      "original_url": "https://www.nytimes.com/2026/04/22/world/middleeast/israel-gaza-independence-day-rabbi-avraham-zarbiv.html",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "On Independence Day, Israel Honors Rabbi Who Called to ‘Flatten’ Gaza",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-22T16:02:18.996637+00:00"
     },
     {
       "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
@@ -55,6 +33,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "Israel’s Independence Day honoring the guy who called to flatten Gaza is wild. That’s how they’re choosing to celebrate?",
+      "original_url": "https://www.nytimes.com/2026/04/22/world/middleeast/israel-gaza-independence-day-rabbi-avraham-zarbiv.html",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "On Independence Day, Israel Honors Rabbi Who Called to ‘Flatten’ Gaza",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-22T16:02:18.996637+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -242,17 +231,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
-    },
-    {
-      "tweet": "LA schools are actually limiting screen time now. Guess we finally realized that staring at a laptop for eight hours isn't exactly peak education.",
-      "original_url": "https://www.bbc.com/news/articles/c15d888ww39o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Los Angeles becomes first major US school district to limit classroom screen time",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-22T16:02:18.996628+00:00"
     },
     {
       "tweet": "VJ Edgecombe just dropped 30 and 10 on a bad back to beat the Cs. Absolute beast.",
@@ -541,26 +519,15 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Did you see the Royals are teaming up with Hallmark for a new stadium? Like we're gonna watch baseball at a greeting card factory.",
-      "original_url": "https://www.espn.com/mlb/story/_/id/48560636/royals-hallmark-unveil-ballpark-plan-downtown-kansas-city",
-      "buzz_score": 75,
+      "tweet": "LA schools are actually limiting screen time now. Guess we finally realized that staring at a laptop for eight hours isn't exactly peak education.",
+      "original_url": "https://www.bbc.com/news/articles/c15d888ww39o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Royals, Hallmark unveil downtown ballpark plan",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-22T16:02:18.996793+00:00"
-    },
-    {
-      "tweet": "Man, Wemby getting a concussion on that fall during the playoffs sucks. Hope he's good.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48555708/spurs-wembanyama-concussion-protocol-exits-vs-blazers",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Wemby concussed on hard fall in Spurs' G2 loss",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-22T16:02:18.996639+00:00"
+      "original_title": "Los Angeles becomes first major US school district to limit classroom screen time",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-22T16:02:18.996628+00:00"
     },
     {
       "tweet": "Ever notice how you know someone's face but can never remember their name? Brains are weird.",
@@ -838,6 +805,28 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
+      "tweet": "Did you see the Royals are teaming up with Hallmark for a new stadium? Like we're gonna watch baseball at a greeting card factory.",
+      "original_url": "https://www.espn.com/mlb/story/_/id/48560636/royals-hallmark-unveil-ballpark-plan-downtown-kansas-city",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Royals, Hallmark unveil downtown ballpark plan",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-22T16:02:18.996793+00:00"
+    },
+    {
+      "tweet": "Man, Wemby getting a concussion on that fall during the playoffs sucks. Hope he's good.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48555708/spurs-wembanyama-concussion-protocol-exits-vs-blazers",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Wemby concussed on hard fall in Spurs' G2 loss",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-22T16:02:18.996639+00:00"
+    },
+    {
       "tweet": "NASA just shut off another instrument on Voyager 1 to keep it running. It's hanging on for dear life.",
       "original_url": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
       "buzz_score": 70,
@@ -1014,17 +1003,6 @@
       "added_at": "2026-04-22T08:13:56.916992+00:00"
     },
     {
-      "tweet": "Chelsea is moving all the women’s team games to Stamford Bridge now. About time they actually treated it like a real club.",
-      "original_url": "https://www.bbc.com/sport/football/articles/clyrk1xe64zo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Chelsea to play all WSL games at Stamford Bridge",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-22T08:13:56.917000+00:00"
-    },
-    {
       "tweet": "Tehran just held a massive parade right as the ceasefire deadline hit. Bold move.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/tehran-held-military-parades-as-ceasefire-was-set-to-end?traffic_source=rss",
       "buzz_score": 80,
@@ -1034,6 +1012,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-22T04:38:05.383528+00:00"
+    },
+    {
+      "tweet": "Chelsea is moving all the women’s team games to Stamford Bridge now. About time they actually treated it like a real club.",
+      "original_url": "https://www.bbc.com/sport/football/articles/clyrk1xe64zo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Chelsea to play all WSL games at Stamford Bridge",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-22T08:13:56.917000+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 556,
+    "total_posted": 557,
     "total_collected": 1789
   },
-  "last_posted_at": "2026-04-22T16:07:36.736927+00:00"
+  "last_posted_at": "2026-04-22T17:13:54.449911+00:00"
 }
