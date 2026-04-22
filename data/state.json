@@ -2,28 +2,6 @@
   "last_collected": "2026-04-22T20:33:48.647025+00:00",
   "queue": [
     {
-      "tweet": "Did you see that new Clayface look for DC? I thought it looked sick for a second, then I looked closer. Never mind.",
-      "original_url": "https://kotaku.com/dcu-new-clayface-disturbing-teaser-2000689804",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "DC’s New Clayface Looks Great—Wait, Oh My God, No, Absolutely Not",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-22T20:33:48.645472+00:00"
-    },
-    {
-      "tweet": "The Nuggets telling the Wolves to let them talk after that criticism is classic. Just keep winning and the chirping doesn't matter.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48562974/nuggets-not-biting-wolves-mcdaniels-calling-defense",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Nuggets on McDaniels' criticism: 'Let them talk'",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-22T20:33:48.645467+00:00"
-    },
-    {
       "tweet": "So Justin Sun is suing the Trump family's crypto firm after dropping 45 million on tokens. That's how these guys play.",
       "original_url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -57,17 +35,6 @@
       "added_at": "2026-04-09T07:14:41.251727+00:00"
     },
     {
-      "tweet": "Chelsea owners have legit built a monument to chaos at Stamford Bridge. 106 days for a manager is just unserious.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c2k3ed1glp1o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hapless Chelsea owners have built a monument to chaos and decline",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-22T20:33:48.645470+00:00"
-    },
-    {
       "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
       "original_url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
       "buzz_score": 92,
@@ -88,6 +55,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "Chelsea owners have legit built a monument to chaos at Stamford Bridge. 106 days for a manager is just unserious.",
+      "original_url": "https://www.bbc.com/sport/football/articles/c2k3ed1glp1o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hapless Chelsea owners have built a monument to chaos and decline",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-22T20:33:48.645470+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -275,17 +253,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
-    },
-    {
-      "tweet": "Iran seized two cargo ships in the Strait of Hormuz right before those peace talks. Total chaos.",
-      "original_url": "https://www.nytimes.com/2026/04/22/world/asia/pakistan-iran-us-talks-islamabad.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Pakistani Officials Remain Hopeful About U.S.-Iran Talks",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-22T18:13:26.720698+00:00"
     },
     {
       "tweet": "VJ Edgecombe just dropped 30 and 10 on a bad back to beat the Cs. Absolute beast.",
@@ -574,26 +541,15 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Israel’s Independence Day honoring the guy who called to flatten Gaza is wild. That’s how they’re choosing to celebrate?",
-      "original_url": "https://www.nytimes.com/2026/04/22/world/middleeast/israel-gaza-independence-day-rabbi-avraham-zarbiv.html",
-      "buzz_score": 90,
+      "tweet": "Iran seized two cargo ships in the Strait of Hormuz right before those peace talks. Total chaos.",
+      "original_url": "https://www.nytimes.com/2026/04/22/world/asia/pakistan-iran-us-talks-islamabad.html",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "On Independence Day, Israel Honors Rabbi Who Called to ‘Flatten’ Gaza",
+      "original_title": "Pakistani Officials Remain Hopeful About U.S.-Iran Talks",
       "source": "NYT World",
       "category": "world",
-      "added_at": "2026-04-22T16:02:18.996637+00:00"
-    },
-    {
-      "tweet": "Apple Music exec says the labels need to take responsibility for AI content. They're just passing the buck.",
-      "original_url": "https://www.billboard.com/pro/apple-music-exec-talks-ai-billboard-on-the-record/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Apple Music Exec Talks AI: ‘I Really Need the Content Providers and the Labels to Take Responsibility’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-22T18:13:26.720948+00:00"
+      "added_at": "2026-04-22T18:13:26.720698+00:00"
     },
     {
       "tweet": "Ever notice how you know someone's face but can never remember their name? Brains are weird.",
@@ -871,6 +827,28 @@
       "added_at": "2026-04-09T12:09:23.834019+00:00"
     },
     {
+      "tweet": "Israel’s Independence Day honoring the guy who called to flatten Gaza is wild. That’s how they’re choosing to celebrate?",
+      "original_url": "https://www.nytimes.com/2026/04/22/world/middleeast/israel-gaza-independence-day-rabbi-avraham-zarbiv.html",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "On Independence Day, Israel Honors Rabbi Who Called to ‘Flatten’ Gaza",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-22T16:02:18.996637+00:00"
+    },
+    {
+      "tweet": "Apple Music exec says the labels need to take responsibility for AI content. They're just passing the buck.",
+      "original_url": "https://www.billboard.com/pro/apple-music-exec-talks-ai-billboard-on-the-record/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Apple Music Exec Talks AI: ‘I Really Need the Content Providers and the Labels to Take Responsibility’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-22T18:13:26.720948+00:00"
+    },
+    {
       "tweet": "Reading people argue about acetaminophen versus ibuprofen on HackerNews is exactly how we kill time at work.",
       "original_url": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
       "buzz_score": 70,
@@ -891,28 +869,6 @@
       "source": "Hypebeast",
       "category": "entertainment",
       "added_at": "2026-04-22T20:33:48.646019+00:00"
-    },
-    {
-      "tweet": "Ronnie O'Sullivan just swapped his cue mid-tournament at the Crucible and still made it through. Just a freak.",
-      "original_url": "https://www.bbc.com/sport/snooker/articles/c9qdzgv37e7o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "O'Sullivan's 'rolling the dice' cue gamble pays off",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-22T18:13:26.721348+00:00"
-    },
-    {
-      "tweet": "Ever notice how your phone flips your selfies? Apparently that’s just how we expect to see ourselves in a mirror. We're weird.",
-      "original_url": "https://www.mentalfloss.com/technology/phones/why-phone-cameras-flip-images?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Why Do Phone Cameras Flip Images?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-22T18:13:26.720538+00:00"
     },
     {
       "tweet": "NASA just shut off another instrument on Voyager 1 to keep it running. It's hanging on for dear life.",
@@ -990,6 +946,28 @@
       "source": "Variety",
       "category": "entertainment",
       "added_at": "2026-04-10T04:22:35.263433+00:00"
+    },
+    {
+      "tweet": "Ronnie O'Sullivan just swapped his cue mid-tournament at the Crucible and still made it through. Just a freak.",
+      "original_url": "https://www.bbc.com/sport/snooker/articles/c9qdzgv37e7o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "O'Sullivan's 'rolling the dice' cue gamble pays off",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-22T18:13:26.721348+00:00"
+    },
+    {
+      "tweet": "Ever notice how your phone flips your selfies? Apparently that’s just how we expect to see ourselves in a mirror. We're weird.",
+      "original_url": "https://www.mentalfloss.com/technology/phones/why-phone-cameras-flip-images?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Why Do Phone Cameras Flip Images?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-22T18:13:26.720538+00:00"
     },
     {
       "tweet": "LA schools are actually limiting screen time now. Guess we finally realized that staring at a laptop for eight hours isn't exactly peak education.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 563,
+    "total_posted": 565,
     "total_collected": 1818
   },
-  "last_posted_at": "2026-04-22T20:40:22.757028+00:00"
+  "last_posted_at": "2026-04-22T21:39:13.456775+00:00"
 }
