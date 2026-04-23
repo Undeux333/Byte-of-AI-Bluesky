@@ -2,28 +2,6 @@
   "last_collected": "2026-04-23T17:52:10.676328+00:00",
   "queue": [
     {
-      "tweet": "Wait, how are songs from 2016 ten years old now? That's just rude.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/songs-turning-10-in-2026?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Songs From 2016 You Didn't Realize Turn 10 This Year",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-23T17:52:10.674675+00:00"
-    },
-    {
-      "tweet": "Football Focus is ending after 52 years. Weird to think about that show not being there on a Saturday.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c98kz9pe01po?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Football Focus to end after 52 years",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-23T17:52:10.675210+00:00"
-    },
-    {
       "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
       "buzz_score": 95,
@@ -33,17 +11,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251727+00:00"
-    },
-    {
-      "tweet": "US finally reclassifying marijuana as less dangerous. Took them long enough to catch up to reality.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/23/us-reclassifies-some-marijuana-products-as-less-dangerous-drug?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US reclassifies some marijuana products as less dangerous drug",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-23T17:52:10.675336+00:00"
     },
     {
       "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
@@ -57,6 +24,17 @@
       "added_at": "2026-04-12T02:32:59.106863+00:00"
     },
     {
+      "tweet": "US finally reclassifying marijuana as less dangerous. Took them long enough to catch up to reality.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/23/us-reclassifies-some-marijuana-products-as-less-dangerous-drug?traffic_source=rss",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US reclassifies some marijuana products as less dangerous drug",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-23T17:52:10.675336+00:00"
+    },
+    {
       "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
       "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026",
       "buzz_score": 90,
@@ -66,6 +44,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "Trump says the King’s visit will fix relations with the UK. Does he really think it's that simple?",
@@ -99,17 +88,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-23T17:52:10.674839+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "Man, Guy Fieri just dropped his top five donut shops. I’m not saying I need a road trip, but we definitely need a road trip.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 586,
+    "total_posted": 588,
     "total_collected": 1910
   },
-  "last_posted_at": "2026-04-23T18:01:14.911169+00:00"
+  "last_posted_at": "2026-04-23T19:01:56.208344+00:00"
 }
