@@ -90,17 +90,6 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "US finally reclassifying marijuana as less dangerous. Took them long enough to catch up to reality.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/23/us-reclassifies-some-marijuana-products-as-less-dangerous-drug?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US reclassifies some marijuana products as less dangerous drug",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-23T17:52:10.675336+00:00"
-    },
-    {
       "tweet": "Man, Guy Fieri just dropped his top five donut shops. I’m not saying I need a road trip, but we definitely need a road trip.",
       "original_url": "https://www.mentalfloss.com/food/restaurants/best-donut-shops-guy-fieri?utm_source=RSS",
       "buzz_score": 85,
@@ -288,6 +277,17 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
+      "tweet": "US finally reclassifying marijuana as less dangerous. Took them long enough to catch up to reality.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/23/us-reclassifies-some-marijuana-products-as-less-dangerous-drug?traffic_source=rss",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US reclassifies some marijuana products as less dangerous drug",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-23T17:52:10.675336+00:00"
+    },
+    {
       "tweet": "Airlines in Europe are cutting thousands of flights 'cause of the fuel situation from the Iran war. Gonna be a rough summer for travel.",
       "original_url": "https://www.npr.org/2026/04/23/nx-s1-5797307/europe-airlines-jet-fuel-costs",
       "buzz_score": 80,
@@ -308,39 +308,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-23T20:01:51.951984+00:00"
-    },
-    {
-      "tweet": "Trump says the King’s visit will fix relations with the UK. Does he really think it's that simple?",
-      "original_url": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-23T17:52:10.675838+00:00"
-    },
-    {
-      "tweet": "Mexico is back to the 'kingpin strategy' for the cartels. Because that worked so well the first time.",
-      "original_url": "https://www.aljazeera.com/features/longform/2026/4/23/decapitating-cartels-mexico-leans-into-kingpin-strategy-but-at-a-cost?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Decapitating cartels? Mexico leans into ‘kingpin strategy’ but at a cost",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-23T17:52:10.675459+00:00"
-    },
-    {
-      "tweet": "Britney’s in treatment again. Feel like we're just watching the same rough cycle on repeat.",
-      "original_url": "https://www.billboard.com/music/music-news/britney-spears-ex-sam-asghari-reacts-checking-treatment-1236229958/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sam Asghari Hopes Britney Spears Is ‘Healing’ After Singer Checks Into Treatment Facility",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-23T17:52:10.674839+00:00"
     },
     {
       "tweet": "Those protestors in West Jerusalem are out there burning Israeli flags. Man.",
@@ -684,6 +651,39 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
+      "tweet": "Trump says the King’s visit will fix relations with the UK. Does he really think it's that simple?",
+      "original_url": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-23T17:52:10.675838+00:00"
+    },
+    {
+      "tweet": "Mexico is back to the 'kingpin strategy' for the cartels. Because that worked so well the first time.",
+      "original_url": "https://www.aljazeera.com/features/longform/2026/4/23/decapitating-cartels-mexico-leans-into-kingpin-strategy-but-at-a-cost?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Decapitating cartels? Mexico leans into ‘kingpin strategy’ but at a cost",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-23T17:52:10.675459+00:00"
+    },
+    {
+      "tweet": "Britney’s in treatment again. Feel like we're just watching the same rough cycle on repeat.",
+      "original_url": "https://www.billboard.com/music/music-news/britney-spears-ex-sam-asghari-reacts-checking-treatment-1236229958/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sam Asghari Hopes Britney Spears Is ‘Healing’ After Singer Checks Into Treatment Facility",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-23T17:52:10.674839+00:00"
+    },
+    {
       "tweet": "Drake just announced the release date for ICEMAN. It's that feeling where you know you're gonna listen to it the second it drops no matter what.",
       "original_url": "https://hypebeast.com/2026/4/drake-iceman-april-everything-we-loved-in-music-this-week",
       "buzz_score": 75,
@@ -704,39 +704,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-23T20:01:51.951986+00:00"
-    },
-    {
-      "tweet": "Duterte is actually going to trial for crimes against humanity. Guess some things do catch up to you.",
-      "original_url": "https://www.nytimes.com/2026/04/23/world/asia/duterte-icc-trial-drug-war.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Rodrigo Duterte Will Stand Trial for Crimes Against Humanity, Court Rules",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-23T17:52:10.675962+00:00"
-    },
-    {
-      "tweet": "Wemby is traveling with the Spurs while in concussion protocol. Just keep him in a bubble at this point.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48571593/spurs-victor-wembanyama-travel-concussion-protocol",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Wemby to travel with Spurs while in protocol",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-23T17:52:10.675088+00:00"
-    },
-    {
-      "tweet": "Bro, a literal chunk of glacier is blocking the path to Everest right now. Nature just said no.",
-      "original_url": "https://www.bbc.com/news/articles/cy81lrnv5peo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Huge chunk of glacier blocks Everest route in peak climbing season",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-23T17:52:10.674682+00:00"
     },
     {
       "tweet": "Netflix just dumped two seasons of Yizo Yizo. Sometimes you just need to watch a high school spiral into anarchy to feel normal.",
@@ -1045,6 +1012,39 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T12:09:23.834794+00:00"
+    },
+    {
+      "tweet": "Duterte is actually going to trial for crimes against humanity. Guess some things do catch up to you.",
+      "original_url": "https://www.nytimes.com/2026/04/23/world/asia/duterte-icc-trial-drug-war.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Rodrigo Duterte Will Stand Trial for Crimes Against Humanity, Court Rules",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-23T17:52:10.675962+00:00"
+    },
+    {
+      "tweet": "Wemby is traveling with the Spurs while in concussion protocol. Just keep him in a bubble at this point.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48571593/spurs-victor-wembanyama-travel-concussion-protocol",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Wemby to travel with Spurs while in protocol",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-23T17:52:10.675088+00:00"
+    },
+    {
+      "tweet": "Bro, a literal chunk of glacier is blocking the path to Everest right now. Nature just said no.",
+      "original_url": "https://www.bbc.com/news/articles/cy81lrnv5peo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Huge chunk of glacier blocks Everest route in peak climbing season",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-23T17:52:10.674682+00:00"
     }
   ],
   "seen_urls": [
