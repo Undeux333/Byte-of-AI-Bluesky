@@ -2,28 +2,6 @@
   "last_collected": "2026-04-22T23:25:27.267719+00:00",
   "queue": [
     {
-      "tweet": "Hold on, they found a way to link your Tor identity to your actual Firefox profile. Kinda defeats the whole point of using that browser, man.",
-      "original_url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "We found a stable Firefox identifier linking all your private Tor identities",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-22T23:25:27.266295+00:00"
-    },
-    {
-      "tweet": "Taylor Momsen got bit by a spider on stage in Mexico City. Poisonous spiders are definitely no bueno, man.",
-      "original_url": "https://www.billboard.com/music/rock/taylor-momsen-hospital-venomous-spider-bite-mexico-city-1236223491/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Taylor Momsen Spends Night in Mexico City Hospital After Venomous Spider Bite: ‘Poisonous Spiders Are NO BUENO’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-22T23:25:27.266311+00:00"
-    },
-    {
       "tweet": "So apparently Iran is grabbing ships near the Strait of Hormuz now. Just another Tuesday in global chaos, I guess.",
       "original_url": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks",
       "buzz_score": 80,
@@ -332,17 +310,6 @@
       "added_at": "2026-04-22T23:25:27.266980+00:00"
     },
     {
-      "tweet": "Chelsea owners have legit built a monument to chaos at Stamford Bridge. 106 days for a manager is just unserious.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c2k3ed1glp1o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hapless Chelsea owners have built a monument to chaos and decline",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-22T20:33:48.645470+00:00"
-    },
-    {
       "tweet": "VJ Edgecombe just dropped 30 and 10 on a bad back to beat the Cs. Absolute beast.",
       "original_url": "https://www.espn.com/nba/story/_/id/48555963/vj-edgecombe-tyrese-maxey-star-76ers-tie-first-round-series-vs-celtics",
       "buzz_score": 80,
@@ -627,6 +594,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-08T17:48:49.217272+00:00"
+    },
+    {
+      "tweet": "Chelsea owners have legit built a monument to chaos at Stamford Bridge. 106 days for a manager is just unserious.",
+      "original_url": "https://www.bbc.com/sport/football/articles/c2k3ed1glp1o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hapless Chelsea owners have built a monument to chaos and decline",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-22T20:33:48.645470+00:00"
     },
     {
       "tweet": "Saw the math and reading scores for 13-year-olds dropped again. Are we just collectively giving up on school at this point",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 568,
+    "total_posted": 570,
     "total_collected": 1834
   },
-  "last_posted_at": "2026-04-22T23:34:37.954163+00:00"
+  "last_posted_at": "2026-04-23T00:13:36.937214+00:00"
 }
