@@ -2,17 +2,6 @@
   "last_collected": "2026-04-23T14:34:35.023480+00:00",
   "queue": [
     {
-      "tweet": "Dude, surveillance companies are just buying access to telcos to track our locations. Like we aren't even pretending it's for security anymore. Absolute joke.",
-      "original_url": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Surveillance vendors caught abusing access to telcos to track people's locations",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-23T14:34:35.022530+00:00"
-    },
-    {
       "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
       "buzz_score": 95,
@@ -242,28 +231,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
-    },
-    {
-      "tweet": "Hold on, Russia is saying their own air is toxic after that refinery strike. Just raining oil down on the town. Casual Tuesday.",
-      "original_url": "https://www.nytimes.com/2026/04/23/world/europe/russia-oil-refinery-black-rain.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Russian Officials Say Town’s Air Is Toxic, Days After Strike on Oil Refinery",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-23T14:34:35.022547+00:00"
-    },
-    {
-      "tweet": "Over 500 people killed in Tanzania and the official report just shrugs. They couldn't even pin it on anyone if they tried.",
-      "original_url": "https://www.bbc.com/news/articles/cgld775knzyo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "More than 500 people killed in Tanzania election violence, inquiry finds",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-23T14:34:35.022543+00:00"
     },
     {
       "tweet": "Those protestors in West Jerusalem are out there burning Israeli flags. Man.",
@@ -607,37 +574,26 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Wait, two trains just had a head-on collision in Denmark? How does that even happen anymore.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/two-trains-crash-head-on-in-denmark?traffic_source=rss",
-      "buzz_score": 75,
+      "tweet": "Hold on, Russia is saying their own air is toxic after that refinery strike. Just raining oil down on the town. Casual Tuesday.",
+      "original_url": "https://www.nytimes.com/2026/04/23/world/europe/russia-oil-refinery-black-rain.html",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Two trains crash head-on in Denmark",
-      "source": "Al Jazeera",
+      "original_title": "Russian Officials Say Town’s Air Is Toxic, Days After Strike on Oil Refinery",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-04-23T14:34:35.023354+00:00"
+      "added_at": "2026-04-23T14:34:35.022547+00:00"
     },
     {
-      "tweet": "People are actually split on who goes second in the draft? Is it really that hard to tell.",
-      "original_url": "https://www.espn.com/nfl/story/_/id/48569897/bettors-divided-bailey-reese-no-2-pick-nfl-draft",
-      "buzz_score": 75,
+      "tweet": "Over 500 people killed in Tanzania and the official report just shrugs. They couldn't even pin it on anyone if they tried.",
+      "original_url": "https://www.bbc.com/news/articles/cgld775knzyo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Bettors split on Bailey, Reese as No. 2 overall pick",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-23T14:34:35.022969+00:00"
-    },
-    {
-      "tweet": "So apparently Musk is out here trying to sell sovereignty as a service now. Pretty sure we’re just building a corporate feudal system at this point.",
-      "original_url": "https://bigthink.com/books/elon-musk-sovereignty-as-a-service/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Elon Musk, SpaceX, and the rise of “sovereignty as a service”",
-      "source": "Big Think",
-      "category": "trivia",
-      "added_at": "2026-04-23T14:34:35.022537+00:00"
+      "original_title": "More than 500 people killed in Tanzania election violence, inquiry finds",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-23T14:34:35.022543+00:00"
     },
     {
       "tweet": "Netflix just dumped two seasons of Yizo Yizo. Sometimes you just need to watch a high school spiral into anarchy to feel normal.",
@@ -957,6 +913,39 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T12:09:23.834019+00:00"
+    },
+    {
+      "tweet": "Wait, two trains just had a head-on collision in Denmark? How does that even happen anymore.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/two-trains-crash-head-on-in-denmark?traffic_source=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Two trains crash head-on in Denmark",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-23T14:34:35.023354+00:00"
+    },
+    {
+      "tweet": "People are actually split on who goes second in the draft? Is it really that hard to tell.",
+      "original_url": "https://www.espn.com/nfl/story/_/id/48569897/bettors-divided-bailey-reese-no-2-pick-nfl-draft",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Bettors split on Bailey, Reese as No. 2 overall pick",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-23T14:34:35.022969+00:00"
+    },
+    {
+      "tweet": "So apparently Musk is out here trying to sell sovereignty as a service now. Pretty sure we’re just building a corporate feudal system at this point.",
+      "original_url": "https://bigthink.com/books/elon-musk-sovereignty-as-a-service/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Elon Musk, SpaceX, and the rise of “sovereignty as a service”",
+      "source": "Big Think",
+      "category": "trivia",
+      "added_at": "2026-04-23T14:34:35.022537+00:00"
     },
     {
       "tweet": "Reviews for the new Stranger Things are saying it finally feels like 2019 again. Turns out we're all just chasing the same vibe we had when we were younger.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 583,
+    "total_posted": 584,
     "total_collected": 1894
   },
-  "last_posted_at": "2026-04-23T14:42:43.230540+00:00"
+  "last_posted_at": "2026-04-23T16:16:35.964943+00:00"
 }
