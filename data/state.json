@@ -13,17 +13,6 @@
       "added_at": "2026-04-09T07:14:41.251727+00:00"
     },
     {
-      "tweet": "Man, Guy Fieri just dropped his top five donut shops. I’m not saying I need a road trip, but we definitely need a road trip.",
-      "original_url": "https://www.mentalfloss.com/food/restaurants/best-donut-shops-guy-fieri?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "5 Best Donut Shops in North America, According to Guy Fieri",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-23T03:45:03.475103+00:00"
-    },
-    {
       "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
       "original_url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
       "buzz_score": 92,
@@ -46,6 +35,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Man, Guy Fieri just dropped his top five donut shops. I’m not saying I need a road trip, but we definitely need a road trip.",
+      "original_url": "https://www.mentalfloss.com/food/restaurants/best-donut-shops-guy-fieri?utm_source=RSS",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "5 Best Donut Shops in North America, According to Guy Fieri",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-23T03:45:03.475103+00:00"
+    },
+    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -55,50 +55,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Those protestors in West Jerusalem are out there burning Israeli flags. Man.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/ultra-orthodox-jews-burn-israeli-flags-to-protest-national-day?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Ultra-Orthodox Jews burn Israeli flags to protest national day",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-23T03:45:03.476379+00:00"
-    },
-    {
-      "tweet": "Hollywood keeps dropping these twin films with the exact same plots at the same time. We really have no original ideas left.",
-      "original_url": "https://www.mentalfloss.com/entertainment/movies/twin-films-released-same-time?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "10 Cases of \"Twin Films\"—Movies With the Same Premise Released Around the Same Time",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-23T03:45:03.475720+00:00"
-    },
-    {
-      "tweet": "Iran just posted that video of them seizing that ship in the Strait of Hormuz. Normal stuff.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/iran-releases-video-of-irgc-seizing-ship-in-the-strait-of-hormuz?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Iran releases video of IRGC seizing ship in the Strait of Hormuz",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-23T03:45:03.475282+00:00"
-    },
-    {
-      "tweet": "Did you see Toronto had to melt down that giant ice thing for Drake’s new album? Talk about a total waste of water.",
-      "original_url": "https://www.nytimes.com/2026/04/22/world/canada/drake-album-ice-block-toronto.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Drake’s Ice Installation for New ‘Iceman’ Album Brings Headaches to Toronto",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-23T03:45:03.475114+00:00"
     },
     {
       "tweet": "Did you see what OpenAI is doing with the new ChatGPT images? It's getting too real, man. We're cooked.",
@@ -275,6 +231,50 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
+    },
+    {
+      "tweet": "Those protestors in West Jerusalem are out there burning Israeli flags. Man.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/ultra-orthodox-jews-burn-israeli-flags-to-protest-national-day?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Ultra-Orthodox Jews burn Israeli flags to protest national day",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-23T03:45:03.476379+00:00"
+    },
+    {
+      "tweet": "Hollywood keeps dropping these twin films with the exact same plots at the same time. We really have no original ideas left.",
+      "original_url": "https://www.mentalfloss.com/entertainment/movies/twin-films-released-same-time?utm_source=RSS",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "10 Cases of \"Twin Films\"—Movies With the Same Premise Released Around the Same Time",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-23T03:45:03.475720+00:00"
+    },
+    {
+      "tweet": "Iran just posted that video of them seizing that ship in the Strait of Hormuz. Normal stuff.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/iran-releases-video-of-irgc-seizing-ship-in-the-strait-of-hormuz?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Iran releases video of IRGC seizing ship in the Strait of Hormuz",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-23T03:45:03.475282+00:00"
+    },
+    {
+      "tweet": "Did you see Toronto had to melt down that giant ice thing for Drake’s new album? Talk about a total waste of water.",
+      "original_url": "https://www.nytimes.com/2026/04/22/world/canada/drake-album-ice-block-toronto.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Drake’s Ice Installation for New ‘Iceman’ Album Brings Headaches to Toronto",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-23T03:45:03.475114+00:00"
     },
     {
       "tweet": "So apparently Iran is grabbing ships near the Strait of Hormuz now. Just another Tuesday in global chaos, I guess.",
