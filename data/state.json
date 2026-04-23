@@ -2,28 +2,6 @@
   "last_collected": "2026-04-23T09:10:24.982310+00:00",
   "queue": [
     {
-      "tweet": "They're actually making a Super Troopers 3. I mean, I'm gonna watch it, but that's a total nostalgia trap.",
-      "original_url": "https://hypebeast.com/2026/4/searchlight-pictures-super-troopers-3-official-trailer-release-info",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mustaches, Matrimony, and Mayhem: 'Super Troopers 3' Crashes Theaters This August",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-23T09:10:24.980859+00:00"
-    },
-    {
-      "tweet": "So Ben Roberts-Smith was literally researching wellness businesses in Spain to hide out. That's a wild pivot.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/23/ben-roberts-smith-planned-to-leave-australia-and-researched-buying-wellness-business-in-spain-court-documents-show",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Ben Roberts-Smith planned to leave Australia and researched buying wellness business in Spain, court documents show",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-23T09:10:24.981153+00:00"
-    },
-    {
       "tweet": "So OKC is up 2-0 on the Suns but lost Jalen Williams to a hammy. That's just classic.",
       "original_url": "https://www.aljazeera.com/sports/2026/4/23/thunder-cruise-past-suns-again-but-lose-jalen-williams?traffic_source=rss",
       "buzz_score": 75,
@@ -44,6 +22,28 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-23T03:45:03.475103+00:00"
+    },
+    {
+      "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "UK’s Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing St",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251727+00:00"
+    },
+    {
+      "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
+      "original_url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
+      "buzz_score": 92,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Mexico’s Police Focus on World Cup While Thousands Remain Missing",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-12T02:32:59.106863+00:00"
     },
     {
       "tweet": "Those protestors in West Jerusalem are out there burning Israeli flags. Man.",
@@ -88,28 +88,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-23T03:45:03.475114+00:00"
-    },
-    {
-      "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "UK’s Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing St",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251727+00:00"
-    },
-    {
-      "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
-      "original_url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
-      "buzz_score": 92,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mexico’s Police Focus on World Cup While Thousands Remain Missing",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-12T02:32:59.106863+00:00"
     },
     {
       "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
@@ -308,17 +286,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
-    },
-    {
-      "tweet": "Reviews for the new Stranger Things are saying it finally feels like 2019 again. Turns out we're all just chasing the same vibe we had when we were younger.",
-      "original_url": "https://www.polygon.com/stranger-things-tales-from-85-review/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Stranger Things: Tales from '85 review: The best Stranger Things season since 2019",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-23T09:10:24.980862+00:00"
     },
     {
       "tweet": "So apparently Iran is grabbing ships near the Strait of Hormuz now. Just another Tuesday in global chaos, I guess.",
@@ -618,37 +585,15 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Did you see that train collision in Denmark? Five people hurt, that's rough.",
-      "original_url": "https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
+      "tweet": "Reviews for the new Stranger Things are saying it finally feels like 2019 again. Turns out we're all just chasing the same vibe we had when we were younger.",
+      "original_url": "https://www.polygon.com/stranger-things-tales-from-85-review/",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Two trains collide head-on in Denmark, leaving five critically hurt",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-23T09:10:24.982081+00:00"
-    },
-    {
-      "tweet": "Vrabel is missing draft day for counseling. Hope he's good, man.",
-      "original_url": "https://www.espn.com/nfl/story/_/id/48566969/mike-vrabel-seek-counseling-not-patriots-day-3-nfl-draft",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Vrabel to seek counseling, miss Day 3 of draft",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-23T09:10:24.981846+00:00"
-    },
-    {
-      "tweet": "Government failed to deliver 160 million in river improvements for those wetlands. Another day, another budget hole.",
-      "original_url": "https://www.theguardian.com/environment/2026/apr/23/governments-failed-to-deliver-160m-of-river-improvements-including-for-now-parched-nsw-wetlands-report-finds",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Governments failed to deliver $160m of river improvements including for now-parched NSW wetlands, report finds",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-23T09:10:24.981272+00:00"
+      "original_title": "Stranger Things: Tales from '85 review: The best Stranger Things season since 2019",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-23T09:10:24.980862+00:00"
     },
     {
       "tweet": "Netflix just dumped two seasons of Yizo Yizo. Sometimes you just need to watch a high school spiral into anarchy to feel normal.",
@@ -968,6 +913,39 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-09T12:09:23.834019+00:00"
+    },
+    {
+      "tweet": "Did you see that train collision in Denmark? Five people hurt, that's rough.",
+      "original_url": "https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Two trains collide head-on in Denmark, leaving five critically hurt",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-23T09:10:24.982081+00:00"
+    },
+    {
+      "tweet": "Vrabel is missing draft day for counseling. Hope he's good, man.",
+      "original_url": "https://www.espn.com/nfl/story/_/id/48566969/mike-vrabel-seek-counseling-not-patriots-day-3-nfl-draft",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Vrabel to seek counseling, miss Day 3 of draft",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-23T09:10:24.981846+00:00"
+    },
+    {
+      "tweet": "Government failed to deliver 160 million in river improvements for those wetlands. Another day, another budget hole.",
+      "original_url": "https://www.theguardian.com/environment/2026/apr/23/governments-failed-to-deliver-160m-of-river-improvements-including-for-now-parched-nsw-wetlands-report-finds",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Governments failed to deliver $160m of river improvements including for now-parched NSW wetlands, report finds",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-23T09:10:24.981272+00:00"
     },
     {
       "tweet": "Duran Duran and Nile Rodgers are back with new music. Still at it, huh.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 578,
+    "total_posted": 580,
     "total_collected": 1882
   },
-  "last_posted_at": "2026-04-23T09:15:49.791687+00:00"
+  "last_posted_at": "2026-04-23T10:54:29.843155+00:00"
 }
