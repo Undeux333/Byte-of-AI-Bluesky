@@ -2,28 +2,6 @@
   "last_collected": "2026-04-23T22:45:40.887703+00:00",
   "queue": [
     {
-      "tweet": "Kevin Hart just walked off that Cam'ron interview because they kept asking about Dame Dash. Talk about a quick exit.",
-      "original_url": "https://www.billboard.com/culture/tv-film/kevin-hart-camron-interview-dame-dash-1236230310/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Kevin Hart Comically Walks Off Cam’ron Interview After Being Asked About Dame Dash",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-23T22:45:40.886273+00:00"
-    },
-    {
-      "tweet": "Did you see Apple finally patched that bug cops were using to pull deleted texts off iPhones. Guess privacy actually works now.",
-      "original_url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-23T22:45:40.885723+00:00"
-    },
-    {
       "tweet": "Surrey police are closing that rape inquiry that caused all those riots because they said no offense happened. What a disaster.",
       "original_url": "https://www.theguardian.com/uk-news/2026/apr/23/surrey-police-to-close-inquiry-that-sparked-epsom-disorder",
       "buzz_score": 80,
@@ -123,17 +101,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Trump says Israel and Lebanon are extending that ceasefire for three weeks. Hope it holds up.",
-      "original_url": "https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran War Live Updates: Trump Says Israel and Lebanon Agree to Extend Cease-Fire",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-23T22:45:40.887420+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -143,6 +110,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Trump says Israel and Lebanon are extending that ceasefire for three weeks. Hope it holds up.",
+      "original_url": "https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iran War Live Updates: Trump Says Israel and Lebanon Agree to Extend Cease-Fire",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-23T22:45:40.887420+00:00"
     },
     {
       "tweet": "Man, Guy Fieri just dropped his top five donut shops. I’m not saying I need a road trip, but we definitely need a road trip.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 591,
+    "total_posted": 593,
     "total_collected": 1942
   },
-  "last_posted_at": "2026-04-23T22:52:45.166025+00:00"
+  "last_posted_at": "2026-04-23T23:36:42.817364+00:00"
 }
