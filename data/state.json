@@ -2,28 +2,6 @@
   "last_collected": "2026-04-24T04:26:55.557079+00:00",
   "queue": [
     {
-      "tweet": "Bro, that new Morgan Wallen and Ella Langley duet finally dropped. It's actually decent.",
-      "original_url": "https://www.billboard.com/music/country/ella-langley-morgan-wallen-i-cant-love-you-anymore-stream-1236229801/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Ella Langley & Morgan Wallen’s ‘I Can’t Love You Anymore’ Duet Has Arrived: Stream It Now",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-24T04:26:55.555368+00:00"
-    },
-    {
-      "tweet": "Kyle Sandilands showed up to his court hearing in a Rolls-Royce telling them to put him back on air. At least he's staying on brand.",
-      "original_url": "https://www.theguardian.com/media/2026/apr/24/kyle-sandilands-kiis-fm-arn-radio-contract-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘It’s pretty ugly’: Kyle Sandilands tells ARN to put him back on air as he arrives for court hearing in Rolls-Royce",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-24T01:13:51.954633+00:00"
-    },
-    {
       "tweet": "Dude, some Alberta startup is selling no-tech tractors for half price. Finally someone realizes we don't need a subscription to plow a field. Logic.",
       "original_url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
       "buzz_score": 85,
@@ -68,6 +46,17 @@
       "added_at": "2026-04-24T01:13:51.954492+00:00"
     },
     {
+      "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "UK’s Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing St",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251727+00:00"
+    },
+    {
       "tweet": "Charlize Theron is doing a Predator movie on Netflix now. Kind of feel like we've seen this exact movie a hundred times.",
       "original_url": "https://www.polygon.com/apex-netflix-review-charlize-theron/",
       "buzz_score": 75,
@@ -88,6 +77,39 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-24T01:13:51.954494+00:00"
+    },
+    {
+      "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
+      "original_url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
+      "buzz_score": 92,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Mexico’s Police Focus on World Cup While Thousands Remain Missing",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-12T02:32:59.106863+00:00"
+    },
+    {
+      "tweet": "Seeing reports about dissent inside the military over that whole Iran thing. Turns out you can't just fight a war for a year without people asking why.",
+      "original_url": "https://www.aljazeera.com/video/the-take-2/2026/4/23/how-trumps-iran-war-is-driving-military-dissent?traffic_source=rss",
+      "buzz_score": 90,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "How Trump’s Iran war is driving military dissent",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-23T20:01:51.951981+00:00"
+    },
+    {
+      "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
+      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026",
+      "buzz_score": 90,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "📈 Ranking top men's hoops players in the portal",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
       "tweet": "Surrey police are closing that rape inquiry that caused all those riots because they said no offense happened. What a disaster.",
@@ -123,37 +145,15 @@
       "added_at": "2026-04-24T01:13:51.954992+00:00"
     },
     {
-      "tweet": "Seeing reports about dissent inside the military over that whole Iran thing. Turns out you can't just fight a war for a year without people asking why.",
-      "original_url": "https://www.aljazeera.com/video/the-take-2/2026/4/23/how-trumps-iran-war-is-driving-military-dissent?traffic_source=rss",
-      "buzz_score": 90,
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "How Trump’s Iran war is driving military dissent",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-23T20:01:51.951981+00:00"
-    },
-    {
-      "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "UK’s Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing St",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251727+00:00"
-    },
-    {
-      "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
-      "original_url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
-      "buzz_score": 92,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mexico’s Police Focus on World Cup While Thousands Remain Missing",
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
       "source": "NYT World",
       "category": "world",
-      "added_at": "2026-04-12T02:32:59.106863+00:00"
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "Did you hear about that ex-cop who was planning a shooting at Jazz Fest? Glad they actually caught him in time.",
@@ -187,28 +187,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-23T20:01:51.951971+00:00"
-    },
-    {
-      "tweet": "Over a thousand dudes hit the transfer portal in like a day. It's basically corporate free agency for college kids now.",
-      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "📈 Ranking top men's hoops players in the portal",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "Man, Guy Fieri just dropped his top five donut shops. I’m not saying I need a road trip, but we definitely need a road trip.",
@@ -396,28 +374,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
-    },
-    {
-      "tweet": "Hold on, they’re having a mentalist headline the White House Correspondents' Dinner instead of a comedian. This is gonna be a disaster.",
-      "original_url": "https://www.npr.org/2026/04/23/nx-s1-5786573/oz-pearlman-mentalist-white-house-correspondents-dinner",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Can a mentalist trick Trump? Oz Pearlman will try in a room full of journalists",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-24T04:26:55.555907+00:00"
-    },
-    {
-      "tweet": "Finally caught that new Half Man drama on HBO. It’s that type of show where you just can’t look away.",
-      "original_url": "https://variety.com/2026/tv/global/half-man-younger-actors-niall-ruben-homoerotic-1236725872/",
-      "buzz_score": 78,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘Half Man’ Stars on Their ‘Sinister’ Fraternal Relationship in Richard Gadd’s New Drama and That Shocking Virginity-Loss Scene: ‘A Lot Scarier on the Page Than It Was to Shoot’",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-04-24T04:26:55.556297+00:00"
     },
     {
       "tweet": "Those protestors in West Jerusalem are out there burning Israeli flags. Man.",
@@ -761,15 +717,15 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Apparently you can actually track when you’re triggered by some childhood stuff. Realizing you’re just acting out because of something from twenty years ago is rough.",
-      "original_url": "https://bigthink.com/series/full-interview/childhood-wounds/",
-      "buzz_score": 75,
+      "tweet": "Hold on, they’re having a mentalist headline the White House Correspondents' Dinner instead of a comedian. This is gonna be a disaster.",
+      "original_url": "https://www.npr.org/2026/04/23/nx-s1-5786573/oz-pearlman-mentalist-white-house-correspondents-dinner",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "How to recognize when you’re reacting from childhood wounds",
-      "source": "Big Think",
-      "category": "trivia",
-      "added_at": "2026-04-24T04:26:55.555205+00:00"
+      "original_title": "Can a mentalist trick Trump? Oz Pearlman will try in a room full of journalists",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-24T04:26:55.555907+00:00"
     },
     {
       "tweet": "Netflix just dumped two seasons of Yizo Yizo. Sometimes you just need to watch a high school spiral into anarchy to feel normal.",
@@ -1034,6 +990,28 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-11T01:26:59.581201+00:00"
+    },
+    {
+      "tweet": "Finally caught that new Half Man drama on HBO. It’s that type of show where you just can’t look away.",
+      "original_url": "https://variety.com/2026/tv/global/half-man-younger-actors-niall-ruben-homoerotic-1236725872/",
+      "buzz_score": 78,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘Half Man’ Stars on Their ‘Sinister’ Fraternal Relationship in Richard Gadd’s New Drama and That Shocking Virginity-Loss Scene: ‘A Lot Scarier on the Page Than It Was to Shoot’",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-04-24T04:26:55.556297+00:00"
+    },
+    {
+      "tweet": "Apparently you can actually track when you’re triggered by some childhood stuff. Realizing you’re just acting out because of something from twenty years ago is rough.",
+      "original_url": "https://bigthink.com/series/full-interview/childhood-wounds/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "How to recognize when you’re reacting from childhood wounds",
+      "source": "Big Think",
+      "category": "trivia",
+      "added_at": "2026-04-24T04:26:55.555205+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 597,
+    "total_posted": 599,
     "total_collected": 1968
   },
-  "last_posted_at": "2026-04-24T04:36:16.468295+00:00"
+  "last_posted_at": "2026-04-24T06:31:51.367314+00:00"
 }
