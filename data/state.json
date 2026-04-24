@@ -24,6 +24,17 @@
       "added_at": "2026-04-24T08:28:33.233856+00:00"
     },
     {
+      "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "UK’s Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing St",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251727+00:00"
+    },
+    {
       "tweet": "Raiders actually took Mendoza with the first pick. Dudes hitting the parlay from college to pros.",
       "original_url": "https://www.bbc.com/sport/american-football/articles/cp38gxpqvv3o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -57,17 +68,6 @@
       "added_at": "2026-04-24T08:28:33.233863+00:00"
     },
     {
-      "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "UK’s Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing St",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251727+00:00"
-    },
-    {
       "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
       "original_url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
       "buzz_score": 92,
@@ -99,39 +99,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "Everyone is already talking about GPT-5.5 like we aren't still trying to figure out what 4.0 is even for. We're just chasing ghosts.",
-      "original_url": "https://openai.com/index/introducing-gpt-5-5/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "GPT-5.5",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-24T14:06:09.270770+00:00"
-    },
-    {
-      "tweet": "They just extended the Israel-Lebanon ceasefire and then everyone started shooting again immediately. Is that even a ceasefire?",
-      "original_url": "https://www.npr.org/2026/04/24/g-s1-118595/middle-east-war-updates",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israel-Lebanon ceasefire is extended by 3 weeks as tensions rise in Strait of Hormuz",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-24T14:06:09.270172+00:00"
-    },
-    {
-      "tweet": "So the Yakuza creator deleted his whole YouTube channel, scared the hell out of everyone, and then just put it back up. Total troll.",
-      "original_url": "https://kotaku.com/yakuza-creator-new-studio-gang-of-dragon-nagoshi-deletes-restores-youtube-channel-2000690206",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Yakuza Series Creator’s New Studio Deletes YouTube Channel, Sends Fans Into A Panic, Then Puts It Back Up",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-24T14:06:09.270166+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -374,6 +341,39 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
+    },
+    {
+      "tweet": "Everyone is already talking about GPT-5.5 like we aren't still trying to figure out what 4.0 is even for. We're just chasing ghosts.",
+      "original_url": "https://openai.com/index/introducing-gpt-5-5/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "GPT-5.5",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-24T14:06:09.270770+00:00"
+    },
+    {
+      "tweet": "They just extended the Israel-Lebanon ceasefire and then everyone started shooting again immediately. Is that even a ceasefire?",
+      "original_url": "https://www.npr.org/2026/04/24/g-s1-118595/middle-east-war-updates",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Israel-Lebanon ceasefire is extended by 3 weeks as tensions rise in Strait of Hormuz",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-24T14:06:09.270172+00:00"
+    },
+    {
+      "tweet": "So the Yakuza creator deleted his whole YouTube channel, scared the hell out of everyone, and then just put it back up. Total troll.",
+      "original_url": "https://kotaku.com/yakuza-creator-new-studio-gang-of-dragon-nagoshi-deletes-restores-youtube-channel-2000690206",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Yakuza Series Creator’s New Studio Deletes YouTube Channel, Sends Fans Into A Panic, Then Puts It Back Up",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-24T14:06:09.270166+00:00"
     },
     {
       "tweet": "Bob Iger is heading back to Thrive Capital after leaving Disney. It's like these guys just trade seats in the same room forever.",
@@ -772,28 +772,6 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Hold on, the US was actually gonna rethink Falkland sovereignty just to spite the UK. Petty",
-      "original_url": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "No 10 say Falkland sovereignty rests with UK after report of US 'review'",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-24T11:21:52.726643+00:00"
-    },
-    {
-      "tweet": "So apparently the Pentagon considered suspending Spain over the Iran war. Since when do we just fire our allies",
-      "original_url": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-24T11:21:52.726514+00:00"
-    },
-    {
       "tweet": "Charlize Theron is doing a Predator movie on Netflix now. Kind of feel like we've seen this exact movie a hundred times.",
       "original_url": "https://www.polygon.com/apex-netflix-review-charlize-theron/",
       "buzz_score": 75,
@@ -979,6 +957,28 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-16T13:03:06.242882+00:00"
+    },
+    {
+      "tweet": "Hold on, the US was actually gonna rethink Falkland sovereignty just to spite the UK. Petty",
+      "original_url": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "No 10 say Falkland sovereignty rests with UK after report of US 'review'",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-24T11:21:52.726643+00:00"
+    },
+    {
+      "tweet": "So apparently the Pentagon considered suspending Spain over the Iran war. Since when do we just fire our allies",
+      "original_url": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-24T11:21:52.726514+00:00"
     },
     {
       "tweet": "Israel's still setting off explosions in Lebanon despite the ceasefire. What's even the point of that",
