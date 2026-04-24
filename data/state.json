@@ -2,28 +2,6 @@
   "last_collected": "2026-04-24T19:27:44.441997+00:00",
   "queue": [
     {
-      "tweet": "Trump’s sending Kushner to Pakistan to talk Iran now. I don't even know what year it is anymore.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/24/iran-foreign-minister-to-embark-on-three-nation-tour-as-us-peace-talks-remain-stalled",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump sending Witkoff and Kushner to Pakistan to resume talks on Iran war",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-24T19:27:44.440991+00:00"
-    },
-    {
-      "tweet": "Europeans are looking into protecting each other without NATO now. Like, what was that whole thing for then?",
-      "original_url": "https://www.nytimes.com/2026/04/24/world/europe/europe-defense-nato-trump-eu.html",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Europeans Ask: What Would It Mean to Defend One Another Without NATO?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-24T19:27:44.440305+00:00"
-    },
-    {
       "tweet": "If you're still stuck on those Vampire Crawlers card evolutions, just check the list. Game changer.",
       "original_url": "https://www.polygon.com/vampire-crawlers-evolutions-all-card-combinations/",
       "buzz_score": 70,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 610,
+    "total_posted": 612,
     "total_collected": 2048
   },
-  "last_posted_at": "2026-04-24T19:34:37.591816+00:00"
+  "last_posted_at": "2026-04-24T20:11:30.325095+00:00"
 }
