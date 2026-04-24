@@ -2,28 +2,6 @@
   "last_collected": "2026-04-24T11:21:52.728326+00:00",
   "queue": [
     {
-      "tweet": "Trump's easing medical marijuana rules while the ceasefire holds. Weird week",
-      "original_url": "https://www.npr.org/2026/04/24/g-s1-118594/up-first-newsletter-strait-of-hormuz-lebanon-israel-marijuana-reclassification-georgia-wildfires-polymarket",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Israel and Lebanon extend ceasefire. And, Trump eases medical marijuana rules",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-24T11:21:52.726794+00:00"
-    },
-    {
-      "tweet": "Bitwarden just got compromised in that supply chain attack. Guess I'm changing every single password I have tonight",
-      "original_url": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-24T11:21:52.726384+00:00"
-    },
-    {
       "tweet": "They're using speakers to blast music at coral reefs to save them. We'll do anything but actually fix the water",
       "original_url": "https://www.theguardian.com/environment/2026/apr/24/coral-reefs-jamaica",
       "buzz_score": 75,
@@ -134,6 +112,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
       "tweet": "Hold on, the US was actually gonna rethink Falkland sovereignty just to spite the UK. Petty",
       "original_url": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -154,17 +143,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-24T11:21:52.726514+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "Dude, some Alberta startup is selling no-tech tractors for half price. Finally someone realizes we don't need a subscription to plow a field. Logic.",
@@ -838,17 +816,6 @@
       "added_at": "2026-04-24T11:21:52.727051+00:00"
     },
     {
-      "tweet": "Trump says the Lebanon cease-fire got extended by three weeks. Whatever it takes to keep the lights on.",
-      "original_url": "https://www.nytimes.com/live/2026/04/24/world/iran-war-trump-hormuz",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran War Live Updates: Trump Says Lebanon Cease-Fire Is Extended by 3 Weeks",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-24T08:28:33.234024+00:00"
-    },
-    {
       "tweet": "Charlize Theron is doing a Predator movie on Netflix now. Kind of feel like we've seen this exact movie a hundred times.",
       "original_url": "https://www.polygon.com/apex-netflix-review-charlize-theron/",
       "buzz_score": 75,
@@ -1034,6 +1001,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-16T13:03:06.242882+00:00"
+    },
+    {
+      "tweet": "Trump says the Lebanon cease-fire got extended by three weeks. Whatever it takes to keep the lights on.",
+      "original_url": "https://www.nytimes.com/live/2026/04/24/world/iran-war-trump-hormuz",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iran War Live Updates: Trump Says Lebanon Cease-Fire Is Extended by 3 Weeks",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-24T08:28:33.234024+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 601,
+    "total_posted": 603,
     "total_collected": 2000
   },
-  "last_posted_at": "2026-04-24T11:29:35.799438+00:00"
+  "last_posted_at": "2026-04-24T12:17:18.181001+00:00"
 }
