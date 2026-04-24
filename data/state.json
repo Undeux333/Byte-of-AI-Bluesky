@@ -24,17 +24,6 @@
       "added_at": "2026-04-12T02:32:59.106863+00:00"
     },
     {
-      "tweet": "We've got three aircraft carriers in the Middle East for the first time since 2003. That's a lot of metal.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/24/us-has-three-aircraft-carriers-in-the-middle-east-for-first-time-since-2003?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US has three aircraft carriers in the Middle East for first time since 2003",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-24T16:31:13.285682+00:00"
-    },
-    {
       "tweet": "Seeing reports about dissent inside the military over that whole Iran thing. Turns out you can't just fight a war for a year without people asking why.",
       "original_url": "https://www.aljazeera.com/video/the-take-2/2026/4/23/how-trumps-iran-war-is-driving-military-dissent?traffic_source=rss",
       "buzz_score": 90,
@@ -57,6 +46,28 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "We've got three aircraft carriers in the Middle East for the first time since 2003. That's a lot of metal.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/24/us-has-three-aircraft-carriers-in-the-middle-east-for-first-time-since-2003?traffic_source=rss",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US has three aircraft carriers in the Middle East for first time since 2003",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-24T16:31:13.285682+00:00"
+    },
+    {
       "tweet": "So the BBC found out Epstein was using London flats for victims. That whole thing is just bottomless.",
       "original_url": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -77,28 +88,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-24T08:28:33.233856+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Man, Alcaraz is missing the French Open with that wrist injury. That's rough.",
-      "original_url": "https://www.bbc.com/sport/tennis/articles/c15de9d91jwo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Defending champion Alcaraz to miss French Open",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-24T16:31:13.285415+00:00"
     },
     {
       "tweet": "Dude, some Alberta startup is selling no-tech tractors for half price. Finally someone realizes we don't need a subscription to plow a field. Logic.",
@@ -330,6 +319,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
+    },
+    {
+      "tweet": "Man, Alcaraz is missing the French Open with that wrist injury. That's rough.",
+      "original_url": "https://www.bbc.com/sport/tennis/articles/c15de9d91jwo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Defending champion Alcaraz to miss French Open",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-24T16:31:13.285415+00:00"
     },
     {
       "tweet": "Raiders actually took Mendoza with the first pick. Dudes hitting the parlay from college to pros.",
@@ -761,61 +761,6 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Everyone is already talking about GPT-5.5 like we aren't still trying to figure out what 4.0 is even for. We're just chasing ghosts.",
-      "original_url": "https://openai.com/index/introducing-gpt-5-5/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "GPT-5.5",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-24T14:06:09.270770+00:00"
-    },
-    {
-      "tweet": "They just extended the Israel-Lebanon ceasefire and then everyone started shooting again immediately. Is that even a ceasefire?",
-      "original_url": "https://www.npr.org/2026/04/24/g-s1-118595/middle-east-war-updates",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israel-Lebanon ceasefire is extended by 3 weeks as tensions rise in Strait of Hormuz",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-24T14:06:09.270172+00:00"
-    },
-    {
-      "tweet": "So the Yakuza creator deleted his whole YouTube channel, scared the hell out of everyone, and then just put it back up. Total troll.",
-      "original_url": "https://kotaku.com/yakuza-creator-new-studio-gang-of-dragon-nagoshi-deletes-restores-youtube-channel-2000690206",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Yakuza Series Creator’s New Studio Deletes YouTube Channel, Sends Fans Into A Panic, Then Puts It Back Up",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-24T14:06:09.270166+00:00"
-    },
-    {
-      "tweet": "China is going all-in on driverless tech at the Beijing car show. Hopefully it works better than my cruise control.",
-      "original_url": "https://www.theguardian.com/technology/2026/apr/24/china-chases-driverless-dream-beijing-car-show-ai",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘Look, no hands’: China chases the driverless dream at Beijing car show",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-24T16:31:13.285804+00:00"
-    },
-    {
-      "tweet": "So the DOJ dropped that probe into Jerome Powell now that he's on the way out. Classic.",
-      "original_url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US justice department drops probe into Fed chairman Jerome Powell",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-24T16:31:13.284879+00:00"
-    },
-    {
       "tweet": "Charlize Theron is doing a Predator movie on Netflix now. Kind of feel like we've seen this exact movie a hundred times.",
       "original_url": "https://www.polygon.com/apex-netflix-review-charlize-theron/",
       "buzz_score": 75,
@@ -1001,6 +946,61 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-16T13:03:06.242882+00:00"
+    },
+    {
+      "tweet": "Everyone is already talking about GPT-5.5 like we aren't still trying to figure out what 4.0 is even for. We're just chasing ghosts.",
+      "original_url": "https://openai.com/index/introducing-gpt-5-5/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "GPT-5.5",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-24T14:06:09.270770+00:00"
+    },
+    {
+      "tweet": "They just extended the Israel-Lebanon ceasefire and then everyone started shooting again immediately. Is that even a ceasefire?",
+      "original_url": "https://www.npr.org/2026/04/24/g-s1-118595/middle-east-war-updates",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Israel-Lebanon ceasefire is extended by 3 weeks as tensions rise in Strait of Hormuz",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-24T14:06:09.270172+00:00"
+    },
+    {
+      "tweet": "So the Yakuza creator deleted his whole YouTube channel, scared the hell out of everyone, and then just put it back up. Total troll.",
+      "original_url": "https://kotaku.com/yakuza-creator-new-studio-gang-of-dragon-nagoshi-deletes-restores-youtube-channel-2000690206",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Yakuza Series Creator’s New Studio Deletes YouTube Channel, Sends Fans Into A Panic, Then Puts It Back Up",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-24T14:06:09.270166+00:00"
+    },
+    {
+      "tweet": "China is going all-in on driverless tech at the Beijing car show. Hopefully it works better than my cruise control.",
+      "original_url": "https://www.theguardian.com/technology/2026/apr/24/china-chases-driverless-dream-beijing-car-show-ai",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘Look, no hands’: China chases the driverless dream at Beijing car show",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-24T16:31:13.285804+00:00"
+    },
+    {
+      "tweet": "So the DOJ dropped that probe into Jerome Powell now that he's on the way out. Classic.",
+      "original_url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US justice department drops probe into Fed chairman Jerome Powell",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-24T16:31:13.284879+00:00"
     },
     {
       "tweet": "Asha Sharma says she wants the right decision for Xbox, not the fastest. Doesn't that just mean they're behind?",
