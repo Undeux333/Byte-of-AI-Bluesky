@@ -2,17 +2,6 @@
   "last_collected": "2026-04-24T16:31:13.286669+00:00",
   "queue": [
     {
-      "tweet": "Dude, Apple finally patched that bug cops were using to pull deleted texts off people's phones. About time.",
-      "original_url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-24T16:31:13.284874+00:00"
-    },
-    {
       "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
       "buzz_score": 95,
@@ -24,39 +13,6 @@
       "added_at": "2026-04-09T07:14:41.251727+00:00"
     },
     {
-      "tweet": "We've got three aircraft carriers in the Middle East for the first time since 2003. That's a lot of metal.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/24/us-has-three-aircraft-carriers-in-the-middle-east-for-first-time-since-2003?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US has three aircraft carriers in the Middle East for first time since 2003",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-24T16:31:13.285682+00:00"
-    },
-    {
-      "tweet": "So the BBC found out Epstein was using London flats for victims. That whole thing is just bottomless.",
-      "original_url": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Epstein housed abuse victims in London flats, BBC reveals",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-24T08:28:33.234896+00:00"
-    },
-    {
-      "tweet": "Did you see Palantir employees are suddenly having a mid-life crisis about whether they're the bad guys. I mean, they took the job. It's too late.",
-      "original_url": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Palantir employees are starting to wonder if they're the bad guys",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-24T08:28:33.233856+00:00"
-    },
-    {
       "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
       "original_url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
       "buzz_score": 92,
@@ -66,6 +22,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-12T02:32:59.106863+00:00"
+    },
+    {
+      "tweet": "We've got three aircraft carriers in the Middle East for the first time since 2003. That's a lot of metal.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/24/us-has-three-aircraft-carriers-in-the-middle-east-for-first-time-since-2003?traffic_source=rss",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US has three aircraft carriers in the Middle East for first time since 2003",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-24T16:31:13.285682+00:00"
     },
     {
       "tweet": "Seeing reports about dissent inside the military over that whole Iran thing. Turns out you can't just fight a war for a year without people asking why.",
@@ -90,15 +57,26 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Man, Alcaraz is missing the French Open with that wrist injury. That's rough.",
-      "original_url": "https://www.bbc.com/sport/tennis/articles/c15de9d91jwo?at_medium=RSS&at_campaign=rss",
+      "tweet": "So the BBC found out Epstein was using London flats for victims. That whole thing is just bottomless.",
+      "original_url": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
-      "buzz_score2": 90,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Defending champion Alcaraz to miss French Open",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-24T16:31:13.285415+00:00"
+      "original_title": "Epstein housed abuse victims in London flats, BBC reveals",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-24T08:28:33.234896+00:00"
+    },
+    {
+      "tweet": "Did you see Palantir employees are suddenly having a mid-life crisis about whether they're the bad guys. I mean, they took the job. It's too late.",
+      "original_url": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Palantir employees are starting to wonder if they're the bad guys",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-24T08:28:33.233856+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -112,37 +90,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Raiders actually took Mendoza with the first pick. Dudes hitting the parlay from college to pros.",
-      "original_url": "https://www.bbc.com/sport/american-football/articles/cp38gxpqvv3o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
+      "tweet": "Man, Alcaraz is missing the French Open with that wrist injury. That's rough.",
+      "original_url": "https://www.bbc.com/sport/tennis/articles/c15de9d91jwo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Raiders take Mendoza with first pick of NFL Draft",
+      "original_title": "Defending champion Alcaraz to miss French Open",
       "source": "BBC Sport",
       "category": "sports",
-      "added_at": "2026-04-24T08:28:33.234392+00:00"
-    },
-    {
-      "tweet": "Bro, they caught two people planning to hit a synagogue in Houston. We're really doing this now.",
-      "original_url": "https://www.npr.org/2026/04/24/g-s1-118590/2-arrested-in-plot-to-attack-houston-synagogue",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "2 young people arrested in alleged plot to attack Houston synagogue",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-24T08:28:33.233868+00:00"
-    },
-    {
-      "tweet": "Hold on, a US special forces guy got arrested for trying to cash in four hundred grand from that Maduro raid. That's a hell of a bonus.",
-      "original_url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-24T08:28:33.233863+00:00"
+      "added_at": "2026-04-24T16:31:13.285415+00:00"
     },
     {
       "tweet": "Dude, some Alberta startup is selling no-tech tractors for half price. Finally someone realizes we don't need a subscription to plow a field. Logic.",
@@ -374,6 +330,39 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
+    },
+    {
+      "tweet": "Raiders actually took Mendoza with the first pick. Dudes hitting the parlay from college to pros.",
+      "original_url": "https://www.bbc.com/sport/american-football/articles/cp38gxpqvv3o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Raiders take Mendoza with first pick of NFL Draft",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-24T08:28:33.234392+00:00"
+    },
+    {
+      "tweet": "Bro, they caught two people planning to hit a synagogue in Houston. We're really doing this now.",
+      "original_url": "https://www.npr.org/2026/04/24/g-s1-118590/2-arrested-in-plot-to-attack-houston-synagogue",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "2 young people arrested in alleged plot to attack Houston synagogue",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-24T08:28:33.233868+00:00"
+    },
+    {
+      "tweet": "Hold on, a US special forces guy got arrested for trying to cash in four hundred grand from that Maduro raid. That's a hell of a bonus.",
+      "original_url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-24T08:28:33.233863+00:00"
     },
     {
       "tweet": "Bob Iger is heading back to Thrive Capital after leaving Disney. It's like these guys just trade seats in the same room forever.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 607,
+    "total_posted": 608,
     "total_collected": 2032
   },
-  "last_posted_at": "2026-04-24T16:39:49.543960+00:00"
+  "last_posted_at": "2026-04-24T17:35:58.801937+00:00"
 }
