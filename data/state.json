@@ -2,28 +2,6 @@
   "last_collected": "2026-04-25T15:26:11.572702+00:00",
   "queue": [
     {
-      "tweet": "Did you know the whole walking the plank thing is just a myth? Real pirate life was way darker.",
-      "original_url": "https://www.mentalfloss.com/history/misconceptions/pirates-didn-t-make-captives-walk-plank-real-punishments-much-worse?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Pirates Didn’t Make Captives Walk the Plank (The Real Punishments Were Much Worse)",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-25T15:26:11.572320+00:00"
-    },
-    {
-      "tweet": "Hold on, they’re actually making an SNL UK now? Just feels like we're running out of original ideas.",
-      "original_url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-uk-online-free-1236203547/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘Saturday Night Live UK’: Where to Watch the British Version of the Sketch Comedy Show Online",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-25T15:26:11.571225+00:00"
-    },
-    {
       "tweet": "Man, that whole thing with those London flats is wild. Still can't believe the police just looked the other way for that long. Gross",
       "original_url": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 90,
@@ -66,17 +44,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Man, another brutal night of airstrikes in Ukraine. Seriously rough.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/25/russian-airstrikes-ukraine-dnipro-odesa-kharkiv",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Russian airstrikes kill at least seven people in Ukraine overnight",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-25T15:26:11.571402+00:00"
     },
     {
       "tweet": "Final Fantasy 14 is finally hitting Switch 2 but there's a literal Nintendo tax on it. Classic",
@@ -354,26 +321,15 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "People on HackerNews are building wikis that maintain themselves using AI agents. We’re just automating ourselves out of a job at this point.",
-      "original_url": "https://github.com/nex-crm/wuphf",
-      "buzz_score": 80,
+      "tweet": "Man, another brutal night of airstrikes in Ukraine. Seriously rough.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/25/russian-airstrikes-ukraine-dnipro-odesa-kharkiv",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-25T15:26:11.572446+00:00"
-    },
-    {
-      "tweet": "A judge in Nova Scotia just had to define what 'the woods' are because the government got weird with a hiking ban. Peak bureaucracy.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/25/canada-nova-scotia-wildfire-woods-ban",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "What counts as the woods? Judge axes Nova Scotia’s ban that defied ‘commonsense definitions’",
+      "original_title": "Russian airstrikes kill at least seven people in Ukraine overnight",
       "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-04-25T15:26:11.571233+00:00"
+      "added_at": "2026-04-25T15:26:11.571402+00:00"
     },
     {
       "tweet": "Real Madrid just blew it against Betis in stoppage time. Barca fans must be loving that",
@@ -827,48 +783,26 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Apparently sixty bucks of random accessories can fix a whole wardrobe. We all just want the easy fix.",
-      "original_url": "https://www.bustle.com/style/cheap-things-that-make-your-outfits-look-way-nicer",
-      "buzz_score": 75,
+      "tweet": "People on HackerNews are building wikis that maintain themselves using AI agents. We’re just automating ourselves out of a job at this point.",
+      "original_url": "https://github.com/nex-crm/wuphf",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "60 Cheap Things That Make Your Outfits Look Way Nicer",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-04-25T15:26:11.572193+00:00"
+      "original_title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-25T15:26:11.572446+00:00"
     },
     {
-      "tweet": "Looks like that Star Wars Galactic Racer game is actually dropping this fall. Finally.",
-      "original_url": "https://kotaku.com/star-wars-galactic-racer-release-date-leak-2000690630",
-      "buzz_score": 75,
+      "tweet": "A judge in Nova Scotia just had to define what 'the woods' are because the government got weird with a hiking ban. Peak bureaucracy.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/25/canada-nova-scotia-wildfire-woods-ban",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Star Wars: Galactic Racer Release Date Seemingly Leaks Leaving One Less Question Mark On 2026’s Empty Fall Calendar",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-25T15:26:11.571663+00:00"
-    },
-    {
-      "tweet": "They’re expecting 59,000 people at the London Marathon next year. That's a lot of running.",
-      "original_url": "https://www.bbc.com/sport/athletics/articles/c5yjn5m23l1o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "London Marathon 2026 - all you need to know",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-25T15:26:11.571228+00:00"
-    },
-    {
-      "tweet": "So apparently Olivia Rodrigo just hit number one in the U.K. again. Girl literally can't stop.",
-      "original_url": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-drop-dead-uk-number-one-single-chart-1236231422/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Olivia Rodrigo’s ‘Drop Dead’ Debuts at No. 1 on U.K. Charts",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-25T15:26:11.571221+00:00"
+      "original_title": "What counts as the woods? Judge axes Nova Scotia’s ban that defied ‘commonsense definitions’",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-25T15:26:11.571233+00:00"
     },
     {
       "tweet": "Charlize Theron is doing a Predator movie on Netflix now. Kind of feel like we've seen this exact movie a hundred times.",
@@ -1001,6 +935,50 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-18T22:22:55.048588+00:00"
+    },
+    {
+      "tweet": "Apparently sixty bucks of random accessories can fix a whole wardrobe. We all just want the easy fix.",
+      "original_url": "https://www.bustle.com/style/cheap-things-that-make-your-outfits-look-way-nicer",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "60 Cheap Things That Make Your Outfits Look Way Nicer",
+      "source": "Bustle",
+      "category": "sex",
+      "added_at": "2026-04-25T15:26:11.572193+00:00"
+    },
+    {
+      "tweet": "Looks like that Star Wars Galactic Racer game is actually dropping this fall. Finally.",
+      "original_url": "https://kotaku.com/star-wars-galactic-racer-release-date-leak-2000690630",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Star Wars: Galactic Racer Release Date Seemingly Leaks Leaving One Less Question Mark On 2026’s Empty Fall Calendar",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-25T15:26:11.571663+00:00"
+    },
+    {
+      "tweet": "They’re expecting 59,000 people at the London Marathon next year. That's a lot of running.",
+      "original_url": "https://www.bbc.com/sport/athletics/articles/c5yjn5m23l1o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "London Marathon 2026 - all you need to know",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-25T15:26:11.571228+00:00"
+    },
+    {
+      "tweet": "So apparently Olivia Rodrigo just hit number one in the U.K. again. Girl literally can't stop.",
+      "original_url": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-drop-dead-uk-number-one-single-chart-1236231422/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Olivia Rodrigo’s ‘Drop Dead’ Debuts at No. 1 on U.K. Charts",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-25T15:26:11.571221+00:00"
     },
     {
       "tweet": "So apparently there’s a ranked list for the most polite countries. Imagine actually caring about that.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 632,
+    "total_posted": 634,
     "total_collected": 2118
   },
-  "last_posted_at": "2026-04-25T16:06:03.444590+00:00"
+  "last_posted_at": "2026-04-25T17:08:14.997126+00:00"
 }
