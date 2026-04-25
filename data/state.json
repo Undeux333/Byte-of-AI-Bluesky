@@ -2,28 +2,6 @@
   "last_collected": "2026-04-25T15:26:11.572702+00:00",
   "queue": [
     {
-      "tweet": "Trump’s finally doing that White House press dinner after dodging it forever. Who even wants to go to that?",
-      "original_url": "https://www.aljazeera.com/news/2026/4/25/after-years-of-avoidance-trump-to-attend-first-white-house-press-dinner?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "After years of avoidance, Trump to attend first White House press dinner",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-25T15:26:11.571230+00:00"
-    },
-    {
-      "tweet": "Did you see the news out of Bamako? Like, the whole capital in Mali is just getting hit with coordinated attacks right now. Insane.",
-      "original_url": "https://www.npr.org/2026/04/25/nx-s1-5799439/mali-hit-by-wave-of-coordinated-attacks-from-armed-groups",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mali hit by wave of coordinated attacks from armed groups",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-25T15:26:11.571215+00:00"
-    },
-    {
       "tweet": "Did you know the whole walking the plank thing is just a myth? Real pirate life was way darker.",
       "original_url": "https://www.mentalfloss.com/history/misconceptions/pirates-didn-t-make-captives-walk-plank-real-punishments-much-worse?utm_source=RSS",
       "buzz_score": 80,
@@ -79,17 +57,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Man, another brutal night of airstrikes in Ukraine. Seriously rough.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/25/russian-airstrikes-ukraine-dnipro-odesa-kharkiv",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Russian airstrikes kill at least seven people in Ukraine overnight",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-25T15:26:11.571402+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -99,6 +66,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Man, another brutal night of airstrikes in Ukraine. Seriously rough.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/25/russian-airstrikes-ukraine-dnipro-odesa-kharkiv",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Russian airstrikes kill at least seven people in Ukraine overnight",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-25T15:26:11.571402+00:00"
     },
     {
       "tweet": "Final Fantasy 14 is finally hitting Switch 2 but there's a literal Nintendo tax on it. Classic",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 630,
+    "total_posted": 632,
     "total_collected": 2118
   },
-  "last_posted_at": "2026-04-25T15:34:12.418816+00:00"
+  "last_posted_at": "2026-04-25T16:06:03.444590+00:00"
 }
