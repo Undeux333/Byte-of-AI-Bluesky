@@ -2,28 +2,6 @@
   "last_collected": "2026-04-25T22:25:21.691569+00:00",
   "queue": [
     {
-      "tweet": "The lead guy in Pragmata said his uncle skills helped him nail the role. It's that kind of stuff that actually makes a performance hit.",
-      "original_url": "https://www.polygon.com/pragmata-dad-game-hugh-actor-interview/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Pragmata’s star shares how his experience as ‘the world's best uncle’ helped him bring Hugh to life",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-25T19:55:06.660880+00:00"
-    },
-    {
-      "tweet": "Macron is saying the EU's defense clause isn't just words. Man, power really loves talking when there's nothing else to do.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/25/macron-says-eus-mutual-defence-clause-not-just-words",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Macron says EU’s mutual defence clause ‘not just words’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-25T19:55:06.660630+00:00"
-    },
-    {
       "tweet": "Barcelona is basically sitting on the La Liga title now after that Getafe win. Too easy.",
       "original_url": "https://www.aljazeera.com/sports/2026/4/25/barcelona-on-the-brink-of-defending-la-liga-title-after-beating-getafe?traffic_source=rss",
       "buzz_score": 75,
@@ -99,28 +77,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Megan Thee Stallion and Klay Thompson split. Honestly, I’m not even surprised.",
-      "original_url": "https://www.billboard.com/music/rb-hip-hop/megan-thee-stallion-klay-thompson-breakup-statement-1236231517/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Megan Thee Stallion and Klay Thompson Split",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-25T22:25:21.691401+00:00"
-    },
-    {
-      "tweet": "Was just reading about Megan Thee Stallion and Klay Thompson. Like, how did that even happen in the first place?",
-      "original_url": "https://www.billboard.com/lists/megan-thee-stallion-klay-thompson-relationship-timeline/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "A Timeline of Megan Thee Stallion & Klay Thompson’s Relationship",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-25T22:25:21.691399+00:00"
     },
     {
       "tweet": "Final Fantasy 14 is finally hitting Switch 2 but there's a literal Nintendo tax on it. Classic",
@@ -398,26 +354,26 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Dermatologists in Australia cost like 230 bucks now. We're literally paying to find out we're dying.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/25/dermatologist-costs-australia-skin-cancer-rates",
-      "buzz_score": 80,
+      "tweet": "Megan Thee Stallion and Klay Thompson split. Honestly, I’m not even surprised.",
+      "original_url": "https://www.billboard.com/music/rb-hip-hop/megan-thee-stallion-klay-thompson-breakup-statement-1236231517/",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "It costs $230 out-of-pocket to see a dermatologist. Many Australians go without – despite soaring skin cancer rates",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-25T22:25:21.691409+00:00"
+      "original_title": "Megan Thee Stallion and Klay Thompson Split",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-25T22:25:21.691401+00:00"
     },
     {
-      "tweet": "Trump called off that whole Kushner trip to Pakistan for peace talks. If the goal was peace, why are we canceling the meetings?",
-      "original_url": "https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan",
-      "buzz_score": 80,
+      "tweet": "Was just reading about Megan Thee Stallion and Klay Thompson. Like, how did that even happen in the first place?",
+      "original_url": "https://www.billboard.com/lists/megan-thee-stallion-klay-thompson-relationship-timeline/",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Iran War Live Updates: Trump Calls Off Witkoff and Kushner’s Travel to Pakistan for Peace Talks",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-25T22:25:21.691397+00:00"
+      "original_title": "A Timeline of Megan Thee Stallion & Klay Thompson’s Relationship",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-25T22:25:21.691399+00:00"
     },
     {
       "tweet": "Real Madrid just blew it against Betis in stoppage time. Barca fans must be loving that",
@@ -871,15 +827,26 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "So apparently Firefox is finally using Brave's adblock engine. About time they realized nobody wants to see ads on every single site we open.",
-      "original_url": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
-      "buzz_score": 75,
+      "tweet": "Dermatologists in Australia cost like 230 bucks now. We're literally paying to find out we're dying.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/25/dermatologist-costs-australia-skin-cancer-rates",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Firefox Has Integrated Brave's Adblock Engine",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-25T22:25:21.691391+00:00"
+      "original_title": "It costs $230 out-of-pocket to see a dermatologist. Many Australians go without – despite soaring skin cancer rates",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-25T22:25:21.691409+00:00"
+    },
+    {
+      "tweet": "Trump called off that whole Kushner trip to Pakistan for peace talks. If the goal was peace, why are we canceling the meetings?",
+      "original_url": "https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iran War Live Updates: Trump Calls Off Witkoff and Kushner’s Travel to Pakistan for Peace Talks",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-25T22:25:21.691397+00:00"
     },
     {
       "tweet": "Charlize Theron is doing a Predator movie on Netflix now. Kind of feel like we've seen this exact movie a hundred times.",
@@ -935,6 +902,17 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-22T23:25:27.266734+00:00"
+    },
+    {
+      "tweet": "So apparently Firefox is finally using Brave's adblock engine. About time they realized nobody wants to see ads on every single site we open.",
+      "original_url": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Firefox Has Integrated Brave's Adblock Engine",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-25T22:25:21.691391+00:00"
     },
     {
       "tweet": "Sam Altman is out here apologizing to some random town in Canada. OpenAI is just doing side quests now.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 648,
+    "total_posted": 650,
     "total_collected": 2159
   },
-  "last_posted_at": "2026-04-25T23:10:04.735792+00:00"
+  "last_posted_at": "2026-04-25T23:58:05.737533+00:00"
 }
