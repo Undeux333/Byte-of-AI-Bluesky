@@ -46,28 +46,6 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Sam Altman is out here apologizing to some random town in Canada. OpenAI is just doing side quests now.",
-      "original_url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "OpenAI CEO apologizes to Tumbler Ridge community",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-04-25T17:38:04.775899+00:00"
-    },
-    {
-      "tweet": "Trump just pulled the plug on those Iran ceasefire talks in Pakistan. Why even start them?",
-      "original_url": "https://www.theguardian.com/world/2026/apr/25/trump-cancels-envoys-pakistan-trip-iran-talks",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump cancels his envoys’ Pakistan trip for Iran ceasefire negotiations",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-25T17:38:04.775580+00:00"
-    },
-    {
       "tweet": "Final Fantasy 14 is finally hitting Switch 2 but there's a literal Nintendo tax on it. Classic",
       "original_url": "https://kotaku.com/final-fantasy-14-switch-2-subscription-ff14-2000690550",
       "buzz_score": 85,
@@ -343,37 +321,26 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "The Far Cry showrunner straight up doesn't know how games work. Not a clue.",
-      "original_url": "https://kotaku.com/far-cry-fx-story-adaptation-noah-hawley-2000690639",
-      "buzz_score": 80,
+      "tweet": "Sam Altman is out here apologizing to some random town in Canada. OpenAI is just doing side quests now.",
+      "original_url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Far Cry Showrunner Sounds Like He Doesn’t Understand How Games Work",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-25T17:38:04.775582+00:00"
+      "original_title": "OpenAI CEO apologizes to Tumbler Ridge community",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-04-25T17:38:04.775899+00:00"
     },
     {
-      "tweet": "The US is actually paying for Maduro’s lawyers now. We're just footing the bill for that.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/25/us-to-allow-venezuelan-government-to-cover-maduros-lawyer-fees?traffic_source=rss",
-      "buzz_score": 80,
+      "tweet": "Trump just pulled the plug on those Iran ceasefire talks in Pakistan. Why even start them?",
+      "original_url": "https://www.theguardian.com/world/2026/apr/25/trump-cancels-envoys-pakistan-trip-iran-talks",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "US to allow Venezuelan government to cover Maduro’s lawyer fees",
-      "source": "Al Jazeera",
+      "original_title": "Trump cancels his envoys’ Pakistan trip for Iran ceasefire negotiations",
+      "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-04-25T17:38:04.775578+00:00"
-    },
-    {
-      "tweet": "People are actually out there booing Indigenous speakers at Anzac Day ceremonies now. We're really doing that.",
-      "original_url": "https://www.nytimes.com/2026/04/25/world/australia/anzac-day-indigenous-speakers-booed.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Indigenous Speakers Are Booed During Commemorations of Australia’s War Dead",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-25T17:38:04.775572+00:00"
+      "added_at": "2026-04-25T17:38:04.775580+00:00"
     },
     {
       "tweet": "Real Madrid just blew it against Betis in stoppage time. Barca fans must be loving that",
@@ -827,15 +794,37 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Man, another brutal night of airstrikes in Ukraine. Seriously rough.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/25/russian-airstrikes-ukraine-dnipro-odesa-kharkiv",
-      "buzz_score": 85,
+      "tweet": "The Far Cry showrunner straight up doesn't know how games work. Not a clue.",
+      "original_url": "https://kotaku.com/far-cry-fx-story-adaptation-noah-hawley-2000690639",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Russian airstrikes kill at least seven people in Ukraine overnight",
-      "source": "The Guardian",
+      "original_title": "Far Cry Showrunner Sounds Like He Doesn’t Understand How Games Work",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-25T17:38:04.775582+00:00"
+    },
+    {
+      "tweet": "The US is actually paying for Maduro’s lawyers now. We're just footing the bill for that.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/25/us-to-allow-venezuelan-government-to-cover-maduros-lawyer-fees?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US to allow Venezuelan government to cover Maduro’s lawyer fees",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-04-25T15:26:11.571402+00:00"
+      "added_at": "2026-04-25T17:38:04.775578+00:00"
+    },
+    {
+      "tweet": "People are actually out there booing Indigenous speakers at Anzac Day ceremonies now. We're really doing that.",
+      "original_url": "https://www.nytimes.com/2026/04/25/world/australia/anzac-day-indigenous-speakers-booed.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Indigenous Speakers Are Booed During Commemorations of Australia’s War Dead",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-25T17:38:04.775572+00:00"
     },
     {
       "tweet": "Charlize Theron is doing a Predator movie on Netflix now. Kind of feel like we've seen this exact movie a hundred times.",
@@ -968,6 +957,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-18T22:22:55.048588+00:00"
+    },
+    {
+      "tweet": "Man, another brutal night of airstrikes in Ukraine. Seriously rough.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/25/russian-airstrikes-ukraine-dnipro-odesa-kharkiv",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Russian airstrikes kill at least seven people in Ukraine overnight",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-25T15:26:11.571402+00:00"
     },
     {
       "tweet": "People on HackerNews are building wikis that maintain themselves using AI agents. We’re just automating ourselves out of a job at this point.",
