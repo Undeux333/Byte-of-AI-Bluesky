@@ -2,28 +2,6 @@
   "last_collected": "2026-04-25T05:01:29.530600+00:00",
   "queue": [
     {
-      "tweet": "Hold on, so the court just ruled that Trump's border ban is illegal. At this point are we even surprised that part of the government just keeps doing its own thing?",
-      "original_url": "https://www.npr.org/2026/04/24/g-s1-118707/trump-asylum-ban-us-mexico-border-illegal",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Appeals court rules that Trump's asylum ban at the border is illegal",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-25T02:35:33.329840+00:00"
-    },
-    {
-      "tweet": "So apparently everyone's losing their minds over DeepSeek v4. I feel like I just learned how to use a basic prompt and now it's already obsolete. Wild.",
-      "original_url": "https://api-docs.deepseek.com/news/news260424",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "DeepSeek v4",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-25T02:35:33.329590+00:00"
-    },
-    {
       "tweet": "Just spent the last hour scrolling through ESPN's draftcast. We're really out here obsessing over 2026 NFL picks already. Man.",
       "original_url": "https://www.espn.com/nfl/draft/rounds",
       "buzz_score": 80,
@@ -33,39 +11,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-25T02:35:33.330033+00:00"
-    },
-    {
-      "tweet": "Man, that whole thing with those London flats is wild. Still can't believe the police just looked the other way for that long. Gross",
-      "original_url": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Epstein housed abuse victims in London flats, BBC reveals",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-24T22:00:26.078475+00:00"
-    },
-    {
-      "tweet": "Final Fantasy 14 is finally hitting Switch 2 but there's a literal Nintendo tax on it. Classic",
-      "original_url": "https://kotaku.com/final-fantasy-14-switch-2-subscription-ff14-2000690550",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Final Fantasy 14 Is Finally Coming To Switch 2 But There’s Apparently A Nintendo Tax",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-24T22:00:26.078901+00:00"
-    },
-    {
-      "tweet": "Dude, did you see that DeepSeek thing? We're literally watching the entire model market just get deleted in a weekend. Cheap",
-      "original_url": "https://api-docs.deepseek.com/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "DeepSeek v4",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-24T22:00:26.078460+00:00"
     },
     {
       "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
@@ -79,6 +24,17 @@
       "added_at": "2026-04-09T07:14:41.251727+00:00"
     },
     {
+      "tweet": "Man, that whole thing with those London flats is wild. Still can't believe the police just looked the other way for that long. Gross",
+      "original_url": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 90,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Epstein housed abuse victims in London flats, BBC reveals",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-24T22:00:26.078475+00:00"
+    },
+    {
       "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
       "original_url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
       "buzz_score": 92,
@@ -88,28 +44,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-12T02:32:59.106863+00:00"
-    },
-    {
-      "tweet": "Real Madrid just blew it against Betis in stoppage time. Barca fans must be loving that",
-      "original_url": "https://www.aljazeera.com/sports/2026/4/24/real-madrid-stunned-at-betis-as-barcelona-have-chance-to-move-11-clear?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Real Madrid stunned at Betis as Barcelona have chance to move 11 clear",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-24T22:00:26.078639+00:00"
-    },
-    {
-      "tweet": "OpenAI just dropped GPT-5.5 out of nowhere. I can't even keep up with the updates anymore. Tired",
-      "original_url": "https://developers.openai.com/api/docs/changelog",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-24T22:00:26.078472+00:00"
     },
     {
       "tweet": "Seeing reports about dissent inside the military over that whole Iran thing. Turns out you can't just fight a war for a year without people asking why.",
@@ -134,26 +68,26 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Chris Meloni hanging out with Mariska Hargitay right after Organized Crime got axed is the only wholesome thing left.",
-      "original_url": "https://deadline.com/2026/04/chris-meloni-reunion-mariska-hargitay-freshly-unemployed-1236871414/",
+      "tweet": "Final Fantasy 14 is finally hitting Switch 2 but there's a literal Nintendo tax on it. Classic",
+      "original_url": "https://kotaku.com/final-fantasy-14-switch-2-subscription-ff14-2000690550",
       "buzz_score": 85,
-      "buzz_score2": 90,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Chris Meloni Has ‘Law & Order’ Reunion With Mariska Hargitay While “Freshly Unemployed” After ‘Organized Crime’ Cancellation",
-      "source": "Deadline",
+      "original_title": "Final Fantasy 14 Is Finally Coming To Switch 2 But There’s Apparently A Nintendo Tax",
+      "source": "Kotaku",
       "category": "entertainment",
-      "added_at": "2026-04-25T05:01:29.529343+00:00"
+      "added_at": "2026-04-24T22:00:26.078901+00:00"
     },
     {
-      "tweet": "Japan is literally hiring MMA fighters and bodybuilders to work in nursing homes now. Absolute cinema.",
-      "original_url": "https://www.nytimes.com/2026/04/25/world/asia/japan-care-workers-bodybuilders-sumo-mma.html",
+      "tweet": "Dude, did you see that DeepSeek thing? We're literally watching the entire model market just get deleted in a weekend. Cheap",
+      "original_url": "https://api-docs.deepseek.com/",
       "buzz_score": 85,
-      "buzz_score2": 90,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Japan’s New Care Workers: Bodybuilders, Wrestlers and M.M.A. Fighters",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-25T05:01:29.528786+00:00"
+      "original_title": "DeepSeek v4",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-24T22:00:26.078460+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -420,15 +354,48 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Bristol put up eight tries against Newcastle today. That's just mean",
-      "original_url": "https://www.bbc.com/sport/rugby-union/articles/c1w4x35d40yo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
+      "tweet": "Real Madrid just blew it against Betis in stoppage time. Barca fans must be loving that",
+      "original_url": "https://www.aljazeera.com/sports/2026/4/24/real-madrid-stunned-at-betis-as-barcelona-have-chance-to-move-11-clear?traffic_source=rss",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Bristol go fourth with big win at Newcastle",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-24T22:00:26.078482+00:00"
+      "original_title": "Real Madrid stunned at Betis as Barcelona have chance to move 11 clear",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-24T22:00:26.078639+00:00"
+    },
+    {
+      "tweet": "OpenAI just dropped GPT-5.5 out of nowhere. I can't even keep up with the updates anymore. Tired",
+      "original_url": "https://developers.openai.com/api/docs/changelog",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-24T22:00:26.078472+00:00"
+    },
+    {
+      "tweet": "Chris Meloni hanging out with Mariska Hargitay right after Organized Crime got axed is the only wholesome thing left.",
+      "original_url": "https://deadline.com/2026/04/chris-meloni-reunion-mariska-hargitay-freshly-unemployed-1236871414/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Chris Meloni Has ‘Law & Order’ Reunion With Mariska Hargitay While “Freshly Unemployed” After ‘Organized Crime’ Cancellation",
+      "source": "Deadline",
+      "category": "entertainment",
+      "added_at": "2026-04-25T05:01:29.529343+00:00"
+    },
+    {
+      "tweet": "Japan is literally hiring MMA fighters and bodybuilders to work in nursing homes now. Absolute cinema.",
+      "original_url": "https://www.nytimes.com/2026/04/25/world/asia/japan-care-workers-bodybuilders-sumo-mma.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Japan’s New Care Workers: Bodybuilders, Wrestlers and M.M.A. Fighters",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-25T05:01:29.528786+00:00"
     },
     {
       "tweet": "Raiders actually took Mendoza with the first pick. Dudes hitting the parlay from college to pros.",
@@ -992,6 +959,28 @@
       "added_at": "2026-04-18T22:22:55.048588+00:00"
     },
     {
+      "tweet": "Bristol put up eight tries against Newcastle today. That's just mean",
+      "original_url": "https://www.bbc.com/sport/rugby-union/articles/c1w4x35d40yo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Bristol go fourth with big win at Newcastle",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-24T22:00:26.078482+00:00"
+    },
+    {
+      "tweet": "Olivia Rodrigo’s dropping another album. We're all gonna be crying in the gym again, aren't we.",
+      "original_url": "https://www.billboard.com/lists/olivia-rodrigo-new-album-seem-pretty-sad-everything-know/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Everything We Know About Olivia Rodrigo’s ‘You Seem Pretty Sad for a Girl So in Love’ Album (So Far)",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-24T19:27:44.440463+00:00"
+    },
+    {
       "tweet": "O'Sullivan and Higgins are going at it again at 50. Makes me realize I've been watching the same guys since I was a kid.",
       "original_url": "https://www.bbc.com/sport/snooker/articles/c5yw15y0gy6o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -1023,17 +1012,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-25T02:35:33.329741+00:00"
-    },
-    {
-      "tweet": "Olivia Rodrigo’s dropping another album. We're all gonna be crying in the gym again, aren't we.",
-      "original_url": "https://www.billboard.com/lists/olivia-rodrigo-new-album-seem-pretty-sad-everything-know/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Everything We Know About Olivia Rodrigo’s ‘You Seem Pretty Sad for a Girl So in Love’ Album (So Far)",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-24T19:27:44.440463+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 618,
+    "total_posted": 620,
     "total_collected": 2086
   },
-  "last_posted_at": "2026-04-25T05:07:01.516440+00:00"
+  "last_posted_at": "2026-04-25T06:53:48.127813+00:00"
 }
