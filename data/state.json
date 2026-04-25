@@ -2,28 +2,6 @@
   "last_collected": "2026-04-25T07:54:58.883825+00:00",
   "queue": [
     {
-      "tweet": "Wait, Mandelson really tried to get Epstein’s goddaughter into Downing Street? The fact that stuff like that even happens is just gross.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "UK’s Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing St",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251727+00:00"
-    },
-    {
-      "tweet": "Mexico is prioritizing security for the World Cup while thousands are still missing. Priorities",
-      "original_url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
-      "buzz_score": 92,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mexico’s Police Focus on World Cup While Thousands Remain Missing",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-12T02:32:59.106863+00:00"
-    },
-    {
       "tweet": "Man, that whole thing with those London flats is wild. Still can't believe the police just looked the other way for that long. Gross",
       "original_url": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 90,
@@ -794,28 +772,6 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Chris Meloni hanging out with Mariska Hargitay right after Organized Crime got axed is the only wholesome thing left.",
-      "original_url": "https://deadline.com/2026/04/chris-meloni-reunion-mariska-hargitay-freshly-unemployed-1236871414/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Chris Meloni Has ‘Law & Order’ Reunion With Mariska Hargitay While “Freshly Unemployed” After ‘Organized Crime’ Cancellation",
-      "source": "Deadline",
-      "category": "entertainment",
-      "added_at": "2026-04-25T05:01:29.529343+00:00"
-    },
-    {
-      "tweet": "Japan is literally hiring MMA fighters and bodybuilders to work in nursing homes now. Absolute cinema.",
-      "original_url": "https://www.nytimes.com/2026/04/25/world/asia/japan-care-workers-bodybuilders-sumo-mma.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Japan’s New Care Workers: Bodybuilders, Wrestlers and M.M.A. Fighters",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-25T05:01:29.528786+00:00"
-    },
-    {
       "tweet": "Charlize Theron is doing a Predator movie on Netflix now. Kind of feel like we've seen this exact movie a hundred times.",
       "original_url": "https://www.polygon.com/apex-netflix-review-charlize-theron/",
       "buzz_score": 75,
@@ -946,6 +902,28 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-18T22:22:55.048588+00:00"
+    },
+    {
+      "tweet": "Chris Meloni hanging out with Mariska Hargitay right after Organized Crime got axed is the only wholesome thing left.",
+      "original_url": "https://deadline.com/2026/04/chris-meloni-reunion-mariska-hargitay-freshly-unemployed-1236871414/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Chris Meloni Has ‘Law & Order’ Reunion With Mariska Hargitay While “Freshly Unemployed” After ‘Organized Crime’ Cancellation",
+      "source": "Deadline",
+      "category": "entertainment",
+      "added_at": "2026-04-25T05:01:29.529343+00:00"
+    },
+    {
+      "tweet": "Japan is literally hiring MMA fighters and bodybuilders to work in nursing homes now. Absolute cinema.",
+      "original_url": "https://www.nytimes.com/2026/04/25/world/asia/japan-care-workers-bodybuilders-sumo-mma.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Japan’s New Care Workers: Bodybuilders, Wrestlers and M.M.A. Fighters",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-25T05:01:29.528786+00:00"
     },
     {
       "tweet": "Bristol put up eight tries against Newcastle today. That's just mean",
@@ -2007,8 +1985,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 621,
+    "total_posted": 623,
     "total_collected": 2086
   },
-  "last_posted_at": "2026-04-25T07:55:01.231337+00:00"
+  "last_posted_at": "2026-04-25T08:49:03.212933+00:00"
 }
