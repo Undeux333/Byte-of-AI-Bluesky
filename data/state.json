@@ -2,28 +2,6 @@
   "last_collected": "2026-04-25T22:25:21.691569+00:00",
   "queue": [
     {
-      "tweet": "Venezuela is ending that prisoner release scheme despite everything. Power really just does whatever it wants.",
-      "original_url": "https://www.bbc.com/news/articles/c0kr62z7z6lo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Rights groups critical as Venezuela prisoner release scheme 'coming to an end'",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-25T19:55:06.661497+00:00"
-    },
-    {
-      "tweet": "Cody Johnson brought out Boyz II Men at Stagecoach. That's a random mix.",
-      "original_url": "https://www.billboard.com/music/music-news/cody-johnson-boyz-ii-men-stagecoach-2026-1236231467/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Cody Johnson Brings Out Boyz II Men for ‘On Bended Knee’ at Stagecoach 2026",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-25T19:55:06.661367+00:00"
-    },
-    {
       "tweet": "The lead guy in Pragmata said his uncle skills helped him nail the role. It's that kind of stuff that actually makes a performance hit.",
       "original_url": "https://www.polygon.com/pragmata-dad-game-hugh-actor-interview/",
       "buzz_score": 75,
@@ -112,6 +90,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
       "tweet": "Megan Thee Stallion and Klay Thompson split. Honestly, I’m not even surprised.",
       "original_url": "https://www.billboard.com/music/rb-hip-hop/megan-thee-stallion-klay-thompson-breakup-statement-1236231517/",
       "buzz_score": 85,
@@ -132,17 +121,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-25T22:25:21.691399+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "Final Fantasy 14 is finally hitting Switch 2 but there's a literal Nintendo tax on it. Classic",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 646,
+    "total_posted": 648,
     "total_collected": 2159
   },
-  "last_posted_at": "2026-04-25T22:35:17.613272+00:00"
+  "last_posted_at": "2026-04-25T23:10:04.735792+00:00"
 }
