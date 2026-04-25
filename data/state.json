@@ -2,28 +2,6 @@
   "last_collected": "2026-04-25T12:37:51.576344+00:00",
   "queue": [
     {
-      "tweet": "Did you see that Alberta startup selling those tractors without all the tech? Half price for the same work. Finally.",
-      "original_url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Alberta startup sells no-tech tractors for half price",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-25T12:37:51.575118+00:00"
-    },
-    {
-      "tweet": "Blue Lock is finally on Netflix. Time to watch a bunch of strikers fight to the death.",
-      "original_url": "https://usa.newonnetflix.info/info/81640753",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "25th Apr: Blue Lock (2022), 24 Episodes [TV-14] (6/10)",
-      "source": "New on Netflix",
-      "category": "entertainment",
-      "added_at": "2026-04-25T12:37:51.575544+00:00"
-    },
-    {
       "tweet": "Turns out locking up those climate protesters in the UK just makes them go harder. Big surprise.",
       "original_url": "https://www.theguardian.com/environment/2026/apr/25/criminalisation-of-climate-protesters-in-uk-is-counterproductive-research-finds",
       "buzz_score": 80,
@@ -352,28 +330,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
-    },
-    {
-      "tweet": "Tehran airport is finally running commercial flights again. About time.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/25/iran-resumes-commercial-flights-from-tehran-airport?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran resumes commercial flights from Tehran airport",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-25T12:37:51.576178+00:00"
-    },
-    {
-      "tweet": "Man, just cancelled Claude. The quality is honestly slipping so bad lately. That's a wrap.",
-      "original_url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "I cancelled Claude: Token issues, declining quality, and poor support",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-25T12:37:51.575125+00:00"
     },
     {
       "tweet": "Real Madrid just blew it against Betis in stoppage time. Barca fans must be loving that",
@@ -827,26 +783,26 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Keir Starmer is getting hit with the same playbook he used against Boris Johnson. Politics is literally just a loop.",
-      "original_url": "https://www.theguardian.com/politics/2026/apr/25/partygate-v-mandelson-keir-starmer-faces-attack-from-his-own-playbook",
-      "buzz_score": 75,
+      "tweet": "Tehran airport is finally running commercial flights again. About time.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/25/iran-resumes-commercial-flights-from-tehran-airport?traffic_source=rss",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Partygate v Mandelson: Keir Starmer faces attack from his own playbook",
-      "source": "The Guardian",
+      "original_title": "Iran resumes commercial flights from Tehran airport",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-04-25T12:37:51.575135+00:00"
+      "added_at": "2026-04-25T12:37:51.576178+00:00"
     },
     {
-      "tweet": "So apparently the truce in Lebanon is back on, but nobody on the ground has any idea what they're talking about. What cease-fire?",
-      "original_url": "https://www.nytimes.com/2026/04/25/world/middleeast/lebanon-israel-cease-fire.html",
-      "buzz_score": 75,
+      "tweet": "Man, just cancelled Claude. The quality is honestly slipping so bad lately. That's a wrap.",
+      "original_url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Lebanese Ask, ‘What Cease-Fire?’ as Violence Simmers in the South",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-25T12:37:51.575128+00:00"
+      "original_title": "I cancelled Claude: Token issues, declining quality, and poor support",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-25T12:37:51.575125+00:00"
     },
     {
       "tweet": "Charlize Theron is doing a Predator movie on Netflix now. Kind of feel like we've seen this exact movie a hundred times.",
@@ -981,26 +937,26 @@
       "added_at": "2026-04-18T22:22:55.048588+00:00"
     },
     {
-      "tweet": "Amazon has a list of 60 bougie backyard things for under 20 bucks. My wallet is shaking.",
-      "original_url": "https://www.bustle.com/shopping/the-bougiest-things-for-your-backyard-under-20-on-amazon",
-      "buzz_score": 70,
+      "tweet": "Keir Starmer is getting hit with the same playbook he used against Boris Johnson. Politics is literally just a loop.",
+      "original_url": "https://www.theguardian.com/politics/2026/apr/25/partygate-v-mandelson-keir-starmer-faces-attack-from-his-own-playbook",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "The 60 Bougiest Things For Your Backyard Under $20 On Amazon",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-04-25T12:37:51.575668+00:00"
+      "original_title": "Partygate v Mandelson: Keir Starmer faces attack from his own playbook",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-25T12:37:51.575135+00:00"
     },
     {
-      "tweet": "The Sega Game Gear is 35 years old today. We wouldn't have the Switch without that battery-killing disaster.",
-      "original_url": "https://www.polygon.com/sega-game-gear-35th-anniversary/",
-      "buzz_score": 70,
+      "tweet": "So apparently the truce in Lebanon is back on, but nobody on the ground has any idea what they're talking about. What cease-fire?",
+      "original_url": "https://www.nytimes.com/2026/04/25/world/middleeast/lebanon-israel-cease-fire.html",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Sega Game Gear at 35: Switch and Steam Deck might not exist without this flop",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-25T12:37:51.575291+00:00"
+      "original_title": "Lebanese Ask, ‘What Cease-Fire?’ as Violence Simmers in the South",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-25T12:37:51.575128+00:00"
     },
     {
       "tweet": "Bristol put up eight tries against Newcastle today. That's just mean",
@@ -1023,6 +979,28 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-24T19:27:44.440463+00:00"
+    },
+    {
+      "tweet": "Amazon has a list of 60 bougie backyard things for under 20 bucks. My wallet is shaking.",
+      "original_url": "https://www.bustle.com/shopping/the-bougiest-things-for-your-backyard-under-20-on-amazon",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The 60 Bougiest Things For Your Backyard Under $20 On Amazon",
+      "source": "Bustle",
+      "category": "sex",
+      "added_at": "2026-04-25T12:37:51.575668+00:00"
+    },
+    {
+      "tweet": "The Sega Game Gear is 35 years old today. We wouldn't have the Switch without that battery-killing disaster.",
+      "original_url": "https://www.polygon.com/sega-game-gear-35th-anniversary/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sega Game Gear at 35: Switch and Steam Deck might not exist without this flop",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-25T12:37:51.575291+00:00"
     },
     {
       "tweet": "Chris Meloni hanging out with Mariska Hargitay right after Organized Crime got axed is the only wholesome thing left.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 625,
+    "total_posted": 627,
     "total_collected": 2102
   },
-  "last_posted_at": "2026-04-25T12:44:18.689767+00:00"
+  "last_posted_at": "2026-04-25T13:55:26.924496+00:00"
 }
