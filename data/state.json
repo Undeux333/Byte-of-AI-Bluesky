@@ -2,28 +2,6 @@
   "last_collected": "2026-04-25T19:55:06.661623+00:00",
   "queue": [
     {
-      "tweet": "Arsenal actually pulled off that win against Newcastle. They're hanging on for dear life.",
-      "original_url": "https://www.aljazeera.com/sports/2026/4/25/arsenal-narrowly-beat-newcastle-to-regain-premier-league-lead-over-man-city?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Arsenal narrowly beat Newcastle to regain Premier League lead over Man City",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-25T19:55:06.660502+00:00"
-    },
-    {
-      "tweet": "Japan is literally staffing nursing homes with MMA fighters and bodybuilders. Honestly, that's a vibe.",
-      "original_url": "https://www.nytimes.com/2026/04/25/world/asia/japan-care-workers-bodybuilders-sumo-mma.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Japan’s New Care Workers: Bodybuilders, Wrestlers and M.M.A. Fighters",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-25T19:55:06.660117+00:00"
-    },
-    {
       "tweet": "Google dropping 40 billion on Anthropic is insane. It's like they're just throwing bricks of cash at the wall to see what sticks.",
       "original_url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
       "buzz_score": 80,
@@ -882,28 +860,6 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Sam Altman is out here apologizing to some random town in Canada. OpenAI is just doing side quests now.",
-      "original_url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "OpenAI CEO apologizes to Tumbler Ridge community",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-04-25T17:38:04.775899+00:00"
-    },
-    {
-      "tweet": "Trump just pulled the plug on those Iran ceasefire talks in Pakistan. Why even start them?",
-      "original_url": "https://www.theguardian.com/world/2026/apr/25/trump-cancels-envoys-pakistan-trip-iran-talks",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump cancels his envoys’ Pakistan trip for Iran ceasefire negotiations",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-25T17:38:04.775580+00:00"
-    },
-    {
       "tweet": "Charlize Theron is doing a Predator movie on Netflix now. Kind of feel like we've seen this exact movie a hundred times.",
       "original_url": "https://www.polygon.com/apex-netflix-review-charlize-theron/",
       "buzz_score": 75,
@@ -957,6 +913,28 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-22T23:25:27.266734+00:00"
+    },
+    {
+      "tweet": "Sam Altman is out here apologizing to some random town in Canada. OpenAI is just doing side quests now.",
+      "original_url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "OpenAI CEO apologizes to Tumbler Ridge community",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-04-25T17:38:04.775899+00:00"
+    },
+    {
+      "tweet": "Trump just pulled the plug on those Iran ceasefire talks in Pakistan. Why even start them?",
+      "original_url": "https://www.theguardian.com/world/2026/apr/25/trump-cancels-envoys-pakistan-trip-iran-talks",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump cancels his envoys’ Pakistan trip for Iran ceasefire negotiations",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-25T17:38:04.775580+00:00"
     },
     {
       "tweet": "The Far Cry showrunner straight up doesn't know how games work. Not a clue.",
@@ -1996,8 +1974,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 642,
+    "total_posted": 644,
     "total_collected": 2150
   },
-  "last_posted_at": "2026-04-25T21:11:44.387422+00:00"
+  "last_posted_at": "2026-04-25T22:00:46.657581+00:00"
 }
