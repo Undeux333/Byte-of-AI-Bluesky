@@ -2,28 +2,6 @@
   "last_collected": "2026-04-26T08:00:47.262896+00:00",
   "queue": [
     {
-      "tweet": "Hold on, they’re actually making Toy Story Crocs that look like Jessie’s boots. We’re never gonna escape the childhood nostalgia bait, are we.",
-      "original_url": "https://hypebeast.com/2026/4/disney-pixar-crocs-toy-story-5-jessie-boot-classic-clog-toy-story-alien-213009-90h-213010-90h-release-info",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "There’s a Snake in My Crocs: Disney x Pixar x Crocs Debut Structural ‘Toy Story 5’ Collab",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-26T08:00:47.261835+00:00"
-    },
-    {
-      "tweet": "Dude, Stagecoach just got evacuated because of the wind and they kicked Journey off the lineup. Imagine paying for a ticket and getting winded out by nature. Rough.",
-      "original_url": "https://www.billboard.com/music/music-news/stagecoach-evacuation-high-winds-resume-1236231566/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Stagecoach Evacuated Amid High Winds; Journey, Riley Green Taken Off Bill",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-26T08:00:47.261824+00:00"
-    },
-    {
       "tweet": "Did you hear the Turkish Grand Prix is coming back in 2027? F1 is literally just putting tracks everywhere except where people actually live.",
       "original_url": "https://hypebeast.com/2026/4/formula-1-confirms-turkish-grand-prix-return-from-2027",
       "buzz_score": 80,
@@ -101,6 +79,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
       "tweet": "Watching that footage of reporters diving under tables at the dinner was brutal. We’re at the point where just going to an event feels like a gamble.",
       "original_url": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -121,17 +110,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-26T08:00:47.262002+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "Final Fantasy 14 is finally hitting Switch 2 but there's a literal Nintendo tax on it. Classic",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 654,
+    "total_posted": 656,
     "total_collected": 2175
   },
-  "last_posted_at": "2026-04-26T08:08:21.610492+00:00"
+  "last_posted_at": "2026-04-26T09:10:42.124402+00:00"
 }
