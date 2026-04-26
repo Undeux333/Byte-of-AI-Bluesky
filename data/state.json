@@ -2,39 +2,6 @@
   "last_collected": "2026-04-26T10:05:36.487257+00:00",
   "queue": [
     {
-      "tweet": "People are talking about how to stop another Chornobyl using renewable energy. Why are we still having this conversation in this century.",
-      "original_url": "https://www.aljazeera.com/opinions/2026/4/26/we-can-make-sure-another-chornobyl-disaster-does-not-happen-here-is-how?traffic_source=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "We can make sure another Chornobyl disaster does not happen, here is how",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-26T08:00:47.262770+00:00"
-    },
-    {
-      "tweet": "Leeds fans are losing it over the FA Cup semi-final, and I get it. Sometimes you just need your team to win something to feel like your life isn't a total wash.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cqj85821kreo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why being in an FA Cup semi-final means so much to Leeds fans",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-26T08:00:47.262647+00:00"
-    },
-    {
-      "tweet": "So apparently the guy who tried to shoot up that media gala was an indie games dev. Of course he was",
-      "original_url": "https://kotaku.com/white-house-correspondents-dinner-shooter-indie-games-developer-2000690697",
-      "buzz_score": 92,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Alleged White House Correspondents’ Dinner Shooter Was An Indie Games Developer",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-26T10:05:36.485978+00:00"
-    },
-    {
       "tweet": "Man, that whole thing with those London flats is wild. Still can't believe the police just looked the other way for that long. Gross",
       "original_url": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 90,
@@ -66,6 +33,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "So apparently the guy who tried to shoot up that media gala was an indie games dev. Of course he was",
+      "original_url": "https://kotaku.com/white-house-correspondents-dinner-shooter-indie-games-developer-2000690697",
+      "buzz_score": 92,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Alleged White House Correspondents’ Dinner Shooter Was An Indie Games Developer",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-26T10:05:36.485978+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -805,28 +783,6 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Watching that footage of reporters diving under tables at the dinner was brutal. We’re at the point where just going to an event feels like a gamble.",
-      "original_url": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "What it was like in the room as shots rang out at correspondents' dinner",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-26T08:00:47.262399+00:00"
-    },
-    {
-      "tweet": "AIDS is creeping back in Zambia after we cut the funding. It’s crazy how we save thousands of lives and then just walk away like it’s no big deal.",
-      "original_url": "https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "AIDS Creeps Back in Parts of Zambia, a Year After U.S. Cuts to H.I.V. Assistance",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-26T08:00:47.262002+00:00"
-    },
-    {
       "tweet": "Charlize Theron is doing a Predator movie on Netflix now. Kind of feel like we've seen this exact movie a hundred times.",
       "original_url": "https://www.polygon.com/apex-netflix-review-charlize-theron/",
       "buzz_score": 75,
@@ -882,6 +838,39 @@
       "added_at": "2026-04-22T23:25:27.266734+00:00"
     },
     {
+      "tweet": "Watching that footage of reporters diving under tables at the dinner was brutal. We’re at the point where just going to an event feels like a gamble.",
+      "original_url": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "What it was like in the room as shots rang out at correspondents' dinner",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-26T08:00:47.262399+00:00"
+    },
+    {
+      "tweet": "AIDS is creeping back in Zambia after we cut the funding. It’s crazy how we save thousands of lives and then just walk away like it’s no big deal.",
+      "original_url": "https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "AIDS Creeps Back in Parts of Zambia, a Year After U.S. Cuts to H.I.V. Assistance",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-26T08:00:47.262002+00:00"
+    },
+    {
+      "tweet": "Saw a list of weird cheap organizers and I'm honestly tempted. We're all just looking for ways to stop the chaos.",
+      "original_url": "https://www.bustle.com/life/weird-cheap-things-thatll-make-you-so-much-more-organized",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "75 Weird, Cheap Things That'll Make You So Much More Organized",
+      "source": "Bustle",
+      "category": "sex",
+      "added_at": "2026-04-25T19:55:06.661001+00:00"
+    },
+    {
       "tweet": "New study says fish oil might actually be hurting your brain. It’s wild how we just take random supplements for years until science decides they’re doing the opposite.",
       "original_url": "https://www.sciencedaily.com/releases/2026/04/260426012303.htm",
       "buzz_score": 80,
@@ -902,17 +891,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-26T08:00:47.261833+00:00"
-    },
-    {
-      "tweet": "Saw a list of weird cheap organizers and I'm honestly tempted. We're all just looking for ways to stop the chaos.",
-      "original_url": "https://www.bustle.com/life/weird-cheap-things-thatll-make-you-so-much-more-organized",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "75 Weird, Cheap Things That'll Make You So Much More Organized",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-04-25T19:55:06.661001+00:00"
     },
     {
       "tweet": "Some guy just attacked a bunch of nurses at that Sydney hospital. How is security not the number one priority at every ER right now.",
@@ -959,17 +937,6 @@
       "added_at": "2026-04-26T08:00:47.262274+00:00"
     },
     {
-      "tweet": "BTS is back in the states and people are losing their minds in Tampa. Just wild how deep that fandom goes",
-      "original_url": "https://www.billboard.com/lists/bts-setlist-every-song-arirang-tour-tampa/",
-      "buzz_score": 85,
-      "buzz_score2": 85,
-      "rewrite_count": 0,
-      "original_title": "Here’s Every Song BTS Played at Their First U.S. Show In Four Years: Full Tampa Night 1 Setlist",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-26T10:05:36.485980+00:00"
-    },
-    {
       "tweet": "Megan Thee Stallion and Klay Thompson split. Honestly, I’m not even surprised.",
       "original_url": "https://www.billboard.com/music/rb-hip-hop/megan-thee-stallion-klay-thompson-breakup-statement-1236231517/",
       "buzz_score": 85,
@@ -1012,6 +979,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-25T17:38:04.775580+00:00"
+    },
+    {
+      "tweet": "BTS is back in the states and people are losing their minds in Tampa. Just wild how deep that fandom goes",
+      "original_url": "https://www.billboard.com/lists/bts-setlist-every-song-arirang-tour-tampa/",
+      "buzz_score": 85,
+      "buzz_score2": 85,
+      "rewrite_count": 0,
+      "original_title": "Here’s Every Song BTS Played at Their First U.S. Show In Four Years: Full Tampa Night 1 Setlist",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-26T10:05:36.485980+00:00"
     }
   ],
   "seen_urls": [
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 660,
+    "total_posted": 662,
     "total_collected": 2191
   },
-  "last_posted_at": "2026-04-26T11:09:52.638660+00:00"
+  "last_posted_at": "2026-04-26T12:00:43.328574+00:00"
 }
