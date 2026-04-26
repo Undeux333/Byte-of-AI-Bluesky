@@ -2,28 +2,6 @@
   "last_collected": "2026-04-26T12:39:39.044346+00:00",
   "queue": [
     {
-      "tweet": "Seeing that timeline of everything that’s happened to Trump, it’s just insane that this is where we’re at as a country.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/26/timeline-trump-assassination-attempts-and-security-incidents?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Timeline: Trump assassination attempts and security incidents",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-26T12:39:39.043944+00:00"
-    },
-    {
-      "tweet": "Islamabad locked the whole city down for talks that didn't even happen. Imagine being a business owner there right now, just trash.",
-      "original_url": "https://www.nytimes.com/2026/04/26/world/asia/islamabad-talks-iran-us.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Islamabad Reopens After U.S.-Iran Talks Fail to Materialize",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-26T12:39:39.043815+00:00"
-    },
-    {
       "tweet": "Expedition 33 literally swept every award this year. Finally, a game that’s actually doing something different.",
       "original_url": "https://www.polygon.com/clair-obscur-expedition-33-goty-awards-sweep-2026/",
       "buzz_score": 80,
@@ -418,17 +396,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-04-26T12:39:39.043686+00:00"
-    },
-    {
-      "tweet": "So apparently the guy who tried to shoot up that media gala was an indie games dev. Of course he was",
-      "original_url": "https://kotaku.com/white-house-correspondents-dinner-shooter-indie-games-developer-2000690697",
-      "buzz_score": 92,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Alleged White House Correspondents’ Dinner Shooter Was An Indie Games Developer",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-26T10:05:36.485978+00:00"
     },
     {
       "tweet": "Real Madrid just blew it against Betis in stoppage time. Barca fans must be loving that",
@@ -880,6 +847,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-08T17:48:49.217272+00:00"
+    },
+    {
+      "tweet": "So apparently the guy who tried to shoot up that media gala was an indie games dev. Of course he was",
+      "original_url": "https://kotaku.com/white-house-correspondents-dinner-shooter-indie-games-developer-2000690697",
+      "buzz_score": 92,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Alleged White House Correspondents’ Dinner Shooter Was An Indie Games Developer",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-26T10:05:36.485978+00:00"
     },
     {
       "tweet": "Charlize Theron is doing a Predator movie on Netflix now. Kind of feel like we've seen this exact movie a hundred times.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 666,
+    "total_posted": 668,
     "total_collected": 2207
   },
-  "last_posted_at": "2026-04-26T13:59:38.200615+00:00"
+  "last_posted_at": "2026-04-26T14:44:36.526476+00:00"
 }
