@@ -46,28 +46,6 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Trump says he saved those Iranian women from execution but Iran is saying that didn't happen. Can't tell who's lying.",
-      "original_url": "https://www.bbc.com/news/videos/cx2e2lg2ny9o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Did Trump save eight Iranian women from execution?",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-26T22:05:32.597427+00:00"
-    },
-    {
-      "tweet": "AIDS is actually creeping back into Zambia after those US aid cuts. What did we think was gonna happen?",
-      "original_url": "https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "AIDS Creeps Back in Parts of Zambia, a Year After U.S. Cuts to H.I.V. Assistance",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-26T22:05:32.596716+00:00"
-    },
-    {
       "tweet": "Final Fantasy 14 is finally hitting Switch 2 but there's a literal Nintendo tax on it. Classic",
       "original_url": "https://kotaku.com/final-fantasy-14-switch-2-subscription-ff14-2000690550",
       "buzz_score": 85,
@@ -343,6 +321,28 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
+      "tweet": "Trump says he saved those Iranian women from execution but Iran is saying that didn't happen. Can't tell who's lying.",
+      "original_url": "https://www.bbc.com/news/videos/cx2e2lg2ny9o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Did Trump save eight Iranian women from execution?",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-26T22:05:32.597427+00:00"
+    },
+    {
+      "tweet": "AIDS is actually creeping back into Zambia after those US aid cuts. What did we think was gonna happen?",
+      "original_url": "https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "AIDS Creeps Back in Parts of Zambia, a Year After U.S. Cuts to H.I.V. Assistance",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-26T22:05:32.596716+00:00"
+    },
+    {
       "tweet": "Found a list of gifts for guys under twenty bucks that don't suck. I think I need a few of these.",
       "original_url": "https://www.bustle.com/shopping/impressive-gifts-for-men-under-20-that-wont-make-you-look-cheap",
       "buzz_score": 75,
@@ -374,17 +374,6 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-26T15:28:46.894460+00:00"
-    },
-    {
-      "tweet": "Amazon is going all in on monetizing every single podcast now. Nothing is free anymore.",
-      "original_url": "https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Amazon’s new podcast strategy: Monetize everything",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-04-26T22:05:32.597169+00:00"
     },
     {
       "tweet": "Expedition 33 literally swept every award this year. Finally, a game that’s actually doing something different.",
@@ -860,6 +849,17 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
+      "tweet": "Amazon is going all in on monetizing every single podcast now. Nothing is free anymore.",
+      "original_url": "https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Amazon’s new podcast strategy: Monetize everything",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-04-26T22:05:32.597169+00:00"
+    },
+    {
       "tweet": "People are dealing with these straight up sketchy election leaflets now. At this point we’re just being lied to by everyone.",
       "original_url": "https://www.theguardian.com/politics/2026/apr/26/voters-contend-with-grotesque-leaflets-and-dodgy-data-in-english-local-elections-say-analysts",
       "buzz_score": 75,
@@ -948,17 +948,6 @@
       "added_at": "2026-04-26T20:01:46.944829+00:00"
     },
     {
-      "tweet": "Found a list of seventy-five cheap Amazon gifts that actually look decent. Kinda saves the day for birthdays.",
-      "original_url": "https://www.bustle.com/life/cheap-gifts-for-women-on-amazon-thatll-impress-the-hell-out-of-them",
-      "buzz_score": 70,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "75 Cheap Gifts For Women On Amazon That'll Impress The Hell Out Of Them",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-04-26T22:05:32.596882+00:00"
-    },
-    {
       "tweet": "Seeing all these new Kindle accessories, and it’s just funny how we’ll spend more on the stickers and cases than the actual tech. Just makes it ours.",
       "original_url": "https://www.wired.com/story/best-kindle-accessories/",
       "buzz_score": 70,
@@ -968,6 +957,17 @@
       "source": "Wired",
       "category": "tech",
       "added_at": "2026-04-26T12:39:39.043424+00:00"
+    },
+    {
+      "tweet": "Found a list of seventy-five cheap Amazon gifts that actually look decent. Kinda saves the day for birthdays.",
+      "original_url": "https://www.bustle.com/life/cheap-gifts-for-women-on-amazon-thatll-impress-the-hell-out-of-them",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "75 Cheap Gifts For Women On Amazon That'll Impress The Hell Out Of Them",
+      "source": "Bustle",
+      "category": "sex",
+      "added_at": "2026-04-26T22:05:32.596882+00:00"
     },
     {
       "tweet": "Wait, they're actually trying to tow a whale in Germany right now. What are we even doing",
