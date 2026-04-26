@@ -2,28 +2,6 @@
   "last_collected": "2026-04-26T20:01:46.945849+00:00",
   "queue": [
     {
-      "tweet": "This guy Sawe just shattered the two-hour marathon record. Some people are just built different.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/kenyas-sawe-shatters-two-hour-marathon-barrier?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Kenya’s Sawe shatters two-hour marathon barrier",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-26T20:01:46.944953+00:00"
-    },
-    {
-      "tweet": "Japan is officially fed up with unruly tourists during cherry blossom season. Honestly, we just don't know how to act in public anymore.",
-      "original_url": "https://www.nytimes.com/2026/04/26/world/asia/japan-fuji-tourism-cherry-blossoms-overtourism.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "In Japan, the Fight Is on Against Unruly Tourists",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-26T20:01:46.944521+00:00"
-    },
-    {
       "tweet": "Dude, some random guy just used ChatGPT to solve an actual Erdős math problem. We're literally outsourcing our brains now.",
       "original_url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
       "buzz_score": 85,
@@ -112,6 +90,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
       "tweet": "Expedition 33 literally swept every award this year. Finally, a game that’s actually doing something different.",
       "original_url": "https://www.polygon.com/clair-obscur-expedition-33-goty-awards-sweep-2026/",
       "buzz_score": 80,
@@ -132,28 +121,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-26T12:39:39.042957+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Did you see what happened at that White House Correspondents' Dinner. I mean, imagine going to a party and catching a felony charge. Just insanity",
-      "original_url": "https://www.npr.org/sections/the-picture-show/2026/04/26/g-s1-118806/photos-the-aftermath-of-the-white-house-correspondents-dinner-shooting",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Photos: The aftermath of the White House Correspondents' Dinner shooting",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-26T17:41:38.715675+00:00"
     },
     {
       "tweet": "Final Fantasy 14 is finally hitting Switch 2 but there's a literal Nintendo tax on it. Classic",
@@ -431,6 +398,17 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
+      "tweet": "Did you see what happened at that White House Correspondents' Dinner. I mean, imagine going to a party and catching a felony charge. Just insanity",
+      "original_url": "https://www.npr.org/sections/the-picture-show/2026/04/26/g-s1-118806/photos-the-aftermath-of-the-white-house-correspondents-dinner-shooting",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Photos: The aftermath of the White House Correspondents' Dinner shooting",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-26T17:41:38.715675+00:00"
+    },
+    {
       "tweet": "People are dealing with these straight up sketchy election leaflets now. At this point we’re just being lied to by everyone.",
       "original_url": "https://www.theguardian.com/politics/2026/apr/26/voters-contend-with-grotesque-leaflets-and-dodgy-data-in-english-local-elections-say-analysts",
       "buzz_score": 75,
@@ -495,17 +473,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-26T20:01:46.944829+00:00"
-    },
-    {
-      "tweet": "Wait, they're actually trying to tow a whale in Germany right now. What are we even doing",
-      "original_url": "https://www.theguardian.com/world/2026/apr/26/final-steps-audacious-plan-tow-whale-stranded-germany-north-sea-timmy",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Final steps taken before audacious plan to tow whale stranded in Germany to North Sea",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-26T17:41:38.715873+00:00"
     },
     {
       "tweet": "Real Madrid just blew it against Betis in stoppage time. Barca fans must be loving that",
@@ -957,6 +924,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-08T17:48:49.217272+00:00"
+    },
+    {
+      "tweet": "Wait, they're actually trying to tow a whale in Germany right now. What are we even doing",
+      "original_url": "https://www.theguardian.com/world/2026/apr/26/final-steps-audacious-plan-tow-whale-stranded-germany-north-sea-timmy",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Final steps taken before audacious plan to tow whale stranded in Germany to North Sea",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-26T17:41:38.715873+00:00"
     },
     {
       "tweet": "Seeing all these new Kindle accessories, and it’s just funny how we’ll spend more on the stickers and cases than the actual tech. Just makes it ours.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 682,
+    "total_posted": 684,
     "total_collected": 2252
   },
-  "last_posted_at": "2026-04-26T20:10:41.284090+00:00"
+  "last_posted_at": "2026-04-26T21:01:47.270202+00:00"
 }
