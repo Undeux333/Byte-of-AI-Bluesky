@@ -2,28 +2,6 @@
   "last_collected": "2026-04-26T12:39:39.044346+00:00",
   "queue": [
     {
-      "tweet": "They’re out here listing the worst discontinued fast food, and honestly, who thought McSpaghetti was ever a good idea?",
-      "original_url": "https://www.mentalfloss.com/food/worst-discontinued-fast-food-items?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "7 Worst Discontinued Fast Food Items We Can't Believe Were Sold",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-26T12:39:39.043135+00:00"
-    },
-    {
-      "tweet": "Dude, did you see what DeepSeek is dropping? We’re basically at the point where we’re just watching the whole tech world get dunked on in real time. Wild.",
-      "original_url": "https://api-docs.deepseek.com/news/news260424",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "DeepSeek v4",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-26T12:39:39.042951+00:00"
-    },
-    {
       "tweet": "Seeing that timeline of everything that’s happened to Trump, it’s just insane that this is where we’re at as a country.",
       "original_url": "https://www.aljazeera.com/news/2026/4/26/timeline-trump-assassination-attempts-and-security-incidents?traffic_source=rss",
       "buzz_score": 80,
@@ -145,17 +123,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Trump is out here doubting that whole shooting thing had anything to do with Iran. Guess we’re just ignoring the obvious now.",
-      "original_url": "https://www.npr.org/2026/04/26/nx-s1-5800054/iran-talks-on-hold-shooting-talks-pakistan",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump doubts shooter motivated by Iran war as peace talks on hold",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-26T12:39:39.043686+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -165,17 +132,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "So apparently the guy who tried to shoot up that media gala was an indie games dev. Of course he was",
-      "original_url": "https://kotaku.com/white-house-correspondents-dinner-shooter-indie-games-developer-2000690697",
-      "buzz_score": 92,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Alleged White House Correspondents’ Dinner Shooter Was An Indie Games Developer",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-26T10:05:36.485978+00:00"
     },
     {
       "tweet": "Final Fantasy 14 is finally hitting Switch 2 but there's a literal Nintendo tax on it. Classic",
@@ -451,6 +407,28 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
+    },
+    {
+      "tweet": "Trump is out here doubting that whole shooting thing had anything to do with Iran. Guess we’re just ignoring the obvious now.",
+      "original_url": "https://www.npr.org/2026/04/26/nx-s1-5800054/iran-talks-on-hold-shooting-talks-pakistan",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump doubts shooter motivated by Iran war as peace talks on hold",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-26T12:39:39.043686+00:00"
+    },
+    {
+      "tweet": "So apparently the guy who tried to shoot up that media gala was an indie games dev. Of course he was",
+      "original_url": "https://kotaku.com/white-house-correspondents-dinner-shooter-indie-games-developer-2000690697",
+      "buzz_score": 92,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Alleged White House Correspondents’ Dinner Shooter Was An Indie Games Developer",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-26T10:05:36.485978+00:00"
     },
     {
       "tweet": "Real Madrid just blew it against Betis in stoppage time. Barca fans must be loving that",
@@ -904,17 +882,6 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Just saw the World Press Photo winners. It’s wild how much one frame can tell you about how messed up this past year really was.",
-      "original_url": "https://www.npr.org/2026/04/26/g-s1-118511/world-press-photo-contest-winners",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "World Press Photo Contest winners cast a lens on resilience, pain and bliss",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-26T12:39:39.043557+00:00"
-    },
-    {
       "tweet": "Charlize Theron is doing a Predator movie on Netflix now. Kind of feel like we've seen this exact movie a hundred times.",
       "original_url": "https://www.polygon.com/apex-netflix-review-charlize-theron/",
       "buzz_score": 75,
@@ -970,6 +937,28 @@
       "added_at": "2026-04-22T23:25:27.266734+00:00"
     },
     {
+      "tweet": "Just saw the World Press Photo winners. It’s wild how much one frame can tell you about how messed up this past year really was.",
+      "original_url": "https://www.npr.org/2026/04/26/g-s1-118511/world-press-photo-contest-winners",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "World Press Photo Contest winners cast a lens on resilience, pain and bliss",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-26T12:39:39.043557+00:00"
+    },
+    {
+      "tweet": "Saw a list of weird cheap organizers and I'm honestly tempted. We're all just looking for ways to stop the chaos.",
+      "original_url": "https://www.bustle.com/life/weird-cheap-things-thatll-make-you-so-much-more-organized",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "75 Weird, Cheap Things That'll Make You So Much More Organized",
+      "source": "Bustle",
+      "category": "sex",
+      "added_at": "2026-04-25T19:55:06.661001+00:00"
+    },
+    {
       "tweet": "Keir Starmer is swearing he’s staying through the next election after the week he had. Nobody actually believes that, right?",
       "original_url": "https://www.theguardian.com/politics/2026/apr/26/keir-starmer-vows-lead-labour-general-election-mandelson-vetting",
       "buzz_score": 70,
@@ -1012,17 +1001,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-26T08:00:47.262002+00:00"
-    },
-    {
-      "tweet": "Saw a list of weird cheap organizers and I'm honestly tempted. We're all just looking for ways to stop the chaos.",
-      "original_url": "https://www.bustle.com/life/weird-cheap-things-thatll-make-you-so-much-more-organized",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "75 Weird, Cheap Things That'll Make You So Much More Organized",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-04-25T19:55:06.661001+00:00"
     },
     {
       "tweet": "New study says fish oil might actually be hurting your brain. It’s wild how we just take random supplements for years until science decides they’re doing the opposite.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 664,
+    "total_posted": 666,
     "total_collected": 2207
   },
-  "last_posted_at": "2026-04-26T12:45:34.227756+00:00"
+  "last_posted_at": "2026-04-26T13:59:38.200615+00:00"
 }
