@@ -882,17 +882,6 @@
       "added_at": "2026-04-25T22:25:21.691397+00:00"
     },
     {
-      "tweet": "So apparently Firefox is finally using Brave's adblock engine. About time they realized nobody wants to see ads on every single site we open.",
-      "original_url": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Firefox Has Integrated Brave's Adblock Engine",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-25T22:25:21.691391+00:00"
-    },
-    {
       "tweet": "Sam Altman is out here apologizing to some random town in Canada. OpenAI is just doing side quests now.",
       "original_url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
       "buzz_score": 85,
@@ -913,6 +902,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-25T17:38:04.775580+00:00"
+    },
+    {
+      "tweet": "So apparently Firefox is finally using Brave's adblock engine. About time they realized nobody wants to see ads on every single site we open.",
+      "original_url": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Firefox Has Integrated Brave's Adblock Engine",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-25T22:25:21.691391+00:00"
     },
     {
       "tweet": "The Far Cry showrunner straight up doesn't know how games work. Not a clue.",
