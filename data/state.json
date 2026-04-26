@@ -2,28 +2,6 @@
   "last_collected": "2026-04-26T17:41:38.717007+00:00",
   "queue": [
     {
-      "tweet": "So apparently Slash just came up with the Sweet Child O' Mine riff while messing around. It's wild how the best stuff just happens when you're not even trying",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/sweet-child-o-mine-riff-oral-history?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "An Oral History of the \"Sweet Child O' Mine\" Intro Riff",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-26T17:41:38.715669+00:00"
-    },
-    {
-      "tweet": "Just saw a list of 2000s school lunches and I can still taste those rectangle pizzas. We all grew up the same.",
-      "original_url": "https://www.mentalfloss.com/food/school-lunch-foods-ruled-cafeteria-2000s?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "8 School Lunch Foods That Ruled the Cafeteria in the 2000s",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-26T15:28:46.895030+00:00"
-    },
-    {
       "tweet": "US and Iran are just stuck in this weird loop of talks that go nowhere. We're just watching them waste time at this point.",
       "original_url": "https://www.aljazeera.com/news/2026/4/26/us-iran-conflict-whats-the-latest-as-the-islamabad-talks-stall?traffic_source=rss",
       "buzz_score": 80,
@@ -178,6 +156,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
       "tweet": "Wait, they're actually trying to tow a whale in Germany right now. What are we even doing",
       "original_url": "https://www.theguardian.com/world/2026/apr/26/final-steps-audacious-plan-tow-whale-stranded-germany-north-sea-timmy",
       "buzz_score": 85,
@@ -198,17 +187,6 @@
       "source": "Wired",
       "category": "tech",
       "added_at": "2026-04-26T12:39:39.043424+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "Final Fantasy 14 is finally hitting Switch 2 but there's a literal Nintendo tax on it. Classic",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 676,
+    "total_posted": 678,
     "total_collected": 2236
   },
-  "last_posted_at": "2026-04-26T17:51:03.431879+00:00"
+  "last_posted_at": "2026-04-26T18:36:40.862658+00:00"
 }
