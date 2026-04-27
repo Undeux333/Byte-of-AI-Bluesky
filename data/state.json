@@ -2,28 +2,6 @@
   "last_collected": "2026-04-27T20:37:48.983782+00:00",
   "queue": [
     {
-      "tweet": "Nintendo is basically making their own cinematic universe now with Kirby and Luigi. It's just a giant expensive commercial.",
-      "original_url": "https://kotaku.com/nintendos-cinematic-universe-everyone-is-here-kirby-star-fox-luigis-mansion-2000690840",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Nintendo’s Cinematic Universe Could Be Another ‘Everyone Is Here’ Moment With Kirby, Star Fox, Luigi’s Mansion, And More",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-27T20:37:48.983651+00:00"
-    },
-    {
-      "tweet": "Iran is offering to fix the shipping traffic in the Strait of Hormuz if we just pause the nuclear talks. Are we really gonna fall for that again",
-      "original_url": "https://www.nytimes.com/2026/04/27/world/middleeast/iran-trump-talks-strait-of-hormuz-nuclear.html",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Iran Offers Plan to Focus on Strait of Hormuz and Delay Nuclear Talks",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-27T20:37:48.982569+00:00"
-    },
-    {
       "tweet": "Friedrich Merz is saying the US is being humiliated by Iran during these negotiations. The Germans finally said it out loud.",
       "original_url": "https://www.theguardian.com/world/2026/apr/27/us-humiliated-iran-leadership-trump-merz",
       "buzz_score": 80,
@@ -167,17 +145,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Israel is threatening to burn all of Lebanon and Hezbollah is just swapping strikes back. How long are we gonna pretend this is sustainable",
-      "original_url": "https://www.aljazeera.com/news/2026/4/27/hezbollah-and-israel-swap-threats-and-strikes-across-lebanons-border?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hezbollah and Israel swap threats and strikes across Lebanon’s border",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-27T20:37:48.983253+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -187,6 +154,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Israel is threatening to burn all of Lebanon and Hezbollah is just swapping strikes back. How long are we gonna pretend this is sustainable",
+      "original_url": "https://www.aljazeera.com/news/2026/4/27/hezbollah-and-israel-swap-threats-and-strikes-across-lebanons-border?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hezbollah and Israel swap threats and strikes across Lebanon’s border",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-27T20:37:48.983253+00:00"
     },
     {
       "tweet": "Final Fantasy 14 is finally hitting Switch 2 but there's a literal Nintendo tax on it. Classic",
@@ -473,17 +451,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-27T20:37:48.982564+00:00"
-    },
-    {
-      "tweet": "Olivia Rodrigo just hit number one with that new track. It's that kind of song you just end up playing on loop for three days straight.",
-      "original_url": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-drop-dead-global-200-may-2-1236232842/",
-      "buzz_score": 78,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Olivia Rodrigo’s ‘Drop Dead’ Livens Up Billboard Global 200 With No. 1 Debut",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-27T20:37:48.982732+00:00"
     },
     {
       "tweet": "Expedition 33 literally swept every award this year. Finally, a game that’s actually doing something different.",
@@ -957,6 +924,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-08T17:48:49.217272+00:00"
+    },
+    {
+      "tweet": "Olivia Rodrigo just hit number one with that new track. It's that kind of song you just end up playing on loop for three days straight.",
+      "original_url": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-drop-dead-global-200-may-2-1236232842/",
+      "buzz_score": 78,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Olivia Rodrigo’s ‘Drop Dead’ Livens Up Billboard Global 200 With No. 1 Debut",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-27T20:37:48.982732+00:00"
     },
     {
       "tweet": "Diablo 4 is apparently peaking again. Every time I try to get out they just pull me back in.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 699,
+    "total_posted": 701,
     "total_collected": 2313
   },
-  "last_posted_at": "2026-04-27T20:45:38.289019+00:00"
+  "last_posted_at": "2026-04-27T21:44:54.333992+00:00"
 }
