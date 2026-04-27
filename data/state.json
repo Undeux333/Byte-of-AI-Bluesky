@@ -2,28 +2,6 @@
   "last_collected": "2026-04-27T20:37:48.983782+00:00",
   "queue": [
     {
-      "tweet": "Friedrich Merz is saying the US is being humiliated by Iran during these negotiations. The Germans finally said it out loud.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/27/us-humiliated-iran-leadership-trump-merz",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US is being ‘humiliated’ by Iran’s leadership, says Friedrich Merz",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-27T20:37:48.983381+00:00"
-    },
-    {
-      "tweet": "Valve's new controller rings like a phone and doesn't even have a headphone jack. Who is that for.",
-      "original_url": "https://kotaku.com/why-valves-new-100-controller-rings-like-a-phone-lacks-a-3-5-jack-and-isnt-called-the-steam-controller-2-2000690568",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why Valve’s New $100 Controller Rings Like A Phone, Lacks A 3.5 Jack, And Isn’t Called The Steam Controller 2",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-27T18:00:10.135758+00:00"
-    },
-    {
       "tweet": "Mexico is telling the US that our little anti-drug operation wasn't welcome. We really just do whatever.",
       "original_url": "https://www.theguardian.com/world/2026/apr/27/mexico-us-anti-drug-operation",
       "buzz_score": 80,
@@ -101,17 +79,6 @@
       "added_at": "2026-04-27T18:00:10.134481+00:00"
     },
     {
-      "tweet": "Olivia Rodrigo just hit number one again. She literally can't miss.",
-      "original_url": "https://www.billboard.com/lists/olivia-rodrigo-drop-dead-hot-100-number-one-debut/",
-      "buzz_score": 65,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Olivia Rodrigo’s ‘Drop Dead’ Debuts at No. 1 on Billboard Hot 100",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-27T18:00:10.136000+00:00"
-    },
-    {
       "tweet": "Man, that whole thing with those London flats is wild. Still can't believe the police just looked the other way for that long. Gross",
       "original_url": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 90,
@@ -156,15 +123,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Israel is threatening to burn all of Lebanon and Hezbollah is just swapping strikes back. How long are we gonna pretend this is sustainable",
-      "original_url": "https://www.aljazeera.com/news/2026/4/27/hezbollah-and-israel-swap-threats-and-strikes-across-lebanons-border?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
+      "tweet": "Olivia Rodrigo just hit number one again. She literally can't miss.",
+      "original_url": "https://www.billboard.com/lists/olivia-rodrigo-drop-dead-hot-100-number-one-debut/",
+      "buzz_score": 65,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Hezbollah and Israel swap threats and strikes across Lebanon’s border",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-27T20:37:48.983253+00:00"
+      "original_title": "Olivia Rodrigo’s ‘Drop Dead’ Debuts at No. 1 on Billboard Hot 100",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-27T18:00:10.136000+00:00"
     },
     {
       "tweet": "Final Fantasy 14 is finally hitting Switch 2 but there's a literal Nintendo tax on it. Classic",
@@ -442,15 +409,15 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Melania Trump wants ABC to take a stand on Jimmy Kimmel over that widow joke. She's really worried about his feelings.",
-      "original_url": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
+      "tweet": "Israel is threatening to burn all of Lebanon and Hezbollah is just swapping strikes back. How long are we gonna pretend this is sustainable",
+      "original_url": "https://www.aljazeera.com/news/2026/4/27/hezbollah-and-israel-swap-threats-and-strikes-across-lebanons-border?traffic_source=rss",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke",
-      "source": "BBC World",
+      "original_title": "Hezbollah and Israel swap threats and strikes across Lebanon’s border",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-04-27T20:37:48.982564+00:00"
+      "added_at": "2026-04-27T20:37:48.983253+00:00"
     },
     {
       "tweet": "Expedition 33 literally swept every award this year. Finally, a game that’s actually doing something different.",
@@ -926,48 +893,15 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Olivia Rodrigo just hit number one with that new track. It's that kind of song you just end up playing on loop for three days straight.",
-      "original_url": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-drop-dead-global-200-may-2-1236232842/",
-      "buzz_score": 78,
+      "tweet": "Melania Trump wants ABC to take a stand on Jimmy Kimmel over that widow joke. She's really worried about his feelings.",
+      "original_url": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Olivia Rodrigo’s ‘Drop Dead’ Livens Up Billboard Global 200 With No. 1 Debut",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-27T20:37:48.982732+00:00"
-    },
-    {
-      "tweet": "Diablo 4 is apparently peaking again. Every time I try to get out they just pull me back in.",
-      "original_url": "https://kotaku.com/game-release-dates-april-2026-diablo-saros-heroes-might-magic-2000690919",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The Week In Games: Peak Diablo 4 And The Return Of Heroes Of Might And Magic",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-27T20:37:48.983523+00:00"
-    },
-    {
-      "tweet": "Fifa is doing a yellow card amnesty for the World Cup now. Rules apparently don't exist when the cameras are on.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cdxdxxdnj9eo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "World Cup group stage set for yellow card amnesty",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-27T20:37:48.982993+00:00"
-    },
-    {
-      "tweet": "That Venice opera house just dropped their new director for talking about nepotism. Guess honesty isn't exactly the best policy in Italy.",
-      "original_url": "https://www.bbc.com/news/articles/cx2d2ennv95o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Venice opera house drops incoming music director after nepotism remarks",
+      "original_title": "Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke",
       "source": "BBC World",
       "category": "world",
-      "added_at": "2026-04-27T20:37:48.982567+00:00"
+      "added_at": "2026-04-27T20:37:48.982564+00:00"
     },
     {
       "tweet": "Found a list of gifts for guys under twenty bucks that don't suck. I think I need a few of these.",
@@ -1012,6 +946,50 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-26T12:39:39.044199+00:00"
+    },
+    {
+      "tweet": "Olivia Rodrigo just hit number one with that new track. It's that kind of song you just end up playing on loop for three days straight.",
+      "original_url": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-drop-dead-global-200-may-2-1236232842/",
+      "buzz_score": 78,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Olivia Rodrigo’s ‘Drop Dead’ Livens Up Billboard Global 200 With No. 1 Debut",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-27T20:37:48.982732+00:00"
+    },
+    {
+      "tweet": "Diablo 4 is apparently peaking again. Every time I try to get out they just pull me back in.",
+      "original_url": "https://kotaku.com/game-release-dates-april-2026-diablo-saros-heroes-might-magic-2000690919",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Week In Games: Peak Diablo 4 And The Return Of Heroes Of Might And Magic",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-27T20:37:48.983523+00:00"
+    },
+    {
+      "tweet": "Fifa is doing a yellow card amnesty for the World Cup now. Rules apparently don't exist when the cameras are on.",
+      "original_url": "https://www.bbc.com/sport/football/articles/cdxdxxdnj9eo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "World Cup group stage set for yellow card amnesty",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-27T20:37:48.982993+00:00"
+    },
+    {
+      "tweet": "That Venice opera house just dropped their new director for talking about nepotism. Guess honesty isn't exactly the best policy in Italy.",
+      "original_url": "https://www.bbc.com/news/articles/cx2d2ennv95o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Venice opera house drops incoming music director after nepotism remarks",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-27T20:37:48.982567+00:00"
     }
   ],
   "seen_urls": [
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 701,
+    "total_posted": 703,
     "total_collected": 2313
   },
-  "last_posted_at": "2026-04-27T21:44:54.333992+00:00"
+  "last_posted_at": "2026-04-27T22:39:19.998475+00:00"
 }
