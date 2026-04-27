@@ -2,28 +2,6 @@
   "last_collected": "2026-04-27T18:00:10.136124+00:00",
   "queue": [
     {
-      "tweet": "Man, that Texas Tech QB Sorsby is heading to rehab for gambling. The college sports thing is getting ugly.",
-      "original_url": "https://www.espn.com/college-football/story/_/id/48608889/texas-tech-qb-brendan-sorsby-enter-gambling-addiction-program-sources-say",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Sources: NCAA eyes star QB Sorsby for gambling",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-27T18:00:10.135007+00:00"
-    },
-    {
-      "tweet": "Dude, some guy actually dropped thirty grand to buy Friendster. Like, what are you even gonna do with that. Rent.",
-      "original_url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "I bought Friendster for $30k – Here's what I'm doing with it",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-27T18:00:10.134472+00:00"
-    },
-    {
       "tweet": "Valve's new controller rings like a phone and doesn't even have a headphone jack. Who is that for.",
       "original_url": "https://kotaku.com/why-valves-new-100-controller-rings-like-a-phone-lacks-a-3-5-jack-and-isnt-called-the-steam-controller-2-2000690568",
       "buzz_score": 80,
@@ -915,17 +893,6 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "They're saying AI should elevate our thinking, not replace it. Sure, like we aren't already using it to write every single email at work.",
-      "original_url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "AI should elevate your thinking, not replace it",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-27T18:00:10.134478+00:00"
-    },
-    {
       "tweet": "Found a list of gifts for guys under twenty bucks that don't suck. I think I need a few of these.",
       "original_url": "https://www.bustle.com/shopping/impressive-gifts-for-men-under-20-that-wont-make-you-look-cheap",
       "buzz_score": 75,
@@ -992,15 +959,15 @@
       "added_at": "2026-04-26T12:39:39.042963+00:00"
     },
     {
-      "tweet": "Chris Brown is out here calling everyone Karens for criticizing his tour. Does he ever just stop.",
-      "original_url": "https://www.billboard.com/music/rb-hip-hop/chris-brown-bashes-critics-rb-tour-usher-fake-woke-karens-1236232501/",
-      "buzz_score": 70,
+      "tweet": "They're saying AI should elevate our thinking, not replace it. Sure, like we aren't already using it to write every single email at work.",
+      "original_url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+      "buzz_score": 75,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Chris Brown Bashes ‘Rage Bait Pages’ and ‘Fake Woke’ Critics of R&B Tour With Usher: ‘Karens and the Self-Hating H–s Be Making Me Laugh’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-27T18:00:10.135879+00:00"
+      "original_title": "AI should elevate your thinking, not replace it",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-27T18:00:10.134478+00:00"
     },
     {
       "tweet": "Seeing all these new Kindle accessories, and it’s just funny how we’ll spend more on the stickers and cases than the actual tech. Just makes it ours.",
@@ -1012,6 +979,17 @@
       "source": "Wired",
       "category": "tech",
       "added_at": "2026-04-26T12:39:39.043424+00:00"
+    },
+    {
+      "tweet": "Chris Brown is out here calling everyone Karens for criticizing his tour. Does he ever just stop.",
+      "original_url": "https://www.billboard.com/music/rb-hip-hop/chris-brown-bashes-critics-rb-tour-usher-fake-woke-karens-1236232501/",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Chris Brown Bashes ‘Rage Bait Pages’ and ‘Fake Woke’ Critics of R&B Tour With Usher: ‘Karens and the Self-Hating H–s Be Making Me Laugh’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-27T18:00:10.135879+00:00"
     },
     {
       "tweet": "Canada's setting up a sovereign wealth fund now. Why now, though.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 695,
+    "total_posted": 697,
     "total_collected": 2300
   },
-  "last_posted_at": "2026-04-27T18:09:40.159799+00:00"
+  "last_posted_at": "2026-04-27T19:27:23.150330+00:00"
 }
