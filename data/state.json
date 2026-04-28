@@ -2,28 +2,6 @@
   "last_collected": "2026-04-28T15:35:39.011526+00:00",
   "queue": [
     {
-      "tweet": "Did you see the UAE is just quitting Opec. That's a massive move, pretty sure they're just done with the whole cartel thing.",
-      "original_url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "United Arab Emirates to quit oil cartel Opec",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-28T15:35:39.009682+00:00"
-    },
-    {
-      "tweet": "2025's worst-reviewed game is getting a big price drop. I wonder why.",
-      "original_url": "https://kotaku.com/2025s-worst-reviewed-game-mindseye-gta-is-getting-a-big-price-drop-2000691275",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "2025’s Worst-Reviewed Game Is Getting A Big Price Drop",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-28T15:35:39.011145+00:00"
-    },
-    {
       "tweet": "Police in the Maldives raided a news site because they wrote about the president's affair. Subtle.",
       "original_url": "https://www.aljazeera.com/news/2026/4/28/maldives-police-raid-news-outlet-over-report-alleging-presidents-affair?traffic_source=rss",
       "buzz_score": 80,
@@ -948,39 +926,6 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Kimmel's trying to defend that 'expectant widow' joke after Trump asked for his head. Like, did he really think that was gonna fly right now?",
-      "original_url": "https://www.billboard.com/culture/tv-film/jimmy-kimmel-defends-expectant-widow-joke-trump-call-firing-1236233300/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Jimmy Kimmel Defends ‘Expectant Widow’ Jibe After Donald and Melania Trump Call For Host’s Ouster: ‘A Very Light Roast Joke’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-28T13:08:18.092255+00:00"
-    },
-    {
-      "tweet": "Apparently natural disasters make it impossible for people in recovery to get their meds. It's that kind of detail nobody thinks about until it's too late.",
-      "original_url": "https://www.npr.org/2026/04/28/nx-s1-5801463/natural-disasters-medication-access-opioid-addiction",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Natural disasters can cause another crisis for those recovering from opioid addiction",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-28T15:35:39.011396+00:00"
-    },
-    {
-      "tweet": "Another refinery got hit in Russia, evacuations and everything. At what point do they just stop trying to keep those things running",
-      "original_url": "https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Third Ukrainian strike hits Russian oil refinery and prompts evacuations",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-28T15:35:39.009856+00:00"
-    },
-    {
       "tweet": "The new Avatar game gives Sokka a speed boost just for being a wife guy. That's actually hilarious.",
       "original_url": "https://kotaku.com/avatar-legends-fighting-game-sokka-suki-kiss-airbender-2000690906",
       "buzz_score": 75,
@@ -1023,6 +968,39 @@
       "source": "Bustle",
       "category": "sex",
       "added_at": "2026-04-26T15:28:46.894908+00:00"
+    },
+    {
+      "tweet": "Kimmel's trying to defend that 'expectant widow' joke after Trump asked for his head. Like, did he really think that was gonna fly right now?",
+      "original_url": "https://www.billboard.com/culture/tv-film/jimmy-kimmel-defends-expectant-widow-joke-trump-call-firing-1236233300/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Jimmy Kimmel Defends ‘Expectant Widow’ Jibe After Donald and Melania Trump Call For Host’s Ouster: ‘A Very Light Roast Joke’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-28T13:08:18.092255+00:00"
+    },
+    {
+      "tweet": "Apparently natural disasters make it impossible for people in recovery to get their meds. It's that kind of detail nobody thinks about until it's too late.",
+      "original_url": "https://www.npr.org/2026/04/28/nx-s1-5801463/natural-disasters-medication-access-opioid-addiction",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Natural disasters can cause another crisis for those recovering from opioid addiction",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-28T15:35:39.011396+00:00"
+    },
+    {
+      "tweet": "Another refinery got hit in Russia, evacuations and everything. At what point do they just stop trying to keep those things running",
+      "original_url": "https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Third Ukrainian strike hits Russian oil refinery and prompts evacuations",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-28T15:35:39.009856+00:00"
     },
     {
       "tweet": "The Pistons are the number one seed and they're just choking against the Magic. Being the favorite is clearly cursed.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 716,
+    "total_posted": 718,
     "total_collected": 2385
   },
-  "last_posted_at": "2026-04-28T15:41:06.911500+00:00"
+  "last_posted_at": "2026-04-28T17:27:13.369994+00:00"
 }
