@@ -2,28 +2,6 @@
   "last_collected": "2026-04-28T18:59:51.581984+00:00",
   "queue": [
     {
-      "tweet": "Klay Thompson getting roasted by The Sims after the Megan Thee Stallion breakup is just brutal.",
-      "original_url": "https://www.billboard.com/music/music-news/megan-thee-stallion-klay-thompson-split-sims-roasts-nba-star-1236233512/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Klay Thompson Roasted by ‘The Sims’ After Megan Thee Stallion Breakup: ‘You Can’t Handle a Hottie’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-28T18:59:51.580720+00:00"
-    },
-    {
-      "tweet": "Did you see that thing about phones stopping being ours anymore? Like, we’re just renting them from the manufacturer at this point.",
-      "original_url": "https://keepandroidopen.org/en/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Your phone is about to stop being yours",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-28T18:59:51.580428+00:00"
-    },
-    {
       "tweet": "Police in the Maldives raided a news site because they wrote about the president's affair. Subtle.",
       "original_url": "https://www.aljazeera.com/news/2026/4/28/maldives-police-raid-news-outlet-over-report-alleging-presidents-affair?traffic_source=rss",
       "buzz_score": 80,
@@ -176,17 +154,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "So apparently Elon is trying to kick Sam Altman out of OpenAI while they're already in court. Who even runs that place anymore?",
-      "original_url": "https://www.npr.org/2026/04/28/nx-s1-5801438/musk-altman-openai-trial-opening-statements",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "As trial against OpenAI begins, Elon Musk seeks Sam Altman's ouster",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-28T18:59:51.580439+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -475,37 +442,15 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Somali pirates are back because the navy is too busy elsewhere. We really didn't see that coming.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/28/fears-resurgence-somalia-piracy-three-vessels-hijacked-past-week",
-      "buzz_score": 80,
+      "tweet": "So apparently Elon is trying to kick Sam Altman out of OpenAI while they're already in court. Who even runs that place anymore?",
+      "original_url": "https://www.npr.org/2026/04/28/nx-s1-5801438/musk-altman-openai-trial-opening-statements",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Fears of resurgence in Somali piracy after three vessels hijacked in a week",
-      "source": "The Guardian",
+      "original_title": "As trial against OpenAI begins, Elon Musk seeks Sam Altman's ouster",
+      "source": "NPR News",
       "category": "world",
-      "added_at": "2026-04-28T18:59:51.581487+00:00"
-    },
-    {
-      "tweet": "Damon Jones just pleaded guilty in that NBA gambling sweep. That’s probably the tip of the iceberg.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48618707/ex-nba-player-damon-jones-1st-plead-guilty-gambling-case",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Jones 1st to plead guilty in NBA gambling case",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-28T18:59:51.580847+00:00"
-    },
-    {
-      "tweet": "Hold on, James Comey got indicted again? Over a photo of some seashells? Man, what.",
-      "original_url": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Former FBI director James Comey indicted for second time",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-28T18:59:51.580434+00:00"
+      "added_at": "2026-04-28T18:59:51.580439+00:00"
     },
     {
       "tweet": "So apparently DeSantis is fast-tracking a new voting map in Florida. It's just power being power at this point.",
@@ -990,6 +935,39 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-08T17:48:49.217272+00:00"
+    },
+    {
+      "tweet": "Somali pirates are back because the navy is too busy elsewhere. We really didn't see that coming.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/28/fears-resurgence-somalia-piracy-three-vessels-hijacked-past-week",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Fears of resurgence in Somali piracy after three vessels hijacked in a week",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-28T18:59:51.581487+00:00"
+    },
+    {
+      "tweet": "Damon Jones just pleaded guilty in that NBA gambling sweep. That’s probably the tip of the iceberg.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48618707/ex-nba-player-damon-jones-1st-plead-guilty-gambling-case",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Jones 1st to plead guilty in NBA gambling case",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-28T18:59:51.580847+00:00"
+    },
+    {
+      "tweet": "Hold on, James Comey got indicted again? Over a photo of some seashells? Man, what.",
+      "original_url": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Former FBI director James Comey indicted for second time",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-28T18:59:51.580434+00:00"
     },
     {
       "tweet": "The new Avatar game gives Sokka a speed boost just for being a wife guy. That's actually hilarious.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 720,
+    "total_posted": 722,
     "total_collected": 2401
   },
-  "last_posted_at": "2026-04-28T19:06:39.954871+00:00"
+  "last_posted_at": "2026-04-28T20:24:01.532786+00:00"
 }
