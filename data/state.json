@@ -2,39 +2,6 @@
   "last_collected": "2026-04-28T09:39:47.088380+00:00",
   "queue": [
     {
-      "tweet": "Man, seeing that guy on trial for the Taylor Swift plot is wild. Just ruins it for everyone.",
-      "original_url": "https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 90,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Austrian goes on trial accused of plotting attack on Taylor Swift concert",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-28T09:39:47.086447+00:00"
-    },
-    {
-      "tweet": "Peloton workouts are on Spotify now. Guess there's really nowhere to hide from a workout.",
-      "original_url": "https://hypebeast.com/2026/4/spotify-x-peloton-launch-new-in-app-fitness-hub",
-      "buzz_score": 85,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Peloton Workout Classes Are Now Available on Your Spotify App",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-28T09:39:47.087355+00:00"
-    },
-    {
-      "tweet": "State Farm is out here trying to dodge hail damage payouts while rates are already through the roof. Typical.",
-      "original_url": "https://www.npr.org/2026/04/28/nx-s1-5793997/state-farm-home-insurance-hail-climate-change",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Lawsuits accuse State Farm of secretly working to cut insurance payouts",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-28T09:39:47.086450+00:00"
-    },
-    {
       "tweet": "Man, that whole thing with those London flats is wild. Still can't believe the police just looked the other way for that long. Gross",
       "original_url": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 90,
@@ -68,17 +35,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "That new Acer Swift 16 has a touchpad literally the size of your hand. What are we doing.",
-      "original_url": "https://www.wired.com/review/acer-swift-16-ai-2026/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Acer Swift 16 AI (2026) Review: Where Do Your Hands Go?",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-04-28T09:39:47.087642+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -88,6 +44,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "State Farm is out here trying to dodge hail damage payouts while rates are already through the roof. Typical.",
+      "original_url": "https://www.npr.org/2026/04/28/nx-s1-5793997/state-farm-home-insurance-hail-climate-change",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Lawsuits accuse State Farm of secretly working to cut insurance payouts",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-28T09:39:47.086450+00:00"
     },
     {
       "tweet": "Final Fantasy 14 is finally hitting Switch 2 but there's a literal Nintendo tax on it. Classic",
@@ -365,37 +332,15 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "FF7 Rebirth demo is finally hitting Switch 2 and Xbox. Finally.",
-      "original_url": "https://www.polygon.com/final-fantasy-7-rebirth-switch-2-xbox-demo/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Final Fantasy 7 Rebirth demo now available for Nintendo Switch 2 and Xbox",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-28T09:39:47.087500+00:00"
-    },
-    {
-      "tweet": "Did you hear Mexican special forces finally grabbed El Jardinero? About time.",
-      "original_url": "https://www.theguardian.com/world/2026/apr/28/mexican-special-forces-arrest-top-commander-audias-flores-el-jardinero-of-powerful-cartel",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Mexican special forces arrest top commander of powerful cartel",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-28T09:39:47.087070+00:00"
-    },
-    {
-      "tweet": "Kimmel is refusing to get fired over those Trump jokes. Is anyone actually surprised he didn't apologize",
-      "original_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/jimmy-kimmel-donald-melania-trump-call-to-fire-roast-joke-1235554574/",
+      "tweet": "That new Acer Swift 16 has a touchpad literally the size of your hand. What are we doing.",
+      "original_url": "https://www.wired.com/review/acer-swift-16-ai-2026/",
       "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Jimmy Kimmel Rejects Donald and Melania Trump’s Calls To Fire Him: ‘It Was a Very Light Roast Joke’",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-04-28T07:26:32.557588+00:00"
+      "original_title": "Acer Swift 16 AI (2026) Review: Where Do Your Hands Go?",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-04-28T09:39:47.087642+00:00"
     },
     {
       "tweet": "So apparently DeSantis is fast-tracking a new voting map in Florida. It's just power being power at this point.",
@@ -882,26 +827,26 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "BTS is launching street food at Walmart now. We're never escaping the celebrity food aisle.",
-      "original_url": "https://hypebeast.com/2026/4/bts-arih-western-korean-fusion-launches-at-walmart-us",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "BTS Returns to the F&B Space With ARIH, Merging Seoul Street Food with Bold Western Flavors",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-28T09:39:47.087212+00:00"
-    },
-    {
-      "tweet": "There’s a new dog food brand called Golden Child raising millions just to sell ‘drizzle’ for pets. We're living in a simulation.",
-      "original_url": "https://techcrunch.com/2026/04/27/drizzle-on-top-a-new-high-end-dog-food-brand-is-coming-for-the-1/",
+      "tweet": "FF7 Rebirth demo is finally hitting Switch 2 and Xbox. Finally.",
+      "original_url": "https://www.polygon.com/final-fantasy-7-rebirth-switch-2-xbox-demo/",
       "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Drizzle on top: a new high-end dog food brand is coming for the 1%",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-04-28T07:26:32.557465+00:00"
+      "original_title": "Final Fantasy 7 Rebirth demo now available for Nintendo Switch 2 and Xbox",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-28T09:39:47.087500+00:00"
+    },
+    {
+      "tweet": "Did you hear Mexican special forces finally grabbed El Jardinero? About time.",
+      "original_url": "https://www.theguardian.com/world/2026/apr/28/mexican-special-forces-arrest-top-commander-audias-flores-el-jardinero-of-powerful-cartel",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Mexican special forces arrest top commander of powerful cartel",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-28T09:39:47.087070+00:00"
     },
     {
       "tweet": "The new Avatar game gives Sokka a speed boost just for being a wife guy. That's actually hilarious.",
@@ -981,26 +926,26 @@
       "added_at": "2026-04-26T12:39:39.044199+00:00"
     },
     {
-      "tweet": "LIV Golf is already looking to move that New Orleans event. Shocking.",
-      "original_url": "https://www.bbc.com/sport/golf/articles/cy42l89y43ko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
+      "tweet": "Kimmel is refusing to get fired over those Trump jokes. Is anyone actually surprised he didn't apologize",
+      "original_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/jimmy-kimmel-donald-melania-trump-call-to-fire-roast-joke-1235554574/",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "LIV could reschedule June's New Orleans event",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-28T09:39:47.086767+00:00"
+      "original_title": "Jimmy Kimmel Rejects Donald and Melania Trump’s Calls To Fire Him: ‘It Was a Very Light Roast Joke’",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-04-28T07:26:32.557588+00:00"
     },
     {
-      "tweet": "Bloomberg is forcing AI onto their terminals now. Who asked for this.",
-      "original_url": "https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/",
-      "buzz_score": 80,
-      "buzz_score2": 88,
+      "tweet": "BTS is launching street food at Walmart now. We're never escaping the celebrity food aisle.",
+      "original_url": "https://hypebeast.com/2026/4/bts-arih-western-korean-fusion-launches-at-walmart-us",
+      "buzz_score": 75,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-04-28T09:39:47.087781+00:00"
+      "original_title": "BTS Returns to the F&B Space With ARIH, Merging Seoul Street Food with Bold Western Flavors",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-28T09:39:47.087212+00:00"
     },
     {
       "tweet": "Just read these myths about the Salem Witch Trials and honestly, everything we learned in school was a total lie. We don't know anything.",
@@ -1014,15 +959,26 @@
       "added_at": "2026-04-27T18:00:10.134481+00:00"
     },
     {
-      "tweet": "Have you seen the commute in the Philippines lately? How are people even getting to work.",
-      "original_url": "https://www.nytimes.com/video/world/asia/100000010844179/gas-prices-philippines-commute.html",
-      "buzz_score": 75,
-      "buzz_score2": 88,
+      "tweet": "There’s a new dog food brand called Golden Child raising millions just to sell ‘drizzle’ for pets. We're living in a simulation.",
+      "original_url": "https://techcrunch.com/2026/04/27/drizzle-on-top-a-new-high-end-dog-food-brand-is-coming-for-the-1/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Fuel Crisis Creates Commuter Crush in the Philippines",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-28T09:39:47.086621+00:00"
+      "original_title": "Drizzle on top: a new high-end dog food brand is coming for the 1%",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-04-28T07:26:32.557465+00:00"
+    },
+    {
+      "tweet": "LIV Golf is already looking to move that New Orleans event. Shocking.",
+      "original_url": "https://www.bbc.com/sport/golf/articles/cy42l89y43ko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "LIV could reschedule June's New Orleans event",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-28T09:39:47.086767+00:00"
     },
     {
       "tweet": "Olivia Rodrigo just hit number one again. She literally can't miss.",
@@ -1034,6 +990,28 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-27T18:00:10.136000+00:00"
+    },
+    {
+      "tweet": "Bloomberg is forcing AI onto their terminals now. Who asked for this.",
+      "original_url": "https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/",
+      "buzz_score": 80,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-04-28T09:39:47.087781+00:00"
+    },
+    {
+      "tweet": "Have you seen the commute in the Philippines lately? How are people even getting to work.",
+      "original_url": "https://www.nytimes.com/video/world/asia/100000010844179/gas-prices-philippines-commute.html",
+      "buzz_score": 75,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Fuel Crisis Creates Commuter Crush in the Philippines",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-28T09:39:47.086621+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 710,
+    "total_posted": 712,
     "total_collected": 2353
   },
-  "last_posted_at": "2026-04-28T09:48:25.406170+00:00"
+  "last_posted_at": "2026-04-28T11:30:30.890971+00:00"
 }
