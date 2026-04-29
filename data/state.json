@@ -2,17 +2,6 @@
   "last_collected": "2026-04-29T14:31:09.022018+00:00",
   "queue": [
     {
-      "tweet": "Man, Mugabe's son is getting deported from South Africa after that whole firearm thing. Rich kids are literally just bored everywhere.",
-      "original_url": "https://www.bbc.com/news/articles/czx2lxevvljo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Robert Mugabe's son to be deported from South Africa over firearms offence",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-29T14:31:09.020801+00:00"
-    },
-    {
       "tweet": "Man, that whole thing with those London flats is wild. Still can't believe the police just looked the other way for that long. Gross",
       "original_url": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 90,
@@ -341,17 +330,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
-    },
-    {
-      "tweet": "Trump and Merz are beefing again. It’s impossible to stay friends with that guy, man.",
-      "original_url": "https://www.nytimes.com/2026/04/29/world/europe/trump-merz-iran.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump’s Clash With Merz Shows It’s Hard to Stay Friends With the President",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-29T14:31:09.021241+00:00"
     },
     {
       "tweet": "A teacher got pelted with food by hundreds of students at that elite school in Brisbane. That's not a culture thing, that's just straight up abuse.",
@@ -860,37 +838,15 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Wild that Carole King wrote half the songs we grew up with without anyone knowing. We literally don't know who does anything.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/songs-written-by-carole-king?utm_source=RSS",
-      "buzz_score": 75,
+      "tweet": "Trump and Merz are beefing again. It’s impossible to stay friends with that guy, man.",
+      "original_url": "https://www.nytimes.com/2026/04/29/world/europe/trump-merz-iran.html",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "9 Hit Songs You Didn't Know Were Written By Carole King",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-29T14:31:09.020811+00:00"
-    },
-    {
-      "tweet": "Did you hear Metallica is putting out a 15-CD box set for Reload. Fifteen discs, man.",
-      "original_url": "https://www.billboard.com/music/rock/metallica-15-cd-reload-remastered-limited-edition-deluxe-box-1236234125/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Metallica Rolling Out 15-CD ‘Reload (Remastered)’ Limited Edition Deluxe Box Set With Previously Unreleased Demos, Rough Mixes and Videos",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-29T14:31:09.020798+00:00"
-    },
-    {
-      "tweet": "Tupac’s family is finally going after more people in that wrongful death suit. How many more decades is this gonna take",
-      "original_url": "https://www.bbc.com/news/articles/c0l28d517gjo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 88,
-      "rewrite_count": 0,
-      "original_title": "Tupac's family files wrongful death lawsuit in LA",
-      "source": "BBC World",
+      "original_title": "Trump’s Clash With Merz Shows It’s Hard to Stay Friends With the President",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-04-29T14:31:09.020803+00:00"
+      "added_at": "2026-04-29T14:31:09.021241+00:00"
     },
     {
       "tweet": "The studio behind Steelrising is shutting down after eighteen years. Brutal.",
@@ -935,6 +891,39 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-28T15:35:39.010116+00:00"
+    },
+    {
+      "tweet": "Wild that Carole King wrote half the songs we grew up with without anyone knowing. We literally don't know who does anything.",
+      "original_url": "https://www.mentalfloss.com/entertainment/music/songs-written-by-carole-king?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "9 Hit Songs You Didn't Know Were Written By Carole King",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-29T14:31:09.020811+00:00"
+    },
+    {
+      "tweet": "Did you hear Metallica is putting out a 15-CD box set for Reload. Fifteen discs, man.",
+      "original_url": "https://www.billboard.com/music/rock/metallica-15-cd-reload-remastered-limited-edition-deluxe-box-1236234125/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Metallica Rolling Out 15-CD ‘Reload (Remastered)’ Limited Edition Deluxe Box Set With Previously Unreleased Demos, Rough Mixes and Videos",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-29T14:31:09.020798+00:00"
+    },
+    {
+      "tweet": "Tupac’s family is finally going after more people in that wrongful death suit. How many more decades is this gonna take",
+      "original_url": "https://www.bbc.com/news/articles/c0l28d517gjo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 88,
+      "rewrite_count": 0,
+      "original_title": "Tupac's family files wrongful death lawsuit in LA",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-29T14:31:09.020803+00:00"
     },
     {
       "tweet": "People are actually betting on music releases with Kalshi now. The internet really turns everything into a day trader thing.",
@@ -992,6 +981,17 @@
       "added_at": "2026-04-29T06:36:07.161765+00:00"
     },
     {
+      "tweet": "Musk is back in court relitigating his friendship with OpenAI. Can we just move on already.",
+      "original_url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "At his OpenAI trial, Musk relitigates an old friendship",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-04-29T04:03:26.077088+00:00"
+    },
+    {
       "tweet": "Umbro and Crocs are making quilted clogs now. Truly a fever dream.",
       "original_url": "https://hypebeast.com/2026/4/umbro-crocs-classic-crafted-clog-drill-top-speciali-collaboration-collection-213397-213398-release-info",
       "buzz_score": 80,
@@ -1012,17 +1012,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-29T06:36:07.162082+00:00"
-    },
-    {
-      "tweet": "Musk is back in court relitigating his friendship with OpenAI. Can we just move on already.",
-      "original_url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "At his OpenAI trial, Musk relitigates an old friendship",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-04-29T04:03:26.077088+00:00"
     },
     {
       "tweet": "Deforestation is actually slowing down, but now the wildfires are just hitting harder. We're just trading one disaster for another.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 739,
+    "total_posted": 740,
     "total_collected": 2465
   },
-  "last_posted_at": "2026-04-29T14:36:12.150441+00:00"
+  "last_posted_at": "2026-04-29T16:13:52.925289+00:00"
 }
