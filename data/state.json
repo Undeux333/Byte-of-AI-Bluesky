@@ -2,28 +2,6 @@
   "last_collected": "2026-04-29T09:00:17.857015+00:00",
   "queue": [
     {
-      "tweet": "People are still out here debating soda versus pop. We really just can't agree on anything.",
-      "original_url": "https://www.mentalfloss.com/language/slang/us-slang-differences-spark-big-debates?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "6 U.S. Slang Differences That Spark Big Debates—Including “Soda Pop”",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-29T04:03:26.076834+00:00"
-    },
-    {
-      "tweet": "Did you see the NCAA is expanding to 76 teams now. At what point does the tournament just become literally everyone.",
-      "original_url": "https://www.espn.com/mens-college-basketball/story/_/id/48621117/sources-ncaa-basketball-tournaments-set-move-76-teams",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Sources: NCAA tournaments set to expand to 76",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-29T04:03:26.076267+00:00"
-    },
-    {
       "tweet": "Watching Devil Wears Prada and realizing Nate is actually the biggest villain in the whole movie. We all really just ignored that for years.",
       "original_url": "https://www.mentalfloss.com/entertainment/movies/nate-devil-wears-prada-other-real-villains?utm_source=RSS",
       "buzz_score": 85,
@@ -66,17 +44,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "So apparently we're getting commemorative passports with Trump's face on them for the 250th. Who even asked for that.",
-      "original_url": "https://www.npr.org/2026/04/29/g-s1-119146/us-to-issue-passports-with-trumps-picture-for-americas-250th-birthday",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "U.S. to issue commemorative passports with Trump's picture for America's 250th birthday",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-29T06:36:07.161955+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -374,6 +341,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
+    },
+    {
+      "tweet": "So apparently we're getting commemorative passports with Trump's face on them for the 250th. Who even asked for that.",
+      "original_url": "https://www.npr.org/2026/04/29/g-s1-119146/us-to-issue-passports-with-trumps-picture-for-americas-250th-birthday",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "U.S. to issue commemorative passports with Trump's picture for America's 250th birthday",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-29T06:36:07.161955+00:00"
     },
     {
       "tweet": "A teacher got pelted with food by hundreds of students at that elite school in Brisbane. That's not a culture thing, that's just straight up abuse.",
@@ -882,39 +860,6 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "This guy Avi Yemini is trying to game the voting system in Victoria with a new party. How is that even allowed.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/apr/29/avi-yemini-plan-register-free-palestine-party-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Rightwing provocateur’s plan to register ‘Free Palestine party’ renews concern over Victoria’s voting system",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-29T06:36:07.163077+00:00"
-    },
-    {
-      "tweet": "This guy Alfie Whiteman won a Europa League medal and now he's just out here doing photography. Sometimes you just gotta quit while you're ahead.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c4g519p53l9o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The Europa League winner turned director, actor, DJ and photographer",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-29T06:36:07.162327+00:00"
-    },
-    {
-      "tweet": "Did you see the UAE is actually just leaving OPEC. That's a massive move when you realize they're the ones holding the cards.",
-      "original_url": "https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "UAE to leave OPEC",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-29T06:36:07.161765+00:00"
-    },
-    {
       "tweet": "The studio behind Steelrising is shutting down after eighteen years. Brutal.",
       "original_url": "https://kotaku.com/spiders-nacon-greedfall-shutdown-french-rpg-2000691282",
       "buzz_score": 75,
@@ -957,6 +902,39 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-28T15:35:39.010116+00:00"
+    },
+    {
+      "tweet": "This guy Avi Yemini is trying to game the voting system in Victoria with a new party. How is that even allowed.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/apr/29/avi-yemini-plan-register-free-palestine-party-ntwnfb",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Rightwing provocateur’s plan to register ‘Free Palestine party’ renews concern over Victoria’s voting system",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-04-29T06:36:07.163077+00:00"
+    },
+    {
+      "tweet": "This guy Alfie Whiteman won a Europa League medal and now he's just out here doing photography. Sometimes you just gotta quit while you're ahead.",
+      "original_url": "https://www.bbc.com/sport/football/articles/c4g519p53l9o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Europa League winner turned director, actor, DJ and photographer",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-29T06:36:07.162327+00:00"
+    },
+    {
+      "tweet": "Did you see the UAE is actually just leaving OPEC. That's a massive move when you realize they're the ones holding the cards.",
+      "original_url": "https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "UAE to leave OPEC",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-29T06:36:07.161765+00:00"
     },
     {
       "tweet": "Umbro and Crocs are making quilted clogs now. Truly a fever dream.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 734,
+    "total_posted": 736,
     "total_collected": 2449
   },
-  "last_posted_at": "2026-04-29T09:08:34.907350+00:00"
+  "last_posted_at": "2026-04-29T11:05:59.042340+00:00"
 }
