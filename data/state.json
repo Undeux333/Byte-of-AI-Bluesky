@@ -2,28 +2,6 @@
   "last_collected": "2026-04-28T23:29:07.802124+00:00",
   "queue": [
     {
-      "tweet": "Billie Eilish is out here begging for a new Rihanna album just like the rest of us. Can we just get the music already",
-      "original_url": "https://www.billboard.com/music/pop/billie-eilish-rihanna-r9-album-1236233862/",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Billie Eilish Needs a New Rihanna Album in Her Life: ‘If She Ever F—ing Makes R9…’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-28T23:29:07.800785+00:00"
-    },
-    {
-      "tweet": "So apparently the neighbors are losing it over that Trump shooter guy. Imagine seeing the dude you take your trash out next to on the national news. Surreal",
-      "original_url": "https://www.bbc.com/news/articles/c392knk3w2jo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'It's bizarre': Californians grapple with revelation that suspected Trump gunman was neighbour",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-28T23:29:07.800773+00:00"
-    },
-    {
       "tweet": "Man, that whole thing with those London flats is wild. Still can't believe the police just looked the other way for that long. Gross",
       "original_url": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 90,
@@ -57,17 +35,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Watching Musk testify against Altman is painful. It’s like watching two rich guys fight over who gets to own the future. Exhausting",
-      "original_url": "https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Elon Musk appeared more petty than prepared",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-04-28T23:29:07.801232+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -77,6 +44,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Watching Musk testify against Altman is painful. It’s like watching two rich guys fight over who gets to own the future. Exhausting",
+      "original_url": "https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Elon Musk appeared more petty than prepared",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-04-28T23:29:07.801232+00:00"
     },
     {
       "tweet": "Did you see Microsoft and OpenAI are done with that exclusive deal? Honestly, it was only a matter of time before they started doing their own thing.",
@@ -385,61 +363,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-28T23:29:07.800779+00:00"
-    },
-    {
-      "tweet": "The studio behind Steelrising is shutting down after eighteen years. Brutal.",
-      "original_url": "https://kotaku.com/spiders-nacon-greedfall-shutdown-french-rpg-2000691282",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Studio Behind Unique RPGs Steelrising And GreedFall Reportedly Shutting Down After 18 Years",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-28T15:35:39.011020+00:00"
-    },
-    {
-      "tweet": "Jannik Sinner just keeps winning. Dude is literally a machine right now.",
-      "original_url": "https://www.bbc.com/sport/tennis/articles/cd0p5vx1g34o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Sinner beats Norrie to equal historic winning run",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-28T15:35:39.010625+00:00"
-    },
-    {
-      "tweet": "Lakers are saying Austin Reaves is gonna be back for Game 5. About time.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48617343/sources-lakers-optimistic-austin-reaves-return-game-5",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Sources: Lakers optimistic for Reaves return in G5",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-04-28T15:35:39.010369+00:00"
-    },
-    {
-      "tweet": "Taylor Swift’s ring is back in stock. Guess we’re all gonna pretend we didn't see that coming.",
-      "original_url": "https://www.billboard.com/culture/product-recommendations/taylor-swift-mejuri-heirloom-ring-buy-1235758494/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Taylor Swift’s Dazzling Mejuri Heirloom Ring Is Finally Back in Stock – Here’s Where to Buy It",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-28T15:35:39.010116+00:00"
-    },
-    {
-      "tweet": "Dude, just found out about Localsend. It's basically AirDrop but it actually works across everything, which is exactly what we've been waiting for.",
-      "original_url": "https://github.com/localsend/localsend",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Localsend: An open-source cross-platform alternative to AirDrop",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-28T15:35:39.009671+00:00"
     },
     {
       "tweet": "A teacher got pelted with food by hundreds of students at that elite school in Brisbane. That's not a culture thing, that's just straight up abuse.",
@@ -948,6 +871,61 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
+      "tweet": "The studio behind Steelrising is shutting down after eighteen years. Brutal.",
+      "original_url": "https://kotaku.com/spiders-nacon-greedfall-shutdown-french-rpg-2000691282",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Studio Behind Unique RPGs Steelrising And GreedFall Reportedly Shutting Down After 18 Years",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-04-28T15:35:39.011020+00:00"
+    },
+    {
+      "tweet": "Jannik Sinner just keeps winning. Dude is literally a machine right now.",
+      "original_url": "https://www.bbc.com/sport/tennis/articles/cd0p5vx1g34o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Sinner beats Norrie to equal historic winning run",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-28T15:35:39.010625+00:00"
+    },
+    {
+      "tweet": "Lakers are saying Austin Reaves is gonna be back for Game 5. About time.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48617343/sources-lakers-optimistic-austin-reaves-return-game-5",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Sources: Lakers optimistic for Reaves return in G5",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-04-28T15:35:39.010369+00:00"
+    },
+    {
+      "tweet": "Taylor Swift’s ring is back in stock. Guess we’re all gonna pretend we didn't see that coming.",
+      "original_url": "https://www.billboard.com/culture/product-recommendations/taylor-swift-mejuri-heirloom-ring-buy-1235758494/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Taylor Swift’s Dazzling Mejuri Heirloom Ring Is Finally Back in Stock – Here’s Where to Buy It",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-28T15:35:39.010116+00:00"
+    },
+    {
+      "tweet": "Dude, just found out about Localsend. It's basically AirDrop but it actually works across everything, which is exactly what we've been waiting for.",
+      "original_url": "https://github.com/localsend/localsend",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-28T15:35:39.009671+00:00"
+    },
+    {
       "tweet": "The Drag Race subreddit is losing their minds over Tomodachi Life posts. Honestly, just let people post their weird Miis man",
       "original_url": "https://kotaku.com/rupauls-drag-race-subreddit-banned-tomodachi-life-2000691381",
       "buzz_score": 75,
@@ -968,17 +946,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-28T23:29:07.800787+00:00"
-    },
-    {
-      "tweet": "BLACKPINK and Razer are doing a hardware collab. My desk wasn't prepared for this.",
-      "original_url": "https://hypebeast.com/2026/4/blackpink-razer-ornata-v3-tenkeyless-deathadder-essential-gigantus-v2-medium-enki-x-photocards-collection-release-info",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "How You Like That? BLACKPINK and Razer Transform Your Setup with a Bold, New Hardware Collaboration",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-04-28T15:35:39.011270+00:00"
     },
     {
       "tweet": "The new Avatar game gives Sokka a speed boost just for being a wife guy. That's actually hilarious.",
@@ -1023,6 +990,17 @@
       "source": "Bustle",
       "category": "sex",
       "added_at": "2026-04-26T15:28:46.894908+00:00"
+    },
+    {
+      "tweet": "BLACKPINK and Razer are doing a hardware collab. My desk wasn't prepared for this.",
+      "original_url": "https://hypebeast.com/2026/4/blackpink-razer-ornata-v3-tenkeyless-deathadder-essential-gigantus-v2-medium-enki-x-photocards-collection-release-info",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "How You Like That? BLACKPINK and Razer Transform Your Setup with a Bold, New Hardware Collaboration",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-04-28T15:35:39.011270+00:00"
     },
     {
       "tweet": "So apparently Elon is trying to kick Sam Altman out of OpenAI while they're already in court. Who even runs that place anymore?",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 726,
+    "total_posted": 728,
     "total_collected": 2417
   },
-  "last_posted_at": "2026-04-28T23:36:49.610045+00:00"
+  "last_posted_at": "2026-04-29T00:22:33.632295+00:00"
 }
