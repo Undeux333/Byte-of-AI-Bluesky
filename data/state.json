@@ -2,28 +2,6 @@
   "last_collected": "2026-04-29T22:38:39.097085+00:00",
   "queue": [
     {
-      "tweet": "Dude, Maryland actually banned stores from using surveillance pricing. Finally they're stopping grocery stores from tracking us just to change the price on milk.",
-      "original_url": "https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Maryland becomes first state to ban surveillance pricing in grocery stores",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-29T22:38:39.096212+00:00"
-    },
-    {
-      "tweet": "Turns out that knee surgery for cartilage damage actually does nothing for you long term. We're just paying to make it worse.",
-      "original_url": "https://www.theguardian.com/science/2026/apr/29/knee-surgery-cartilage-damage-patients-study",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Knee surgery for cartilage damage does not benefit patients, study suggests",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-29T22:38:39.096642+00:00"
-    },
-    {
       "tweet": "Cosmo is out here dropping guides on sex positions for curved ones. Sometimes you gotta just adjust.",
       "original_url": "https://sex.cosmopolitan.com/pleasure/positions/g9952537/sex-positions-curved-penis/",
       "buzz_score": 80,
@@ -506,17 +484,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
-    },
-    {
-      "tweet": "These creators in the Middle East are just using memes to deal with the war. Everyone handles the stress differently.",
-      "original_url": "https://www.nytimes.com/2026/04/29/world/middleeast/mideast-war-humor.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Gallows Humor Provides Respite From Mideast Wars",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-29T20:20:54.125035+00:00"
     },
     {
       "tweet": "A teacher got pelted with food by hundreds of students at that elite school in Brisbane. That's not a culture thing, that's just straight up abuse.",
@@ -1023,6 +990,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-08T17:48:49.217272+00:00"
+    },
+    {
+      "tweet": "These creators in the Middle East are just using memes to deal with the war. Everyone handles the stress differently.",
+      "original_url": "https://www.nytimes.com/2026/04/29/world/middleeast/mideast-war-humor.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Gallows Humor Provides Respite From Mideast Wars",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-29T20:20:54.125035+00:00"
     },
     {
       "tweet": "The studio behind Steelrising is shutting down after eighteen years. Brutal.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 746,
+    "total_posted": 748,
     "total_collected": 2491
   },
-  "last_posted_at": "2026-04-29T22:46:17.533702+00:00"
+  "last_posted_at": "2026-04-29T23:45:13.103768+00:00"
 }
