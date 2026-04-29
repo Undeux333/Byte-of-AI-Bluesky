@@ -2,28 +2,6 @@
   "last_collected": "2026-04-29T20:20:54.126274+00:00",
   "queue": [
     {
-      "tweet": "Florida really just drew a new map to flip four seats for the GOP. They aren't even trying to hide it.",
-      "original_url": "https://www.npr.org/2026/04/29/nx-s1-5804703/florida-redistricting-voting-map-republicans-house-seats",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Florida lawmakers pass a voting map that could help Republicans flip four House seats",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-29T20:20:54.124911+00:00"
-    },
-    {
-      "tweet": "Comey getting indicted over a seashell post is wild. The government really has nothing better to do.",
-      "original_url": "https://www.bbc.com/news/articles/clyp70l1egeo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Comey's seashell post got him indicted. But experts are sceptical the government can win",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-29T20:20:54.124609+00:00"
-    },
-    {
       "tweet": "A GB News host is suing a charity because they don't give internships to white people. Absolute comedy.",
       "original_url": "https://www.theguardian.com/law/2026/apr/29/sophie-corcoran-gb-news-sue-charity-not-offering-internships-white-people-legal-action",
       "buzz_score": 85,
@@ -143,17 +121,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "These creators in the Middle East are just using memes to deal with the war. Everyone handles the stress differently.",
-      "original_url": "https://www.nytimes.com/2026/04/29/world/middleeast/mideast-war-humor.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Gallows Humor Provides Respite From Mideast Wars",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-29T20:20:54.125035+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -451,6 +418,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
+    },
+    {
+      "tweet": "These creators in the Middle East are just using memes to deal with the war. Everyone handles the stress differently.",
+      "original_url": "https://www.nytimes.com/2026/04/29/world/middleeast/mideast-war-humor.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Gallows Humor Provides Respite From Mideast Wars",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-29T20:20:54.125035+00:00"
     },
     {
       "tweet": "A teacher got pelted with food by hundreds of students at that elite school in Brisbane. That's not a culture thing, that's just straight up abuse.",
@@ -959,28 +937,6 @@
       "added_at": "2026-04-08T17:48:49.217272+00:00"
     },
     {
-      "tweet": "Range is out here advising on billion dollar deals for The Weeknd while we're out here just working.",
-      "original_url": "https://www.billboard.com/pro/inside-range-media-catalog-advisory-team-weeknd-deal/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘Few Are Doing What We’re Doing’: Range’s Evan Winiker on the Firm’s Thriving Catalog Advisory Business",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-04-29T20:20:54.125281+00:00"
-    },
-    {
-      "tweet": "So apparently the Buffalo Sabres play the Canadian anthem every single game. Why are we even doing that.",
-      "original_url": "https://www.mentalfloss.com/sports/hockey/why-buffalo-sabers-play-o-canada-before-every-game?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Why the Buffalo Sabres Play \"O Canada\" Before Every Game",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-04-29T20:20:54.124604+00:00"
-    },
-    {
       "tweet": "The studio behind Steelrising is shutting down after eighteen years. Brutal.",
       "original_url": "https://kotaku.com/spiders-nacon-greedfall-shutdown-french-rpg-2000691282",
       "buzz_score": 75,
@@ -1023,6 +979,28 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-04-28T15:35:39.010116+00:00"
+    },
+    {
+      "tweet": "Range is out here advising on billion dollar deals for The Weeknd while we're out here just working.",
+      "original_url": "https://www.billboard.com/pro/inside-range-media-catalog-advisory-team-weeknd-deal/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘Few Are Doing What We’re Doing’: Range’s Evan Winiker on the Firm’s Thriving Catalog Advisory Business",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-04-29T20:20:54.125281+00:00"
+    },
+    {
+      "tweet": "So apparently the Buffalo Sabres play the Canadian anthem every single game. Why are we even doing that.",
+      "original_url": "https://www.mentalfloss.com/sports/hockey/why-buffalo-sabers-play-o-canada-before-every-game?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Why the Buffalo Sabres Play \"O Canada\" Before Every Game",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-04-29T20:20:54.124604+00:00"
     },
     {
       "tweet": "Bath is starting an 18-year-old in a semi-final. Good luck to that kid.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 742,
+    "total_posted": 744,
     "total_collected": 2481
   },
-  "last_posted_at": "2026-04-29T20:27:48.303532+00:00"
+  "last_posted_at": "2026-04-29T21:45:55.000854+00:00"
 }
