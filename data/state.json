@@ -2,28 +2,6 @@
   "last_collected": "2026-04-30T09:33:23.135072+00:00",
   "queue": [
     {
-      "tweet": "Iranian officials got turned away at the airport in Toronto and now they're missing FIFA Congress. Talk about a bad trip.",
-      "original_url": "https://www.aljazeera.com/sports/2026/4/30/iran-football-officials-to-miss-fifa-congress-over-mistreatment-in-canada?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Iranian officials to miss FIFA Congress over alleged mistreatment in Canada",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-30T07:24:21.400423+00:00"
-    },
-    {
-      "tweet": "Dude, a dad and his daughter basically scammed the entire NYC art scene with fake Banksys. Some people are just built different.",
-      "original_url": "https://www.npr.org/2026/04/30/g-s1-119482/how-a-father-and-daughter-duped-nycs-art-world-with-fake-warhols-and-banksys",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "How a father and daughter duped NYC's art world with fake Warhols and Banksys",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-30T07:24:21.399842+00:00"
-    },
-    {
       "tweet": "Did you see the Lakers-Rockets game? Rockets are actually pushing this to a Game 6. Stressful.",
       "original_url": "https://www.espn.com/nba/story/_/id/48634767/rockets-outlast-lakers-reaves-return-force-game-6",
       "buzz_score": 80,
@@ -90,50 +68,6 @@
       "added_at": "2026-04-30T01:22:08.460324+00:00"
     },
     {
-      "tweet": "If you're still dying to the Shepherd boss in Saros, just dodge left. That's it.",
-      "original_url": "https://www.polygon.com/saros-shepherd-boss-how-to-beat/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "How to beat the Shepherd boss in Saros",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-04-30T04:49:22.921777+00:00"
-    },
-    {
-      "tweet": "David Allan Coe passed away at 86. That guy wrote the only perfect country song and just dipped. Total legend.",
-      "original_url": "https://www.rollingstone.com/music/music-country/david-allan-coe-dead-obituary-1218831/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "David Allan Coe, Singer of the ‘Perfect Country and Western Song,’ Dead at 86",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-04-30T04:49:22.920896+00:00"
-    },
-    {
-      "tweet": "So apparently someone just dropped a 13B language model trained on 1930s data. We're literally teaching AI how to smoke pipes and call people old sport.",
-      "original_url": "https://talkie-lm.com/introducing-talkie",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Talkie: a 13B vintage language model from 1930",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-30T04:49:22.920454+00:00"
-    },
-    {
-      "tweet": "Did you see the UAE is actually pulling out of OPEC. That's a massive move tho.",
-      "original_url": "https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "UAE to leave OPEC",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-30T01:22:08.460317+00:00"
-    },
-    {
       "tweet": "Man, that whole thing with those London flats is wild. Still can't believe the police just looked the other way for that long. Gross",
       "original_url": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 90,
@@ -167,26 +101,37 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Did you see that footage from Texas after the tornado. That town is just completely gone.",
-      "original_url": "https://www.bbc.com/news/videos/cvgzlpzglx2o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
+      "tweet": "If you're still dying to the Shepherd boss in Saros, just dodge left. That's it.",
+      "original_url": "https://www.polygon.com/saros-shepherd-boss-how-to-beat/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Watch: Aerial video shows destruction after tornado strikes small Texas town",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-04-30T09:33:23.134947+00:00"
+      "original_title": "How to beat the Shepherd boss in Saros",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-04-30T04:49:22.921777+00:00"
     },
     {
-      "tweet": "Reid Hoffman is out here saying it's basically malpractice if doctors don't ask AI for medical advice. Are we really trusting a chatbot with our health now",
-      "original_url": "https://www.wired.com/story/reid-hoffman-ai-doctor-second-opinion-wired-health/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
+      "tweet": "David Allan Coe passed away at 86. That guy wrote the only perfect country song and just dipped. Total legend.",
+      "original_url": "https://www.rollingstone.com/music/music-country/david-allan-coe-dead-obituary-1218831/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Reid Hoffman Thinks Doctors Should Ask AI for a Second Opinion",
-      "source": "Wired",
+      "original_title": "David Allan Coe, Singer of the ‘Perfect Country and Western Song,’ Dead at 86",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-04-30T04:49:22.920896+00:00"
+    },
+    {
+      "tweet": "So apparently someone just dropped a 13B language model trained on 1930s data. We're literally teaching AI how to smoke pipes and call people old sport.",
+      "original_url": "https://talkie-lm.com/introducing-talkie",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Talkie: a 13B vintage language model from 1930",
+      "source": "HackerNews",
       "category": "tech",
-      "added_at": "2026-04-30T09:33:23.133291+00:00"
+      "added_at": "2026-04-30T04:49:22.920454+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -198,6 +143,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Did you see the UAE is actually pulling out of OPEC. That's a massive move tho.",
+      "original_url": "https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "UAE to leave OPEC",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-04-30T01:22:08.460317+00:00"
     },
     {
       "tweet": "A GB News host is suing a charity because they don't give internships to white people. Absolute comedy.",
@@ -519,15 +475,26 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Press freedom is officially at its lowest in 25 years. We're just heading backwards at this point.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/30/global-press-freedom-falls-to-its-lowest-level-in-25-years?traffic_source=rss",
-      "buzz_score": 80,
+      "tweet": "Did you see that footage from Texas after the tornado. That town is just completely gone.",
+      "original_url": "https://www.bbc.com/news/videos/cvgzlpzglx2o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Press freedom worldwide falls to its lowest level in 25 years",
-      "source": "Al Jazeera",
+      "original_title": "Watch: Aerial video shows destruction after tornado strikes small Texas town",
+      "source": "BBC World",
       "category": "world",
-      "added_at": "2026-04-30T09:33:23.133836+00:00"
+      "added_at": "2026-04-30T09:33:23.134947+00:00"
+    },
+    {
+      "tweet": "Reid Hoffman is out here saying it's basically malpractice if doctors don't ask AI for medical advice. Are we really trusting a chatbot with our health now",
+      "original_url": "https://www.wired.com/story/reid-hoffman-ai-doctor-second-opinion-wired-health/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Reid Hoffman Thinks Doctors Should Ask AI for a Second Opinion",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-04-30T09:33:23.133291+00:00"
     },
     {
       "tweet": "Cosmo is out here dropping guides on sex positions for curved ones. Sometimes you gotta just adjust.",
@@ -1034,6 +1001,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-09T14:10:48.792442+00:00"
+    },
+    {
+      "tweet": "Press freedom is officially at its lowest in 25 years. We're just heading backwards at this point.",
+      "original_url": "https://www.aljazeera.com/news/2026/4/30/global-press-freedom-falls-to-its-lowest-level-in-25-years?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Press freedom worldwide falls to its lowest level in 25 years",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-04-30T09:33:23.133836+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 756,
+    "total_posted": 758,
     "total_collected": 2555
   },
-  "last_posted_at": "2026-04-30T09:42:11.111354+00:00"
+  "last_posted_at": "2026-04-30T11:24:15.571261+00:00"
 }
