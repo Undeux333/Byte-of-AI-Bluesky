@@ -2,28 +2,6 @@
   "last_collected": "2026-04-30T18:03:35.012140+00:00",
   "queue": [
     {
-      "tweet": "The US hit a historic low in press freedom. Not exactly surprised.",
-      "original_url": "https://www.aljazeera.com/news/2026/4/30/us-falls-to-historic-low-in-press-freedom-tracker-rsf?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US falls to ‘historic low’ in press freedom tracker: RSF",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-04-30T18:03:35.011397+00:00"
-    },
-    {
-      "tweet": "Wada just found over 300 doping cases in that Russian lab data. Absolutely wild.",
-      "original_url": "https://www.bbc.com/sport/articles/cx21k881djlo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Wada investigation finds 300 Russian doping cases",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-30T18:03:35.011119+00:00"
-    },
-    {
       "tweet": "So apparently a Texas court just paused that whole deal for The Onion to take over Infowars. What a mess.",
       "original_url": "https://www.npr.org/2026/04/30/nx-s1-5806038/the-onion-infowars-alex-jones-takeover",
       "buzz_score": 85,
@@ -473,17 +451,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
-    },
-    {
-      "tweet": "Congress finally ended that DHS shutdown but didn't put a single dollar for border security in the bill. Typical.",
-      "original_url": "https://www.npr.org/2026/04/30/nx-s1-5806054/congress-dhs-shutdown",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Congress ends record shutdown at the Department of Homeland Security",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-30T18:03:35.010961+00:00"
     },
     {
       "tweet": "SoftBank is building a robotics company to build data centers so robots can build more robots. We're just cutting out the middleman now.",
@@ -1001,6 +968,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-09T14:10:48.792442+00:00"
+    },
+    {
+      "tweet": "Congress finally ended that DHS shutdown but didn't put a single dollar for border security in the bill. Typical.",
+      "original_url": "https://www.npr.org/2026/04/30/nx-s1-5806054/congress-dhs-shutdown",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Congress ends record shutdown at the Department of Homeland Security",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-04-30T18:03:35.010961+00:00"
     },
     {
       "tweet": "Iran is planning new legal frameworks for the Strait of Hormuz. They’re really testing things.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 763,
+    "total_posted": 765,
     "total_collected": 2571
   },
-  "last_posted_at": "2026-04-30T18:09:23.771605+00:00"
+  "last_posted_at": "2026-04-30T19:55:18.406475+00:00"
 }
