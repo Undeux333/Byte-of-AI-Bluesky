@@ -2,28 +2,6 @@
   "last_collected": "2026-04-30T20:49:43.575540+00:00",
   "queue": [
     {
-      "tweet": "So apparently we've been calling software bugs goblins for decades and nobody told me. I thought that was just a D&D thing",
-      "original_url": "https://openai.com/index/where-the-goblins-came-from/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Where the goblins came from",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-30T20:49:43.574054+00:00"
-    },
-    {
-      "tweet": "So apparently a Texas court just paused that whole deal for The Onion to take over Infowars. What a mess.",
-      "original_url": "https://www.npr.org/2026/04/30/nx-s1-5806038/the-onion-infowars-alex-jones-takeover",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Onion's bid to take over Infowars hits another snag",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-04-30T18:03:35.010957+00:00"
-    },
-    {
       "tweet": "Did you see this? Claude Code is literally refusing requests or charging extra if you mention OpenClaw in your commits. Pretty wild.",
       "original_url": "https://twitter.com/theo/status/2049645973350363168",
       "buzz_score": 85,
@@ -101,6 +79,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
       "tweet": "Hold on, that first commercial flight to Venezuela just touched down. That whole thing escalated fast",
       "original_url": "https://www.theguardian.com/world/2026/apr/30/us-venezuela-first-direct-commercial-fight-since-2019-miami-simon-bolivar-airport",
       "buzz_score": 85,
@@ -132,17 +121,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-30T20:49:43.574071+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "Elon is on the stand saying OpenAI is out there looting the nonprofit. It's like watching a billionaire sue a mirror.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 767,
+    "total_posted": 769,
     "total_collected": 2587
   },
-  "last_posted_at": "2026-04-30T20:54:54.599236+00:00"
+  "last_posted_at": "2026-04-30T21:51:39.100813+00:00"
 }
