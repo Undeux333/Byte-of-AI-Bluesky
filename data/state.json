@@ -2,28 +2,6 @@
   "last_collected": "2026-04-30T20:49:43.575540+00:00",
   "queue": [
     {
-      "tweet": "Did you see this? Claude Code is literally refusing requests or charging extra if you mention OpenClaw in your commits. Pretty wild.",
-      "original_url": "https://twitter.com/theo/status/2049645973350363168",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-04-30T18:03:35.010945+00:00"
-    },
-    {
-      "tweet": "I just saw 10 new things about that Black Flag remake. Finally, man.",
-      "original_url": "https://kotaku.com/10-new-things-we-just-learned-about-the-assassins-creed-black-flag-remake-2000692095",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "10 New Things We Just Learned About The Assassin’s Creed Black Flag Remake",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-04-30T18:03:35.011770+00:00"
-    },
-    {
       "tweet": "Man, a bus just plunged into the Seine near Paris. Crazy that they got everyone out.",
       "original_url": "https://www.theguardian.com/world/2026/apr/30/bus-crash-seine-river-juvisy-sur-orge-paris",
       "buzz_score": 80,
@@ -88,39 +66,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Hold on, that first commercial flight to Venezuela just touched down. That whole thing escalated fast",
-      "original_url": "https://www.theguardian.com/world/2026/apr/30/us-venezuela-first-direct-commercial-fight-since-2019-miami-simon-bolivar-airport",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘A new chapter’: first commercial fight from US since 2019 lands in Venezuela",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-04-30T20:49:43.574941+00:00"
-    },
-    {
-      "tweet": "Man, Men's Health is literally writing about the battle for bigger balls. Some things you just can't unsee",
-      "original_url": "https://www.menshealth.com/sex-women/a70848194/saline-testicle-inflation/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "<strong>Inside the Battle for Bigger and Bigger Balls</strong>",
-      "source": "Men's Health Sex",
-      "category": "sex",
-      "added_at": "2026-04-30T20:49:43.574704+00:00"
-    },
-    {
-      "tweet": "Dude, a direct flight just landed in Caracas for the first time in seven years. We're back to that already",
-      "original_url": "https://www.nytimes.com/2026/04/30/world/americas/us-flights-venezuela-caracas.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "After Seven Years, First U.S. Direct Flight Lands in Caracas",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-30T20:49:43.574071+00:00"
     },
     {
       "tweet": "Elon is on the stand saying OpenAI is out there looting the nonprofit. It's like watching a billionaire sue a mirror.",
@@ -475,37 +420,37 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Cosmo put out a list of 70 slang terms for the same thing. We really need a hobby",
-      "original_url": "https://sex.cosmopolitan.com/pleasure/a71178742/slang-for-vagina/",
-      "buzz_score": 80,
+      "tweet": "Hold on, that first commercial flight to Venezuela just touched down. That whole thing escalated fast",
+      "original_url": "https://www.theguardian.com/world/2026/apr/30/us-venezuela-first-direct-commercial-fight-since-2019-miami-simon-bolivar-airport",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "70 Slang Terms for Vagina, Explained",
-      "source": "Cosmo Sex & Love",
-      "category": "sex",
-      "added_at": "2026-04-30T20:49:43.574581+00:00"
-    },
-    {
-      "tweet": "Everyone's wondering what happens to Rahm and DeChambeau now that LIV is clearly falling apart. Should've seen that coming",
-      "original_url": "https://www.bbc.com/sport/golf/articles/c936y6y5rx4o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "What now for Rahm, DeChambeau and LIV's biggest names?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-04-30T20:49:43.574341+00:00"
-    },
-    {
-      "tweet": "Belgium is actually nationalizing their nuclear plants to get away from imports. Finally a government doing something that makes sense",
-      "original_url": "https://www.bbc.com/news/articles/c4g05jg87wko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Belgium plans to nationalise nuclear power plants",
-      "source": "BBC World",
+      "original_title": "‘A new chapter’: first commercial fight from US since 2019 lands in Venezuela",
+      "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-04-30T20:49:43.574063+00:00"
+      "added_at": "2026-04-30T20:49:43.574941+00:00"
+    },
+    {
+      "tweet": "Man, Men's Health is literally writing about the battle for bigger balls. Some things you just can't unsee",
+      "original_url": "https://www.menshealth.com/sex-women/a70848194/saline-testicle-inflation/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "<strong>Inside the Battle for Bigger and Bigger Balls</strong>",
+      "source": "Men's Health Sex",
+      "category": "sex",
+      "added_at": "2026-04-30T20:49:43.574704+00:00"
+    },
+    {
+      "tweet": "Dude, a direct flight just landed in Caracas for the first time in seven years. We're back to that already",
+      "original_url": "https://www.nytimes.com/2026/04/30/world/americas/us-flights-venezuela-caracas.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "After Seven Years, First U.S. Direct Flight Lands in Caracas",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-30T20:49:43.574071+00:00"
     },
     {
       "tweet": "SoftBank is building a robotics company to build data centers so robots can build more robots. We're just cutting out the middleman now.",
@@ -1012,6 +957,39 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-10T01:19:23.996900+00:00"
+    },
+    {
+      "tweet": "Cosmo put out a list of 70 slang terms for the same thing. We really need a hobby",
+      "original_url": "https://sex.cosmopolitan.com/pleasure/a71178742/slang-for-vagina/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "70 Slang Terms for Vagina, Explained",
+      "source": "Cosmo Sex & Love",
+      "category": "sex",
+      "added_at": "2026-04-30T20:49:43.574581+00:00"
+    },
+    {
+      "tweet": "Everyone's wondering what happens to Rahm and DeChambeau now that LIV is clearly falling apart. Should've seen that coming",
+      "original_url": "https://www.bbc.com/sport/golf/articles/c936y6y5rx4o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "What now for Rahm, DeChambeau and LIV's biggest names?",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-04-30T20:49:43.574341+00:00"
+    },
+    {
+      "tweet": "Belgium is actually nationalizing their nuclear plants to get away from imports. Finally a government doing something that makes sense",
+      "original_url": "https://www.bbc.com/news/articles/c4g05jg87wko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Belgium plans to nationalise nuclear power plants",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-04-30T20:49:43.574063+00:00"
     }
   ],
   "seen_urls": [
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 769,
+    "total_posted": 771,
     "total_collected": 2587
   },
-  "last_posted_at": "2026-04-30T21:51:39.100813+00:00"
+  "last_posted_at": "2026-04-30T22:46:00.449181+00:00"
 }
