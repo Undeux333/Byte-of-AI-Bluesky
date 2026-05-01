@@ -398,39 +398,6 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "The Mets have the second-highest payroll in baseball and somehow the worst record. That's just New York.",
-      "original_url": "https://www.espn.com/mlb/story/_/id/48639562/mlb-2026-new-york-mets-april-month-misery-soto-lindor-mendoza-lowest-moments",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Bad vibes, therapy sessions and a purple Empire St...",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-05-01T12:53:15.482917+00:00"
-    },
-    {
-      "tweet": "The Hajj is getting way more expensive now 'cause of jet fuel prices from the war in Iran. Nuts.",
-      "original_url": "https://www.nytimes.com/2026/05/01/world/asia/iran-war-hajj-cost-india.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "War in Iran Is Making the Hajj, the Muslim Pilgrimage, More Expensive",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-01T12:53:15.482761+00:00"
-    },
-    {
-      "tweet": "So apparently Hegseth thinks you can just pause the clock on an Iran war like it's a timeout. Casual.",
-      "original_url": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hegseth says clock paused on deadline to seek approval for Iran war",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-01T12:53:15.482753+00:00"
-    },
-    {
       "tweet": "SoftBank is building a robotics company to build data centers so robots can build more robots. We're just cutting out the middleman now.",
       "original_url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
       "buzz_score": 80,
@@ -935,6 +902,39 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-10T01:19:23.996900+00:00"
+    },
+    {
+      "tweet": "The Mets have the second-highest payroll in baseball and somehow the worst record. That's just New York.",
+      "original_url": "https://www.espn.com/mlb/story/_/id/48639562/mlb-2026-new-york-mets-april-month-misery-soto-lindor-mendoza-lowest-moments",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Bad vibes, therapy sessions and a purple Empire St...",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-05-01T12:53:15.482917+00:00"
+    },
+    {
+      "tweet": "The Hajj is getting way more expensive now 'cause of jet fuel prices from the war in Iran. Nuts.",
+      "original_url": "https://www.nytimes.com/2026/05/01/world/asia/iran-war-hajj-cost-india.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "War in Iran Is Making the Hajj, the Muslim Pilgrimage, More Expensive",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-01T12:53:15.482761+00:00"
+    },
+    {
+      "tweet": "So apparently Hegseth thinks you can just pause the clock on an Iran war like it's a timeout. Casual.",
+      "original_url": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hegseth says clock paused on deadline to seek approval for Iran war",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-01T12:53:15.482753+00:00"
     },
     {
       "tweet": "Did you see that nun got attacked in Jerusalem? Where are we even at right now.",
