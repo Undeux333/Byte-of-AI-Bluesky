@@ -2,28 +2,6 @@
   "last_collected": "2026-05-01T15:16:02.935819+00:00",
   "queue": [
     {
-      "tweet": "Mozilla's actually fighting Chrome over that new Prompt API. You know it's bad when the browser wars are basically just us trying to keep our own data private.",
-      "original_url": "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mozilla's opposition to Chrome's Prompt API",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-01T15:16:02.934357+00:00"
-    },
-    {
-      "tweet": "LA schools and a few states are actually pulling screens from classrooms. Turns out we kinda knew the whole tablet thing was a disaster all along.",
-      "original_url": "https://www.npr.org/2026/05/01/nx-s1-5791657/states-schools-restricting-screen-time",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Several states — and the LA public schools — are setting limits on screen time",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-01T15:16:02.934368+00:00"
-    },
-    {
       "tweet": "De Zerbi is telling Spurs to ignore the noise to avoid relegation. That locker room has gotta be a mess right now.",
       "original_url": "https://www.bbc.com/sport/football/articles/cvgze85889do?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -68,17 +46,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "So apparently Iran has a new proposal for peace talks again. How many times are we gonna do this dance.",
-      "original_url": "https://www.nytimes.com/2026/05/01/world/middleeast/iran-new-proposal-peace-talks.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran Sends New Proposal for Peace Talks with U.S., State Media Says",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-01T15:16:02.934706+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -88,6 +55,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "So apparently Iran has a new proposal for peace talks again. How many times are we gonna do this dance.",
+      "original_url": "https://www.nytimes.com/2026/05/01/world/middleeast/iran-new-proposal-peace-talks.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iran Sends New Proposal for Peace Talks with U.S., State Media Says",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-01T15:16:02.934706+00:00"
     },
     {
       "tweet": "Elon is on the stand saying OpenAI is out there looting the nonprofit. It's like watching a billionaire sue a mirror.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 781,
+    "total_posted": 783,
     "total_collected": 2631
   },
-  "last_posted_at": "2026-05-01T15:24:40.197945+00:00"
+  "last_posted_at": "2026-05-01T16:17:34.459000+00:00"
 }
