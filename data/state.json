@@ -2,17 +2,6 @@
   "last_collected": "2026-05-01T15:16:02.935819+00:00",
   "queue": [
     {
-      "tweet": "De Zerbi is telling Spurs to ignore the noise to avoid relegation. That locker room has gotta be a mess right now.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cvgze85889do?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "De Zerbi urges Spurs to 'silence voice inside of us'",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-01T15:16:02.934990+00:00"
-    },
-    {
       "tweet": "Man, that whole thing with those London flats is wild. Still can't believe the police just looked the other way for that long. Gross",
       "original_url": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 90,
@@ -55,17 +44,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "So apparently Iran has a new proposal for peace talks again. How many times are we gonna do this dance.",
-      "original_url": "https://www.nytimes.com/2026/05/01/world/middleeast/iran-new-proposal-peace-talks.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran Sends New Proposal for Peace Talks with U.S., State Media Says",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-01T15:16:02.934706+00:00"
     },
     {
       "tweet": "Elon is on the stand saying OpenAI is out there looting the nonprofit. It's like watching a billionaire sue a mirror.",
@@ -420,26 +398,15 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Newcastle's owners are cutting funding for LIV Golf. Seems like the money just isn't unlimited after all.",
-      "original_url": "https://www.aljazeera.com/sports/2026/5/1/howe-says-saudi-owners-desire-for-success-at-newcastle-remains-unchanged?traffic_source=rss",
-      "buzz_score": 80,
+      "tweet": "So apparently Iran has a new proposal for peace talks again. How many times are we gonna do this dance.",
+      "original_url": "https://www.nytimes.com/2026/05/01/world/middleeast/iran-new-proposal-peace-talks.html",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Howe says Saudi owners’ desire for success at Newcastle remains unchanged",
-      "source": "Al Jazeera",
+      "original_title": "Iran Sends New Proposal for Peace Talks with U.S., State Media Says",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-05-01T15:16:02.935274+00:00"
-    },
-    {
-      "tweet": "Pras Michel is heading in for 14 years. That Fugees documentary is gonna be insane in a decade.",
-      "original_url": "https://www.billboard.com/business/legal/fugees-pras-michel-surrenders-begin-14-year-prison-sentence-1236236776/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fugees’ Pras Michel Surrenders to Authorities to Begin 14-Year Prison Sentence, Vows to Appeal",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-01T15:16:02.934849+00:00"
+      "added_at": "2026-05-01T15:16:02.934706+00:00"
     },
     {
       "tweet": "SoftBank is building a robotics company to build data centers so robots can build more robots. We're just cutting out the middleman now.",
@@ -946,6 +913,28 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-10T01:19:23.996900+00:00"
+    },
+    {
+      "tweet": "Newcastle's owners are cutting funding for LIV Golf. Seems like the money just isn't unlimited after all.",
+      "original_url": "https://www.aljazeera.com/sports/2026/5/1/howe-says-saudi-owners-desire-for-success-at-newcastle-remains-unchanged?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Howe says Saudi owners’ desire for success at Newcastle remains unchanged",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-05-01T15:16:02.935274+00:00"
+    },
+    {
+      "tweet": "Pras Michel is heading in for 14 years. That Fugees documentary is gonna be insane in a decade.",
+      "original_url": "https://www.billboard.com/business/legal/fugees-pras-michel-surrenders-begin-14-year-prison-sentence-1236236776/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Fugees’ Pras Michel Surrenders to Authorities to Begin 14-Year Prison Sentence, Vows to Appeal",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-05-01T15:16:02.934849+00:00"
     },
     {
       "tweet": "There’s a new anime about girls playing Street Fighter 6 and falling in love. Gaming culture is weird.",
@@ -2018,8 +2007,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 783,
+    "total_posted": 784,
     "total_collected": 2631
   },
-  "last_posted_at": "2026-05-01T16:17:34.459000+00:00"
+  "last_posted_at": "2026-05-01T17:11:34.699251+00:00"
 }
