@@ -2,28 +2,6 @@
   "last_collected": "2026-05-01T07:36:23.839524+00:00",
   "queue": [
     {
-      "tweet": "So apparently Belgium is just turning their nuclear plants back on now. Years of talk just to end up right back where they started.",
-      "original_url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Belgium stops decommissioning nuclear power plants",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-01T07:36:23.838449+00:00"
-    },
-    {
-      "tweet": "Olivia Rodrigo’s writing songs about Miranda and Steve from Sex And The City. We're all just living in a constant cycle of trauma from that show.",
-      "original_url": "https://www.billboard.com/music/pop/olivia-rodrigo-new-album-sex-and-the-city-inspiration-1236236738/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Olivia Rodrigo’s New Album Has ‘Multiple Songs’ Inspired by Miranda and Steve from ‘Sex And The City",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-01T07:36:23.838466+00:00"
-    },
-    {
       "tweet": "Man, that whole thing with those London flats is wild. Still can't believe the police just looked the other way for that long. Gross",
       "original_url": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 90,
@@ -55,28 +33,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "Those LIV guys are already trying to jump back to the PGA Tour. Guess the money wasn't worth the silence.",
-      "original_url": "https://hypebeast.com/2026/5/liv-players-could-return-pga-tour-reports-rumors",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Several LIV Players Are Reportedly Looking To Return to the PGA Tour",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-05-01T07:36:23.838903+00:00"
-    },
-    {
-      "tweet": "Republicans are just deferring to Trump on the whole Iran thing now. Why even have a Congress if we're just outsourcing the decision-making.",
-      "original_url": "https://www.npr.org/2026/05/01/g-s1-119670/republicans-defer-to-trump-on-iran-war-despite-deadline",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Republicans say they will defer to Trump on Iran war despite arrival of deadline",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-01T07:36:23.838461+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -442,37 +398,26 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Deaths in custody in NSW hit a record high this year. It's profoundly distressing that we're even calling this a system.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/may/01/nsw-deaths-custody-record-number-ntwnfb",
-      "buzz_score": 80,
+      "tweet": "Those LIV guys are already trying to jump back to the PGA Tour. Guess the money wasn't worth the silence.",
+      "original_url": "https://hypebeast.com/2026/5/liv-players-could-return-pga-tour-reports-rumors",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "‘Profoundly distressing’: record number of deaths in custody and police operations in NSW",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-01T07:36:23.838756+00:00"
+      "original_title": "Several LIV Players Are Reportedly Looking To Return to the PGA Tour",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-05-01T07:36:23.838903+00:00"
     },
     {
-      "tweet": "They're using robot soldiers in Ukraine now. Like, do we actually want to see where this leads.",
-      "original_url": "https://www.aljazeera.com/news/2026/5/1/what-do-ukraines-robot-soldiers-mean-for-the-future-of-warfare?traffic_source=rss",
-      "buzz_score": 80,
+      "tweet": "Republicans are just deferring to Trump on the whole Iran thing now. Why even have a Congress if we're just outsourcing the decision-making.",
+      "original_url": "https://www.npr.org/2026/05/01/g-s1-119670/republicans-defer-to-trump-on-iran-war-despite-deadline",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "What do Ukraine’s robot soldiers mean for the future of warfare?",
-      "source": "Al Jazeera",
+      "original_title": "Republicans say they will defer to Trump on Iran war despite arrival of deadline",
+      "source": "NPR News",
       "category": "world",
-      "added_at": "2026-05-01T07:36:23.838473+00:00"
-    },
-    {
-      "tweet": "Did you see what's happening in Alice Springs right now. It's absolute chaos out there.",
-      "original_url": "https://www.nytimes.com/2026/05/01/world/australia/alice-springs-jefferson-lewis-girl-kumanjayi.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Violence Erupts in Australian Town After Arrest of Suspect in Girl’s Killing",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-01T07:36:23.838463+00:00"
+      "added_at": "2026-05-01T07:36:23.838461+00:00"
     },
     {
       "tweet": "SoftBank is building a robotics company to build data centers so robots can build more robots. We're just cutting out the middleman now.",
@@ -979,6 +924,39 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-10T01:19:23.996900+00:00"
+    },
+    {
+      "tweet": "Deaths in custody in NSW hit a record high this year. It's profoundly distressing that we're even calling this a system.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/may/01/nsw-deaths-custody-record-number-ntwnfb",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘Profoundly distressing’: record number of deaths in custody and police operations in NSW",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-01T07:36:23.838756+00:00"
+    },
+    {
+      "tweet": "They're using robot soldiers in Ukraine now. Like, do we actually want to see where this leads.",
+      "original_url": "https://www.aljazeera.com/news/2026/5/1/what-do-ukraines-robot-soldiers-mean-for-the-future-of-warfare?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "What do Ukraine’s robot soldiers mean for the future of warfare?",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-05-01T07:36:23.838473+00:00"
+    },
+    {
+      "tweet": "Did you see what's happening in Alice Springs right now. It's absolute chaos out there.",
+      "original_url": "https://www.nytimes.com/2026/05/01/world/australia/alice-springs-jefferson-lewis-girl-kumanjayi.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Violence Erupts in Australian Town After Arrest of Suspect in Girl’s Killing",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-01T07:36:23.838463+00:00"
     },
     {
       "tweet": "The Devil Wears Prada 2 already pulled 10 million in previews. People will literally watch anything if there’s a sequel attached.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 775,
+    "total_posted": 777,
     "total_collected": 2603
   },
-  "last_posted_at": "2026-05-01T07:42:21.901178+00:00"
+  "last_posted_at": "2026-05-01T09:29:03.865935+00:00"
 }
