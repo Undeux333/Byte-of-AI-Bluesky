@@ -2,28 +2,6 @@
   "last_collected": "2026-05-02T08:07:46.775376+00:00",
   "queue": [
     {
-      "tweet": "They finally cleared the first malaria drug for actual babies. About time",
-      "original_url": "https://www.theguardian.com/global-development/2026/may/02/new-drug-coartem-baby-babies-malaria-who-treatment",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "First malaria drug for babies is approved in ‘major public health milestone’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-02T08:07:46.774586+00:00"
-    },
-    {
-      "tweet": "That Mexican governor finally stepped down after the feds dropped the indictment about him running with the Sinaloa cartel. Just another Tuesday in politics",
-      "original_url": "https://www.nytimes.com/2026/05/02/world/americas/mexico-governor-corruption-ruben-rocha.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mexican Governor Accused by U.S. of Aiding Drug Cartel Steps Down",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-02T08:07:46.774160+00:00"
-    },
-    {
       "tweet": "Wait, Ask.com is officially dead. Did anyone actually use that since 2008",
       "original_url": "https://www.ask.com/",
       "buzz_score": 70,
@@ -101,39 +79,6 @@
       "added_at": "2026-05-02T01:17:18.818533+00:00"
     },
     {
-      "tweet": "Uber wants to turn every driver's car into a sensor grid for self-driving data. We're basically free lab rats for them now",
-      "original_url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-05-02T08:07:46.774891+00:00"
-    },
-    {
-      "tweet": "That new Smaug dragon card in Magic has a combo that just ends games in one turn. We've all been on the losing side of that play.",
-      "original_url": "https://www.polygon.com/magics-new-smaug-card-makes-one-classic-dragon-completely-busted/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Magic's new Hobbit dragon has a wild MTG combo with a D&D card",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-05-02T01:17:18.819215+00:00"
-    },
-    {
-      "tweet": "They're watering down the environmental protections in Australia now. Profit over planet, every time.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/may/02/federal-government-accused-of-watering-down-proposal-to-protect-australias-threatened-species-and-ecosystems",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Federal government accused of watering down proposal to protect Australia’s threatened species and ecosystems",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-02T01:17:18.818966+00:00"
-    },
-    {
       "tweet": "Man, that whole thing with those London flats is wild. Still can't believe the police just looked the other way for that long. Gross",
       "original_url": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 90,
@@ -167,6 +112,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Uber wants to turn every driver's car into a sensor grid for self-driving data. We're basically free lab rats for them now",
+      "original_url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-05-02T08:07:46.774891+00:00"
+    },
+    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -178,15 +134,26 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Found some 'genius' clothes on Amazon and some of this stuff is just straight up cursed.",
-      "original_url": "https://www.bustle.com/shopping/weird-clothes-accessories-on-amazon-that-are-pure-genius",
-      "buzz_score": 75,
+      "tweet": "That new Smaug dragon card in Magic has a combo that just ends games in one turn. We've all been on the losing side of that play.",
+      "original_url": "https://www.polygon.com/magics-new-smaug-card-makes-one-classic-dragon-completely-busted/",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Weird Clothes & Accessories On Amazon That Are Pure Genius",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-05-02T01:17:18.819461+00:00"
+      "original_title": "Magic's new Hobbit dragon has a wild MTG combo with a D&D card",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-05-02T01:17:18.819215+00:00"
+    },
+    {
+      "tweet": "They're watering down the environmental protections in Australia now. Profit over planet, every time.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/may/02/federal-government-accused-of-watering-down-proposal-to-protect-australias-threatened-species-and-ecosystems",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Federal government accused of watering down proposal to protect Australia’s threatened species and ecosystems",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-02T01:17:18.818966+00:00"
     },
     {
       "tweet": "Elon is on the stand saying OpenAI is out there looting the nonprofit. It's like watching a billionaire sue a mirror.",
@@ -541,15 +508,15 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Taking this 80s theme song quiz and realized I can hear the music in my head but I have no idea what the lyrics actually are.",
-      "original_url": "https://www.mentalfloss.com/quizzes/movies-tv/name-80s-sitcom-theme-song-lyric?utm_source=RSS",
-      "buzz_score": 70,
+      "tweet": "Found some 'genius' clothes on Amazon and some of this stuff is just straight up cursed.",
+      "original_url": "https://www.bustle.com/shopping/weird-clothes-accessories-on-amazon-that-are-pure-genius",
+      "buzz_score": 75,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Quiz: Can You Name the ‘80s Sitcom Theme Song By One Lyric?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-05-02T01:17:18.819597+00:00"
+      "original_title": "Weird Clothes & Accessories On Amazon That Are Pure Genius",
+      "source": "Bustle",
+      "category": "sex",
+      "added_at": "2026-05-02T01:17:18.819461+00:00"
     },
     {
       "tweet": "SoftBank is building a robotics company to build data centers so robots can build more robots. We're just cutting out the middleman now.",
@@ -1034,6 +1001,17 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-10T13:18:39.607465+00:00"
+    },
+    {
+      "tweet": "Taking this 80s theme song quiz and realized I can hear the music in my head but I have no idea what the lyrics actually are.",
+      "original_url": "https://www.mentalfloss.com/quizzes/movies-tv/name-80s-sitcom-theme-song-lyric?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Quiz: Can You Name the ‘80s Sitcom Theme Song By One Lyric?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-05-02T01:17:18.819597+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 796,
+    "total_posted": 798,
     "total_collected": 2694
   },
-  "last_posted_at": "2026-05-02T08:15:50.008236+00:00"
+  "last_posted_at": "2026-05-02T09:26:48.344514+00:00"
 }
