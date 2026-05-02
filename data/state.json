@@ -2,28 +2,6 @@
   "last_collected": "2026-05-02T10:15:58.662335+00:00",
   "queue": [
     {
-      "tweet": "Did you see what happened in Lebanon? Apparently there’s a ceasefire, but thirteen people were just killed in strikes anyway. Total joke.",
-      "original_url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T10:15:58.661383+00:00"
-    },
-    {
-      "tweet": "Anthony Mackie’s new movie is basically dead on arrival at the box office. That's a rough look.",
-      "original_url": "https://deadline.com/2026/05/desert-warrior-anthony-mackie-box-office-1236877487/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘Desert Warrior’ Deserted? Why Anthony Mackie’s Troubled Saudi Epic Failed To Rally Cinemagoers In U.S. & Middle East",
-      "source": "Deadline",
-      "category": "entertainment",
-      "added_at": "2026-05-02T10:15:58.662207+00:00"
-    },
-    {
       "tweet": "Trump says we’re gonna unleash prosperity in Venezuela by grabbing the oil, but people there are saying nothing’s changed. Same old story.",
       "original_url": "https://www.nytimes.com/2026/05/02/world/americas/maduro-trump-raid-venezuela-life.html",
       "buzz_score": 80,
@@ -145,6 +123,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
       "tweet": "Mark Allen and Wu Yize just played the longest frame in Crucible history. Absolute torture.",
       "original_url": "https://www.bbc.com/sport/snooker/articles/cn5pw431zk1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -165,28 +154,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-05-02T01:17:18.818533+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Uber wants to turn every driver's car into a sensor grid for self-driving data. We're basically free lab rats for them now",
-      "original_url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-05-02T08:07:46.774891+00:00"
     },
     {
       "tweet": "Elon is on the stand saying OpenAI is out there looting the nonprofit. It's like watching a billionaire sue a mirror.",
@@ -539,6 +506,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
+    },
+    {
+      "tweet": "Uber wants to turn every driver's car into a sensor grid for self-driving data. We're basically free lab rats for them now",
+      "original_url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-05-02T08:07:46.774891+00:00"
     },
     {
       "tweet": "That new Smaug dragon card in Magic has a combo that just ends games in one turn. We've all been on the losing side of that play.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 800,
+    "total_posted": 802,
     "total_collected": 2705
   },
-  "last_posted_at": "2026-05-02T10:23:00.302806+00:00"
+  "last_posted_at": "2026-05-02T11:21:35.007753+00:00"
 }
