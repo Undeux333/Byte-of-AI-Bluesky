@@ -13,17 +13,6 @@
       "added_at": "2026-05-02T15:05:13.740925+00:00"
     },
     {
-      "tweet": "The Honkai Star Rail devs design their characters story first and combat second. Honestly makes sense why people get so obsessed.",
-      "original_url": "https://www.polygon.com/honkai-star-rail-hsr-character-design-interview-planarcadia/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Honkai: Star Rail team designs characters with story first, combat second",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-05-02T10:15:58.661682+00:00"
-    },
-    {
       "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
       "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -33,6 +22,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "The Honkai Star Rail devs design their characters story first and combat second. Honestly makes sense why people get so obsessed.",
+      "original_url": "https://www.polygon.com/honkai-star-rail-hsr-character-design-interview-planarcadia/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Honkai: Star Rail team designs characters with story first, combat second",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-05-02T10:15:58.661682+00:00"
     },
     {
       "tweet": "Trump is already saying he’s not satisfied with that Iran proposal. Of course he isn't.",
@@ -79,6 +79,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
       "tweet": "Man, everyone's already talking about Pep Guardiola leaving Manchester City like it's a done deal. Do they even want him to stay anymore?",
       "original_url": "https://www.bbc.com/sport/football/articles/c5y21lkdl78o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -99,17 +110,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-05-02T15:05:13.740929+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "Mark Allen and Wu Yize just played the longest frame in Crucible history. Absolute torture.",
@@ -484,39 +484,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
-    },
-    {
-      "tweet": "Wait, Ask.com is officially dead. Did anyone actually use that since 2008",
-      "original_url": "https://www.ask.com/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Ask.com has closed",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-02T08:07:46.774991+00:00"
-    },
-    {
-      "tweet": "Nepal finally got that 13th-century Buddha statue back from New York. Took them 40 years to get it home",
-      "original_url": "https://www.aljazeera.com/news/2026/5/2/nepal-celebrates-return-of-stolen-13th-century-buddha-statue-from-new-york?traffic_source=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Nepal celebrates return of stolen 13th-century Buddha statue from New York",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-02T08:07:46.774490+00:00"
-    },
-    {
-      "tweet": "So apparently we're cutting 5,000 troops in Germany because of a spat between Trump and Merz. Are we just running foreign policy on beefs now?",
-      "original_url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T13:01:54.447969+00:00"
     },
     {
       "tweet": "Was watching that 94 indie What Happened Was and it's basically a documentary on how dating has always been a nightmare. We're all just awkward.",
@@ -1023,6 +990,39 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-11T11:33:17.227323+00:00"
+    },
+    {
+      "tweet": "Wait, Ask.com is officially dead. Did anyone actually use that since 2008",
+      "original_url": "https://www.ask.com/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Ask.com has closed",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-02T08:07:46.774991+00:00"
+    },
+    {
+      "tweet": "Nepal finally got that 13th-century Buddha statue back from New York. Took them 40 years to get it home",
+      "original_url": "https://www.aljazeera.com/news/2026/5/2/nepal-celebrates-return-of-stolen-13th-century-buddha-statue-from-new-york?traffic_source=rss",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Nepal celebrates return of stolen 13th-century Buddha statue from New York",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-05-02T08:07:46.774490+00:00"
+    },
+    {
+      "tweet": "So apparently we're cutting 5,000 troops in Germany because of a spat between Trump and Merz. Are we just running foreign policy on beefs now?",
+      "original_url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T13:01:54.447969+00:00"
     },
     {
       "tweet": "Uber wants to turn every driver's car into a sensor grid for self-driving data. We're basically free lab rats for them now",
