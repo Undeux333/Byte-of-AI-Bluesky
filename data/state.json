@@ -2,28 +2,6 @@
   "last_collected": "2026-05-02T04:33:18.175799+00:00",
   "queue": [
     {
-      "tweet": "Peru is investigating how people are being trafficked to fight for Russia. Turns out those job ads were way more aggressive than we thought.",
-      "original_url": "https://www.aljazeera.com/news/2026/5/2/peru-probes-trafficking-of-citizens-to-fight-for-russia-in-ukraine?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Peru probes trafficking of citizens to fight for Russia in Ukraine",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-02T04:33:18.174538+00:00"
-    },
-    {
-      "tweet": "So apparently Wyoming is getting a new nuclear plant funded by the feds. Just feels like we're finally leaning into the fallout era. Wild.",
-      "original_url": "https://www.npr.org/2026/05/02/nx-s1-5798892/wyoming-celebrates-nuclear-renaissance-as-feds-approve-license-for-a-new-reactor",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Wyoming celebrates 'nuclear renaissance' as feds approve license for a new reactor",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-02T04:33:18.174401+00:00"
-    },
-    {
       "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
       "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -112,17 +90,6 @@
       "added_at": "2026-05-02T01:17:18.819461+00:00"
     },
     {
-      "tweet": "Taking this 80s theme song quiz and realized I can hear the music in my head but I have no idea what the lyrics actually are.",
-      "original_url": "https://www.mentalfloss.com/quizzes/movies-tv/name-80s-sitcom-theme-song-lyric?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Quiz: Can You Name the ‘80s Sitcom Theme Song By One Lyric?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-05-02T01:17:18.819597+00:00"
-    },
-    {
       "tweet": "Man, that whole thing with those London flats is wild. Still can't believe the police just looked the other way for that long. Gross",
       "original_url": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 90,
@@ -154,6 +121,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "Taking this 80s theme song quiz and realized I can hear the music in my head but I have no idea what the lyrics actually are.",
+      "original_url": "https://www.mentalfloss.com/quizzes/movies-tv/name-80s-sitcom-theme-song-lyric?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Quiz: Can You Name the ‘80s Sitcom Theme Song By One Lyric?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-05-02T01:17:18.819597+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -517,39 +495,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
-    },
-    {
-      "tweet": "Trump says other presidents flouted the war powers law too. We're just pointing fingers while the bombs keep dropping.",
-      "original_url": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump claims other presidents flouted war powers law. It's a mixed record",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T04:33:18.175507+00:00"
-    },
-    {
-      "tweet": "Trump's putting fresh sanctions on Cuba again. At this point we're just recycling the same tired script from sixty years ago.",
-      "original_url": "https://www.theguardian.com/world/2026/may/02/cuba-trump-new-sanctions-economy",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Cuba says Trump’s fresh sanctions on its economy amount to ‘collective punishment’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-02T04:33:18.174649+00:00"
-    },
-    {
-      "tweet": "Dude, you can literally get a five-year visa in Thailand now just by learning Muay Thai. Why are we still living here",
-      "original_url": "https://www.nytimes.com/2026/05/02/world/asia/one-reason-to-learn-muay-thai-you-can-stay-in-thailand-longer.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Learning Muay Thai Can Allow Visitors to Stay in Thailand Longer",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-02T04:33:18.174406+00:00"
     },
     {
       "tweet": "SoftBank is building a robotics company to build data centers so robots can build more robots. We're just cutting out the middleman now.",
@@ -1034,6 +979,39 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-04-10T13:18:39.607465+00:00"
+    },
+    {
+      "tweet": "Trump says other presidents flouted the war powers law too. We're just pointing fingers while the bombs keep dropping.",
+      "original_url": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump claims other presidents flouted war powers law. It's a mixed record",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T04:33:18.175507+00:00"
+    },
+    {
+      "tweet": "Trump's putting fresh sanctions on Cuba again. At this point we're just recycling the same tired script from sixty years ago.",
+      "original_url": "https://www.theguardian.com/world/2026/may/02/cuba-trump-new-sanctions-economy",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Cuba says Trump’s fresh sanctions on its economy amount to ‘collective punishment’",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-02T04:33:18.174649+00:00"
+    },
+    {
+      "tweet": "Dude, you can literally get a five-year visa in Thailand now just by learning Muay Thai. Why are we still living here",
+      "original_url": "https://www.nytimes.com/2026/05/02/world/asia/one-reason-to-learn-muay-thai-you-can-stay-in-thailand-longer.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Learning Muay Thai Can Allow Visitors to Stay in Thailand Longer",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-02T04:33:18.174406+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 792,
+    "total_posted": 794,
     "total_collected": 2678
   },
-  "last_posted_at": "2026-05-02T04:39:04.056019+00:00"
+  "last_posted_at": "2026-05-02T06:38:25.789405+00:00"
 }
