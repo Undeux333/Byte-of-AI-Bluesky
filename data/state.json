@@ -57,17 +57,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "California's gonna start ticketing self-driving cars for traffic violations. Finally, a robot's getting a speeding ticket",
-      "original_url": "https://www.bbc.com/news/articles/clypjx3rg2go?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "California to begin ticketing driverless cars that violate traffic laws",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T17:31:56.244923+00:00"
-    },
-    {
       "tweet": "Trump is already saying he’s not satisfied with that Iran proposal. Of course he isn't.",
       "original_url": "https://www.nytimes.com/2026/05/01/world/middleeast/iran-new-proposal-peace-talks.html",
       "buzz_score": 90,
@@ -112,6 +101,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "California's gonna start ticketing self-driving cars for traffic violations. Finally, a robot's getting a speeding ticket",
+      "original_url": "https://www.bbc.com/news/articles/clypjx3rg2go?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "California to begin ticketing driverless cars that violate traffic laws",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T17:31:56.244923+00:00"
+    },
+    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -121,17 +121,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "The Honkai Star Rail devs design their characters story first and combat second. Honestly makes sense why people get so obsessed.",
-      "original_url": "https://www.polygon.com/honkai-star-rail-hsr-character-design-interview-planarcadia/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Honkai: Star Rail team designs characters with story first, combat second",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-05-02T10:15:58.661682+00:00"
     },
     {
       "tweet": "Mark Allen and Wu Yize just played the longest frame in Crucible history. Absolute torture.",
@@ -508,6 +497,17 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
+      "tweet": "The Honkai Star Rail devs design their characters story first and combat second. Honestly makes sense why people get so obsessed.",
+      "original_url": "https://www.polygon.com/honkai-star-rail-hsr-character-design-interview-planarcadia/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Honkai: Star Rail team designs characters with story first, combat second",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-05-02T10:15:58.661682+00:00"
+    },
+    {
       "tweet": "Spain's PM is demanding Netanyahu let that Spaniard go from the flotilla. Things are getting heated",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/spains-sanchez-demands-netanyahu-free-spaniard-seized-on-aid-flotilla?traffic_source=rss",
       "buzz_score": 80,
@@ -528,50 +528,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-05-02T17:31:56.245446+00:00"
-    },
-    {
-      "tweet": "Germany says the US pulling troops is foreseeable. So we're just leaving the base now",
-      "original_url": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 78,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T17:31:56.246100+00:00"
-    },
-    {
-      "tweet": "Lando Norris absolutely smoked everyone in that Miami sprint. McLaren's actually back",
-      "original_url": "https://www.bbc.com/sport/formula1/articles/cx217qz4rpzo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 78,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Norris takes dominant win in Miami sprint race",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-02T17:31:56.245318+00:00"
-    },
-    {
-      "tweet": "Man, everyone's already talking about Pep Guardiola leaving Manchester City like it's a done deal. Do they even want him to stay anymore?",
-      "original_url": "https://www.bbc.com/sport/football/articles/c5y21lkdl78o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Football awash with Guardiola exit talk as Man City plan for life without him",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-02T15:05:13.741257+00:00"
-    },
-    {
-      "tweet": "So apparently scientists think we can actually practice skills while we're sleeping now. Imagine finally being productive in your dreams. That's a nightmare.",
-      "original_url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "New research suggests people can communicate and practice skills while dreaming",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-02T15:05:13.740929+00:00"
     },
     {
       "tweet": "Was watching that 94 indie What Happened Was and it's basically a documentary on how dating has always been a nightmare. We're all just awkward.",
@@ -1056,6 +1012,50 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-12T05:13:07.528027+00:00"
+    },
+    {
+      "tweet": "Germany says the US pulling troops is foreseeable. So we're just leaving the base now",
+      "original_url": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 78,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T17:31:56.246100+00:00"
+    },
+    {
+      "tweet": "Lando Norris absolutely smoked everyone in that Miami sprint. McLaren's actually back",
+      "original_url": "https://www.bbc.com/sport/formula1/articles/cx217qz4rpzo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 78,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Norris takes dominant win in Miami sprint race",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-02T17:31:56.245318+00:00"
+    },
+    {
+      "tweet": "Man, everyone's already talking about Pep Guardiola leaving Manchester City like it's a done deal. Do they even want him to stay anymore?",
+      "original_url": "https://www.bbc.com/sport/football/articles/c5y21lkdl78o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Football awash with Guardiola exit talk as Man City plan for life without him",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-02T15:05:13.741257+00:00"
+    },
+    {
+      "tweet": "So apparently scientists think we can actually practice skills while we're sleeping now. Imagine finally being productive in your dreams. That's a nightmare.",
+      "original_url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "New research suggests people can communicate and practice skills while dreaming",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-02T15:05:13.740929+00:00"
     }
   ],
   "seen_urls": [
