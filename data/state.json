@@ -2,28 +2,6 @@
   "last_collected": "2026-05-02T21:56:46.504294+00:00",
   "queue": [
     {
-      "tweet": "Far Far West is blowing up because it actually respects your time instead of grinding you for hours. Honestly we need more of that",
-      "original_url": "https://www.polygon.com/far-far-west-impressions/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Far Far West is the rare multiplayer game that respects your time",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-05-02T21:56:46.503393+00:00"
-    },
-    {
-      "tweet": "Connor McDavid played the whole playoffs with a broken foot. We all know that feeling of trying to walk it off",
-      "original_url": "https://www.espn.com/nhl/story/_/id/48659448/mcdavid-played-fracture-foot-ankle-area",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "McDavid plagued by foot fracture in Round 1 loss",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-05-02T21:56:46.502990+00:00"
-    },
-    {
       "tweet": "The guys who made that horror game are back with something even better. Gonna have to check that out",
       "original_url": "https://kotaku.com/home-safety-hotline-creators-dare-you-to-play-forbidden-solitaire-horror-game-2000692713",
       "buzz_score": 75,
@@ -552,17 +530,6 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Thirteen people dead in Lebanon strikes even after a ceasefire was supposedly set. Guess that means absolutely nothing to anyone",
-      "original_url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T21:56:46.502436+00:00"
-    },
-    {
       "tweet": "Was watching that 94 indie What Happened Was and it's basically a documentary on how dating has always been a nightmare. We're all just awkward.",
       "original_url": "https://www.indiewire.com/features/best-of/what-happened-was-1994-tom-noonan-cult-film-1235191951/",
       "buzz_score": 80,
@@ -1012,6 +979,17 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-04-16T15:06:05.166454+00:00"
+    },
+    {
+      "tweet": "Thirteen people dead in Lebanon strikes even after a ceasefire was supposedly set. Guess that means absolutely nothing to anyone",
+      "original_url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T21:56:46.502436+00:00"
     }
   ],
   "seen_urls": [
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 811,
+    "total_posted": 813,
     "total_collected": 2781
   },
-  "last_posted_at": "2026-05-02T22:40:14.963030+00:00"
+  "last_posted_at": "2026-05-02T23:33:40.054955+00:00"
 }
