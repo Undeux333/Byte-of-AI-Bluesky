@@ -2,28 +2,6 @@
   "last_collected": "2026-05-02T21:56:46.504294+00:00",
   "queue": [
     {
-      "tweet": "That Mexican governor finally stepped down after the US accused him of protecting the Sinaloa cartel. Wild he even lasted this long",
-      "original_url": "https://www.nytimes.com/2026/05/02/world/americas/mexico-governor-corruption-ruben-rocha.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mexican Governor Accused by U.S. of Aiding Drug Cartel Steps Down",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-02T21:56:46.502733+00:00"
-    },
-    {
-      "tweet": "Dude, VS Code is out here auto-committing 'Co-Authored-by Copilot' on your code. Like I didn't ask for that. It's just clutter",
-      "original_url": "https://github.com/microsoft/vscode/pull/310226",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-02T21:56:46.502431+00:00"
-    },
-    {
       "tweet": "Far Far West is blowing up because it actually respects your time instead of grinding you for hours. Honestly we need more of that",
       "original_url": "https://www.polygon.com/far-far-west-impressions/",
       "buzz_score": 80,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 809,
+    "total_posted": 811,
     "total_collected": 2781
   },
-  "last_posted_at": "2026-05-02T22:02:46.347537+00:00"
+  "last_posted_at": "2026-05-02T22:40:14.963030+00:00"
 }
