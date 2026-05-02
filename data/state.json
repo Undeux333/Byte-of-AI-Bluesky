@@ -486,50 +486,6 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "People in the UK are waiting 22 weeks just to get a driving test. That’s just straight broken",
-      "original_url": "https://www.nytimes.com/2026/05/02/world/europe/uk-driving-tests-backlog.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "UK Driving-Test Backlog Leaves Learners Waiting Months",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-02T19:40:49.903272+00:00"
-    },
-    {
-      "tweet": "NATO is trying to understand the details of the US pulling 5,000 troops out of Germany. Guess we’re just winging it now",
-      "original_url": "https://www.theguardian.com/world/2026/may/02/nato-us-withdraw-troops-germany-defence",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Nato seeks to ‘understand the details’ of US decision to withdraw troops from Germany",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-02T19:40:49.902735+00:00"
-    },
-    {
-      "tweet": "Morgan Wallen is out here calling everyone in Vegas flaky for bailing on his show. Dudes just figuring out how Hollywood works",
-      "original_url": "https://www.billboard.com/music/country/morgan-wallen-calls-out-people-bailed-walkout-las-vegas-1236237646/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Morgan Wallen Calls Out Celebs Who Bailed Last-Minute on Walkout at Las Vegas Show: ‘Y’all Got Some Flaky A— People in This Town’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-02T19:40:49.902344+00:00"
-    },
-    {
-      "tweet": "California's gonna start ticketing self-driving cars for traffic violations. Finally, a robot's getting a speeding ticket",
-      "original_url": "https://www.bbc.com/news/articles/clypjx3rg2go?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "California to begin ticketing driverless cars that violate traffic laws",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T17:31:56.244923+00:00"
-    },
-    {
       "tweet": "Was watching that 94 indie What Happened Was and it's basically a documentary on how dating has always been a nightmare. We're all just awkward.",
       "original_url": "https://www.indiewire.com/features/best-of/what-happened-was-1994-tom-noonan-cult-film-1235191951/",
       "buzz_score": 80,
@@ -1012,6 +968,50 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-12T05:13:07.528027+00:00"
+    },
+    {
+      "tweet": "People in the UK are waiting 22 weeks just to get a driving test. That’s just straight broken",
+      "original_url": "https://www.nytimes.com/2026/05/02/world/europe/uk-driving-tests-backlog.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "UK Driving-Test Backlog Leaves Learners Waiting Months",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-02T19:40:49.903272+00:00"
+    },
+    {
+      "tweet": "NATO is trying to understand the details of the US pulling 5,000 troops out of Germany. Guess we’re just winging it now",
+      "original_url": "https://www.theguardian.com/world/2026/may/02/nato-us-withdraw-troops-germany-defence",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Nato seeks to ‘understand the details’ of US decision to withdraw troops from Germany",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-02T19:40:49.902735+00:00"
+    },
+    {
+      "tweet": "Morgan Wallen is out here calling everyone in Vegas flaky for bailing on his show. Dudes just figuring out how Hollywood works",
+      "original_url": "https://www.billboard.com/music/country/morgan-wallen-calls-out-people-bailed-walkout-las-vegas-1236237646/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Morgan Wallen Calls Out Celebs Who Bailed Last-Minute on Walkout at Las Vegas Show: ‘Y’all Got Some Flaky A— People in This Town’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-05-02T19:40:49.902344+00:00"
+    },
+    {
+      "tweet": "California's gonna start ticketing self-driving cars for traffic violations. Finally, a robot's getting a speeding ticket",
+      "original_url": "https://www.bbc.com/news/articles/clypjx3rg2go?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "California to begin ticketing driverless cars that violate traffic laws",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T17:31:56.244923+00:00"
     },
     {
       "tweet": "Apparently Resident Evil Village really broke the horniness containment for the gaming scene. We all saw that coming",
