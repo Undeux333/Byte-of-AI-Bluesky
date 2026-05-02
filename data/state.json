@@ -2,28 +2,6 @@
   "last_collected": "2026-05-02T10:15:58.662335+00:00",
   "queue": [
     {
-      "tweet": "Trump says we’re gonna unleash prosperity in Venezuela by grabbing the oil, but people there are saying nothing’s changed. Same old story.",
-      "original_url": "https://www.nytimes.com/2026/05/02/world/americas/maduro-trump-raid-venezuela-life.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "After Trump’s Ousting of Maduro, Little Has Changed for Most Venezuelans",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-02T10:15:58.661392+00:00"
-    },
-    {
-      "tweet": "Apparently a professional bike fitting actually makes you want to ride more. We really love spending money to fix our own posture.",
-      "original_url": "https://www.wired.com/story/professional-bike-fitting-benefits/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "A Professional Bike Fitting Will Make You Want to Ride Even More",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-05-02T10:15:58.662079+00:00"
-    },
-    {
       "tweet": "The Honkai Star Rail devs design their characters story first and combat second. Honestly makes sense why people get so obsessed.",
       "original_url": "https://www.polygon.com/honkai-star-rail-hsr-character-design-interview-planarcadia/",
       "buzz_score": 75,
@@ -33,6 +11,17 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-05-02T10:15:58.661682+00:00"
+    },
+    {
+      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
+      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US court limits mail-order access to abortion pill mifepristone",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
       "tweet": "Wait, Ask.com is officially dead. Did anyone actually use that since 2008",
@@ -55,28 +44,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-05-02T08:07:46.774490+00:00"
-    },
-    {
-      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
-      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US court limits mail-order access to abortion pill mifepristone",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Was watching that 94 indie What Happened Was and it's basically a documentary on how dating has always been a nightmare. We're all just awkward.",
-      "original_url": "https://www.indiewire.com/features/best-of/what-happened-was-1994-tom-noonan-cult-film-1235191951/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Deeply Unnerving 1994 Indie ‘What Happened Was’ Reminds You Dating Has Always Been Hell",
-      "source": "IndieWire",
-      "category": "entertainment",
-      "added_at": "2026-05-02T04:33:18.174938+00:00"
     },
     {
       "tweet": "Trump is already saying he’s not satisfied with that Iran proposal. Of course he isn't.",
@@ -121,6 +88,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "Was watching that 94 indie What Happened Was and it's basically a documentary on how dating has always been a nightmare. We're all just awkward.",
+      "original_url": "https://www.indiewire.com/features/best-of/what-happened-was-1994-tom-noonan-cult-film-1235191951/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Deeply Unnerving 1994 Indie ‘What Happened Was’ Reminds You Dating Has Always Been Hell",
+      "source": "IndieWire",
+      "category": "entertainment",
+      "added_at": "2026-05-02T04:33:18.174938+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -506,17 +484,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
-    },
-    {
-      "tweet": "Uber wants to turn every driver's car into a sensor grid for self-driving data. We're basically free lab rats for them now",
-      "original_url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-05-02T08:07:46.774891+00:00"
     },
     {
       "tweet": "That new Smaug dragon card in Magic has a combo that just ends games in one turn. We've all been on the losing side of that play.",
@@ -1012,6 +979,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-11T11:33:17.227323+00:00"
+    },
+    {
+      "tweet": "Uber wants to turn every driver's car into a sensor grid for self-driving data. We're basically free lab rats for them now",
+      "original_url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-05-02T08:07:46.774891+00:00"
     }
   ],
   "seen_urls": [
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 802,
+    "total_posted": 804,
     "total_collected": 2705
   },
-  "last_posted_at": "2026-05-02T11:21:35.007753+00:00"
+  "last_posted_at": "2026-05-02T12:07:47.183133+00:00"
 }
