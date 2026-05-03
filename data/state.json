@@ -2,28 +2,6 @@
   "last_collected": "2026-05-03T19:16:10.783206+00:00",
   "queue": [
     {
-      "tweet": "So apparently Iran thinks they have a peace deal with the US, but Trump already called it unacceptable. Pretty wild how we're just watching two sides negotiate with themselves.",
-      "original_url": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Iran says US has responded to its latest peace proposal",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-03T19:16:10.782425+00:00"
-    },
-    {
-      "tweet": "Jayson Tatum calling his knee injury unfortunate timing for a Game 7 is something else. Like, when is an injury ever good timing?",
-      "original_url": "https://www.espn.com/nba/story/_/id/48667409/celtics-jayson-tatum-laments-unfortunate-timing-knee-injury",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tatum laments 'unfortunate timing' of knee injury",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-05-03T19:16:10.782433+00:00"
-    },
-    {
       "tweet": "Dude, Devil Wears Prada 2 somehow hit 77 million this weekend. People really just want the same movies forever.",
       "original_url": "https://www.billboard.com/culture/tv-film/devil-wears-prada-2-number-one-box-office-77-million-debut-1236237914/",
       "buzz_score": 88,
@@ -552,17 +530,6 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Did you see that Pakistan mining deal with the Trump admin might actually fall apart over insurgents? Seems like a billion dollars doesn't go as far as it used to.",
-      "original_url": "https://www.nytimes.com/2026/05/03/world/asia/pakistan-balochistan-insurgency-reko-diq.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The Insurgency Threatening to Derail a U.S.-Pakistan Pact",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-03T19:16:10.782428+00:00"
-    },
-    {
       "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
       "original_url": "https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london",
       "buzz_score": 82,
@@ -572,6 +539,17 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-05-02T17:31:56.245058+00:00"
+    },
+    {
+      "tweet": "Did you see that Pakistan mining deal with the Trump admin might actually fall apart over insurgents? Seems like a billion dollars doesn't go as far as it used to.",
+      "original_url": "https://www.nytimes.com/2026/05/03/world/asia/pakistan-balochistan-insurgency-reko-diq.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Insurgency Threatening to Derail a U.S.-Pakistan Pact",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-03T19:16:10.782428+00:00"
     },
     {
       "tweet": "Did you hear they're actually making an SNL UK? Feels like some things just don't need a remake.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 837,
+    "total_posted": 839,
     "total_collected": 2887
   },
-  "last_posted_at": "2026-05-03T19:23:30.905329+00:00"
+  "last_posted_at": "2026-05-03T20:13:24.204898+00:00"
 }
