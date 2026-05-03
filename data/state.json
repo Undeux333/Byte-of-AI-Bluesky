@@ -2,28 +2,6 @@
   "last_collected": "2026-05-03T12:02:19.752439+00:00",
   "queue": [
     {
-      "tweet": "Streaming services are getting flooded with AI music nobody asked for. Are we really gonna let the machines just generate our entire personality for us now",
-      "original_url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "AI music is flooding streaming services — but who wants it?",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-05-03T12:02:19.751144+00:00"
-    },
-    {
-      "tweet": "So apparently Bath & Body Works is doing a Star Wars collab for The Mandalorian now. My shower's gonna smell like a space bounty hunter. Weird.",
-      "original_url": "https://www.rollingstone.com/product-recommendations/lifestyle/shop-bath-and-body-works-mandalorian-grogu-collection-online-1235556920/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "From Bounty Hunting to Body Care: ‘The Mandalorian and Grogu’ Gets a Bath & Body Works Collab",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-05-03T12:02:19.751134+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 829,
+    "total_posted": 831,
     "total_collected": 2861
   },
-  "last_posted_at": "2026-05-03T12:10:35.548811+00:00"
+  "last_posted_at": "2026-05-03T13:52:03.335362+00:00"
 }
