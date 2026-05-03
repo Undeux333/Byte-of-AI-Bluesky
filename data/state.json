@@ -2,28 +2,6 @@
   "last_collected": "2026-05-03T17:06:38.664306+00:00",
   "queue": [
     {
-      "tweet": "Dude, Mercedes finally realized putting a touchscreen in everything was a mistake. They're actually bringing back physical buttons for the dash. Common sense.",
-      "original_url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mercedes-Benz commits to bringing back physical buttons",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-03T17:06:38.662761+00:00"
-    },
-    {
-      "tweet": "They made a whole game about the 'This is Fine' dog fighting for therapy. Sometimes life just feels like that.",
-      "original_url": "https://kotaku.com/this-is-fine-dog-fights-for-overdue-therapy-in-official-metroidvania-2000692724",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Dog Behind ‘This Is Fine’ Meme Fights For Overdue Therapy In New Metroidvania On Steam",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-05-03T17:06:38.663571+00:00"
-    },
-    {
       "tweet": "Apparently they're doing ritzy fundraisers for the budget in Canberra now. Calling that the Oscars for political nerds is exactly what it is.",
       "original_url": "https://www.theguardian.com/australia-news/2026/may/04/federal-budget-season-canberra-fundraising-oscars-for-politcal-nerds",
       "buzz_score": 80,
@@ -519,6 +497,17 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
+      "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
+      "original_url": "https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london",
+      "buzz_score": 82,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Banksy confirms new statue installed in central London is his work",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-05-02T17:31:56.245058+00:00"
+    },
+    {
       "tweet": "That new Assassin’s Creed PvP game is apparently a total flop. Guess the playtest didn't go so hot.",
       "original_url": "https://kotaku.com/rumored-assassins-creed-invictus-pvp-games-playtest-reportedly-a-huge-letdown-2000692801",
       "buzz_score": 80,
@@ -539,17 +528,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-05-03T17:06:38.662930+00:00"
-    },
-    {
-      "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
-      "original_url": "https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Banksy confirms new statue installed in central London is his work",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-02T17:31:56.245058+00:00"
     },
     {
       "tweet": "Did you hear they're actually making an SNL UK? Feels like some things just don't need a remake.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 833,
+    "total_posted": 835,
     "total_collected": 2877
   },
-  "last_posted_at": "2026-05-03T17:13:49.530153+00:00"
+  "last_posted_at": "2026-05-03T18:09:21.535494+00:00"
 }
