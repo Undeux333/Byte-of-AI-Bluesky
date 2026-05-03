@@ -2,28 +2,6 @@
   "last_collected": "2026-05-03T21:43:46.360469+00:00",
   "queue": [
     {
-      "tweet": "Mental Floss just dropped a 90s movie star quiz and realized I can't remember half these names. Turns out getting older is just forgetting people you used to watch every weekend.",
-      "original_url": "https://www.mentalfloss.com/quizzes/movies-tv/name-90s-stars-under-10-minutes?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Quiz: Only True Millennials Can Name These '90s Movie Stars in Under 10 Minutes",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-05-03T19:16:10.782417+00:00"
-    },
-    {
-      "tweet": "Apparently they're doing ritzy fundraisers for the budget in Canberra now. Calling that the Oscars for political nerds is exactly what it is.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/may/04/federal-budget-season-canberra-fundraising-oscars-for-politcal-nerds",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The ‘Oscars for political nerds’ or a threat to democracy? Grab a ticket, it’s Canberra’s budget fundraiser season",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-03T17:06:38.663183+00:00"
-    },
-    {
       "tweet": "Shakira's fans are literally camping out at the Copacabana. That whole wolfpack thing is next level.",
       "original_url": "https://www.billboard.com/music/latin/shakira-copacabana-beach-rio-concert-wolfpack-takes-over-1236237833/",
       "buzz_score": 80,
@@ -508,17 +486,6 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "So apparently Trump is taking credit for YMCA blowing up on the charts now. Dude thinks he’s a producer",
-      "original_url": "https://www.billboard.com/music/music-news/donald-trump-ymca-dance-billboard-chart-rise-1236237932/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Donald Trump Credits His ‘Y.M.C.A.’ Viral Dance Moves for Disco Hit’s Rise on Billboard Charts",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-03T21:43:46.359471+00:00"
-    },
-    {
       "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
       "original_url": "https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london",
       "buzz_score": 82,
@@ -528,6 +495,17 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-05-02T17:31:56.245058+00:00"
+    },
+    {
+      "tweet": "So apparently Trump is taking credit for YMCA blowing up on the charts now. Dude thinks he’s a producer",
+      "original_url": "https://www.billboard.com/music/music-news/donald-trump-ymca-dance-billboard-chart-rise-1236237932/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Donald Trump Credits His ‘Y.M.C.A.’ Viral Dance Moves for Disco Hit’s Rise on Billboard Charts",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-05-03T21:43:46.359471+00:00"
     },
     {
       "tweet": "Did you hear they're actually making an SNL UK? Feels like some things just don't need a remake.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 843,
+    "total_posted": 845,
     "total_collected": 2903
   },
-  "last_posted_at": "2026-05-03T21:51:47.645675+00:00"
+  "last_posted_at": "2026-05-03T22:30:30.543017+00:00"
 }
