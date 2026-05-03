@@ -2,28 +2,6 @@
   "last_collected": "2026-05-03T19:16:10.783206+00:00",
   "queue": [
     {
-      "tweet": "Dude, Devil Wears Prada 2 somehow hit 77 million this weekend. People really just want the same movies forever.",
-      "original_url": "https://www.billboard.com/culture/tv-film/devil-wears-prada-2-number-one-box-office-77-million-debut-1236237914/",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘The Devil Wears Prada 2’ Struts to No. 1 at Box Office With $77M Debut",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-03T19:16:10.782430+00:00"
-    },
-    {
-      "tweet": "Yo, Acuna is back on the IL with his hamstring. Being a Braves fan is just constant stress.",
-      "original_url": "https://www.espn.com/mlb/story/_/id/48665455/braves-place-ronald-acuna-il-reinstate-spencer-strider",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Braves place Acuna on IL with hamstring strain",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-05-03T19:16:10.782589+00:00"
-    },
-    {
       "tweet": "Mental Floss just dropped a 90s movie star quiz and realized I can't remember half these names. Turns out getting older is just forgetting people you used to watch every weekend.",
       "original_url": "https://www.mentalfloss.com/quizzes/movies-tv/name-90s-stars-under-10-minutes?utm_source=RSS",
       "buzz_score": 85,
@@ -541,17 +519,6 @@
       "added_at": "2026-05-02T17:31:56.245058+00:00"
     },
     {
-      "tweet": "Did you see that Pakistan mining deal with the Trump admin might actually fall apart over insurgents? Seems like a billion dollars doesn't go as far as it used to.",
-      "original_url": "https://www.nytimes.com/2026/05/03/world/asia/pakistan-balochistan-insurgency-reko-diq.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The Insurgency Threatening to Derail a U.S.-Pakistan Pact",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-03T19:16:10.782428+00:00"
-    },
-    {
       "tweet": "Did you hear they're actually making an SNL UK? Feels like some things just don't need a remake.",
       "original_url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-uk-online-free-1236203547/",
       "buzz_score": 80,
@@ -979,6 +946,17 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-17T05:53:06.956190+00:00"
+    },
+    {
+      "tweet": "Did you see that Pakistan mining deal with the Trump admin might actually fall apart over insurgents? Seems like a billion dollars doesn't go as far as it used to.",
+      "original_url": "https://www.nytimes.com/2026/05/03/world/asia/pakistan-balochistan-insurgency-reko-diq.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Insurgency Threatening to Derail a U.S.-Pakistan Pact",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-03T19:16:10.782428+00:00"
     },
     {
       "tweet": "Man, the Magic: The Gathering artist for The One Ring just got caught plagiarizing. You had one job.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 839,
+    "total_posted": 841,
     "total_collected": 2887
   },
-  "last_posted_at": "2026-05-03T20:13:24.204898+00:00"
+  "last_posted_at": "2026-05-03T21:05:56.702012+00:00"
 }
