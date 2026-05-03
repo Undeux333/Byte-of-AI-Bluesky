@@ -2,17 +2,6 @@
   "last_collected": "2026-05-03T21:43:46.360469+00:00",
   "queue": [
     {
-      "tweet": "Shakira's fans are literally camping out at the Copacabana. That whole wolfpack thing is next level.",
-      "original_url": "https://www.billboard.com/music/latin/shakira-copacabana-beach-rio-concert-wolfpack-takes-over-1236237833/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Shakira’s ‘Wolfpack’ Takes Over Copacabana Ahead of Free Rio Concert",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-03T17:06:38.662773+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -497,17 +486,6 @@
       "added_at": "2026-05-02T17:31:56.245058+00:00"
     },
     {
-      "tweet": "So apparently Trump is taking credit for YMCA blowing up on the charts now. Dude thinks he’s a producer",
-      "original_url": "https://www.billboard.com/music/music-news/donald-trump-ymca-dance-billboard-chart-rise-1236237932/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Donald Trump Credits His ‘Y.M.C.A.’ Viral Dance Moves for Disco Hit’s Rise on Billboard Charts",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-03T21:43:46.359471+00:00"
-    },
-    {
       "tweet": "Did you hear they're actually making an SNL UK? Feels like some things just don't need a remake.",
       "original_url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-uk-online-free-1236203547/",
       "buzz_score": 80,
@@ -935,6 +913,17 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-17T05:53:06.956190+00:00"
+    },
+    {
+      "tweet": "So apparently Trump is taking credit for YMCA blowing up on the charts now. Dude thinks he’s a producer",
+      "original_url": "https://www.billboard.com/music/music-news/donald-trump-ymca-dance-billboard-chart-rise-1236237932/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Donald Trump Credits His ‘Y.M.C.A.’ Viral Dance Moves for Disco Hit’s Rise on Billboard Charts",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-05-03T21:43:46.359471+00:00"
     },
     {
       "tweet": "Did you see that Pakistan mining deal with the Trump admin might actually fall apart over insurgents? Seems like a billion dollars doesn't go as far as it used to.",
@@ -2018,8 +2007,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 845,
+    "total_posted": 846,
     "total_collected": 2903
   },
-  "last_posted_at": "2026-05-03T22:30:30.543017+00:00"
+  "last_posted_at": "2026-05-03T23:08:32.390837+00:00"
 }
