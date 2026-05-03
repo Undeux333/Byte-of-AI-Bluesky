@@ -2,28 +2,6 @@
   "last_collected": "2026-05-03T06:37:42.811216+00:00",
   "queue": [
     {
-      "tweet": "SNL was roasting Trump's passport vanity project last night. Brutal.",
-      "original_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-weekend-update-mocks-trumps-passport-move-king-charles-visit-1235556903/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘SNL’ Weekend Update Mocks Trump’s Vain Passport Move, King Charles’ Visit",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-05-03T06:37:42.810962+00:00"
-    },
-    {
-      "tweet": "Hold on, researchers found Neanderthals were literally running fat factories 125,000 years ago. Humans are weird.",
-      "original_url": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Neanderthals ran 'fat factories' 125,000 years ago (2025)",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-03T06:37:42.810456+00:00"
-    },
-    {
       "tweet": "Did you catch Debbie Harry on SNL with Olivia Rodrigo? Man, she still has it.",
       "original_url": "https://www.billboard.com/culture/tv-film/debbie-harry-snl-cameo-olivia-rodrigo-1236237766/",
       "buzz_score": 75,
@@ -55,28 +33,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Did you hear they're actually making an SNL UK? Feels like some things just don't need a remake.",
-      "original_url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-uk-online-free-1236203547/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘Saturday Night Live UK’: Where to Watch the British Version of the Sketch Comedy Show Online",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-03T00:05:04.111709+00:00"
-    },
-    {
-      "tweet": "Man, watching Mark Allen miss that simple black to win at the World Championship was painful. He just straight up choked.",
-      "original_url": "https://www.bbc.com/sport/snooker/articles/cgmpvp09e07o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'I completely blew it' - Wu into final as Allen misses simple black to win",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-03T00:05:04.111389+00:00"
     },
     {
       "tweet": "Trump is already saying he’s not satisfied with that Iran proposal. Of course he isn't.",
@@ -132,6 +88,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Did you hear they're actually making an SNL UK? Feels like some things just don't need a remake.",
+      "original_url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-uk-online-free-1236203547/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "‘Saturday Night Live UK’: Where to Watch the British Version of the Sketch Comedy Show Online",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-05-03T00:05:04.111709+00:00"
+    },
+    {
+      "tweet": "Man, watching Mark Allen miss that simple black to win at the World Championship was painful. He just straight up choked.",
+      "original_url": "https://www.bbc.com/sport/snooker/articles/cgmpvp09e07o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "'I completely blew it' - Wu into final as Allen misses simple black to win",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-03T00:05:04.111389+00:00"
     },
     {
       "tweet": "Reggie Fils-Aimé said Nintendo just cut off Amazon entirely 'cause they asked them to break the law. Absolute legends",
@@ -528,39 +506,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
-    },
-    {
-      "tweet": "You seen the prices for the World Cup? Why would anyone pay that much to watch a game.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cpwp81jz7vdo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "What would it cost England and Scotland fans to go to World Cup?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-03T06:37:42.809825+00:00"
-    },
-    {
-      "tweet": "So apparently we're pulling troops out of Germany now. Guess we're just doing whatever Trump says this week.",
-      "original_url": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Germany says US troop withdrawal 'foreseeable' as Trump warns of more 'cuts'",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-03T06:37:42.809385+00:00"
-    },
-    {
-      "tweet": "Trump is calling Iran's peace proposal 'not acceptable' while threatening more strikes. Does he actually want a deal or what.",
-      "original_url": "https://www.aljazeera.com/news/2026/5/3/trump-reviews-iranian-peace-proposal-warns-strikes-could-resume?traffic_source=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump reviews Iran’s peace proposal, expresses doubts it’s ‘acceptable’",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-03T04:09:04.304626+00:00"
     },
     {
       "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
@@ -979,6 +924,39 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-17T05:53:06.956190+00:00"
+    },
+    {
+      "tweet": "You seen the prices for the World Cup? Why would anyone pay that much to watch a game.",
+      "original_url": "https://www.bbc.com/sport/football/articles/cpwp81jz7vdo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "What would it cost England and Scotland fans to go to World Cup?",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-03T06:37:42.809825+00:00"
+    },
+    {
+      "tweet": "So apparently we're pulling troops out of Germany now. Guess we're just doing whatever Trump says this week.",
+      "original_url": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Germany says US troop withdrawal 'foreseeable' as Trump warns of more 'cuts'",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-03T06:37:42.809385+00:00"
+    },
+    {
+      "tweet": "Trump is calling Iran's peace proposal 'not acceptable' while threatening more strikes. Does he actually want a deal or what.",
+      "original_url": "https://www.aljazeera.com/news/2026/5/3/trump-reviews-iranian-peace-proposal-warns-strikes-could-resume?traffic_source=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump reviews Iran’s peace proposal, expresses doubts it’s ‘acceptable’",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-05-03T04:09:04.304626+00:00"
     },
     {
       "tweet": "The guys who made that horror game are back with something even better. Gonna have to check that out",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 819,
+    "total_posted": 821,
     "total_collected": 2829
   },
-  "last_posted_at": "2026-05-03T06:46:42.568113+00:00"
+  "last_posted_at": "2026-05-03T08:32:45.838366+00:00"
 }
