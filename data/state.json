@@ -2,28 +2,6 @@
   "last_collected": "2026-05-03T09:43:59.817501+00:00",
   "queue": [
     {
-      "tweet": "These algorithms are straight up messing with people's shifts and pay now. It's that feeling when you realize your boss isn't even a person anymore, it's just code.",
-      "original_url": "https://www.npr.org/2026/05/03/nx-s1-5786926/jobs-labor-productivity-languageline-unionize",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "How algorithms wreaked havoc with these workers' schedules and cut their pay",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-03T09:43:59.815947+00:00"
-    },
-    {
-      "tweet": "Did you catch Debbie Harry on SNL with Olivia Rodrigo? Man, she still has it.",
-      "original_url": "https://www.billboard.com/culture/tv-film/debbie-harry-snl-cameo-olivia-rodrigo-1236237766/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Debbie Harry Makes ‘SNL’ Cameo to Introduce Olivia Rodrigo’s ‘drop dead’ Performance",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-03T06:37:42.809682+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -508,17 +486,6 @@
       "added_at": "2026-05-02T17:31:56.245058+00:00"
     },
     {
-      "tweet": "Man, Israel is sending out more displacement orders in Lebanon. It just never ends, does it.",
-      "original_url": "https://www.aljazeera.com/news/2026/5/3/israel-issues-new-forced-displacement-orders-in-southern-lebanon?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israel issues new forced displacement orders in southern Lebanon",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-03T09:43:59.816489+00:00"
-    },
-    {
       "tweet": "Did you hear they're actually making an SNL UK? Feels like some things just don't need a remake.",
       "original_url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-uk-online-free-1236203547/",
       "buzz_score": 80,
@@ -946,6 +913,17 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-17T05:53:06.956190+00:00"
+    },
+    {
+      "tweet": "Man, Israel is sending out more displacement orders in Lebanon. It just never ends, does it.",
+      "original_url": "https://www.aljazeera.com/news/2026/5/3/israel-issues-new-forced-displacement-orders-in-southern-lebanon?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Israel issues new forced displacement orders in southern Lebanon",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-05-03T09:43:59.816489+00:00"
     },
     {
       "tweet": "KitchenAid finally updated their mixer after seventy years. It's the little things that actually keep us sane.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 825,
+    "total_posted": 827,
     "total_collected": 2845
   },
-  "last_posted_at": "2026-05-03T10:42:57.219369+00:00"
+  "last_posted_at": "2026-05-03T11:30:28.656383+00:00"
 }
