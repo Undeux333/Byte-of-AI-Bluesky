@@ -2,17 +2,6 @@
   "last_collected": "2026-05-04T11:17:02.540409+00:00",
   "queue": [
     {
-      "tweet": "So apparently supermassive black holes just blast cosmic jets across space like it's nothing. Just casually firing beams across the universe. Kind of rude.",
-      "original_url": "https://bigthink.com/starts-with-a-bang/supermassive-black-holes-launch-powerful-jets/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Supermassive black holes launch the most powerful cosmic jets",
-      "source": "Big Think",
-      "category": "trivia",
-      "added_at": "2026-05-04T06:53:31.931999+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -33,6 +22,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "So apparently supermassive black holes just blast cosmic jets across space like it's nothing. Just casually firing beams across the universe. Kind of rude.",
+      "original_url": "https://bigthink.com/starts-with-a-bang/supermassive-black-holes-launch-powerful-jets/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Supermassive black holes launch the most powerful cosmic jets",
+      "source": "Big Think",
+      "category": "trivia",
+      "added_at": "2026-05-04T06:53:31.931999+00:00"
     },
     {
       "tweet": "Trump is already saying he’s not satisfied with that Iran proposal. Of course he isn't.",
@@ -77,28 +77,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "Iran is threatening any ship that tries to cross the Strait of Hormuz. Here we go again.",
-      "original_url": "https://www.nytimes.com/2026/05/04/world/middleeast/iran-trump-ships-hormuz-strait.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran Threatens Ships Over Trump Plan to Break Iran’s Blockade",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-04T11:17:02.539348+00:00"
-    },
-    {
-      "tweet": "So apparently they're claiming SNAP recipients are driving luxury cars now. Anything to cut the funding I guess.",
-      "original_url": "https://www.theguardian.com/us-news/2026/may/04/trump-administration-snap-food-aid",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump administration claims food aid fraud but critics say ‘there’s no evidence’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-04T11:17:02.539028+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -508,15 +486,26 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "The NATO chief says everyone's finally gotten the message from Trump. Who actually believes that.",
-      "original_url": "https://www.aljazeera.com/news/2026/5/4/nato-chief-says-europeans-have-gotten-the-message-from-trump-on-defence?traffic_source=rss",
-      "buzz_score": 80,
+      "tweet": "Iran is threatening any ship that tries to cross the Strait of Hormuz. Here we go again.",
+      "original_url": "https://www.nytimes.com/2026/05/04/world/middleeast/iran-trump-ships-hormuz-strait.html",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "NATO chief says Europeans have ‘gotten the message’ from Trump on defence",
-      "source": "Al Jazeera",
+      "original_title": "Iran Threatens Ships Over Trump Plan to Break Iran’s Blockade",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-05-04T11:17:02.539251+00:00"
+      "added_at": "2026-05-04T11:17:02.539348+00:00"
+    },
+    {
+      "tweet": "So apparently they're claiming SNAP recipients are driving luxury cars now. Anything to cut the funding I guess.",
+      "original_url": "https://www.theguardian.com/us-news/2026/may/04/trump-administration-snap-food-aid",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump administration claims food aid fraud but critics say ‘there’s no evidence’",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-04T11:17:02.539028+00:00"
     },
     {
       "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
@@ -528,17 +517,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-05-02T17:31:56.245058+00:00"
-    },
-    {
-      "tweet": "The coalition apparently gave tobacco lobbyists a private platform in parliament. They're not even pretending to hide it anymore.",
-      "original_url": "https://www.theguardian.com/society/2026/may/04/coalition-big-tobacco-lobbyists-closed-session-parliament",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Coalition accused of secretly giving big tobacco lobbyists private platform in parliament",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-04T09:11:39.872591+00:00"
     },
     {
       "tweet": "Did you hear they're actually making an SNL UK? Feels like some things just don't need a remake.",
@@ -968,6 +946,28 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-17T05:53:06.956190+00:00"
+    },
+    {
+      "tweet": "The NATO chief says everyone's finally gotten the message from Trump. Who actually believes that.",
+      "original_url": "https://www.aljazeera.com/news/2026/5/4/nato-chief-says-europeans-have-gotten-the-message-from-trump-on-defence?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "NATO chief says Europeans have ‘gotten the message’ from Trump on defence",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-05-04T11:17:02.539251+00:00"
+    },
+    {
+      "tweet": "The coalition apparently gave tobacco lobbyists a private platform in parliament. They're not even pretending to hide it anymore.",
+      "original_url": "https://www.theguardian.com/society/2026/may/04/coalition-big-tobacco-lobbyists-closed-session-parliament",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Coalition accused of secretly giving big tobacco lobbyists private platform in parliament",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-04T09:11:39.872591+00:00"
     },
     {
       "tweet": "So apparently Iran is telling Trump to stay out of the Strait of Hormuz. We're really back to doing this again, huh.",
