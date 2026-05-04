@@ -475,39 +475,6 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Property investors in Australia are borrowing at record rates despite the high interest. We really just can't stop chasing the market.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/may/05/australias-property-investor-borrowing-rises-at-fastest-rate-in-a-decade-despite-interest-rate-rises",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Australia’s property investor borrowing rises at fastest rate in a decade - despite interest rate rises",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-04T15:18:38.608943+00:00"
-    },
-    {
-      "tweet": "A cruise ship is currently blocked from docking because of a suspected hantavirus outbreak. Being stuck at sea with that is a total nightmare.",
-      "original_url": "https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Cruise ship at centre of suspected hantavirus outbreak blocked from docking in Cape Verde",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-04T15:18:38.608822+00:00"
-    },
-    {
-      "tweet": "Hold on, Trump just said the U.S. is gonna guide ships through the Strait of Hormuz now. We're basically becoming a global tugboat service.",
-      "original_url": "https://www.npr.org/2026/05/04/g-s1-119970/up-first-newsletter-strait-of-hormuz-iran-lousiana-congressional-maps-senate-democrats-claim-sharks-rudy-giuliani",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump says U.S. will 'guide' stranded ships through the Strait. And, key Senate races to watch",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-04T15:18:38.607784+00:00"
-    },
-    {
       "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
       "original_url": "https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london",
       "buzz_score": 82,
@@ -517,17 +484,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-05-02T17:31:56.245058+00:00"
-    },
-    {
-      "tweet": "So apparently supermassive black holes just blast cosmic jets across space like it's nothing. Just casually firing beams across the universe. Kind of rude.",
-      "original_url": "https://bigthink.com/starts-with-a-bang/supermassive-black-holes-launch-powerful-jets/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Supermassive black holes launch the most powerful cosmic jets",
-      "source": "Big Think",
-      "category": "trivia",
-      "added_at": "2026-05-04T06:53:31.931999+00:00"
     },
     {
       "tweet": "Did you hear they're actually making an SNL UK? Feels like some things just don't need a remake.",
@@ -957,6 +913,50 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-17T05:53:06.956190+00:00"
+    },
+    {
+      "tweet": "Property investors in Australia are borrowing at record rates despite the high interest. We really just can't stop chasing the market.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/may/05/australias-property-investor-borrowing-rises-at-fastest-rate-in-a-decade-despite-interest-rate-rises",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Australia’s property investor borrowing rises at fastest rate in a decade - despite interest rate rises",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-04T15:18:38.608943+00:00"
+    },
+    {
+      "tweet": "A cruise ship is currently blocked from docking because of a suspected hantavirus outbreak. Being stuck at sea with that is a total nightmare.",
+      "original_url": "https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Cruise ship at centre of suspected hantavirus outbreak blocked from docking in Cape Verde",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-04T15:18:38.608822+00:00"
+    },
+    {
+      "tweet": "Hold on, Trump just said the U.S. is gonna guide ships through the Strait of Hormuz now. We're basically becoming a global tugboat service.",
+      "original_url": "https://www.npr.org/2026/05/04/g-s1-119970/up-first-newsletter-strait-of-hormuz-iran-lousiana-congressional-maps-senate-democrats-claim-sharks-rudy-giuliani",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump says U.S. will 'guide' stranded ships through the Strait. And, key Senate races to watch",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-05-04T15:18:38.607784+00:00"
+    },
+    {
+      "tweet": "So apparently supermassive black holes just blast cosmic jets across space like it's nothing. Just casually firing beams across the universe. Kind of rude.",
+      "original_url": "https://bigthink.com/starts-with-a-bang/supermassive-black-holes-launch-powerful-jets/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Supermassive black holes launch the most powerful cosmic jets",
+      "source": "Big Think",
+      "category": "trivia",
+      "added_at": "2026-05-04T06:53:31.931999+00:00"
     },
     {
       "tweet": "Iran is threatening any ship that tries to cross the Strait of Hormuz. Here we go again.",
