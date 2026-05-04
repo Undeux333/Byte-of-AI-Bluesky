@@ -2,28 +2,6 @@
   "last_collected": "2026-05-04T18:53:21.245837+00:00",
   "queue": [
     {
-      "tweet": "Hold on, a United jet hit a light pole at Newark. How do you even park a plane into a truck",
-      "original_url": "https://www.npr.org/2026/05/04/nx-s1-5810477/united-jet-strikes-truck-newark-airport",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "A United jet struck a light pole and a truck near Newark airport, police say",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-04T18:53:21.244720+00:00"
-    },
-    {
-      "tweet": "Dude, GitHub is down again. I feel like we just reset that counter.",
-      "original_url": "https://www.dayswithoutgithubincident.com/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Days Without GitHub Incidents",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-04T18:53:21.244288+00:00"
-    },
-    {
       "tweet": "Chelsea is losing every game and missing Champions League. Expensive way to be a disaster.",
       "original_url": "https://www.bbc.com/sport/football/articles/c86en84x5wlo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -110,17 +88,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "Supreme Court gave that abortion pill a one-week reprieve. Can we just decide what we're doing for once",
-      "original_url": "https://www.npr.org/2026/05/04/nx-s1-5810510/supreme-court-mifepristone-appeals-telehealth",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Supreme Court gives abortion pill mifepristone a 1-week reprieve from a major change",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-04T18:53:21.244841+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -530,37 +497,15 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "De Zerbi is actually saving Tottenham right now. It's crazy how one guy just changes the whole vibe.",
-      "original_url": "https://www.bbc.com/sport/football/articles/clypkd5n7ego?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
+      "tweet": "Supreme Court gave that abortion pill a one-week reprieve. Can we just decide what we're doing for once",
+      "original_url": "https://www.npr.org/2026/05/04/nx-s1-5810510/supreme-court-mifepristone-appeals-telehealth",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "How De Zerbi brought life to sinking Spurs",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-04T18:53:21.245591+00:00"
-    },
-    {
-      "tweet": "Tarik Skubal needs elbow surgery. My fantasy team is basically dead now.",
-      "original_url": "https://www.espn.com/mlb/story/_/id/48677671/tigers-tarik-skubal-surgery-left-elbow",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Tigers' Skubal to have surgery on left elbow",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-05-04T18:53:21.245208+00:00"
-    },
-    {
-      "tweet": "Someone sent me a thing about stop making meaningless work. Like, we're all just pretending those 4:47 p.m. emails matter.",
-      "original_url": "https://bigthink.com/work-wise/stop-creating-meaningless-work-start-having-hard-conversations/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Stop creating meaningless work. Start having hard conversations.",
-      "source": "Big Think",
-      "category": "trivia",
-      "added_at": "2026-05-04T18:53:21.244598+00:00"
+      "original_title": "Supreme Court gives abortion pill mifepristone a 1-week reprieve from a major change",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-05-04T18:53:21.244841+00:00"
     },
     {
       "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
@@ -1001,6 +946,39 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-17T05:53:06.956190+00:00"
+    },
+    {
+      "tweet": "De Zerbi is actually saving Tottenham right now. It's crazy how one guy just changes the whole vibe.",
+      "original_url": "https://www.bbc.com/sport/football/articles/clypkd5n7ego?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "How De Zerbi brought life to sinking Spurs",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-04T18:53:21.245591+00:00"
+    },
+    {
+      "tweet": "Tarik Skubal needs elbow surgery. My fantasy team is basically dead now.",
+      "original_url": "https://www.espn.com/mlb/story/_/id/48677671/tigers-tarik-skubal-surgery-left-elbow",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Tigers' Skubal to have surgery on left elbow",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-05-04T18:53:21.245208+00:00"
+    },
+    {
+      "tweet": "Someone sent me a thing about stop making meaningless work. Like, we're all just pretending those 4:47 p.m. emails matter.",
+      "original_url": "https://bigthink.com/work-wise/stop-creating-meaningless-work-start-having-hard-conversations/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Stop creating meaningless work. Start having hard conversations.",
+      "source": "Big Think",
+      "category": "trivia",
+      "added_at": "2026-05-04T18:53:21.244598+00:00"
     },
     {
       "tweet": "So apparently supermassive black holes just blast cosmic jets across space like it's nothing. Just casually firing beams across the universe. Kind of rude.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 859,
+    "total_posted": 861,
     "total_collected": 2997
   },
-  "last_posted_at": "2026-05-04T19:01:48.684320+00:00"
+  "last_posted_at": "2026-05-04T20:15:40.158690+00:00"
 }
