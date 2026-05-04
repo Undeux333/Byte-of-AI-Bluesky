@@ -2,28 +2,6 @@
   "last_collected": "2026-05-04T21:19:07.771441+00:00",
   "queue": [
     {
-      "tweet": "Reading about how guys are getting tricked into fighting for Russia 'cause they need work. Imagine thinking you're getting a job and ending up in a trench",
-      "original_url": "https://www.nytimes.com/2026/05/04/world/africa-russia-ukraine-war-attacks-strait-hormuz.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tricked Into Fighting for Russia",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-04T21:19:07.770870+00:00"
-    },
-    {
-      "tweet": "Men's Health is out here dropping a guide on the best cock rings. We've officially reached peak internet",
-      "original_url": "https://www.menshealth.com/sex-women/g32280642/best-cock-rings/",
-      "buzz_score": 78,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The 9 Best Cock Rings For Stronger Erections And Orgasms, According To Sex Experts",
-      "source": "Men's Health Sex",
-      "category": "sex",
-      "added_at": "2026-05-04T21:19:07.771175+00:00"
-    },
-    {
       "tweet": "Walmart has those Mortal Kombat 2 arcade cabinets on sale. We’re all just trying to live in 1994 again, aren't we",
       "original_url": "https://www.billboard.com/culture/product-recommendations/arcade1up-mortal-kombat-2-where-to-buy-retro-gaming-online-1236238122/",
       "buzz_score": 72,
@@ -55,28 +33,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Chelsea is losing every game and missing Champions League. Expensive way to be a disaster.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c86en84x5wlo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "What Champions League failure means for 'broken club' Chelsea",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-04T18:53:21.245470+00:00"
-    },
-    {
-      "tweet": "Trying to stop the Sunday-night dread by realizing I don't owe the week anything. Just gotta actually believe that.",
-      "original_url": "https://bigthink.com/work-wise/the-mindset-shift-that-ended-my-sunday-night-dread/",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "The mindset shift that ended my Sunday-night dread",
-      "source": "Big Think",
-      "category": "trivia",
-      "added_at": "2026-05-04T18:53:21.244470+00:00"
     },
     {
       "tweet": "Trump is already saying he’s not satisfied with that Iran proposal. Of course he isn't.",
@@ -123,6 +79,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Chelsea is losing every game and missing Champions League. Expensive way to be a disaster.",
+      "original_url": "https://www.bbc.com/sport/football/articles/c86en84x5wlo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "What Champions League failure means for 'broken club' Chelsea",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-04T18:53:21.245470+00:00"
+    },
+    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -132,6 +99,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Trying to stop the Sunday-night dread by realizing I don't owe the week anything. Just gotta actually believe that.",
+      "original_url": "https://bigthink.com/work-wise/the-mindset-shift-that-ended-my-sunday-night-dread/",
+      "buzz_score": 82,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "The mindset shift that ended my Sunday-night dread",
+      "source": "Big Think",
+      "category": "trivia",
+      "added_at": "2026-05-04T18:53:21.244470+00:00"
     },
     {
       "tweet": "Reggie Fils-Aimé said Nintendo just cut off Amazon entirely 'cause they asked them to break the law. Absolute legends",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 863,
+    "total_posted": 865,
     "total_collected": 3005
   },
-  "last_posted_at": "2026-05-04T21:26:11.758266+00:00"
+  "last_posted_at": "2026-05-04T22:37:52.792669+00:00"
 }
