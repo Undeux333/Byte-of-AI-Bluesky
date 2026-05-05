@@ -2,28 +2,6 @@
   "last_collected": "2026-05-05T17:01:04.108295+00:00",
   "queue": [
     {
-      "tweet": "Did you catch that Timberwolves game? Anthony Edwards absolutely took over against the Spurs. Cold.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48682145/edwards-returns-propels-wolves-spurs-game-1-stunner",
-      "buzz_score": 85,
-      "buzz_score2": 100,
-      "rewrite_count": 0,
-      "original_title": "Edwards' returns sparks Wolves in Game 1 stunner",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-05-05T17:01:04.106911+00:00"
-    },
-    {
-      "tweet": "Man, the WHO says that Hantavirus is spreading between passengers on a cruise ship now. Glad I don't do cruises.",
-      "original_url": "https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 100,
-      "rewrite_count": 0,
-      "original_title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-05T17:01:04.106761+00:00"
-    },
-    {
       "tweet": "Russia is still launching attacks while talking about a ceasefire for their parade. They aren't even pretending anymore.",
       "original_url": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 879,
+    "total_posted": 881,
     "total_collected": 3055
   },
-  "last_posted_at": "2026-05-05T17:08:17.286717+00:00"
+  "last_posted_at": "2026-05-05T18:17:00.615471+00:00"
 }
