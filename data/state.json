@@ -2,28 +2,6 @@
   "last_collected": "2026-05-05T08:59:35.356784+00:00",
   "queue": [
     {
-      "tweet": "Man, that explosion at the fireworks factory in China sounds like an absolute nightmare. 26 people gone just like that.",
-      "original_url": "https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Explosion at China fireworks factory kills 26 people",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-05T08:59:35.356142+00:00"
-    },
-    {
-      "tweet": "Bad Bunny wearing a vintage Cartier at the Met Gala is that kind of flex that makes everyone else look boring.",
-      "original_url": "https://hypebeast.com/2026/5/wrist-check-bad-bunny-vintage-cartier-cloche-met-gala-2026-red-carpet",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Wrist Check: Bad Bunny Channels Time With a Vintage Cartier Cloche Timepiece at the Met Gala 2026",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-05-05T08:59:35.356493+00:00"
-    },
-    {
       "tweet": "Honestly, what is even the move for Rangers now that the title's gone. Like, where do they go from here?",
       "original_url": "https://www.bbc.com/sport/football/articles/ceqp9nw8yy8o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -46,39 +24,6 @@
       "added_at": "2026-05-05T04:33:13.989344+00:00"
     },
     {
-      "tweet": "Some people want to tax oil profits to pay for the current crisis. Like they’d ever let that happen.",
-      "original_url": "https://www.aljazeera.com/opinions/2026/5/5/states-should-tax-windfall-oil-profits-to-fund-their-way-out-of-the-crisis?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "States should tax windfall oil profits to fund their way out of crisis",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-05T04:33:13.989359+00:00"
-    },
-    {
-      "tweet": "Rihanna showed up super late to the Met Gala again. She just does whatever she wants.",
-      "original_url": "https://www.bustle.com/style/rihanna-met-gala-2026-late",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Rihanna Showed Up Late To The 2026 Met Gala & It Was Worth The Wait",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-05-05T04:33:13.990070+00:00"
-    },
-    {
-      "tweet": "So people are literally out here making fake Notepad++ apps for Mac just to mess with us. Unreal.",
-      "original_url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trademark violation: Fake Notepad++ for Mac",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-05T04:33:13.989350+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -99,6 +44,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Some people want to tax oil profits to pay for the current crisis. Like they’d ever let that happen.",
+      "original_url": "https://www.aljazeera.com/opinions/2026/5/5/states-should-tax-windfall-oil-profits-to-fund-their-way-out-of-the-crisis?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "States should tax windfall oil profits to fund their way out of crisis",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-05-05T04:33:13.989359+00:00"
     },
     {
       "tweet": "Trump is already saying he’s not satisfied with that Iran proposal. Of course he isn't.",
@@ -143,6 +99,28 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "Rihanna showed up super late to the Met Gala again. She just does whatever she wants.",
+      "original_url": "https://www.bustle.com/style/rihanna-met-gala-2026-late",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Rihanna Showed Up Late To The 2026 Met Gala & It Was Worth The Wait",
+      "source": "Bustle",
+      "category": "sex",
+      "added_at": "2026-05-05T04:33:13.990070+00:00"
+    },
+    {
+      "tweet": "So people are literally out here making fake Notepad++ apps for Mac just to mess with us. Unreal.",
+      "original_url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Trademark violation: Fake Notepad++ for Mac",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-05T04:33:13.989350+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -550,17 +528,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
-    },
-    {
-      "tweet": "Did you see that movie star Vijay basically just took over politics in Tamil Nadu. We're living in a script now.",
-      "original_url": "https://www.bbc.com/news/articles/c8xwjx54zggo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "A 'fun' superstar stuns rivals and reshapes politics in an Indian state",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-05T08:59:35.356147+00:00"
     },
     {
       "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
@@ -1001,6 +968,17 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-17T05:53:06.956190+00:00"
+    },
+    {
+      "tweet": "Did you see that movie star Vijay basically just took over politics in Tamil Nadu. We're living in a script now.",
+      "original_url": "https://www.bbc.com/news/articles/c8xwjx54zggo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "A 'fun' superstar stuns rivals and reshapes politics in an Indian state",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-05T08:59:35.356147+00:00"
     },
     {
       "tweet": "So apparently there's a rare comet visible in the southern hemisphere right now. Wish we could see it here.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 872,
+    "total_posted": 874,
     "total_collected": 3029
   },
-  "last_posted_at": "2026-05-05T09:08:26.711895+00:00"
+  "last_posted_at": "2026-05-05T10:50:33.728137+00:00"
 }
