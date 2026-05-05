@@ -2,28 +2,6 @@
   "last_collected": "2026-05-05T21:52:47.059691+00:00",
   "queue": [
     {
-      "tweet": "HackerNews thread saying AI didn't delete the database, you did. Honestly feels like we're just gaslighting ourselves at this point.",
-      "original_url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
-      "buzz_score": 75,
-      "buzz_score2": 100,
-      "rewrite_count": 0,
-      "original_title": "AI didn't delete your database, you did",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-05T17:01:04.107146+00:00"
-    },
-    {
-      "tweet": "Billie Eilish said she's actually excited to watch her face age instead of getting surgery. Sometimes the most radical thing you can do is just let it happen.",
-      "original_url": "https://www.billboard.com/music/music-news/billie-eilish-never-wants-cosmetic-surgery-1236239311/",
-      "buzz_score": 75,
-      "buzz_score2": 100,
-      "rewrite_count": 0,
-      "original_title": "Billie Eilish Explains Why She Never Wants Cosmetic Surgery: ‘I’m So Excited for My Face to Age’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-05T17:01:04.106766+00:00"
-    },
-    {
       "tweet": "Did you hear Pennsylvania is suing Character.AI 'cause one of their bots was out here faking a medical license. It's actually pretending to be a doctor. Pure chaos",
       "original_url": "https://www.npr.org/2026/05/05/nx-s1-5812861/characterai-chatbot-medical-advice-pennsylvania-lawsuit",
       "buzz_score": 90,
@@ -145,17 +123,6 @@
       "added_at": "2026-05-05T19:51:40.210069+00:00"
     },
     {
-      "tweet": "Leigh Halfpenny is finally retiring from rugby. Man, what a run.",
-      "original_url": "https://www.bbc.com/sport/rugby-union/articles/clyp2zyp70qo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Wales great Halfpenny to retire from rugby",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-05T19:51:40.210225+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -176,6 +143,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Leigh Halfpenny is finally retiring from rugby. Man, what a run.",
+      "original_url": "https://www.bbc.com/sport/rugby-union/articles/clyp2zyp70qo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Wales great Halfpenny to retire from rugby",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-05T19:51:40.210225+00:00"
     },
     {
       "tweet": "Trump is already saying he’s not satisfied with that Iran proposal. Of course he isn't.",
@@ -222,6 +200,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
       "tweet": "James Cameron wants to redo Aliens as a 3D movie now. Like, are we really not done with the 3D thing yet",
       "original_url": "https://www.polygon.com/aliens-3d-version-james-cameron/",
       "buzz_score": 88,
@@ -242,17 +231,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-05-05T21:52:47.058127+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "Dude, apparently healthcare marketplaces are just handing our citizenship and race data to ad tech companies now. Of course they are.",
@@ -662,17 +640,6 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Seeing what video game sites looked like in the 90s just hit me like a truck. We've come so far and yet somehow it feels like we lost something",
-      "original_url": "https://kotaku.com/big-video-game-websites-90s-2000693342",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Let’s Remember What Some Big Video Game Websites Looked Like In The ’90s",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-05-05T21:52:47.059563+00:00"
-    },
-    {
       "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
       "original_url": "https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london",
       "buzz_score": 82,
@@ -682,17 +649,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-05-02T17:31:56.245058+00:00"
-    },
-    {
-      "tweet": "Young Thug talking about Rich Homie Quan and saying he 'never switched on U.' That's rough, man. Sometimes you don't realize you need to make amends until it's too late",
-      "original_url": "https://www.billboard.com/music/rb-hip-hop/young-thug-reflects-rich-homie-quan-death-1236239891/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Young Thug Reflects on Rich Homie Quan’s Death: ‘Never Switched on U’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-05T21:52:47.058132+00:00"
     },
     {
       "tweet": "Some people want to tax oil profits to pay for the current crisis. Like they’d ever let that happen.",
@@ -1012,6 +968,28 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-23T03:45:03.476379+00:00"
+    },
+    {
+      "tweet": "Seeing what video game sites looked like in the 90s just hit me like a truck. We've come so far and yet somehow it feels like we lost something",
+      "original_url": "https://kotaku.com/big-video-game-websites-90s-2000693342",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Let’s Remember What Some Big Video Game Websites Looked Like In The ’90s",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-05-05T21:52:47.059563+00:00"
+    },
+    {
+      "tweet": "Young Thug talking about Rich Homie Quan and saying he 'never switched on U.' That's rough, man. Sometimes you don't realize you need to make amends until it's too late",
+      "original_url": "https://www.billboard.com/music/rb-hip-hop/young-thug-reflects-rich-homie-quan-death-1236239891/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Young Thug Reflects on Rich Homie Quan’s Death: ‘Never Switched on U’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-05-05T21:52:47.058132+00:00"
     }
   ],
   "seen_urls": [
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 889,
+    "total_posted": 891,
     "total_collected": 3087
   },
-  "last_posted_at": "2026-05-05T22:52:46.421112+00:00"
+  "last_posted_at": "2026-05-05T23:40:09.346438+00:00"
 }
