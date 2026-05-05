@@ -79,17 +79,6 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Chelsea is losing every game and missing Champions League. Expensive way to be a disaster.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c86en84x5wlo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "What Champions League failure means for 'broken club' Chelsea",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-04T18:53:21.245470+00:00"
-    },
-    {
       "tweet": "Reggie Fils-Aimé said Nintendo just cut off Amazon entirely 'cause they asked them to break the law. Absolute legends",
       "original_url": "https://kotaku.com/reggie-fils-aime-says-nintendo-stopped-selling-to-amazon-after-being-asked-to-break-the-law-2000692699",
       "buzz_score": 85,
@@ -484,17 +473,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
-    },
-    {
-      "tweet": "Trying to stop the Sunday-night dread by realizing I don't owe the week anything. Just gotta actually believe that.",
-      "original_url": "https://bigthink.com/work-wise/the-mindset-shift-that-ended-my-sunday-night-dread/",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "The mindset shift that ended my Sunday-night dread",
-      "source": "Big Think",
-      "category": "trivia",
-      "added_at": "2026-05-04T18:53:21.244470+00:00"
     },
     {
       "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
@@ -935,6 +913,28 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-17T05:53:06.956190+00:00"
+    },
+    {
+      "tweet": "Chelsea is losing every game and missing Champions League. Expensive way to be a disaster.",
+      "original_url": "https://www.bbc.com/sport/football/articles/c86en84x5wlo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "What Champions League failure means for 'broken club' Chelsea",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-04T18:53:21.245470+00:00"
+    },
+    {
+      "tweet": "Trying to stop the Sunday-night dread by realizing I don't owe the week anything. Just gotta actually believe that.",
+      "original_url": "https://bigthink.com/work-wise/the-mindset-shift-that-ended-my-sunday-night-dread/",
+      "buzz_score": 82,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "The mindset shift that ended my Sunday-night dread",
+      "source": "Big Think",
+      "category": "trivia",
+      "added_at": "2026-05-04T18:53:21.244470+00:00"
     },
     {
       "tweet": "Supreme Court gave that abortion pill a one-week reprieve. Can we just decide what we're doing for once",
