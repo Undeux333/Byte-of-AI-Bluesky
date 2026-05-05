@@ -2,28 +2,6 @@
   "last_collected": "2026-05-05T21:52:47.059691+00:00",
   "queue": [
     {
-      "tweet": "So Trump says we're helping ships in the Strait of Hormuz, but nobody knows how. What are we actually doing there",
-      "original_url": "https://www.nytimes.com/2026/05/05/world/middleeast/trump-strait-hormuz-plan-project-freedom-iran.html",
-      "buzz_score": 75,
-      "buzz_score2": 100,
-      "rewrite_count": 0,
-      "original_title": "What We Know About ‘Project Freedom’ in the Strait of Hormuz",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-05T17:01:04.107842+00:00"
-    },
-    {
-      "tweet": "Men's Health is out here dropping a top seven list for prostate massagers. We're really just living in the future now, aren't we.",
-      "original_url": "https://www.menshealth.com/sex-women/g22531538/best-prostate-massagers/",
-      "buzz_score": 75,
-      "buzz_score2": 100,
-      "rewrite_count": 0,
-      "original_title": "7 Best Prostate Massagers of 2026, Tested by Sex Experts",
-      "source": "Men's Health Sex",
-      "category": "sex",
-      "added_at": "2026-05-05T17:01:04.107601+00:00"
-    },
-    {
       "tweet": "HackerNews thread saying AI didn't delete the database, you did. Honestly feels like we're just gaslighting ourselves at this point.",
       "original_url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
       "buzz_score": 75,
@@ -200,28 +178,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "James Cameron wants to redo Aliens as a 3D movie now. Like, are we really not done with the 3D thing yet",
-      "original_url": "https://www.polygon.com/aliens-3d-version-james-cameron/",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "James Cameron wants to redo Aliens as a 3D movie",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-05-05T21:52:47.058690+00:00"
-    },
-    {
-      "tweet": "Scott Turow is actually suing Meta for copyright infringement now. You know it's getting real when the lawyers start coming for the AI models. Tough look",
-      "original_url": "https://www.npr.org/2026/05/05/nx-s1-5812623/scott-turow-meta-lawsuit",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Scott Turow's latest real-life legal thriller: Suing Meta for copyright infringement",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-05T21:52:47.058127+00:00"
-    },
-    {
       "tweet": "Trump is already saying he’s not satisfied with that Iran proposal. Of course he isn't.",
       "original_url": "https://www.nytimes.com/2026/05/01/world/middleeast/iran-new-proposal-peace-talks.html",
       "buzz_score": 90,
@@ -266,6 +222,28 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "James Cameron wants to redo Aliens as a 3D movie now. Like, are we really not done with the 3D thing yet",
+      "original_url": "https://www.polygon.com/aliens-3d-version-james-cameron/",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "James Cameron wants to redo Aliens as a 3D movie",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-05-05T21:52:47.058690+00:00"
+    },
+    {
+      "tweet": "Scott Turow is actually suing Meta for copyright infringement now. You know it's getting real when the lawyers start coming for the AI models. Tough look",
+      "original_url": "https://www.npr.org/2026/05/05/nx-s1-5812623/scott-turow-meta-lawsuit",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Scott Turow's latest real-life legal thriller: Suing Meta for copyright infringement",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-05-05T21:52:47.058127+00:00"
+    },
+    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -275,17 +253,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Seeing what video game sites looked like in the 90s just hit me like a truck. We've come so far and yet somehow it feels like we lost something",
-      "original_url": "https://kotaku.com/big-video-game-websites-90s-2000693342",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Let’s Remember What Some Big Video Game Websites Looked Like In The ’90s",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-05-05T21:52:47.059563+00:00"
     },
     {
       "tweet": "Dude, apparently healthcare marketplaces are just handing our citizenship and race data to ad tech companies now. Of course they are.",
@@ -695,15 +662,15 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Young Thug talking about Rich Homie Quan and saying he 'never switched on U.' That's rough, man. Sometimes you don't realize you need to make amends until it's too late",
-      "original_url": "https://www.billboard.com/music/rb-hip-hop/young-thug-reflects-rich-homie-quan-death-1236239891/",
-      "buzz_score": 80,
+      "tweet": "Seeing what video game sites looked like in the 90s just hit me like a truck. We've come so far and yet somehow it feels like we lost something",
+      "original_url": "https://kotaku.com/big-video-game-websites-90s-2000693342",
+      "buzz_score": 82,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Young Thug Reflects on Rich Homie Quan’s Death: ‘Never Switched on U’",
-      "source": "Billboard",
+      "original_title": "Let’s Remember What Some Big Video Game Websites Looked Like In The ’90s",
+      "source": "Kotaku",
       "category": "entertainment",
-      "added_at": "2026-05-05T21:52:47.058132+00:00"
+      "added_at": "2026-05-05T21:52:47.059563+00:00"
     },
     {
       "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
@@ -715,6 +682,17 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-05-02T17:31:56.245058+00:00"
+    },
+    {
+      "tweet": "Young Thug talking about Rich Homie Quan and saying he 'never switched on U.' That's rough, man. Sometimes you don't realize you need to make amends until it's too late",
+      "original_url": "https://www.billboard.com/music/rb-hip-hop/young-thug-reflects-rich-homie-quan-death-1236239891/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Young Thug Reflects on Rich Homie Quan’s Death: ‘Never Switched on U’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-05-05T21:52:47.058132+00:00"
     },
     {
       "tweet": "Some people want to tax oil profits to pay for the current crisis. Like they’d ever let that happen.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 887,
+    "total_posted": 889,
     "total_collected": 3087
   },
-  "last_posted_at": "2026-05-05T22:00:57.529853+00:00"
+  "last_posted_at": "2026-05-05T22:52:46.421112+00:00"
 }
