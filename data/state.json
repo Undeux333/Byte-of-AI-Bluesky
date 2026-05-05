@@ -2,28 +2,6 @@
   "last_collected": "2026-05-05T19:51:40.211758+00:00",
   "queue": [
     {
-      "tweet": "Another Everton fan got arrested for racist abuse at a match. Can we just watch the game and act like decent humans for once",
-      "original_url": "https://www.bbc.com/sport/football/articles/cedpnxqwg29o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 100,
-      "rewrite_count": 0,
-      "original_title": "Everton fan arrested for alleged Semenyo racist abuse",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-05T17:01:04.107029+00:00"
-    },
-    {
-      "tweet": "Ford just wrote off 20 billion in EV investments but they're still swearing an affordable truck is coming next year. Who are they kidding",
-      "original_url": "https://www.nytimes.com/2026/05/05/business/ford-motor-electric-pickup-truck.html",
-      "buzz_score": 80,
-      "buzz_score2": 100,
-      "rewrite_count": 0,
-      "original_title": "Ford Says an Affordable Electric Pickup Truck is Still Coming Next Year",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-05T17:01:04.106764+00:00"
-    },
-    {
       "tweet": "So Trump says we're helping ships in the Strait of Hormuz, but nobody knows how. What are we actually doing there",
       "original_url": "https://www.nytimes.com/2026/05/05/world/middleeast/trump-strait-hormuz-plan-project-freedom-iran.html",
       "buzz_score": 75,
@@ -651,17 +629,6 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Trump is looking for a silver bullet to end the war in Iran. Does he really think they're just gonna fold because he said so?",
-      "original_url": "https://www.nytimes.com/2026/05/05/world/middleeast/trump-blockade-iran-war.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump Looks for a Silver Bullet to End the Iran War. There May Be None.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-05T19:51:40.210063+00:00"
-    },
-    {
       "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
       "original_url": "https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london",
       "buzz_score": 82,
@@ -671,6 +638,17 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-05-02T17:31:56.245058+00:00"
+    },
+    {
+      "tweet": "Trump is looking for a silver bullet to end the war in Iran. Does he really think they're just gonna fold because he said so?",
+      "original_url": "https://www.nytimes.com/2026/05/05/world/middleeast/trump-blockade-iran-war.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump Looks for a Silver Bullet to End the Iran War. There May Be None.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-05T19:51:40.210063+00:00"
     },
     {
       "tweet": "Some people want to tax oil profits to pay for the current crisis. Like they’d ever let that happen.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 883,
+    "total_posted": 885,
     "total_collected": 3071
   },
-  "last_posted_at": "2026-05-05T19:58:50.133822+00:00"
+  "last_posted_at": "2026-05-05T20:58:24.631802+00:00"
 }
