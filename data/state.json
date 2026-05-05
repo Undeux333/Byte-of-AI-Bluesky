@@ -2,28 +2,6 @@
   "last_collected": "2026-05-05T11:51:11.499471+00:00",
   "queue": [
     {
-      "tweet": "Honestly, what is even the move for Rangers now that the title's gone. Like, where do they go from here?",
-      "original_url": "https://www.bbc.com/sport/football/articles/ceqp9nw8yy8o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "What now for Rohl's Rangers as title hopes fade?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-05T08:59:35.356153+00:00"
-    },
-    {
-      "tweet": "Dude, apparently healthcare marketplaces are just handing our citizenship and race data to ad tech companies now. Of course they are.",
-      "original_url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-05T04:33:13.989344+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -46,26 +24,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "The US is out here trying to force open the Strait of Hormuz like we aren't already on the edge of a war. Just pure chaos.",
-      "original_url": "https://www.npr.org/2026/05/05/nx-s1-5811770/iran-war-updates",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "U.S. attempt to open Strait of Hormuz tests fragile Iran war ceasefire",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-05T11:51:11.498638+00:00"
-    },
-    {
-      "tweet": "Some people want to tax oil profits to pay for the current crisis. Like they’d ever let that happen.",
-      "original_url": "https://www.aljazeera.com/opinions/2026/5/5/states-should-tax-windfall-oil-profits-to-fund-their-way-out-of-the-crisis?traffic_source=rss",
-      "buzz_score": 80,
+      "tweet": "Dude, apparently healthcare marketplaces are just handing our citizenship and race data to ad tech companies now. Of course they are.",
+      "original_url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "States should tax windfall oil profits to fund their way out of crisis",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-05T04:33:13.989359+00:00"
+      "original_title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-05T04:33:13.989344+00:00"
     },
     {
       "tweet": "Trump is already saying he’s not satisfied with that Iran proposal. Of course he isn't.",
@@ -112,6 +79,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "The US is out here trying to force open the Strait of Hormuz like we aren't already on the edge of a war. Just pure chaos.",
+      "original_url": "https://www.npr.org/2026/05/05/nx-s1-5811770/iran-war-updates",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "U.S. attempt to open Strait of Hormuz tests fragile Iran war ceasefire",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-05-05T11:51:11.498638+00:00"
+    },
+    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -123,26 +101,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Rihanna showed up super late to the Met Gala again. She just does whatever she wants.",
-      "original_url": "https://www.bustle.com/style/rihanna-met-gala-2026-late",
-      "buzz_score": 75,
+      "tweet": "Some people want to tax oil profits to pay for the current crisis. Like they’d ever let that happen.",
+      "original_url": "https://www.aljazeera.com/opinions/2026/5/5/states-should-tax-windfall-oil-profits-to-fund-their-way-out-of-the-crisis?traffic_source=rss",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Rihanna Showed Up Late To The 2026 Met Gala & It Was Worth The Wait",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-05-05T04:33:13.990070+00:00"
-    },
-    {
-      "tweet": "So people are literally out here making fake Notepad++ apps for Mac just to mess with us. Unreal.",
-      "original_url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trademark violation: Fake Notepad++ for Mac",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-05T04:33:13.989350+00:00"
+      "original_title": "States should tax windfall oil profits to fund their way out of crisis",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-05-05T04:33:13.989359+00:00"
     },
     {
       "tweet": "Reggie Fils-Aimé said Nintendo just cut off Amazon entirely 'cause they asked them to break the law. Absolute legends",
@@ -550,6 +517,28 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-05-02T17:31:56.245058+00:00"
+    },
+    {
+      "tweet": "Rihanna showed up super late to the Met Gala again. She just does whatever she wants.",
+      "original_url": "https://www.bustle.com/style/rihanna-met-gala-2026-late",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Rihanna Showed Up Late To The 2026 Met Gala & It Was Worth The Wait",
+      "source": "Bustle",
+      "category": "sex",
+      "added_at": "2026-05-05T04:33:13.990070+00:00"
+    },
+    {
+      "tweet": "So people are literally out here making fake Notepad++ apps for Mac just to mess with us. Unreal.",
+      "original_url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Trademark violation: Fake Notepad++ for Mac",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-05T04:33:13.989350+00:00"
     },
     {
       "tweet": "Did you hear they're actually making an SNL UK? Feels like some things just don't need a remake.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 876,
+    "total_posted": 877,
     "total_collected": 3039
   },
-  "last_posted_at": "2026-05-05T11:56:39.773246+00:00"
+  "last_posted_at": "2026-05-05T13:08:00.403484+00:00"
 }
