@@ -2,17 +2,6 @@
   "last_collected": "2026-05-06T15:33:58.457269+00:00",
   "queue": [
     {
-      "tweet": "Kylian Mbappe is out here dealing with yacht trips and petitions in the middle of a bad season. Is he even playing soccer anymore?",
-      "original_url": "https://www.bbc.com/sport/football/articles/cdeplyje9zzo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Injury row, yacht trip & petition - what's going on with Mbappe?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-06T15:33:58.455887+00:00"
-    },
-    {
       "tweet": "Did you see that using a computer is literally 45 times more expensive than just using an API? We're basically paying a premium just to watch ourselves click stuff.",
       "original_url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
       "buzz_score": 85,
@@ -90,28 +79,6 @@
       "added_at": "2026-05-05T17:01:04.107488+00:00"
     },
     {
-      "tweet": "Drones from that war are crossing into Romania now. How is this even supposed to end?",
-      "original_url": "https://www.nytimes.com/2026/05/06/world/europe/ukraine-russia-romania-drones-nato-drone-wall.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "In Romania, Living With Weapons of War Spilling Into NATO Territory",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-06T09:43:13.927944+00:00"
-    },
-    {
-      "tweet": "Wired is out here reviewing carry-on suitcases like they're luxury cars. Nobody is spending that much just to avoid the carousel.",
-      "original_url": "https://www.wired.com/story/best-carry-on-suitcases/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Best Carry-On Suitcases (2026): Away, Rimowa, Tumi",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-05-06T09:43:13.927569+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -132,39 +99,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Dude, AI agents can just buy their own domains and host sites now. We're actually just handing them the keys to the kingdom at this point.",
-      "original_url": "https://blog.cloudflare.com/agents-stripe-projects/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-06T07:30:10.489652+00:00"
-    },
-    {
-      "tweet": "So Cinco de Mayo is basically just an American excuse to party. We really will celebrate anything, won't we.",
-      "original_url": "https://www.mentalfloss.com/holidays/why-cinco-de-mayo-was-first-celebrated-in-america?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why Cinco de Mayo Was First Celebrated in America",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-05-06T09:43:13.927293+00:00"
-    },
-    {
-      "tweet": "Hold on, they're actually writing articles about whether it's wash or warsh just because of that Fed nominee. It's just a word, man.",
-      "original_url": "https://www.npr.org/2026/05/06/nx-s1-5805005/kevin-wash-warsh-linguistics",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Do you say 'wash' or 'warsh?' Here's where the pronunciation comes from",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-06T09:43:13.926471+00:00"
     },
     {
       "tweet": "Did you hear Pennsylvania is suing Character.AI 'cause one of their bots was out here faking a medical license. It's actually pretending to be a doctor. Pure chaos",
@@ -222,6 +156,28 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Drones from that war are crossing into Romania now. How is this even supposed to end?",
+      "original_url": "https://www.nytimes.com/2026/05/06/world/europe/ukraine-russia-romania-drones-nato-drone-wall.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "In Romania, Living With Weapons of War Spilling Into NATO Territory",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-06T09:43:13.927944+00:00"
+    },
+    {
+      "tweet": "Wired is out here reviewing carry-on suitcases like they're luxury cars. Nobody is spending that much just to avoid the carousel.",
+      "original_url": "https://www.wired.com/story/best-carry-on-suitcases/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Best Carry-On Suitcases (2026): Away, Rimowa, Tumi",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-05-06T09:43:13.927569+00:00"
+    },
+    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -233,26 +189,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Another Fear Of God basketball shoe just dropped in 'cinder.' They're literally just shades of grey at this point.",
-      "original_url": "https://hypebeast.com/2026/5/adidas-fear-of-god-athletics-basketball-iii-cinder-release-info",
-      "buzz_score": 70,
+      "tweet": "Dude, AI agents can just buy their own domains and host sites now. We're actually just handing them the keys to the kingdom at this point.",
+      "original_url": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "The adidas Fear Of God Athletics Basketball III Arrives in a Muted \"Cinder\" Colorway",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-05-06T09:43:13.927041+00:00"
-    },
-    {
-      "tweet": "Kylie Minogue has a documentary coming out on Netflix. Weird how we're all just nostalgic for stuff we barely lived through now.",
-      "original_url": "https://www.billboard.com/music/pop/kylie-minogue-netflix-doc-trailer-stream-it-now-1236240216/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Kylie Minogue’s Netflix Doc Now Has a Trailer: Stream It Now",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-06T09:43:13.926654+00:00"
+      "original_title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-06T07:30:10.489652+00:00"
     },
     {
       "tweet": "Turns out having a chaotic sleep schedule in your 40s can wreck your heart. Guess I’m screwed",
@@ -761,37 +706,26 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Iran is reviewing a proposal while Trump is threatening strikes again. Are we ever getting out of that loop?",
-      "original_url": "https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil",
-      "buzz_score": 80,
-      "buzz_score2": 90,
+      "tweet": "So Cinco de Mayo is basically just an American excuse to party. We really will celebrate anything, won't we.",
+      "original_url": "https://www.mentalfloss.com/holidays/why-cinco-de-mayo-was-first-celebrated-in-america?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Iran War Live Updates: Tehran Says It Is Reviewing U.S. Proposal as Trump Makes New Threats",
-      "source": "NYT World",
+      "original_title": "Why Cinco de Mayo Was First Celebrated in America",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-05-06T09:43:13.927293+00:00"
+    },
+    {
+      "tweet": "Hold on, they're actually writing articles about whether it's wash or warsh just because of that Fed nominee. It's just a word, man.",
+      "original_url": "https://www.npr.org/2026/05/06/nx-s1-5805005/kevin-wash-warsh-linguistics",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Do you say 'wash' or 'warsh?' Here's where the pronunciation comes from",
+      "source": "NPR News",
       "category": "world",
-      "added_at": "2026-05-06T15:33:58.456652+00:00"
-    },
-    {
-      "tweet": "Panerai made a watch that goes 500 meters deep. Like any of us are diving that far without imploding.",
-      "original_url": "https://hypebeast.com/2026/5/panerai-submersible-gmt-pam01495-release-info",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Panerai’s New Skeletonized Submersible GMT Watch Goes 500 Meters Deep",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-05-06T07:30:10.490847+00:00"
-    },
-    {
-      "tweet": "Teddy Swims said he just wants his kid to think he's cool. Man, that's literally all of us though.",
-      "original_url": "https://www.billboard.com/culture/product-recommendations/stagecoach-2026-teddy-swims-interview-tmobile-club-magenta-1236239052/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Teddy Swims Says His Son Is His Biggest Critic: ‘I Want Him to Think I’m Cool’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-06T07:30:10.490093+00:00"
+      "added_at": "2026-05-06T09:43:13.926471+00:00"
     },
     {
       "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
@@ -1023,6 +957,61 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-26T12:39:39.042966+00:00"
+    },
+    {
+      "tweet": "Another Fear Of God basketball shoe just dropped in 'cinder.' They're literally just shades of grey at this point.",
+      "original_url": "https://hypebeast.com/2026/5/adidas-fear-of-god-athletics-basketball-iii-cinder-release-info",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The adidas Fear Of God Athletics Basketball III Arrives in a Muted \"Cinder\" Colorway",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-05-06T09:43:13.927041+00:00"
+    },
+    {
+      "tweet": "Kylie Minogue has a documentary coming out on Netflix. Weird how we're all just nostalgic for stuff we barely lived through now.",
+      "original_url": "https://www.billboard.com/music/pop/kylie-minogue-netflix-doc-trailer-stream-it-now-1236240216/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Kylie Minogue’s Netflix Doc Now Has a Trailer: Stream It Now",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-05-06T09:43:13.926654+00:00"
+    },
+    {
+      "tweet": "Iran is reviewing a proposal while Trump is threatening strikes again. Are we ever getting out of that loop?",
+      "original_url": "https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iran War Live Updates: Tehran Says It Is Reviewing U.S. Proposal as Trump Makes New Threats",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-06T15:33:58.456652+00:00"
+    },
+    {
+      "tweet": "Panerai made a watch that goes 500 meters deep. Like any of us are diving that far without imploding.",
+      "original_url": "https://hypebeast.com/2026/5/panerai-submersible-gmt-pam01495-release-info",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Panerai’s New Skeletonized Submersible GMT Watch Goes 500 Meters Deep",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-05-06T07:30:10.490847+00:00"
+    },
+    {
+      "tweet": "Teddy Swims said he just wants his kid to think he's cool. Man, that's literally all of us though.",
+      "original_url": "https://www.billboard.com/culture/product-recommendations/stagecoach-2026-teddy-swims-interview-tmobile-club-magenta-1236239052/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Teddy Swims Says His Son Is His Biggest Critic: ‘I Want Him to Think I’m Cool’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-05-06T07:30:10.490093+00:00"
     },
     {
       "tweet": "Travis Kelce says he feels like more of a man around Taylor Swift. Okay but the wedding planning is probably taking a toll.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 905,
+    "total_posted": 906,
     "total_collected": 3176
   },
-  "last_posted_at": "2026-05-06T15:41:56.296004+00:00"
+  "last_posted_at": "2026-05-06T17:11:15.836388+00:00"
 }
