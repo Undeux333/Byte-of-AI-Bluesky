@@ -2,28 +2,6 @@
   "last_collected": "2026-05-06T09:43:13.928320+00:00",
   "queue": [
     {
-      "tweet": "Dude, Apple is putting a 'Create a Pass' button in Wallet now. Guess we're just making digital tickets for literally everything at this point.",
-      "original_url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-06T09:43:13.926462+00:00"
-    },
-    {
-      "tweet": "Australia is finally bringing those kids back from that Syrian camp. Took them long enough, honestly.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/may/06/islamic-state-linked-australian-children-syria-states-resettle-ntwnfb",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Two Australian states prepare to resettle children from Syrian detention camp with most bound for Melbourne",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-06T09:43:13.928192+00:00"
-    },
-    {
       "tweet": "Drones from that war are crossing into Romania now. How is this even supposed to end?",
       "original_url": "https://www.nytimes.com/2026/05/06/world/europe/ukraine-russia-romania-drones-nato-drone-wall.html",
       "buzz_score": 80,
@@ -79,50 +57,6 @@
       "added_at": "2026-05-06T09:43:13.926471+00:00"
     },
     {
-      "tweet": "Another Fear Of God basketball shoe just dropped in 'cinder.' They're literally just shades of grey at this point.",
-      "original_url": "https://hypebeast.com/2026/5/adidas-fear-of-god-athletics-basketball-iii-cinder-release-info",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The adidas Fear Of God Athletics Basketball III Arrives in a Muted \"Cinder\" Colorway",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-05-06T09:43:13.927041+00:00"
-    },
-    {
-      "tweet": "Kylie Minogue has a documentary coming out on Netflix. Weird how we're all just nostalgic for stuff we barely lived through now.",
-      "original_url": "https://www.billboard.com/music/pop/kylie-minogue-netflix-doc-trailer-stream-it-now-1236240216/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Kylie Minogue’s Netflix Doc Now Has a Trailer: Stream It Now",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-06T09:43:13.926654+00:00"
-    },
-    {
-      "tweet": "Panerai made a watch that goes 500 meters deep. Like any of us are diving that far without imploding.",
-      "original_url": "https://hypebeast.com/2026/5/panerai-submersible-gmt-pam01495-release-info",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Panerai’s New Skeletonized Submersible GMT Watch Goes 500 Meters Deep",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-05-06T07:30:10.490847+00:00"
-    },
-    {
-      "tweet": "Teddy Swims said he just wants his kid to think he's cool. Man, that's literally all of us though.",
-      "original_url": "https://www.billboard.com/culture/product-recommendations/stagecoach-2026-teddy-swims-interview-tmobile-club-magenta-1236239052/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Teddy Swims Says His Son Is His Biggest Critic: ‘I Want Him to Think I’m Cool’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-06T07:30:10.490093+00:00"
-    },
-    {
       "tweet": "Teddy Swims is performing at the American Music Awards. That dude is everywhere lately.",
       "original_url": "https://www.billboard.com/lists/2026-american-music-awards-performers/",
       "buzz_score": 70,
@@ -165,6 +99,50 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-05-05T17:01:04.107488+00:00"
+    },
+    {
+      "tweet": "Another Fear Of God basketball shoe just dropped in 'cinder.' They're literally just shades of grey at this point.",
+      "original_url": "https://hypebeast.com/2026/5/adidas-fear-of-god-athletics-basketball-iii-cinder-release-info",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The adidas Fear Of God Athletics Basketball III Arrives in a Muted \"Cinder\" Colorway",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-05-06T09:43:13.927041+00:00"
+    },
+    {
+      "tweet": "Kylie Minogue has a documentary coming out on Netflix. Weird how we're all just nostalgic for stuff we barely lived through now.",
+      "original_url": "https://www.billboard.com/music/pop/kylie-minogue-netflix-doc-trailer-stream-it-now-1236240216/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Kylie Minogue’s Netflix Doc Now Has a Trailer: Stream It Now",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-05-06T09:43:13.926654+00:00"
+    },
+    {
+      "tweet": "Panerai made a watch that goes 500 meters deep. Like any of us are diving that far without imploding.",
+      "original_url": "https://hypebeast.com/2026/5/panerai-submersible-gmt-pam01495-release-info",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Panerai’s New Skeletonized Submersible GMT Watch Goes 500 Meters Deep",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-05-06T07:30:10.490847+00:00"
+    },
+    {
+      "tweet": "Teddy Swims said he just wants his kid to think he's cool. Man, that's literally all of us though.",
+      "original_url": "https://www.billboard.com/culture/product-recommendations/stagecoach-2026-teddy-swims-interview-tmobile-club-magenta-1236239052/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Teddy Swims Says His Son Is His Biggest Critic: ‘I Want Him to Think I’m Cool’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-05-06T07:30:10.490093+00:00"
     },
     {
       "tweet": "Turns out having a chaotic sleep schedule in your 40s can wreck your heart. Guess I’m screwed",
@@ -211,17 +189,6 @@
       "added_at": "2026-05-06T04:49:16.976237+00:00"
     },
     {
-      "tweet": "So apparently Trump’s still making secret oil deals in Venezuela after promising accountability. Business as usual",
-      "original_url": "https://www.nytimes.com/2026/05/05/world/trump-venezuela-oil-deals.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "In Venezuela, Trump Vowed to Show Accountability. But Secret Oil Deals Linger.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-06T04:49:16.977050+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -244,26 +211,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "So apparently people are blaming Trump for gas prices now. Like, do we really think the president has a dial for that?",
-      "original_url": "https://www.npr.org/2026/05/06/nx-s1-5810555/trump-iran-gas-prices-midterms-polling",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Poll: Trump blamed for gas prices as Democrats gain midterm edge",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-06T09:43:13.926468+00:00"
-    },
-    {
-      "tweet": "Dude, people on HackerNews are actually arguing about talking to strangers at the gym. Like we're just there to lift, man.",
-      "original_url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "buzz_score": 85,
+      "tweet": "So apparently Trump’s still making secret oil deals in Venezuela after promising accountability. Business as usual",
+      "original_url": "https://www.nytimes.com/2026/05/05/world/trump-venezuela-oil-deals.html",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Talking to strangers at the gym",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-06T01:16:13.437717+00:00"
+      "original_title": "In Venezuela, Trump Vowed to Show Accountability. But Secret Oil Deals Linger.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-06T04:49:16.977050+00:00"
     },
     {
       "tweet": "Did you hear Pennsylvania is suing Character.AI 'cause one of their bots was out here faking a medical license. It's actually pretending to be a doctor. Pure chaos",
@@ -321,17 +277,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Brain Dead just dropped a Star Wars collection and I don't know why, but I need it. My wallet hates me",
-      "original_url": "https://hypebeast.com/2026/5/brain-dead-star-wars-collaboration-capsule-release-info",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Brain Dead Unleashes Official 'Star Wars' Capsule Collection",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-05-06T04:49:16.976799+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -343,15 +288,26 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Thai temples just launch literal rockets at each other for a festival. Why don't we have stuff like that.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/thai-temples-launch-rockets-in-friendly-festival-rivalry?traffic_source=rss",
-      "buzz_score": 80,
+      "tweet": "So apparently people are blaming Trump for gas prices now. Like, do we really think the president has a dial for that?",
+      "original_url": "https://www.npr.org/2026/05/06/nx-s1-5810555/trump-iran-gas-prices-midterms-polling",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Poll: Trump blamed for gas prices as Democrats gain midterm edge",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-05-06T09:43:13.926468+00:00"
+    },
+    {
+      "tweet": "Dude, people on HackerNews are actually arguing about talking to strangers at the gym. Like we're just there to lift, man.",
+      "original_url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Thai temples launch rockets in friendly festival rivalry",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-06T01:16:13.438392+00:00"
+      "original_title": "Talking to strangers at the gym",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-06T01:16:13.437717+00:00"
     },
     {
       "tweet": "Microsoft finally killed that Copilot AI for Xbox that literally nobody asked for. We love to see them actually listen for once",
@@ -805,15 +761,15 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Gas is 50 percent higher than before that war on Iran started. At what point do we just stop driving?",
-      "original_url": "https://www.aljazeera.com/news/2026/5/6/gasoline-in-the-us-costs-50-more-now-than-before-iran-war?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
+      "tweet": "Brain Dead just dropped a Star Wars collection and I don't know why, but I need it. My wallet hates me",
+      "original_url": "https://hypebeast.com/2026/5/brain-dead-star-wars-collaboration-capsule-release-info",
+      "buzz_score": 70,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "US petrol prices 50 percent higher than before war on Iran",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-06T09:43:13.926914+00:00"
+      "original_title": "Brain Dead Unleashes Official 'Star Wars' Capsule Collection",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-05-06T04:49:16.976799+00:00"
     },
     {
       "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
@@ -827,15 +783,15 @@
       "added_at": "2026-05-02T17:31:56.245058+00:00"
     },
     {
-      "tweet": "People are living in tents in Wagga with no toilets and a baby just died there. How is this even happening in 2026?",
-      "original_url": "https://www.theguardian.com/australia-news/2026/may/06/wagga-homeless-camp-baby-found-dead-sanitation-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 90,
+      "tweet": "Thai temples just launch literal rockets at each other for a festival. Why don't we have stuff like that.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/thai-temples-launch-rockets-in-friendly-festival-rivalry?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Horrified Wagga residents call for proper sanitation at homeless camp where baby was found dead",
-      "source": "The Guardian",
+      "original_title": "Thai temples launch rockets in friendly festival rivalry",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-05-06T07:30:10.490723+00:00"
+      "added_at": "2026-05-06T01:16:13.438392+00:00"
     },
     {
       "tweet": "Nearly 3 million people had their data leaked while Alberta is pushing for an independence vote. Just another day.",
@@ -1034,6 +990,28 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-26T12:39:39.042966+00:00"
+    },
+    {
+      "tweet": "Gas is 50 percent higher than before that war on Iran started. At what point do we just stop driving?",
+      "original_url": "https://www.aljazeera.com/news/2026/5/6/gasoline-in-the-us-costs-50-more-now-than-before-iran-war?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US petrol prices 50 percent higher than before war on Iran",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-05-06T09:43:13.926914+00:00"
+    },
+    {
+      "tweet": "People are living in tents in Wagga with no toilets and a baby just died there. How is this even happening in 2026?",
+      "original_url": "https://www.theguardian.com/australia-news/2026/may/06/wagga-homeless-camp-baby-found-dead-sanitation-ntwnfb",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Horrified Wagga residents call for proper sanitation at homeless camp where baby was found dead",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-06T07:30:10.490723+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 899,
+    "total_posted": 901,
     "total_collected": 3144
   },
-  "last_posted_at": "2026-05-06T09:51:44.233954+00:00"
+  "last_posted_at": "2026-05-06T11:37:10.092960+00:00"
 }
