@@ -2,17 +2,6 @@
   "last_collected": "2026-05-07T09:25:34.764971+00:00",
   "queue": [
     {
-      "tweet": "So apparently a German guy actually sued his hotel because he lost the sun lounger race. Imagine going to court over a pool chair.",
-      "original_url": "https://www.bbc.com/news/articles/c5y72g09d7jo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "German tourist wins payout after losing sun lounger race",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-07T04:02:24.280353+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -33,28 +22,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Nintendo is releasing the new Star Fox game, which is technically the fifth remake of the same one. We're just buying the same game forever.",
-      "original_url": "https://www.polygon.com/star-fox-2026-remake-64-3d-zero/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "All Star Fox games that the new Star Fox game is technically a remake of",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-05-07T04:02:24.281038+00:00"
-    },
-    {
-      "tweet": "Dude, people on HackerNews are actually arguing about \"knitting bullshit\" like it's some profound tech shift. We're just making sweaters, man.",
-      "original_url": "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Knitting bullshit",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-07T04:02:24.280347+00:00"
     },
     {
       "tweet": "Did you hear Pennsylvania is suing Character.AI 'cause one of their bots was out here faking a medical license. It's actually pretending to be a doctor. Pure chaos",
@@ -121,6 +88,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Nintendo is releasing the new Star Fox game, which is technically the fifth remake of the same one. We're just buying the same game forever.",
+      "original_url": "https://www.polygon.com/star-fox-2026-remake-64-3d-zero/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "All Star Fox games that the new Star Fox game is technically a remake of",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-05-07T04:02:24.281038+00:00"
+    },
+    {
+      "tweet": "Dude, people on HackerNews are actually arguing about \"knitting bullshit\" like it's some profound tech shift. We're just making sweaters, man.",
+      "original_url": "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Knitting bullshit",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-07T04:02:24.280347+00:00"
     },
     {
       "tweet": "Did you see that using a computer is literally 45 times more expensive than just using an API? We're basically paying a premium just to watch ourselves click stuff.",
@@ -2018,8 +2007,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 920,
+    "total_posted": 921,
     "total_collected": 3249
   },
-  "last_posted_at": "2026-05-07T09:35:03.935766+00:00"
+  "last_posted_at": "2026-05-07T11:23:47.912757+00:00"
 }
