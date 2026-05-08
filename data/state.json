@@ -2,28 +2,6 @@
   "last_collected": "2026-05-08T22:36:23.917401+00:00",
   "queue": [
     {
-      "tweet": "Southampton literally got charged by the league for spying on Middlesbrough. Who even does that anymore.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cy92vn803lno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Saints charged by EFL with spying on Middlesbrough",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-08T22:36:23.916249+00:00"
-    },
-    {
-      "tweet": "Dude, Cloudflare is cutting 20% of their staff. Just another day in tech where they pretend they didn't overhire everyone two years ago. Brutal man.",
-      "original_url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Cloudflare to cut about 20% of its workforce",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-08T22:36:23.916076+00:00"
-    },
-    {
       "tweet": "They finally convicted those guys in Miami for the Haitian president's assassination. Took long enough.",
       "original_url": "https://www.theguardian.com/world/2026/may/08/four-men-convicted-haitian-president-assassination",
       "buzz_score": 80,
@@ -134,6 +112,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
       "tweet": "They're rereleasing the original Pokémon manga this fall. Man, that takes me back.",
       "original_url": "https://www.polygon.com/pokemon-red-and-blue-rerelease-manga-adventures/",
       "buzz_score": 85,
@@ -154,17 +143,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-08T22:36:23.916089+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "So apparently 11,000 North Korean soldiers were sent to fight for Russia. Imagine dying in a war on the other side of the planet for someone else’s politics.",
@@ -706,6 +684,17 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
+      "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
+      "original_url": "https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london",
+      "buzz_score": 82,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Banksy confirms new statue installed in central London is his work",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-05-02T17:31:56.245058+00:00"
+    },
+    {
       "tweet": "Starmer and Labour got absolutely crushed in these local elections. He's saying he's not resigning but man, that's rough.",
       "original_url": "https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results",
       "buzz_score": 80,
@@ -726,17 +715,6 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-05-08T22:36:23.916086+00:00"
-    },
-    {
-      "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
-      "original_url": "https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Banksy confirms new statue installed in central London is his work",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-02T17:31:56.245058+00:00"
     },
     {
       "tweet": "Crystal Palace actually made it to the Conference League final after trying not to. Talk about failing upwards into a trophy.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 943,
+    "total_posted": 945,
     "total_collected": 3339
   },
-  "last_posted_at": "2026-05-08T22:42:22.611887+00:00"
+  "last_posted_at": "2026-05-08T23:45:17.971511+00:00"
 }
