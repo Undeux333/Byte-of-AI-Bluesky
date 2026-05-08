@@ -2,28 +2,6 @@
   "last_collected": "2026-05-08T14:21:11.435150+00:00",
   "queue": [
     {
-      "tweet": "Man, between the US intercepting Iranian attacks on three ships and this whole hantavirus thing spreading, it's just a rough week",
-      "original_url": "https://www.npr.org/2026/05/08/g-s1-121064/up-first-newsletter-iran-us-tennessee-congressional-maps-hantavirus-tariffs",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "U.S. intercepts Iranian attacks on 3 ships. And, what to know about hantavirus",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-08T14:21:11.433582+00:00"
-    },
-    {
-      "tweet": "Dude, Canvas is literally down right now. Apparently hackers are threatening to leak all our school data. Great, guess my grades are public now",
-      "original_url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-08T14:21:11.433567+00:00"
-    },
-    {
       "tweet": "Did you see JJ Redick ripping the refs after that Lakers loss? Dude was absolutely fed up",
       "original_url": "https://www.espn.com/nba/story/_/id/48709627/lakers-redick-rips-officiating-reaves-feels-disrespected",
       "buzz_score": 80,
@@ -46,17 +24,6 @@
       "added_at": "2026-05-08T14:21:11.433580+00:00"
     },
     {
-      "tweet": "Nathan Law says he's not even shocked about those Chinese spies getting busted in the UK. Just another Tuesday in international politics",
-      "original_url": "https://www.theguardian.com/world/2026/may/08/hong-kong-dissident-nathan-law-china-spies-spying-uk",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Hong Kong dissident Nathan Law on China spies in UK: ‘We’re not surprised’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-08T11:02:19.222921+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -77,6 +44,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Nathan Law says he's not even shocked about those Chinese spies getting busted in the UK. Just another Tuesday in international politics",
+      "original_url": "https://www.theguardian.com/world/2026/may/08/hong-kong-dissident-nathan-law-china-spies-spying-uk",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Hong Kong dissident Nathan Law on China spies in UK: ‘We’re not surprised’",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-08T11:02:19.222921+00:00"
     },
     {
       "tweet": "Did you hear Pennsylvania is suing Character.AI 'cause one of their bots was out here faking a medical license. It's actually pretending to be a doctor. Pure chaos",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 937,
+    "total_posted": 939,
     "total_collected": 3323
   },
-  "last_posted_at": "2026-05-08T14:26:57.988275+00:00"
+  "last_posted_at": "2026-05-08T16:03:43.033824+00:00"
 }
