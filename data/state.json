@@ -2,28 +2,6 @@
   "last_collected": "2026-05-08T04:29:31.715725+00:00",
   "queue": [
     {
-      "tweet": "I just saw this thing about how we're all spending half our day just appearing productive at work. That's just the default now, isn't it.",
-      "original_url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Appearing productive in the workplace",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-08T04:29:31.714639+00:00"
-    },
-    {
-      "tweet": "Thousands of kids in Europe just went three weeks without smartphones for a project. I don’t think I could survive three hours at this point.",
-      "original_url": "https://www.nytimes.com/2026/05/07/world/europe/smartphones-austria-children-experiment.html",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "A Project in Europe Tested Whether Students Could Live Without Smartphones",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-08T01:23:44.525586+00:00"
-    },
-    {
       "tweet": "Did you see the US military is out here intercepting Iranian attacks on Navy ships now? Things are getting way too real in the Strait of Hormuz.",
       "original_url": "https://www.npr.org/2026/05/07/g-s1-120978/u-s-military-intercepted-iran-attacks-navy-ships-hormuz",
       "buzz_score": 90,
@@ -717,28 +695,6 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Bro, the Thunder just rolled the Lakers. That series is looking rough.",
-      "original_url": "https://www.espn.com/nba/game/_/gameId/401871327/lakers-thunder",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Thunder roll Lakers in convincing win, lead serie...",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-05-08T04:29:31.714939+00:00"
-    },
-    {
-      "tweet": "So apparently the US and Iran are trading fire in the Strait of Hormuz, but Trump says the ceasefire is still on. Is a ceasefire just a suggestion now",
-      "original_url": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-08T04:29:31.714645+00:00"
-    },
-    {
       "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
       "original_url": "https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london",
       "buzz_score": 82,
@@ -1012,6 +968,28 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-26T12:39:39.042966+00:00"
+    },
+    {
+      "tweet": "Bro, the Thunder just rolled the Lakers. That series is looking rough.",
+      "original_url": "https://www.espn.com/nba/game/_/gameId/401871327/lakers-thunder",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Thunder roll Lakers in convincing win, lead serie...",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-05-08T04:29:31.714939+00:00"
+    },
+    {
+      "tweet": "So apparently the US and Iran are trading fire in the Strait of Hormuz, but Trump says the ceasefire is still on. Is a ceasefire just a suggestion now",
+      "original_url": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-08T04:29:31.714645+00:00"
     },
     {
       "tweet": "Willy Chavarria designed custom armor for David Benavidez's fight night. Fashion is getting weird.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 925,
+    "total_posted": 927,
     "total_collected": 3275
   },
-  "last_posted_at": "2026-05-08T04:37:49.991751+00:00"
+  "last_posted_at": "2026-05-08T06:23:44.851308+00:00"
 }
