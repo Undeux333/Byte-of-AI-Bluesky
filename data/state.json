@@ -2,28 +2,6 @@
   "last_collected": "2026-05-08T11:02:19.224218+00:00",
   "queue": [
     {
-      "tweet": "Did you see that Russia and Ukraine are already trading drone strikes during their own ceasefire. Literally can't stop themselves",
-      "original_url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-08T11:02:19.222611+00:00"
-    },
-    {
-      "tweet": "So Trump is out here claiming the Iran ceasefire is holding while everyone is still trading fire. Like, what are we even doing",
-      "original_url": "https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Iran War Live Updates: Trump Insists Cease-Fire Holds Despite Exchange of Fire",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-08T11:02:19.222622+00:00"
-    },
-    {
       "tweet": "Nathan Law says he's not even shocked about those Chinese spies getting busted in the UK. Just another Tuesday in international politics",
       "original_url": "https://www.theguardian.com/world/2026/may/08/hong-kong-dissident-nathan-law-china-spies-spying-uk",
       "buzz_score": 75,
@@ -110,28 +88,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "Everyone's saying that new TMNT VR game is actually good. Guess I'm buying a headset",
-      "original_url": "https://www.polygon.com/teenage-mutant-ninja-turtles-empire-city-vr-game-review/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Teenage Mutant Ninja Turtles: Empire City review - the best TMNT game in years",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-05-08T11:02:19.223452+00:00"
-    },
-    {
-      "tweet": "Did you hear Charli xcx just dropped a rock song. My ears weren't prepared for that.",
-      "original_url": "https://www.billboard.com/music/pop/charli-xcx-rock-music-video-watch-1236242489/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Charli xcx Unleashes a Moshpit For ‘Rock Music’: Watch",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-08T04:29:31.714648+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -684,15 +640,26 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Travis Scott really got Tom Brady doing Oakley commercials now. The crossover we never asked for",
-      "original_url": "https://hypebeast.com/2026/5/travis-scott-cactus-jack-oakley-tom-brady-jalen-hurts-saquon-barkley-nfl-stars-campaign-straight-jacket-99-plantaris-eye-jacket-redux-release-info",
-      "buzz_score": 80,
+      "tweet": "Everyone's saying that new TMNT VR game is actually good. Guess I'm buying a headset",
+      "original_url": "https://www.polygon.com/teenage-mutant-ninja-turtles-empire-city-vr-game-review/",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Travis Scott Taps Tom Brady and NFL Superstars for New Cactus Jack x Oakley Collab Preview",
-      "source": "Hypebeast",
+      "original_title": "Teenage Mutant Ninja Turtles: Empire City review - the best TMNT game in years",
+      "source": "Polygon",
       "category": "entertainment",
-      "added_at": "2026-05-08T11:02:19.223308+00:00"
+      "added_at": "2026-05-08T11:02:19.223452+00:00"
+    },
+    {
+      "tweet": "Did you hear Charli xcx just dropped a rock song. My ears weren't prepared for that.",
+      "original_url": "https://www.billboard.com/music/pop/charli-xcx-rock-music-video-watch-1236242489/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Charli xcx Unleashes a Moshpit For ‘Rock Music’: Watch",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-05-08T04:29:31.714648+00:00"
     },
     {
       "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
@@ -1001,6 +968,17 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-04-26T12:39:39.042966+00:00"
+    },
+    {
+      "tweet": "Travis Scott really got Tom Brady doing Oakley commercials now. The crossover we never asked for",
+      "original_url": "https://hypebeast.com/2026/5/travis-scott-cactus-jack-oakley-tom-brady-jalen-hurts-saquon-barkley-nfl-stars-campaign-straight-jacket-99-plantaris-eye-jacket-redux-release-info",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Travis Scott Taps Tom Brady and NFL Superstars for New Cactus Jack x Oakley Collab Preview",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-05-08T11:02:19.223308+00:00"
     },
     {
       "tweet": "Capcom just shadow-dropped a Leon mode for Resident Evil 9. Staying up all night for that",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 933,
+    "total_posted": 935,
     "total_collected": 3307
   },
-  "last_posted_at": "2026-05-08T11:08:03.584014+00:00"
+  "last_posted_at": "2026-05-08T12:26:42.908859+00:00"
 }
