@@ -2,28 +2,6 @@
   "last_collected": "2026-05-09T19:20:38.708192+00:00",
   "queue": [
     {
-      "tweet": "Google just broke reCAPTCHA for de-googled Android phones. Classic.",
-      "original_url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Google broke reCAPTCHA for de-googled Android users",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-09T19:20:38.707544+00:00"
-    },
-    {
-      "tweet": "Did you see the latest out of Lebanon? How is there even a cease-fire if they're still doing strikes?",
-      "original_url": "https://www.nytimes.com/2026/05/09/world/middleeast/israel-strikes-lebanon-ceasefire.html",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Deadly Israeli Strikes Erode Cease-Fire in Lebanon",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-09T19:20:38.706617+00:00"
-    },
-    {
       "tweet": "The WHO chief is out here telling everyone the cruise ship isn't another Covid. Relax, man.",
       "original_url": "https://www.bbc.com/news/articles/czr2vjmnlmpo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 70,
@@ -57,17 +35,6 @@
       "added_at": "2026-05-09T14:04:24.622820+00:00"
     },
     {
-      "tweet": "They really just ranked the best Mortal Kombat fatalities of all time. Absolute chaos",
-      "original_url": "https://kotaku.com/the-12-best-mortal-kombat-fatalities-ever-list-ranked-mk1-mk2-2000694392",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The 12 Best Mortal Kombat Fatalities Ever",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-05-09T14:04:24.622833+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -88,6 +55,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "They really just ranked the best Mortal Kombat fatalities of all time. Absolute chaos",
+      "original_url": "https://kotaku.com/the-12-best-mortal-kombat-fatalities-ever-list-ranked-mk1-mk2-2000694392",
+      "buzz_score": 82,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The 12 Best Mortal Kombat Fatalities Ever",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-05-09T14:04:24.622833+00:00"
     },
     {
       "tweet": "Did you hear Pennsylvania is suing Character.AI 'cause one of their bots was out here faking a medical license. It's actually pretending to be a doctor. Pure chaos",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 968,
+    "total_posted": 970,
     "total_collected": 3451
   },
-  "last_posted_at": "2026-05-09T20:14:05.903324+00:00"
+  "last_posted_at": "2026-05-09T21:08:00.125198+00:00"
 }
