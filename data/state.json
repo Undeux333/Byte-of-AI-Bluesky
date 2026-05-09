@@ -2,17 +2,6 @@
   "last_collected": "2026-05-09T21:59:44.067833+00:00",
   "queue": [
     {
-      "tweet": "Marlie Packer just scored four tries. She doesn't go away, man.",
-      "original_url": "https://www.bbc.com/sport/rugby-union/articles/c2k2vv1yve2o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Four-try Packer 'doesn't go away' as England set up Grand Slam decider",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-09T19:20:38.707006+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -33,6 +22,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Marlie Packer just scored four tries. She doesn't go away, man.",
+      "original_url": "https://www.bbc.com/sport/rugby-union/articles/c2k2vv1yve2o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Four-try Packer 'doesn't go away' as England set up Grand Slam decider",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-09T19:20:38.707006+00:00"
     },
     {
       "tweet": "Did you hear Pennsylvania is suing Character.AI 'cause one of their bots was out here faking a medical license. It's actually pretending to be a doctor. Pure chaos",
@@ -90,17 +90,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Dude, Cartoon Network is finally bringing back all those old Flash games. Man, we spent literal years of our lives on those things",
-      "original_url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Cartoon Network Flash Games",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-09T14:04:24.622820+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -112,15 +101,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "They really just ranked the best Mortal Kombat fatalities of all time. Absolute chaos",
-      "original_url": "https://kotaku.com/the-12-best-mortal-kombat-fatalities-ever-list-ranked-mk1-mk2-2000694392",
-      "buzz_score": 82,
+      "tweet": "Dude, Cartoon Network is finally bringing back all those old Flash games. Man, we spent literal years of our lives on those things",
+      "original_url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "The 12 Best Mortal Kombat Fatalities Ever",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-05-09T14:04:24.622833+00:00"
+      "original_title": "Cartoon Network Flash Games",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-09T14:04:24.622820+00:00"
     },
     {
       "tweet": "Hungary’s actually throwing a party for that regime change. Someone finally got the boot",
@@ -673,6 +662,17 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
+      "tweet": "They really just ranked the best Mortal Kombat fatalities of all time. Absolute chaos",
+      "original_url": "https://kotaku.com/the-12-best-mortal-kombat-fatalities-ever-list-ranked-mk1-mk2-2000694392",
+      "buzz_score": 82,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The 12 Best Mortal Kombat Fatalities Ever",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-05-09T14:04:24.622833+00:00"
+    },
+    {
       "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
       "original_url": "https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london",
       "buzz_score": 82,
@@ -682,17 +682,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-05-02T17:31:56.245058+00:00"
-    },
-    {
-      "tweet": "Did you hear about that incident in Nottinghamshire? Someone hit five people with a car. At what point does the world just stop feeling real",
-      "original_url": "https://www.theguardian.com/uk-news/2026/may/09/man-arrested-after-five-people-were-hit-by-car-in-nottinghamshire-town",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Man arrested after five people were hit by car in Nottinghamshire town",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-09T21:59:44.066517+00:00"
     },
     {
       "tweet": "Bustle has a list of 60 bougie outfits that are supposedly cheap. Good luck with that",
@@ -990,6 +979,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-28T13:08:18.092926+00:00"
+    },
+    {
+      "tweet": "Did you hear about that incident in Nottinghamshire? Someone hit five people with a car. At what point does the world just stop feeling real",
+      "original_url": "https://www.theguardian.com/uk-news/2026/may/09/man-arrested-after-five-people-were-hit-by-car-in-nottinghamshire-town",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Man arrested after five people were hit by car in Nottinghamshire town",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-09T21:59:44.066517+00:00"
     },
     {
       "tweet": "You know that mint they give you at the end of the meal? Apparently it’s just a trick to get you out of the seat faster. We’re so predictable",
