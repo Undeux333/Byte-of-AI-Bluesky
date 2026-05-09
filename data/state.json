@@ -112,28 +112,6 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Hold on, the director of Superbad is doing the new Deathstroke and Bane movie for DC? How are we supposed to take that seriously",
-      "original_url": "https://www.polygon.com/deathstroke-bane-movie-superbad-director/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The DCU’s Deathstroke and Bane movie has a director you'll never see coming",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-05-09T16:06:04.668623+00:00"
-    },
-    {
-      "tweet": "Did you see they're streaming that UFC 328 card for free? Not even a PPV, just straight on there. Finally not bleeding us dry for once",
-      "original_url": "https://www.billboard.com/culture/product-recommendations/ufc-328-chimaev-strickland-how-to-watch-mma-online-free-1236239553/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "UFC 328 Livestream: Here’s Where to Watch Khamzat Chimaev vs. Sean Strickland Live Online for Free",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-09T16:06:04.668085+00:00"
-    },
-    {
       "tweet": "Hungary’s actually throwing a party for that regime change. Someone finally got the boot",
       "original_url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -684,6 +662,28 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
+      "tweet": "Hold on, the director of Superbad is doing the new Deathstroke and Bane movie for DC? How are we supposed to take that seriously",
+      "original_url": "https://www.polygon.com/deathstroke-bane-movie-superbad-director/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The DCU’s Deathstroke and Bane movie has a director you'll never see coming",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-05-09T16:06:04.668623+00:00"
+    },
+    {
+      "tweet": "Did you see they're streaming that UFC 328 card for free? Not even a PPV, just straight on there. Finally not bleeding us dry for once",
+      "original_url": "https://www.billboard.com/culture/product-recommendations/ufc-328-chimaev-strickland-how-to-watch-mma-online-free-1236239553/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "UFC 328 Livestream: Here’s Where to Watch Khamzat Chimaev vs. Sean Strickland Live Online for Free",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-05-09T16:06:04.668085+00:00"
+    },
+    {
       "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
       "original_url": "https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london",
       "buzz_score": 82,
@@ -693,28 +693,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-05-02T17:31:56.245058+00:00"
-    },
-    {
-      "tweet": "Strait of Hormuz is getting heated again. Can we just stop pretending this standoff is gonna end well for anyone",
-      "original_url": "https://www.theguardian.com/world/2026/may/09/neither-us-nor-iran-can-sustain-strait-of-hormuz-standoff-indefinitely",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Neither US nor Iran can sustain strait of Hormuz standoff indefinitely",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-09T16:06:04.669007+00:00"
-    },
-    {
-      "tweet": "Double Fine just unionized, making them the 14th team under Microsoft to do it. Guess the devs are just done with the corporate nonsense",
-      "original_url": "https://kotaku.com/psychonauts-maker-double-fine-just-became-the-14th-gaming-team-to-unionize-at-microsoft-2000694575",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Psychonauts Maker Double Fine Just Became The 14th Gaming Team To Unionize At Microsoft",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-05-09T16:06:04.668376+00:00"
     },
     {
       "tweet": "Bustle has a list of 60 bougie outfits that are supposedly cheap. Good luck with that",
@@ -1012,6 +990,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-28T13:08:18.092926+00:00"
+    },
+    {
+      "tweet": "Strait of Hormuz is getting heated again. Can we just stop pretending this standoff is gonna end well for anyone",
+      "original_url": "https://www.theguardian.com/world/2026/may/09/neither-us-nor-iran-can-sustain-strait-of-hormuz-standoff-indefinitely",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Neither US nor Iran can sustain strait of Hormuz standoff indefinitely",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-09T16:06:04.669007+00:00"
+    },
+    {
+      "tweet": "Double Fine just unionized, making them the 14th team under Microsoft to do it. Guess the devs are just done with the corporate nonsense",
+      "original_url": "https://kotaku.com/psychonauts-maker-double-fine-just-became-the-14th-gaming-team-to-unionize-at-microsoft-2000694575",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Psychonauts Maker Double Fine Just Became The 14th Gaming Team To Unionize At Microsoft",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-05-09T16:06:04.668376+00:00"
     },
     {
       "tweet": "That Australian by-election is a huge test for the One Nation Party. If they actually get an MP in, it’s not just a local thing anymore.",
