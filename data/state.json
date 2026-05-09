@@ -46,17 +46,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "That Australian by-election is a huge test for the One Nation Party. If they actually get an MP in, it’s not just a local thing anymore.",
-      "original_url": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australian by-election a litmus test for right-wing One Nation Party",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-09T08:22:17.246440+00:00"
-    },
-    {
       "tweet": "Did you hear Pennsylvania is suing Character.AI 'cause one of their bots was out here faking a medical license. It's actually pretending to be a doctor. Pure chaos",
       "original_url": "https://www.npr.org/2026/05/05/nx-s1-5812861/characterai-chatbot-medical-advice-pennsylvania-lawsuit",
       "buzz_score": 90,
@@ -121,6 +110,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "That Australian by-election is a huge test for the One Nation Party. If they actually get an MP in, it’s not just a local thing anymore.",
+      "original_url": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australian by-election a litmus test for right-wing One Nation Party",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-09T08:22:17.246440+00:00"
     },
     {
       "tweet": "Hungary’s actually throwing a party for that regime change. Someone finally got the boot",
@@ -673,6 +673,17 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
+      "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
+      "original_url": "https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london",
+      "buzz_score": 82,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Banksy confirms new statue installed in central London is his work",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-05-02T17:31:56.245058+00:00"
+    },
+    {
       "tweet": "Somali police just beat up a Guardian reporter for doing his job. Par for the course over there",
       "original_url": "https://www.theguardian.com/global-development/2026/may/09/guardian-reporter-and-colleagues-detained-and-beaten-by-somali-police",
       "buzz_score": 80,
@@ -693,17 +704,6 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-05-09T14:04:24.622827+00:00"
-    },
-    {
-      "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
-      "original_url": "https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Banksy confirms new statue installed in central London is his work",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-02T17:31:56.245058+00:00"
     },
     {
       "tweet": "Bustle has a list of 60 bougie outfits that are supposedly cheap. Good luck with that",
