@@ -2,28 +2,6 @@
   "last_collected": "2026-05-09T10:45:49.360478+00:00",
   "queue": [
     {
-      "tweet": "So apparently Russia and Ukraine are doing a ceasefire for this victory day parade. Can you imagine caring about a parade while all that's going on.",
-      "original_url": "https://www.theguardian.com/world/live/2026/may/09/peter-magyar-hungary-russia-ukraine-ceasefire-moscow-victory-day-parade-europe-latest-news-updates",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Three day Russia-Ukraine ceasefire begins as Moscow holds ‘victory day’ parade – Europe live",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-09T08:22:17.246171+00:00"
-    },
-    {
-      "tweet": "Hold on, Spain is prepping for a cruise ship full of people with hantavirus to dock. We really aren't doing the whole quarantine thing anymore, huh.",
-      "original_url": "https://www.aljazeera.com/news/2026/5/9/spains-canary-islands-brace-for-incoming-hantavirus-stricken-cruise-ship?traffic_source=rss",
-      "buzz_score": 78,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Spain’s Canary Islands brace for incoming hantavirus-stricken cruise ship",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-09T08:22:17.246010+00:00"
-    },
-    {
       "tweet": "That Australian by-election is a huge test for the One Nation Party. If they actually get an MP in, it’s not just a local thing anymore.",
       "original_url": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -684,17 +662,6 @@
       "added_at": "2026-05-02T17:31:56.245058+00:00"
     },
     {
-      "tweet": "Apparently my childhood ADHD is why I'm stressed out now. Like, tell me something I don't know.",
-      "original_url": "https://www.psypost.org/childhood-adhd-traits-linked-to-midlife-distress-with-societal-exclusion-playing-a-major-role/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Childhood ADHD traits linked to midlife distress, with societal exclusion playing a major role",
-      "source": "PsyPost",
-      "category": "psychology",
-      "added_at": "2026-05-09T10:45:49.359252+00:00"
-    },
-    {
       "tweet": "Bustle has a list of 60 bougie outfits that are supposedly cheap. Good luck with that",
       "original_url": "https://www.bustle.com/style/bougie-outfits-that-make-you-look-sexy-as-hell-theyre-so-cheap",
       "buzz_score": 80,
@@ -990,6 +957,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-28T13:08:18.092926+00:00"
+    },
+    {
+      "tweet": "Apparently my childhood ADHD is why I'm stressed out now. Like, tell me something I don't know.",
+      "original_url": "https://www.psypost.org/childhood-adhd-traits-linked-to-midlife-distress-with-societal-exclusion-playing-a-major-role/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Childhood ADHD traits linked to midlife distress, with societal exclusion playing a major role",
+      "source": "PsyPost",
+      "category": "psychology",
+      "added_at": "2026-05-09T10:45:49.359252+00:00"
     },
     {
       "tweet": "One Nation actually took that byelection seat. The Coalition vote just completely tanked.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 959,
+    "total_posted": 961,
     "total_collected": 3403
   },
-  "last_posted_at": "2026-05-09T11:45:24.600007+00:00"
+  "last_posted_at": "2026-05-09T12:48:34.965317+00:00"
 }
