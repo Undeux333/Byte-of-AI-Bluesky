@@ -2,28 +2,6 @@
   "last_collected": "2026-05-09T08:22:17.247559+00:00",
   "queue": [
     {
-      "tweet": "Four guys just got found guilty for that Haiti president assassination, but they still won't say who actually ordered it. Guess we’ll never know.",
-      "original_url": "https://www.nytimes.com/2026/05/08/world/americas/haiti-president-assassination-four-men-charged.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Four Men Found Guilty of Haiti President’s Assassination",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-09T08:22:17.246565+00:00"
-    },
-    {
-      "tweet": "Dude, ABC is saying the Trump administration is trying to chill their speech because of The View. Imagine thinking the biggest threat to your platform is a daytime talk show. Pure comedy.",
-      "original_url": "https://www.npr.org/2026/05/09/nx-s1-5816844/abc-trump-administration-free-speech",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "ABC argues Trump administration is trying to chill free speech",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-09T08:22:17.245995+00:00"
-    },
-    {
       "tweet": "So apparently Russia and Ukraine are doing a ceasefire for this victory day parade. Can you imagine caring about a parade while all that's going on.",
       "original_url": "https://www.theguardian.com/world/live/2026/may/09/peter-magyar-hungary-russia-ukraine-ceasefire-moscow-victory-day-parade-europe-latest-news-updates",
       "buzz_score": 82,
@@ -57,17 +35,6 @@
       "added_at": "2026-05-09T08:22:17.246440+00:00"
     },
     {
-      "tweet": "Hungary’s actually throwing a party for that regime change. Someone finally got the boot",
-      "original_url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Hungary's new PM to be sworn in during 'regime change' party",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-09T01:21:03.843806+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -90,26 +57,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Bustle has a list of 60 bougie outfits that are supposedly cheap. Good luck with that",
-      "original_url": "https://www.bustle.com/style/bougie-outfits-that-make-you-look-sexy-as-hell-theyre-so-cheap",
-      "buzz_score": 80,
+      "tweet": "Hungary’s actually throwing a party for that regime change. Someone finally got the boot",
+      "original_url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "60 Bougie Outfits That Make You Look Sexy As Hell — & They're So Cheap",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-05-09T01:21:03.844631+00:00"
-    },
-    {
-      "tweet": "That Farmgate case in South Africa is back on. Turns out you can’t just hide a mountain of cash and keep your job",
-      "original_url": "https://www.nytimes.com/2026/05/08/world/africa/south-africa-president-ramaphosa-court-ruling-impeachment.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Court Revives ‘Farmgate’ Case Against South African President",
-      "source": "NYT World",
+      "original_title": "Hungary's new PM to be sworn in during 'regime change' party",
+      "source": "BBC World",
       "category": "world",
-      "added_at": "2026-05-09T01:21:03.843809+00:00"
+      "added_at": "2026-05-09T01:21:03.843806+00:00"
     },
     {
       "tweet": "Did you hear Pennsylvania is suing Character.AI 'cause one of their bots was out here faking a medical license. It's actually pretending to be a doctor. Pure chaos",
@@ -178,15 +134,26 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "So apparently restaurants give you that mint at the end to make you feel like you owe them a bigger tip. It’s just psychology",
-      "original_url": "https://www.mentalfloss.com/random-facts/why-restaurants-give-out-candies-after-meals?utm_source=RSS",
-      "buzz_score": 75,
+      "tweet": "Bustle has a list of 60 bougie outfits that are supposedly cheap. Good luck with that",
+      "original_url": "https://www.bustle.com/style/bougie-outfits-that-make-you-look-sexy-as-hell-theyre-so-cheap",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Why Do Restaurants Give Out Candies After the Meal?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-05-09T01:21:03.843799+00:00"
+      "original_title": "60 Bougie Outfits That Make You Look Sexy As Hell — & They're So Cheap",
+      "source": "Bustle",
+      "category": "sex",
+      "added_at": "2026-05-09T01:21:03.844631+00:00"
+    },
+    {
+      "tweet": "That Farmgate case in South Africa is back on. Turns out you can’t just hide a mountain of cash and keep your job",
+      "original_url": "https://www.nytimes.com/2026/05/08/world/africa/south-africa-president-ramaphosa-court-ruling-impeachment.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Court Revives ‘Farmgate’ Case Against South African President",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-09T01:21:03.843809+00:00"
     },
     {
       "tweet": "So apparently 11,000 North Korean soldiers were sent to fight for Russia. Imagine dying in a war on the other side of the planet for someone else’s politics.",
@@ -728,28 +695,6 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Did you see Dua Lipa just popped up at the Tame Impala show in London? They literally just started playing Houdini together on stage. Wild.",
-      "original_url": "https://www.billboard.com/music/concerts/dua-lipa-surprise-appearance-tame-impala-london-1236243418/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Dua Lipa Makes Surprise Appearance at Tame Impala’s London O2 Show",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-09T08:22:17.246002+00:00"
-    },
-    {
-      "tweet": "Katy Perry, Future, and Tyla are headlining the World Cup opening ceremony. That lineup is all over the place.",
-      "original_url": "https://www.rollingstone.com/music/music-news/world-cup-opening-ceremony-katy-perry-future-lisa-tyla-1235560134/",
-      "buzz_score": 79,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Katy Perry, Future, Lisa, Tyla, and More to Headline U.S. World Cup Opening Ceremony",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-05-09T08:22:17.246816+00:00"
-    },
-    {
       "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
       "original_url": "https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london",
       "buzz_score": 82,
@@ -759,6 +704,17 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-05-02T17:31:56.245058+00:00"
+    },
+    {
+      "tweet": "So apparently restaurants give you that mint at the end to make you feel like you owe them a bigger tip. It’s just psychology",
+      "original_url": "https://www.mentalfloss.com/random-facts/why-restaurants-give-out-candies-after-meals?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Why Do Restaurants Give Out Candies After the Meal?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-05-09T01:21:03.843799+00:00"
     },
     {
       "tweet": "They finally convicted those guys in Miami for the Haitian president's assassination. Took long enough.",
@@ -1034,6 +990,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-04-28T13:08:18.092926+00:00"
+    },
+    {
+      "tweet": "Did you see Dua Lipa just popped up at the Tame Impala show in London? They literally just started playing Houdini together on stage. Wild.",
+      "original_url": "https://www.billboard.com/music/concerts/dua-lipa-surprise-appearance-tame-impala-london-1236243418/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Dua Lipa Makes Surprise Appearance at Tame Impala’s London O2 Show",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-05-09T08:22:17.246002+00:00"
+    },
+    {
+      "tweet": "Katy Perry, Future, and Tyla are headlining the World Cup opening ceremony. That lineup is all over the place.",
+      "original_url": "https://www.rollingstone.com/music/music-news/world-cup-opening-ceremony-katy-perry-future-lisa-tyla-1235560134/",
+      "buzz_score": 79,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Katy Perry, Future, Lisa, Tyla, and More to Headline U.S. World Cup Opening Ceremony",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-05-09T08:22:17.246816+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 953,
+    "total_posted": 955,
     "total_collected": 3387
   },
-  "last_posted_at": "2026-05-09T08:30:07.998067+00:00"
+  "last_posted_at": "2026-05-09T10:00:06.309467+00:00"
 }
