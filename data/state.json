@@ -2,28 +2,6 @@
   "last_collected": "2026-05-09T10:45:49.360478+00:00",
   "queue": [
     {
-      "tweet": "So apparently Russia is claiming they'll always be victorious, even while they're running a ceasefire. The irony is just loud.",
-      "original_url": "https://www.theguardian.com/world/2026/may/09/russia-putin-moscow-victory-day-parade-scaled-back",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Russia will always be victorious, says Putin at scaled-back Victory Day parade",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-09T10:45:49.358952+00:00"
-    },
-    {
-      "tweet": "Greece found a random explosive naval drone floating around. Can we just have one normal week.",
-      "original_url": "https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Greece examines mystery naval drone found in Ionian Sea",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-09T10:45:49.359500+00:00"
-    },
-    {
       "tweet": "So apparently Russia and Ukraine are doing a ceasefire for this victory day parade. Can you imagine caring about a parade while all that's going on.",
       "original_url": "https://www.theguardian.com/world/live/2026/may/09/peter-magyar-hungary-russia-ukraine-ceasefire-moscow-victory-day-parade-europe-latest-news-updates",
       "buzz_score": 82,
@@ -695,17 +673,6 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Apparently my childhood ADHD is why I'm stressed out now. Like, tell me something I don't know.",
-      "original_url": "https://www.psypost.org/childhood-adhd-traits-linked-to-midlife-distress-with-societal-exclusion-playing-a-major-role/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Childhood ADHD traits linked to midlife distress, with societal exclusion playing a major role",
-      "source": "PsyPost",
-      "category": "psychology",
-      "added_at": "2026-05-09T10:45:49.359252+00:00"
-    },
-    {
       "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
       "original_url": "https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london",
       "buzz_score": 82,
@@ -715,6 +682,17 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-05-02T17:31:56.245058+00:00"
+    },
+    {
+      "tweet": "Apparently my childhood ADHD is why I'm stressed out now. Like, tell me something I don't know.",
+      "original_url": "https://www.psypost.org/childhood-adhd-traits-linked-to-midlife-distress-with-societal-exclusion-playing-a-major-role/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Childhood ADHD traits linked to midlife distress, with societal exclusion playing a major role",
+      "source": "PsyPost",
+      "category": "psychology",
+      "added_at": "2026-05-09T10:45:49.359252+00:00"
     },
     {
       "tweet": "Bustle has a list of 60 bougie outfits that are supposedly cheap. Good luck with that",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 957,
+    "total_posted": 959,
     "total_collected": 3403
   },
-  "last_posted_at": "2026-05-09T10:53:22.543080+00:00"
+  "last_posted_at": "2026-05-09T11:45:24.600007+00:00"
 }
