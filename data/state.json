@@ -2,28 +2,6 @@
   "last_collected": "2026-05-09T19:20:38.708192+00:00",
   "queue": [
     {
-      "tweet": "Liverpool fans are booing Arne Slot already. I guess having no identity will do that to a team.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cqjp4nex0lyo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Boos, no intensity and no identity - what is Slot's Liverpool?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-09T19:20:38.706878+00:00"
-    },
-    {
-      "tweet": "Man, Bobby Cox died at 84. Feels like a whole era of baseball just left with him.",
-      "original_url": "https://www.npr.org/2026/05/09/g-s1-121311/bobby-cox-atlanta-braves-dies",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Bobby Cox, Hall of Fame manager of Atlanta Braves, dies at age 84",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-09T19:20:38.706327+00:00"
-    },
-    {
       "tweet": "Google just broke reCAPTCHA for de-googled Android phones. Classic.",
       "original_url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
       "buzz_score": 75,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 966,
+    "total_posted": 968,
     "total_collected": 3451
   },
-  "last_posted_at": "2026-05-09T19:28:06.760589+00:00"
+  "last_posted_at": "2026-05-09T20:14:05.903324+00:00"
 }
