@@ -101,17 +101,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Caitlin Clark said she was feeling all rusty and anxious for that first WNBA game back. Even the pros get those first-day jitters.",
-      "original_url": "https://www.espn.com/wnba/story/_/id/48724871/caitlin-clark-felt-good-lingering-back-issue-official-return-court",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fever's Clark rusty but 'felt good' in official re...",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-05-10T00:11:38.826296+00:00"
-    },
-    {
       "tweet": "Did you hear Pennsylvania is suing Character.AI 'cause one of their bots was out here faking a medical license. It's actually pretending to be a doctor. Pure chaos",
       "original_url": "https://www.npr.org/2026/05/05/nx-s1-5812861/characterai-chatbot-medical-advice-pennsylvania-lawsuit",
       "buzz_score": 90,
@@ -167,17 +156,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Man, that Tucker Carlson bit on SNL was spot on. Asking questions until his brain just falls out, honestly.",
-      "original_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-weekend-update-tucker-carlson-triggered-met-galas-clown-outfits-1235560243/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘SNL’ Weekend Update: Tucker Carlson Rages at Met Gala, Invents New Conspiracy",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-05-10T06:43:54.448059+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -187,6 +165,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Caitlin Clark said she was feeling all rusty and anxious for that first WNBA game back. Even the pros get those first-day jitters.",
+      "original_url": "https://www.espn.com/wnba/story/_/id/48724871/caitlin-clark-felt-good-lingering-back-issue-official-return-court",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Fever's Clark rusty but 'felt good' in official re...",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-05-10T00:11:38.826296+00:00"
     },
     {
       "tweet": "Dude, Cartoon Network is finally bringing back all those old Flash games. Man, we spent literal years of our lives on those things",
@@ -750,37 +739,15 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Colin Boyce is already looking at moving to One Nation after that byelection. At this point, what's even the point of picking a side.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/may/10/nationals-mp-colin-boyce-says-hes-considering-move-to-one-nation-after-wake-up-call-in-farrer-byelection",
-      "buzz_score": 80,
+      "tweet": "Man, that Tucker Carlson bit on SNL was spot on. Asking questions until his brain just falls out, honestly.",
+      "original_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-weekend-update-tucker-carlson-triggered-met-galas-clown-outfits-1235560243/",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Nationals MP Colin Boyce says he’s considering move to One Nation after ‘wake-up call’ in Farrer byelection",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-10T06:43:54.448572+00:00"
-    },
-    {
-      "tweet": "So Vijay just got sworn in as Chief Minister after all that drama. It's crazy seeing a movie star just run the whole state now.",
-      "original_url": "https://variety.com/2026/politics/news/vijay-sworn-in-tamil-nadu-chief-minister-1236742532/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Indian Film Star Vijay Sworn In as Tamil Nadu Chief Minister After Days of High Drama",
-      "source": "Variety",
+      "original_title": "‘SNL’ Weekend Update: Tucker Carlson Rages at Met Gala, Invents New Conspiracy",
+      "source": "Rolling Stone",
       "category": "entertainment",
-      "added_at": "2026-05-10T06:43:54.448184+00:00"
-    },
-    {
-      "tweet": "So apparently that Strickland vs Chimaev fight happened and it was just as mid as everyone figured. Total snooze.",
-      "original_url": "https://www.aljazeera.com/sports/2026/5/10/strickland-vs-chimaev-ufc-328-strickland-downs-chimaev-on-split?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Strickland vs Chimaev – UFC 328: Strickland downs Chimaev on split decision",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-10T06:43:54.447378+00:00"
+      "added_at": "2026-05-10T06:43:54.448059+00:00"
     },
     {
       "tweet": "They really just ranked the best Mortal Kombat fatalities of all time. Absolute chaos",
@@ -1045,6 +1012,39 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-29T22:38:39.096224+00:00"
+    },
+    {
+      "tweet": "Colin Boyce is already looking at moving to One Nation after that byelection. At this point, what's even the point of picking a side.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/may/10/nationals-mp-colin-boyce-says-hes-considering-move-to-one-nation-after-wake-up-call-in-farrer-byelection",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Nationals MP Colin Boyce says he’s considering move to One Nation after ‘wake-up call’ in Farrer byelection",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-10T06:43:54.448572+00:00"
+    },
+    {
+      "tweet": "So Vijay just got sworn in as Chief Minister after all that drama. It's crazy seeing a movie star just run the whole state now.",
+      "original_url": "https://variety.com/2026/politics/news/vijay-sworn-in-tamil-nadu-chief-minister-1236742532/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Indian Film Star Vijay Sworn In as Tamil Nadu Chief Minister After Days of High Drama",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-05-10T06:43:54.448184+00:00"
+    },
+    {
+      "tweet": "So apparently that Strickland vs Chimaev fight happened and it was just as mid as everyone figured. Total snooze.",
+      "original_url": "https://www.aljazeera.com/sports/2026/5/10/strickland-vs-chimaev-ufc-328-strickland-downs-chimaev-on-split?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Strickland vs Chimaev – UFC 328: Strickland downs Chimaev on split decision",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-05-10T06:43:54.447378+00:00"
     }
   ],
   "seen_urls": [
