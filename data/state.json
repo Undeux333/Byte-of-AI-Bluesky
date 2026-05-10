@@ -2,28 +2,6 @@
   "last_collected": "2026-05-10T09:54:33.492072+00:00",
   "queue": [
     {
-      "tweet": "Did you see that cargo ship off Qatar? Some random projectile just lit the thing on fire out of nowhere. We can't have nice things.",
-      "original_url": "https://www.npr.org/2026/05/10/nx-s1-5817437/iran-cargo-ship-hit-off-qatar",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Iran ceasefire tested as cargo ship catches fire after being hit off Qatar's coast",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-10T09:54:33.491163+00:00"
-    },
-    {
-      "tweet": "No way, that Sekiro anime is hitting theaters this fall. Gonna be insane.",
-      "original_url": "https://hypebeast.com/2026/5/sekiro-no-defeat-anime-theatrical-screening-release-info",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘Sekiro: No Defeat’ Anime Heads to Theaters This Fall",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-05-10T09:54:33.491684+00:00"
-    },
-    {
       "tweet": "Hold on, that cruise ship in the Canary Islands has a hantavirus outbreak? I’m never leaving my house again.",
       "original_url": "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html",
       "buzz_score": 80,
@@ -101,17 +79,6 @@
       "added_at": "2026-05-10T04:12:55.258145+00:00"
     },
     {
-      "tweet": "Some guy on HackerNews built a web server in assembly just to find some meaning in life. We really just reach for anything these days, huh.",
-      "original_url": "https://github.com/imtomt/ymawky",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-10T06:43:54.448819+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -132,6 +99,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Some guy on HackerNews built a web server in assembly just to find some meaning in life. We really just reach for anything these days, huh.",
+      "original_url": "https://github.com/imtomt/ymawky",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-10T06:43:54.448819+00:00"
     },
     {
       "tweet": "Did you hear Pennsylvania is suing Character.AI 'cause one of their bots was out here faking a medical license. It's actually pretending to be a doctor. Pure chaos",
@@ -189,17 +167,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Be careful with those hotel bookings, man. Apparently scammers are hijacking reservations now. Can't trust a single phone call.",
-      "original_url": "https://www.wired.com/story/reservation-hijacks-scam-safety-tips/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘Reservation Hijacking’ Scams Target Travelers. Here’s How to Stay Safe",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-05-10T09:54:33.491780+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -209,6 +176,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Be careful with those hotel bookings, man. Apparently scammers are hijacking reservations now. Can't trust a single phone call.",
+      "original_url": "https://www.wired.com/story/reservation-hijacks-scam-safety-tips/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘Reservation Hijacking’ Scams Target Travelers. Here’s How to Stay Safe",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-05-10T09:54:33.491780+00:00"
     },
     {
       "tweet": "Dude, Cartoon Network is finally bringing back all those old Flash games. Man, we spent literal years of our lives on those things",
@@ -772,17 +750,6 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Scientists finally found the 'stop scratching' switch in our brains. That's just how we work.",
-      "original_url": "https://www.sciencedaily.com/releases/2026/05/260509210654.htm",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Scientists discover the brain’s hidden “stop scratching” switch",
-      "source": "ScienceDaily",
-      "category": "science",
-      "added_at": "2026-05-10T09:54:33.491878+00:00"
-    },
-    {
       "tweet": "They really just ranked the best Mortal Kombat fatalities of all time. Absolute chaos",
       "original_url": "https://kotaku.com/the-12-best-mortal-kombat-fatalities-ever-list-ranked-mk1-mk2-2000694392",
       "buzz_score": 82,
@@ -803,6 +770,17 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-05-02T17:31:56.245058+00:00"
+    },
+    {
+      "tweet": "Scientists finally found the 'stop scratching' switch in our brains. That's just how we work.",
+      "original_url": "https://www.sciencedaily.com/releases/2026/05/260509210654.htm",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Scientists discover the brain’s hidden “stop scratching” switch",
+      "source": "ScienceDaily",
+      "category": "science",
+      "added_at": "2026-05-10T09:54:33.491878+00:00"
     },
     {
       "tweet": "Caitlin Clark said she was feeling all rusty and anxious for that first WNBA game back. Even the pros get those first-day jitters.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 981,
+    "total_posted": 983,
     "total_collected": 3523
   },
-  "last_posted_at": "2026-05-10T10:01:48.679973+00:00"
+  "last_posted_at": "2026-05-10T11:02:05.712258+00:00"
 }
