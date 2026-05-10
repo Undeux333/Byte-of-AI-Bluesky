@@ -2,28 +2,6 @@
   "last_collected": "2026-05-10T15:11:36.173358+00:00",
   "queue": [
     {
-      "tweet": "So apparently we're just letting LLMs edit our work docs now, and half the time they're just corrupting the file instead. Guess I'm doing it myself.",
-      "original_url": "https://arxiv.org/abs/2604.15597",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "LLMs corrupt your documents when you delegate",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-10T15:11:36.172783+00:00"
-    },
-    {
-      "tweet": "OKC is 7-0 and they didn't even need Jalen Williams to smoke the Lakers. These guys are scary.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48727515/thunder-blow-lakers-game-3-improve-7-0-playoffs",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "OKC improves to 7-0 after blitzing L.A. in Game 3",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-05-10T15:11:36.172796+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -44,17 +22,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Dude, people are actually hosting those old Cartoon Network Flash games again. We were all spending way too much time playing those in the school library instead of working. Man.",
-      "original_url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Cartoon Network Flash Games",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-10T06:43:54.447368+00:00"
     },
     {
       "tweet": "Did you hear Pennsylvania is suing Character.AI 'cause one of their bots was out here faking a medical license. It's actually pretending to be a doctor. Pure chaos",
@@ -123,15 +90,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Hold on, scientists just found out that volcano cloud from 2022 is actually eating methane. Turns out the earth has its own ways of fixing our mess.",
-      "original_url": "https://www.sciencedaily.com/releases/2026/05/260509210640.htm",
-      "buzz_score": 80,
+      "tweet": "Dude, people are actually hosting those old Cartoon Network Flash games again. We were all spending way too much time playing those in the school library instead of working. Man.",
+      "original_url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Scientists stunned as volcano cloud destroys methane in the atmosphere",
-      "source": "ScienceDaily",
-      "category": "science",
-      "added_at": "2026-05-10T06:43:54.447685+00:00"
+      "original_title": "Cartoon Network Flash Games",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-10T06:43:54.447368+00:00"
     },
     {
       "tweet": "So apparently the EU is trying to label VPNs as a loophole that needs closing. Like, that's literally the only point of having one. Just admitting they want total control tho",
@@ -706,15 +673,15 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Google just broke reCAPTCHA on purpose for anyone running de-googled Android. That’s just being petty.",
-      "original_url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "tweet": "Hold on, scientists just found out that volcano cloud from 2022 is actually eating methane. Turns out the earth has its own ways of fixing our mess.",
+      "original_url": "https://www.sciencedaily.com/releases/2026/05/260509210640.htm",
       "buzz_score": 80,
-      "buzz_score2": 90,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Google broke reCAPTCHA for de-googled Android users",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-10T15:11:36.173103+00:00"
+      "original_title": "Scientists stunned as volcano cloud destroys methane in the atmosphere",
+      "source": "ScienceDaily",
+      "category": "science",
+      "added_at": "2026-05-10T06:43:54.447685+00:00"
     },
     {
       "tweet": "They really just ranked the best Mortal Kombat fatalities of all time. Absolute chaos",
@@ -739,37 +706,15 @@
       "added_at": "2026-05-02T17:31:56.245058+00:00"
     },
     {
-      "tweet": "Madonna said there’s songs of hers she never wants to hear again. We all have that one song we're sick of playing, right.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/madonna-favorite-least-favorite-madonna-songs?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
+      "tweet": "Google just broke reCAPTCHA on purpose for anyone running de-googled Android. That’s just being petty.",
+      "original_url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "buzz_score": 80,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Madonna’s Favorite (And Least Favorite) Madonna Songs",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-05-10T06:43:54.448309+00:00"
-    },
-    {
-      "tweet": "SNL just did that bit about the conflict-free movies moms love. We've all sat through one of those and just stared at the wall.",
-      "original_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-matt-damon-stars-your-mothers-favorite-movie-1235560245/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘SNL’: Matt Damon Stars in Your Mother’s Favorite Movie",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-05-10T06:43:54.447936+00:00"
-    },
-    {
-      "tweet": "They're saying that big Atlantic ocean current is finally slowing down for real. I mean, what are we even supposed to do about that?",
-      "original_url": "https://www.sciencedaily.com/releases/2026/05/260509210639.htm",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Scientists say a critical Atlantic ocean current is weakening and the world could feel the impact",
-      "source": "ScienceDaily",
-      "category": "science",
-      "added_at": "2026-05-10T06:43:54.447812+00:00"
+      "original_title": "Google broke reCAPTCHA for de-googled Android users",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-10T15:11:36.173103+00:00"
     },
     {
       "tweet": "Caitlin Clark said she was feeling all rusty and anxious for that first WNBA game back. Even the pros get those first-day jitters.",
@@ -1001,6 +946,39 @@
       "source": "TechCrunch",
       "category": "tech",
       "added_at": "2026-04-30T04:49:22.920767+00:00"
+    },
+    {
+      "tweet": "Madonna said there’s songs of hers she never wants to hear again. We all have that one song we're sick of playing, right.",
+      "original_url": "https://www.mentalfloss.com/entertainment/music/madonna-favorite-least-favorite-madonna-songs?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Madonna’s Favorite (And Least Favorite) Madonna Songs",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-05-10T06:43:54.448309+00:00"
+    },
+    {
+      "tweet": "SNL just did that bit about the conflict-free movies moms love. We've all sat through one of those and just stared at the wall.",
+      "original_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-matt-damon-stars-your-mothers-favorite-movie-1235560245/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "‘SNL’: Matt Damon Stars in Your Mother’s Favorite Movie",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-05-10T06:43:54.447936+00:00"
+    },
+    {
+      "tweet": "They're saying that big Atlantic ocean current is finally slowing down for real. I mean, what are we even supposed to do about that?",
+      "original_url": "https://www.sciencedaily.com/releases/2026/05/260509210639.htm",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Scientists say a critical Atlantic ocean current is weakening and the world could feel the impact",
+      "source": "ScienceDaily",
+      "category": "science",
+      "added_at": "2026-05-10T06:43:54.447812+00:00"
     },
     {
       "tweet": "There’s actually a laboratory now just to check if chocolate is high quality. Guess someone has to make sure we're not eating garbage.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 990,
+    "total_posted": 992,
     "total_collected": 3547
   },
-  "last_posted_at": "2026-05-10T15:20:14.776394+00:00"
+  "last_posted_at": "2026-05-10T16:12:43.521121+00:00"
 }
