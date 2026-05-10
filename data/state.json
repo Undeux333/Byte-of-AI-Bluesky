@@ -673,17 +673,6 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Hold on, scientists just found out that volcano cloud from 2022 is actually eating methane. Turns out the earth has its own ways of fixing our mess.",
-      "original_url": "https://www.sciencedaily.com/releases/2026/05/260509210640.htm",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Scientists stunned as volcano cloud destroys methane in the atmosphere",
-      "source": "ScienceDaily",
-      "category": "science",
-      "added_at": "2026-05-10T06:43:54.447685+00:00"
-    },
-    {
       "tweet": "They really just ranked the best Mortal Kombat fatalities of all time. Absolute chaos",
       "original_url": "https://kotaku.com/the-12-best-mortal-kombat-fatalities-ever-list-ranked-mk1-mk2-2000694392",
       "buzz_score": 82,
@@ -706,15 +695,15 @@
       "added_at": "2026-05-02T17:31:56.245058+00:00"
     },
     {
-      "tweet": "Google just broke reCAPTCHA on purpose for anyone running de-googled Android. That’s just being petty.",
-      "original_url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "tweet": "Hold on, scientists just found out that volcano cloud from 2022 is actually eating methane. Turns out the earth has its own ways of fixing our mess.",
+      "original_url": "https://www.sciencedaily.com/releases/2026/05/260509210640.htm",
       "buzz_score": 80,
-      "buzz_score2": 90,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Google broke reCAPTCHA for de-googled Android users",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-10T15:11:36.173103+00:00"
+      "original_title": "Scientists stunned as volcano cloud destroys methane in the atmosphere",
+      "source": "ScienceDaily",
+      "category": "science",
+      "added_at": "2026-05-10T06:43:54.447685+00:00"
     },
     {
       "tweet": "Caitlin Clark said she was feeling all rusty and anxious for that first WNBA game back. Even the pros get those first-day jitters.",
@@ -946,6 +935,17 @@
       "source": "TechCrunch",
       "category": "tech",
       "added_at": "2026-04-30T04:49:22.920767+00:00"
+    },
+    {
+      "tweet": "Google just broke reCAPTCHA on purpose for anyone running de-googled Android. That’s just being petty.",
+      "original_url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Google broke reCAPTCHA for de-googled Android users",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-10T15:11:36.173103+00:00"
     },
     {
       "tweet": "Madonna said there’s songs of hers she never wants to hear again. We all have that one song we're sick of playing, right.",
