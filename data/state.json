@@ -2,28 +2,6 @@
   "last_collected": "2026-05-10T12:39:27.726205+00:00",
   "queue": [
     {
-      "tweet": "Did you see this? The army literally had to parachute onto some random island just to help a guy with a virus. That’s wild.",
-      "original_url": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Army parachutes onto remote island to help Briton with suspected hantavirus",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-10T12:39:27.724781+00:00"
-    },
-    {
-      "tweet": "Vivo’s new phone has the best cameras, but I’m still just taking pictures of my lunch. We’re all doing it.",
-      "original_url": "https://www.theverge.com/tech/926067/vivos-x300-ultra-has-the-best-cameras-in-any-phone",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Vivo’s X300 Ultra has the best cameras in any phone",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-05-10T12:39:27.725213+00:00"
-    },
-    {
       "tweet": "Dude, people are actually hosting those old Cartoon Network Flash games again. We were all spending way too much time playing those in the school library instead of working. Man.",
       "original_url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
       "buzz_score": 85,
@@ -33,17 +11,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-05-10T06:43:54.447368+00:00"
-    },
-    {
-      "tweet": "Hold on, scientists just found out that volcano cloud from 2022 is actually eating methane. Turns out the earth has its own ways of fixing our mess.",
-      "original_url": "https://www.sciencedaily.com/releases/2026/05/260509210640.htm",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Scientists stunned as volcano cloud destroys methane in the atmosphere",
-      "source": "ScienceDaily",
-      "category": "science",
-      "added_at": "2026-05-10T06:43:54.447685+00:00"
     },
     {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
@@ -68,48 +35,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Madonna said there’s songs of hers she never wants to hear again. We all have that one song we're sick of playing, right.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/madonna-favorite-least-favorite-madonna-songs?utm_source=RSS",
-      "buzz_score": 75,
+      "tweet": "Hold on, scientists just found out that volcano cloud from 2022 is actually eating methane. Turns out the earth has its own ways of fixing our mess.",
+      "original_url": "https://www.sciencedaily.com/releases/2026/05/260509210640.htm",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Madonna’s Favorite (And Least Favorite) Madonna Songs",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-05-10T06:43:54.448309+00:00"
-    },
-    {
-      "tweet": "SNL just did that bit about the conflict-free movies moms love. We've all sat through one of those and just stared at the wall.",
-      "original_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-matt-damon-stars-your-mothers-favorite-movie-1235560245/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘SNL’: Matt Damon Stars in Your Mother’s Favorite Movie",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-05-10T06:43:54.447936+00:00"
-    },
-    {
-      "tweet": "They're saying that big Atlantic ocean current is finally slowing down for real. I mean, what are we even supposed to do about that?",
-      "original_url": "https://www.sciencedaily.com/releases/2026/05/260509210639.htm",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Scientists say a critical Atlantic ocean current is weakening and the world could feel the impact",
+      "original_title": "Scientists stunned as volcano cloud destroys methane in the atmosphere",
       "source": "ScienceDaily",
       "category": "science",
-      "added_at": "2026-05-10T06:43:54.447812+00:00"
-    },
-    {
-      "tweet": "So apparently the EU is trying to label VPNs as a loophole that needs closing. Like, that's literally the only point of having one. Just admitting they want total control tho",
-      "original_url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\"",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-10T04:12:55.258145+00:00"
+      "added_at": "2026-05-10T06:43:54.447685+00:00"
     },
     {
       "tweet": "Did you hear Pennsylvania is suing Character.AI 'cause one of their bots was out here faking a medical license. It's actually pretending to be a doctor. Pure chaos",
@@ -178,15 +112,48 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Some guy on HackerNews built a web server in assembly just to find some meaning in life. We really just reach for anything these days, huh.",
-      "original_url": "https://github.com/imtomt/ymawky",
-      "buzz_score": 70,
+      "tweet": "Madonna said there’s songs of hers she never wants to hear again. We all have that one song we're sick of playing, right.",
+      "original_url": "https://www.mentalfloss.com/entertainment/music/madonna-favorite-least-favorite-madonna-songs?utm_source=RSS",
+      "buzz_score": 75,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "original_title": "Madonna’s Favorite (And Least Favorite) Madonna Songs",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-05-10T06:43:54.448309+00:00"
+    },
+    {
+      "tweet": "SNL just did that bit about the conflict-free movies moms love. We've all sat through one of those and just stared at the wall.",
+      "original_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-matt-damon-stars-your-mothers-favorite-movie-1235560245/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "‘SNL’: Matt Damon Stars in Your Mother’s Favorite Movie",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-05-10T06:43:54.447936+00:00"
+    },
+    {
+      "tweet": "They're saying that big Atlantic ocean current is finally slowing down for real. I mean, what are we even supposed to do about that?",
+      "original_url": "https://www.sciencedaily.com/releases/2026/05/260509210639.htm",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Scientists say a critical Atlantic ocean current is weakening and the world could feel the impact",
+      "source": "ScienceDaily",
+      "category": "science",
+      "added_at": "2026-05-10T06:43:54.447812+00:00"
+    },
+    {
+      "tweet": "So apparently the EU is trying to label VPNs as a loophole that needs closing. Like, that's literally the only point of having one. Just admitting they want total control tho",
+      "original_url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\"",
       "source": "HackerNews",
       "category": "tech",
-      "added_at": "2026-05-10T06:43:54.448819+00:00"
+      "added_at": "2026-05-10T04:12:55.258145+00:00"
     },
     {
       "tweet": "Dude, Cartoon Network is finally bringing back all those old Flash games. Man, we spent literal years of our lives on those things",
@@ -750,28 +717,6 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Saudi Aramco profits are up like 26 percent while everything else is a mess. Guess they’re doing just fine.",
-      "original_url": "https://www.theguardian.com/business/2026/may/10/saudi-aramco-profits-jump-despite-conflict-middle-east",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Saudi Aramco profits jump despite conflict in Middle East",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-10T12:39:27.724798+00:00"
-    },
-    {
-      "tweet": "Daniel Dubois got knocked down twice and still won that title fight. Absolute savage.",
-      "original_url": "https://www.bbc.com/sport/boxing/videos/c78k049mz9zo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Dubois beats Wardley in epic world title fight",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-10T12:39:27.724791+00:00"
-    },
-    {
       "tweet": "They really just ranked the best Mortal Kombat fatalities of all time. Absolute chaos",
       "original_url": "https://kotaku.com/the-12-best-mortal-kombat-fatalities-ever-list-ranked-mk1-mk2-2000694392",
       "buzz_score": 82,
@@ -792,6 +737,17 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-05-02T17:31:56.245058+00:00"
+    },
+    {
+      "tweet": "Some guy on HackerNews built a web server in assembly just to find some meaning in life. We really just reach for anything these days, huh.",
+      "original_url": "https://github.com/imtomt/ymawky",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-10T06:43:54.448819+00:00"
     },
     {
       "tweet": "Caitlin Clark said she was feeling all rusty and anxious for that first WNBA game back. Even the pros get those first-day jitters.",
@@ -1023,6 +979,28 @@
       "source": "TechCrunch",
       "category": "tech",
       "added_at": "2026-04-30T04:49:22.920767+00:00"
+    },
+    {
+      "tweet": "Saudi Aramco profits are up like 26 percent while everything else is a mess. Guess they’re doing just fine.",
+      "original_url": "https://www.theguardian.com/business/2026/may/10/saudi-aramco-profits-jump-despite-conflict-middle-east",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Saudi Aramco profits jump despite conflict in Middle East",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-10T12:39:27.724798+00:00"
+    },
+    {
+      "tweet": "Daniel Dubois got knocked down twice and still won that title fight. Absolute savage.",
+      "original_url": "https://www.bbc.com/sport/boxing/videos/c78k049mz9zo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Dubois beats Wardley in epic world title fight",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-10T12:39:27.724791+00:00"
     },
     {
       "tweet": "Israel just deported those guys from the Gaza flotilla. That whole thing is just a never-ending mess.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 986,
+    "total_posted": 988,
     "total_collected": 3539
   },
-  "last_posted_at": "2026-05-10T12:47:13.866805+00:00"
+  "last_posted_at": "2026-05-10T14:12:23.953967+00:00"
 }
