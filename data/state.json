@@ -2,17 +2,6 @@
   "last_collected": "2026-05-10T23:05:55.364702+00:00",
   "queue": [
     {
-      "tweet": "Did you see the YC scandals list? It's wild how we call it 'innovation' when they're just doing the same old stuff with a better pitch deck. Gross.",
-      "original_url": "https://ycombinator.fyi/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "YC's Biggest Scandals",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-10T23:05:55.363466+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -90,28 +79,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "That VAR call at London Stadium had me losing it for four straight minutes. At this point we're just guessing.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c0m2rkwm87po?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Biggest VAR call ever? Four chaotic minutes that may define the season",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-10T23:05:55.363476+00:00"
-    },
-    {
-      "tweet": "Hold on, unidentified flying objects just hit a cargo ship in the Hormuz Strait. What year is it.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/south-korea-says-ship-was-struck-by-unidentified-flying-objects-in-hormuz?traffic_source=rss",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "South Korea says ship was struck by ‘unidentified flying objects’ in Hormuz",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-10T20:08:24.955002+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -121,6 +88,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "That VAR call at London Stadium had me losing it for four straight minutes. At this point we're just guessing.",
+      "original_url": "https://www.bbc.com/sport/football/articles/c0m2rkwm87po?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Biggest VAR call ever? Four chaotic minutes that may define the season",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-10T23:05:55.363476+00:00"
     },
     {
       "tweet": "Dude, people are actually hosting those old Cartoon Network Flash games again. We were all spending way too much time playing those in the school library instead of working. Man.",
@@ -706,6 +684,39 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
+      "tweet": "Hold on, unidentified flying objects just hit a cargo ship in the Hormuz Strait. What year is it.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/south-korea-says-ship-was-struck-by-unidentified-flying-objects-in-hormuz?traffic_source=rss",
+      "buzz_score": 82,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "South Korea says ship was struck by ‘unidentified flying objects’ in Hormuz",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-05-10T20:08:24.955002+00:00"
+    },
+    {
+      "tweet": "They really just ranked the best Mortal Kombat fatalities of all time. Absolute chaos",
+      "original_url": "https://kotaku.com/the-12-best-mortal-kombat-fatalities-ever-list-ranked-mk1-mk2-2000694392",
+      "buzz_score": 82,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The 12 Best Mortal Kombat Fatalities Ever",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-05-09T14:04:24.622833+00:00"
+    },
+    {
+      "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
+      "original_url": "https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london",
+      "buzz_score": 82,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Banksy confirms new statue installed in central London is his work",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-05-02T17:31:56.245058+00:00"
+    },
+    {
       "tweet": "Modi effectively cleared out the opposition in India. It's crazy how fast a country just stops having a choice.",
       "original_url": "https://www.nytimes.com/2026/05/10/world/india-modi-elections-trump-iran-proposal.html",
       "buzz_score": 80,
@@ -759,28 +770,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-05-10T23:05:55.363474+00:00"
-    },
-    {
-      "tweet": "They really just ranked the best Mortal Kombat fatalities of all time. Absolute chaos",
-      "original_url": "https://kotaku.com/the-12-best-mortal-kombat-fatalities-ever-list-ranked-mk1-mk2-2000694392",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The 12 Best Mortal Kombat Fatalities Ever",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-05-09T14:04:24.622833+00:00"
-    },
-    {
-      "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
-      "original_url": "https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Banksy confirms new statue installed in central London is his work",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-02T17:31:56.245058+00:00"
     },
     {
       "tweet": "Hold on, scientists just found out that volcano cloud from 2022 is actually eating methane. Turns out the earth has its own ways of fixing our mess.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1001,
+    "total_posted": 1002,
     "total_collected": 3589
   },
-  "last_posted_at": "2026-05-10T23:12:37.891130+00:00"
+  "last_posted_at": "2026-05-11T00:05:40.769235+00:00"
 }
