@@ -2,28 +2,6 @@
   "last_collected": "2026-05-11T16:44:24.199402+00:00",
   "queue": [
     {
-      "tweet": "Discord Nitro gives you Fallout 4 for free now. Finally getting something back for the subscription.",
-      "original_url": "https://kotaku.com/discord-nitro-subscribers-can-now-play-stardew-valley-and-fallout-4-for-free-with-game-pass-starter-edition-2000694855",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Discord Nitro Subscribers Can Now Play Stardew Valley And Fallout 4 For Free With Game Pass ‘Starter Edition’",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-05-11T14:01:26.355927+00:00"
-    },
-    {
-      "tweet": "Barcelona is basically a giant street party right now after winning La Liga. I’d love to be there.",
-      "original_url": "https://www.aljazeera.com/sports/2026/5/11/barcelona-fans-celebrate-winning-la-liga-title-in-el-clasico?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Barcelona fans celebrate winning La Liga title in El Clasico",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-11T14:01:26.355545+00:00"
-    },
-    {
       "tweet": "Louis Rossmann is actually footing the bill for that OrcaSlicer dev facing legal threats. Finally someone with a spine.",
       "original_url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
       "buzz_score": 85,
@@ -121,17 +99,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "Modi's out here asking everyone to stop buying gold and skip vacations 'cause of the war. Are we really gonna just listen to that",
-      "original_url": "https://www.nytimes.com/2026/05/11/world/asia/modi-indians-gold-weddings-fuel-economy-iran.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Modi Urges Indians to Buy Less Gold and Skip Foreign Trips as Iran War Strains Economy",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-11T16:44:24.197884+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -728,15 +695,15 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Dude, the Wizards actually landed the number one pick. They’re somehow gonna mess this up too.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48713262/2026-nba-mock-draft-pick-projections-picks-post-lottery-dybantsa-peterson",
-      "buzz_score": 80,
+      "tweet": "Modi's out here asking everyone to stop buying gold and skip vacations 'cause of the war. Are we really gonna just listen to that",
+      "original_url": "https://www.nytimes.com/2026/05/11/world/asia/modi-indians-gold-weddings-fuel-economy-iran.html",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "The Wizards have the No. 1 pick! Updated mock draf...",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-05-11T16:44:24.198370+00:00"
+      "original_title": "Modi Urges Indians to Buy Less Gold and Skip Foreign Trips as Iran War Strains Economy",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-11T16:44:24.197884+00:00"
     },
     {
       "tweet": "They really just ranked the best Mortal Kombat fatalities of all time. Absolute chaos",
@@ -1001,6 +968,17 @@
       "source": "TechCrunch",
       "category": "tech",
       "added_at": "2026-04-30T04:49:22.920767+00:00"
+    },
+    {
+      "tweet": "Dude, the Wizards actually landed the number one pick. They’re somehow gonna mess this up too.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48713262/2026-nba-mock-draft-pick-projections-picks-post-lottery-dybantsa-peterson",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Wizards have the No. 1 pick! Updated mock draf...",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-05-11T16:44:24.198370+00:00"
     },
     {
       "tweet": "Some council staff called the Pink Ops were just hiring their friends. Shameless",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1010,
+    "total_posted": 1012,
     "total_collected": 3637
   },
-  "last_posted_at": "2026-05-11T16:51:23.215111+00:00"
+  "last_posted_at": "2026-05-11T18:30:16.538742+00:00"
 }
