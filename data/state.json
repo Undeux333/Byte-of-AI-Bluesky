@@ -2,28 +2,6 @@
   "last_collected": "2026-05-11T20:11:26.383815+00:00",
   "queue": [
     {
-      "tweet": "Trump says the Iran ceasefire is on massive life support today. Just another Tuesday in this timeline.",
-      "original_url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump says Iran ceasefire is on 'massive life support'",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-11T20:11:26.382414+00:00"
-    },
-    {
-      "tweet": "Hundreds of families are fleeing their homes in Mexico because of drug gangs right now. Absolute nightmare.",
-      "original_url": "https://www.theguardian.com/world/2026/may/11/drug-gang-attacks-force-hundreds-of-indigenous-families-to-flee-in-mexico",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Drug gang attacks ‘force hundreds of Indigenous families to flee’ in Mexico",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-11T20:11:26.383362+00:00"
-    },
-    {
       "tweet": "Lizzo brought the flute to that roast of Kevin Hart. That was actually unhinged.",
       "original_url": "https://www.billboard.com/music/music-news/lizzo-roast-of-kevin-hart-1236244581/",
       "buzz_score": 85,
@@ -101,17 +79,6 @@
       "added_at": "2026-05-11T20:11:26.382786+00:00"
     },
     {
-      "tweet": "Louis Rossmann is actually footing the bill for that OrcaSlicer dev facing legal threats. Finally someone with a spine.",
-      "original_url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-11T14:01:26.354962+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -134,15 +101,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Hantavirus is spreading on cruise ships now. Can we just have one normal year",
-      "original_url": "https://www.aljazeera.com/news/2026/5/11/where-did-the-hantavirus-outbreak-start-and-where-has-it-spread?traffic_source=rss",
-      "buzz_score": 80,
+      "tweet": "Louis Rossmann is actually footing the bill for that OrcaSlicer dev facing legal threats. Finally someone with a spine.",
+      "original_url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Where did the hantavirus outbreak start, and where has it spread?",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-11T14:01:26.355394+00:00"
+      "original_title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-11T14:01:26.354962+00:00"
     },
     {
       "tweet": "Did you hear Pennsylvania is suing Character.AI 'cause one of their bots was out here faking a medical license. It's actually pretending to be a doctor. Pure chaos",
@@ -198,6 +165,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "Hantavirus is spreading on cruise ships now. Can we just have one normal year",
+      "original_url": "https://www.aljazeera.com/news/2026/5/11/where-did-the-hantavirus-outbreak-start-and-where-has-it-spread?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Where did the hantavirus outbreak start, and where has it spread?",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-05-11T14:01:26.355394+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -794,17 +772,6 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Thaksin Shinawatra is out of prison in Thailand and I guess he's just back to his normal schedule. He's not exactly going to just start gardening.",
-      "original_url": "https://www.nytimes.com/2026/05/10/world/asia/thailand-thaksin-shinawatra-released-prison.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Thailand’s Thaksin Shinawatra Is Out of Prison. What Will He Do Now?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-11T20:11:26.382673+00:00"
-    },
-    {
       "tweet": "They really just ranked the best Mortal Kombat fatalities of all time. Absolute chaos",
       "original_url": "https://kotaku.com/the-12-best-mortal-kombat-fatalities-ever-list-ranked-mk1-mk2-2000694392",
       "buzz_score": 82,
@@ -1034,6 +1001,17 @@
       "source": "IndieWire",
       "category": "entertainment",
       "added_at": "2026-05-02T04:33:18.174938+00:00"
+    },
+    {
+      "tweet": "Thaksin Shinawatra is out of prison in Thailand and I guess he's just back to his normal schedule. He's not exactly going to just start gardening.",
+      "original_url": "https://www.nytimes.com/2026/05/10/world/asia/thailand-thaksin-shinawatra-released-prison.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Thailand’s Thaksin Shinawatra Is Out of Prison. What Will He Do Now?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-11T20:11:26.382673+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1014,
+    "total_posted": 1016,
     "total_collected": 3653
   },
-  "last_posted_at": "2026-05-11T20:16:55.313115+00:00"
+  "last_posted_at": "2026-05-11T21:46:41.703223+00:00"
 }
