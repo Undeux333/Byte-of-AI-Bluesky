@@ -2,61 +2,6 @@
   "last_collected": "2026-05-13T10:41:17.586674+00:00",
   "queue": [
     {
-      "tweet": "Star Wars just pushed Ahsoka season 2 all the way to 2027. We’re never getting this show at this point.",
-      "original_url": "https://www.polygon.com/ahsoka-season-2-delayed-2027/",
-      "buzz_score": 78,
-      "buzz_score2": 94,
-      "rewrite_count": 0,
-      "original_title": "Star Wars delays Ahsoka season 2 to early 2027",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-05-13T10:41:17.585140+00:00"
-    },
-    {
-      "tweet": "So apparently Calbee's chips are turning black-and-white because the war in Iran is eating up the world's colored ink supply. That's a new one.",
-      "original_url": "https://www.npr.org/2026/05/13/nx-s1-5820671/japanese-snack-packages-black-and-white",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Japanese snack packages turning black-and-white as Iran war depletes ink supply",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-13T10:41:17.585132+00:00"
-    },
-    {
-      "tweet": "Stormzy is making an Ian Wright movie. That's gonna be a movie.",
-      "original_url": "https://hypebeast.com/2026/5/stormzy-x-merky-films-announce-ian-wright-biopic",
-      "buzz_score": 75,
-      "buzz_score2": 93,
-      "rewrite_count": 0,
-      "original_title": "Stormzy's Merky Films Is Developing an Ian Wright Biopic",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-05-13T10:41:17.585671+00:00"
-    },
-    {
-      "tweet": "They're finally making office chairs for big and tall guys. About time someone realized we don't all fit in the same seat",
-      "original_url": "https://www.polygon.com/libernovo-maxis-series-chair-pre-orders/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Introducing The LiberNovo Maxis, A Series Of Office Chairs For Bigger And Taller Users",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-05-13T05:02:14.151998+00:00"
-    },
-    {
-      "tweet": "Britain might be getting their sixth leader in a decade. At this point the job is just a revolving door",
-      "original_url": "https://www.nytimes.com/2026/05/13/world/europe/britain-leadership-turnover.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Britain Has Had 5 Leaders in a Decade. Is It About to Get Another?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-13T05:02:14.151107+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -79,26 +24,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "The Tekken boss is starting a new studio with SNK. It's like your ex moving in with your worst enemy. We’ve all seen how that ends.",
-      "original_url": "https://www.polygon.com/harada-tekken-new-studio-snk-vsstudio/",
-      "buzz_score": 82,
-      "buzz_score2": 91,
-      "rewrite_count": 0,
-      "original_title": "Ex-Tekken boss starts new studio with former rivals SNK",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-05-13T10:41:17.585294+00:00"
-    },
-    {
-      "tweet": "Jonah Hill is leading the new Kith campaign. Honestly just feels like a random move",
-      "original_url": "https://hypebeast.com/2026/5/kith-jonah-hill-summer-2026-collection-campaign-clarks-originals-collaboration-release-info",
+      "tweet": "Stormzy is making an Ian Wright movie. That's gonna be a movie.",
+      "original_url": "https://hypebeast.com/2026/5/stormzy-x-merky-films-announce-ian-wright-biopic",
       "buzz_score": 75,
-      "buzz_score2": 95,
+      "buzz_score2": 93,
       "rewrite_count": 0,
-      "original_title": "Kith Taps Jonah Hill To Lead Its Massive Summer 2026 Collection Campaign Featuring Clarks Originals",
+      "original_title": "Stormzy's Merky Films Is Developing an Ian Wright Biopic",
       "source": "Hypebeast",
       "category": "entertainment",
-      "added_at": "2026-05-13T05:02:14.151880+00:00"
+      "added_at": "2026-05-13T10:41:17.585671+00:00"
     },
     {
       "tweet": "Man, this Secretary Duffy guy is filming reality TV shows funded by the firms he’s supposed to regulate. The transparency is non-existent.",
@@ -189,15 +123,26 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Data centers are taking over all these rural towns in Maine like Jay. We're just replacing people with server racks.",
-      "original_url": "https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine",
-      "buzz_score": 85,
-      "buzz_score2": 90,
+      "tweet": "They're finally making office chairs for big and tall guys. About time someone realized we don't all fit in the same seat",
+      "original_url": "https://www.polygon.com/libernovo-maxis-series-chair-pre-orders/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Data centers are coming for rural America",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-05-13T10:41:17.585423+00:00"
+      "original_title": "Introducing The LiberNovo Maxis, A Series Of Office Chairs For Bigger And Taller Users",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-05-13T05:02:14.151998+00:00"
+    },
+    {
+      "tweet": "Britain might be getting their sixth leader in a decade. At this point the job is just a revolving door",
+      "original_url": "https://www.nytimes.com/2026/05/13/world/europe/britain-leadership-turnover.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Britain Has Had 5 Leaders in a Decade. Is It About to Get Another?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-13T05:02:14.151107+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -209,6 +154,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "The Tekken boss is starting a new studio with SNK. It's like your ex moving in with your worst enemy. We’ve all seen how that ends.",
+      "original_url": "https://www.polygon.com/harada-tekken-new-studio-snk-vsstudio/",
+      "buzz_score": 82,
+      "buzz_score2": 91,
+      "rewrite_count": 0,
+      "original_title": "Ex-Tekken boss starts new studio with former rivals SNK",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-05-13T10:41:17.585294+00:00"
     },
     {
       "tweet": "That new Bodycam game is weirding everyone out. It feels less like a game and more like something you shouldn't be seeing at all.",
@@ -926,15 +882,26 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Bambu Lab is just straight up trashing the open source social contract. Guess we can't have nice things.",
-      "original_url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-      "buzz_score": 80,
+      "tweet": "Jonah Hill is leading the new Kith campaign. Honestly just feels like a random move",
+      "original_url": "https://hypebeast.com/2026/5/kith-jonah-hill-summer-2026-collection-campaign-clarks-originals-collaboration-release-info",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Kith Taps Jonah Hill To Lead Its Massive Summer 2026 Collection Campaign Featuring Clarks Originals",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-05-13T05:02:14.151880+00:00"
+    },
+    {
+      "tweet": "Data centers are taking over all these rural towns in Maine like Jay. We're just replacing people with server racks.",
+      "original_url": "https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Bambu Lab is abusing the open source social contract",
-      "source": "HackerNews",
+      "original_title": "Data centers are coming for rural America",
+      "source": "The Verge",
       "category": "tech",
-      "added_at": "2026-05-13T10:41:17.585796+00:00"
+      "added_at": "2026-05-13T10:41:17.585423+00:00"
     },
     {
       "tweet": "They really just ranked the best Mortal Kombat fatalities of all time. Absolute chaos",
@@ -1034,6 +1001,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-11T20:11:26.382412+00:00"
+    },
+    {
+      "tweet": "Bambu Lab is just straight up trashing the open source social contract. Guess we can't have nice things.",
+      "original_url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Bambu Lab is abusing the open source social contract",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-13T10:41:17.585796+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1038,
+    "total_posted": 1040,
     "total_collected": 3795
   },
-  "last_posted_at": "2026-05-13T10:49:32.186637+00:00"
+  "last_posted_at": "2026-05-13T12:36:45.605465+00:00"
 }
