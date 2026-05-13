@@ -167,17 +167,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "A German court actually ruled the Milka people milked us by shrinking the bars while keeping the box the same size. Finally someone called them out.",
-      "original_url": "https://www.theguardian.com/food/2026/may/13/milka-maker-milked-shoppers-over-size-of-chocolate-bars-german-court-rules",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Milka maker milked shoppers over size of chocolate bars, German court rules",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-13T21:02:27.303653+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -904,26 +893,15 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Nigel Farage is under investigation for that 5 million pound gift. It’s always the ones preaching about everyone else that end up in the spotlight, man.",
-      "original_url": "https://www.nytimes.com/2026/05/13/world/europe/nigel-farage-reform-uk-investigation-5-million-gift.html",
-      "buzz_score": 80,
+      "tweet": "A German court actually ruled the Milka people milked us by shrinking the bars while keeping the box the same size. Finally someone called them out.",
+      "original_url": "https://www.theguardian.com/food/2026/may/13/milka-maker-milked-shoppers-over-size-of-chocolate-bars-german-court-rules",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Nigel Farage, Leader of Reform U.K., Faces Investigation for £5 Million Gift",
-      "source": "NYT World",
+      "original_title": "Milka maker milked shoppers over size of chocolate bars, German court rules",
+      "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-05-13T21:02:27.303242+00:00"
-    },
-    {
-      "tweet": "So apparently the administration is waiving those 15 thousand dollar visa bonds for World Cup fans. Funny how we only find the money when FIFA is involved.",
-      "original_url": "https://www.npr.org/2026/05/13/g-s1-121912/foreign-ticket-holders-world-cup-bonds",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Foreign ticket holders from World Cup teams' countries won't have to pay bonds to enter U.S.",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-13T21:02:27.303236+00:00"
+      "added_at": "2026-05-13T21:02:27.303653+00:00"
     },
     {
       "tweet": "They really just ranked the best Mortal Kombat fatalities of all time. Absolute chaos",
@@ -1045,6 +1023,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-11T20:11:26.382412+00:00"
+    },
+    {
+      "tweet": "Nigel Farage is under investigation for that 5 million pound gift. It’s always the ones preaching about everyone else that end up in the spotlight, man.",
+      "original_url": "https://www.nytimes.com/2026/05/13/world/europe/nigel-farage-reform-uk-investigation-5-million-gift.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Nigel Farage, Leader of Reform U.K., Faces Investigation for £5 Million Gift",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-13T21:02:27.303242+00:00"
+    },
+    {
+      "tweet": "So apparently the administration is waiving those 15 thousand dollar visa bonds for World Cup fans. Funny how we only find the money when FIFA is involved.",
+      "original_url": "https://www.npr.org/2026/05/13/g-s1-121912/foreign-ticket-holders-world-cup-bonds",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Foreign ticket holders from World Cup teams' countries won't have to pay bonds to enter U.S.",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-05-13T21:02:27.303236+00:00"
     }
   ],
   "seen_urls": [
