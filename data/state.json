@@ -2,28 +2,6 @@
   "last_collected": "2026-05-14T20:43:26.112530+00:00",
   "queue": [
     {
-      "tweet": "UMG is fighting to get a Beatles tape back that some engineer stashed in his house for years. Absolute classic move.",
-      "original_url": "https://www.billboard.com/pro/beatles-tape-lawsuit-universal-rare-recording-stolen/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Beatles’ ‘First Known’ Recording Sparks Legal Battle With UMG: ‘A Highly Valuable Artifact’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-14T20:43:26.111509+00:00"
-    },
-    {
-      "tweet": "Scientists in Thailand found a dinosaur the size of nine elephants. That thing was a unit.",
-      "original_url": "https://www.bbc.com/news/articles/cx21pk5g20ro?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Giant new dinosaur identified from fossils in Thailand",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-14T20:43:26.110695+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -134,6 +112,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
       "tweet": "Democrats are already demanding the commerce secretary resign over those Epstein ties. Here we go again.",
       "original_url": "https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news",
       "buzz_score": 85,
@@ -176,17 +165,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-05-14T20:43:26.110983+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "Nintendo just moved up the premiere date for the Zelda movie. Finally some good news.",
@@ -926,6 +904,28 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
+      "tweet": "They really just ranked the best Mortal Kombat fatalities of all time. Absolute chaos",
+      "original_url": "https://kotaku.com/the-12-best-mortal-kombat-fatalities-ever-list-ranked-mk1-mk2-2000694392",
+      "buzz_score": 82,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The 12 Best Mortal Kombat Fatalities Ever",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-05-09T14:04:24.622833+00:00"
+    },
+    {
+      "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
+      "original_url": "https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london",
+      "buzz_score": 82,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Banksy confirms new statue installed in central London is his work",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-05-02T17:31:56.245058+00:00"
+    },
+    {
       "tweet": "Seeing some talk about a ceasefire in Lebanon. At this point I'll believe it when I see it.",
       "original_url": "https://www.aljazeera.com/news/2026/5/14/cautious-optimism-in-lebanon-as-direct-talks-with-israel-progress?traffic_source=rss",
       "buzz_score": 80,
@@ -968,28 +968,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-14T20:43:26.110853+00:00"
-    },
-    {
-      "tweet": "They really just ranked the best Mortal Kombat fatalities of all time. Absolute chaos",
-      "original_url": "https://kotaku.com/the-12-best-mortal-kombat-fatalities-ever-list-ranked-mk1-mk2-2000694392",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The 12 Best Mortal Kombat Fatalities Ever",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-05-09T14:04:24.622833+00:00"
-    },
-    {
-      "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
-      "original_url": "https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Banksy confirms new statue installed in central London is his work",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-02T17:31:56.245058+00:00"
     },
     {
       "tweet": "Wild stat: they’re saying pigs could actually end the transplant waiting list. Science is weird.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1059,
+    "total_posted": 1061,
     "total_collected": 3907
   },
-  "last_posted_at": "2026-05-14T20:52:39.183782+00:00"
+  "last_posted_at": "2026-05-14T21:54:42.251924+00:00"
 }
