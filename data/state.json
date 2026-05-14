@@ -2,28 +2,6 @@
   "last_collected": "2026-05-14T10:35:04.657901+00:00",
   "queue": [
     {
-      "tweet": "Windows is finally gonna roll back its own bad updates. They realized they're the ones breaking our stuff.",
-      "original_url": "https://www.theverge.com/news/930303/windows-update-automatic-driver-rollback-feature",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Windows Update will soon automatically roll back faulty drivers",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-05-14T10:35:04.657383+00:00"
-    },
-    {
-      "tweet": "Yo, this kid Julian Hall just dropped a hat-trick for Red Bull New York at eighteen. Absolute freak.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c98r7gl2pjgo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Hall, 18, becomes youngest to score MLS hat-trick",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-14T10:35:04.656568+00:00"
-    },
-    {
       "tweet": "Hold on, the UAE is denying that Netanyahu secret visit happened. Like we don't know how this works.",
       "original_url": "https://www.npr.org/2026/05/14/nx-s1-5822156/uae-netanyahu-visit",
       "buzz_score": 85,
@@ -90,28 +68,6 @@
       "added_at": "2026-05-14T05:32:42.215937+00:00"
     },
     {
-      "tweet": "Wild stat: they’re saying pigs could actually end the transplant waiting list. Science is weird.",
-      "original_url": "https://bigthink.com/science-tech/pigs-could-end-the-transplant-waiting-list/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Pigs could end the transplant waiting list",
-      "source": "Big Think",
-      "category": "trivia",
-      "added_at": "2026-05-14T05:32:42.216872+00:00"
-    },
-    {
-      "tweet": "Fetty Wap is doing a nostalgia tour for his hits. 2015 was ten years ago. We’re old.",
-      "original_url": "https://hypebeast.com/2026/5/fetty-wap-2026-nostalgia-tour-dates-announcement",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fetty Wap Announces 2026 \"Nostalgia Tour\" To Celebrate 10 Years of Hits",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-05-14T05:32:42.216504+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -132,6 +88,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Wild stat: they’re saying pigs could actually end the transplant waiting list. Science is weird.",
+      "original_url": "https://bigthink.com/science-tech/pigs-could-end-the-transplant-waiting-list/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Pigs could end the transplant waiting list",
+      "source": "Big Think",
+      "category": "trivia",
+      "added_at": "2026-05-14T05:32:42.216872+00:00"
+    },
+    {
+      "tweet": "Fetty Wap is doing a nostalgia tour for his hits. 2015 was ten years ago. We’re old.",
+      "original_url": "https://hypebeast.com/2026/5/fetty-wap-2026-nostalgia-tour-dates-announcement",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Fetty Wap Announces 2026 \"Nostalgia Tour\" To Celebrate 10 Years of Hits",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-05-14T05:32:42.216504+00:00"
     },
     {
       "tweet": "Man, this Secretary Duffy guy is filming reality TV shows funded by the firms he’s supposed to regulate. The transparency is non-existent.",
@@ -220,28 +198,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "Just saw someone brought back Scorched Earth 2000 on the web. Takes me right back to middle school computer lab.",
-      "original_url": "http://www.scorch2000.com/web/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Scorched Earth 2000 – Web",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-14T05:32:42.217247+00:00"
-    },
-    {
-      "tweet": "Arsenal just snagged that win against Everton on a stoppage-time goal that was definitely controversial. Rough way to lose.",
-      "original_url": "https://www.bbc.com/sport/football/videos/cgrp92l9djko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Blackstenius stoppage-time strike sinks Everton",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-14T05:32:42.216110+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -970,26 +926,26 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Russia just sent over fifteen hundred drones into Ukraine in like two days. We're just watching this happen now.",
-      "original_url": "https://www.aljazeera.com/news/2026/5/14/russia-launches-hundreds-more-drones-at-ukraine-killing-three-people?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
+      "tweet": "Just saw someone brought back Scorched Earth 2000 on the web. Takes me right back to middle school computer lab.",
+      "original_url": "http://www.scorch2000.com/web/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Russia launches hundreds more drones at Ukraine, killing three people",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-14T10:35:04.656694+00:00"
+      "original_title": "Scorched Earth 2000 – Web",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-14T05:32:42.217247+00:00"
     },
     {
-      "tweet": "Trump's out here in China touting his business guys while Xi is just laying into him about Taiwan. Who thought this was a good idea.",
-      "original_url": "https://www.nytimes.com/2026/05/14/world/asia/trump-first-day-china-xi.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
+      "tweet": "Arsenal just snagged that win against Everton on a stoppage-time goal that was definitely controversial. Rough way to lose.",
+      "original_url": "https://www.bbc.com/sport/football/videos/cgrp92l9djko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Flags, Flattery and a Blunt Warning on Trump’s First Day in China",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-14T10:35:04.656033+00:00"
+      "original_title": "Blackstenius stoppage-time strike sinks Everton",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-14T05:32:42.216110+00:00"
     },
     {
       "tweet": "They really just ranked the best Mortal Kombat fatalities of all time. Absolute chaos",
@@ -1034,6 +990,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-05-13T23:41:16.264319+00:00"
+    },
+    {
+      "tweet": "Russia just sent over fifteen hundred drones into Ukraine in like two days. We're just watching this happen now.",
+      "original_url": "https://www.aljazeera.com/news/2026/5/14/russia-launches-hundreds-more-drones-at-ukraine-killing-three-people?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Russia launches hundreds more drones at Ukraine, killing three people",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-05-14T10:35:04.656694+00:00"
+    },
+    {
+      "tweet": "Trump's out here in China touting his business guys while Xi is just laying into him about Taiwan. Who thought this was a good idea.",
+      "original_url": "https://www.nytimes.com/2026/05/14/world/asia/trump-first-day-china-xi.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Flags, Flattery and a Blunt Warning on Trump’s First Day in China",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-14T10:35:04.656033+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1051,
+    "total_posted": 1053,
     "total_collected": 3875
   },
-  "last_posted_at": "2026-05-14T10:42:57.502329+00:00"
+  "last_posted_at": "2026-05-14T12:23:26.764831+00:00"
 }
