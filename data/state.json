@@ -2,17 +2,6 @@
   "last_collected": "2026-05-14T22:47:59.299713+00:00",
   "queue": [
     {
-      "tweet": "Wait, they already found a kernel exploit on the M5? The chip isn't even cold yet.",
-      "original_url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "First public macOS kernel memory corruption exploit on Apple M5",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-14T22:47:59.298512+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -123,6 +112,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
       "tweet": "Some school in New York was locking special needs kids in wooden boxes. What is wrong with people.",
       "original_url": "https://www.npr.org/2026/05/14/nx-s1-5821682/salmon-river-mohawk-children",
       "buzz_score": 85,
@@ -143,17 +143,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-05-14T22:47:59.298522+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "Nintendo just moved up the premiere date for the Zelda movie. Finally some good news.",
@@ -893,6 +882,28 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
+      "tweet": "They really just ranked the best Mortal Kombat fatalities of all time. Absolute chaos",
+      "original_url": "https://kotaku.com/the-12-best-mortal-kombat-fatalities-ever-list-ranked-mk1-mk2-2000694392",
+      "buzz_score": 82,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The 12 Best Mortal Kombat Fatalities Ever",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-05-09T14:04:24.622833+00:00"
+    },
+    {
+      "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
+      "original_url": "https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london",
+      "buzz_score": 82,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Banksy confirms new statue installed in central London is his work",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-05-02T17:31:56.245058+00:00"
+    },
+    {
       "tweet": "So the CIA director is in Havana while the whole place is blacked out. That's some timing.",
       "original_url": "https://www.aljazeera.com/news/2026/5/14/cubas-diaz-canel-open-to-us-aid-amid-worsening-fuel-crisis-blackouts?traffic_source=rss",
       "buzz_score": 80,
@@ -924,72 +935,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-05-14T22:47:59.298518+00:00"
-    },
-    {
-      "tweet": "They really just ranked the best Mortal Kombat fatalities of all time. Absolute chaos",
-      "original_url": "https://kotaku.com/the-12-best-mortal-kombat-fatalities-ever-list-ranked-mk1-mk2-2000694392",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The 12 Best Mortal Kombat Fatalities Ever",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-05-09T14:04:24.622833+00:00"
-    },
-    {
-      "tweet": "Banksy just put up a statue in London of a guy waving a flag that's literally blinding him. Man, that's spot on",
-      "original_url": "https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Banksy confirms new statue installed in central London is his work",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-02T17:31:56.245058+00:00"
-    },
-    {
-      "tweet": "Democrats are already demanding the commerce secretary resign over those Epstein ties. Here we go again.",
-      "original_url": "https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Oversight Democrats demand resignation of Trump’s commerce secretary after testimony over Epstein ties – live",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-14T20:43:26.112388+00:00"
-    },
-    {
-      "tweet": "Judge just told the government to bring back that woman they deported to the Congo. Glad someone’s calling out that mess.",
-      "original_url": "https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Judge orders Trump administration to return Colombian woman deported to DRC back to the US",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-14T20:43:26.112262+00:00"
-    },
-    {
-      "tweet": "Trump's out there flattering Xi Jinping while acting tough on China back home. Why do we act surprised by this stuff anymore?",
-      "original_url": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-jinping-us-china.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump Was Flattering, Xi Was Resolute. The Difference Spoke Volumes.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-14T20:43:26.111238+00:00"
-    },
-    {
-      "tweet": "So apparently the entire power grid in Cuba just gave out. Imagine your country just going dark like that.",
-      "original_url": "https://www.npr.org/2026/05/14/nx-s1-5822583/cuba-blackout",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Cuba's power grid collapses and plunges eastern provinces into a major blackout",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-14T20:43:26.110983+00:00"
     },
     {
       "tweet": "Wild stat: they’re saying pigs could actually end the transplant waiting list. Science is weird.",
@@ -1034,6 +979,50 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-05-13T23:41:16.264319+00:00"
+    },
+    {
+      "tweet": "Democrats are already demanding the commerce secretary resign over those Epstein ties. Here we go again.",
+      "original_url": "https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Oversight Democrats demand resignation of Trump’s commerce secretary after testimony over Epstein ties – live",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-14T20:43:26.112388+00:00"
+    },
+    {
+      "tweet": "Judge just told the government to bring back that woman they deported to the Congo. Glad someone’s calling out that mess.",
+      "original_url": "https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Judge orders Trump administration to return Colombian woman deported to DRC back to the US",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-14T20:43:26.112262+00:00"
+    },
+    {
+      "tweet": "Trump's out there flattering Xi Jinping while acting tough on China back home. Why do we act surprised by this stuff anymore?",
+      "original_url": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-jinping-us-china.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump Was Flattering, Xi Was Resolute. The Difference Spoke Volumes.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-14T20:43:26.111238+00:00"
+    },
+    {
+      "tweet": "So apparently the entire power grid in Cuba just gave out. Imagine your country just going dark like that.",
+      "original_url": "https://www.npr.org/2026/05/14/nx-s1-5822583/cuba-blackout",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Cuba's power grid collapses and plunges eastern provinces into a major blackout",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-05-14T20:43:26.110983+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1063,
+    "total_posted": 1064,
     "total_collected": 3923
   },
-  "last_posted_at": "2026-05-14T22:55:21.678099+00:00"
+  "last_posted_at": "2026-05-14T23:44:41.060852+00:00"
 }
