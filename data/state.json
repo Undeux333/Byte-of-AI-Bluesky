@@ -112,39 +112,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Some guy asked a Subnautica 2 dev for tech support on a pirated copy of the game. Audacity.",
-      "original_url": "https://kotaku.com/subnautica-2-dev-responds-to-player-who-asked-for-tech-support-on-a-leaked-version-of-the-game-thanks-for-pirating-a-game-that-ive-spent-years-working-on-2000696489",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Subnautica 2 Dev Responds To Player Who Asked For Tech Support On A Leaked Version Of The Game: ‘Thanks For Pirating A Game That I’ve Spent Years Working On’",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-05-15T14:43:27.604199+00:00"
-    },
-    {
-      "tweet": "Ronda Rousey says she's smashing the record for women's fight pay with that Carano bout. About time.",
-      "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/clypl0g3j44o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Carano bout to 'smash' women's fight pay record - Rousey",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-15T08:28:05.620745+00:00"
-    },
-    {
-      "tweet": "So apparently Linux gaming is getting way faster 'cause Windows APIs are just becoming Linux kernel features now. We're literally running Windows on Windows at this point",
-      "original_url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-      "buzz_score": 65,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-15T10:44:45.196764+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -904,15 +871,37 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Trump says he and Xi settled a bunch of problems in Beijing but won't say which ones. Great.",
-      "original_url": "https://www.theguardian.com/us-news/2026/may/15/what-was-achieved-trump-xi-summit-beijing",
-      "buzz_score": 80,
+      "tweet": "Some guy asked a Subnautica 2 dev for tech support on a pirated copy of the game. Audacity.",
+      "original_url": "https://kotaku.com/subnautica-2-dev-responds-to-player-who-asked-for-tech-support-on-a-leaked-version-of-the-game-thanks-for-pirating-a-game-that-ive-spent-years-working-on-2000696489",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "What was actually achieved at Trump and Xi’s ‘stalemate summit’ in Beijing?",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-15T14:43:27.603942+00:00"
+      "original_title": "Subnautica 2 Dev Responds To Player Who Asked For Tech Support On A Leaked Version Of The Game: ‘Thanks For Pirating A Game That I’ve Spent Years Working On’",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-05-15T14:43:27.604199+00:00"
+    },
+    {
+      "tweet": "Ronda Rousey says she's smashing the record for women's fight pay with that Carano bout. About time.",
+      "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/clypl0g3j44o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Carano bout to 'smash' women's fight pay record - Rousey",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-15T08:28:05.620745+00:00"
+    },
+    {
+      "tweet": "So apparently Linux gaming is getting way faster 'cause Windows APIs are just becoming Linux kernel features now. We're literally running Windows on Windows at this point",
+      "original_url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
+      "buzz_score": 65,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-15T10:44:45.196764+00:00"
     },
     {
       "tweet": "They really just ranked the best Mortal Kombat fatalities of all time. Absolute chaos",
@@ -979,6 +968,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-05-13T23:41:16.264319+00:00"
+    },
+    {
+      "tweet": "Trump says he and Xi settled a bunch of problems in Beijing but won't say which ones. Great.",
+      "original_url": "https://www.theguardian.com/us-news/2026/may/15/what-was-achieved-trump-xi-summit-beijing",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "What was actually achieved at Trump and Xi’s ‘stalemate summit’ in Beijing?",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-15T14:43:27.603942+00:00"
     },
     {
       "tweet": "People are actually out here debating if the new M4 MacBook Air can game. Like, bro, just buy a PC.",
