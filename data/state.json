@@ -156,28 +156,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "A referee is under police surveillance because of a bad penalty call. How are we at the point where a whistle requires bodyguards.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c87qye8yjg2o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Referee Beaton under police surveillance, says SFA",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-15T17:57:41.962043+00:00"
-    },
-    {
-      "tweet": "Florida is going after the NFL’s Rooney Rule because they think it’s discriminatory. I love how we’re at the point where basic interviews are a legal battle.",
-      "original_url": "https://www.npr.org/2026/05/15/nx-s1-5823441/rooney-rule-dei-diverse-slates-discrimination",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Can the NFL's Rooney Rule survive the DEI backlash?",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-15T17:57:41.961384+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -937,37 +915,26 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "BRICS just wrapped up without a statement because they couldn't agree on the Iran war. Sounds like they’re really nailing that unity thing.",
-      "original_url": "https://www.aljazeera.com/news/2026/5/15/brics-talks-end-without-joint-statement-as-divisions-over-iran-war-deepen?traffic_source=rss",
-      "buzz_score": 80,
+      "tweet": "A referee is under police surveillance because of a bad penalty call. How are we at the point where a whistle requires bodyguards.",
+      "original_url": "https://www.bbc.com/sport/football/articles/c87qye8yjg2o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "BRICS talks end without joint statement as divisions over Iran war deepen",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-15T17:57:41.962296+00:00"
-    },
-    {
-      "tweet": "The NFL is actually fighting back against the criticism of their streaming games. You know they’re losing it when they start arguing with the government over buffering.",
-      "original_url": "https://www.espn.com/nfl/story/_/id/48778847/nfl-pushes-back-criticism-streaming-games",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "NFL pushes back on criticism of streaming games",
-      "source": "ESPN",
+      "original_title": "Referee Beaton under police surveillance, says SFA",
+      "source": "BBC Sport",
       "category": "sports",
-      "added_at": "2026-05-15T17:57:41.961769+00:00"
+      "added_at": "2026-05-15T17:57:41.962043+00:00"
     },
     {
-      "tweet": "Just saw a list of stuff we all had in our rooms in the early 2000s and it's basically a map of my entire childhood. That stuff didn't even do anything but we had to have it.",
-      "original_url": "https://www.mentalfloss.com/nostalgia/things-every-teen-had-in-bedroom-in-early-2000s?utm_source=RSS",
-      "buzz_score": 80,
+      "tweet": "Florida is going after the NFL’s Rooney Rule because they think it’s discriminatory. I love how we’re at the point where basic interviews are a legal battle.",
+      "original_url": "https://www.npr.org/2026/05/15/nx-s1-5823441/rooney-rule-dei-diverse-slates-discrimination",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "7 Things Every Teen Had in Their Bedroom in the Early 2000s",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-05-15T17:57:41.961225+00:00"
+      "original_title": "Can the NFL's Rooney Rule survive the DEI backlash?",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-05-15T17:57:41.961384+00:00"
     },
     {
       "tweet": "They really just ranked the best Mortal Kombat fatalities of all time. Absolute chaos",
@@ -1034,6 +1001,39 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-05-13T23:41:16.264319+00:00"
+    },
+    {
+      "tweet": "BRICS just wrapped up without a statement because they couldn't agree on the Iran war. Sounds like they’re really nailing that unity thing.",
+      "original_url": "https://www.aljazeera.com/news/2026/5/15/brics-talks-end-without-joint-statement-as-divisions-over-iran-war-deepen?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "BRICS talks end without joint statement as divisions over Iran war deepen",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-05-15T17:57:41.962296+00:00"
+    },
+    {
+      "tweet": "The NFL is actually fighting back against the criticism of their streaming games. You know they’re losing it when they start arguing with the government over buffering.",
+      "original_url": "https://www.espn.com/nfl/story/_/id/48778847/nfl-pushes-back-criticism-streaming-games",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "NFL pushes back on criticism of streaming games",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-05-15T17:57:41.961769+00:00"
+    },
+    {
+      "tweet": "Just saw a list of stuff we all had in our rooms in the early 2000s and it's basically a map of my entire childhood. That stuff didn't even do anything but we had to have it.",
+      "original_url": "https://www.mentalfloss.com/nostalgia/things-every-teen-had-in-bedroom-in-early-2000s?utm_source=RSS",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "7 Things Every Teen Had in Their Bedroom in the Early 2000s",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-05-15T17:57:41.961225+00:00"
     }
   ],
   "seen_urls": [
