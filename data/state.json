@@ -2,28 +2,6 @@
   "last_collected": "2026-05-15T10:44:45.198586+00:00",
   "queue": [
     {
-      "tweet": "So Marco Rubio is just chilling in Beijing despite being sanctioned. Apparently diplomacy is just a name change away",
-      "original_url": "https://www.nytimes.com/2026/05/15/world/asia/china-rubio-sanctions.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Sanctioned by China, Rubio Enjoys a Trip to Beijing",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-15T10:44:45.196930+00:00"
-    },
-    {
-      "tweet": "The Avalanches actually dropped a new track. The drought is finally over",
-      "original_url": "https://www.billboard.com/music/music-news/the-avalanches-superfun-single-together-1236248931/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Avalanches Return With ‘Superfun’ Single ‘Together’: Stream It Now",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-15T10:44:45.197955+00:00"
-    },
-    {
       "tweet": "Ronda Rousey says she's smashing the record for women's fight pay with that Carano bout. About time.",
       "original_url": "https://www.bbc.com/sport/mixed-martial-arts/articles/clypl0g3j44o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -154,17 +132,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "Did you see Trump touring the CCP's headquarters with Xi? I guess sanctions are just a suggestion these days",
-      "original_url": "https://www.bbc.com/news/articles/crrpj0ejxp8o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Xi takes Trump on tour of Communist Party's seat of power as China visit ends",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-15T10:44:45.196770+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -926,26 +893,15 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
-      "tweet": "Seamus Coleman is finally ending his 17-year run at Everton. 17 years at one job, man",
-      "original_url": "https://www.bbc.com/sport/football/articles/clypq28wle6o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
+      "tweet": "Did you see Trump touring the CCP's headquarters with Xi? I guess sanctions are just a suggestion these days",
+      "original_url": "https://www.bbc.com/news/articles/crrpj0ejxp8o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Coleman to end 17-year Everton playing career",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-15T10:44:45.197455+00:00"
-    },
-    {
-      "tweet": "Trump’s bragging about this huge Boeing order from China but Beijing hasn't said a word. Are we actually buying this?",
-      "original_url": "https://www.nytimes.com/2026/05/15/world/asia/trump-boeing-order-china.html",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump Announces Boeing Jet Order From China. Beijing Stays Silent.",
-      "source": "NYT World",
+      "original_title": "Xi takes Trump on tour of Communist Party's seat of power as China visit ends",
+      "source": "BBC World",
       "category": "world",
-      "added_at": "2026-05-15T08:28:05.620476+00:00"
+      "added_at": "2026-05-15T10:44:45.196770+00:00"
     },
     {
       "tweet": "They really just ranked the best Mortal Kombat fatalities of all time. Absolute chaos",
@@ -968,17 +924,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-05-02T17:31:56.245058+00:00"
-    },
-    {
-      "tweet": "That Giggle for Girls app lost the appeal and owes that trans woman damages now. Good.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/may/15/giggle-for-girls-app-discriminated-against-trans-woman-roxanne-tickle-appeal-case-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Giggle for Girls app discriminated against trans woman Roxanne Tickle, appeal judge rules when doubling damages",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-15T08:28:05.621240+00:00"
     },
     {
       "tweet": "Wild stat: they’re saying pigs could actually end the transplant waiting list. Science is weird.",
@@ -1023,6 +968,39 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-05-13T23:41:16.264319+00:00"
+    },
+    {
+      "tweet": "Seamus Coleman is finally ending his 17-year run at Everton. 17 years at one job, man",
+      "original_url": "https://www.bbc.com/sport/football/articles/clypq28wle6o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Coleman to end 17-year Everton playing career",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-15T10:44:45.197455+00:00"
+    },
+    {
+      "tweet": "Trump’s bragging about this huge Boeing order from China but Beijing hasn't said a word. Are we actually buying this?",
+      "original_url": "https://www.nytimes.com/2026/05/15/world/asia/trump-boeing-order-china.html",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump Announces Boeing Jet Order From China. Beijing Stays Silent.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-15T08:28:05.620476+00:00"
+    },
+    {
+      "tweet": "That Giggle for Girls app lost the appeal and owes that trans woman damages now. Good.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/may/15/giggle-for-girls-app-discriminated-against-trans-woman-roxanne-tickle-appeal-case-ntwnfb",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Giggle for Girls app discriminated against trans woman Roxanne Tickle, appeal judge rules when doubling damages",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-15T08:28:05.621240+00:00"
     },
     {
       "tweet": "The UK government just kicked Palantir off their system to build their own. Usually that ends with an excel sheet and a prayer",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1072,
+    "total_posted": 1074,
     "total_collected": 3987
   },
-  "last_posted_at": "2026-05-15T10:50:53.869268+00:00"
+  "last_posted_at": "2026-05-15T12:31:19.651734+00:00"
 }
