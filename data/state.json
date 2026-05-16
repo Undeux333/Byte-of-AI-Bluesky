@@ -2,28 +2,6 @@
   "last_collected": "2026-05-16T10:13:10.492140+00:00",
   "queue": [
     {
-      "tweet": "Man, some guy on HackerNews just ripped the modem and GPS out of his 2024 RAV4 hybrid. At this point we're just paying for spyware we have to fix ourselves.",
-      "original_url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-16T10:13:10.490567+00:00"
-    },
-    {
-      "tweet": "Yo, that cruise to see nature turned into a hantavirus nightmare. Literally never leaving my house again",
-      "original_url": "https://www.nytimes.com/2026/05/16/world/europe/hantavirus-hondius-cruise.html",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "How a Nature Cruise Turned Into a Nightmare",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-16T10:13:10.490581+00:00"
-    },
-    {
       "tweet": "Saw that video of a settler blindfolding and detaining a guy in the West Bank. That's just wild",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israeli-settler-blindfolds-and-detains-palestinian-in-occupied-west-bank?traffic_source=rss",
       "buzz_score": 80,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1091,
+    "total_posted": 1093,
     "total_collected": 4080
   },
-  "last_posted_at": "2026-05-16T10:19:16.104934+00:00"
+  "last_posted_at": "2026-05-16T11:26:23.621381+00:00"
 }
