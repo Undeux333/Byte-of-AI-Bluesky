@@ -2,28 +2,6 @@
   "last_collected": "2026-05-16T13:58:22.852858+00:00",
   "queue": [
     {
-      "tweet": "Sixty weird gadgets for the house are all over Amazon right now. It's the type of stuff you don't need but definitely buy.",
-      "original_url": "https://www.bustle.com/shopping/weird-things-for-your-home-that-are-freaking-amazing-so-cheap",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "60 Weird Things For Your Home That Are Freaking Amazing & So Cheap",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-05-16T13:58:22.852219+00:00"
-    },
-    {
-      "tweet": "People are saying Den-noh Coil predicted the internet being an invisible layer in our lives. We're already living in it",
-      "original_url": "https://www.polygon.com/19-years-later-den-noh-coil-remains-the-first-anime-to-normalize-a-networked-world/",
-      "buzz_score": 78,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Den-noh Coil was right about everything, 10 years later",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-05-16T10:13:10.491013+00:00"
-    },
-    {
       "tweet": "Some guy got taken by a great white shark off Western Australia. Brutal man",
       "original_url": "https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -46,28 +24,6 @@
       "added_at": "2026-05-16T10:13:10.491263+00:00"
     },
     {
-      "tweet": "Xi really tried to charm Trump by name-dropping Putin during a private walk. It's like listening to a middle schooler gossip",
-      "original_url": "https://www.nytimes.com/2026/05/15/world/asia/china-xi-trump-summit-garden-putin.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘For Example, Putin’: How Xi Used a Private Garden Walk to Charm Trump",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-16T07:06:29.918583+00:00"
-    },
-    {
-      "tweet": "Did you see Trump just claimed we took out some high-level IS leader with the Nigerian military. A whole complex mission, man.",
-      "original_url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump says senior IS leader killed by US and Nigerian forces",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-16T07:06:29.918092+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -88,6 +44,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Xi really tried to charm Trump by name-dropping Putin during a private walk. It's like listening to a middle schooler gossip",
+      "original_url": "https://www.nytimes.com/2026/05/15/world/asia/china-xi-trump-summit-garden-putin.html",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "‘For Example, Putin’: How Xi Used a Private Garden Walk to Charm Trump",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-16T07:06:29.918583+00:00"
+    },
+    {
+      "tweet": "Did you see Trump just claimed we took out some high-level IS leader with the Nigerian military. A whole complex mission, man.",
+      "original_url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Trump says senior IS leader killed by US and Nigerian forces",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-16T07:06:29.918092+00:00"
     },
     {
       "tweet": "People are actually debating if an FA Cup win would fix Chelsea's season. Does a trophy really just erase that much disaster",
@@ -189,17 +167,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Mexican teachers are threatening to shut down the World Cup if they don't get paid. It's about to be a mess.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/mexico-teachers-threaten-world-cup-disruption-over-pay?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Mexico teachers threaten World Cup disruption over pay",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-16T13:58:22.851562+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -209,6 +176,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Mexican teachers are threatening to shut down the World Cup if they don't get paid. It's about to be a mess.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/mexico-teachers-threaten-world-cup-disruption-over-pay?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Mexico teachers threaten World Cup disruption over pay",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-05-16T13:58:22.851562+00:00"
     },
     {
       "tweet": "Can't believe activists actually scaled the Eiffel Tower to hang that flag. Absolute chaos.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1097,
+    "total_posted": 1099,
     "total_collected": 4096
   },
-  "last_posted_at": "2026-05-16T14:04:09.938082+00:00"
+  "last_posted_at": "2026-05-16T15:02:21.117409+00:00"
 }
