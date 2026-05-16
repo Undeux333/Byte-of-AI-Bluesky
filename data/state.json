@@ -2,28 +2,6 @@
   "last_collected": "2026-05-16T19:45:51.293077+00:00",
   "queue": [
     {
-      "tweet": "That main guy who kept repacking pirated games is stepping back to go to law school. Sometimes you just gotta grow up.",
-      "original_url": "https://kotaku.com/prolific-repacker-of-pirated-games-announces-theyre-stepping-back-to-focus-on-law-degree-2000696765",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Prolific Repacker Of Pirated Games Announces They’re Stepping Back To Focus On Law Degree",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-05-16T19:45:51.292573+00:00"
-    },
-    {
-      "tweet": "So apparently a train just plowed into traffic in Bangkok 'cause a barrier didn't come down. How is that still possible in 2026.",
-      "original_url": "https://www.nytimes.com/2026/05/16/world/asia/bangkok-bus-train-crash.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Train Crashes Into Bangkok Traffic, Killing at Least 8",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-16T19:45:51.291721+00:00"
-    },
-    {
       "tweet": "Just saw that list of people who actually inspired Beatles songs. It’s wild how the most random encounters just turn into massive hits, man.",
       "original_url": "https://www.mentalfloss.com/entertainment/music/beatles-songs-inspired-by-real-people?utm_source=RSS",
       "buzz_score": 75,
@@ -145,17 +123,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Tens of thousands of people showing up for that Tommy Robinson rally in London. Can't believe we're still doing this.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/tens-of-thousands-join-far-right-rally-in-central-london?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Tens of thousands join far-right rally in central London",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-16T19:45:51.292141+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -165,6 +132,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Tens of thousands of people showing up for that Tommy Robinson rally in London. Can't believe we're still doing this.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/tens-of-thousands-join-far-right-rally-in-central-london?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Tens of thousands join far-right rally in central London",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-05-16T19:45:51.292141+00:00"
     },
     {
       "tweet": "Xi really tried to charm Trump by name-dropping Putin during a private walk. It's like listening to a middle schooler gossip",
@@ -981,6 +959,17 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
+      "tweet": "People are actually debating if an FA Cup win would fix Chelsea's season. Does a trophy really just erase that much disaster",
+      "original_url": "https://www.bbc.com/sport/football/articles/cz72l30wqq4o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 82,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Would FA Cup win paper over the cracks for Chelsea?",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-16T07:06:29.918241+00:00"
+    },
+    {
       "tweet": "This MemoryCore thing is putting all the classic PS1 games into one TTRPG. We’re all just chasing that same childhood high.",
       "original_url": "https://www.polygon.com/memorycore-90s-games-interview/",
       "buzz_score": 80,
@@ -1023,17 +1012,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-05-16T19:45:51.291719+00:00"
-    },
-    {
-      "tweet": "People are actually debating if an FA Cup win would fix Chelsea's season. Does a trophy really just erase that much disaster",
-      "original_url": "https://www.bbc.com/sport/football/articles/cz72l30wqq4o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Would FA Cup win paper over the cracks for Chelsea?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-16T07:06:29.918241+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1104,
+    "total_posted": 1106,
     "total_collected": 4118
   },
-  "last_posted_at": "2026-05-16T19:55:53.790419+00:00"
+  "last_posted_at": "2026-05-16T20:46:26.214094+00:00"
 }
