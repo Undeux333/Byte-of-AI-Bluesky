@@ -2,28 +2,6 @@
   "last_collected": "2026-05-16T07:06:29.919747+00:00",
   "queue": [
     {
-      "tweet": "So apparently Trump is calling Taiwan arms sales a negotiating chip with China. Imagine being the guys buying the weapons",
-      "original_url": "https://www.nytimes.com/2026/05/16/world/asia/trump-taiwan-arms-bargaining-chip-china.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump Turns Taiwan Arms Sales Into Bargaining Chip With China",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-16T07:06:29.918100+00:00"
-    },
-    {
-      "tweet": "People are still protesting in Melbourne after they dropped the charges in that Isla Bell case. That's a rough look",
-      "original_url": "https://www.theguardian.com/australia-news/2026/may/16/teenager-isla-bells-body-was-found-in-a-melbourne-tip-18-months-ago-today-friends-and-family-demanded-justice-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Teenager Isla Bell’s body was found in a Melbourne tip 18 months ago. Today friends and family demanded ‘justice’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-16T07:06:29.919391+00:00"
-    },
-    {
       "tweet": "Xi really tried to charm Trump by name-dropping Putin during a private walk. It's like listening to a middle schooler gossip",
       "original_url": "https://www.nytimes.com/2026/05/15/world/asia/china-xi-trump-summit-garden-putin.html",
       "buzz_score": 85,
@@ -77,39 +55,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Can't believe activists actually scaled the Eiffel Tower to hang that flag. Absolute chaos.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/activists-hang-palestinian-flag-on-the-eiffel-tower-for-nakba-day?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Activists hang Palestinian flag on the Eiffel Tower for Nakba Day",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-15T23:35:58.283678+00:00"
-    },
-    {
-      "tweet": "Colorado’s governor is letting Tina Peters out early after all that pressure from the Trump team. Guess rules are just suggestions if you know the right people.",
-      "original_url": "https://www.npr.org/2026/05/15/nx-s1-5690286/tina-peters-polis-commutation-trump",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Colorado's Democratic governor will let Trump ally Tina Peters out of prison early",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-15T23:35:58.283523+00:00"
-    },
-    {
-      "tweet": "Dude, I’m telling you, half these startups are just running on pure AI psychosis right now. They aren't even building a product anymore, they're just chasing a hallucination.",
-      "original_url": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "I believe there are entire companies right now under AI psychosis",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-15T23:35:58.283508+00:00"
     },
     {
       "tweet": "Man, this Secretary Duffy guy is filming reality TV shows funded by the firms he’s supposed to regulate. The transparency is non-existent.",
@@ -200,50 +145,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "That Iraqi guy accused of all those terror attacks finally got arrested. About time.",
-      "original_url": "https://www.theguardian.com/us-news/2026/may/15/iraqi-terror-attacks-arrested-charged",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Iraqi accused of multiple terror attacks in US and Europe arrested and charged",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-15T23:35:58.284682+00:00"
-    },
-    {
-      "tweet": "Lawyers are saying the Trump admin straight up engineered that case against the Columbia student. You can't even be surprised at this point.",
-      "original_url": "https://www.aljazeera.com/news/2026/5/15/mahmoud-khalil-calls-for-deportation-to-be-halted-in-light-of-new-evidence?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mahmoud Khalil calls for deportation to be halted in light of new evidence",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-15T23:35:58.284315+00:00"
-    },
-    {
-      "tweet": "Diablo 4 bug made everyone invincible instead of fixing the game. Honestly, we’re all just one patch away from total disaster.",
-      "original_url": "https://kotaku.com/diablo-4-bug-fix-accidentally-makes-players-basically-immortal-instead-yep-this-broke-the-game-2000696580",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Diablo 4 Bug Fix Accidentally Makes Players Basically Immortal Instead: ‘Yep This Broke The Game”",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-05-15T23:35:58.283928+00:00"
-    },
-    {
-      "tweet": "Liverpool actually crumbled out there today. Just embarrassing.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c392rp8lwe1o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'We crumbled' - another loss, another unwanted record for leaky Liverpool",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-15T23:35:58.283525+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -253,6 +154,39 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Can't believe activists actually scaled the Eiffel Tower to hang that flag. Absolute chaos.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/activists-hang-palestinian-flag-on-the-eiffel-tower-for-nakba-day?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Activists hang Palestinian flag on the Eiffel Tower for Nakba Day",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-05-15T23:35:58.283678+00:00"
+    },
+    {
+      "tweet": "Colorado’s governor is letting Tina Peters out early after all that pressure from the Trump team. Guess rules are just suggestions if you know the right people.",
+      "original_url": "https://www.npr.org/2026/05/15/nx-s1-5690286/tina-peters-polis-commutation-trump",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Colorado's Democratic governor will let Trump ally Tina Peters out of prison early",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-05-15T23:35:58.283523+00:00"
+    },
+    {
+      "tweet": "Dude, I’m telling you, half these startups are just running on pure AI psychosis right now. They aren't even building a product anymore, they're just chasing a hallucination.",
+      "original_url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "I believe there are entire companies right now under AI psychosis",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-15T23:35:58.283508+00:00"
     },
     {
       "tweet": "Did you see OpenAI is just straight up killing their bug bounty program. Like, I guess they just decided they're unhackable now or something. Hilarious.",
@@ -1012,6 +946,50 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
+    },
+    {
+      "tweet": "That Iraqi guy accused of all those terror attacks finally got arrested. About time.",
+      "original_url": "https://www.theguardian.com/us-news/2026/may/15/iraqi-terror-attacks-arrested-charged",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Iraqi accused of multiple terror attacks in US and Europe arrested and charged",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-15T23:35:58.284682+00:00"
+    },
+    {
+      "tweet": "Lawyers are saying the Trump admin straight up engineered that case against the Columbia student. You can't even be surprised at this point.",
+      "original_url": "https://www.aljazeera.com/news/2026/5/15/mahmoud-khalil-calls-for-deportation-to-be-halted-in-light-of-new-evidence?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Mahmoud Khalil calls for deportation to be halted in light of new evidence",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-05-15T23:35:58.284315+00:00"
+    },
+    {
+      "tweet": "Diablo 4 bug made everyone invincible instead of fixing the game. Honestly, we’re all just one patch away from total disaster.",
+      "original_url": "https://kotaku.com/diablo-4-bug-fix-accidentally-makes-players-basically-immortal-instead-yep-this-broke-the-game-2000696580",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Diablo 4 Bug Fix Accidentally Makes Players Basically Immortal Instead: ‘Yep This Broke The Game”",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-05-15T23:35:58.283928+00:00"
+    },
+    {
+      "tweet": "Liverpool actually crumbled out there today. Just embarrassing.",
+      "original_url": "https://www.bbc.com/sport/football/articles/c392rp8lwe1o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "'We crumbled' - another loss, another unwanted record for leaky Liverpool",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-15T23:35:58.283525+00:00"
     },
     {
       "tweet": "Hold on, the DOJ just charged a commander from that Kataib Hezbollah group. They're actually moving on that",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1087,
+    "total_posted": 1089,
     "total_collected": 4064
   },
-  "last_posted_at": "2026-05-16T07:13:58.370276+00:00"
+  "last_posted_at": "2026-05-16T09:06:09.810542+00:00"
 }
