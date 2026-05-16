@@ -2,28 +2,6 @@
   "last_collected": "2026-05-16T10:13:10.492140+00:00",
   "queue": [
     {
-      "tweet": "Saw that video of a settler blindfolding and detaining a guy in the West Bank. That's just wild",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israeli-settler-blindfolds-and-detains-palestinian-in-occupied-west-bank?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Israeli settler blindfolds and detains Palestinian in occupied West Bank",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-16T10:13:10.492014+00:00"
-    },
-    {
-      "tweet": "Did you hear California is trying to stop companies from killing online games? Why are we even paying for stuff we don't own anymore",
-      "original_url": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Bill to block publishers from killing online games advances in California",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-16T10:13:10.490573+00:00"
-    },
-    {
       "tweet": "People are saying Den-noh Coil predicted the internet being an invisible layer in our lives. We're already living in it",
       "original_url": "https://www.polygon.com/19-years-later-den-noh-coil-remains-the-first-anime-to-normalize-a-networked-world/",
       "buzz_score": 78,
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1093,
+    "total_posted": 1095,
     "total_collected": 4080
   },
-  "last_posted_at": "2026-05-16T11:26:23.621381+00:00"
+  "last_posted_at": "2026-05-16T12:20:32.136624+00:00"
 }
