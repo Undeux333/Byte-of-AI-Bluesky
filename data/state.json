@@ -123,28 +123,6 @@
       "added_at": "2026-05-15T17:57:41.961219+00:00"
     },
     {
-      "tweet": "Trump is threatening to indict Raúl Castro now. We're really just speed-running the entire Cold War playbook at this point.",
-      "original_url": "https://www.theguardian.com/world/2026/may/15/raul-castro-indictment-cuba-trump",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Threatened indictment of Raúl Castro ratchets up US pressure on Cuba",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-15T17:57:41.962420+00:00"
-    },
-    {
-      "tweet": "Middlesbrough is trying to get Southampton kicked out of the playoffs because of that whole Spygate thing. Imagine losing a match and just asking to ban the other guys.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cwy2dg2w168o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Middlesbrough want Southampton kicked out of play-offs over Spygate",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-15T17:57:41.961914+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -167,15 +145,26 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "That singer Claudine Longet died and the headline just casually mentions she shot an Olympic skier in the 70s. We really bury the lede on some people.",
-      "original_url": "https://www.billboard.com/music/music-news/claudine-longet-dead-at-84-1236249104/",
-      "buzz_score": 75,
+      "tweet": "Trump is threatening to indict Raúl Castro now. We're really just speed-running the entire Cold War playbook at this point.",
+      "original_url": "https://www.theguardian.com/world/2026/may/15/raul-castro-indictment-cuba-trump",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Claudine Longet, Adult Contemporary Hitmaker of the 1960s Who Fatally Shot an Olympic Skier in 1976, Dies at 84",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-15T17:57:41.961515+00:00"
+      "original_title": "Threatened indictment of Raúl Castro ratchets up US pressure on Cuba",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-15T17:57:41.962420+00:00"
+    },
+    {
+      "tweet": "Middlesbrough is trying to get Southampton kicked out of the playoffs because of that whole Spygate thing. Imagine losing a match and just asking to ban the other guys.",
+      "original_url": "https://www.bbc.com/sport/football/articles/cwy2dg2w168o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Middlesbrough want Southampton kicked out of play-offs over Spygate",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-15T17:57:41.961914+00:00"
     },
     {
       "tweet": "Man, this Secretary Duffy guy is filming reality TV shows funded by the firms he’s supposed to regulate. The transparency is non-existent.",
@@ -275,6 +264,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "That singer Claudine Longet died and the headline just casually mentions she shot an Olympic skier in the 70s. We really bury the lede on some people.",
+      "original_url": "https://www.billboard.com/music/music-news/claudine-longet-dead-at-84-1236249104/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Claudine Longet, Adult Contemporary Hitmaker of the 1960s Who Fatally Shot an Olympic Skier in 1976, Dies at 84",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-05-15T17:57:41.961515+00:00"
     },
     {
       "tweet": "Dude, arXiv is literally banning people for a year if their AI hallucinates citations. Imagine getting blacklisted by your own computer, man.",
