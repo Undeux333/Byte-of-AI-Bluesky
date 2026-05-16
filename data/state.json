@@ -2,17 +2,6 @@
   "last_collected": "2026-05-16T19:45:51.293077+00:00",
   "queue": [
     {
-      "tweet": "Just saw that list of people who actually inspired Beatles songs. It’s wild how the most random encounters just turn into massive hits, man.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/beatles-songs-inspired-by-real-people?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "7 Popular Beatles Songs Inspired By Real People",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-05-16T19:45:51.291708+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -132,17 +121,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Tens of thousands of people showing up for that Tommy Robinson rally in London. Can't believe we're still doing this.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/tens-of-thousands-join-far-right-rally-in-central-london?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Tens of thousands join far-right rally in central London",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-16T19:45:51.292141+00:00"
     },
     {
       "tweet": "Xi really tried to charm Trump by name-dropping Putin during a private walk. It's like listening to a middle schooler gossip",
@@ -957,6 +935,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
+    },
+    {
+      "tweet": "Tens of thousands of people showing up for that Tommy Robinson rally in London. Can't believe we're still doing this.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/tens-of-thousands-join-far-right-rally-in-central-london?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Tens of thousands join far-right rally in central London",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-05-16T19:45:51.292141+00:00"
     },
     {
       "tweet": "People are actually debating if an FA Cup win would fix Chelsea's season. Does a trophy really just erase that much disaster",
@@ -2018,8 +2007,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1106,
+    "total_posted": 1107,
     "total_collected": 4118
   },
-  "last_posted_at": "2026-05-16T20:46:26.214094+00:00"
+  "last_posted_at": "2026-05-16T21:31:29.605078+00:00"
 }
