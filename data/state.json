@@ -2,17 +2,6 @@
   "last_collected": "2026-05-16T16:44:27.015528+00:00",
   "queue": [
     {
-      "tweet": "Semenyo just pulled off that backheel for City and honestly, I don't even know how the defense processes that.",
-      "original_url": "https://www.bbc.com/sport/football/videos/c142gj2m6l3o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Man City beat Chelsea after brilliant Semenyo goal",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-16T16:44:27.014864+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -121,28 +110,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "Some guy got taken by a great white shark off Western Australia. Brutal man",
-      "original_url": "https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Man killed by 13ft great white shark in Western Australia",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-16T10:13:10.491891+00:00"
-    },
-    {
-      "tweet": "Found out Kris Kristofferson wrote half the songs I grew up listening to. Guy was a machine",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/songs-didn-t-know-written-by-kris-kristofferson?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "10 Songs You Didn't Know Were Written By Kris Kristofferson",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-05-16T10:13:10.491263+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -970,6 +937,39 @@
       "added_at": "2026-04-09T01:26:52.022051+00:00"
     },
     {
+      "tweet": "Some guy got taken by a great white shark off Western Australia. Brutal man",
+      "original_url": "https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Man killed by 13ft great white shark in Western Australia",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-16T10:13:10.491891+00:00"
+    },
+    {
+      "tweet": "Found out Kris Kristofferson wrote half the songs I grew up listening to. Guy was a machine",
+      "original_url": "https://www.mentalfloss.com/entertainment/music/songs-didn-t-know-written-by-kris-kristofferson?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "10 Songs You Didn't Know Were Written By Kris Kristofferson",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-05-16T10:13:10.491263+00:00"
+    },
+    {
+      "tweet": "People are actually debating if an FA Cup win would fix Chelsea's season. Does a trophy really just erase that much disaster",
+      "original_url": "https://www.bbc.com/sport/football/articles/cz72l30wqq4o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 82,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Would FA Cup win paper over the cracks for Chelsea?",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-16T07:06:29.918241+00:00"
+    },
+    {
       "tweet": "Xbox is trying to rebrand as XBOX. Like, the only difference is the caps lock key.",
       "original_url": "https://kotaku.com/the-internet-reacts-to-xbox-trying-to-rebrand-as-xbox-2000696758",
       "buzz_score": 80,
@@ -990,17 +990,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-05-16T16:44:27.014862+00:00"
-    },
-    {
-      "tweet": "People are actually debating if an FA Cup win would fix Chelsea's season. Does a trophy really just erase that much disaster",
-      "original_url": "https://www.bbc.com/sport/football/articles/cz72l30wqq4o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Would FA Cup win paper over the cracks for Chelsea?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-16T07:06:29.918241+00:00"
     },
     {
       "tweet": "They released that humpback whale back into the wild just for Timmy to turn up dead two weeks later. That's a rough run.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1101,
+    "total_posted": 1102,
     "total_collected": 4105
   },
-  "last_posted_at": "2026-05-16T16:49:40.900145+00:00"
+  "last_posted_at": "2026-05-16T17:40:31.057983+00:00"
 }
