@@ -156,28 +156,6 @@
       "added_at": "2026-05-17T15:34:09.964363+00:00"
     },
     {
-      "tweet": "They're bringing back all those 90s cereals. We're just chasing the childhood sugar rush",
-      "original_url": "https://www.mentalfloss.com/nostalgia/forgotten-short-lived-cereals-80s-90s?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "9 Forgotten Short-Lived Cereals of the ‘80s and ‘90s",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-05-17T12:53:43.831928+00:00"
-    },
-    {
-      "tweet": "Dude, a 0-click exploit for the Pixel 10 just dropped. We don't even have to do anything for our phones to get wiped. Terrifying",
-      "original_url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "A 0-click exploit chain for the Pixel 10",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-17T12:53:43.830594+00:00"
-    },
-    {
       "tweet": "Conor McGregor and Max Holloway are actually running it back at UFC 329. Let’s go.",
       "original_url": "https://hypebeast.com/2026/5/conor-mcgregor-returns-ufc-329-max-holloway-face-off-confirmed",
       "buzz_score": 95,
@@ -222,6 +200,28 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "They're bringing back all those 90s cereals. We're just chasing the childhood sugar rush",
+      "original_url": "https://www.mentalfloss.com/nostalgia/forgotten-short-lived-cereals-80s-90s?utm_source=RSS",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "9 Forgotten Short-Lived Cereals of the ‘80s and ‘90s",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-05-17T12:53:43.831928+00:00"
+    },
+    {
+      "tweet": "Dude, a 0-click exploit for the Pixel 10 just dropped. We don't even have to do anything for our phones to get wiped. Terrifying",
+      "original_url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "A 0-click exploit chain for the Pixel 10",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-17T12:53:43.830594+00:00"
+    },
+    {
       "tweet": "Yo, Ronda Rousey just choked out Carano in seventeen seconds. Seventeen.",
       "original_url": "https://www.espn.com/mma/story/_/id/48793049/ronda-rousey-submits-gina-carano-armbar-17-seconds",
       "buzz_score": 90,
@@ -231,17 +231,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-05-17T10:46:58.527441+00:00"
-    },
-    {
-      "tweet": "So apparently AI chatbots at the drive-thru are becoming the norm. Can we just order a burger without the tech demo",
-      "original_url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Chatbots at the drive-thru are just the beginning",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-05-17T12:53:43.831034+00:00"
     },
     {
       "tweet": "Ronda Rousey just came back and finished that fight in 15 seconds. Classic.",
@@ -354,6 +343,28 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "So apparently AI chatbots at the drive-thru are becoming the norm. Can we just order a burger without the tech demo",
+      "original_url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Chatbots at the drive-thru are just the beginning",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-05-17T12:53:43.831034+00:00"
+    },
+    {
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
       "tweet": "Did you see they hit an aid kitchen in Gaza? We're just calling that news now.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-kills-three-palestinians-in-strike-on-an-aid-kitchen-in-gaza?traffic_source=rss",
       "buzz_score": 85,
@@ -374,28 +385,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-17T10:46:58.526910+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "North Korean players are actually in Seoul right now for that tournament. Pretty surreal.",
-      "original_url": "https://www.theguardian.com/world/2026/may/17/afc-women-champions-league-north-korea-south-korea-naegohyang-fc-suwon",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘Tearing down barriers’: North Korean footballers arrive in Seoul for first time in eight years",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-17T10:46:58.527929+00:00"
     },
     {
       "tweet": "Will Ferrell and Paul McCartney on SNL acting like mechanics ripping people off. Everyone’s been to that shop.",
@@ -1056,6 +1045,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-23T20:01:51.951971+00:00"
+    },
+    {
+      "tweet": "North Korean players are actually in Seoul right now for that tournament. Pretty surreal.",
+      "original_url": "https://www.theguardian.com/world/2026/may/17/afc-women-champions-league-north-korea-south-korea-naegohyang-fc-suwon",
+      "buzz_score": 82,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "‘Tearing down barriers’: North Korean footballers arrive in Seoul for first time in eight years",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-17T10:46:58.527929+00:00"
     }
   ],
   "seen_urls": [
