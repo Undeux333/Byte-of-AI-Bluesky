@@ -167,17 +167,6 @@
       "added_at": "2026-05-17T12:53:43.831034+00:00"
     },
     {
-      "tweet": "Did you see what's going down in Moscow? Those drone strikes just hit right in the middle of everything. Wild.",
-      "original_url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-17T10:46:58.526910+00:00"
-    },
-    {
       "tweet": "Conor McGregor and Max Holloway are actually running it back at UFC 329. Let’s go.",
       "original_url": "https://hypebeast.com/2026/5/conor-mcgregor-returns-ufc-329-max-holloway-face-off-confirmed",
       "buzz_score": 95,
@@ -222,6 +211,17 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "Did you see what's going down in Moscow? Those drone strikes just hit right in the middle of everything. Wild.",
+      "original_url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-17T10:46:58.526910+00:00"
+    },
+    {
       "tweet": "North Korean players are actually in Seoul right now for that tournament. Pretty surreal.",
       "original_url": "https://www.theguardian.com/world/2026/may/17/afc-women-champions-league-north-korea-south-korea-naegohyang-fc-suwon",
       "buzz_score": 82,
@@ -231,17 +231,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-05-17T10:46:58.527929+00:00"
-    },
-    {
-      "tweet": "Erdogan is basically bribing people to have kids and nobody’s even biting. Does he not see the economy?",
-      "original_url": "https://www.nytimes.com/2026/05/17/world/europe/erdogan-turkey-demography-babies-family-planning-economy.html",
-      "buzz_score": 78,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Erdogan Wants Turkey to Have More Babies. Few Parents Are Listening.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-17T10:46:58.527179+00:00"
     },
     {
       "tweet": "Ronda Rousey just came back and finished that fight in 15 seconds. Classic.",
@@ -363,6 +352,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Erdogan is basically bribing people to have kids and nobody’s even biting. Does he not see the economy?",
+      "original_url": "https://www.nytimes.com/2026/05/17/world/europe/erdogan-turkey-demography-babies-family-planning-economy.html",
+      "buzz_score": 78,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Erdogan Wants Turkey to Have More Babies. Few Parents Are Listening.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-17T10:46:58.527179+00:00"
     },
     {
       "tweet": "Will Ferrell and Paul McCartney on SNL acting like mechanics ripping people off. Everyone’s been to that shop.",
