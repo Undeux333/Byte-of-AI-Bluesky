@@ -343,17 +343,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "So apparently AI chatbots at the drive-thru are becoming the norm. Can we just order a burger without the tech demo",
-      "original_url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Chatbots at the drive-thru are just the beginning",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-05-17T12:53:43.831034+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -365,15 +354,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Did you see they hit an aid kitchen in Gaza? We're just calling that news now.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-kills-three-palestinians-in-strike-on-an-aid-kitchen-in-gaza?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
+      "tweet": "So apparently AI chatbots at the drive-thru are becoming the norm. Can we just order a burger without the tech demo",
+      "original_url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
+      "buzz_score": 80,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Israel kills three Palestinians in strike on an aid kitchen in Gaza",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-17T19:48:24.650247+00:00"
+      "original_title": "Chatbots at the drive-thru are just the beginning",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-05-17T12:53:43.831034+00:00"
     },
     {
       "tweet": "Did you see what's going down in Moscow? Those drone strikes just hit right in the middle of everything. Wild.",
@@ -1045,6 +1034,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-23T20:01:51.951971+00:00"
+    },
+    {
+      "tweet": "Did you see they hit an aid kitchen in Gaza? We're just calling that news now.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-kills-three-palestinians-in-strike-on-an-aid-kitchen-in-gaza?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Israel kills three Palestinians in strike on an aid kitchen in Gaza",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-05-17T19:48:24.650247+00:00"
     },
     {
       "tweet": "North Korean players are actually in Seoul right now for that tournament. Pretty surreal.",
