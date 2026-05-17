@@ -2,28 +2,6 @@
   "last_collected": "2026-05-17T22:34:02.258995+00:00",
   "queue": [
     {
-      "tweet": "They're calling Bomberman 64 a masterpiece again. Honestly, we don't make games that fun anymore.",
-      "original_url": "https://kotaku.com/bomberman-64-is-a-masterpiece-of-3d-platformers-without-a-playbook-2000696848",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Bomberman 64 Is Still A Masterpiece Of 3D Platformers Without A Playbook",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-05-17T22:34:02.258124+00:00"
-    },
-    {
-      "tweet": "Man, I just read George Harrison's last words. It's wild how when you're actually at the end of it, you just stop worrying about all the noise. Just love one another.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/george-harrison-emotional-last-words-lost-beatles-song?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "George Harrison’s Emotional Last Words Sound Like a Lost Beatles Song",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-05-17T22:34:02.256944+00:00"
-    },
-    {
       "tweet": "There’s a study ranking cities for introverts. Nashville is apparently the spot for us.",
       "original_url": "https://www.mentalfloss.com/geography/cities/best-and-worst-cities-for-introverts-2026?utm_source=RSS",
       "buzz_score": 85,
@@ -123,50 +101,6 @@
       "added_at": "2026-05-17T15:34:09.963707+00:00"
     },
     {
-      "tweet": "There’s actually a Godzilla and Sonic comic coming out. I don't know who asked for this, but I'm in.",
-      "original_url": "https://www.polygon.com/idw-sonic-the-hedgehog-x-godzilla/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Godzilla and Sonic is the comic book crossover we didn't know we needed — check out an exclusive preview",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-05-17T15:34:09.964733+00:00"
-    },
-    {
-      "tweet": "The whole N64 library basically has rollback netcode now. I'm definitely losing my entire weekend to this.",
-      "original_url": "https://kotaku.com/the-entire-nintendo-64-library-now-has-rollback-netcode-2000696785",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Entire Nintendo 64 Library Now Has Rollback Netcode",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-05-17T15:34:09.964487+00:00"
-    },
-    {
-      "tweet": "So apparently the SPFL had to release a statement to prove the Celtic title decider didn't actually end early because of the fans. What a joke.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c4g9ww4p09do?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Title decider not cut short by pitch invasion - SPFL",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-17T15:34:09.964114+00:00"
-    },
-    {
-      "tweet": "Dude, people are saying AI isn't even gonna speed up our actual work. We're just adding more steps to the same stuff.",
-      "original_url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "I don't think AI will make your processes go faster",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-17T15:34:09.963544+00:00"
-    },
-    {
       "tweet": "Conor McGregor and Max Holloway are actually running it back at UFC 329. Let’s go.",
       "original_url": "https://hypebeast.com/2026/5/conor-mcgregor-returns-ufc-329-max-holloway-face-off-confirmed",
       "buzz_score": 95,
@@ -211,15 +145,48 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Germany spent all that time trying to rescue that whale Timmy when the experts said to just let it go. Why do we do this to ourselves?",
-      "original_url": "https://www.theguardian.com/environment/2026/may/17/german-minister-defends-decision-rescue-stranded-whale-timmy",
-      "buzz_score": 80,
+      "tweet": "There’s actually a Godzilla and Sonic comic coming out. I don't know who asked for this, but I'm in.",
+      "original_url": "https://www.polygon.com/idw-sonic-the-hedgehog-x-godzilla/",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "German minister defends decision to allow attempt to rescue whale Timmy",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-17T15:34:09.964363+00:00"
+      "original_title": "Godzilla and Sonic is the comic book crossover we didn't know we needed — check out an exclusive preview",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-05-17T15:34:09.964733+00:00"
+    },
+    {
+      "tweet": "The whole N64 library basically has rollback netcode now. I'm definitely losing my entire weekend to this.",
+      "original_url": "https://kotaku.com/the-entire-nintendo-64-library-now-has-rollback-netcode-2000696785",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Entire Nintendo 64 Library Now Has Rollback Netcode",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-05-17T15:34:09.964487+00:00"
+    },
+    {
+      "tweet": "So apparently the SPFL had to release a statement to prove the Celtic title decider didn't actually end early because of the fans. What a joke.",
+      "original_url": "https://www.bbc.com/sport/football/articles/c4g9ww4p09do?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Title decider not cut short by pitch invasion - SPFL",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-17T15:34:09.964114+00:00"
+    },
+    {
+      "tweet": "Dude, people are saying AI isn't even gonna speed up our actual work. We're just adding more steps to the same stuff.",
+      "original_url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "I don't think AI will make your processes go faster",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-17T15:34:09.963544+00:00"
     },
     {
       "tweet": "Yo, Ronda Rousey just choked out Carano in seventeen seconds. Seventeen.",
@@ -343,6 +310,28 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
+      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Germany spent all that time trying to rescue that whale Timmy when the experts said to just let it go. Why do we do this to ourselves?",
+      "original_url": "https://www.theguardian.com/environment/2026/may/17/german-minister-defends-decision-rescue-stranded-whale-timmy",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "German minister defends decision to allow attempt to rescue whale Timmy",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-17T15:34:09.964363+00:00"
+    },
+    {
       "tweet": "Ukraine launched 600 drones after that Russian attack. They’re really not pulling any punches anymore.",
       "original_url": "https://www.theguardian.com/world/2026/may/17/people-killed-in-russia-ukraine-retaliatory-strikes-moscow",
       "buzz_score": 85,
@@ -374,17 +363,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-05-17T22:34:02.257379+00:00"
-    },
-    {
-      "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
-      "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
       "tweet": "They're bringing back all those 90s cereals. We're just chasing the childhood sugar rush",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1110,
+    "total_posted": 1112,
     "total_collected": 4256
   },
-  "last_posted_at": "2026-05-17T22:39:43.714492+00:00"
+  "last_posted_at": "2026-05-17T23:46:10.417519+00:00"
 }
