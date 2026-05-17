@@ -24,17 +24,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Reading about the haves and have nots in this AI gold rush. The vibes are just straight up cooked right now.",
-      "original_url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The haves and have nots of the AI gold rush",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-05-16T22:28:31.489925+00:00"
-    },
-    {
       "tweet": "Man, this Secretary Duffy guy is filming reality TV shows funded by the firms he’s supposed to regulate. The transparency is non-existent.",
       "original_url": "https://www.npr.org/2026/05/12/nx-s1-5818190/sean-duffy-road-trip-reality-show-sponsors",
       "buzz_score": 90,
@@ -123,6 +112,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Reading about the haves and have nots in this AI gold rush. The vibes are just straight up cooked right now.",
+      "original_url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The haves and have nots of the AI gold rush",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-05-16T22:28:31.489925+00:00"
+    },
+    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -132,28 +132,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Louis Theroux actually did a cameo roasting himself on SNL UK. The man's a legend.",
-      "original_url": "https://deadline.com/2026/05/louis-theroux-cameos-in-snl-uk-sketch-1236907511/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "A Flock Of Therouxs: Actual Louis Theroux Cameos In ‘SNL UK’ Sketch Roasting His Presenting Style",
-      "source": "Deadline",
-      "category": "entertainment",
-      "added_at": "2026-05-16T22:28:31.490340+00:00"
-    },
-    {
-      "tweet": "Svitolina actually took down Gauff at the Italian Open. That match was insane.",
-      "original_url": "https://www.bbc.com/sport/tennis/articles/c0j2dw6d70qo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Svitolina upsets Gauff to win Italian Open thriller",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-16T22:28:31.489120+00:00"
     },
     {
       "tweet": "Xi really tried to charm Trump by name-dropping Putin during a private walk. It's like listening to a middle schooler gossip",
@@ -968,6 +946,28 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-09T01:26:52.022051+00:00"
+    },
+    {
+      "tweet": "Louis Theroux actually did a cameo roasting himself on SNL UK. The man's a legend.",
+      "original_url": "https://deadline.com/2026/05/louis-theroux-cameos-in-snl-uk-sketch-1236907511/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "A Flock Of Therouxs: Actual Louis Theroux Cameos In ‘SNL UK’ Sketch Roasting His Presenting Style",
+      "source": "Deadline",
+      "category": "entertainment",
+      "added_at": "2026-05-16T22:28:31.490340+00:00"
+    },
+    {
+      "tweet": "Svitolina actually took down Gauff at the Italian Open. That match was insane.",
+      "original_url": "https://www.bbc.com/sport/tennis/articles/c0j2dw6d70qo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Svitolina upsets Gauff to win Italian Open thriller",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-16T22:28:31.489120+00:00"
     },
     {
       "tweet": "People are actually debating if an FA Cup win would fix Chelsea's season. Does a trophy really just erase that much disaster",
