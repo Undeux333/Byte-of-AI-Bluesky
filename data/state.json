@@ -79,17 +79,6 @@
       "added_at": "2026-05-18T22:36:09.884433+00:00"
     },
     {
-      "tweet": "Experts say we're gonna see more Ebola and hantavirus outbreaks because we're just not resilient anymore. We're cooked.",
-      "original_url": "https://www.theguardian.com/global-development/2026/may/18/infectious-diseases-hantavirus-ebola-more-frequent-damaging-pandemic-outbreak",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Infectious diseases such as hantavirus and Ebola becoming more frequent and damaging, say experts",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-18T16:17:19.130308+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -110,6 +99,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Experts say we're gonna see more Ebola and hantavirus outbreaks because we're just not resilient anymore. We're cooked.",
+      "original_url": "https://www.theguardian.com/global-development/2026/may/18/infectious-diseases-hantavirus-ebola-more-frequent-damaging-pandemic-outbreak",
+      "buzz_score": 82,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Infectious diseases such as hantavirus and Ebola becoming more frequent and damaging, say experts",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-18T16:17:19.130308+00:00"
     },
     {
       "tweet": "Man, six Americans might have been exposed to Ebola in the Congo. Just insane.",
@@ -286,17 +286,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-05-18T12:55:14.941741+00:00"
-    },
-    {
-      "tweet": "Hold on, people are saying there’s an active shooter at the mosque in San Diego. This is getting scary.",
-      "original_url": "https://www.aljazeera.com/news/2026/5/18/san-diego-police-say-responding-to-an-active-shooter-at-islamic-center?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Police say they are responding to ‘active shooter’ at San Diego mosque",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-18T20:09:27.892607+00:00"
     },
     {
       "tweet": "Dude, Germany has an actual Tiger Queen running around. Police literally had to shoot the thing after it went after some guy. Wild.",
@@ -1034,6 +1023,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-28T13:08:18.092083+00:00"
+    },
+    {
+      "tweet": "Hold on, people are saying there’s an active shooter at the mosque in San Diego. This is getting scary.",
+      "original_url": "https://www.aljazeera.com/news/2026/5/18/san-diego-police-say-responding-to-an-active-shooter-at-islamic-center?traffic_source=rss",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Police say they are responding to ‘active shooter’ at San Diego mosque",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-05-18T20:09:27.892607+00:00"
     },
     {
       "tweet": "US is offering Cuba aid but only if they let us dictate their future. Subtle as always",
