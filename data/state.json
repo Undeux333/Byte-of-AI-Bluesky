@@ -2,28 +2,6 @@
   "last_collected": "2026-05-18T20:09:27.893300+00:00",
   "queue": [
     {
-      "tweet": "PGMO just admitted that Man Utd goal against Forest was a total handball. Refs are just guessing out there.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cp3p91xed8go?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "PGMO admits handball error on Man Utd goal v Forest",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-18T20:09:27.892379+00:00"
-    },
-    {
-      "tweet": "Found out the phrase pull yourself up by your bootstraps literally meant doing the impossible as a joke. We've been using it to mean hard work this whole time for no reason.",
-      "original_url": "https://www.mentalfloss.com/language/pull-yourself-up-by-your-bootstraps-meaning?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "“Pull Yourself Up by Your Bootstraps” Didn’t Originally Mean What You Think",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-05-18T16:17:19.129614+00:00"
-    },
-    {
       "tweet": "Experts say we're gonna see more Ebola and hantavirus outbreaks because we're just not resilient anymore. We're cooked.",
       "original_url": "https://www.theguardian.com/global-development/2026/may/18/infectious-diseases-hantavirus-ebola-more-frequent-damaging-pandemic-outbreak",
       "buzz_score": 82,
@@ -33,28 +11,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-05-18T16:17:19.130308+00:00"
-    },
-    {
-      "tweet": "Man, six Americans might have been exposed to Ebola in the Congo. Just insane.",
-      "original_url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "At least six Americans exposed to Ebola during DR Congo outbreak",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-18T12:55:14.941747+00:00"
-    },
-    {
-      "tweet": "Dude, people are saying native tech is all good until you actually need to write some text. That's just how we end up debugging for six hours over a line break.",
-      "original_url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Native all the way, until you need text",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-18T12:55:14.941741+00:00"
     },
     {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
@@ -79,15 +35,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Hold on, people are saying there’s an active shooter at the mosque in San Diego. This is getting scary.",
-      "original_url": "https://www.aljazeera.com/news/2026/5/18/san-diego-police-say-responding-to-an-active-shooter-at-islamic-center?traffic_source=rss",
+      "tweet": "Man, six Americans might have been exposed to Ebola in the Congo. Just insane.",
+      "original_url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 90,
-      "buzz_score2": 90,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Police say they are responding to ‘active shooter’ at San Diego mosque",
-      "source": "Al Jazeera",
+      "original_title": "At least six Americans exposed to Ebola during DR Congo outbreak",
+      "source": "BBC World",
       "category": "world",
-      "added_at": "2026-05-18T20:09:27.892607+00:00"
+      "added_at": "2026-05-18T12:55:14.941747+00:00"
     },
     {
       "tweet": "Graduation speakers are being told to stop talking about AI for commencement. Even they know we're tired of hearing about it.",
@@ -231,6 +187,28 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "Dude, people are saying native tech is all good until you actually need to write some text. That's just how we end up debugging for six hours over a line break.",
+      "original_url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Native all the way, until you need text",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-18T12:55:14.941741+00:00"
+    },
+    {
+      "tweet": "Hold on, people are saying there’s an active shooter at the mosque in San Diego. This is getting scary.",
+      "original_url": "https://www.aljazeera.com/news/2026/5/18/san-diego-police-say-responding-to-an-active-shooter-at-islamic-center?traffic_source=rss",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Police say they are responding to ‘active shooter’ at San Diego mosque",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-05-18T20:09:27.892607+00:00"
     },
     {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
@@ -981,17 +959,6 @@
       "added_at": "2026-04-28T13:08:18.092083+00:00"
     },
     {
-      "tweet": "So apparently Trump called off that Iran strike 'cause some Gulf states asked him to. Are we actually running foreign policy based on group chats now?",
-      "original_url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump says he called off new Iran attack at request of Gulf states",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-18T20:09:27.891995+00:00"
-    },
-    {
       "tweet": "Wait, so RFK Jr. is basing health policy on some controversial Danish vaccine research now? We're cooked.",
       "original_url": "https://www.wired.com/story/a-danish-couples-maverick-african-research-finds-its-moment-in-rfk-jrs-vaccine-policy/",
       "buzz_score": 80,
@@ -1012,6 +979,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-05-18T09:37:45.596684+00:00"
+    },
+    {
+      "tweet": "So apparently Trump called off that Iran strike 'cause some Gulf states asked him to. Are we actually running foreign policy based on group chats now?",
+      "original_url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump says he called off new Iran attack at request of Gulf states",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-18T20:09:27.891995+00:00"
     },
     {
       "tweet": "Rory McIlroy just blew up at a fan for shouting USA during his round. Professional athletes really shouldn't be listening to the crowd.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1126,
+    "total_posted": 1128,
     "total_collected": 4330
   },
-  "last_posted_at": "2026-05-18T20:17:56.601755+00:00"
+  "last_posted_at": "2026-05-18T21:43:10.868181+00:00"
 }
