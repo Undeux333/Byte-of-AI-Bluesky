@@ -2,28 +2,6 @@
   "last_collected": "2026-05-18T16:17:19.131480+00:00",
   "queue": [
     {
-      "tweet": "Gavin Newsom talking about Best Buy like it's 2004 and stressing over sales tax on software. He is so out of touch.",
-      "original_url": "https://kotaku.com/california-governor-talks-about-best-buy-like-its-2004-im-paying-sales-tax-on-a-lot-of-this-prewritten-software-2000697058",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "California Governor Talks About Best Buy Like It’s 2004: ‘I’m Paying Sales Tax On A Lot Of This Prewritten Software’",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-05-18T16:17:19.130583+00:00"
-    },
-    {
-      "tweet": "Trump is holding up that arms deal for Taiwan and it's basically a free win for Beijing. Since when did we start making it this easy for them?",
-      "original_url": "https://www.nytimes.com/2026/05/18/world/asia/trump-taiwan-china-weapons.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump’s Taiwan Gambit is Already a Gift to China",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-18T16:17:19.129787+00:00"
-    },
-    {
       "tweet": "Found out the phrase pull yourself up by your bootstraps literally meant doing the impossible as a joke. We've been using it to mean hard work this whole time for no reason.",
       "original_url": "https://www.mentalfloss.com/language/pull-yourself-up-by-your-bootstraps-meaning?utm_source=RSS",
       "buzz_score": 85,
@@ -68,28 +46,6 @@
       "added_at": "2026-05-18T12:55:14.941741+00:00"
     },
     {
-      "tweet": "Dude, Germany has an actual Tiger Queen running around. Police literally had to shoot the thing after it went after some guy. Wild.",
-      "original_url": "https://www.bbc.com/news/articles/cwy217yw7nxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Escaped tiger shot by German police after attacking man",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-18T09:37:45.596675+00:00"
-    },
-    {
-      "tweet": "Rory McIlroy just blew up at a fan for shouting USA during his round. Professional athletes really shouldn't be listening to the crowd.",
-      "original_url": "https://www.espn.com/golf/story/_/id/48801616/rory-mcilroy-heated-exchange-fan-pga-championship-usa-shout-gallery",
-      "buzz_score": 90,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Rory fires back at fan after 'USA' shout from gall...",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-05-18T12:55:14.942463+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -110,50 +66,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Apparently it's basically impossible to catch insider trading on places like Polymarket now. Why are we even surprised?",
-      "original_url": "https://www.npr.org/2026/05/18/g-s1-122515/why-catching-insider-trading-is-so-tricky-nowadays-and-just-how-helpful-is-it-for-kids-to-sleep-in",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Why catching insider trading is so tricky nowadays, and just how helpful is it for kids to sleep in?",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-18T12:55:14.941911+00:00"
-    },
-    {
-      "tweet": "Wait, so RFK Jr. is basing health policy on some controversial Danish vaccine research now? We're cooked.",
-      "original_url": "https://www.wired.com/story/a-danish-couples-maverick-african-research-finds-its-moment-in-rfk-jrs-vaccine-policy/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "A Danish Couple’s Maverick African Research Finds Its Moment in RFK Jr.’s Vaccine Policy",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-05-18T09:37:45.597360+00:00"
-    },
-    {
-      "tweet": "So apparently the U.S. is out here trying to demand a major role in Greenland. Like we're just gonna walk up and take it. Bold.",
-      "original_url": "https://www.nytimes.com/2026/05/18/world/europe/in-closed-door-talks-us-demands-a-major-role-in-greenland.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "In Closed-Door Talks, U.S. Demands a Major Role in Greenland",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-18T09:37:45.596684+00:00"
-    },
-    {
-      "tweet": "Bill Cassidy lost his primary and the WHO just declared a global health emergency for Ebola. What a day.",
-      "original_url": "https://www.npr.org/2026/05/18/g-s1-122577/up-first-newsletter-bill-cassidy-trump-ebola-elon-musk-openai-sam-altman-idaho-airshow-collision",
-      "buzz_score": 85,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Sen. Bill Cassidy loses primary. And, WHO declares Ebola outbreak a global emergency",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-18T12:55:14.943370+00:00"
     },
     {
       "tweet": "Graduation speakers are being told to stop talking about AI for commencement. Even they know we're tired of hearing about it.",
@@ -299,6 +211,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Dude, Germany has an actual Tiger Queen running around. Police literally had to shoot the thing after it went after some guy. Wild.",
+      "original_url": "https://www.bbc.com/news/articles/cwy217yw7nxo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Escaped tiger shot by German police after attacking man",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-18T09:37:45.596675+00:00"
+    },
+    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -308,6 +231,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Rory McIlroy just blew up at a fan for shouting USA during his round. Professional athletes really shouldn't be listening to the crowd.",
+      "original_url": "https://www.espn.com/golf/story/_/id/48801616/rory-mcilroy-heated-exchange-fan-pga-championship-usa-shout-gallery",
+      "buzz_score": 90,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Rory fires back at fan after 'USA' shout from gall...",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-05-18T12:55:14.942463+00:00"
+    },
+    {
+      "tweet": "Apparently it's basically impossible to catch insider trading on places like Polymarket now. Why are we even surprised?",
+      "original_url": "https://www.npr.org/2026/05/18/g-s1-122515/why-catching-insider-trading-is-so-tricky-nowadays-and-just-how-helpful-is-it-for-kids-to-sleep-in",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Why catching insider trading is so tricky nowadays, and just how helpful is it for kids to sleep in?",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-05-18T12:55:14.941911+00:00"
     },
     {
       "tweet": "There’s a study ranking cities for introverts. Nashville is apparently the spot for us.",
@@ -1034,6 +979,39 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-04-28T13:08:18.092083+00:00"
+    },
+    {
+      "tweet": "Wait, so RFK Jr. is basing health policy on some controversial Danish vaccine research now? We're cooked.",
+      "original_url": "https://www.wired.com/story/a-danish-couples-maverick-african-research-finds-its-moment-in-rfk-jrs-vaccine-policy/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "A Danish Couple’s Maverick African Research Finds Its Moment in RFK Jr.’s Vaccine Policy",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-05-18T09:37:45.597360+00:00"
+    },
+    {
+      "tweet": "So apparently the U.S. is out here trying to demand a major role in Greenland. Like we're just gonna walk up and take it. Bold.",
+      "original_url": "https://www.nytimes.com/2026/05/18/world/europe/in-closed-door-talks-us-demands-a-major-role-in-greenland.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "In Closed-Door Talks, U.S. Demands a Major Role in Greenland",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-18T09:37:45.596684+00:00"
+    },
+    {
+      "tweet": "Bill Cassidy lost his primary and the WHO just declared a global health emergency for Ebola. What a day.",
+      "original_url": "https://www.npr.org/2026/05/18/g-s1-122577/up-first-newsletter-bill-cassidy-trump-ebola-elon-musk-openai-sam-altman-idaho-airshow-collision",
+      "buzz_score": 85,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Sen. Bill Cassidy loses primary. And, WHO declares Ebola outbreak a global emergency",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-05-18T12:55:14.943370+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1122,
+    "total_posted": 1124,
     "total_collected": 4315
   },
-  "last_posted_at": "2026-05-18T16:24:40.822895+00:00"
+  "last_posted_at": "2026-05-18T18:23:43.486763+00:00"
 }
