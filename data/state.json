@@ -233,50 +233,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "The new Magic Secret Lair drop was such a disaster that even the creator couldn't buy his own cards. Good job.",
-      "original_url": "https://kotaku.com/latest-magic-the-gathering-secret-lair-drop-mess-creator-deck-2000697515",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The Latest MTG Secret Lair Drop Was Such A Mess, Even Its Creator Couldn’t Buy Anything",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-05-19T20:57:10.497998+00:00"
-    },
-    {
-      "tweet": "Reading this review on the Lego Batman game, and man, the nostalgia bait is getting out of hand lately.",
-      "original_url": "https://kotaku.com/lego-batman-the-legacy-of-the-dark-knight-the-kotaku-review-arkham-ps5-xbox-open-world-2000697113",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Lego Batman: The Legacy Of The Dark Knight: The Kotaku Review",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-05-19T14:32:31.440880+00:00"
-    },
-    {
-      "tweet": "TNT decided not to make the European finals free to watch. Like, how are they still trying to squeeze us for every penny.",
-      "original_url": "https://www.bbc.com/sport/football/articles/c98rnme5ly7o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "TNT opts not to make European finals free to watch",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-19T14:32:31.440363+00:00"
-    },
-    {
-      "tweet": "Man, Apple added new accessibility features to the phone. Honestly, half the stuff we use daily is just to make life less annoying for everyone, not just people with actual needs.",
-      "original_url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "New accessibility features powered by Apple Intelligence",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-19T14:32:31.439658+00:00"
-    },
-    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -286,6 +242,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "The new Magic Secret Lair drop was such a disaster that even the creator couldn't buy his own cards. Good job.",
+      "original_url": "https://kotaku.com/latest-magic-the-gathering-secret-lair-drop-mess-creator-deck-2000697515",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Latest MTG Secret Lair Drop Was Such A Mess, Even Its Creator Couldn’t Buy Anything",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-05-19T20:57:10.497998+00:00"
     },
     {
       "tweet": "Forza Horizon 6 is gonna be in Japan. I’ve seen the map and it’s actually insane.",
@@ -1034,6 +1001,39 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-04-30T04:49:22.920460+00:00"
+    },
+    {
+      "tweet": "Reading this review on the Lego Batman game, and man, the nostalgia bait is getting out of hand lately.",
+      "original_url": "https://kotaku.com/lego-batman-the-legacy-of-the-dark-knight-the-kotaku-review-arkham-ps5-xbox-open-world-2000697113",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Lego Batman: The Legacy Of The Dark Knight: The Kotaku Review",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-05-19T14:32:31.440880+00:00"
+    },
+    {
+      "tweet": "TNT decided not to make the European finals free to watch. Like, how are they still trying to squeeze us for every penny.",
+      "original_url": "https://www.bbc.com/sport/football/articles/c98rnme5ly7o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "TNT opts not to make European finals free to watch",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-19T14:32:31.440363+00:00"
+    },
+    {
+      "tweet": "Man, Apple added new accessibility features to the phone. Honestly, half the stuff we use daily is just to make life less annoying for everyone, not just people with actual needs.",
+      "original_url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "New accessibility features powered by Apple Intelligence",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-19T14:32:31.439658+00:00"
     },
     {
       "tweet": "Rubio is out here trashing the WHO for being slow on Ebola while we’re cutting public health funding. The irony is too much.",
