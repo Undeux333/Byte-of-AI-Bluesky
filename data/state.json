@@ -2,50 +2,6 @@
   "last_collected": "2026-05-20T19:39:45.137454+00:00",
   "queue": [
     {
-      "tweet": "Did you see Google changed their search box again? Feels like they're just moving buttons around at this point, man.",
-      "original_url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Google changes its search box",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-20T14:15:01.930667+00:00"
-    },
-    {
-      "tweet": "Just saw that map of the pay gap across states. Kind of wild how it's still such a coin flip depending on where you're working.",
-      "original_url": "https://www.mentalfloss.com/geography/maps/us-pay-gap-state?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The U.S. Gender Pay Gap, Mapped By State",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-05-20T14:15:01.930673+00:00"
-    },
-    {
-      "tweet": "Trump finally took out Massie in Kentucky. Dude is just running the Republican Party like a private security firm at this point.",
-      "original_url": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump exerts iron grip on Republican Party with Massie defeated",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-20T11:33:59.799045+00:00"
-    },
-    {
-      "tweet": "Harry Styles’ team is actually arguing with fans about those obstructed views on the tour. You pay that much just to stare at a stage pillar.",
-      "original_url": "https://www.billboard.com/music/music-news/harry-styles-together-together-tour-sightline-complaints-1236252425/",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Harry Styles’ Team Responds to Fan Complaints About Obstructed ‘Together, Together’ Tour Sightlines",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-20T11:33:59.799331+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -68,48 +24,26 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "The new AMG GT is fully electric and hits 60 in two seconds. My neck hurts just reading that.",
-      "original_url": "https://hypebeast.com/2026/5/mercedes-amg-gt-4-door-coupe-becomes-2027-ev-flagship",
-      "buzz_score": 85,
+      "tweet": "Just saw that map of the pay gap across states. Kind of wild how it's still such a coin flip depending on where you're working.",
+      "original_url": "https://www.mentalfloss.com/geography/maps/us-pay-gap-state?utm_source=RSS",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "The 2027 Mercedes-AMG GT 4-Door Is an All-Electric Flagship With a 2-Second 0-60",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-05-20T11:33:59.800106+00:00"
+      "original_title": "The U.S. Gender Pay Gap, Mapped By State",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-05-20T14:15:01.930673+00:00"
     },
     {
-      "tweet": "Knicks just went after Harden all night to spark that rally. Man, watching him get hunted in the fourth was pure comedy.",
-      "original_url": "https://www.espn.com/nba/story/_/id/48822838/knicks-flip-script-attack-james-harden-spark-game-1-rally",
-      "buzz_score": 85,
+      "tweet": "Trump finally took out Massie in Kentucky. Dude is just running the Republican Party like a private security firm at this point.",
+      "original_url": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 90,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Knicks flip script, attack Harden to spark rally",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-05-20T11:33:59.799456+00:00"
-    },
-    {
-      "tweet": "Iran is playing this triangular coercion thing and it's working. Seems like we're just watching the Strait of Hormuz get used as a hostage.",
-      "original_url": "https://www.nytimes.com/2026/05/20/world/middleeast/iran-strait-of-hormuz-triangular-coercion.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "How Iran Gained Leverage in the War",
-      "source": "NYT World",
+      "original_title": "Trump exerts iron grip on Republican Party with Massie defeated",
+      "source": "BBC World",
       "category": "world",
-      "added_at": "2026-05-20T11:33:59.799203+00:00"
-    },
-    {
-      "tweet": "Found a site that basically has every old operating system running in your browser. Turns out we just miss the days when computers actually worked.",
-      "original_url": "https://virtualosmuseum.org/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "I’ve built a virtual museum with nearly every operating system you can think of",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-20T11:33:59.799039+00:00"
+      "added_at": "2026-05-20T11:33:59.799045+00:00"
     },
     {
       "tweet": "Did you hear that? Xi just met with Putin days after hosting Trump. These guys are playing us like a fiddle.",
@@ -310,6 +244,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Harry Styles’ team is actually arguing with fans about those obstructed views on the tour. You pay that much just to stare at a stage pillar.",
+      "original_url": "https://www.billboard.com/music/music-news/harry-styles-together-together-tour-sightline-complaints-1236252425/",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Harry Styles’ Team Responds to Fan Complaints About Obstructed ‘Together, Together’ Tour Sightlines",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-05-20T11:33:59.799331+00:00"
+    },
+    {
       "tweet": "Did you see that watch guy Dominic Khoo? Turns out his whole luxury investment scheme was just another Ponzi. They always are.",
       "original_url": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
       "buzz_score": 88,
@@ -319,6 +264,50 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "The new AMG GT is fully electric and hits 60 in two seconds. My neck hurts just reading that.",
+      "original_url": "https://hypebeast.com/2026/5/mercedes-amg-gt-4-door-coupe-becomes-2027-ev-flagship",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The 2027 Mercedes-AMG GT 4-Door Is an All-Electric Flagship With a 2-Second 0-60",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-05-20T11:33:59.800106+00:00"
+    },
+    {
+      "tweet": "Knicks just went after Harden all night to spark that rally. Man, watching him get hunted in the fourth was pure comedy.",
+      "original_url": "https://www.espn.com/nba/story/_/id/48822838/knicks-flip-script-attack-james-harden-spark-game-1-rally",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Knicks flip script, attack Harden to spark rally",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-05-20T11:33:59.799456+00:00"
+    },
+    {
+      "tweet": "Iran is playing this triangular coercion thing and it's working. Seems like we're just watching the Strait of Hormuz get used as a hostage.",
+      "original_url": "https://www.nytimes.com/2026/05/20/world/middleeast/iran-strait-of-hormuz-triangular-coercion.html",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "How Iran Gained Leverage in the War",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-20T11:33:59.799203+00:00"
+    },
+    {
+      "tweet": "Found a site that basically has every old operating system running in your browser. Turns out we just miss the days when computers actually worked.",
+      "original_url": "https://virtualosmuseum.org/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "I’ve built a virtual museum with nearly every operating system you can think of",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-20T11:33:59.799039+00:00"
     },
     {
       "tweet": "So apparently Minnesota is the first state to ban prediction markets. Like we really needed them to decide what we're allowed to bet on now. Wild.",
@@ -2018,8 +2007,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1158,
+    "total_posted": 1159,
     "total_collected": 4564
   },
-  "last_posted_at": "2026-05-20T19:47:24.150779+00:00"
+  "last_posted_at": "2026-05-20T21:22:29.664438+00:00"
 }
