@@ -244,28 +244,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "William Shatner is out here roasting Magic: The Gathering for using AI art on his own card. That's hilarious.",
-      "original_url": "https://kotaku.com/william-shatner-dunks-on-kirk-card-from-the-mtg-star-trek-set-accusing-it-of-looking-ai-generated-2000698283",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "William Shatner Dunks On Kirk Card From The MTG Star Trek Set, Accusing It Of Looking AI Generated",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-05-21T20:17:26.422026+00:00"
-    },
-    {
-      "tweet": "Turns out the Queen was the one pushing to get Prince Andrew that envoy job. She really knew how to look out for family.",
-      "original_url": "https://www.nytimes.com/2026/05/21/world/europe/prince-andrew-appointment-queen-uk.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Queen Elizabeth Pushed for Ex-Prince Andrew to Get Envoy Position, New Documents Show",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-21T20:17:26.420991+00:00"
-    },
-    {
       "tweet": "Harry Styles’ team is actually arguing with fans about those obstructed views on the tour. You pay that much just to stare at a stage pillar.",
       "original_url": "https://www.billboard.com/music/music-news/harry-styles-together-together-tour-sightline-complaints-1236252425/",
       "buzz_score": 88,
@@ -959,6 +937,50 @@
       "added_at": "2026-05-10T06:43:54.447368+00:00"
     },
     {
+      "tweet": "Those officers who defended the Capitol are suing to block payouts from that settlement fund. Like, how does that even make sense",
+      "original_url": "https://www.npr.org/2026/05/21/g-s1-123293/officers-who-defended-capitol-sue",
+      "buzz_score": 84,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Officers who defended Capitol from rioters sue to block payouts from fund",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-05-21T07:40:59.930923+00:00"
+    },
+    {
+      "tweet": "William Shatner is out here roasting Magic: The Gathering for using AI art on his own card. That's hilarious.",
+      "original_url": "https://kotaku.com/william-shatner-dunks-on-kirk-card-from-the-mtg-star-trek-set-accusing-it-of-looking-ai-generated-2000698283",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "William Shatner Dunks On Kirk Card From The MTG Star Trek Set, Accusing It Of Looking AI Generated",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-05-21T20:17:26.422026+00:00"
+    },
+    {
+      "tweet": "Turns out the Queen was the one pushing to get Prince Andrew that envoy job. She really knew how to look out for family.",
+      "original_url": "https://www.nytimes.com/2026/05/21/world/europe/prince-andrew-appointment-queen-uk.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Queen Elizabeth Pushed for Ex-Prince Andrew to Get Envoy Position, New Documents Show",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-21T20:17:26.420991+00:00"
+    },
+    {
+      "tweet": "So Ohtani really just hit a leadoff homer then pitched five scoreless innings. Guy’s playing a different sport at this point.",
+      "original_url": "https://www.espn.com/mlb/story/_/id/48832771/ohtani-returns-lineup-start-day-hits-leadoff-home-run",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Ohtani's 'superstar' night: leadoff HR, 5 scoreles...",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-05-21T10:54:47.447293+00:00"
+    },
+    {
       "tweet": "The US sanctioned Hezbollah MPs and they just said it has no effect on them. Why do we even bother.",
       "original_url": "https://www.aljazeera.com/news/2026/5/21/us-sanctions-elected-hezbollah-mps-and-lebanese-security-officials?traffic_source=rss",
       "buzz_score": 80,
@@ -1012,28 +1034,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-05-21T20:17:26.420421+00:00"
-    },
-    {
-      "tweet": "Those officers who defended the Capitol are suing to block payouts from that settlement fund. Like, how does that even make sense",
-      "original_url": "https://www.npr.org/2026/05/21/g-s1-123293/officers-who-defended-capitol-sue",
-      "buzz_score": 84,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Officers who defended Capitol from rioters sue to block payouts from fund",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-21T07:40:59.930923+00:00"
-    },
-    {
-      "tweet": "So Ohtani really just hit a leadoff homer then pitched five scoreless innings. Guy’s playing a different sport at this point.",
-      "original_url": "https://www.espn.com/mlb/story/_/id/48832771/ohtani-returns-lineup-start-day-hits-leadoff-home-run",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Ohtani's 'superstar' night: leadoff HR, 5 scoreles...",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-05-21T10:54:47.447293+00:00"
     }
   ],
   "seen_urls": [
