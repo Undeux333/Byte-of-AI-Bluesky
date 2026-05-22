@@ -2,28 +2,6 @@
   "last_collected": "2026-05-22T15:29:01.736562+00:00",
   "queue": [
     {
-      "tweet": "Pep Guardiola is dipping from Man City and now everyone's wondering about those 115 charges. Like, does the trophy even count?",
-      "original_url": "https://www.bbc.com/sport/football/articles/cn7pkjjdy30o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Could history be rewritten? Guardiola, Man City and the 115 charges",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-22T15:29:01.735505+00:00"
-    },
-    {
-      "tweet": "Dude, OpenAI just solved some massive geometry conjecture that’s been around for decades. Computers are literally doing math now. We're cooked",
-      "original_url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-22T15:29:01.735173+00:00"
-    },
-    {
       "tweet": "Yo, so that's why Suga was limping at the Stanford show. The dude literally ran a twelve-kilometer race in secret beforehand.",
       "original_url": "https://www.billboard.com/music/pop/bts-suga-secretly-ran-12k-bay-to-breakers-race-san-francisco-1236254655/",
       "buzz_score": 85,
@@ -90,6 +68,28 @@
       "added_at": "2026-05-22T12:18:30.689005+00:00"
     },
     {
+      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
+      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-02T15:05:13.740925+00:00"
+    },
+    {
+      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
+      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US court limits mail-order access to abortion pill mifepristone",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
       "tweet": "So apparently Waymo just paused their service in Atlanta 'cause the robotaxis kept driving into floods. Guess we haven't figured out how to make them swim yet.",
       "original_url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
       "buzz_score": 85,
@@ -121,28 +121,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-05-22T12:18:30.689393+00:00"
-    },
-    {
-      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
-      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-02T15:05:13.740925+00:00"
-    },
-    {
-      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
-      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US court limits mail-order access to abortion pill mifepristone",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
       "tweet": "Some guy is suing Nintendo for over 300 grand because they won't let him be a Pokemon Professor. Absolutely unhinged.",
@@ -365,17 +343,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Man, people are just dumping AI-generated walls of text into group chats now. We're literally outsourcing our own personalities to chatbots just to avoid texting back.",
-      "original_url": "https://noslopgrenade.com/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Throwing AI-generated walls of text into conversations",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-22T06:31:19.322605+00:00"
-    },
-    {
       "tweet": "Harry Styles’ team is actually arguing with fans about those obstructed views on the tour. You pay that much just to stare at a stage pillar.",
       "original_url": "https://www.billboard.com/music/music-news/harry-styles-together-together-tour-sightline-complaints-1236252425/",
       "buzz_score": 88,
@@ -398,15 +365,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Sabalenka and Gauff are cutting their French Open media time down to 15 minutes because they're tired of the pay stuff. Power move",
-      "original_url": "https://www.bbc.com/sport/tennis/articles/ce3pg95djdeo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 82,
-      "buzz_score2": 90,
+      "tweet": "Man, people are just dumping AI-generated walls of text into group chats now. We're literally outsourcing our own personalities to chatbots just to avoid texting back.",
+      "original_url": "https://noslopgrenade.com/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Sabalenka cuts news conference short as French Open players protest over pay",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-22T15:29:01.735408+00:00"
+      "original_title": "Throwing AI-generated walls of text into conversations",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-22T06:31:19.322605+00:00"
     },
     {
       "tweet": "Man, just saw that Kyle Busch passed away at forty-one. That’s rough, man. He was basically the face of that whole garage.",
@@ -1034,6 +1001,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-12T01:23:17.346311+00:00"
+    },
+    {
+      "tweet": "Sabalenka and Gauff are cutting their French Open media time down to 15 minutes because they're tired of the pay stuff. Power move",
+      "original_url": "https://www.bbc.com/sport/tennis/articles/ce3pg95djdeo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sabalenka cuts news conference short as French Open players protest over pay",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-22T15:29:01.735408+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1182,
+    "total_posted": 1184,
     "total_collected": 4738
   },
-  "last_posted_at": "2026-05-22T15:35:19.746382+00:00"
+  "last_posted_at": "2026-05-22T17:30:52.933872+00:00"
 }
