@@ -2,15 +2,26 @@
   "last_collected": "2026-05-22T19:10:22.119008+00:00",
   "queue": [
     {
-      "tweet": "Google is changing the search box. Because the one thing we were all complaining about was the design of the box we only use to get to other websites. Classic.",
-      "original_url": "https://www.npr.org/2026/05/22/nx-s1-5829915/google-search-box-ai",
-      "buzz_score": 80,
+      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
+      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "buzz_score": 95,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Ask AI or just Google it? Google makes a big change to a little search box",
-      "source": "NPR News",
+      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-02T15:05:13.740925+00:00"
+    },
+    {
+      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
+      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US court limits mail-order access to abortion pill mifepristone",
+      "source": "BBC World",
       "category": "world",
-      "added_at": "2026-05-22T19:10:22.117457+00:00"
+      "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
       "tweet": "Yo, so that's why Suga was limping at the Stanford show. The dude literally ran a twelve-kilometer race in secret beforehand.",
@@ -35,28 +46,6 @@
       "added_at": "2026-05-22T12:18:30.688685+00:00"
     },
     {
-      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
-      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-02T15:05:13.740925+00:00"
-    },
-    {
-      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
-      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US court limits mail-order access to abortion pill mifepristone",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
       "tweet": "Did you see Tuchel left Foden and Palmer off the World Cup squad? The guy’s actually insane.",
       "original_url": "https://www.bbc.com/sport/football/articles/c78ke277pmdo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 90,
@@ -66,39 +55,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-05-22T09:59:52.979926+00:00"
-    },
-    {
-      "tweet": "Google really pulled an antigravity bait and switch on everyone. People were actually buying it.",
-      "original_url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Google's Antigravity bait and switch",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-22T12:18:30.690559+00:00"
-    },
-    {
-      "tweet": "Did you see that story about the guy deported from the US to El Salvador? He ended up in that notorious prison before finally making it to Spain. That's insane.",
-      "original_url": "https://www.theguardian.com/us-news/2026/may/22/venezuelan-makeup-artist-cecot-spain-asylum",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Venezuelan makeup artist who was deported to El Salvador seeks asylum in Spain: ‘I feel safe here’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-22T12:18:30.689794+00:00"
-    },
-    {
-      "tweet": "Hold on, so the Taliban just made a decree that girls have to hit puberty before they can even get out of a marriage. How is that even real",
-      "original_url": "https://www.nytimes.com/2026/05/22/world/asia/taliban-child-marriage-afghanistan.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "New Taliban Decree on Divorce Formalizes Child Marriage in Afghanistan, U.N. Warns",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-22T12:18:30.689005+00:00"
     },
     {
       "tweet": "Some guy is suing Nintendo for over 300 grand because they won't let him be a Pokemon Professor. Absolutely unhinged.",
@@ -321,17 +277,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Hold on, Gabbard is out as intelligence director now? Feels like that whole cabinet is just a revolving door at this point.",
-      "original_url": "https://www.npr.org/2026/05/22/nx-s1-5440533/gabbard-resigns-as-national-intelligence-director-citing-husbands-cancer-diagnosis",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Gabbard resigns as national intelligence director citing husband's cancer diagnosis",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-22T19:10:22.117459+00:00"
-    },
-    {
       "tweet": "Harry Styles’ team is actually arguing with fans about those obstructed views on the tour. You pay that much just to stare at a stage pillar.",
       "original_url": "https://www.billboard.com/music/music-news/harry-styles-together-together-tour-sightline-complaints-1236252425/",
       "buzz_score": 88,
@@ -354,6 +299,39 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
+      "tweet": "Google really pulled an antigravity bait and switch on everyone. People were actually buying it.",
+      "original_url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Google's Antigravity bait and switch",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-22T12:18:30.690559+00:00"
+    },
+    {
+      "tweet": "Did you see that story about the guy deported from the US to El Salvador? He ended up in that notorious prison before finally making it to Spain. That's insane.",
+      "original_url": "https://www.theguardian.com/us-news/2026/may/22/venezuelan-makeup-artist-cecot-spain-asylum",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Venezuelan makeup artist who was deported to El Salvador seeks asylum in Spain: ‘I feel safe here’",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-22T12:18:30.689794+00:00"
+    },
+    {
+      "tweet": "Hold on, so the Taliban just made a decree that girls have to hit puberty before they can even get out of a marriage. How is that even real",
+      "original_url": "https://www.nytimes.com/2026/05/22/world/asia/taliban-child-marriage-afghanistan.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "New Taliban Decree on Divorce Formalizes Child Marriage in Afghanistan, U.N. Warns",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-22T12:18:30.689005+00:00"
+    },
+    {
       "tweet": "So apparently Waymo just paused their service in Atlanta 'cause the robotaxis kept driving into floods. Guess we haven't figured out how to make them swim yet.",
       "original_url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
       "buzz_score": 85,
@@ -363,28 +341,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-05-22T09:59:52.979741+00:00"
-    },
-    {
-      "tweet": "GOP senators just dipped for recess without even touching that immigration package. They're not even trying.",
-      "original_url": "https://www.npr.org/2026/05/22/g-s1-123649/up-first-newsletter-gop-trump-legislation-dnc-2024-hurricane-season-predictions-abortion-rights",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "GOP senators delay immigration funding. And, what to expect this hurricane season",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-22T12:18:30.690432+00:00"
-    },
-    {
-      "tweet": "Wait, Man Utd actually gave Carrick a two-year deal to stay on as boss. That's a bold move.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cd9pk7g3kelo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Carrick confirmed as Man Utd permanent boss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-22T12:18:30.689393+00:00"
     },
     {
       "tweet": "Man, people are just dumping AI-generated walls of text into group chats now. We're literally outsourcing our own personalities to chatbots just to avoid texting back.",
@@ -1023,6 +979,39 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-12T01:23:17.346311+00:00"
+    },
+    {
+      "tweet": "Hold on, Gabbard is out as intelligence director now? Feels like that whole cabinet is just a revolving door at this point.",
+      "original_url": "https://www.npr.org/2026/05/22/nx-s1-5440533/gabbard-resigns-as-national-intelligence-director-citing-husbands-cancer-diagnosis",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Gabbard resigns as national intelligence director citing husband's cancer diagnosis",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-05-22T19:10:22.117459+00:00"
+    },
+    {
+      "tweet": "GOP senators just dipped for recess without even touching that immigration package. They're not even trying.",
+      "original_url": "https://www.npr.org/2026/05/22/g-s1-123649/up-first-newsletter-gop-trump-legislation-dnc-2024-hurricane-season-predictions-abortion-rights",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "GOP senators delay immigration funding. And, what to expect this hurricane season",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-05-22T12:18:30.690432+00:00"
+    },
+    {
+      "tweet": "Wait, Man Utd actually gave Carrick a two-year deal to stay on as boss. That's a bold move.",
+      "original_url": "https://www.bbc.com/sport/football/articles/cd9pk7g3kelo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Carrick confirmed as Man Utd permanent boss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-22T12:18:30.689393+00:00"
     },
     {
       "tweet": "The US is saying visa holders should leave to apply for Green Cards. Imagine being told you have to leave your life here just to wait in another line.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1186,
+    "total_posted": 1187,
     "total_collected": 4754
   },
-  "last_posted_at": "2026-05-22T19:20:12.440019+00:00"
+  "last_posted_at": "2026-05-22T20:46:00.123102+00:00"
 }
