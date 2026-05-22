@@ -2,28 +2,6 @@
   "last_collected": "2026-05-22T21:56:46.992267+00:00",
   "queue": [
     {
-      "tweet": "Did you see DeepSeek made those pro price cuts permanent? Man, the AI price war is getting real.",
-      "original_url": "https://api-docs.deepseek.com/quick_start/pricing",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "DeepSeek makes the V4 Pro price discount permanent",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-22T21:56:46.990554+00:00"
-    },
-    {
-      "tweet": "Czech president is out here telling NATO to show its teeth. Are we actually doing this again?",
-      "original_url": "https://www.theguardian.com/world/2026/may/22/czech-president-petr-pavel-nato-show-teeth-russia-provocations",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Czech president urges Nato to ‘show its teeth’ over Russia’s provocations",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-22T21:56:46.991260+00:00"
-    },
-    {
       "tweet": "OKC told Hartenstein and Caruso they couldn't promise minutes. Like, who are you kidding?",
       "original_url": "https://www.espn.com/nba/story/_/id/48827620/nba-playoffs-oklahoma-city-thunder-championship-blueprint-alex-caruso-isaiah-hartenstein",
       "buzz_score": 80,
@@ -299,28 +277,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Activists are alleging some wild abuse from Israeli forces on that flotilla. Sounds like a total nightmare.",
-      "original_url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-22T21:56:46.991758+00:00"
-    },
-    {
-      "tweet": "Riot had to officially clarify that the new Valorant anti-cheat won't brick your PC. The fact they had to say that is peak internet.",
-      "original_url": "https://kotaku.com/riot-says-its-anti-cheat-update-isnt-bricking-pcs-but-players-are-still-worried-2000698675",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Riot Says Its Valorant Anti-Cheat Update Can’t Brick PCs After A Joke Fuels Panic",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-05-22T21:56:46.991511+00:00"
-    },
-    {
       "tweet": "Harry Styles’ team is actually arguing with fans about those obstructed views on the tour. You pay that much just to stare at a stage pillar.",
       "original_url": "https://www.billboard.com/music/music-news/harry-styles-together-together-tour-sightline-complaints-1236252425/",
       "buzz_score": 88,
@@ -341,6 +297,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Activists are alleging some wild abuse from Israeli forces on that flotilla. Sounds like a total nightmare.",
+      "original_url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-22T21:56:46.991758+00:00"
+    },
+    {
+      "tweet": "Riot had to officially clarify that the new Valorant anti-cheat won't brick your PC. The fact they had to say that is peak internet.",
+      "original_url": "https://kotaku.com/riot-says-its-anti-cheat-update-isnt-bricking-pcs-but-players-are-still-worried-2000698675",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Riot Says Its Valorant Anti-Cheat Update Can’t Brick PCs After A Joke Fuels Panic",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-05-22T21:56:46.991511+00:00"
     },
     {
       "tweet": "Yo, so that's why Suga was limping at the Stanford show. The dude literally ran a twelve-kilometer race in secret beforehand.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1189,
+    "total_posted": 1191,
     "total_collected": 4770
   },
-  "last_posted_at": "2026-05-22T22:06:30.438512+00:00"
+  "last_posted_at": "2026-05-22T22:58:09.744640+00:00"
 }
