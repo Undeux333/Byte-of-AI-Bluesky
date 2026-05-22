@@ -2,28 +2,6 @@
   "last_collected": "2026-05-21T22:58:02.113025+00:00",
   "queue": [
     {
-      "tweet": "People in the Congo just set an Ebola hospital on fire because they weren't allowed to take the body for burial. Absolute chaos",
-      "original_url": "https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-21T22:58:02.111390+00:00"
-    },
-    {
-      "tweet": "Ronaldo finally grabbed that league title with Al-Nassr. He's really just doing side quests at this point",
-      "original_url": "https://www.aljazeera.com/sports/2026/5/21/ronaldo-scores-twice-to-seal-saudi-pro-league-at-last-with-al-nassr?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Ronaldo scores twice to seal Saudi Pro League at last with Al-Nassr",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-21T22:58:02.112400+00:00"
-    },
-    {
       "tweet": "Remember when Foden and Palmer were supposed to be the future. Now they can't even get on the squad",
       "original_url": "https://www.bbc.com/sport/football/articles/c1k2g782m1ro?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1171,
+    "total_posted": 1173,
     "total_collected": 4664
   },
-  "last_posted_at": "2026-05-21T23:06:16.065519+00:00"
+  "last_posted_at": "2026-05-22T00:05:51.556801+00:00"
 }
