@@ -2,28 +2,6 @@
   "last_collected": "2026-05-23T18:42:00.793256+00:00",
   "queue": [
     {
-      "tweet": "So Stephen Colbert is doing shows on Michigan public access now. Man just couldn't stay away.",
-      "original_url": "https://kotaku.com/stephen-colbert-already-lands-new-hosting-gig-on-michigan-public-access-2000698949",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Stephen Colbert Already Lands New Hosting Gig On Michigan Public Access",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-05-23T16:30:17.774789+00:00"
-    },
-    {
-      "tweet": "So The Weeknd is presenting awards at the Crunchyroll ceremony now. Wild.",
-      "original_url": "https://www.billboard.com/music/awards/2026-crunchyroll-anime-awards-winners-list-1236255676/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Here are the Winners of the 2026 Crunchyroll Anime Awards: Full List",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-23T16:30:17.774350+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1216,
+    "total_posted": 1218,
     "total_collected": 4876
   },
-  "last_posted_at": "2026-05-23T19:57:33.404437+00:00"
+  "last_posted_at": "2026-05-23T20:44:10.199180+00:00"
 }
