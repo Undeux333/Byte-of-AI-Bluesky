@@ -2,28 +2,6 @@
   "last_collected": "2026-05-23T11:34:52.665619+00:00",
   "queue": [
     {
-      "tweet": "Dude, OpenAI just solved a geometry problem that’s been around forever. Like, the AI is literally doing math that humans couldn't figure out. Kinda terrifying.",
-      "original_url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-23T11:34:52.664185+00:00"
-    },
-    {
-      "tweet": "CBS News Radio just officially shut down after a century. It's the end of an era, man.",
-      "original_url": "https://deadline.com/2026/05/cbs-news-radio-shuts-down-edward-r-murrow-1236919656/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "CBS News Radio Ends With An Edward R. Murrow Sign Off: “Good Night, And Good Luck”",
-      "source": "Deadline",
-      "category": "entertainment",
-      "added_at": "2026-05-23T05:48:11.783856+00:00"
-    },
-    {
       "tweet": "Israel just hit those paramedics in Lebanon. We're really just watching this happen in real time.",
       "original_url": "https://www.theguardian.com/world/2026/may/23/israel-lebanon-strikes-deaths-paramedics-health-ministry-says",
       "buzz_score": 85,
@@ -44,17 +22,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-05-23T05:48:11.782387+00:00"
-    },
-    {
-      "tweet": "People are actually losing it because some random street in Australia went viral on TikTok. Once everyone knows where the spot is, it's never the same.",
-      "original_url": "https://www.nytimes.com/2026/05/23/world/australia/gerringong-tasman-drive-tourists-beautiful-street.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australia’s ‘Prettiest Street’ Is Grappling With TikTok and Instagram Fame",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-23T05:48:11.782679+00:00"
     },
     {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
@@ -79,15 +46,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Chile is literally digging trenches in the desert for border control now. Like we’re in the middle of a medieval war movie or something.",
-      "original_url": "https://www.npr.org/2026/05/23/nx-s1-5806607/chile-maga-inspired-border-control",
-      "buzz_score": 88,
-      "buzz_score2": 90,
+      "tweet": "People are actually losing it because some random street in Australia went viral on TikTok. Once everyone knows where the spot is, it's never the same.",
+      "original_url": "https://www.nytimes.com/2026/05/23/world/australia/gerringong-tasman-drive-tourists-beautiful-street.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Chile's MAGA-inspired border control",
-      "source": "NPR News",
+      "original_title": "Australia’s ‘Prettiest Street’ Is Grappling With TikTok and Instagram Fame",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-05-23T11:34:52.664198+00:00"
+      "added_at": "2026-05-23T05:48:11.782679+00:00"
     },
     {
       "tweet": "Did you see Tuchel left Foden and Palmer off the World Cup squad? The guy’s actually insane.",
@@ -321,39 +288,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Google has this new AI model that can basically do anything to anything now. It’s pretty unsettling how fast this stuff is moving.",
-      "original_url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Google’s new anything-to-anything AI model is wild",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-05-23T11:34:52.665238+00:00"
-    },
-    {
-      "tweet": "We're still waiting on a Disney Plus date for that new Mandalorian movie. At this point I'll probably be retired by the time it hits streaming.",
-      "original_url": "https://www.polygon.com/the-mandalorian-and-grogu-streaming-release-date-disney-plus/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "When will The Mandalorian & Grogu come to streaming and Disney Plus?",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-05-23T11:34:52.664994+00:00"
-    },
-    {
-      "tweet": "People in Moscow are losing it over these drone attacks. It’s wild how fast reality changes when the war hits your neighborhood.",
-      "original_url": "https://www.nytimes.com/2026/05/23/world/europe/moscow-drone-attacks-ukraine.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘A Total Nightmare’: Voices From a Moscow Hit by Ukrainian Drones",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-23T11:34:52.664352+00:00"
-    },
-    {
       "tweet": "Harry Styles’ team is actually arguing with fans about those obstructed views on the tour. You pay that much just to stare at a stage pillar.",
       "original_url": "https://www.billboard.com/music/music-news/harry-styles-together-together-tour-sightline-complaints-1236252425/",
       "buzz_score": 88,
@@ -374,6 +308,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Chile is literally digging trenches in the desert for border control now. Like we’re in the middle of a medieval war movie or something.",
+      "original_url": "https://www.npr.org/2026/05/23/nx-s1-5806607/chile-maga-inspired-border-control",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Chile's MAGA-inspired border control",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-05-23T11:34:52.664198+00:00"
     },
     {
       "tweet": "Yo, so that's why Suga was limping at the Stanford show. The dude literally ran a twelve-kilometer race in secret beforehand.",
@@ -1034,6 +979,39 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-05-12T01:23:17.346346+00:00"
+    },
+    {
+      "tweet": "Google has this new AI model that can basically do anything to anything now. It’s pretty unsettling how fast this stuff is moving.",
+      "original_url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Google’s new anything-to-anything AI model is wild",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-05-23T11:34:52.665238+00:00"
+    },
+    {
+      "tweet": "We're still waiting on a Disney Plus date for that new Mandalorian movie. At this point I'll probably be retired by the time it hits streaming.",
+      "original_url": "https://www.polygon.com/the-mandalorian-and-grogu-streaming-release-date-disney-plus/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "When will The Mandalorian & Grogu come to streaming and Disney Plus?",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-05-23T11:34:52.664994+00:00"
+    },
+    {
+      "tweet": "People in Moscow are losing it over these drone attacks. It’s wild how fast reality changes when the war hits your neighborhood.",
+      "original_url": "https://www.nytimes.com/2026/05/23/world/europe/moscow-drone-attacks-ukraine.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘A Total Nightmare’: Voices From a Moscow Hit by Ukrainian Drones",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-23T11:34:52.664352+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1202,
+    "total_posted": 1204,
     "total_collected": 4831
   },
-  "last_posted_at": "2026-05-23T11:41:07.921128+00:00"
+  "last_posted_at": "2026-05-23T12:51:04.054093+00:00"
 }
