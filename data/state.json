@@ -2,28 +2,6 @@
   "last_collected": "2026-05-22T21:56:46.992267+00:00",
   "queue": [
     {
-      "tweet": "OKC told Hartenstein and Caruso they couldn't promise minutes. Like, who are you kidding?",
-      "original_url": "https://www.espn.com/nba/story/_/id/48827620/nba-playoffs-oklahoma-city-thunder-championship-blueprint-alex-caruso-isaiah-hartenstein",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'I can't promise you minutes': What OKC *did* prom...",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-05-22T21:56:46.990851+00:00"
-    },
-    {
-      "tweet": "So a federal judge just tossed that whole Kilmar Abrego Garcia case. Turns out the government really just hates being sued.",
-      "original_url": "https://www.bbc.com/news/articles/cx21r04wg8qo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Judge dismisses criminal case against Kilmar Abrego Garcia",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-22T21:56:46.990563+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -297,28 +275,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Activists are alleging some wild abuse from Israeli forces on that flotilla. Sounds like a total nightmare.",
-      "original_url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-22T21:56:46.991758+00:00"
-    },
-    {
-      "tweet": "Riot had to officially clarify that the new Valorant anti-cheat won't brick your PC. The fact they had to say that is peak internet.",
-      "original_url": "https://kotaku.com/riot-says-its-anti-cheat-update-isnt-bricking-pcs-but-players-are-still-worried-2000698675",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Riot Says Its Valorant Anti-Cheat Update Can’t Brick PCs After A Joke Fuels Panic",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-05-22T21:56:46.991511+00:00"
     },
     {
       "tweet": "Yo, so that's why Suga was limping at the Stanford show. The dude literally ran a twelve-kilometer race in secret beforehand.",
@@ -990,6 +946,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-12T01:23:17.346311+00:00"
+    },
+    {
+      "tweet": "Activists are alleging some wild abuse from Israeli forces on that flotilla. Sounds like a total nightmare.",
+      "original_url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-22T21:56:46.991758+00:00"
+    },
+    {
+      "tweet": "Riot had to officially clarify that the new Valorant anti-cheat won't brick your PC. The fact they had to say that is peak internet.",
+      "original_url": "https://kotaku.com/riot-says-its-anti-cheat-update-isnt-bricking-pcs-but-players-are-still-worried-2000698675",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Riot Says Its Valorant Anti-Cheat Update Can’t Brick PCs After A Joke Fuels Panic",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-05-22T21:56:46.991511+00:00"
     },
     {
       "tweet": "Google really pulled an antigravity bait and switch on everyone. People were actually buying it.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1191,
+    "total_posted": 1193,
     "total_collected": 4770
   },
-  "last_posted_at": "2026-05-22T22:58:09.744640+00:00"
+  "last_posted_at": "2026-05-23T00:05:58.018924+00:00"
 }
