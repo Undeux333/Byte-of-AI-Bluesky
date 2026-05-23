@@ -2,28 +2,6 @@
   "last_collected": "2026-05-23T14:13:29.925860+00:00",
   "queue": [
     {
-      "tweet": "That new Vampire tabletop game is explicitly promising human-made art. We’re finally hitting the point where ‘not AI’ is a selling point",
-      "original_url": "https://www.polygon.com/vampire-the-masquerade-new-project-human-made-work/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Vampire: The Masquerade's next tabletop game will have a 'strong commitment to human-made work'",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-05-23T14:13:29.925246+00:00"
-    },
-    {
-      "tweet": "Someone found lost Spyro history in an Oregon gas station of all places. How does that even happen",
-      "original_url": "https://kotaku.com/spyro-dragon-statue-e3-insomniac-playstation-activision-2000698746",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "A Piece Of Lost Spyro The Dragon History Was Found In An Oregon Gas Station",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-05-23T14:13:29.924986+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -44,28 +22,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Israel just hit those paramedics in Lebanon. We're really just watching this happen in real time.",
-      "original_url": "https://www.theguardian.com/world/2026/may/23/israel-lebanon-strikes-deaths-paramedics-health-ministry-says",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Israeli strikes in Lebanon killed 10, including six paramedics, health ministry says",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-23T05:48:11.783465+00:00"
-    },
-    {
-      "tweet": "Did you see Microsoft is admitting AI is actually more expensive than just paying human employees. Like we're just burning cash to do the work we were already doing. Man.",
-      "original_url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Microsoft reports AI is more expensive than paying human employees",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-23T05:48:11.782387+00:00"
     },
     {
       "tweet": "Did you see Tuchel left Foden and Palmer off the World Cup squad? The guy’s actually insane.",
@@ -299,17 +255,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Man, another air strike in southern Lebanon. It just never ends",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-air-strike-pounds-southern-lebanon-leaving-many-injured?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israeli air strike pounds southern Lebanon leaving many injured",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-23T14:13:29.924738+00:00"
-    },
-    {
       "tweet": "Harry Styles’ team is actually arguing with fans about those obstructed views on the tour. You pay that much just to stare at a stage pillar.",
       "original_url": "https://www.billboard.com/music/music-news/harry-styles-together-together-tour-sightline-complaints-1236252425/",
       "buzz_score": 88,
@@ -332,15 +277,37 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "People are actually losing it because some random street in Australia went viral on TikTok. Once everyone knows where the spot is, it's never the same.",
-      "original_url": "https://www.nytimes.com/2026/05/23/world/australia/gerringong-tasman-drive-tourists-beautiful-street.html",
-      "buzz_score": 80,
+      "tweet": "Israel just hit those paramedics in Lebanon. We're really just watching this happen in real time.",
+      "original_url": "https://www.theguardian.com/world/2026/may/23/israel-lebanon-strikes-deaths-paramedics-health-ministry-says",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Australia’s ‘Prettiest Street’ Is Grappling With TikTok and Instagram Fame",
-      "source": "NYT World",
+      "original_title": "Israeli strikes in Lebanon killed 10, including six paramedics, health ministry says",
+      "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-05-23T05:48:11.782679+00:00"
+      "added_at": "2026-05-23T05:48:11.783465+00:00"
+    },
+    {
+      "tweet": "Did you see Microsoft is admitting AI is actually more expensive than just paying human employees. Like we're just burning cash to do the work we were already doing. Man.",
+      "original_url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Microsoft reports AI is more expensive than paying human employees",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-23T05:48:11.782387+00:00"
+    },
+    {
+      "tweet": "Man, another air strike in southern Lebanon. It just never ends",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-air-strike-pounds-southern-lebanon-leaving-many-injured?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Israeli air strike pounds southern Lebanon leaving many injured",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-05-23T14:13:29.924738+00:00"
     },
     {
       "tweet": "Yo, so that's why Suga was limping at the Stanford show. The dude literally ran a twelve-kilometer race in secret beforehand.",
@@ -1001,6 +968,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-05-12T01:23:17.346346+00:00"
+    },
+    {
+      "tweet": "People are actually losing it because some random street in Australia went viral on TikTok. Once everyone knows where the spot is, it's never the same.",
+      "original_url": "https://www.nytimes.com/2026/05/23/world/australia/gerringong-tasman-drive-tourists-beautiful-street.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australia’s ‘Prettiest Street’ Is Grappling With TikTok and Instagram Fame",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-23T05:48:11.782679+00:00"
     },
     {
       "tweet": "Everyone's bracing for a fight between the US and Iran while they’re supposedly doing peace talks. Why do we even pretend to talk",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1206,
+    "total_posted": 1208,
     "total_collected": 4847
   },
-  "last_posted_at": "2026-05-23T14:22:12.849496+00:00"
+  "last_posted_at": "2026-05-23T15:24:47.530515+00:00"
 }
