@@ -2,28 +2,6 @@
   "last_collected": "2026-05-23T16:30:17.775549+00:00",
   "queue": [
     {
-      "tweet": "Man, just saw a thread about Terry Pratchett and realized how much I actually miss that guy's writing. It’s like losing a voice that just made the world make sense.",
-      "original_url": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "I Miss Terry Pratchett",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-23T16:30:17.774341+00:00"
-    },
-    {
-      "tweet": "Wait, George Harrison wrote half those Beatles hits? I definitely thought those were just Lennon-McCartney.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/hits-didn-t-know-george-harrison-wrote-for-the-beatles?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "5 Hits You Didn't Know George Harrison Wrote for The Beatles",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-05-23T16:30:17.775288+00:00"
-    },
-    {
       "tweet": "So Stephen Colbert is doing shows on Michigan public access now. Man just couldn't stay away.",
       "original_url": "https://kotaku.com/stephen-colbert-already-lands-new-hosting-gig-on-michigan-public-access-2000698949",
       "buzz_score": 75,
@@ -321,17 +299,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Dude, a masked gang actually raided Alain Prost's house near Geneva? Like, what are we even doing anymore?",
-      "original_url": "https://www.bbc.com/sport/formula1/articles/clyp65zpxe0o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "F1 great Prost 'injured as masked gang raid home'",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-23T16:30:17.774355+00:00"
-    },
-    {
       "tweet": "Harry Styles’ team is actually arguing with fans about those obstructed views on the tour. You pay that much just to stare at a stage pillar.",
       "original_url": "https://www.billboard.com/music/music-news/harry-styles-together-together-tour-sightline-complaints-1236252425/",
       "buzz_score": 88,
@@ -352,6 +319,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Dude, a masked gang actually raided Alain Prost's house near Geneva? Like, what are we even doing anymore?",
+      "original_url": "https://www.bbc.com/sport/formula1/articles/clyp65zpxe0o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "F1 great Prost 'injured as masked gang raid home'",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-23T16:30:17.774355+00:00"
     },
     {
       "tweet": "Israel just hit those paramedics in Lebanon. We're really just watching this happen in real time.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1210,
+    "total_posted": 1212,
     "total_collected": 4860
   },
-  "last_posted_at": "2026-05-23T16:35:28.028781+00:00"
+  "last_posted_at": "2026-05-23T17:40:56.411148+00:00"
 }
