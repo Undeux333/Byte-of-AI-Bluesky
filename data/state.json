@@ -2,28 +2,6 @@
   "last_collected": "2026-05-23T08:04:42.755497+00:00",
   "queue": [
     {
-      "tweet": "Reading about how all these classic songs were just fueled by bitter breakups. Turns out misery really does pay the bills.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/classic-songs-inspired-by-breakups?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "9 Classic Songs Inspired By Famous Breakups",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-05-23T08:04:42.754638+00:00"
-    },
-    {
-      "tweet": "So all cars in the EU have to come with a built-in breathalyzer now. They're really trying to automate away all human error.",
-      "original_url": "https://www.wired.com/story/all-vehicles-sold-in-the-eu-must-have-breathalyzer-hook-up/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "All Vehicles Sold in the EU Must Be Able to Hook Up to a Breathalyzer",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-05-23T08:04:42.754269+00:00"
-    },
-    {
       "tweet": "CBS News Radio just officially shut down after a century. It's the end of an era, man.",
       "original_url": "https://deadline.com/2026/05/cbs-news-radio-shuts-down-edward-r-murrow-1236919656/",
       "buzz_score": 85,
@@ -88,17 +66,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "They already dropped the Forza Horizon 6 map for Japan. I haven't even finished the last one yet, why are we already onto the next thing?",
-      "original_url": "https://www.polygon.com/map/forza-horizon-6-fh6-japan-interactive/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Forza Horizon 6 interactive map",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-05-23T02:14:04.015243+00:00"
     },
     {
       "tweet": "Did you see Tuchel left Foden and Palmer off the World Cup squad? The guy’s actually insane.",
@@ -1023,6 +990,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-12T01:23:17.346311+00:00"
+    },
+    {
+      "tweet": "They already dropped the Forza Horizon 6 map for Japan. I haven't even finished the last one yet, why are we already onto the next thing?",
+      "original_url": "https://www.polygon.com/map/forza-horizon-6-fh6-japan-interactive/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Forza Horizon 6 interactive map",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-05-23T02:14:04.015243+00:00"
     },
     {
       "tweet": "Sabalenka and Gauff are cutting their media duties short at the French Open over that prize money stuff. Everyone has a breaking point.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1198,
+    "total_posted": 1200,
     "total_collected": 4816
   },
-  "last_posted_at": "2026-05-23T08:14:04.875350+00:00"
+  "last_posted_at": "2026-05-23T10:11:57.809834+00:00"
 }
