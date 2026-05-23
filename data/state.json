@@ -2,28 +2,6 @@
   "last_collected": "2026-05-23T18:42:00.793256+00:00",
   "queue": [
     {
-      "tweet": "Trump just posted a US flag over Iran on Truth Social. Pretty wild way to do diplomacy.",
-      "original_url": "https://www.aljazeera.com/news/2026/5/23/united-states-of-the-middle-east-trump-posts-us-flag-covering-iran?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘United States of the Middle East?’: Trump posts US flag covering Iran",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-23T18:42:00.792239+00:00"
-    },
-    {
-      "tweet": "Dude, did you know 'bite the dust' is actually from ancient Greek? We've been saying that for thousands of years. Wild how some stuff just sticks.",
-      "original_url": "https://www.mentalfloss.com/language/bite-the-dust-origin?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Strange Origins of the Phrase \"Bite the Dust\"",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-05-23T18:42:00.791690+00:00"
-    },
-    {
       "tweet": "So Stephen Colbert is doing shows on Michigan public access now. Man just couldn't stay away.",
       "original_url": "https://kotaku.com/stephen-colbert-already-lands-new-hosting-gig-on-michigan-public-access-2000698949",
       "buzz_score": 75,
@@ -299,28 +277,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Florida passed that Teddy Bridgewater Act so coaches can actually use their own money to help players. Why was that even illegal in the first place?",
-      "original_url": "https://www.espn.com/espn/story/_/id/48850984/florida-signs-teddy-bridgewater-act-law",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Florida signs 'Teddy Bridgewater Act' into law",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-05-23T18:42:00.791858+00:00"
-    },
-    {
-      "tweet": "So Oura basically admitted the government is coming for our sleep data now. At this point nothing’s private, man.",
-      "original_url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Oura says it gets government demands for user data",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-23T18:42:00.791697+00:00"
-    },
-    {
       "tweet": "Harry Styles’ team is actually arguing with fans about those obstructed views on the tour. You pay that much just to stare at a stage pillar.",
       "original_url": "https://www.billboard.com/music/music-news/harry-styles-together-together-tour-sightline-complaints-1236252425/",
       "buzz_score": 88,
@@ -341,28 +297,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "The Gaza flotilla activists are talking about the abuse they took while in custody. And of course the prison service is just saying it’s all fake.",
-      "original_url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-23T16:30:17.775411+00:00"
-    },
-    {
-      "tweet": "Did you see the news out of Tyre? Apparently we're calling it a truce while hospitals are still getting hit. That's a hell of a definition for a ceasefire.",
-      "original_url": "https://www.nytimes.com/2026/05/23/world/middleeast/israel-strikes-lebanon-medics.html",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israeli Strikes Pummel Lebanon, Killing Medics Amid Fragile Truce",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-23T16:30:17.774347+00:00"
     },
     {
       "tweet": "Israel just hit those paramedics in Lebanon. We're really just watching this happen in real time.",
@@ -1034,6 +968,50 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-12T12:17:11.196461+00:00"
+    },
+    {
+      "tweet": "Florida passed that Teddy Bridgewater Act so coaches can actually use their own money to help players. Why was that even illegal in the first place?",
+      "original_url": "https://www.espn.com/espn/story/_/id/48850984/florida-signs-teddy-bridgewater-act-law",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Florida signs 'Teddy Bridgewater Act' into law",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-05-23T18:42:00.791858+00:00"
+    },
+    {
+      "tweet": "So Oura basically admitted the government is coming for our sleep data now. At this point nothing’s private, man.",
+      "original_url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Oura says it gets government demands for user data",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-23T18:42:00.791697+00:00"
+    },
+    {
+      "tweet": "The Gaza flotilla activists are talking about the abuse they took while in custody. And of course the prison service is just saying it’s all fake.",
+      "original_url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-23T16:30:17.775411+00:00"
+    },
+    {
+      "tweet": "Did you see the news out of Tyre? Apparently we're calling it a truce while hospitals are still getting hit. That's a hell of a definition for a ceasefire.",
+      "original_url": "https://www.nytimes.com/2026/05/23/world/middleeast/israel-strikes-lebanon-medics.html",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Israeli Strikes Pummel Lebanon, Killing Medics Amid Fragile Truce",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-23T16:30:17.774347+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1214,
+    "total_posted": 1216,
     "total_collected": 4876
   },
-  "last_posted_at": "2026-05-23T18:48:16.572715+00:00"
+  "last_posted_at": "2026-05-23T19:57:33.404437+00:00"
 }
