@@ -2,28 +2,6 @@
   "last_collected": "2026-05-23T21:35:47.639300+00:00",
   "queue": [
     {
-      "tweet": "Dude, a woman in Texas got arrested just for posting about the water quality in her town. Imagine getting locked up for telling your neighbors the tap water tastes like lead. Wild.",
-      "original_url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Texas woman arrested for Facebook post about town water quality",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-23T21:35:47.638749+00:00"
-    },
-    {
-      "tweet": "Looks like Gio Reyna is back in for the World Cup roster and Luna got cut. Why are we always making it this complicated for the young guys?",
-      "original_url": "https://www.espn.com/soccer/story/_/id/48854192/usa-2026-world-cup-roster-gio-reyna-diego-luna-zendejas",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Reports: Reyna in, Luna out of USMNT WC roster",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-05-23T21:35:47.638764+00:00"
-    },
-    {
       "tweet": "So France just banned an Israeli minister from entering the country over that whole flotilla situation. Not every day you see a government pull a move like that.",
       "original_url": "https://www.nytimes.com/2026/05/23/world/middleeast/ben-gvir-travel-ban-france.html",
       "buzz_score": 80,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1220,
+    "total_posted": 1222,
     "total_collected": 4886
   },
-  "last_posted_at": "2026-05-23T21:40:51.971186+00:00"
+  "last_posted_at": "2026-05-23T22:42:00.043211+00:00"
 }
