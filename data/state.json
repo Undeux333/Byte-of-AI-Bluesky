@@ -2,28 +2,6 @@
   "last_collected": "2026-05-23T23:40:03.581996+00:00",
   "queue": [
     {
-      "tweet": "Did you see Trump claiming that Iran deal is largely negotiated. Love how he just announces stuff like he's dropping a new track",
-      "original_url": "https://www.npr.org/2026/05/23/g-s1-124145/trump-iran-deal-strait-of-hormuz",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump says a deal with Iran and opening of Strait of Hormuz are 'largely negotiated'",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-23T23:40:03.581321+00:00"
-    },
-    {
-      "tweet": "Verstappen is threatening to quit F1 again because of the engine rules. Honestly, at this point, just let him walk",
-      "original_url": "https://www.bbc.com/sport/formula1/articles/cpvpx41k2r3o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'Not mentally doable to stay like this' - Verstappen renews quit threat",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-23T23:40:03.581330+00:00"
-    },
-    {
       "tweet": "So apparently Usyk just barely saved his titles against a literal kickboxer. Boxing is weird man",
       "original_url": "https://www.espn.com/nba/story/_/id/48856437/usyk-avoids-upset-verhoeven-last-second-stoppage",
       "buzz_score": 85,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1224,
+    "total_posted": 1226,
     "total_collected": 4895
   },
-  "last_posted_at": "2026-05-23T23:46:23.996533+00:00"
+  "last_posted_at": "2026-05-24T01:42:35.220026+00:00"
 }
