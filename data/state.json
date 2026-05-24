@@ -2,28 +2,6 @@
   "last_collected": "2026-05-24T16:31:26.828667+00:00",
   "queue": [
     {
-      "tweet": "Did you see that map of states with the worst gambling problems? It’s wild how normalized it’s become to just lose your paycheck on a Sunday afternoon. People are really out here living in that.",
-      "original_url": "https://www.mentalfloss.com/geography/maps/us-states-with-worst-gambling-problems-map?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The U.S. States With the Worst Gambling Problems, Mapped",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-05-24T16:31:26.827448+00:00"
-    },
-    {
-      "tweet": "Just learned throwing in the towel actually came from old boxing matches. Makes sense, that's just admitting you're done.",
-      "original_url": "https://www.mentalfloss.com/language/throw-in-the-towel-history?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why Do We Say \"Throw in the Towel\"?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-05-24T14:11:56.679540+00:00"
-    },
-    {
       "tweet": "Still thinking about that wire heist in Mission: Impossible. Nothing hits the same as the movies we grew up with.",
       "original_url": "https://www.polygon.com/mission-impossible-rolf-saxon-interview/",
       "buzz_score": 70,
@@ -55,17 +33,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Another reality check on robotaxis just dropped. We've been promised self-driving cars for a decade and we’re still just getting fancy cruise control. What a joke.",
-      "original_url": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "TechCrunch Mobility: Robotaxi reality check",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-05-24T16:31:26.827982+00:00"
     },
     {
       "tweet": "Did you see Tuchel left Foden and Palmer off the World Cup squad? The guy’s actually insane.",
@@ -321,15 +288,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Did you see that report on Australia’s detention centers? They’re running a minimalist staffing model while everything is literally burning down. Corporations just don't care at all.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/may/25/mtc-security-failures-australia-immigration-detention-centres-ntwnfb",
-      "buzz_score": 82,
+      "tweet": "Another reality check on robotaxis just dropped. We've been promised self-driving cars for a decade and we’re still just getting fancy cruise control. What a joke.",
+      "original_url": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/",
+      "buzz_score": 88,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Escapes, fires, stabbing: catastrophic security failures revealed in Australia’s immigration detention network",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-24T16:31:26.827457+00:00"
+      "original_title": "TechCrunch Mobility: Robotaxi reality check",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-05-24T16:31:26.827982+00:00"
     },
     {
       "tweet": "Just saw these 90s Disney snacks and realized I can still taste those Mickey ice pops. We really peaked as a society back then",
@@ -981,6 +948,28 @@
       "added_at": "2026-05-12T17:30:32.532118+00:00"
     },
     {
+      "tweet": "Did you see that report on Australia’s detention centers? They’re running a minimalist staffing model while everything is literally burning down. Corporations just don't care at all.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/may/25/mtc-security-failures-australia-immigration-detention-centres-ntwnfb",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Escapes, fires, stabbing: catastrophic security failures revealed in Australia’s immigration detention network",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-24T16:31:26.827457+00:00"
+    },
+    {
+      "tweet": "Man, Dick Parry died. Hearing that sax solo on Money is a core memory for anyone who grew up listening to Pink Floyd",
+      "original_url": "https://www.billboard.com/music/music-news/dick-parry-death-pink-floyd-saxophonist-dies-obituary-1236255730/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Dick Parry, Saxophonist on Pink Floyd Classics, Dies at 83",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-05-23T23:40:03.581325+00:00"
+    },
+    {
       "tweet": "So apparently Turkish police just stormed opposition offices. You know things are going great when the government starts treating the other party like a home invasion target. That's a mess.",
       "original_url": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -1023,17 +1012,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-05-24T14:11:56.679845+00:00"
-    },
-    {
-      "tweet": "Man, Dick Parry died. Hearing that sax solo on Money is a core memory for anyone who grew up listening to Pink Floyd",
-      "original_url": "https://www.billboard.com/music/music-news/dick-parry-death-pink-floyd-saxophonist-dies-obituary-1236255730/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Dick Parry, Saxophonist on Pink Floyd Classics, Dies at 83",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-23T23:40:03.581325+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1242,
+    "total_posted": 1244,
     "total_collected": 4971
   },
-  "last_posted_at": "2026-05-24T16:38:06.336402+00:00"
+  "last_posted_at": "2026-05-24T17:48:41.546374+00:00"
 }
