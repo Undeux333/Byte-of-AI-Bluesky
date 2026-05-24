@@ -2,28 +2,6 @@
   "last_collected": "2026-05-24T11:41:30.536754+00:00",
   "queue": [
     {
-      "tweet": "They're using hunger as a weapon of war now with like 20,000 attacks on food systems. Are we even human anymore.",
-      "original_url": "https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-24T08:15:07.536114+00:00"
-    },
-    {
-      "tweet": "Scientists just found some protein that controls how we age and they say a supplement fixes it. We’re just waiting for the immortality pill at this point.",
-      "original_url": "https://www.sciencedaily.com/releases/2026/05/260524012959.htm",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Scientists discover hidden driver of aging — Simple supplement reversed brain decline",
-      "source": "ScienceDaily",
-      "category": "science",
-      "added_at": "2026-05-24T08:15:07.535446+00:00"
-    },
-    {
       "tweet": "Microsoft just dumped the earliest DOS code for everyone to see. Looking at that old stuff is like seeing the skeleton of everything we use now.",
       "original_url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
       "buzz_score": 75,
@@ -46,28 +24,6 @@
       "added_at": "2026-05-24T08:15:07.535577+00:00"
     },
     {
-      "tweet": "Apparently a poem is why we wear poppies for Memorial Day. I literally had no clue.",
-      "original_url": "https://www.mentalfloss.com/holidays/why-poppies-memorial-day?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why People Wear Poppies on Memorial Day",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-05-24T08:15:07.536886+00:00"
-    },
-    {
-      "tweet": "Four years and out at AWS, man. Seems like the tech grind is just burning through people faster than ever.",
-      "original_url": "https://www.adventuresinoss.com/aws-four-years/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Amazon Web Services – Four Years and Out",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-24T08:15:07.535984+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -88,6 +44,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Apparently a poem is why we wear poppies for Memorial Day. I literally had no clue.",
+      "original_url": "https://www.mentalfloss.com/holidays/why-poppies-memorial-day?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Why People Wear Poppies on Memorial Day",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-05-24T08:15:07.536886+00:00"
+    },
+    {
+      "tweet": "Four years and out at AWS, man. Seems like the tech grind is just burning through people faster than ever.",
+      "original_url": "https://www.adventuresinoss.com/aws-four-years/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Amazon Web Services – Four Years and Out",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-24T08:15:07.535984+00:00"
     },
     {
       "tweet": "Did you see Tuchel left Foden and Palmer off the World Cup squad? The guy’s actually insane.",
@@ -321,28 +299,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Seeing a list of old social media sites I used to be on just makes me feel ancient. That era was weird.",
-      "original_url": "https://www.mentalfloss.com/culture/social-media/social-media-platforms-younger-generations-dont-know?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "6 Dead Social Media Platforms Younger Generations Never Heard Of",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-05-24T11:41:30.535629+00:00"
-    },
-    {
-      "tweet": "So Trump says there's a peace deal with Iran but the actual officials don't even know what's in it. Are we just making this up now?",
-      "original_url": "https://www.nytimes.com/live/2026/05/24/world/iran-war-trump",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran War Live Updates: U.S. and Iran Signal Move Toward Initial Peace Deal, but Details Remain Murky",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-24T11:41:30.535368+00:00"
-    },
-    {
       "tweet": "Harry Styles’ team is actually arguing with fans about those obstructed views on the tour. You pay that much just to stare at a stage pillar.",
       "original_url": "https://www.billboard.com/music/music-news/harry-styles-together-together-tour-sightline-complaints-1236252425/",
       "buzz_score": 88,
@@ -363,6 +319,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Seeing a list of old social media sites I used to be on just makes me feel ancient. That era was weird.",
+      "original_url": "https://www.mentalfloss.com/culture/social-media/social-media-platforms-younger-generations-dont-know?utm_source=RSS",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "6 Dead Social Media Platforms Younger Generations Never Heard Of",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-05-24T11:41:30.535629+00:00"
+    },
+    {
+      "tweet": "So Trump says there's a peace deal with Iran but the actual officials don't even know what's in it. Are we just making this up now?",
+      "original_url": "https://www.nytimes.com/live/2026/05/24/world/iran-war-trump",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iran War Live Updates: U.S. and Iran Signal Move Toward Initial Peace Deal, but Details Remain Murky",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-24T11:41:30.535368+00:00"
     },
     {
       "tweet": "Just saw these 90s Disney snacks and realized I can still taste those Mickey ice pops. We really peaked as a society back then",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1234,
+    "total_posted": 1236,
     "total_collected": 4943
   },
-  "last_posted_at": "2026-05-24T11:50:09.888384+00:00"
+  "last_posted_at": "2026-05-24T12:50:45.987331+00:00"
 }
