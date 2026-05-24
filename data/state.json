@@ -2,28 +2,6 @@
   "last_collected": "2026-05-24T08:15:07.537141+00:00",
   "queue": [
     {
-      "tweet": "Knicks are literally crushing the Cavs right now. We’re actually gonna see them in the Finals, man.",
-      "original_url": "https://www.bbc.com/sport/basketball/articles/cwy23ew24e0o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Rampant Knicks beat Cavs to close in on NBA Finals",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-24T08:15:07.535286+00:00"
-    },
-    {
-      "tweet": "So Iran is basically saying they might open up the Strait of Hormuz if this peace deal happens. Trump really playing high stakes poker with oil.",
-      "original_url": "https://www.nytimes.com/2026/05/24/world/middleeast/trump-iran-peace-deal-strait-hormuz.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Iranian Officials Say Proposed Peace Deal Would Open Strait of Hormuz",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-24T08:15:07.536367+00:00"
-    },
-    {
       "tweet": "Did you see what Colbert did after his show? Just straight up burned the set with Jack White in a dumpster behind a public access station. Unhinged.",
       "original_url": "https://www.billboard.com/culture/tv-film/stephen-colbert-public-access-only-in-monroe-1236255765/",
       "buzz_score": 85,
@@ -121,17 +99,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Just saw these 90s Disney snacks and realized I can still taste those Mickey ice pops. We really peaked as a society back then",
-      "original_url": "https://www.mentalfloss.com/nostalgia/90s/90s-disney-snacks?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "5 Nostalgic '90s Disney Snacks You Forgot You Grew Up With",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-05-23T23:40:03.581313+00:00"
     },
     {
       "tweet": "Did you see Tuchel left Foden and Palmer off the World Cup squad? The guy’s actually insane.",
@@ -387,15 +354,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Man, Dick Parry died. Hearing that sax solo on Money is a core memory for anyone who grew up listening to Pink Floyd",
-      "original_url": "https://www.billboard.com/music/music-news/dick-parry-death-pink-floyd-saxophonist-dies-obituary-1236255730/",
-      "buzz_score": 80,
+      "tweet": "Just saw these 90s Disney snacks and realized I can still taste those Mickey ice pops. We really peaked as a society back then",
+      "original_url": "https://www.mentalfloss.com/nostalgia/90s/90s-disney-snacks?utm_source=RSS",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Dick Parry, Saxophonist on Pink Floyd Classics, Dies at 83",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-23T23:40:03.581325+00:00"
+      "original_title": "5 Nostalgic '90s Disney Snacks You Forgot You Grew Up With",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-05-23T23:40:03.581313+00:00"
     },
     {
       "tweet": "Israel just hit those paramedics in Lebanon. We're really just watching this happen in real time.",
@@ -1034,6 +1001,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-05-12T17:30:32.532118+00:00"
+    },
+    {
+      "tweet": "Man, Dick Parry died. Hearing that sax solo on Money is a core memory for anyone who grew up listening to Pink Floyd",
+      "original_url": "https://www.billboard.com/music/music-news/dick-parry-death-pink-floyd-saxophonist-dies-obituary-1236255730/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Dick Parry, Saxophonist on Pink Floyd Classics, Dies at 83",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-05-23T23:40:03.581325+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1230,
+    "total_posted": 1232,
     "total_collected": 4927
   },
-  "last_posted_at": "2026-05-24T08:20:54.759621+00:00"
+  "last_posted_at": "2026-05-24T10:17:18.984752+00:00"
 }
