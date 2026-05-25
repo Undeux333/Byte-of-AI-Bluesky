@@ -2,28 +2,6 @@
   "last_collected": "2026-05-25T16:14:18.402667+00:00",
   "queue": [
     {
-      "tweet": "It's gonna be 95 degrees in the UK. Everyone over there is about to melt.",
-      "original_url": "https://www.nytimes.com/2026/05/25/weather/uk-heat-wave-may-weather-record.html",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "UK Heat Wave Could Break May Temperature Record",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-25T13:54:56.996289+00:00"
-    },
-    {
-      "tweet": "Man, Neil Young just popped up for a surprise set in Vancouver. Thought he was done after he bailed on that whole tour, but guess not.",
-      "original_url": "https://www.billboard.com/music/music-news/neil-young-live-vancouver-benefit-concert-1236255952/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Neil Young Makes First Live Appearance of 2026 at Vancouver Benefit Concert",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-25T10:54:01.671534+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -44,6 +22,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Man, Neil Young just popped up for a surprise set in Vancouver. Thought he was done after he bailed on that whole tour, but guess not.",
+      "original_url": "https://www.billboard.com/music/music-news/neil-young-live-vancouver-benefit-concert-1236255952/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Neil Young Makes First Live Appearance of 2026 at Vancouver Benefit Concert",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-05-25T10:54:01.671534+00:00"
     },
     {
       "tweet": "Did you see Tuchel left Foden and Palmer off the World Cup squad? The guy’s actually insane.",
@@ -970,17 +959,6 @@
       "added_at": "2026-05-12T17:30:32.532118+00:00"
     },
     {
-      "tweet": "Spain's World Cup squad has literally zero Real Madrid players. That's a bold move.",
-      "original_url": "https://www.bbc.com/sport/football/articles/crlpp3dw14lo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Lamine Yamal in Spain squad but no Real Madrid players",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-25T13:54:56.996549+00:00"
-    },
-    {
       "tweet": "Man, Dick Parry died. Hearing that sax solo on Money is a core memory for anyone who grew up listening to Pink Floyd",
       "original_url": "https://www.billboard.com/music/music-news/dick-parry-death-pink-floyd-saxophonist-dies-obituary-1236255730/",
       "buzz_score": 80,
@@ -990,6 +968,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-05-23T23:40:03.581325+00:00"
+    },
+    {
+      "tweet": "Spain's World Cup squad has literally zero Real Madrid players. That's a bold move.",
+      "original_url": "https://www.bbc.com/sport/football/articles/crlpp3dw14lo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Lamine Yamal in Spain squad but no Real Madrid players",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-25T13:54:56.996549+00:00"
     },
     {
       "tweet": "So Trump says we're basically best friends with Iran now. I'll believe it when I see it.",
@@ -2018,8 +2007,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1260,
+    "total_posted": 1261,
     "total_collected": 5083
   },
-  "last_posted_at": "2026-05-25T16:20:15.088433+00:00"
+  "last_posted_at": "2026-05-25T17:57:09.137523+00:00"
 }
