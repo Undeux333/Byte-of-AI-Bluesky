@@ -2,28 +2,6 @@
   "last_collected": "2026-05-28T20:40:25.078793+00:00",
   "queue": [
     {
-      "tweet": "Hold on, Australia is warning politicians their cars might be bugged now? What are we doing at this point",
-      "original_url": "https://www.theguardian.com/australia-news/live/2026/may/29/australia-news-live-senate-estimates-capital-gains-tax-anthony-albanese-angus-taylor-housing-weather-floods-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australia news live: Asio warn politicians that EVs could be bugged; flood warnings after wild weather",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-28T20:40:25.077306+00:00"
-    },
-    {
-      "tweet": "Did you see YouTube is gonna start tagging AI videos now? Man, half the internet is just gonna be a warning label.",
-      "original_url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "YouTube to automatically label AI-generated videos",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-28T20:40:25.076995+00:00"
-    },
-    {
       "tweet": "They finally brought that Donkey Kong game back. It's the little things that actually make you feel something.",
       "original_url": "https://kotaku.com/the-most-underappreciated-donkey-kong-game-is-finally-back-2000700239",
       "buzz_score": 78,
@@ -123,28 +101,6 @@
       "added_at": "2026-05-28T20:40:25.078548+00:00"
     },
     {
-      "tweet": "The Trump admin is actually suing states over undercover license plates for ICE. It's just power moves all the way down.",
-      "original_url": "https://www.aljazeera.com/news/2026/5/28/trump-administration-sues-states-for-denying-ice-agents-undercover-plates?traffic_source=rss",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Trump administration sues states for denying ICE agents undercover plates",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-28T20:40:25.077801+00:00"
-    },
-    {
-      "tweet": "Argentina's whole 'European' self-image is getting called out again after those incidents in Brazil. It was bound to happen.",
-      "original_url": "https://www.theguardian.com/world/2026/may/28/argentina-european-self-image-racist-incidents-brazil",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Argentina’s ‘European’ self-image under renewed scrutiny after racist incidents in Brazil",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-28T15:32:35.294890+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -167,15 +123,26 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Apparently the opening for that new 007 game is actually a good tutorial. Finally, a game that doesn't hold your hand for ten hours.",
-      "original_url": "https://www.polygon.com/007-first-light-james-bond-game-tutorial/",
-      "buzz_score": 75,
+      "tweet": "The Trump admin is actually suing states over undercover license plates for ICE. It's just power moves all the way down.",
+      "original_url": "https://www.aljazeera.com/news/2026/5/28/trump-administration-sues-states-for-denying-ice-agents-undercover-plates?traffic_source=rss",
+      "buzz_score": 82,
       "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "007 First Light's opening perfects the art of the video game tutorial",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-05-28T20:40:25.077554+00:00"
+      "original_title": "Trump administration sues states for denying ICE agents undercover plates",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-05-28T20:40:25.077801+00:00"
+    },
+    {
+      "tweet": "Argentina's whole 'European' self-image is getting called out again after those incidents in Brazil. It was bound to happen.",
+      "original_url": "https://www.theguardian.com/world/2026/may/28/argentina-european-self-image-racist-incidents-brazil",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Argentina’s ‘European’ self-image under renewed scrutiny after racist incidents in Brazil",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-28T15:32:35.294890+00:00"
     },
     {
       "tweet": "Did you see Tuchel left Foden and Palmer off the World Cup squad? The guy’s actually insane.",
@@ -429,6 +396,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Apparently the opening for that new 007 game is actually a good tutorial. Finally, a game that doesn't hold your hand for ten hours.",
+      "original_url": "https://www.polygon.com/007-first-light-james-bond-game-tutorial/",
+      "buzz_score": 75,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "007 First Light's opening perfects the art of the video game tutorial",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-05-28T20:40:25.077554+00:00"
     },
     {
       "tweet": "So apparently Saudi Arabia is running out of money for that whole Vision 2030 thing. Turns out sci-fi budgets don't actually survive reality.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1273,
+    "total_posted": 1275,
     "total_collected": 5167
   },
-  "last_posted_at": "2026-05-28T20:45:31.792431+00:00"
+  "last_posted_at": "2026-05-28T22:25:30.498291+00:00"
 }
