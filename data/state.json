@@ -2,28 +2,6 @@
   "last_collected": "2026-05-30T18:47:09.093437+00:00",
   "queue": [
     {
-      "tweet": "Dude, UC professors are actually demanding SATs back for STEM majors. Turns out nobody can do basic math anymore. Wild.",
-      "original_url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-30T18:47:09.091843+00:00"
-    },
-    {
-      "tweet": "Green party leaders saying they need to listen to Reform voters. At this point everyone's just trying to figure out who's actually mad.",
-      "original_url": "https://www.theguardian.com/politics/2026/may/30/green-leaders-warn-party-it-must-listen-to-reform-voters-concerns-to-tackle-inequality",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Green leaders warn party it must listen to Reform voters’ concerns to tackle inequality",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-30T18:47:09.092659+00:00"
-    },
-    {
       "tweet": "So apparently Ye is playing a stadium in Istanbul for 100,000 people. Calling him the Michael Jordan of touring is a lot.",
       "original_url": "https://www.billboard.com/business/touring/kanye-west-comeback-tour-john-burton-access-opera-1236258800/",
       "buzz_score": 80,
@@ -44,17 +22,6 @@
       "source": "Bustle",
       "category": "sex",
       "added_at": "2026-05-30T18:47:09.092406+00:00"
-    },
-    {
-      "tweet": "Dude, a Danish pension fund is out on SpaceX because of the governance. Like, imagine being that concerned about how Elon runs things when you're supposed to be playing it safe. Wild.",
-      "original_url": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Danish pension fund excludes SpaceX citing governance and valuation",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-30T12:01:26.534569+00:00"
     },
     {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
@@ -79,26 +46,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "The ebola situation in that mining town is just spiraling. Barely anyone is talking about it.",
-      "original_url": "https://www.nytimes.com/2026/05/30/world/africa/ebola-epicenter-congo.html",
-      "buzz_score": 82,
+      "tweet": "Dude, a Danish pension fund is out on SpaceX because of the governance. Like, imagine being that concerned about how Elon runs things when you're supposed to be playing it safe. Wild.",
+      "original_url": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Inside the Ebola Epicenter, the Virus Rages With Little to Stop It",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-30T12:01:26.535516+00:00"
-    },
-    {
-      "tweet": "The Lego Movie is getting dumped from Netflix. The fact that thing didn't get an Oscar is still the biggest joke ever.",
-      "original_url": "https://www.polygon.com/lego-movie-leaving-netflix-oscar-snub/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "I'm still not over The Lego Movie's Oscar snub",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-05-30T12:01:26.534989+00:00"
+      "original_title": "Danish pension fund excludes SpaceX citing governance and valuation",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-30T12:01:26.534569+00:00"
     },
     {
       "tweet": "Did you see Tuchel left Foden and Palmer off the World Cup squad? The guy’s actually insane.",
@@ -332,6 +288,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "The ebola situation in that mining town is just spiraling. Barely anyone is talking about it.",
+      "original_url": "https://www.nytimes.com/2026/05/30/world/africa/ebola-epicenter-congo.html",
+      "buzz_score": 82,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Inside the Ebola Epicenter, the Virus Rages With Little to Stop It",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-30T12:01:26.535516+00:00"
+    },
+    {
       "tweet": "Harry Styles’ team is actually arguing with fans about those obstructed views on the tour. You pay that much just to stare at a stage pillar.",
       "original_url": "https://www.billboard.com/music/music-news/harry-styles-together-together-tour-sightline-complaints-1236252425/",
       "buzz_score": 88,
@@ -354,26 +321,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Honestly, a short game hits way different when you're burnt out. Just wanna finish something for once.",
-      "original_url": "https://www.theverge.com/games/937499/slots-and-daggers-review-nintendo-switch-ps5-xbox-series-x-s-pc",
-      "buzz_score": 75,
+      "tweet": "The Lego Movie is getting dumped from Netflix. The fact that thing didn't get an Oscar is still the biggest joke ever.",
+      "original_url": "https://www.polygon.com/lego-movie-leaving-netflix-oscar-snub/",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Sometimes, a short game hits the spot",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-05-30T12:01:26.535272+00:00"
-    },
-    {
-      "tweet": "Turns out the age verification service PlayStation and Meta use is a total privacy disaster. Why are we surprised anymore.",
-      "original_url": "https://kotaku.com/new-report-suggests-age-verification-service-used-by-playstation-and-meta-is-a-privacy-mess-2000700789",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "New Report Suggests Age Verification Service Used By PlayStation And Meta Is A Privacy Mess",
-      "source": "Kotaku",
+      "original_title": "I'm still not over The Lego Movie's Oscar snub",
+      "source": "Polygon",
       "category": "entertainment",
-      "added_at": "2026-05-30T16:33:23.119771+00:00"
+      "added_at": "2026-05-30T12:01:26.534989+00:00"
     },
     {
       "tweet": "So Mourinho is actually at Real Madrid now. Watch Vinicius Jr get benched for not tracking back on defense.",
@@ -1012,6 +968,28 @@
       "source": "Rolling Stone",
       "category": "entertainment",
       "added_at": "2026-05-17T07:20:17.644030+00:00"
+    },
+    {
+      "tweet": "Honestly, a short game hits way different when you're burnt out. Just wanna finish something for once.",
+      "original_url": "https://www.theverge.com/games/937499/slots-and-daggers-review-nintendo-switch-ps5-xbox-series-x-s-pc",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Sometimes, a short game hits the spot",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-05-30T12:01:26.535272+00:00"
+    },
+    {
+      "tweet": "Turns out the age verification service PlayStation and Meta use is a total privacy disaster. Why are we surprised anymore.",
+      "original_url": "https://kotaku.com/new-report-suggests-age-verification-service-used-by-playstation-and-meta-is-a-privacy-mess-2000700789",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "New Report Suggests Age Verification Service Used By PlayStation And Meta Is A Privacy Mess",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-05-30T16:33:23.119771+00:00"
     },
     {
       "tweet": "There's this new movie about Jamaican obeah and how it was banned back in the 1700s. People have been scared of magic for way too long.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1315,
+    "total_posted": 1317,
     "total_collected": 5383
   },
-  "last_posted_at": "2026-05-30T18:53:51.060314+00:00"
+  "last_posted_at": "2026-05-30T20:07:53.632550+00:00"
 }
