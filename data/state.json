@@ -2,28 +2,6 @@
   "last_collected": "2026-05-29T22:48:57.381365+00:00",
   "queue": [
     {
-      "tweet": "UC faculty are saying kids are so bad at math now they have to bring back SATs for STEM. We really gave everyone calculators too early.",
-      "original_url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-29T22:48:57.380075+00:00"
-    },
-    {
-      "tweet": "A judge actually had to rule that the Kennedy Center shouldn't have Trump's name on it. Like, yeah, it's for John F. Kennedy. Obviously.",
-      "original_url": "https://www.npr.org/2026/05/29/nx-s1-5839349/president-trump-kennedy-center-name-judge-order",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump's name must come off of the Kennedy Center, judge rules",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-05-29T22:48:57.380078+00:00"
-    },
-    {
       "tweet": "They mapped out the most misspelled word in every state and it's honestly embarrassing. We're all just guessing at this point.",
       "original_url": "https://www.mentalfloss.com/language/spelling/most-misspelled-word-every-state?utm_source=RSS",
       "buzz_score": 80,
@@ -88,17 +66,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "This guy Kenneth Law just pleaded guilty to helping dozens of people end their lives by shipping them salt online. Some people are just demons.",
-      "original_url": "https://www.nytimes.com/2026/05/29/world/canada/kenneth-law-canada-poison.html",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Canadian Man Pleads Guilty to Aiding 14 Suicides",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-29T22:48:57.380080+00:00"
     },
     {
       "tweet": "Did you see Tuchel left Foden and Palmer off the World Cup squad? The guy’s actually insane.",
@@ -332,26 +299,15 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Saw that breakdown of every VAR error this season. Arsenal and Chelsea just kept getting lucky breaks, huh.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cvgzl2gmvrzo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
+      "tweet": "This guy Kenneth Law just pleaded guilty to helping dozens of people end their lives by shipping them salt online. Some people are just demons.",
+      "original_url": "https://www.nytimes.com/2026/05/29/world/canada/kenneth-law-canada-poison.html",
+      "buzz_score": 90,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Every VAR error: How Arsenal escaped red cards and penalties",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-29T13:47:55.503038+00:00"
-    },
-    {
-      "tweet": "Dude, did you see Claude just dropped a 4.8 version. We're barely keeping up with the updates, man.",
-      "original_url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Claude Opus 4.8",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-29T13:47:55.502240+00:00"
+      "original_title": "Canadian Man Pleads Guilty to Aiding 14 Suicides",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-05-29T22:48:57.380080+00:00"
     },
     {
       "tweet": "Harry Styles’ team is actually arguing with fans about those obstructed views on the tour. You pay that much just to stare at a stage pillar.",
@@ -374,6 +330,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Saw that breakdown of every VAR error this season. Arsenal and Chelsea just kept getting lucky breaks, huh.",
+      "original_url": "https://www.bbc.com/sport/football/articles/cvgzl2gmvrzo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Every VAR error: How Arsenal escaped red cards and penalties",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-29T13:47:55.503038+00:00"
+    },
+    {
+      "tweet": "Dude, did you see Claude just dropped a 4.8 version. We're barely keeping up with the updates, man.",
+      "original_url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Claude Opus 4.8",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-29T13:47:55.502240+00:00"
     },
     {
       "tweet": "Adobe made an AI agent but it's basically just a mediocre intern. We're really just training software to be annoying now.",
@@ -1014,17 +992,6 @@
       "added_at": "2026-05-16T07:06:29.918583+00:00"
     },
     {
-      "tweet": "Jeffrey Donaldson’s lawyer is out here saying his letter to the victim had nothing to do with the abuse. The reach.",
-      "original_url": "https://www.theguardian.com/uk-news/2026/may/29/jeffrey-donaldson-trial-newry-crown-court-day-four",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Jeffrey Donaldson’s letter to alleged victim had ‘nothing to do’ with abuse claims, trial hears",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-29T22:48:57.380876+00:00"
-    },
-    {
       "tweet": "They aren't extraditing that guy who sold suicide kits to the UK. How does that even work?",
       "original_url": "https://www.theguardian.com/technology/2026/may/29/anger-decision-not-extradite-canadian-suicide-kit-supplier-face-uk-justice",
       "buzz_score": 80,
@@ -1034,6 +1001,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-05-29T13:47:55.503432+00:00"
+    },
+    {
+      "tweet": "Jeffrey Donaldson’s lawyer is out here saying his letter to the victim had nothing to do with the abuse. The reach.",
+      "original_url": "https://www.theguardian.com/uk-news/2026/may/29/jeffrey-donaldson-trial-newry-crown-court-day-four",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Jeffrey Donaldson’s letter to alleged victim had ‘nothing to do’ with abuse claims, trial hears",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-29T22:48:57.380876+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1293,
+    "total_posted": 1295,
     "total_collected": 5285
   },
-  "last_posted_at": "2026-05-29T22:58:08.954072+00:00"
+  "last_posted_at": "2026-05-30T00:08:49.618266+00:00"
 }
