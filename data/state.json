@@ -2,28 +2,6 @@
   "last_collected": "2026-05-30T21:13:27.128239+00:00",
   "queue": [
     {
-      "tweet": "Did you see that EY Canada report? They literally hallucinated almost every single citation in it. We're just trusting robots to do our homework now, huh.",
-      "original_url": "https://gptzero.me/investigations/ey",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "EY Canada published a cybersecurity report and most citations were hallucinated",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-30T21:13:27.126625+00:00"
-    },
-    {
-      "tweet": "So apparently Ye is playing a stadium in Istanbul for 100,000 people. Calling him the Michael Jordan of touring is a lot.",
-      "original_url": "https://www.billboard.com/business/touring/kanye-west-comeback-tour-john-burton-access-opera-1236258800/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "How Access Opera’s John Burton Kickstarted Ye’s Touring Comeback: ‘He’s Like the Michael Jordan of This Thing’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-30T18:47:09.091856+00:00"
-    },
-    {
       "tweet": "Found these podiatrist-approved shoes on Amazon for under 40 bucks. Guess I'm officially at the age where comfort is the only thing that matters.",
       "original_url": "https://www.bustle.com/style/from-sneakers-to-heels-podiatrists-swear-by-these-comfy-shoes-under-on-amazon",
       "buzz_score": 70,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1319,
+    "total_posted": 1321,
     "total_collected": 5399
   },
-  "last_posted_at": "2026-05-30T21:20:04.379483+00:00"
+  "last_posted_at": "2026-05-30T22:17:14.901616+00:00"
 }
