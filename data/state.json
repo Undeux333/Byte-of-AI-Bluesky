@@ -2,28 +2,6 @@
   "last_collected": "2026-05-30T14:02:24.908627+00:00",
   "queue": [
     {
-      "tweet": "Did you see GTA 6 devs are unionizing now? Finally, maybe they'll actually get to sleep before that game drops. Long overdue",
-      "original_url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "GTA 6 Developers Unionize",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-30T14:02:24.907545+00:00"
-    },
-    {
-      "tweet": "So apparently Arne Slot is just out at Liverpool? A year after winning the whole thing? The patience is zero.",
-      "original_url": "https://www.espn.com/soccer/story/_/id/48918413/arne-slot-leaves-liverpool-immediate-effect",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Slot exits Liverpool one year after EPL triumph",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-05-30T12:01:26.534579+00:00"
-    },
-    {
       "tweet": "Hegseth is out here telling Asian leaders they gotta do more if they want anything from us. Not how that's supposed to work.",
       "original_url": "https://www.nytimes.com/2026/05/30/world/asia/hegseth-asia-security-shangri-la.html",
       "buzz_score": 85,
@@ -90,17 +68,6 @@
       "added_at": "2026-05-30T12:01:26.535885+00:00"
     },
     {
-      "tweet": "So Mourinho is actually at Real Madrid now. Watch Vinicius Jr get benched for not tracking back on defense.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cy822g7vv9jo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "What now for Vinicius Jr after Mourinho signs Real Madrid deal?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-30T07:19:55.270855+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -123,15 +90,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Paul McCartney talking about how his family kept him sane during Beatlemania. Honestly, makes sense.",
-      "original_url": "https://www.rollingstone.com/music/music-news/paul-mccartney-the-beatles-fame-beatlemania-1235570322/",
-      "buzz_score": 80,
+      "tweet": "So Mourinho is actually at Real Madrid now. Watch Vinicius Jr get benched for not tracking back on defense.",
+      "original_url": "https://www.bbc.com/sport/football/articles/cy822g7vv9jo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Paul McCartney Looks Back at How His Family Grounded Him During Beatlemania",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-05-30T07:19:55.271934+00:00"
+      "original_title": "What now for Vinicius Jr after Mourinho signs Real Madrid deal?",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-30T07:19:55.270855+00:00"
     },
     {
       "tweet": "Did you see Tuchel left Foden and Palmer off the World Cup squad? The guy’s actually insane.",
@@ -387,15 +354,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Dude, Killswitch Engage is finally doing a headline tour in Australia. After how many years, man.",
-      "original_url": "https://www.billboard.com/music/rock/killswitch-engage-expand-2026-australian-tour-melbourne-1236260785/",
-      "buzz_score": 75,
+      "tweet": "Paul McCartney talking about how his family kept him sane during Beatlemania. Honestly, makes sense.",
+      "original_url": "https://www.rollingstone.com/music/music-news/paul-mccartney-the-beatles-fame-beatlemania-1235570322/",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Killswitch Engage Expand 2026 Australian Tour With New Melbourne Date",
-      "source": "Billboard",
+      "original_title": "Paul McCartney Looks Back at How His Family Grounded Him During Beatlemania",
+      "source": "Rolling Stone",
       "category": "entertainment",
-      "added_at": "2026-05-30T07:19:55.270846+00:00"
+      "added_at": "2026-05-30T07:19:55.271934+00:00"
     },
     {
       "tweet": "Saw that breakdown of every VAR error this season. Arsenal and Chelsea just kept getting lucky breaks, huh.",
@@ -1023,6 +990,17 @@
       "source": "Rolling Stone",
       "category": "entertainment",
       "added_at": "2026-05-17T07:20:17.644030+00:00"
+    },
+    {
+      "tweet": "Dude, Killswitch Engage is finally doing a headline tour in Australia. After how many years, man.",
+      "original_url": "https://www.billboard.com/music/rock/killswitch-engage-expand-2026-australian-tour-melbourne-1236260785/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Killswitch Engage Expand 2026 Australian Tour With New Melbourne Date",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-05-30T07:19:55.270846+00:00"
     },
     {
       "tweet": "Anthropic is teaming up with the Pope to talk about AI harms now. Vatican-washing is officially a thing",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1307,
+    "total_posted": 1309,
     "total_collected": 5351
   },
-  "last_posted_at": "2026-05-30T14:10:11.482923+00:00"
+  "last_posted_at": "2026-05-30T15:29:32.166090+00:00"
 }
