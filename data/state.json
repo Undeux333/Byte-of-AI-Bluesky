@@ -2,28 +2,6 @@
   "last_collected": "2026-05-30T09:28:39.097039+00:00",
   "queue": [
     {
-      "tweet": "Drones are crossing into Romania now and hitting people. Man, this is getting way too close.",
-      "original_url": "https://www.nytimes.com/2026/05/29/world/europe/romania-drone-strike-what-to-know.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "What to Know About the Drones That Have Been Crossing Into Romania",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-30T07:19:55.271534+00:00"
-    },
-    {
-      "tweet": "Hegseth is out here saying we're more than capable of another war with Iran. Like we're not tired enough.",
-      "original_url": "https://www.theguardian.com/world/2026/may/30/us-more-than-capable-of-resuming-war-against-iran-pete-hegseth-says",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US ‘more than capable’ of resuming war against Iran, Pete Hegseth says",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-30T07:19:55.271278+00:00"
-    },
-    {
       "tweet": "So Mourinho is actually at Real Madrid now. Watch Vinicius Jr get benched for not tracking back on defense.",
       "original_url": "https://www.bbc.com/sport/football/articles/cy822g7vv9jo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -57,17 +35,6 @@
       "added_at": "2026-05-30T07:19:55.270846+00:00"
     },
     {
-      "tweet": "Vivid Sydney had to cancel the whole drone show after 83 of them just fell into the harbor. Expensive pile of scrap.",
-      "original_url": "https://www.theguardian.com/culture/2026/may/30/vivid-sydney-cancels-all-drone-shows-after-83-drones-plunged-into-darling-harbour",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Vivid Sydney cancels all drone shows after 83 drones plunged into Darling Harbour",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-30T04:15:07.288158+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -90,15 +57,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Reading about these discontinued candy bars and it hits different. We all have that one snack we're still bitter about losing.",
-      "original_url": "https://www.mentalfloss.com/6-discontinued-candy-bars-we-still-have-a-sweet-tooth-for-01ks5nhfn1ak?utm_source=RSS",
-      "buzz_score": 75,
+      "tweet": "Vivid Sydney had to cancel the whole drone show after 83 of them just fell into the harbor. Expensive pile of scrap.",
+      "original_url": "https://www.theguardian.com/culture/2026/may/30/vivid-sydney-cancels-all-drone-shows-after-83-drones-plunged-into-darling-harbour",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "6 Discontinued Candy Bars We Still Have a Sweet Tooth For",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-05-30T04:15:07.288791+00:00"
+      "original_title": "Vivid Sydney cancels all drone shows after 83 drones plunged into Darling Harbour",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-05-30T04:15:07.288158+00:00"
     },
     {
       "tweet": "Did you see Tuchel left Foden and Palmer off the World Cup squad? The guy’s actually insane.",
@@ -332,28 +299,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Apparently there are 5.5 million bees living under a cemetery in New York and they've been there for over a century. That is a lot of bees.",
-      "original_url": "https://www.wired.com/story/millions-of-bees-have-thrived-under-a-new-york-cemetery-for-more-than-a-century/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Millions of Bees Have Thrived Under a New York Cemetery for More Than a Century",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-05-30T09:28:39.096244+00:00"
-    },
-    {
-      "tweet": "Keep seeing these lists of weird Amazon stuff that's actually useful. We're all just one impulse buy away from owning a weird kitchen gadget.",
-      "original_url": "https://www.bustle.com/shopping/weird-as-hell-things-that-youll-actually-get-a-sht-ton-of-use-out-of",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "60 Weird-As-Hell Things That You'll Actually Get A Sh*t Ton Of Use Out Of",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-05-30T04:15:07.288407+00:00"
-    },
-    {
       "tweet": "Harry Styles’ team is actually arguing with fans about those obstructed views on the tour. You pay that much just to stare at a stage pillar.",
       "original_url": "https://www.billboard.com/music/music-news/harry-styles-together-together-tour-sightline-complaints-1236252425/",
       "buzz_score": 88,
@@ -374,6 +319,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Reading about these discontinued candy bars and it hits different. We all have that one snack we're still bitter about losing.",
+      "original_url": "https://www.mentalfloss.com/6-discontinued-candy-bars-we-still-have-a-sweet-tooth-for-01ks5nhfn1ak?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "6 Discontinued Candy Bars We Still Have a Sweet Tooth For",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-05-30T04:15:07.288791+00:00"
     },
     {
       "tweet": "Saw that breakdown of every VAR error this season. Arsenal and Chelsea just kept getting lucky breaks, huh.",
@@ -1014,15 +970,26 @@
       "added_at": "2026-05-17T07:20:17.643058+00:00"
     },
     {
-      "tweet": "Wait, Barcelona just signed Anthony Gordon. That feels like a fever dream.",
-      "original_url": "https://www.aljazeera.com/sports/2026/5/30/barcelona-sign-england-winger-anthony-gordon-from-newcastle?traffic_source=rss",
-      "buzz_score": 88,
+      "tweet": "Apparently there are 5.5 million bees living under a cemetery in New York and they've been there for over a century. That is a lot of bees.",
+      "original_url": "https://www.wired.com/story/millions-of-bees-have-thrived-under-a-new-york-cemetery-for-more-than-a-century/",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Barcelona sign England winger Anthony Gordon from Newcastle",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-30T07:19:55.271017+00:00"
+      "original_title": "Millions of Bees Have Thrived Under a New York Cemetery for More Than a Century",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-05-30T09:28:39.096244+00:00"
+    },
+    {
+      "tweet": "Keep seeing these lists of weird Amazon stuff that's actually useful. We're all just one impulse buy away from owning a weird kitchen gadget.",
+      "original_url": "https://www.bustle.com/shopping/weird-as-hell-things-that-youll-actually-get-a-sht-ton-of-use-out-of",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "60 Weird-As-Hell Things That You'll Actually Get A Sh*t Ton Of Use Out Of",
+      "source": "Bustle",
+      "category": "sex",
+      "added_at": "2026-05-30T04:15:07.288407+00:00"
     },
     {
       "tweet": "They mapped out the most misspelled word in every state and it's honestly embarrassing. We're all just guessing at this point.",
@@ -1034,6 +1001,17 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-05-29T22:48:57.380072+00:00"
+    },
+    {
+      "tweet": "Wait, Barcelona just signed Anthony Gordon. That feels like a fever dream.",
+      "original_url": "https://www.aljazeera.com/sports/2026/5/30/barcelona-sign-england-winger-anthony-gordon-from-newcastle?traffic_source=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Barcelona sign England winger Anthony Gordon from Newcastle",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-05-30T07:19:55.271017+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1301,
+    "total_posted": 1303,
     "total_collected": 5325
   },
-  "last_posted_at": "2026-05-30T09:37:40.898316+00:00"
+  "last_posted_at": "2026-05-30T11:04:58.441416+00:00"
 }
