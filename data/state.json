@@ -24,28 +24,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "So apparently everyone is bringing back basement parties now 'cause the club scene is dead. Honestly, just having a place where you can actually hear someone talk sounds nice.",
-      "original_url": "https://www.nytimes.com/2026/05/31/world/canada/toronto-basement-jams-caribbean-diaspora.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Where Is Toronto’s Best Party? Try the Basement.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-05-31T08:08:35.252055+00:00"
-    },
-    {
-      "tweet": "Reading about these prepaid phone plans because I'm finally done with these two-year contracts. Honestly, who isn't.",
-      "original_url": "https://www.wired.com/gallery/best-prepaid-phone-plans/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "6 Best Prepaid Phone Plans (2026): Tello, Boost, Google Fi, More",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-05-31T10:23:42.761126+00:00"
-    },
-    {
       "tweet": "Did you see Tuchel left Foden and Palmer off the World Cup squad? The guy’s actually insane.",
       "original_url": "https://www.bbc.com/sport/football/articles/c78ke277pmdo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 90,
@@ -277,26 +255,26 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Steam just hiked the price of the Steam Deck. Seriously",
-      "original_url": "https://www.polygon.com/patch-notes-steam-deck-price/",
+      "tweet": "So apparently everyone is bringing back basement parties now 'cause the club scene is dead. Honestly, just having a place where you can actually hear someone talk sounds nice.",
+      "original_url": "https://www.nytimes.com/2026/05/31/world/canada/toronto-basement-jams-caribbean-diaspora.html",
       "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "New Steam Deck price hike is very bad news for millions of gamers",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-05-31T15:59:16.478883+00:00"
-    },
-    {
-      "tweet": "Funny how all those companies dropped their Pride stuff the second it stopped being a marketing layup. So much for those values.",
-      "original_url": "https://www.npr.org/2026/05/30/nx-s1-5805854/pride-parade-struggle-corporate-sponsorships",
-      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Pride celebrations struggle as corporate sponsorships dry up",
-      "source": "NPR News",
+      "original_title": "Where Is Toronto’s Best Party? Try the Basement.",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-05-31T08:08:35.252731+00:00"
+      "added_at": "2026-05-31T08:08:35.252055+00:00"
+    },
+    {
+      "tweet": "Reading about these prepaid phone plans because I'm finally done with these two-year contracts. Honestly, who isn't.",
+      "original_url": "https://www.wired.com/gallery/best-prepaid-phone-plans/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "6 Best Prepaid Phone Plans (2026): Tello, Boost, Google Fi, More",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-05-31T10:23:42.761126+00:00"
     },
     {
       "tweet": "Harry Styles’ team is actually arguing with fans about those obstructed views on the tour. You pay that much just to stare at a stage pillar.",
@@ -319,6 +297,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Steam just hiked the price of the Steam Deck. Seriously",
+      "original_url": "https://www.polygon.com/patch-notes-steam-deck-price/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "New Steam Deck price hike is very bad news for millions of gamers",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-05-31T15:59:16.478883+00:00"
     },
     {
       "tweet": "So Microsoft is straight up breaking offline software we already bought. You pay for it once and they still find a way to brick it. Absolute joke",
@@ -979,6 +968,17 @@
       "source": "Rolling Stone",
       "category": "entertainment",
       "added_at": "2026-05-17T07:20:17.644030+00:00"
+    },
+    {
+      "tweet": "Funny how all those companies dropped their Pride stuff the second it stopped being a marketing layup. So much for those values.",
+      "original_url": "https://www.npr.org/2026/05/30/nx-s1-5805854/pride-parade-struggle-corporate-sponsorships",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Pride celebrations struggle as corporate sponsorships dry up",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-05-31T08:08:35.252731+00:00"
     },
     {
       "tweet": "Did you hear about that fourth strike on a boat in the Pacific? We're just casual drone striking random boats now.",
