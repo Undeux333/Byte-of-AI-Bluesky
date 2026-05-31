@@ -266,17 +266,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "So they’re banning keeper timeouts at the World Cup now. Like, are we trying to stop people from actually talking to their own team?",
-      "original_url": "https://www.bbc.com/sport/football/articles/c9v39x2v8yxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Goalkeeper tactical timeouts to be banned at World Cup",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-05-31T20:46:41.186106+00:00"
-    },
-    {
       "tweet": "Harry Styles’ team is actually arguing with fans about those obstructed views on the tour. You pay that much just to stare at a stage pillar.",
       "original_url": "https://www.billboard.com/music/music-news/harry-styles-together-together-tour-sightline-complaints-1236252425/",
       "buzz_score": 88,
@@ -297,6 +286,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "So they’re banning keeper timeouts at the World Cup now. Like, are we trying to stop people from actually talking to their own team?",
+      "original_url": "https://www.bbc.com/sport/football/articles/c9v39x2v8yxo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Goalkeeper tactical timeouts to be banned at World Cup",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-05-31T20:46:41.186106+00:00"
     },
     {
       "tweet": "So apparently everyone is bringing back basement parties now 'cause the club scene is dead. Honestly, just having a place where you can actually hear someone talk sounds nice.",
@@ -970,17 +970,6 @@
       "added_at": "2026-05-17T07:20:17.644030+00:00"
     },
     {
-      "tweet": "Wait, Dua Lipa actually got married. Thought they were just dating for a couple weeks or something.",
-      "original_url": "https://www.billboard.com/music/music-news/dua-lipa-callum-turner-marry-london-ceremony-1236261023/",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Dua Lipa and Callum Turner Marry in Intimate London Ceremony",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-31T18:16:44.314498+00:00"
-    },
-    {
       "tweet": "Reading about these prepaid phone plans because I'm finally done with these two-year contracts. Honestly, who isn't.",
       "original_url": "https://www.wired.com/gallery/best-prepaid-phone-plans/",
       "buzz_score": 75,
@@ -990,6 +979,17 @@
       "source": "Wired",
       "category": "tech",
       "added_at": "2026-05-31T10:23:42.761126+00:00"
+    },
+    {
+      "tweet": "Wait, Dua Lipa actually got married. Thought they were just dating for a couple weeks or something.",
+      "original_url": "https://www.billboard.com/music/music-news/dua-lipa-callum-turner-marry-london-ceremony-1236261023/",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Dua Lipa and Callum Turner Marry in Intimate London Ceremony",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-05-31T18:16:44.314498+00:00"
     },
     {
       "tweet": "House of the Dragon is back in three weeks. We're definitely all gonna pretend we remember what happened last season.",
