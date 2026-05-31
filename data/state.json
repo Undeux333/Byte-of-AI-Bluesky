@@ -2,28 +2,6 @@
   "last_collected": "2026-05-31T10:23:42.761511+00:00",
   "queue": [
     {
-      "tweet": "Dude, people are literally begging others to not vibe fuck up their software on GitHub now. We're cooked.",
-      "original_url": "https://github.com/RsyncProject/rsync/issues/929",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Please Do Not Vibe Fuck Up This Software",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-31T10:23:42.759701+00:00"
-    },
-    {
-      "tweet": "Six new games for the Switch 2 in June. Guess I'm not leaving the house that month.",
-      "original_url": "https://www.polygon.com/new-switch-2-games-june-2026/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "6 new Switch 2 games to play in June 2026",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-05-31T10:23:42.760881+00:00"
-    },
-    {
       "tweet": "South Africa just got stuck at home for the World Cup because someone messed up the paperwork. Actual clowns.",
       "original_url": "https://www.bbc.com/news/articles/c86dxvql3qno?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -330,17 +308,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "Israel just took some random castle in Lebanon and called it a huge tactical victory. Total war in a sandbox.",
-      "original_url": "https://www.aljazeera.com/news/2026/5/31/israel-issues-more-displacement-orders-in-lebanon-seizes-strategic-castle?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israel issues more displacement orders in Lebanon, seizes strategic castle",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-05-31T10:23:42.760511+00:00"
     },
     {
       "tweet": "Harry Styles’ team is actually arguing with fans about those obstructed views on the tour. You pay that much just to stare at a stage pillar.",
@@ -1012,6 +979,17 @@
       "source": "Rolling Stone",
       "category": "entertainment",
       "added_at": "2026-05-17T07:20:17.644030+00:00"
+    },
+    {
+      "tweet": "Israel just took some random castle in Lebanon and called it a huge tactical victory. Total war in a sandbox.",
+      "original_url": "https://www.aljazeera.com/news/2026/5/31/israel-issues-more-displacement-orders-in-lebanon-seizes-strategic-castle?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Israel issues more displacement orders in Lebanon, seizes strategic castle",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-05-31T10:23:42.760511+00:00"
     },
     {
       "tweet": "Trump is making the Iran deal terms even harder now. Like that's gonna help.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1328,
+    "total_posted": 1330,
     "total_collected": 5463
   },
-  "last_posted_at": "2026-05-31T10:33:42.819512+00:00"
+  "last_posted_at": "2026-05-31T11:59:58.939942+00:00"
 }
