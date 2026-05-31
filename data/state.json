@@ -2,28 +2,6 @@
   "last_collected": "2026-05-31T18:16:44.315543+00:00",
   "queue": [
     {
-      "tweet": "Honestly might just cancel my AI subscription. Turns out I'm paying twenty bucks a month just to copy and paste stuff I could've written myself. Rough.",
-      "original_url": "https://thoughts.hmmz.org/2026-05-31.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The solution might be cancelling my AI subscription",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-31T18:16:44.314207+00:00"
-    },
-    {
-      "tweet": "Meta actually forced that Facebook whistleblower to sit in silence at her own talk. That's just pure power moves.",
-      "original_url": "https://www.theguardian.com/technology/2026/may/31/meta-legal-action-forces-facebook-whistleblower-to-stay-silent-at-hay-festival",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Meta legal action forces Facebook whistleblower to sit in silence at Hay festival",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-05-31T18:16:44.314922+00:00"
-    },
-    {
       "tweet": "So apparently Trump just wants to cancel the whole US Freedom 250 festival since nobody wants to play it. Talk about thin skin.",
       "original_url": "https://www.bbc.com/news/articles/cwy2z23122zo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 88,
@@ -319,17 +297,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Wait, Dua Lipa actually got married. Thought they were just dating for a couple weeks or something.",
-      "original_url": "https://www.billboard.com/music/music-news/dua-lipa-callum-turner-marry-london-ceremony-1236261023/",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Dua Lipa and Callum Turner Marry in Intimate London Ceremony",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-05-31T18:16:44.314498+00:00"
     },
     {
       "tweet": "So apparently everyone is bringing back basement parties now 'cause the club scene is dead. Honestly, just having a place where you can actually hear someone talk sounds nice.",
@@ -1001,6 +968,17 @@
       "source": "Rolling Stone",
       "category": "entertainment",
       "added_at": "2026-05-17T07:20:17.644030+00:00"
+    },
+    {
+      "tweet": "Wait, Dua Lipa actually got married. Thought they were just dating for a couple weeks or something.",
+      "original_url": "https://www.billboard.com/music/music-news/dua-lipa-callum-turner-marry-london-ceremony-1236261023/",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Dua Lipa and Callum Turner Marry in Intimate London Ceremony",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-05-31T18:16:44.314498+00:00"
     },
     {
       "tweet": "House of the Dragon is back in three weeks. We're definitely all gonna pretend we remember what happened last season.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1338,
+    "total_posted": 1340,
     "total_collected": 5504
   },
-  "last_posted_at": "2026-05-31T18:22:05.069112+00:00"
+  "last_posted_at": "2026-05-31T19:54:19.353232+00:00"
 }
