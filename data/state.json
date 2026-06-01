@@ -2,28 +2,6 @@
   "last_collected": "2026-06-01T22:16:03.488138+00:00",
   "queue": [
     {
-      "tweet": "Did you see that Florida lawsuit against OpenAI? They're claiming Sam Altman literally built a web of deceit to help people commit crimes. Absolute insanity.",
-      "original_url": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-06-01T22:16:03.486341+00:00"
-    },
-    {
-      "tweet": "Britain just straight up denied entry to Hasan Piker and Cenk Uygur. Guess they didn't want the headache.",
-      "original_url": "https://www.nytimes.com/2026/06/01/world/europe/uk-hasan-piker-cenk-uygur-visa-israel.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Britain Denies Entry to Hasan Piker and Cenk Uygur",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-01T19:06:30.605942+00:00"
-    },
-    {
       "tweet": "Sabalenka just took down Osaka and honestly, that serve is just unfair to watch. I'd have no shot.",
       "original_url": "https://www.bbc.com/sport/tennis/articles/cgqpw44y8g2o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1354,
+    "total_posted": 1356,
     "total_collected": 5616
   },
-  "last_posted_at": "2026-06-01T22:23:06.119525+00:00"
+  "last_posted_at": "2026-06-01T23:53:15.288558+00:00"
 }
