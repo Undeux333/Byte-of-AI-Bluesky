@@ -2,28 +2,6 @@
   "last_collected": "2026-06-02T22:02:57.916338+00:00",
   "queue": [
     {
-      "tweet": "Cricket Canada got suspended 'cause of gang ties. Never thought I’d say that sentence",
-      "original_url": "https://www.theguardian.com/world/2026/jun/02/cricket-canada-suspension",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Cricket Canada suspended over allegations of gang-linked corruption",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-02T19:04:24.706568+00:00"
-    },
-    {
-      "tweet": "Trump supposedly telling off Netanyahu on a call. At this point, who's even listening",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/what-trump-telling-off-means-for-netanyahu?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "What Trump ‘telling off’ means for Netanyahu",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-06-02T19:04:24.706325+00:00"
-    },
-    {
       "tweet": "Dude, did you see that new Instagram exploit? It’s the dumbest thing I’ve seen in years. Truly just broken.",
       "original_url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
       "buzz_score": 85,
@@ -44,6 +22,28 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-06-02T19:04:24.705950+00:00"
+    },
+    {
+      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
+      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-02T15:05:13.740925+00:00"
+    },
+    {
+      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
+      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US court limits mail-order access to abortion pill mifepristone",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
       "tweet": "Democrats trying to dodge that Smotrich guy after the parade. Why’d they even walk with him in the first place",
@@ -88,50 +88,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-06-02T15:45:47.392116+00:00"
-    },
-    {
-      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
-      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-02T15:05:13.740925+00:00"
-    },
-    {
-      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
-      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US court limits mail-order access to abortion pill mifepristone",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "You can listen to the Animal Crossing soundtrack in your browser all day. Finally, a way to actually get some work done.",
-      "original_url": "https://kotaku.com/animal-crossing-music-nintendo-web-browser-app-2000701527",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "You Can Now Listen To Animal Crossing Background Music In Your Browser, While You Work, Hour-By-Hour, All Day Long",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-06-02T15:45:47.393743+00:00"
-    },
-    {
-      "tweet": "Female dolphins actually remember which dudes were jerks when they’re picking a partner. Nature is just us.",
-      "original_url": "https://www.theguardian.com/environment/2026/jun/03/female-dolphins-remember-aggression-mating-partner",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Female dolphins remember who is aggressive when choosing a mating partner, research shows",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-02T15:45:47.393615+00:00"
     },
     {
       "tweet": "So apparently Atherton dropped 145 grand just to delay those trains while we all got stuck paying 400 million for it. Typical.",
@@ -407,6 +363,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "You can listen to the Animal Crossing soundtrack in your browser all day. Finally, a way to actually get some work done.",
+      "original_url": "https://kotaku.com/animal-crossing-music-nintendo-web-browser-app-2000701527",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "You Can Now Listen To Animal Crossing Background Music In Your Browser, While You Work, Hour-By-Hour, All Day Long",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-06-02T15:45:47.393743+00:00"
+    },
+    {
+      "tweet": "Female dolphins actually remember which dudes were jerks when they’re picking a partner. Nature is just us.",
+      "original_url": "https://www.theguardian.com/environment/2026/jun/03/female-dolphins-remember-aggression-mating-partner",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Female dolphins remember who is aggressive when choosing a mating partner, research shows",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-02T15:45:47.393615+00:00"
     },
     {
       "tweet": "Man, seeing that Sir Kenny Dalglish is dealing with cancer. Tough year",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1368,
+    "total_posted": 1370,
     "total_collected": 5708
   },
-  "last_posted_at": "2026-06-02T22:11:27.890339+00:00"
+  "last_posted_at": "2026-06-03T00:08:09.160317+00:00"
 }
