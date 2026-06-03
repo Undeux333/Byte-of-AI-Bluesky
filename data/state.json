@@ -2,28 +2,6 @@
   "last_collected": "2026-06-03T21:38:13.385066+00:00",
   "queue": [
     {
-      "tweet": "Lula says Brazil isn't gonna take these new US tariffs laying down. We're really just picking fights with everyone now",
-      "original_url": "https://www.aljazeera.com/news/2026/6/3/lula-says-brazil-cannot-accept-treatment-after-new-us-tariffs-proposed?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Lula says Brazil cannot ‘accept treatment’ after new US tariffs proposed",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-06-03T18:32:07.761229+00:00"
-    },
-    {
-      "tweet": "Ben Stokes says guys might quit international cricket if England keeps trying to block the IPL. Cash wins again.",
-      "original_url": "https://www.bbc.com/sport/cricket/articles/cz724r8nr7zo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Strict IPL stance could make things messy for England - Stokes",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-06-03T18:32:07.760981+00:00"
-    },
-    {
       "tweet": "So apparently Israel is hitting Lebanon again despite that whole ceasefire thing. Is a ceasefire just a suggestion now",
       "original_url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -310,28 +288,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Ukraine hit St Petersburg while Russia is hosting their own Davos. Absolute timing.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/ukraine-attacks-st-petersburg-as-russia-hosts-its-own-davos?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Ukraine attacks St Petersburg as Russia hosts its own ‘Davos’",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-06-03T21:38:13.383894+00:00"
-    },
-    {
-      "tweet": "So apparently Trump called Netanyahu crazy on a phone call. We're just out here raw dogging diplomacy now.",
-      "original_url": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-06-03T21:38:13.383224+00:00"
-    },
-    {
       "tweet": "Did you see Europe is losing it over Israel taking that castle in Lebanon? Like, what year is this?",
       "original_url": "https://www.theguardian.com/world/2026/jun/01/european-leaders-condemn-israel-incursion-into-lebanon",
       "buzz_score": 88,
@@ -363,17 +319,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "NYC Mayor Zohran Mamdani says he'd lose a rap battle to A$AP Rocky. Honestly, he's not wrong.",
-      "original_url": "https://www.billboard.com/music/rb-hip-hop/nyc-mayor-zohran-mamdani-asap-rocky-rap-battle-1236263430/",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "NYC Mayor Zohran Mamdani Admits He’d Lose a Rap Battle to A$AP Rocky, But Wants to Collaborate With Harlem Rapper",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-06-03T21:38:13.383640+00:00"
     },
     {
       "tweet": "Just saw a list of the most rat-infested cities and ours is top three. Not even surprised, man, I think I see a new one every time I take the trash out.",
@@ -1034,6 +979,39 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-05-17T19:48:24.649674+00:00"
+    },
+    {
+      "tweet": "Ukraine hit St Petersburg while Russia is hosting their own Davos. Absolute timing.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/ukraine-attacks-st-petersburg-as-russia-hosts-its-own-davos?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Ukraine attacks St Petersburg as Russia hosts its own ‘Davos’",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-06-03T21:38:13.383894+00:00"
+    },
+    {
+      "tweet": "So apparently Trump called Netanyahu crazy on a phone call. We're just out here raw dogging diplomacy now.",
+      "original_url": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-06-03T21:38:13.383224+00:00"
+    },
+    {
+      "tweet": "NYC Mayor Zohran Mamdani says he'd lose a rap battle to A$AP Rocky. Honestly, he's not wrong.",
+      "original_url": "https://www.billboard.com/music/rb-hip-hop/nyc-mayor-zohran-mamdani-asap-rocky-rap-battle-1236263430/",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "NYC Mayor Zohran Mamdani Admits He’d Lose a Rap Battle to A$AP Rocky, But Wants to Collaborate With Harlem Rapper",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-06-03T21:38:13.383640+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1380,
+    "total_posted": 1382,
     "total_collected": 5770
   },
-  "last_posted_at": "2026-06-03T21:46:19.044695+00:00"
+  "last_posted_at": "2026-06-03T23:30:13.159652+00:00"
 }
