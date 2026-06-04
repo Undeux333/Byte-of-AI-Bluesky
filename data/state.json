@@ -2,28 +2,6 @@
   "last_collected": "2026-06-04T19:03:54.658670+00:00",
   "queue": [
     {
-      "tweet": "Did you see Lennon called that Beatles song meaningless? Imagine breaking up a band over a song you think sucks anyway. Petty man",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/the-beatles-hit-john-lennon-called-meaningless-sparked-breakup?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Beatles Hit John Lennon Called “Meaningless” That Sparked Their Breakup",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-06-04T19:03:54.656783+00:00"
-    },
-    {
-      "tweet": "NBA is actually investigating Jalen Brunson for that fan incident. Are we really doing this now",
-      "original_url": "https://www.espn.com/nba/story/_/id/48967648/sources-nba-eyes-interaction-jalen-brunson-fans-game-1",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Sources: NBA investigating Brunson-fan incident",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-06-04T19:03:54.656951+00:00"
-    },
-    {
       "tweet": "Subnautica devs saying the next one is gonna be scarier. Just what we needed",
       "original_url": "https://kotaku.com/subnautica-2-devs-promise-its-about-to-get-way-scarier-2000702526",
       "buzz_score": 80,
@@ -145,6 +123,28 @@
       "added_at": "2026-06-04T16:36:41.982406+00:00"
     },
     {
+      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
+      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-02T15:05:13.740925+00:00"
+    },
+    {
+      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
+      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US court limits mail-order access to abortion pill mifepristone",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
       "tweet": "Those modifiers in Mina The Hollower are actually pretty wild. Glad they're fun.",
       "original_url": "https://kotaku.com/all-modifiers-mina-the-hollower-2000702480",
       "buzz_score": 70,
@@ -231,61 +231,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-06-04T13:45:32.857365+00:00"
-    },
-    {
-      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
-      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-02T15:05:13.740925+00:00"
-    },
-    {
-      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
-      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US court limits mail-order access to abortion pill mifepristone",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "The guy from Stargate is out here begging fans to save the show on Amazon. You really never know when to let go of your childhood.",
-      "original_url": "https://kotaku.com/stargate-amazon-cancellation-revival-petition-michael-shanks-2000702439",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Stargate SG-1 Star Urges Fans To Petition Amazon Over Cancelation Controversy",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-06-04T13:45:32.858164+00:00"
-    },
-    {
-      "tweet": "You hear about that guy who was a hero in the Bondi attack? He just got charged with putting his own dad in a headlock. Wild turn of events.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jun/04/bondi-attack-hero-charged-with-assaulting-his-father-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Bondi attack hero Ahmed al-Ahmed charged with assaulting his father",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-04T10:32:22.962720+00:00"
-    },
-    {
-      "tweet": "Dude, a Sherpa was missing on Everest for six days and basically crawled his way back to base camp on his own. Absolute machine.",
-      "original_url": "https://www.bbc.com/news/articles/cvgz2yjl4y3o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Missing Sherpa guide found on Mount Everest after 'miracle' self-rescue",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-06-04T10:32:22.962335+00:00"
     },
     {
       "tweet": "So apparently Atherton dropped 145 grand just to delay those trains while we all got stuck paying 400 million for it. Typical.",
@@ -563,15 +508,37 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Amazon is building robots you can actually talk to now. Great, now the warehouse machines can ignore me too.",
-      "original_url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
-      "buzz_score": 80,
+      "tweet": "The guy from Stargate is out here begging fans to save the show on Amazon. You really never know when to let go of your childhood.",
+      "original_url": "https://kotaku.com/stargate-amazon-cancellation-revival-petition-michael-shanks-2000702439",
+      "buzz_score": 75,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Amazon develops a warehouse robot workers can speak to",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-06-04T10:32:22.963096+00:00"
+      "original_title": "Stargate SG-1 Star Urges Fans To Petition Amazon Over Cancelation Controversy",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-06-04T13:45:32.858164+00:00"
+    },
+    {
+      "tweet": "You hear about that guy who was a hero in the Bondi attack? He just got charged with putting his own dad in a headlock. Wild turn of events.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jun/04/bondi-attack-hero-charged-with-assaulting-his-father-ntwnfb",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Bondi attack hero Ahmed al-Ahmed charged with assaulting his father",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-04T10:32:22.962720+00:00"
+    },
+    {
+      "tweet": "Dude, a Sherpa was missing on Everest for six days and basically crawled his way back to base camp on his own. Absolute machine.",
+      "original_url": "https://www.bbc.com/news/articles/cvgz2yjl4y3o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Missing Sherpa guide found on Mount Everest after 'miracle' self-rescue",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-06-04T10:32:22.962335+00:00"
     },
     {
       "tweet": "Just saw a list of the most rat-infested cities and ours is top three. Not even surprised, man, I think I see a new one every time I take the trash out.",
@@ -1034,6 +1001,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-05-20T11:33:59.799456+00:00"
+    },
+    {
+      "tweet": "Amazon is building robots you can actually talk to now. Great, now the warehouse machines can ignore me too.",
+      "original_url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Amazon develops a warehouse robot workers can speak to",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-06-04T10:32:22.963096+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1394,
+    "total_posted": 1396,
     "total_collected": 5860
   },
-  "last_posted_at": "2026-06-04T19:11:44.085159+00:00"
+  "last_posted_at": "2026-06-04T21:08:30.582190+00:00"
 }
