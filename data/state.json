@@ -2,28 +2,6 @@
   "last_collected": "2026-06-05T20:21:02.218123+00:00",
   "queue": [
     {
-      "tweet": "Warped Tour is actually coming back in 2026. Man, that brings me back to high school. We're all getting old",
-      "original_url": "https://www.billboard.com/culture/product-recommendations/vans-warped-tour-2026-tickets-cheap-buy-online-1236165556/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Vans Warped Tour 2026: Here’s Where to Get Affordable Tickets Online",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-06-05T20:21:02.217116+00:00"
-    },
-    {
-      "tweet": "So apparently Putin said there's no point in meeting Zelensky. Like he’s just closing the door on the whole thing. Total stalemate",
-      "original_url": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-06-05T20:21:02.216813+00:00"
-    },
-    {
       "tweet": "Did you see that story about the Sherpa left on Everest? They just left him up there for six days. Absolutely brutal",
       "original_url": "https://www.nytimes.com/2026/06/05/world/asia/missing-sherpa-mount-everest-found.html",
       "buzz_score": 80,
@@ -123,28 +101,6 @@
       "added_at": "2026-06-05T16:16:28.629638+00:00"
     },
     {
-      "tweet": "Did you hear about Prince Andrew? The guy lives rent-free on royal property and was out here subletting the cottages for extra cash. Classic.",
-      "original_url": "https://www.nytimes.com/2026/06/05/world/europe/uk-prince-andrew-royal-lodge-property-sublet.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Former Prince Andrew Sublet Cottages on Royal Property Where He Lived Rent-Free",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-05T13:40:25.804914+00:00"
-    },
-    {
-      "tweet": "So apparently the US is trying to broker a ceasefire in Lebanon, but Hezbollah isn't even part of the talks. We're literally negotiating with ourselves at this point.",
-      "original_url": "https://www.nytimes.com/2026/06/05/world/middleeast/lebanon-cease-fire-israel-hezbollah.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Hopes of Lebanon Cease-Fire Falter as Israel and Hezbollah Fight On",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-05T13:40:25.804909+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -165,6 +121,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Did you hear about Prince Andrew? The guy lives rent-free on royal property and was out here subletting the cottages for extra cash. Classic.",
+      "original_url": "https://www.nytimes.com/2026/06/05/world/europe/uk-prince-andrew-royal-lodge-property-sublet.html",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Former Prince Andrew Sublet Cottages on Royal Property Where He Lived Rent-Free",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-05T13:40:25.804914+00:00"
+    },
+    {
+      "tweet": "So apparently the US is trying to broker a ceasefire in Lebanon, but Hezbollah isn't even part of the talks. We're literally negotiating with ourselves at this point.",
+      "original_url": "https://www.nytimes.com/2026/06/05/world/middleeast/lebanon-cease-fire-israel-hezbollah.html",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Hopes of Lebanon Cease-Fire Falter as Israel and Hezbollah Fight On",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-05T13:40:25.804909+00:00"
     },
     {
       "tweet": "Man, Berkeley students are literally failing classes 'cause they're using AI for everything. We're actually losing the ability to do basic math at this point.",
@@ -462,17 +440,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Seeing people rank all these Switch 2 games after only one year. We really have to turn everything into a spreadsheet, don't we.",
-      "original_url": "https://www.polygon.com/nintendo-switch-2-games-launch-year-ranked/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "All Nintendo Switch 2 first-party games, ranked from worst to best",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-06-05T13:40:25.805440+00:00"
     },
     {
       "tweet": "Hezbollah is rejecting the truce while strikes are still hitting Lebanon. When is this ever gonna stop?",
@@ -1012,6 +979,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-05-20T11:33:59.799456+00:00"
+    },
+    {
+      "tweet": "Seeing people rank all these Switch 2 games after only one year. We really have to turn everything into a spreadsheet, don't we.",
+      "original_url": "https://www.polygon.com/nintendo-switch-2-games-launch-year-ranked/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "All Nintendo Switch 2 first-party games, ranked from worst to best",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-06-05T13:40:25.805440+00:00"
     },
     {
       "tweet": "Seeing people hype up Kratos as a wife guy for the thousandth time. We all just want that loyalty",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1411,
+    "total_posted": 1413,
     "total_collected": 5970
   },
-  "last_posted_at": "2026-06-05T20:31:06.265246+00:00"
+  "last_posted_at": "2026-06-05T21:58:24.248175+00:00"
 }
