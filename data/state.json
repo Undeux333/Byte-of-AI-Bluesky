@@ -2,28 +2,6 @@
   "last_collected": "2026-06-06T21:34:43.301040+00:00",
   "queue": [
     {
-      "tweet": "Dude, a CIA officer got caught with gold bars 'cause he was just running a fake spy program. That's a movie plot.",
-      "original_url": "https://www.nytimes.com/2026/06/06/us/politics/cia-officer-gold-fake-spy-program.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "C.I.A. Officer Found With Gold Bars Said to Have Created Fake Spy Program",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-06T19:03:14.659310+00:00"
-    },
-    {
-      "tweet": "Fortnite Chapter 7 Season 3 just dropped eight new skins in the battle pass. Here we go again.",
-      "original_url": "https://www.polygon.com/fortnite-chapter-7-season-3-battle-pass-skins-list-c7s3/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "All battle pass skins in Fortnite Chapter 7 Season 3",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-06-06T16:44:53.983652+00:00"
-    },
-    {
       "tweet": "The government is actually talking about curbing social media during unrest because they're 'concerned.' We all know that's just control.",
       "original_url": "https://www.theguardian.com/politics/2026/jun/06/ministers-may-curb-misinformation-musk-x-liz-kendall",
       "buzz_score": 80,
@@ -46,17 +24,6 @@
       "added_at": "2026-06-06T16:44:53.983078+00:00"
     },
     {
-      "tweet": "Did you know some cultures cover all their mirrors after someone dies? Think about it, catching your own reflection when you're already losing it, that's just unnecessary.",
-      "original_url": "https://www.mentalfloss.com/culture/folklore-mythology/why-cover-mirrors-after-death?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why Mirrors Are Covered After Death in Some Cultures",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-06-06T16:44:53.982674+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -77,6 +44,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Did you know some cultures cover all their mirrors after someone dies? Think about it, catching your own reflection when you're already losing it, that's just unnecessary.",
+      "original_url": "https://www.mentalfloss.com/culture/folklore-mythology/why-cover-mirrors-after-death?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Why Mirrors Are Covered After Death in Some Cultures",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-06-06T16:44:53.982674+00:00"
     },
     {
       "tweet": "Man, Berkeley students are literally failing classes 'cause they're using AI for everything. We're actually losing the ability to do basic math at this point.",
@@ -343,17 +321,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Hegseth went to D-Day in France and started ranting about migrants on beaches. Man, read the room",
-      "original_url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-06-06T21:34:43.300791+00:00"
-    },
-    {
       "tweet": "Did you hear about Prince Andrew? The guy lives rent-free on royal property and was out here subletting the cottages for extra cash. Classic.",
       "original_url": "https://www.nytimes.com/2026/06/05/world/europe/uk-prince-andrew-royal-lodge-property-sublet.html",
       "buzz_score": 88,
@@ -396,6 +363,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Hegseth went to D-Day in France and started ranting about migrants on beaches. Man, read the room",
+      "original_url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-06-06T21:34:43.300791+00:00"
     },
     {
       "tweet": "So apparently the US is trying to broker a ceasefire in Lebanon, but Hezbollah isn't even part of the talks. We're literally negotiating with ourselves at this point.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1440,
+    "total_posted": 1442,
     "total_collected": 6110
   },
-  "last_posted_at": "2026-06-06T21:42:59.885473+00:00"
+  "last_posted_at": "2026-06-06T22:48:12.963000+00:00"
 }
