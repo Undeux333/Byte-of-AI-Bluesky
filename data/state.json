@@ -2,28 +2,6 @@
   "last_collected": "2026-06-05T22:56:36.572659+00:00",
   "queue": [
     {
-      "tweet": "Dude, the astronauts on the ISS are literally hiding in a bunker right now ‘cause of air leaks. Imagine being in space and having to just sit in the safe room. Wild.",
-      "original_url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Astronauts on ISS told to shelter as repairs under way to fix air leaks",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-05T18:19:48.075152+00:00"
-    },
-    {
-      "tweet": "Amazing Digital Circus just cleared 7.8 million at the box office. People really love that stuff",
-      "original_url": "https://www.polygon.com/amazing-digital-circus-box-office-beat-backrooms/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Backrooms gets beaten by Amazing Digital Circus for Thursday's box office",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-06-05T20:21:02.217981+00:00"
-    },
-    {
       "tweet": "Andy Burnham thinks we should nationalize Thames Water. At this point, good luck",
       "original_url": "https://www.theguardian.com/politics/2026/jun/05/thames-water-should-be-nationalised-andy-burnham",
       "buzz_score": 75,
@@ -68,17 +46,6 @@
       "added_at": "2026-06-05T18:19:48.075704+00:00"
     },
     {
-      "tweet": "Trump’s putting the squeeze on Cuba’s economy and now the hotel chains are all pulling out. It’s working, man.",
-      "original_url": "https://www.nytimes.com/2026/06/04/world/americas/cuba-hotels-economy-trump.html",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "As Trump Toughens Rules on Cuba’s Economy, Hotel Chains Withdraw",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-05T18:19:48.075320+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -101,26 +68,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Hold on, scientists are saying Russian satellites have been jamming GPS signals all over Europe. How are we still letting them just mess with our maps like that",
-      "original_url": "https://www.nytimes.com/2026/06/05/world/europe/russia-satellites-gps-interference-europe.html",
-      "buzz_score": 80,
+      "tweet": "Trump’s putting the squeeze on Cuba’s economy and now the hotel chains are all pulling out. It’s working, man.",
+      "original_url": "https://www.nytimes.com/2026/06/04/world/americas/cuba-hotels-economy-trump.html",
+      "buzz_score": 75,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Russian Satellites Have Been Jamming GPS Signals Across Europe, Scientists Say",
+      "original_title": "As Trump Toughens Rules on Cuba’s Economy, Hotel Chains Withdraw",
       "source": "NYT World",
       "category": "world",
-      "added_at": "2026-06-05T16:16:28.629638+00:00"
-    },
-    {
-      "tweet": "Did you hear about Prince Andrew? The guy lives rent-free on royal property and was out here subletting the cottages for extra cash. Classic.",
-      "original_url": "https://www.nytimes.com/2026/06/05/world/europe/uk-prince-andrew-royal-lodge-property-sublet.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Former Prince Andrew Sublet Cottages on Royal Property Where He Lived Rent-Free",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-05T13:40:25.804914+00:00"
+      "added_at": "2026-06-05T18:19:48.075320+00:00"
     },
     {
       "tweet": "Man, Berkeley students are literally failing classes 'cause they're using AI for everything. We're actually losing the ability to do basic math at this point.",
@@ -387,15 +343,26 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Wait, Wolf Among Us 2 is actually coming out next year? I’ll believe it when I see it.",
-      "original_url": "https://kotaku.com/wolf-among-us-2-is-actually-coming-out-next-year-plus-a-remaster-of-the-first-game-arrives-soon-2000703184",
-      "buzz_score": 85,
-      "buzz_score2": 90,
+      "tweet": "Hold on, scientists are saying Russian satellites have been jamming GPS signals all over Europe. How are we still letting them just mess with our maps like that",
+      "original_url": "https://www.nytimes.com/2026/06/05/world/europe/russia-satellites-gps-interference-europe.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Wolf Among Us 2 Is Actually Coming Out Next Year, Plus A Remaster Of The First Game Arrives Soon",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-06-05T22:56:36.571887+00:00"
+      "original_title": "Russian Satellites Have Been Jamming GPS Signals Across Europe, Scientists Say",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-05T16:16:28.629638+00:00"
+    },
+    {
+      "tweet": "Did you hear about Prince Andrew? The guy lives rent-free on royal property and was out here subletting the cottages for extra cash. Classic.",
+      "original_url": "https://www.nytimes.com/2026/06/05/world/europe/uk-prince-andrew-royal-lodge-property-sublet.html",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Former Prince Andrew Sublet Cottages on Royal Property Where He Lived Rent-Free",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-05T13:40:25.804914+00:00"
     },
     {
       "tweet": "Did you see Europe is losing it over Israel taking that castle in Lebanon? Like, what year is this?",
@@ -429,6 +396,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Wait, Wolf Among Us 2 is actually coming out next year? I’ll believe it when I see it.",
+      "original_url": "https://kotaku.com/wolf-among-us-2-is-actually-coming-out-next-year-plus-a-remaster-of-the-first-game-arrives-soon-2000703184",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Wolf Among Us 2 Is Actually Coming Out Next Year, Plus A Remaster Of The First Game Arrives Soon",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-06-05T22:56:36.571887+00:00"
     },
     {
       "tweet": "So apparently the US is trying to broker a ceasefire in Lebanon, but Hezbollah isn't even part of the talks. We're literally negotiating with ourselves at this point.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1415,
+    "total_posted": 1417,
     "total_collected": 5986
   },
-  "last_posted_at": "2026-06-05T23:02:39.497529+00:00"
+  "last_posted_at": "2026-06-06T00:04:59.924349+00:00"
 }
