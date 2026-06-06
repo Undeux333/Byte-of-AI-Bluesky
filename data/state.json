@@ -2,28 +2,6 @@
   "last_collected": "2026-06-06T09:12:49.335947+00:00",
   "queue": [
     {
-      "tweet": "Aviation leaders are flying their private jets to Brazil to talk about fuel shortages. You literally can't make this up.",
-      "original_url": "https://www.theguardian.com/business/2026/jun/06/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Aviation industry looks skywards as leaders fly in for Rio summit",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-06T09:12:49.334663+00:00"
-    },
-    {
-      "tweet": "Every single person is currently treating Taylor Swift and Travis Kelce's relationship like it's their own high school drama. We really need a hobby.",
-      "original_url": "https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Rumours and speculation as fans forecast date of Taylor Swift's wedding",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-06-06T06:44:02.903237+00:00"
-    },
-    {
       "tweet": "Magic just put the deadliest mechanic in the command zone. They're literally just trying to speedrun our stress levels.",
       "original_url": "https://www.polygon.com/magic-poison-counters-marvel/",
       "buzz_score": 80,
@@ -68,28 +46,6 @@
       "added_at": "2026-06-06T09:12:49.335187+00:00"
     },
     {
-      "tweet": "FIFA finally let people bring water bottles into the World Cup. Glad we got that sorted.",
-      "original_url": "https://www.espn.com/soccer/story/_/id/48978502/fifa-reverses-world-cup-water-bottle-ban-backlash",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "FIFA reverses WC water bottle ban after backlash",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-06-06T03:30:49.848216+00:00"
-    },
-    {
-      "tweet": "Scotland has a literal back-shaving hype man on the team. Imagine that job description.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cj4pre1z242o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 78,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "The underrated impact of Scotland's back-shaving hype man",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-06-06T09:12:49.334282+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -110,28 +66,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Ronaldo is already training for his sixth World Cup. Some people just refuse to age.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/aje-onl-nf_clip_-ronaldo-trains-with-portugal-ahead-of-fifa-050626?traffic_source=rss",
-      "buzz_score": 78,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Ronaldo joins Portugal training ahead of sixth World Cup appearance",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-06-06T03:30:49.848505+00:00"
-    },
-    {
-      "tweet": "Mexico is using zoo animals to predict World Cup winners. Are we really trusting a zebra with the bracket?",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/mexico-zoo-animals-predict-world-cup-winners?traffic_source=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Mexico zoo animals predict World Cup winners",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-06-06T09:12:49.334537+00:00"
     },
     {
       "tweet": "Man, Berkeley students are literally failing classes 'cause they're using AI for everything. We're actually losing the ability to do basic math at this point.",
@@ -398,6 +332,28 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "FIFA finally let people bring water bottles into the World Cup. Glad we got that sorted.",
+      "original_url": "https://www.espn.com/soccer/story/_/id/48978502/fifa-reverses-world-cup-water-bottle-ban-backlash",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "FIFA reverses WC water bottle ban after backlash",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-06-06T03:30:49.848216+00:00"
+    },
+    {
+      "tweet": "Scotland has a literal back-shaving hype man on the team. Imagine that job description.",
+      "original_url": "https://www.bbc.com/sport/football/articles/cj4pre1z242o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 78,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "The underrated impact of Scotland's back-shaving hype man",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-06-06T09:12:49.334282+00:00"
+    },
+    {
       "tweet": "Did you hear about Prince Andrew? The guy lives rent-free on royal property and was out here subletting the cottages for extra cash. Classic.",
       "original_url": "https://www.nytimes.com/2026/06/05/world/europe/uk-prince-andrew-royal-lodge-property-sublet.html",
       "buzz_score": 88,
@@ -440,6 +396,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Ronaldo is already training for his sixth World Cup. Some people just refuse to age.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/aje-onl-nf_clip_-ronaldo-trains-with-portugal-ahead-of-fifa-050626?traffic_source=rss",
+      "buzz_score": 78,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Ronaldo joins Portugal training ahead of sixth World Cup appearance",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-06-06T03:30:49.848505+00:00"
+    },
+    {
+      "tweet": "Mexico is using zoo animals to predict World Cup winners. Are we really trusting a zebra with the bracket?",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/mexico-zoo-animals-predict-world-cup-winners?traffic_source=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Mexico zoo animals predict World Cup winners",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-06-06T09:12:49.334537+00:00"
     },
     {
       "tweet": "So apparently the US is trying to broker a ceasefire in Lebanon, but Hezbollah isn't even part of the talks. We're literally negotiating with ourselves at this point.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1423,
+    "total_posted": 1425,
     "total_collected": 6034
   },
-  "last_posted_at": "2026-06-06T09:19:45.813749+00:00"
+  "last_posted_at": "2026-06-06T11:05:48.773417+00:00"
 }
