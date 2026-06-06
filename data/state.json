@@ -2,17 +2,6 @@
   "last_collected": "2026-06-06T14:06:33.965871+00:00",
   "queue": [
     {
-      "tweet": "Did you hear the S&P 500 is blocking OpenAI and SpaceX from joining. Like, they're too risky or something. They're just scared.",
-      "original_url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-06T14:06:33.964025+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -33,17 +22,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "So apparently the Cockroach Janta Party started as a joke, but now thousands are actually protesting in India. It really spiraled.",
-      "original_url": "https://www.nytimes.com/2026/06/06/world/asia/india-protest-cockroach-janta-party.html",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "A Viral Gen-Z Protest Movement Draws Thousands to India’s Capital",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-06T14:06:33.964032+00:00"
     },
     {
       "tweet": "Man, Berkeley students are literally failing classes 'cause they're using AI for everything. We're actually losing the ability to do basic math at this point.",
@@ -310,17 +288,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Magic just put the deadliest mechanic in the command zone. They're literally just trying to speedrun our stress levels.",
-      "original_url": "https://www.polygon.com/magic-poison-counters-marvel/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Magic just brought back its deadliest mechanic and put it in the command zone",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-06-06T06:44:02.904041+00:00"
-    },
-    {
       "tweet": "Did you hear about Prince Andrew? The guy lives rent-free on royal property and was out here subletting the cottages for extra cash. Classic.",
       "original_url": "https://www.nytimes.com/2026/06/05/world/europe/uk-prince-andrew-royal-lodge-property-sublet.html",
       "buzz_score": 88,
@@ -365,15 +332,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Ministers are saying food supply is a priority but they've been ignoring the logistics warnings. Total negligence.",
-      "original_url": "https://www.theguardian.com/business/2026/jun/06/ministers-uk-food-supply-immediate-national-priority-trade-body-urges",
-      "buzz_score": 82,
+      "tweet": "So apparently the Cockroach Janta Party started as a joke, but now thousands are actually protesting in India. It really spiraled.",
+      "original_url": "https://www.nytimes.com/2026/06/06/world/asia/india-protest-cockroach-janta-party.html",
+      "buzz_score": 88,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "‘Immediate national priority’: ministers accused of complacency over UK food supply",
-      "source": "The Guardian",
+      "original_title": "A Viral Gen-Z Protest Movement Draws Thousands to India’s Capital",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-06-06T14:06:33.964327+00:00"
+      "added_at": "2026-06-06T14:06:33.964032+00:00"
     },
     {
       "tweet": "So apparently the US is trying to broker a ceasefire in Lebanon, but Hezbollah isn't even part of the talks. We're literally negotiating with ourselves at this point.",
@@ -926,6 +893,61 @@
       "added_at": "2026-05-20T11:33:59.799456+00:00"
     },
     {
+      "tweet": "Magic just put the deadliest mechanic in the command zone. They're literally just trying to speedrun our stress levels.",
+      "original_url": "https://www.polygon.com/magic-poison-counters-marvel/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Magic just brought back its deadliest mechanic and put it in the command zone",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-06-06T06:44:02.904041+00:00"
+    },
+    {
+      "tweet": "Ministers are saying food supply is a priority but they've been ignoring the logistics warnings. Total negligence.",
+      "original_url": "https://www.theguardian.com/business/2026/jun/06/ministers-uk-food-supply-immediate-national-priority-trade-body-urges",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘Immediate national priority’: ministers accused of complacency over UK food supply",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-06T14:06:33.964327+00:00"
+    },
+    {
+      "tweet": "FIFA finally let people bring water bottles into the World Cup. Glad we got that sorted.",
+      "original_url": "https://www.espn.com/soccer/story/_/id/48978502/fifa-reverses-world-cup-water-bottle-ban-backlash",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "FIFA reverses WC water bottle ban after backlash",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-06-06T03:30:49.848216+00:00"
+    },
+    {
+      "tweet": "The government is paying TotalEnergies to cancel wind projects and now seven states are suing them. We’re literally paying people to stop building stuff.",
+      "original_url": "https://www.aljazeera.com/economy/2026/6/5/trump-admins-cancellation-of-wind-energy-projects-causes-business-turmoil?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Trump admin’s cancellation of wind energy projects causes business turmoil",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-06-05T18:19:48.075704+00:00"
+    },
+    {
+      "tweet": "Hold on, scientists are saying Russian satellites have been jamming GPS signals all over Europe. How are we still letting them just mess with our maps like that",
+      "original_url": "https://www.nytimes.com/2026/06/05/world/europe/russia-satellites-gps-interference-europe.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Russian Satellites Have Been Jamming GPS Signals Across Europe, Scientists Say",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-05T16:16:28.629638+00:00"
+    },
+    {
       "tweet": "Sean Penn skipped the Oscars for his mental health. Honestly, staying home sounds like the best award possible.",
       "original_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/sean-pean-skipped-oscars-mental-health-1235573290/",
       "buzz_score": 75,
@@ -990,39 +1012,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-06-06T12:05:44.777525+00:00"
-    },
-    {
-      "tweet": "FIFA finally let people bring water bottles into the World Cup. Glad we got that sorted.",
-      "original_url": "https://www.espn.com/soccer/story/_/id/48978502/fifa-reverses-world-cup-water-bottle-ban-backlash",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "FIFA reverses WC water bottle ban after backlash",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-06-06T03:30:49.848216+00:00"
-    },
-    {
-      "tweet": "The government is paying TotalEnergies to cancel wind projects and now seven states are suing them. We’re literally paying people to stop building stuff.",
-      "original_url": "https://www.aljazeera.com/economy/2026/6/5/trump-admins-cancellation-of-wind-energy-projects-causes-business-turmoil?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump admin’s cancellation of wind energy projects causes business turmoil",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-06-05T18:19:48.075704+00:00"
-    },
-    {
-      "tweet": "Hold on, scientists are saying Russian satellites have been jamming GPS signals all over Europe. How are we still letting them just mess with our maps like that",
-      "original_url": "https://www.nytimes.com/2026/06/05/world/europe/russia-satellites-gps-interference-europe.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Russian Satellites Have Been Jamming GPS Signals Across Europe, Scientists Say",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-05T16:16:28.629638+00:00"
     },
     {
       "tweet": "Did you know vampire myths actually came from a legit disease. That's wild.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1429,
+    "total_posted": 1430,
     "total_collected": 6066
   },
-  "last_posted_at": "2026-06-06T14:16:13.172475+00:00"
+  "last_posted_at": "2026-06-06T15:38:14.796661+00:00"
 }
