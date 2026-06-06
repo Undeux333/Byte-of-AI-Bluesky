@@ -2,28 +2,6 @@
   "last_collected": "2026-06-06T19:03:14.660916+00:00",
   "queue": [
     {
-      "tweet": "So apparently people are calling it wildflowering now when someone just drops off the map in a relationship. I mean, we've all been there.",
-      "original_url": "https://www.mentalfloss.com/culture/generations/wildflowering-latest-gen-z-dating-trend-explained?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "What Is \"Wildflowering\"? The Latest Gen Z Dating Trend Explained",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-06-06T19:03:14.659300+00:00"
-    },
-    {
-      "tweet": "George Russell tried playing mind games with Kimi Antonelli and now he's the one struggling. Backfired.",
-      "original_url": "https://www.bbc.com/sport/formula1/articles/cm2dn5gr253o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Russell perplexed by struggles having arrived in Monaco playing mind games",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-06-06T19:03:14.659480+00:00"
-    },
-    {
       "tweet": "Dude, a CIA officer got caught with gold bars 'cause he was just running a fake spy program. That's a movie plot.",
       "original_url": "https://www.nytimes.com/2026/06/06/us/politics/cia-officer-gold-fake-spy-program.html",
       "buzz_score": 80,
@@ -363,28 +341,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "Israel is supposedly using white phosphorus near towns in Lebanon. Just wild.",
-      "original_url": "https://www.npr.org/2026/06/06/nx-s1-5848668/israel-lebanon-white-phosphorus",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israel has reportedly used white phosphorus near Lebanese cities and towns. What is it?",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-06-06T19:03:14.660400+00:00"
-    },
-    {
-      "tweet": "It’s been over three months in Iran and Trump still can’t get anyone behind this thing. Pretty much says it all.",
-      "original_url": "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "100 days into the war on Iran, Trump fails to rally US support",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-06-06T19:03:14.659614+00:00"
     },
     {
       "tweet": "Did you hear about Prince Andrew? The guy lives rent-free on royal property and was out here subletting the cottages for extra cash. Classic.",
@@ -981,26 +937,26 @@
       "added_at": "2026-05-20T11:33:59.799456+00:00"
     },
     {
-      "tweet": "Pope Leo is out here saying the war in Iran isn't a 'just war.' Guess we’re waiting for the sermon.",
-      "original_url": "https://www.npr.org/2026/06/06/g-s1-126768/pope-leo-says-war-with-iran-is-not-a-just-war",
-      "buzz_score": 80,
+      "tweet": "Israel is supposedly using white phosphorus near towns in Lebanon. Just wild.",
+      "original_url": "https://www.npr.org/2026/06/06/nx-s1-5848668/israel-lebanon-white-phosphorus",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Pope Leo says war with Iran is not a 'just war'",
+      "original_title": "Israel has reportedly used white phosphorus near Lebanese cities and towns. What is it?",
       "source": "NPR News",
       "category": "world",
-      "added_at": "2026-06-06T19:03:14.660527+00:00"
+      "added_at": "2026-06-06T19:03:14.660400+00:00"
     },
     {
-      "tweet": "Man, that lottery winner in Essex died after a hit-and-run. Rough.",
-      "original_url": "https://www.theguardian.com/uk-news/2026/jun/06/euromillions-winner-dies-after-suspected-hit-and-run-in-essex",
-      "buzz_score": 80,
+      "tweet": "It’s been over three months in Iran and Trump still can’t get anyone behind this thing. Pretty much says it all.",
+      "original_url": "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support?traffic_source=rss",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "EuroMillions winner dies after suspected hit-and-run in Essex",
-      "source": "The Guardian",
+      "original_title": "100 days into the war on Iran, Trump fails to rally US support",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-06-06T19:03:14.659876+00:00"
+      "added_at": "2026-06-06T19:03:14.659614+00:00"
     },
     {
       "tweet": "Magic just put the deadliest mechanic in the command zone. They're literally just trying to speedrun our stress levels.",
@@ -1034,6 +990,28 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-06-05T18:19:48.075704+00:00"
+    },
+    {
+      "tweet": "Pope Leo is out here saying the war in Iran isn't a 'just war.' Guess we’re waiting for the sermon.",
+      "original_url": "https://www.npr.org/2026/06/06/g-s1-126768/pope-leo-says-war-with-iran-is-not-a-just-war",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Pope Leo says war with Iran is not a 'just war'",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-06-06T19:03:14.660527+00:00"
+    },
+    {
+      "tweet": "Man, that lottery winner in Essex died after a hit-and-run. Rough.",
+      "original_url": "https://www.theguardian.com/uk-news/2026/jun/06/euromillions-winner-dies-after-suspected-hit-and-run-in-essex",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "EuroMillions winner dies after suspected hit-and-run in Essex",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-06T19:03:14.659876+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1436,
+    "total_posted": 1438,
     "total_collected": 6094
   },
-  "last_posted_at": "2026-06-06T19:10:49.881350+00:00"
+  "last_posted_at": "2026-06-06T20:29:04.953490+00:00"
 }
