@@ -2,28 +2,6 @@
   "last_collected": "2026-06-07T18:53:52.526775+00:00",
   "queue": [
     {
-      "tweet": "That Dead Man's Wire show on Netflix is actually based on a true hostage story. Hits way harder when you realize it happened.",
-      "original_url": "https://www.polygon.com/dead-mans-wire-what-to-watch-netflix-thriller/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Netflix thriller hit Dead Man's Wire has a twist: It's all true",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-06-07T16:05:13.775073+00:00"
-    },
-    {
-      "tweet": "Ben Stokes is calling out the Lord’s pitch again. If the guys playing can't even stand it, why are we still on it?",
-      "original_url": "https://www.bbc.com/sport/cricket/articles/c0rywd9wndko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Lord's pitch does not benefit Test format - Stokes",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-06-07T16:05:13.774323+00:00"
-    },
-    {
       "tweet": "Found a list of stores from the 2000s we all forgot about. It's wild how much stuff we grew up with just completely vanished.",
       "original_url": "https://www.mentalfloss.com/nostalgia/stores-from-2000s-you-forgot-about?utm_source=RSS",
       "buzz_score": 75,
@@ -33,6 +11,28 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-06-07T16:05:13.774142+00:00"
+    },
+    {
+      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
+      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-02T15:05:13.740925+00:00"
+    },
+    {
+      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
+      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US court limits mail-order access to abortion pill mifepristone",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
       "tweet": "This new anime movie Another World is getting rave reviews for the animation while the story is apparently pure trauma. Why do we do this.",
@@ -66,39 +66,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-06-07T12:56:03.148860+00:00"
-    },
-    {
-      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
-      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-02T15:05:13.740925+00:00"
-    },
-    {
-      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
-      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US court limits mail-order access to abortion pill mifepristone",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Did you see the UK deputy PM told JD Vance he was wrong about that immigration comment? He actually had to get corrected like a child.",
-      "original_url": "https://www.npr.org/2026/06/07/nx-s1-5849212/u-k-deputy-prime-minister-jd-vance-was-wrong-to-blame-teens-murder-on-immigration",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "U.K. deputy prime minister: JD Vance was wrong to blame teen's murder on  immigration",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-06-07T18:53:52.525207+00:00"
     },
     {
       "tweet": "Man, Berkeley students are literally failing classes 'cause they're using AI for everything. We're actually losing the ability to do basic math at this point.",
@@ -365,28 +332,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Why on earth is someone forcing generative AI into a new Crazy Taxi game. Do they really think we asked for that.",
-      "original_url": "https://kotaku.com/why-do-you-need-generative-ai-to-make-crazy-taxi-2000703713",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Why Do You Need Generative AI To Make Crazy Taxi?",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-06-07T18:53:52.525748+00:00"
-    },
-    {
-      "tweet": "So apparently Israel is back to hitting Beirut days after that whole truce. Guess those ceasefires are just suggestions now.",
-      "original_url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israel strikes Beirut suburb days after US-brokered truce",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-06-07T18:53:52.525204+00:00"
-    },
-    {
       "tweet": "Did you hear about Prince Andrew? The guy lives rent-free on royal property and was out here subletting the cottages for extra cash. Classic.",
       "original_url": "https://www.nytimes.com/2026/06/05/world/europe/uk-prince-andrew-royal-lodge-property-sublet.html",
       "buzz_score": 88,
@@ -431,26 +376,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Gus Atkinson is back on the honours board with another five-fer. That guy is absolute heat.",
-      "original_url": "https://www.bbc.com/sport/cricket/videos/cy9re2704l7o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
+      "tweet": "Did you see the UK deputy PM told JD Vance he was wrong about that immigration comment? He actually had to get corrected like a child.",
+      "original_url": "https://www.npr.org/2026/06/07/nx-s1-5849212/u-k-deputy-prime-minister-jd-vance-was-wrong-to-blame-teens-murder-on-immigration",
+      "buzz_score": 88,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "'On the honours board again' - Another five wicket haul for Atkinson",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-06-07T12:56:03.149465+00:00"
-    },
-    {
-      "tweet": "Found out why some people cover mirrors when someone dies. It's wild how much we'll do just to deal with grief.",
-      "original_url": "https://www.mentalfloss.com/culture/folklore-mythology/why-cover-mirrors-after-death?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why Mirrors Are Covered After Death in Some Cultures",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-06-07T12:56:03.149189+00:00"
+      "original_title": "U.K. deputy prime minister: JD Vance was wrong to blame teen's murder on  immigration",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-06-07T18:53:52.525207+00:00"
     },
     {
       "tweet": "So apparently new college grads have higher unemployment than the average worker now. Like, we just paid all that for a degree to be more unemployable than everyone else.",
@@ -959,6 +893,50 @@
       "added_at": "2026-05-22T02:29:17.161342+00:00"
     },
     {
+      "tweet": "Why on earth is someone forcing generative AI into a new Crazy Taxi game. Do they really think we asked for that.",
+      "original_url": "https://kotaku.com/why-do-you-need-generative-ai-to-make-crazy-taxi-2000703713",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Why Do You Need Generative AI To Make Crazy Taxi?",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-06-07T18:53:52.525748+00:00"
+    },
+    {
+      "tweet": "So apparently Israel is back to hitting Beirut days after that whole truce. Guess those ceasefires are just suggestions now.",
+      "original_url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Israel strikes Beirut suburb days after US-brokered truce",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-06-07T18:53:52.525204+00:00"
+    },
+    {
+      "tweet": "Gus Atkinson is back on the honours board with another five-fer. That guy is absolute heat.",
+      "original_url": "https://www.bbc.com/sport/cricket/videos/cy9re2704l7o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "'On the honours board again' - Another five wicket haul for Atkinson",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-06-07T12:56:03.149465+00:00"
+    },
+    {
+      "tweet": "Found out why some people cover mirrors when someone dies. It's wild how much we'll do just to deal with grief.",
+      "original_url": "https://www.mentalfloss.com/culture/folklore-mythology/why-cover-mirrors-after-death?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Why Mirrors Are Covered After Death in Some Cultures",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-06-07T12:56:03.149189+00:00"
+    },
+    {
       "tweet": "Valve hasn't fixed their P2P networking in like two months. We're just waiting around at this point.",
       "original_url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
       "buzz_score": 80,
@@ -992,28 +970,6 @@
       "added_at": "2026-06-07T09:35:29.282559+00:00"
     },
     {
-      "tweet": "Police in France literally just failed to question that guy before he murdered that schoolgirl. That's a massive failure.",
-      "original_url": "https://www.theguardian.com/world/2026/jun/07/thousands-march-for-french-schoolgirl-murdered-after-police-failed-to-question-suspect",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Thousands march for French schoolgirl murdered after police failed to question suspect",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-07T16:05:13.774703+00:00"
-    },
-    {
-      "tweet": "The situation in Iran right now is just bleak. Everyone's just tired of the inflation and the war talk. It's a lot.",
-      "original_url": "https://www.nytimes.com/2026/06/07/world/middleeast/iranians-despair-war-economy-inflation.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iranians Sink Into Despair Facing War Deaths and Skyrocketing Inflation",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-07T16:05:13.774148+00:00"
-    },
-    {
       "tweet": "The new JMGO projector is apparently the new portable 4K champ. Might have to upgrade.",
       "original_url": "https://www.theverge.com/reviews/943732/best-portable-4k-projector-review",
       "buzz_score": 75,
@@ -1034,6 +990,28 @@
       "source": "Hypebeast",
       "category": "entertainment",
       "added_at": "2026-06-07T09:35:29.283365+00:00"
+    },
+    {
+      "tweet": "Police in France literally just failed to question that guy before he murdered that schoolgirl. That's a massive failure.",
+      "original_url": "https://www.theguardian.com/world/2026/jun/07/thousands-march-for-french-schoolgirl-murdered-after-police-failed-to-question-suspect",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Thousands march for French schoolgirl murdered after police failed to question suspect",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-07T16:05:13.774703+00:00"
+    },
+    {
+      "tweet": "The situation in Iran right now is just bleak. Everyone's just tired of the inflation and the war talk. It's a lot.",
+      "original_url": "https://www.nytimes.com/2026/06/07/world/middleeast/iranians-despair-war-economy-inflation.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iranians Sink Into Despair Facing War Deaths and Skyrocketing Inflation",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-07T16:05:13.774148+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1462,
+    "total_posted": 1464,
     "total_collected": 6222
   },
-  "last_posted_at": "2026-06-07T19:02:29.873984+00:00"
+  "last_posted_at": "2026-06-07T20:14:24.335081+00:00"
 }
