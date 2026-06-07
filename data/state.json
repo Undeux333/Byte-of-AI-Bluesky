@@ -2,17 +2,6 @@
   "last_collected": "2026-06-07T21:35:00.779954+00:00",
   "queue": [
     {
-      "tweet": "Dude, Israel hitting Beirut suburbs right after that Hezbollah drone strike. This whole thing is just escalating",
-      "original_url": "https://www.npr.org/2026/06/07/nx-s1-5849220/israel-lebanon-beirut-airstrike-ceasefire",
-      "buzz_score": 90,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Israel hits Beirut's suburbs in retaliatory attack against Hezbollah",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-06-07T21:35:00.778390+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -33,28 +22,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "They're making a new Vampire The Masquerade game like Disco Elysium. Sign me up",
-      "original_url": "https://www.polygon.com/vampire-the-masquerade-eternal-whispers-announcement/",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Vampire: The Masquerade - Eternal Whispers is a new, Disco Elysium-like CRPG",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-06-07T21:35:00.778712+00:00"
-    },
-    {
-      "tweet": "Found a list of stores from the 2000s we all forgot about. It's wild how much stuff we grew up with just completely vanished.",
-      "original_url": "https://www.mentalfloss.com/nostalgia/stores-from-2000s-you-forgot-about?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Limited Too and 5 Other Stores From the 2000s You Totally Forgot About",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-06-07T16:05:13.774142+00:00"
     },
     {
       "tweet": "Man, Berkeley students are literally failing classes 'cause they're using AI for everything. We're actually losing the ability to do basic math at this point.",
@@ -319,6 +286,28 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "They're making a new Vampire The Masquerade game like Disco Elysium. Sign me up",
+      "original_url": "https://www.polygon.com/vampire-the-masquerade-eternal-whispers-announcement/",
+      "buzz_score": 75,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Vampire: The Masquerade - Eternal Whispers is a new, Disco Elysium-like CRPG",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-06-07T21:35:00.778712+00:00"
+    },
+    {
+      "tweet": "Found a list of stores from the 2000s we all forgot about. It's wild how much stuff we grew up with just completely vanished.",
+      "original_url": "https://www.mentalfloss.com/nostalgia/stores-from-2000s-you-forgot-about?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Limited Too and 5 Other Stores From the 2000s You Totally Forgot About",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-06-07T16:05:13.774142+00:00"
     },
     {
       "tweet": "Did you hear about Prince Andrew? The guy lives rent-free on royal property and was out here subletting the cottages for extra cash. Classic.",
@@ -926,17 +915,6 @@
       "added_at": "2026-06-07T21:35:00.778569+00:00"
     },
     {
-      "tweet": "Did you see the UK deputy PM told JD Vance he was wrong about that immigration comment? He actually had to get corrected like a child.",
-      "original_url": "https://www.npr.org/2026/06/07/nx-s1-5849212/u-k-deputy-prime-minister-jd-vance-was-wrong-to-blame-teens-murder-on-immigration",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "U.K. deputy prime minister: JD Vance was wrong to blame teen's murder on  immigration",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-06-07T18:53:52.525207+00:00"
-    },
-    {
       "tweet": "Valve hasn't fixed their P2P networking in like two months. We're just waiting around at this point.",
       "original_url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
       "buzz_score": 80,
@@ -970,6 +948,28 @@
       "added_at": "2026-06-07T09:35:29.282559+00:00"
     },
     {
+      "tweet": "Did you see the UK deputy PM told JD Vance he was wrong about that immigration comment? He actually had to get corrected like a child.",
+      "original_url": "https://www.npr.org/2026/06/07/nx-s1-5849212/u-k-deputy-prime-minister-jd-vance-was-wrong-to-blame-teens-murder-on-immigration",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "U.K. deputy prime minister: JD Vance was wrong to blame teen's murder on  immigration",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-06-07T18:53:52.525207+00:00"
+    },
+    {
+      "tweet": "The new JMGO projector is apparently the new portable 4K champ. Might have to upgrade.",
+      "original_url": "https://www.theverge.com/reviews/943732/best-portable-4k-projector-review",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "JMGO’s N3 Ultimate projector is the new portable 4K champ",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-06-07T09:35:29.283734+00:00"
+    },
+    {
       "tweet": "Why on earth is someone forcing generative AI into a new Crazy Taxi game. Do they really think we asked for that.",
       "original_url": "https://kotaku.com/why-do-you-need-generative-ai-to-make-crazy-taxi-2000703713",
       "buzz_score": 85,
@@ -1001,17 +1001,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-06-07T21:35:00.779581+00:00"
-    },
-    {
-      "tweet": "The new JMGO projector is apparently the new portable 4K champ. Might have to upgrade.",
-      "original_url": "https://www.theverge.com/reviews/943732/best-portable-4k-projector-review",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "JMGO’s N3 Ultimate projector is the new portable 4K champ",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-06-07T09:35:29.283734+00:00"
     },
     {
       "tweet": "Gus Atkinson is back on the honours board with another five-fer. That guy is absolute heat.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1466,
+    "total_posted": 1467,
     "total_collected": 6238
   },
-  "last_posted_at": "2026-06-07T21:42:53.657907+00:00"
+  "last_posted_at": "2026-06-07T22:42:59.126459+00:00"
 }
