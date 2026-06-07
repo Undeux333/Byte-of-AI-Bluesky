@@ -2,28 +2,6 @@
   "last_collected": "2026-06-07T12:56:03.149742+00:00",
   "queue": [
     {
-      "tweet": "Poor Things is finally on Netflix. That movie is a fever dream but honestly I couldn't look away.",
-      "original_url": "https://usa.newonnetflix.info/info/81603794",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "7th Jun: Poor Things (2023), 2hr 21m [R] (6.85/10)",
-      "source": "New on Netflix",
-      "category": "entertainment",
-      "added_at": "2026-06-07T12:56:03.148964+00:00"
-    },
-    {
-      "tweet": "So apparently the government is dropping 9 billion on a megaport for that one super isolated island. Just leave the place alone, man.",
-      "original_url": "https://www.npr.org/2026/06/07/g-s1-125586/island-isolated-india-great-nicobar-china-development",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "It's one of the world's most isolated islands. Here come the bulldozers",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-06-07T12:56:03.148855+00:00"
-    },
-    {
       "tweet": "This new anime movie Another World is getting rave reviews for the animation while the story is apparently pure trauma. Why do we do this.",
       "original_url": "https://www.polygon.com/another-world-review-hong-kong-anime/",
       "buzz_score": 80,
@@ -112,28 +90,6 @@
       "added_at": "2026-06-07T09:35:29.282559+00:00"
     },
     {
-      "tweet": "The new JMGO projector is apparently the new portable 4K champ. Might have to upgrade.",
-      "original_url": "https://www.theverge.com/reviews/943732/best-portable-4k-projector-review",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "JMGO’s N3 Ultimate projector is the new portable 4K champ",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-06-07T09:35:29.283734+00:00"
-    },
-    {
-      "tweet": "Basketcase and New Balance are dropping another soccer-inspired pack. I need those.",
-      "original_url": "https://hypebeast.com/2026/6/basketcase-new-balance-gator-run-the-alternates-hacky-maiden-official-images-release-info",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Basketcase and New Balance Reconnect on the Soccer-Inspired Gator Run “The Alternates” Pack",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-06-07T09:35:29.283365+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -154,6 +110,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "The new JMGO projector is apparently the new portable 4K champ. Might have to upgrade.",
+      "original_url": "https://www.theverge.com/reviews/943732/best-portable-4k-projector-review",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "JMGO’s N3 Ultimate projector is the new portable 4K champ",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-06-07T09:35:29.283734+00:00"
+    },
+    {
+      "tweet": "Basketcase and New Balance are dropping another soccer-inspired pack. I need those.",
+      "original_url": "https://hypebeast.com/2026/6/basketcase-new-balance-gator-run-the-alternates-hacky-maiden-official-images-release-info",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Basketcase and New Balance Reconnect on the Soccer-Inspired Gator Run “The Alternates” Pack",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-06-07T09:35:29.283365+00:00"
     },
     {
       "tweet": "Man, Berkeley students are literally failing classes 'cause they're using AI for everything. We're actually losing the ability to do basic math at this point.",
@@ -418,17 +396,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "Did you see the news about that attack in Israel. Things are just getting worse.",
-      "original_url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-west-bank-shooting.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Gunman Kills at Least One in Attack on Central Israel",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-07T12:56:03.149601+00:00"
     },
     {
       "tweet": "Did you hear about Prince Andrew? The guy lives rent-free on royal property and was out here subletting the cottages for extra cash. Classic.",
@@ -1034,6 +1001,17 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-05-21T03:54:50.413306+00:00"
+    },
+    {
+      "tweet": "Did you see the news about that attack in Israel. Things are just getting worse.",
+      "original_url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-west-bank-shooting.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Gunman Kills at Least One in Attack on Central Israel",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-07T12:56:03.149601+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1454,
+    "total_posted": 1456,
     "total_collected": 6190
   },
-  "last_posted_at": "2026-06-07T13:05:32.464022+00:00"
+  "last_posted_at": "2026-06-07T14:51:08.004274+00:00"
 }
