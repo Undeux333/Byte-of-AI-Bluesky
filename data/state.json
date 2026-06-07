@@ -2,28 +2,6 @@
   "last_collected": "2026-06-07T09:35:29.284355+00:00",
   "queue": [
     {
-      "tweet": "Everyone’s out here debating if Portugal’s actually better off without Ronaldo. You think they’re gonna bench him?",
-      "original_url": "https://www.bbc.com/sport/football/articles/cvgzg4vj8dno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Are Portugal better without Ronaldo?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-06-07T09:35:29.282721+00:00"
-    },
-    {
-      "tweet": "Did you see that economic forum in Russia? Putin’s trying to talk numbers while drones are literally hitting St Petersburg. Hard to focus on the economy.",
-      "original_url": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-06-07T09:35:29.282550+00:00"
-    },
-    {
       "tweet": "Valve hasn't fixed their P2P networking in like two months. We're just waiting around at this point.",
       "original_url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
       "buzz_score": 80,
@@ -99,17 +77,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "So apparently new college grads have higher unemployment than the average worker now. Like, we just paid all that for a degree to be more unemployable than everyone else.",
-      "original_url": "https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "New U.S. college grads now have higher unemployment than the average worker",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-07T01:54:06.579197+00:00"
     },
     {
       "tweet": "Man, Berkeley students are literally failing classes 'cause they're using AI for everything. We're actually losing the ability to do basic math at this point.",
@@ -376,28 +343,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Ye just performed for 40,000 people in the Netherlands after being canceled everywhere else. People really don't care at all.",
-      "original_url": "https://www.nytimes.com/2026/06/06/arts/music/ye-concert-bully-tour-netherlands.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Despite Protest, Ye Takes the Stage for Thousands of European Fans",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-07T01:54:06.580173+00:00"
-    },
-    {
-      "tweet": "David Sullivan just stepped down at West Ham immediately after that BBC investigation. Not looking great for him.",
-      "original_url": "https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Sullivan steps down at West Ham in wake of allegations",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-06-07T01:54:06.579656+00:00"
-    },
-    {
       "tweet": "Did you hear about Prince Andrew? The guy lives rent-free on royal property and was out here subletting the cottages for extra cash. Classic.",
       "original_url": "https://www.nytimes.com/2026/06/05/world/europe/uk-prince-andrew-royal-lodge-property-sublet.html",
       "buzz_score": 88,
@@ -440,6 +385,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "So apparently new college grads have higher unemployment than the average worker now. Like, we just paid all that for a degree to be more unemployable than everyone else.",
+      "original_url": "https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "New U.S. college grads now have higher unemployment than the average worker",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-06-07T01:54:06.579197+00:00"
     },
     {
       "tweet": "They finally explained what clock it actually means. We've all been saying that wrong",
@@ -1023,6 +979,28 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-05-20T11:33:59.799456+00:00"
+    },
+    {
+      "tweet": "Ye just performed for 40,000 people in the Netherlands after being canceled everywhere else. People really don't care at all.",
+      "original_url": "https://www.nytimes.com/2026/06/06/arts/music/ye-concert-bully-tour-netherlands.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Despite Protest, Ye Takes the Stage for Thousands of European Fans",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-07T01:54:06.580173+00:00"
+    },
+    {
+      "tweet": "David Sullivan just stepped down at West Ham immediately after that BBC investigation. Not looking great for him.",
+      "original_url": "https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Sullivan steps down at West Ham in wake of allegations",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-06-07T01:54:06.579656+00:00"
     },
     {
       "tweet": "Everyone’s saying Deep Impact is way better than Armageddon and honestly yeah. It’s that kind of movie we all pretend is bad but secretly watch on Tubi.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1450,
+    "total_posted": 1452,
     "total_collected": 6174
   },
-  "last_posted_at": "2026-06-07T09:42:12.620937+00:00"
+  "last_posted_at": "2026-06-07T11:30:55.996039+00:00"
 }
