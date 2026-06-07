@@ -2,28 +2,6 @@
   "last_collected": "2026-06-07T16:05:13.775707+00:00",
   "queue": [
     {
-      "tweet": "Dude, I'm watching my coding career just evaporate in real time. We're training the things to take our own desks. Kinda rough.",
-      "original_url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "LLMs are eroding my software engineering career and I don't know what to do",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-07T16:05:13.774136+00:00"
-    },
-    {
-      "tweet": "They're making a Star Trek horror game with Ro Laren. Seriously.",
-      "original_url": "https://kotaku.com/ro-laren-stars-in-star-trek-horror-game-from-silent-hill-remake-makers-2000703593",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Ro Laren Stars In Star Trek Horror Game From Silent Hill Remake Makers",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-06-07T16:05:13.774950+00:00"
-    },
-    {
       "tweet": "So Hegseth is out here doing D-Day reenactment speeches in Normandy to complain about migration. Man, that's a choice.",
       "original_url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -101,28 +79,6 @@
       "added_at": "2026-06-07T12:56:03.148860+00:00"
     },
     {
-      "tweet": "Gus Atkinson is back on the honours board with another five-fer. That guy is absolute heat.",
-      "original_url": "https://www.bbc.com/sport/cricket/videos/cy9re2704l7o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'On the honours board again' - Another five wicket haul for Atkinson",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-06-07T12:56:03.149465+00:00"
-    },
-    {
-      "tweet": "Found out why some people cover mirrors when someone dies. It's wild how much we'll do just to deal with grief.",
-      "original_url": "https://www.mentalfloss.com/culture/folklore-mythology/why-cover-mirrors-after-death?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why Mirrors Are Covered After Death in Some Cultures",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-06-07T12:56:03.149189+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -145,37 +101,26 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Valve hasn't fixed their P2P networking in like two months. We're just waiting around at this point.",
-      "original_url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
-      "buzz_score": 80,
+      "tweet": "Gus Atkinson is back on the honours board with another five-fer. That guy is absolute heat.",
+      "original_url": "https://www.bbc.com/sport/cricket/videos/cy9re2704l7o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Valve P2P networking broken for more than 2 months",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-07T09:35:29.283612+00:00"
+      "original_title": "'On the honours board again' - Another five wicket haul for Atkinson",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-06-07T12:56:03.149465+00:00"
     },
     {
-      "tweet": "David Lammy had to tell JD Vance that his take on that murder was just wrong. Imagine having to correct the VP on reality.",
-      "original_url": "https://www.theguardian.com/politics/live/2026/jun/07/henry-nowak-trial-vickrum-digwa-police-reform-latest-news-updates",
-      "buzz_score": 80,
+      "tweet": "Found out why some people cover mirrors when someone dies. It's wild how much we'll do just to deal with grief.",
+      "original_url": "https://www.mentalfloss.com/culture/folklore-mythology/why-cover-mirrors-after-death?utm_source=RSS",
+      "buzz_score": 70,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Lammy told JD Vance his remarks about Henry Nowak were ‘wrong’ – UK politics live",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-07T09:35:29.283101+00:00"
-    },
-    {
-      "tweet": "So apparently Trump’s bragging about some nuclear promise from Iran that everyone says is old news. Why are we doing this again?",
-      "original_url": "https://www.nytimes.com/2026/06/07/us/politics/trump-iran-nuclear-promise.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump Says Iran Has Made a ‘Big’ Nuclear Promise. It Isn’t New.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-07T09:35:29.282559+00:00"
+      "original_title": "Why Mirrors Are Covered After Death in Some Cultures",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-06-07T12:56:03.149189+00:00"
     },
     {
       "tweet": "Man, Berkeley students are literally failing classes 'cause they're using AI for everything. We're actually losing the ability to do basic math at this point.",
@@ -442,50 +387,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Police in France literally just failed to question that guy before he murdered that schoolgirl. That's a massive failure.",
-      "original_url": "https://www.theguardian.com/world/2026/jun/07/thousands-march-for-french-schoolgirl-murdered-after-police-failed-to-question-suspect",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Thousands march for French schoolgirl murdered after police failed to question suspect",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-07T16:05:13.774703+00:00"
-    },
-    {
-      "tweet": "The situation in Iran right now is just bleak. Everyone's just tired of the inflation and the war talk. It's a lot.",
-      "original_url": "https://www.nytimes.com/2026/06/07/world/middleeast/iranians-despair-war-economy-inflation.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iranians Sink Into Despair Facing War Deaths and Skyrocketing Inflation",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-07T16:05:13.774148+00:00"
-    },
-    {
-      "tweet": "The new JMGO projector is apparently the new portable 4K champ. Might have to upgrade.",
-      "original_url": "https://www.theverge.com/reviews/943732/best-portable-4k-projector-review",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "JMGO’s N3 Ultimate projector is the new portable 4K champ",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-06-07T09:35:29.283734+00:00"
-    },
-    {
-      "tweet": "Basketcase and New Balance are dropping another soccer-inspired pack. I need those.",
-      "original_url": "https://hypebeast.com/2026/6/basketcase-new-balance-gator-run-the-alternates-hacky-maiden-official-images-release-info",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Basketcase and New Balance Reconnect on the Soccer-Inspired Gator Run “The Alternates” Pack",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-06-07T09:35:29.283365+00:00"
-    },
-    {
       "tweet": "Did you hear about Prince Andrew? The guy lives rent-free on royal property and was out here subletting the cottages for extra cash. Classic.",
       "original_url": "https://www.nytimes.com/2026/06/05/world/europe/uk-prince-andrew-royal-lodge-property-sublet.html",
       "buzz_score": 88,
@@ -528,6 +429,39 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Valve hasn't fixed their P2P networking in like two months. We're just waiting around at this point.",
+      "original_url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Valve P2P networking broken for more than 2 months",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-06-07T09:35:29.283612+00:00"
+    },
+    {
+      "tweet": "David Lammy had to tell JD Vance that his take on that murder was just wrong. Imagine having to correct the VP on reality.",
+      "original_url": "https://www.theguardian.com/politics/live/2026/jun/07/henry-nowak-trial-vickrum-digwa-police-reform-latest-news-updates",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Lammy told JD Vance his remarks about Henry Nowak were ‘wrong’ – UK politics live",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-07T09:35:29.283101+00:00"
+    },
+    {
+      "tweet": "So apparently Trump’s bragging about some nuclear promise from Iran that everyone says is old news. Why are we doing this again?",
+      "original_url": "https://www.nytimes.com/2026/06/07/us/politics/trump-iran-nuclear-promise.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Trump Says Iran Has Made a ‘Big’ Nuclear Promise. It Isn’t New.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-07T09:35:29.282559+00:00"
     },
     {
       "tweet": "So apparently new college grads have higher unemployment than the average worker now. Like, we just paid all that for a degree to be more unemployable than everyone else.",
@@ -1034,6 +968,50 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-05-22T02:29:17.161342+00:00"
+    },
+    {
+      "tweet": "Police in France literally just failed to question that guy before he murdered that schoolgirl. That's a massive failure.",
+      "original_url": "https://www.theguardian.com/world/2026/jun/07/thousands-march-for-french-schoolgirl-murdered-after-police-failed-to-question-suspect",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Thousands march for French schoolgirl murdered after police failed to question suspect",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-07T16:05:13.774703+00:00"
+    },
+    {
+      "tweet": "The situation in Iran right now is just bleak. Everyone's just tired of the inflation and the war talk. It's a lot.",
+      "original_url": "https://www.nytimes.com/2026/06/07/world/middleeast/iranians-despair-war-economy-inflation.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iranians Sink Into Despair Facing War Deaths and Skyrocketing Inflation",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-07T16:05:13.774148+00:00"
+    },
+    {
+      "tweet": "The new JMGO projector is apparently the new portable 4K champ. Might have to upgrade.",
+      "original_url": "https://www.theverge.com/reviews/943732/best-portable-4k-projector-review",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "JMGO’s N3 Ultimate projector is the new portable 4K champ",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-06-07T09:35:29.283734+00:00"
+    },
+    {
+      "tweet": "Basketcase and New Balance are dropping another soccer-inspired pack. I need those.",
+      "original_url": "https://hypebeast.com/2026/6/basketcase-new-balance-gator-run-the-alternates-hacky-maiden-official-images-release-info",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Basketcase and New Balance Reconnect on the Soccer-Inspired Gator Run “The Alternates” Pack",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-06-07T09:35:29.283365+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1458,
+    "total_posted": 1460,
     "total_collected": 6206
   },
-  "last_posted_at": "2026-06-07T16:13:49.754607+00:00"
+  "last_posted_at": "2026-06-07T17:43:51.005101+00:00"
 }
