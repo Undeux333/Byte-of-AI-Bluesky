@@ -2,28 +2,6 @@
   "last_collected": "2026-06-08T19:52:30.394523+00:00",
   "queue": [
     {
-      "tweet": "Turns out Xbox Game Pass lost millions of subscribers after that price hike. Who could have seen that coming.",
-      "original_url": "https://kotaku.com/xbox-game-pass-lost-millions-subscribers-price-hike-2000704046",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Xbox Game Pass Lost ‘Millions Of Subscribers’ When It Hiked Prices Last Fall",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-06-08T19:52:30.393476+00:00"
-    },
-    {
-      "tweet": "Hold on, people are actually writing scripts just to keep Apple Music from opening every time they plug in their car. That's a lot of work for a button.",
-      "original_url": "https://lowtechguys.com/musicdecoy/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Stop the Apple Music app from launching",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-08T19:52:30.392619+00:00"
-    },
-    {
       "tweet": "Xbox is promising a reliable pipeline of exclusives again. I'll believe it when I see it.",
       "original_url": "https://kotaku.com/xbox-promises-reliable-pipeline-exclusives-years-2000704024",
       "buzz_score": 75,
@@ -66,17 +44,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "They're calling it dopamine fracking now. Basically just companies building apps to keep us scrolling until our brains are completely fried. Man, I'm tired of it.",
-      "original_url": "https://igerman.cc/blog/dopamine-fracking/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Dopamine Fracking",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-08T11:30:35.409535+00:00"
     },
     {
       "tweet": "Man, Berkeley students are literally failing classes 'cause they're using AI for everything. We're actually losing the ability to do basic math at this point.",
@@ -343,39 +310,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "The relationship between Trump and Netanyahu is basically torpedoing any chance at a ceasefire. Business as usual.",
-      "original_url": "https://www.theguardian.com/us-news/2026/jun/08/complex-relationship-between-trump-and-netanyahu-continues-to-undermine-middle-east-ceasefire",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Complex relationship between Trump and Netanyahu continues to undermine Middle East ceasefire",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-08T19:52:30.393211+00:00"
-    },
-    {
-      "tweet": "So apparently JD Vance is weighing in on UK police matters now. Does he not have enough to deal with here.",
-      "original_url": "https://www.nytimes.com/2026/06/08/world/europe/vance-uk-stabbing-migrants.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Vance Blames Migrant ‘Invasion’ for UK Stabbing",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-08T19:52:30.392629+00:00"
-    },
-    {
-      "tweet": "Rush is somehow already on a Fifty Something tour. Kinda wild realizing our favorite bands are just doing legacy runs now.",
-      "original_url": "https://www.billboard.com/lists/rush-fifty-something-tour-opening-night-setlist-los-angeles/",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Rush’s Fifty Something Tour 2026 Setlist: Every Song Played at the First Show",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-06-08T11:30:35.409702+00:00"
-    },
-    {
       "tweet": "Did you hear about Prince Andrew? The guy lives rent-free on royal property and was out here subletting the cottages for extra cash. Classic.",
       "original_url": "https://www.nytimes.com/2026/06/05/world/europe/uk-prince-andrew-royal-lodge-property-sublet.html",
       "buzz_score": 88,
@@ -420,15 +354,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Did you see that Lost Wild game? It’s basically Jurassic Park meets Alien Isolation and I’m already terrified.",
-      "original_url": "https://www.polygon.com/lost-wild-preview/",
-      "buzz_score": 80,
+      "tweet": "They're calling it dopamine fracking now. Basically just companies building apps to keep us scrolling until our brains are completely fried. Man, I'm tired of it.",
+      "original_url": "https://igerman.cc/blog/dopamine-fracking/",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "The Lost Wild preview: Jurassic Park meets Alien Isolation in a bone-chilling horror game",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-06-08T11:30:35.410494+00:00"
+      "original_title": "Dopamine Fracking",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-06-08T11:30:35.409535+00:00"
     },
     {
       "tweet": "Dude, DeepSeek just dropped a version that's apparently outperforming GPT-5.5. We're literally watching them speedrun the inevitable.",
@@ -1003,6 +937,61 @@
       "added_at": "2026-05-22T02:29:17.161342+00:00"
     },
     {
+      "tweet": "The relationship between Trump and Netanyahu is basically torpedoing any chance at a ceasefire. Business as usual.",
+      "original_url": "https://www.theguardian.com/us-news/2026/jun/08/complex-relationship-between-trump-and-netanyahu-continues-to-undermine-middle-east-ceasefire",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Complex relationship between Trump and Netanyahu continues to undermine Middle East ceasefire",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-08T19:52:30.393211+00:00"
+    },
+    {
+      "tweet": "So apparently JD Vance is weighing in on UK police matters now. Does he not have enough to deal with here.",
+      "original_url": "https://www.nytimes.com/2026/06/08/world/europe/vance-uk-stabbing-migrants.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Vance Blames Migrant ‘Invasion’ for UK Stabbing",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-08T19:52:30.392629+00:00"
+    },
+    {
+      "tweet": "Rush is somehow already on a Fifty Something tour. Kinda wild realizing our favorite bands are just doing legacy runs now.",
+      "original_url": "https://www.billboard.com/lists/rush-fifty-something-tour-opening-night-setlist-los-angeles/",
+      "buzz_score": 82,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Rush’s Fifty Something Tour 2026 Setlist: Every Song Played at the First Show",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-06-08T11:30:35.409702+00:00"
+    },
+    {
+      "tweet": "Did you see that Lost Wild game? It’s basically Jurassic Park meets Alien Isolation and I’m already terrified.",
+      "original_url": "https://www.polygon.com/lost-wild-preview/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Lost Wild preview: Jurassic Park meets Alien Isolation in a bone-chilling horror game",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-06-08T11:30:35.410494+00:00"
+    },
+    {
+      "tweet": "Yo, a Japanese city just shut down a hundred schools because of bears. Imagine having to tell your boss you can't come in 'cause of a bear.",
+      "original_url": "https://www.theguardian.com/world/2026/jun/08/utsunomiya-city-japan-bear-sighting-all-primary-secondary-schools-shut",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Japanese city shuts down nearly 100 schools after unprecedented bear sighting",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-08T06:45:31.218341+00:00"
+    },
+    {
       "tweet": "That magnitude 7.8 earthquake in the Philippines looks insane. Thirty-five dead already, that's rough.",
       "original_url": "https://www.theguardian.com/world/2026/jun/08/philippines-earthquake-mindanao-tsunami-warnings",
       "buzz_score": 80,
@@ -1023,17 +1012,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-06-08T19:52:30.393061+00:00"
-    },
-    {
-      "tweet": "Yo, a Japanese city just shut down a hundred schools because of bears. Imagine having to tell your boss you can't come in 'cause of a bear.",
-      "original_url": "https://www.theguardian.com/world/2026/jun/08/utsunomiya-city-japan-bear-sighting-all-primary-secondary-schools-shut",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Japanese city shuts down nearly 100 schools after unprecedented bear sighting",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-08T06:45:31.218341+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1481,
+    "total_posted": 1483,
     "total_collected": 6336
   },
-  "last_posted_at": "2026-06-08T20:00:33.881877+00:00"
+  "last_posted_at": "2026-06-08T21:49:17.933530+00:00"
 }
