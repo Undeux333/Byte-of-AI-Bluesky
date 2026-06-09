@@ -35,28 +35,6 @@
       "added_at": "2026-06-08T23:03:03.087092+00:00"
     },
     {
-      "tweet": "Xbox is promising a reliable pipeline of exclusives again. I'll believe it when I see it.",
-      "original_url": "https://kotaku.com/xbox-promises-reliable-pipeline-exclusives-years-2000704024",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Xbox Promises A ‘Reliable Pipeline’ Of Exclusives That ‘Validates Their Historical Investment’ In Xbox",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-06-08T17:44:46.831524+00:00"
-    },
-    {
-      "tweet": "Bad Bunny bringing out half the industry at his Madrid residency is insane. My FOMO is hitting hard.",
-      "original_url": "https://www.billboard.com/lists/bad-bunnys-madrid-residency-surprise-guests/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "All of Bad Bunny’s Surprise Guests at His Madrid Residency, So Far",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-06-08T17:44:46.830874+00:00"
-    },
-    {
       "tweet": "Man, Berkeley students are literally failing classes 'cause they're using AI for everything. We're actually losing the ability to do basic math at this point.",
       "original_url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
       "buzz_score": 90,
@@ -321,15 +299,26 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "So Israel and Iran are back at it with the missiles. Is anyone actually surprised at this point",
-      "original_url": "https://www.bbc.com/news/videos/ckg8nke01g5o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
+      "tweet": "Xbox is promising a reliable pipeline of exclusives again. I'll believe it when I see it.",
+      "original_url": "https://kotaku.com/xbox-promises-reliable-pipeline-exclusives-years-2000704024",
+      "buzz_score": 75,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Has Trump lost control of the Iran war?",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-06-08T23:03:03.087100+00:00"
+      "original_title": "Xbox Promises A ‘Reliable Pipeline’ Of Exclusives That ‘Validates Their Historical Investment’ In Xbox",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-06-08T17:44:46.831524+00:00"
+    },
+    {
+      "tweet": "Bad Bunny bringing out half the industry at his Madrid residency is insane. My FOMO is hitting hard.",
+      "original_url": "https://www.billboard.com/lists/bad-bunnys-madrid-residency-surprise-guests/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "All of Bad Bunny’s Surprise Guests at His Madrid Residency, So Far",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-06-08T17:44:46.830874+00:00"
     },
     {
       "tweet": "Did you hear about Prince Andrew? The guy lives rent-free on royal property and was out here subletting the cottages for extra cash. Classic.",
@@ -374,6 +363,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "So Israel and Iran are back at it with the missiles. Is anyone actually surprised at this point",
+      "original_url": "https://www.bbc.com/news/videos/ckg8nke01g5o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Has Trump lost control of the Iran war?",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-06-08T23:03:03.087100+00:00"
     },
     {
       "tweet": "They're calling it dopamine fracking now. Basically just companies building apps to keep us scrolling until our brains are completely fried. Man, I'm tired of it.",
@@ -959,17 +959,6 @@
       "added_at": "2026-05-22T02:29:17.161342+00:00"
     },
     {
-      "tweet": "So apparently a scientist got busted at Detroit airport trying to smuggle mpox. You can't make this stuff up",
-      "original_url": "https://www.nytimes.com/2026/06/08/science/dutch-scientist-mpox-virus-smuggling.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Scientist Charged With Conspiring to Smuggle Mpox Virus Into U.S.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-08T23:03:03.087098+00:00"
-    },
-    {
       "tweet": "Rush is somehow already on a Fifty Something tour. Kinda wild realizing our favorite bands are just doing legacy runs now.",
       "original_url": "https://www.billboard.com/lists/rush-fifty-something-tour-opening-night-setlist-los-angeles/",
       "buzz_score": 82,
@@ -979,6 +968,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-06-08T11:30:35.409702+00:00"
+    },
+    {
+      "tweet": "So apparently a scientist got busted at Detroit airport trying to smuggle mpox. You can't make this stuff up",
+      "original_url": "https://www.nytimes.com/2026/06/08/science/dutch-scientist-mpox-virus-smuggling.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Scientist Charged With Conspiring to Smuggle Mpox Virus Into U.S.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-08T23:03:03.087098+00:00"
     },
     {
       "tweet": "Did you see that Lost Wild game? It’s basically Jurassic Park meets Alien Isolation and I’m already terrified.",
