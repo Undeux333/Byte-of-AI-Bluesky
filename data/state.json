@@ -2,28 +2,6 @@
   "last_collected": "2026-06-09T22:18:13.147915+00:00",
   "queue": [
     {
-      "tweet": "People really think they can dodge playing GTA 6 by just hiding out for two months. Good luck with that.",
-      "original_url": "https://kotaku.com/look-you-cant-all-avoid-gta-6-by-hiding-in-october-and-september-2000703984",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Look, You Can’t All Avoid GTA 6 By Hiding In September And October",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-06-09T22:18:13.147817+00:00"
-    },
-    {
-      "tweet": "Dude, saw this thing saying CEOs are actually just bad at their jobs if they think AI can replace their staff. Someone finally said it.",
-      "original_url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-09T22:18:13.147088+00:00"
-    },
-    {
       "tweet": "Cardi B really thinks if the Knicks win the finals the rats in NYC are just gonna vanish. Valid point.",
       "original_url": "https://www.billboard.com/music/music-news/cardi-b-knicks-nba-finals-predictions-1236268808/",
       "buzz_score": 82,
@@ -77,39 +55,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Craig Gordon is still playing at 43. The guy is literally made of duct tape and prayers",
-      "original_url": "https://www.bbc.com/sport/football/articles/c5yz5nnx2jro?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Risk of death to oldest man at World Cup - walking miracle Gordon",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-06-09T16:45:03.506163+00:00"
-    },
-    {
-      "tweet": "Trump says he's in the final throes of a peace deal while Tyre is getting hit. The timing is a joke",
-      "original_url": "https://www.aljazeera.com/news/2026/6/9/trump-says-in-final-throes-of-peace-deal-but-at-least-8-killed-in-tyre?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump says in ‘final throes’ of peace deal but at least 8 killed in Tyre",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-06-09T14:03:47.970290+00:00"
-    },
-    {
-      "tweet": "Bro, this new MiMo model is pushing a thousand tokens per second. At this point we're just feeding data into a blender and hoping for the best",
-      "original_url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-09T14:03:47.969555+00:00"
     },
     {
       "tweet": "Man, Berkeley students are literally failing classes 'cause they're using AI for everything. We're actually losing the ability to do basic math at this point.",
@@ -376,17 +321,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Ben Stokes is in trouble for drinking again. How many times can one captain make the exact same mistake",
-      "original_url": "https://www.bbc.com/sport/cricket/articles/c4gydnq8qw2o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Stokes and alcohol give England another headache",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-06-09T14:03:47.970153+00:00"
-    },
-    {
       "tweet": "Did you hear about Prince Andrew? The guy lives rent-free on royal property and was out here subletting the cottages for extra cash. Classic.",
       "original_url": "https://www.nytimes.com/2026/06/05/world/europe/uk-prince-andrew-royal-lodge-property-sublet.html",
       "buzz_score": 88,
@@ -431,26 +365,37 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Yo, the new Nintendo Direct is actually loaded. My wallet is gonna be hurting for a while",
-      "original_url": "https://kotaku.com/watch-nintendos-big-summer-direct-right-here-2000704327",
-      "buzz_score": 80,
+      "tweet": "Craig Gordon is still playing at 43. The guy is literally made of duct tape and prayers",
+      "original_url": "https://www.bbc.com/sport/football/articles/c5yz5nnx2jro?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Watch Nintendo’s Big Summer Direct Right Here",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-06-09T14:03:47.970539+00:00"
+      "original_title": "Risk of death to oldest man at World Cup - walking miracle Gordon",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-06-09T16:45:03.506163+00:00"
     },
     {
-      "tweet": "Dude, a sea drone literally just fished a helicopter crew out of the ocean. The future is weird as hell",
-      "original_url": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
+      "tweet": "Trump says he's in the final throes of a peace deal while Tyre is getting hit. The timing is a joke",
+      "original_url": "https://www.aljazeera.com/news/2026/6/9/trump-says-in-final-throes-of-peace-deal-but-at-least-8-killed-in-tyre?traffic_source=rss",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
-      "source": "BBC World",
+      "original_title": "Trump says in ‘final throes’ of peace deal but at least 8 killed in Tyre",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-06-09T14:03:47.969562+00:00"
+      "added_at": "2026-06-09T14:03:47.970290+00:00"
+    },
+    {
+      "tweet": "Bro, this new MiMo model is pushing a thousand tokens per second. At this point we're just feeding data into a blender and hoping for the best",
+      "original_url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-06-09T14:03:47.969555+00:00"
     },
     {
       "tweet": "Dude, Facebook is literally paying people in other countries to push for Alberta to split off. Like, we're just outsourcing our own civil unrest now.",
@@ -981,6 +926,61 @@
       "added_at": "2026-05-23T23:40:03.581313+00:00"
     },
     {
+      "tweet": "Ben Stokes is in trouble for drinking again. How many times can one captain make the exact same mistake",
+      "original_url": "https://www.bbc.com/sport/cricket/articles/c4gydnq8qw2o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 82,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Stokes and alcohol give England another headache",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-06-09T14:03:47.970153+00:00"
+    },
+    {
+      "tweet": "Yo, the new Nintendo Direct is actually loaded. My wallet is gonna be hurting for a while",
+      "original_url": "https://kotaku.com/watch-nintendos-big-summer-direct-right-here-2000704327",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Watch Nintendo’s Big Summer Direct Right Here",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-06-09T14:03:47.970539+00:00"
+    },
+    {
+      "tweet": "Dude, a sea drone literally just fished a helicopter crew out of the ocean. The future is weird as hell",
+      "original_url": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-06-09T14:03:47.969562+00:00"
+    },
+    {
+      "tweet": "Nintendo Direct is coming this summer. My wallet is already sweating.",
+      "original_url": "https://www.polygon.com/nintendo-direct-2026-summer-watch-start-time/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Nintendo Direct showcase summer 2026: Where and when to watch",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-06-09T11:35:53.697585+00:00"
+    },
+    {
+      "tweet": "Man, Israel and Iran are back to launching strikes already. Like we were ever gonna get a day of peace.",
+      "original_url": "https://www.nytimes.com/live/2026/06/09/world/iran-war-trump-israel-lebanon",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Iran War Live Updates: Israel Launches New Strikes in Southern Lebanon",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-09T11:35:53.697014+00:00"
+    },
+    {
       "tweet": "Playing the Gothic remake and finding out there's a guide just to get rid of Mud. We've all had that one annoying friend",
       "original_url": "https://www.polygon.com/gothic-1-remake-how-to-get-rid-of-mud-scare-kill/",
       "buzz_score": 78,
@@ -1012,28 +1012,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-06-09T22:18:13.147100+00:00"
-    },
-    {
-      "tweet": "Nintendo Direct is coming this summer. My wallet is already sweating.",
-      "original_url": "https://www.polygon.com/nintendo-direct-2026-summer-watch-start-time/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Nintendo Direct showcase summer 2026: Where and when to watch",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-06-09T11:35:53.697585+00:00"
-    },
-    {
-      "tweet": "Man, Israel and Iran are back to launching strikes already. Like we were ever gonna get a day of peace.",
-      "original_url": "https://www.nytimes.com/live/2026/06/09/world/iran-war-trump-israel-lebanon",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Iran War Live Updates: Israel Launches New Strikes in Southern Lebanon",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-09T11:35:53.697014+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1501,
+    "total_posted": 1503,
     "total_collected": 6450
   },
-  "last_posted_at": "2026-06-09T22:25:07.900567+00:00"
+  "last_posted_at": "2026-06-09T23:54:12.444112+00:00"
 }
