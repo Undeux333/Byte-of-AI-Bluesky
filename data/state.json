@@ -2,28 +2,6 @@
   "last_collected": "2026-06-09T18:59:18.125280+00:00",
   "queue": [
     {
-      "tweet": "Destiny 2 fans literally crashed the servers today just to show they want the game to survive. We're all just desperate for anything to stay, aren't we",
-      "original_url": "https://kotaku.com/fans-just-crashed-the-destiny-2-servers-to-prove-how-much-they-dont-want-it-to-die-2000704490",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fans Just Crashed The Destiny 2 Servers To Prove How Much They Don’t Want It To Die",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-06-09T18:59:18.125155+00:00"
-    },
-    {
-      "tweet": "Dude, Apple is just straight up using Google Gemini for their new AI architecture now. Guess they really gave up on building their own",
-      "original_url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Apple reveals new AI architecture built around Google Gemini models",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-09T18:59:18.124739+00:00"
-    },
-    {
       "tweet": "Craig Gordon is still playing at 43. The guy is literally made of duct tape and prayers",
       "original_url": "https://www.bbc.com/sport/football/articles/c5yz5nnx2jro?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -55,6 +33,28 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-06-09T14:03:47.969555+00:00"
+    },
+    {
+      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
+      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-02T15:05:13.740925+00:00"
+    },
+    {
+      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
+      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US court limits mail-order access to abortion pill mifepristone",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
       "tweet": "Ben Stokes is in trouble for drinking again. How many times can one captain make the exact same mistake",
@@ -99,39 +99,6 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-06-09T14:03:47.970904+00:00"
-    },
-    {
-      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
-      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-02T15:05:13.740925+00:00"
-    },
-    {
-      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
-      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US court limits mail-order access to abortion pill mifepristone",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Dude, Facebook is literally paying people in other countries to push for Alberta to split off. Like, we're just outsourcing our own civil unrest now.",
-      "original_url": "https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Facebook is paying people overseas promoting Alberta separatism",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-09T11:35:53.697008+00:00"
     },
     {
       "tweet": "Man, Berkeley students are literally failing classes 'cause they're using AI for everything. We're actually losing the ability to do basic math at this point.",
@@ -398,28 +365,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Nintendo Direct is coming this summer. My wallet is already sweating.",
-      "original_url": "https://www.polygon.com/nintendo-direct-2026-summer-watch-start-time/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Nintendo Direct showcase summer 2026: Where and when to watch",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-06-09T11:35:53.697585+00:00"
-    },
-    {
-      "tweet": "Man, Israel and Iran are back to launching strikes already. Like we were ever gonna get a day of peace.",
-      "original_url": "https://www.nytimes.com/live/2026/06/09/world/iran-war-trump-israel-lebanon",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Iran War Live Updates: Israel Launches New Strikes in Southern Lebanon",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-09T11:35:53.697014+00:00"
-    },
-    {
       "tweet": "Did you hear about Prince Andrew? The guy lives rent-free on royal property and was out here subletting the cottages for extra cash. Classic.",
       "original_url": "https://www.nytimes.com/2026/06/05/world/europe/uk-prince-andrew-royal-lodge-property-sublet.html",
       "buzz_score": 88,
@@ -462,6 +407,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Dude, Facebook is literally paying people in other countries to push for Alberta to split off. Like, we're just outsourcing our own civil unrest now.",
+      "original_url": "https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Facebook is paying people overseas promoting Alberta separatism",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-06-09T11:35:53.697008+00:00"
     },
     {
       "tweet": "Did you see Wemby going for 32 in the garden? The Spurs are actually making this a series",
@@ -979,6 +935,28 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-05-23T23:40:03.581313+00:00"
+    },
+    {
+      "tweet": "Nintendo Direct is coming this summer. My wallet is already sweating.",
+      "original_url": "https://www.polygon.com/nintendo-direct-2026-summer-watch-start-time/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Nintendo Direct showcase summer 2026: Where and when to watch",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-06-09T11:35:53.697585+00:00"
+    },
+    {
+      "tweet": "Man, Israel and Iran are back to launching strikes already. Like we were ever gonna get a day of peace.",
+      "original_url": "https://www.nytimes.com/live/2026/06/09/world/iran-war-trump-israel-lebanon",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Iran War Live Updates: Israel Launches New Strikes in Southern Lebanon",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-09T11:35:53.697014+00:00"
     },
     {
       "tweet": "Germany is cracking down on BDS while their own universities are seeing massive solidarity protests. Total mess.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1497,
+    "total_posted": 1499,
     "total_collected": 6438
   },
-  "last_posted_at": "2026-06-09T19:07:13.962714+00:00"
+  "last_posted_at": "2026-06-09T21:03:45.509490+00:00"
 }
