@@ -2,28 +2,6 @@
   "last_collected": "2026-06-10T19:57:10.828393+00:00",
   "queue": [
     {
-      "tweet": "Another strike in Sidon. It’s just getting normal now.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/israeli-strike-on-a-car-kills-two-in-sidon-lebanon?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Israeli strike on a car kills two in Sidon, Lebanon",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-06-10T19:57:10.827602+00:00"
-    },
-    {
-      "tweet": "Farage just reappeared and he’s dodging that five million pound question. Classic.",
-      "original_url": "https://www.theguardian.com/politics/2026/jun/10/farage-suddenly-returns-to-political-stage-but-dodges-questions-about-5m-gift",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Farage suddenly returns to political stage – but dodges questions about £5m gift",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-10T19:57:10.827937+00:00"
-    },
-    {
       "tweet": "Trump says they’re working to make sure the right people get visas. Sounds like a guest list.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/trump-were-working-to-make-sure-the-right-people-come?traffic_source=rss",
       "buzz_score": 85,
@@ -156,6 +134,28 @@
       "added_at": "2026-06-10T17:34:03.683534+00:00"
     },
     {
+      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
+      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-02T15:05:13.740925+00:00"
+    },
+    {
+      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
+      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US court limits mail-order access to abortion pill mifepristone",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
       "tweet": "Valve is killing physical Steam gift cards to stop scammers. So there goes the easiest last-minute birthday present.",
       "original_url": "https://kotaku.com/steam-gift-cards-scam-valve-discontinue-2000704844",
       "buzz_score": 85,
@@ -187,39 +187,6 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-06-10T14:01:24.601738+00:00"
-    },
-    {
-      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
-      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-02T15:05:13.740925+00:00"
-    },
-    {
-      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
-      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US court limits mail-order access to abortion pill mifepristone",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Japanese manga fans are begging Trump to stop posting those ninja Naruto edits. The White House is officially out of touch.",
-      "original_url": "https://www.theguardian.com/world/2026/jun/10/japanese-manga-anime-fans-urge-trump-to-stop-using-characters-social-media-posts",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Japanese manga fans urge Trump to stop using characters in his online posts",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
       "tweet": "Man, Berkeley students are literally failing classes 'cause they're using AI for everything. We're actually losing the ability to do basic math at this point.",
@@ -484,6 +451,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "Japanese manga fans are begging Trump to stop posting those ninja Naruto edits. The White House is officially out of touch.",
+      "original_url": "https://www.theguardian.com/world/2026/jun/10/japanese-manga-anime-fans-urge-trump-to-stop-using-characters-social-media-posts",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Japanese manga fans urge Trump to stop using characters in his online posts",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
       "tweet": "Did you hear about Prince Andrew? The guy lives rent-free on royal property and was out here subletting the cottages for extra cash. Classic.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1514,
+    "total_posted": 1516,
     "total_collected": 6541
   },
-  "last_posted_at": "2026-06-10T20:04:05.224649+00:00"
+  "last_posted_at": "2026-06-10T21:59:29.903501+00:00"
 }
