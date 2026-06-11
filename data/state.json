@@ -2,28 +2,6 @@
   "last_collected": "2026-06-11T20:33:37.476675+00:00",
   "queue": [
     {
-      "tweet": "Did you hear about those Indian seafarers getting hit in the Gulf? US just blew up a ship and now they're acting like it’s a big mystery why India’s protesting.",
-      "original_url": "https://www.theguardian.com/world/2026/jun/11/delhi-issues-strong-protest-after-us-fire-kills-three-indian-seafarers-in-gulf",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Delhi issues ‘strong protest’ after US strikes kill three Indian seafarers in Gulf",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-11T20:33:37.475414+00:00"
-    },
-    {
-      "tweet": "Did you see the World Cup opening ceremony in Mexico? Shakira literally just appeared out of nowhere. Wild.",
-      "original_url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "World Cup kicks off in Mexico with Shakira, performers and vibrant fans",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-06-11T20:33:37.474253+00:00"
-    },
-    {
       "tweet": "Hang on, Trump is calling off strikes and talking peace deals now? Are we supposed to just forget the last month of threats?",
       "original_url": "https://www.npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes",
       "buzz_score": 80,
@@ -46,17 +24,6 @@
       "added_at": "2026-06-11T20:33:37.475911+00:00"
     },
     {
-      "tweet": "Dude, a site just doubled their users by going back to basic HTML. At this point we're just over-engineering everything for no reason.",
-      "original_url": "https://mohkohn.co.uk/writing/html-first/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Building an HTML-first site doubled our users overnight",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-11T14:53:04.363805+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -77,6 +44,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Dude, a site just doubled their users by going back to basic HTML. At this point we're just over-engineering everything for no reason.",
+      "original_url": "https://mohkohn.co.uk/writing/html-first/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Building an HTML-first site doubled our users overnight",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-06-11T14:53:04.363805+00:00"
     },
     {
       "tweet": "So workers in India are training AI robots specifically to take their own jobs. At this point we're just paying for our own replacement.",
@@ -385,17 +363,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "Dude, Jay Clayton for intel director? It’s basically just hiring your own personal hype man to run the whole agency now.",
-      "original_url": "https://www.npr.org/2026/06/11/nx-s1-5855365/trump-director-of-national-intelligence-jay-clayton-bill-pulte-fisa-702",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump names Jay Clayton to serve as director of national intelligence",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-06-11T20:33:37.474845+00:00"
     },
     {
       "tweet": "Japanese manga fans are begging Trump to stop posting those ninja Naruto edits. The White House is officially out of touch.",
@@ -959,26 +926,15 @@
       "added_at": "2026-05-31T23:56:06.012970+00:00"
     },
     {
-      "tweet": "Henry Ruggs got denied parole again. Five years later and it’s still just a massive waste of life.",
-      "original_url": "https://www.espn.com/nfl/story/_/id/49032484/ex-raiders-wr-henry-ruggs-denied-parole-nearly-5-years-crash",
-      "buzz_score": 80,
+      "tweet": "Dude, Jay Clayton for intel director? It’s basically just hiring your own personal hype man to run the whole agency now.",
+      "original_url": "https://www.npr.org/2026/06/11/nx-s1-5855365/trump-director-of-national-intelligence-jay-clayton-bill-pulte-fisa-702",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Ruggs denied parole nearly five years after crash",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-06-11T20:33:37.475784+00:00"
-    },
-    {
-      "tweet": "Yo, these riots in the UK are just spiraling. Between the stabbings and the right-wing agitation online, how is this actually happening in 2024?",
-      "original_url": "https://www.nytimes.com/2026/06/11/world/europe/northern-ireland-stabbing-immigration.html",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "In the U.K., a Violent Cycle: Hateful Attacks, Right-Wing Agitation and Riots",
-      "source": "NYT World",
+      "original_title": "Trump names Jay Clayton to serve as director of national intelligence",
+      "source": "NPR News",
       "category": "world",
-      "added_at": "2026-06-11T18:00:52.708070+00:00"
+      "added_at": "2026-06-11T20:33:37.474845+00:00"
     },
     {
       "tweet": "The government is deporting women to the Central African Republic despite telling everyone not to travel there for any reason. Just wild.",
@@ -1003,6 +959,39 @@
       "added_at": "2026-06-11T11:06:30.923491+00:00"
     },
     {
+      "tweet": "Henry Ruggs got denied parole again. Five years later and it’s still just a massive waste of life.",
+      "original_url": "https://www.espn.com/nfl/story/_/id/49032484/ex-raiders-wr-henry-ruggs-denied-parole-nearly-5-years-crash",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Ruggs denied parole nearly five years after crash",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-06-11T20:33:37.475784+00:00"
+    },
+    {
+      "tweet": "Yo, these riots in the UK are just spiraling. Between the stabbings and the right-wing agitation online, how is this actually happening in 2024?",
+      "original_url": "https://www.nytimes.com/2026/06/11/world/europe/northern-ireland-stabbing-immigration.html",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "In the U.K., a Violent Cycle: Hateful Attacks, Right-Wing Agitation and Riots",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-11T18:00:52.708070+00:00"
+    },
+    {
+      "tweet": "Did you see Olivia Rodrigo on Kimmel last night. She's actually everywhere right now.",
+      "original_url": "https://www.billboard.com/music/pop/olivia-rodrigo-national-tv-debut-performance-the-cure-1236270265/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Olivia Rodrigo Hits National TV Debut Performance of ‘The Cure’ on ‘Kimmel’: Watch",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-06-11T11:06:30.924241+00:00"
+    },
+    {
       "tweet": "So apparently they spent a fortune on that World Cup opening in Mexico City. Gotta love how they always have money for fireworks when the actual stadium is crumbling.",
       "original_url": "https://www.aljazeera.com/gallery/2026/6/11/mexico-city-dazzles-as-2026-world-cup-kicks-off-in-style?traffic_source=rss",
       "buzz_score": 75,
@@ -1023,17 +1012,6 @@
       "source": "Men's Health Sex",
       "category": "sex",
       "added_at": "2026-06-11T18:00:52.707897+00:00"
-    },
-    {
-      "tweet": "Did you see Olivia Rodrigo on Kimmel last night. She's actually everywhere right now.",
-      "original_url": "https://www.billboard.com/music/pop/olivia-rodrigo-national-tv-debut-performance-the-cure-1236270265/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Olivia Rodrigo Hits National TV Debut Performance of ‘The Cure’ on ‘Kimmel’: Watch",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-06-11T11:06:30.924241+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1528,
+    "total_posted": 1530,
     "total_collected": 6645
   },
-  "last_posted_at": "2026-06-11T20:41:35.948797+00:00"
+  "last_posted_at": "2026-06-11T22:34:21.014038+00:00"
 }
