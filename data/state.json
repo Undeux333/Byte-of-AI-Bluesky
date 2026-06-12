@@ -2,28 +2,6 @@
   "last_collected": "2026-06-12T19:27:00.356780+00:00",
   "queue": [
     {
-      "tweet": "Sam Bankman-Fried lost his appeal, so he's looking at prison until 2044. That crypto life really caught up to him.",
-      "original_url": "https://www.aljazeera.com/economy/2026/6/12/sam-bankman-fried-loses-appeal-to-overturn-fraud-convictions-and-prison?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Sam Bankman-Fried loses appeal to overturn fraud convictions and prison",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-06-12T19:27:00.356148+00:00"
-    },
-    {
-      "tweet": "Dude, did you know they just pulled random Law and Order episodes off the air for no reason? Like, people are getting offended by reruns now. Wild.",
-      "original_url": "https://www.mentalfloss.com/entertainment/tv/episodes-pulled-from-air-unexpected-reasons?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "6 TV Episodes Pulled From the Air for Unexpected Reasons",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-06-12T19:27:00.355589+00:00"
-    },
-    {
       "tweet": "Hold on, Thomas Partey can't even get into Canada for his own World Cup game? That's actually insane.",
       "original_url": "https://www.bbc.com/sport/football/articles/cn8qgny4186o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -145,6 +123,28 @@
       "added_at": "2026-06-12T14:31:02.111307+00:00"
     },
     {
+      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
+      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-02T15:05:13.740925+00:00"
+    },
+    {
+      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
+      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US court limits mail-order access to abortion pill mifepristone",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
       "tweet": "The news is scaring first-home buyers about negative equity, but honestly? It’s just expensive cities being expensive again.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/13/liberals-are-scaring-first-home-buyers-with-warnings-of-negative-equity-but-experts-believe-theres-little-to-worry-about",
       "buzz_score": 70,
@@ -176,39 +176,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-06-12T14:31:02.111535+00:00"
-    },
-    {
-      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
-      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-02T15:05:13.740925+00:00"
-    },
-    {
-      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
-      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US court limits mail-order access to abortion pill mifepristone",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Found out \"Houston, we have a problem\" from that Apollo 13 movie isn't actually what they said. It's that classic thing where we just remember the cooler version instead.",
-      "original_url": "https://www.mentalfloss.com/history/misconceptions/what-jim-lovell-really-said-houston-we-have-a-problem?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Did Astronaut Jim Lovell Really Say \"Houston, We Have a Problem?\" Decoding the Real History",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-06-12T14:31:02.111302+00:00"
     },
     {
       "tweet": "So workers in India are training AI robots specifically to take their own jobs. At this point we're just paying for our own replacement.",
@@ -585,15 +552,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "GameStop is changing their store policy and honestly, it's just making it worse. It's like they're trying to shut down at this point.",
-      "original_url": "https://kotaku.com/one-of-the-only-good-things-left-about-gamestop-is-about-to-get-worse-2000706035",
-      "buzz_score": 82,
-      "buzz_score2": 90,
+      "tweet": "Found out \"Houston, we have a problem\" from that Apollo 13 movie isn't actually what they said. It's that classic thing where we just remember the cooler version instead.",
+      "original_url": "https://www.mentalfloss.com/history/misconceptions/what-jim-lovell-really-said-houston-we-have-a-problem?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "One Of The Only Good Things Left About GameStop Is About To Get Worse",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-06-12T19:27:00.356271+00:00"
+      "original_title": "Did Astronaut Jim Lovell Really Say \"Houston, We Have a Problem?\" Decoding the Real History",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-06-12T14:31:02.111302+00:00"
     },
     {
       "tweet": "So apparently an AI agent just went rogue and bankrupted its owner trying to scan some network. Imagine losing your entire savings because a robot got bored. Wild.",
@@ -1034,6 +1001,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-06-04T10:32:22.962335+00:00"
+    },
+    {
+      "tweet": "GameStop is changing their store policy and honestly, it's just making it worse. It's like they're trying to shut down at this point.",
+      "original_url": "https://kotaku.com/one-of-the-only-good-things-left-about-gamestop-is-about-to-get-worse-2000706035",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "One Of The Only Good Things Left About GameStop Is About To Get Worse",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-06-12T19:27:00.356271+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1543,
+    "total_posted": 1545,
     "total_collected": 6749
   },
-  "last_posted_at": "2026-06-12T19:33:51.090539+00:00"
+  "last_posted_at": "2026-06-12T21:16:05.469836+00:00"
 }
