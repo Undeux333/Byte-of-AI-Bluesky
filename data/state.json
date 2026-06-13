@@ -2,28 +2,6 @@
   "last_collected": "2026-06-13T17:08:34.466514+00:00",
   "queue": [
     {
-      "tweet": "So apparently they're literally peeling Trump's name off the Kennedy Center now. Some things just don't age well.",
-      "original_url": "https://www.bbc.com/news/articles/c5yzd4dgxw4o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump's name removed from Kennedy Center after court order",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-06-13T17:08:34.465492+00:00"
-    },
-    {
-      "tweet": "Trump is basically trying to make MMA a political platform now. It's that kind of move that just feels like a fever dream.",
-      "original_url": "https://www.aljazeera.com/news/2026/6/13/oval-office-octagon-how-trump-turned-combat-sports-into-a-political-weapon?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Oval Office octagon: How Trump turned combat sports into a political weapon",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-06-13T17:08:34.465915+00:00"
-    },
-    {
       "tweet": "George Russell actually put his car on pole for Barcelona. He really needed that one.",
       "original_url": "https://www.bbc.com/sport/formula1/articles/cdr40v6y0j7o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -959,17 +937,6 @@
       "added_at": "2026-06-04T10:32:22.962335+00:00"
     },
     {
-      "tweet": "Did you see James Harden got arrested in Houston? Like, what are you even doing carrying a weapon in your own city right now.",
-      "original_url": "https://www.espn.com/nba/story/_/id/49051311/cavaliers-harden-charged-unlawful-carrying-weapon",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Harden charged with unlawful carrying of weapon",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-06-13T17:08:34.465620+00:00"
-    },
-    {
       "tweet": "Found this article on how to talk to your girl about fantasies, but let’s be real—most of us are keeping that locked in the vault forever.",
       "original_url": "https://sex.cosmopolitan.com/pleasure/advice/g3025/sexual-fantasies/",
       "buzz_score": 80,
@@ -1003,15 +970,15 @@
       "added_at": "2026-06-12T14:31:02.111535+00:00"
     },
     {
-      "tweet": "They're saying that old Godzilla game is gonna compete with GTA 6. I mean, it's definitely a choice.",
-      "original_url": "https://www.polygon.com/godzilla-destroy-all-monsters-melee-preview/",
-      "buzz_score": 75,
+      "tweet": "Did you see James Harden got arrested in Houston? Like, what are you even doing carrying a weapon in your own city right now.",
+      "original_url": "https://www.espn.com/nba/story/_/id/49051311/cavaliers-harden-charged-unlawful-carrying-weapon",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Grand Theft Auto 6 has some good competition in Godzilla: Destroy All Monsters Melee Remastered",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-06-13T17:08:34.466318+00:00"
+      "original_title": "Harden charged with unlawful carrying of weapon",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-06-13T17:08:34.465620+00:00"
     },
     {
       "tweet": "Someone built a daily mini golf game and I already know I'm gonna be obsessed with this.",
@@ -1034,6 +1001,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-06-12T17:25:57.993931+00:00"
+    },
+    {
+      "tweet": "They're saying that old Godzilla game is gonna compete with GTA 6. I mean, it's definitely a choice.",
+      "original_url": "https://www.polygon.com/godzilla-destroy-all-monsters-melee-preview/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Grand Theft Auto 6 has some good competition in Godzilla: Destroy All Monsters Melee Remastered",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-06-13T17:08:34.466318+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1558,
+    "total_posted": 1560,
     "total_collected": 6820
   },
-  "last_posted_at": "2026-06-13T17:17:41.507444+00:00"
+  "last_posted_at": "2026-06-13T18:28:06.247438+00:00"
 }
