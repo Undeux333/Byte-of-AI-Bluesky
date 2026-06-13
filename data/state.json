@@ -2,28 +2,6 @@
   "last_collected": "2026-06-13T19:59:20.623366+00:00",
   "queue": [
     {
-      "tweet": "Did you see Amazon is basically snitching on Anthropic to the feds now. Imagine being the biggest company on earth and still feeling threatened by some lab's code. Petty.",
-      "original_url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-13T19:59:20.622170+00:00"
-    },
-    {
-      "tweet": "Uzi just had that set at Summer Smash and honestly, nobody’s touching his energy. Man's a glitch.",
-      "original_url": "https://www.billboard.com/music/rb-hip-hop/lil-uzi-summer-smash-2026-recap-1236272327/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Lil Uzi Vert Proves They Can’t Be Duplicated With Frenetic Headlining Performance at Summer Smash 2026: ‘New Album on the Way’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-06-13T19:59:20.622183+00:00"
-    },
-    {
       "tweet": "So apparently Trump says the Iran deal is signed Sunday but Tehran says nah. Who's actually running that office right now.",
       "original_url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -79,28 +57,6 @@
       "added_at": "2026-06-13T14:25:32.955694+00:00"
     },
     {
-      "tweet": "Resident Evil Veronica is the most wishlisted thing from the Summer Game Fest. People really love that nostalgia.",
-      "original_url": "https://www.polygon.com/resident-evil-veronica-most-popular-summer-game-fest-game/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Resident Evil Veronica was the most popular announcement at Summer Game Fest",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-06-13T17:08:34.466414+00:00"
-    },
-    {
-      "tweet": "Did you see Folarin Balogun out there? The kid is actually insane, he's basically carrying the USMNT right now.",
-      "original_url": "https://www.espn.com/soccer/story/_/id/49048048/balogun-makes-usmnt-better-including-star-pulisic",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'The kid is insane': Why Folarin Balogun is primed...",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-06-13T14:25:32.955711+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -121,6 +77,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Resident Evil Veronica is the most wishlisted thing from the Summer Game Fest. People really love that nostalgia.",
+      "original_url": "https://www.polygon.com/resident-evil-veronica-most-popular-summer-game-fest-game/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Resident Evil Veronica was the most popular announcement at Summer Game Fest",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-06-13T17:08:34.466414+00:00"
+    },
+    {
+      "tweet": "Did you see Folarin Balogun out there? The kid is actually insane, he's basically carrying the USMNT right now.",
+      "original_url": "https://www.espn.com/soccer/story/_/id/49048048/balogun-makes-usmnt-better-including-star-pulisic",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "'The kid is insane': Why Folarin Balogun is primed...",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-06-13T14:25:32.955711+00:00"
     },
     {
       "tweet": "So workers in India are training AI robots specifically to take their own jobs. At this point we're just paying for our own replacement.",
@@ -981,17 +959,6 @@
       "added_at": "2026-06-04T10:32:22.962335+00:00"
     },
     {
-      "tweet": "Things are actually getting wild in the UK with these protests. Just pure chaos.",
-      "original_url": "https://www.theguardian.com/uk-news/2026/jun/13/far-right-anti-racist-protesters-clash-brighton-liverpool-sheffield-glasgow",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Far-right and anti-racist protesters clash in UK cities after Belfast riots",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-13T19:59:20.622855+00:00"
-    },
-    {
       "tweet": "Found this article on how to talk to your girl about fantasies, but let’s be real—most of us are keeping that locked in the vault forever.",
       "original_url": "https://sex.cosmopolitan.com/pleasure/advice/g3025/sexual-fantasies/",
       "buzz_score": 80,
@@ -1023,6 +990,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-06-12T14:31:02.111535+00:00"
+    },
+    {
+      "tweet": "Things are actually getting wild in the UK with these protests. Just pure chaos.",
+      "original_url": "https://www.theguardian.com/uk-news/2026/jun/13/far-right-anti-racist-protesters-clash-brighton-liverpool-sheffield-glasgow",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Far-right and anti-racist protesters clash in UK cities after Belfast riots",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-13T19:59:20.622855+00:00"
     },
     {
       "tweet": "Evo is struggling to get players this year. Guess the scene's finally cooling off.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1562,
+    "total_posted": 1564,
     "total_collected": 6833
   },
-  "last_posted_at": "2026-06-13T20:06:11.360069+00:00"
+  "last_posted_at": "2026-06-13T21:23:38.566364+00:00"
 }
