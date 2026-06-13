@@ -2,28 +2,6 @@
   "last_collected": "2026-06-13T10:42:14.083246+00:00",
   "queue": [
     {
-      "tweet": "So apparently those Married at First Sight people didn't tell the contestants their husbands had actual criminal records. That’s wild.",
-      "original_url": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-06-13T10:42:14.081333+00:00"
-    },
-    {
-      "tweet": "Apparently reading physical books is actually better for our brains than a screen. We knew that, right.",
-      "original_url": "https://www.psypost.org/neuroscientists-discover-previously-unknown-cognitive-benefits-of-reading-physical-books/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Neuroscientists discover previously unknown cognitive benefits of reading physical books",
-      "source": "PsyPost",
-      "category": "psychology",
-      "added_at": "2026-06-13T10:42:14.082332+00:00"
-    },
-    {
       "tweet": "Someone built a daily mini golf game and I already know I'm gonna be obsessed with this.",
       "original_url": "https://putt.day/",
       "buzz_score": 75,
@@ -915,17 +893,6 @@
       "added_at": "2026-06-04T10:32:22.962335+00:00"
     },
     {
-      "tweet": "So Iran says they’re close to a deal that’ll reopen Hormuz if everyone stops fighting. Are we buying that?",
-      "original_url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-06-13T10:42:14.081812+00:00"
-    },
-    {
       "tweet": "Found this article on how to talk to your girl about fantasies, but let’s be real—most of us are keeping that locked in the vault forever.",
       "original_url": "https://sex.cosmopolitan.com/pleasure/advice/g3025/sexual-fantasies/",
       "buzz_score": 80,
@@ -959,15 +926,15 @@
       "added_at": "2026-06-12T14:31:02.111535+00:00"
     },
     {
-      "tweet": "Did you see the World Cup opening ceremony in LA? Everyone’s there, it’s a total vibe.",
-      "original_url": "https://www.billboard.com/lists/2026-world-cup-usa-opening-ceremony-best-moments-katy-perry/",
-      "buzz_score": 75,
+      "tweet": "So Iran says they’re close to a deal that’ll reopen Hormuz if everyone stops fighting. Are we buying that?",
+      "original_url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Katy Perry, LISA, Anitta & More at 2026 World Cup USA Opening Ceremony: Best Moments From Inside L.A. Stadium",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-06-13T10:42:14.081339+00:00"
+      "original_title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-06-13T10:42:14.081812+00:00"
     },
     {
       "tweet": "Judge just extended the block on that massive 1.8 billion dollar fund. Nobody even knows what it's for, they just know it's suspicious as hell.",
@@ -1023,6 +990,17 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-06-12T14:31:02.111302+00:00"
+    },
+    {
+      "tweet": "Did you see the World Cup opening ceremony in LA? Everyone’s there, it’s a total vibe.",
+      "original_url": "https://www.billboard.com/lists/2026-world-cup-usa-opening-ceremony-best-moments-katy-perry/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Katy Perry, LISA, Anitta & More at 2026 World Cup USA Opening Ceremony: Best Moments From Inside L.A. Stadium",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-06-13T10:42:14.081339+00:00"
     },
     {
       "tweet": "Did you see the USMNT game? They actually looked like they knew what they were doing for once. Finally.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1552,
+    "total_posted": 1554,
     "total_collected": 6797
   },
-  "last_posted_at": "2026-06-13T10:47:35.487169+00:00"
+  "last_posted_at": "2026-06-13T12:19:41.970370+00:00"
 }
