@@ -354,17 +354,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Someone built a daily mini golf game and I already know I'm gonna be obsessed with this.",
-      "original_url": "https://putt.day/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Show HN: Putt.day a daily mini golf game",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-13T08:16:16.471337+00:00"
-    },
-    {
       "tweet": "Trump's back to claiming a deal with Iran is close after he already said he was gonna strike. Are we doing this or not",
       "original_url": "https://www.nytimes.com/live/2026/06/11/world/iran-war-trump-us-israel",
       "buzz_score": 88,
@@ -915,15 +904,15 @@
       "added_at": "2026-06-04T10:32:22.962335+00:00"
     },
     {
-      "tweet": "People are actually paying that much for World Cup tickets? Like, how is that even real.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/fans-reveal-how-much-they-paid-for-world-cup-tickets?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
+      "tweet": "Someone built a daily mini golf game and I already know I'm gonna be obsessed with this.",
+      "original_url": "https://putt.day/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Fans reveal how much they paid for World Cup tickets",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-06-13T14:25:32.955969+00:00"
+      "original_title": "Show HN: Putt.day a daily mini golf game",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-06-13T08:16:16.471337+00:00"
     },
     {
       "tweet": "Found this article on how to talk to your girl about fantasies, but let’s be real—most of us are keeping that locked in the vault forever.",
@@ -959,26 +948,15 @@
       "added_at": "2026-06-12T14:31:02.111535+00:00"
     },
     {
-      "tweet": "There's this new app called Footy Addicts that helps guys find games in London just so they aren't lonely. Honestly kinda nice.",
-      "original_url": "https://www.theguardian.com/society/2026/jun/13/football-app-building-friendships-london-footy-addicts",
-      "buzz_score": 75,
+      "tweet": "People are actually paying that much for World Cup tickets? Like, how is that even real.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/fans-reveal-how-much-they-paid-for-world-cup-tickets?traffic_source=rss",
+      "buzz_score": 80,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "‘You make people a bit happier’: the football app building friendships in London",
-      "source": "The Guardian",
+      "original_title": "Fans reveal how much they paid for World Cup tickets",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-06-13T14:25:32.956082+00:00"
-    },
-    {
-      "tweet": "Did you know the cops actually shut down the Beatles’ final show? They literally had to pull the plug while they were playing. Man.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/beatles-final-performance-shut-down-police?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Why The Beatles' Final Performance Was Shut Down by Police",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-06-13T14:25:32.955701+00:00"
+      "added_at": "2026-06-13T14:25:32.955969+00:00"
     },
     {
       "tweet": "Judge just extended the block on that massive 1.8 billion dollar fund. Nobody even knows what it's for, they just know it's suspicious as hell.",
@@ -1034,6 +1012,28 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-06-12T14:31:02.111302+00:00"
+    },
+    {
+      "tweet": "There's this new app called Footy Addicts that helps guys find games in London just so they aren't lonely. Honestly kinda nice.",
+      "original_url": "https://www.theguardian.com/society/2026/jun/13/football-app-building-friendships-london-footy-addicts",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘You make people a bit happier’: the football app building friendships in London",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-13T14:25:32.956082+00:00"
+    },
+    {
+      "tweet": "Did you know the cops actually shut down the Beatles’ final show? They literally had to pull the plug while they were playing. Man.",
+      "original_url": "https://www.mentalfloss.com/entertainment/music/beatles-final-performance-shut-down-police?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Why The Beatles' Final Performance Was Shut Down by Police",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-06-13T14:25:32.955701+00:00"
     }
   ],
   "seen_urls": [
