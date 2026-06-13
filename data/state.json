@@ -2,28 +2,6 @@
   "last_collected": "2026-06-13T22:19:22.656881+00:00",
   "queue": [
     {
-      "tweet": "West Indies literally beat New Zealand with one ball left. Absolutely wild.",
-      "original_url": "https://www.bbc.com/sport/cricket/articles/c932q90l4lpo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "West Indies beat holders New Zealand in thriller",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-06-13T22:19:22.656242+00:00"
-    },
-    {
-      "tweet": "Found a way to get a local coding agent running on my Mac today. Finally, I can stop doing the boring part of my job while I'm actually at work.",
-      "original_url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "How to setup a local coding agent on macOS",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-13T22:19:22.656070+00:00"
-    },
-    {
       "tweet": "So apparently Trump says the Iran deal is signed Sunday but Tehran says nah. Who's actually running that office right now.",
       "original_url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -66,39 +44,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "George Russell actually put his car on pole for Barcelona. He really needed that one.",
-      "original_url": "https://www.bbc.com/sport/formula1/articles/cdr40v6y0j7o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Russell beats Hamilton to Barcelona pole",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-06-13T17:08:34.465818+00:00"
-    },
-    {
-      "tweet": "Did you see that map of World Cup winners? Only eight countries in history have actually won the thing. Man, the rest of the world is just playing for second place.",
-      "original_url": "https://www.mentalfloss.com/geography/maps/countries-most-world-cup-titles?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Countries With the Most World Cup Titles, Mapped (Only 2 Continents Are Represented)",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-06-13T17:08:34.465487+00:00"
-    },
-    {
-      "tweet": "Dude, scientists are using CRISPR to literally shred cancer cells now. Like, actually just deleting the bad stuff. Wild.",
-      "original_url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-13T14:25:32.955694+00:00"
     },
     {
       "tweet": "So workers in India are training AI robots specifically to take their own jobs. At this point we're just paying for our own replacement.",
@@ -409,37 +354,26 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "So apparently the World Cup match in San Francisco has empty red seats everywhere 'cause people were watching from their phones. That's a bold way to host a global event",
-      "original_url": "https://www.npr.org/2026/06/13/g-s1-128068/bay-area-world-cup-empty-red-seats-levis-stadium",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "As Bay Area hosts World Cup, empty red seats are everywhere at Levi's Stadium",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-06-13T22:19:22.656076+00:00"
-    },
-    {
-      "tweet": "Resident Evil Veronica is the most wishlisted thing from the Summer Game Fest. People really love that nostalgia.",
-      "original_url": "https://www.polygon.com/resident-evil-veronica-most-popular-summer-game-fest-game/",
-      "buzz_score": 70,
+      "tweet": "George Russell actually put his car on pole for Barcelona. He really needed that one.",
+      "original_url": "https://www.bbc.com/sport/formula1/articles/cdr40v6y0j7o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Resident Evil Veronica was the most popular announcement at Summer Game Fest",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-06-13T17:08:34.466414+00:00"
-    },
-    {
-      "tweet": "Did you see Folarin Balogun out there? The kid is actually insane, he's basically carrying the USMNT right now.",
-      "original_url": "https://www.espn.com/soccer/story/_/id/49048048/balogun-makes-usmnt-better-including-star-pulisic",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'The kid is insane': Why Folarin Balogun is primed...",
-      "source": "ESPN",
+      "original_title": "Russell beats Hamilton to Barcelona pole",
+      "source": "BBC Sport",
       "category": "sports",
-      "added_at": "2026-06-13T14:25:32.955711+00:00"
+      "added_at": "2026-06-13T17:08:34.465818+00:00"
+    },
+    {
+      "tweet": "Did you see that map of World Cup winners? Only eight countries in history have actually won the thing. Man, the rest of the world is just playing for second place.",
+      "original_url": "https://www.mentalfloss.com/geography/maps/countries-most-world-cup-titles?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Countries With the Most World Cup Titles, Mapped (Only 2 Continents Are Represented)",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-06-13T17:08:34.465487+00:00"
     },
     {
       "tweet": "Trump's back to claiming a deal with Iran is close after he already said he was gonna strike. Are we doing this or not",
@@ -506,6 +440,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Dude, scientists are using CRISPR to literally shred cancer cells now. Like, actually just deleting the bad stuff. Wild.",
+      "original_url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-06-13T14:25:32.955694+00:00"
     },
     {
       "tweet": "Yo, science just found a way for CRISPR to basically shred cancer cells that were supposed to be undruggable. Like, it's just gone.",
@@ -992,26 +937,37 @@
       "added_at": "2026-06-04T10:32:22.962335+00:00"
     },
     {
-      "tweet": "So they're making that old ET book sequel official canon now. Like, who asked for this?",
-      "original_url": "https://www.polygon.com/et-sequel-book/",
-      "buzz_score": 80,
+      "tweet": "So apparently the World Cup match in San Francisco has empty red seats everywhere 'cause people were watching from their phones. That's a bold way to host a global event",
+      "original_url": "https://www.npr.org/2026/06/13/g-s1-128068/bay-area-world-cup-empty-red-seats-levis-stadium",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Steven Spielberg forgotten E.T. sequel is officially canon, but should it be?",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-06-13T22:19:22.656369+00:00"
+      "original_title": "As Bay Area hosts World Cup, empty red seats are everywhere at Levi's Stadium",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-06-13T22:19:22.656076+00:00"
     },
     {
-      "tweet": "Switzerland just let Qatar tie it up in stoppage time for their first ever World Cup point. That's just Swiss things",
-      "original_url": "https://www.bbc.com/sport/football/videos/ckg80ym83j5o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
+      "tweet": "Resident Evil Veronica is the most wishlisted thing from the Summer Game Fest. People really love that nostalgia.",
+      "original_url": "https://www.polygon.com/resident-evil-veronica-most-popular-summer-game-fest-game/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Switzerland stunned by late Qatar equaliser",
-      "source": "BBC Sport",
+      "original_title": "Resident Evil Veronica was the most popular announcement at Summer Game Fest",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-06-13T17:08:34.466414+00:00"
+    },
+    {
+      "tweet": "Did you see Folarin Balogun out there? The kid is actually insane, he's basically carrying the USMNT right now.",
+      "original_url": "https://www.espn.com/soccer/story/_/id/49048048/balogun-makes-usmnt-better-including-star-pulisic",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "'The kid is insane': Why Folarin Balogun is primed...",
+      "source": "ESPN",
       "category": "sports",
-      "added_at": "2026-06-13T22:19:22.656084+00:00"
+      "added_at": "2026-06-13T14:25:32.955711+00:00"
     },
     {
       "tweet": "Found this article on how to talk to your girl about fantasies, but let’s be real—most of us are keeping that locked in the vault forever.",
@@ -1034,6 +990,28 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-06-12T14:31:02.112306+00:00"
+    },
+    {
+      "tweet": "So they're making that old ET book sequel official canon now. Like, who asked for this?",
+      "original_url": "https://www.polygon.com/et-sequel-book/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Steven Spielberg forgotten E.T. sequel is officially canon, but should it be?",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-06-13T22:19:22.656369+00:00"
+    },
+    {
+      "tweet": "Switzerland just let Qatar tie it up in stoppage time for their first ever World Cup point. That's just Swiss things",
+      "original_url": "https://www.bbc.com/sport/football/videos/ckg80ym83j5o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Switzerland stunned by late Qatar equaliser",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-06-13T22:19:22.656084+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1566,
+    "total_posted": 1568,
     "total_collected": 6843
   },
-  "last_posted_at": "2026-06-13T22:25:08.923598+00:00"
+  "last_posted_at": "2026-06-13T23:44:46.862206+00:00"
 }
