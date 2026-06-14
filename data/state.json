@@ -2,17 +2,6 @@
   "last_collected": "2026-06-14T14:27:43.980933+00:00",
   "queue": [
     {
-      "tweet": "Man, I just went down a rabbit hole on frame perfect gaming tricks. People spend literally years just to save one single frame.",
-      "original_url": "https://tonsky.me/blog/every-frame-perfect/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Every Frame Perfect",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-14T14:27:43.979042+00:00"
-    },
-    {
       "tweet": "Dude, did you see this? Scientists are using CRISPR to literally shred cancer cells, even the ones they thought were undruggable. That's actually insane.",
       "original_url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
       "buzz_score": 90,
@@ -132,50 +121,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Did you see that in Pakistan? Police just opened fire on a car and killed a nine-year-old. Straight up nightmare.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jun/14/australian-girl-killed-pakistan-punjab-province-reportedly-shot-dead-by-police-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australian girl killed in Pakistan after reportedly being shot by police",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-14T06:40:34.142469+00:00"
-    },
-    {
-      "tweet": "Germany and Japan are out here rearming again, 80 years later. History is just repeating itself in real time.",
-      "original_url": "https://www.nytimes.com/2026/06/14/world/europe/germany-japan-rearmament-military.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Germany and Japan Are Rearming Again, 80 Years After World War II",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-14T06:40:34.141822+00:00"
-    },
-    {
-      "tweet": "Dude, did you see that video of the valet trying to drive that Honda Civic? He had absolutely no idea how to find the reverse gear. Stalled it like three times.",
-      "original_url": "https://juniperspring.org/posts/honda-evil-valet/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Honda Civics and the Evil Valet",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-14T06:40:34.141529+00:00"
-    },
-    {
-      "tweet": "Did you see that escalation in Beirut? We're supposedly finalizing peace agreements while everyone's still actively blowing stuff up.",
-      "original_url": "https://www.nytimes.com/2026/06/14/world/middleeast/israel-strikes-beirut-hezbollah.html",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-14T14:27:43.979327+00:00"
     },
     {
       "tweet": "So workers in India are training AI robots specifically to take their own jobs. At this point we're just paying for our own replacement.",
@@ -486,39 +431,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Apparently an Israeli firm called BlackCore was meddling in the New York and Scotland votes. Can’t even trust a local election anymore.",
-      "original_url": "https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-14T06:40:34.143092+00:00"
-    },
-    {
-      "tweet": "Scotland finally got a World Cup win after 36 years. Just took John McGinn to get it done.",
-      "original_url": "https://www.bbc.com/sport/football/videos/cvgq4j59rw1o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "McGinn fires Scotland to first World Cup win for 36 years",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-06-14T06:40:34.142221+00:00"
-    },
-    {
-      "tweet": "Japan is running out of royals so they’re just gonna adopt distant male relatives now. Wild way to keep a family tree going.",
-      "original_url": "https://www.nytimes.com/2026/06/14/world/asia/japan-royal-family-adoption-male.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Japan Is Running Out of Royals. Are More Men the Answer?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-14T06:40:34.141693+00:00"
-    },
-    {
       "tweet": "Trump's back to claiming a deal with Iran is close after he already said he was gonna strike. Are we doing this or not",
       "original_url": "https://www.nytimes.com/live/2026/06/11/world/iran-war-trump-us-israel",
       "buzz_score": 88,
@@ -585,15 +497,48 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "They took Trump's name off the Kennedy Center today. Guess that building's gonna look a little empty.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/donald-trumps-name-removed-from-kennedy-center?traffic_source=rss",
-      "buzz_score": 82,
+      "tweet": "Did you see that in Pakistan? Police just opened fire on a car and killed a nine-year-old. Straight up nightmare.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jun/14/australian-girl-killed-pakistan-punjab-province-reportedly-shot-dead-by-police-ntwnfb",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australian girl killed in Pakistan after reportedly being shot by police",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-14T06:40:34.142469+00:00"
+    },
+    {
+      "tweet": "Germany and Japan are out here rearming again, 80 years later. History is just repeating itself in real time.",
+      "original_url": "https://www.nytimes.com/2026/06/14/world/europe/germany-japan-rearmament-military.html",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Germany and Japan Are Rearming Again, 80 Years After World War II",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-14T06:40:34.141822+00:00"
+    },
+    {
+      "tweet": "Dude, did you see that video of the valet trying to drive that Honda Civic? He had absolutely no idea how to find the reverse gear. Stalled it like three times.",
+      "original_url": "https://juniperspring.org/posts/honda-evil-valet/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Honda Civics and the Evil Valet",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-06-14T06:40:34.141529+00:00"
+    },
+    {
+      "tweet": "Did you see that escalation in Beirut? We're supposedly finalizing peace agreements while everyone's still actively blowing stuff up.",
+      "original_url": "https://www.nytimes.com/2026/06/14/world/middleeast/israel-strikes-beirut-hezbollah.html",
+      "buzz_score": 88,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Donald Trump’s name removed from Kennedy Center",
-      "source": "Al Jazeera",
+      "original_title": "Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-06-14T14:27:43.979572+00:00"
+      "added_at": "2026-06-14T14:27:43.979327+00:00"
     },
     {
       "tweet": "Ticketmaster just about gave half of New York a heart attack over those Knicks tickets. They're just messing with us now.",
@@ -1034,6 +979,50 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-06-05T13:40:25.804909+00:00"
+    },
+    {
+      "tweet": "Apparently an Israeli firm called BlackCore was meddling in the New York and Scotland votes. Can’t even trust a local election anymore.",
+      "original_url": "https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-06-14T06:40:34.143092+00:00"
+    },
+    {
+      "tweet": "Scotland finally got a World Cup win after 36 years. Just took John McGinn to get it done.",
+      "original_url": "https://www.bbc.com/sport/football/videos/cvgq4j59rw1o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "McGinn fires Scotland to first World Cup win for 36 years",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-06-14T06:40:34.142221+00:00"
+    },
+    {
+      "tweet": "Japan is running out of royals so they’re just gonna adopt distant male relatives now. Wild way to keep a family tree going.",
+      "original_url": "https://www.nytimes.com/2026/06/14/world/asia/japan-royal-family-adoption-male.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Japan Is Running Out of Royals. Are More Men the Answer?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-14T06:40:34.141693+00:00"
+    },
+    {
+      "tweet": "They took Trump's name off the Kennedy Center today. Guess that building's gonna look a little empty.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/donald-trumps-name-removed-from-kennedy-center?traffic_source=rss",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Donald Trump’s name removed from Kennedy Center",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-06-14T14:27:43.979572+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1577,
+    "total_posted": 1578,
     "total_collected": 6923
   },
-  "last_posted_at": "2026-06-14T14:34:15.803040+00:00"
+  "last_posted_at": "2026-06-14T16:02:31.390590+00:00"
 }
