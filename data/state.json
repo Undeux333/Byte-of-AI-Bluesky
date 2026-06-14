@@ -2,28 +2,6 @@
   "last_collected": "2026-06-14T20:15:30.498265+00:00",
   "queue": [
     {
-      "tweet": "Did you know F1 drivers have to get weighed in their full race gear right when they hop out of the car? Man, they literally sweat off pounds during a race. Wild.",
-      "original_url": "https://www.mentalfloss.com/sports/why-f1-drivers-weighed-full-gear-after-race?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why F1 Drivers Get Weighed in Full Gear Immediately After Every Race",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-06-14T20:15:30.496735+00:00"
-    },
-    {
-      "tweet": "Dude, did you see Oliver Tree died in a helicopter crash? I was literally just watching his stuff last week. Total bummer.",
-      "original_url": "https://www.billboard.com/music/music-news/oliver-tree-death-helicopter-crash-brazil-dies-1236272641/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Oliver Tree, ‘Life Goes On’ and ‘Miss You’ Singer, Dies in Helicopter Crash",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-06-14T20:15:30.496744+00:00"
-    },
-    {
       "tweet": "Swiss voters just shut down that plan to cap the population. Even they know that's not how anything works.",
       "original_url": "https://www.theguardian.com/world/2026/jun/14/switzerland-referendum-population-cap-svp",
       "buzz_score": 80,
@@ -57,28 +35,6 @@
       "added_at": "2026-06-14T17:44:44.247567+00:00"
     },
     {
-      "tweet": "Dude, did you see this? Scientists are using CRISPR to literally shred cancer cells, even the ones they thought were undruggable. That's actually insane.",
-      "original_url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-14T12:14:05.962826+00:00"
-    },
-    {
-      "tweet": "Saw this list of cheap versions that work better than the brand name stuff. We really just pay for the logo half the time.",
-      "original_url": "https://www.bustle.com/style/cheap-versions-of-expensive-products-that-work-so-well-they-deserve-6-stars",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "65 Cheap Versions Of Expensive Products That Work So Well, They Deserve 6 Stars",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-06-14T14:27:43.980195+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -101,26 +57,26 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Capcom is on such a streak right now. Sometimes I feel like they're the only ones who actually know what they're doing.",
-      "original_url": "https://kotaku.com/capcoms-president-explains-the-secret-behind-the-resident-evil-makers-recent-winning-streak-2000706227",
-      "buzz_score": 75,
+      "tweet": "Dude, did you see this? Scientists are using CRISPR to literally shred cancer cells, even the ones they thought were undruggable. That's actually insane.",
+      "original_url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+      "buzz_score": 90,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Capcom’s President Explains The Secret Behind The Resident Evil Maker’s Recent Winning Streak",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-06-14T14:27:43.979831+00:00"
+      "original_title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-06-14T12:14:05.962826+00:00"
     },
     {
-      "tweet": "A tourist train just flipped during a tapas festival in Cártama. That's a rough way to end a lunch.",
-      "original_url": "https://www.bbc.com/news/articles/c14yn10jzyeo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
+      "tweet": "Saw this list of cheap versions that work better than the brand name stuff. We really just pay for the logo half the time.",
+      "original_url": "https://www.bustle.com/style/cheap-versions-of-expensive-products-that-work-so-well-they-deserve-6-stars",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Tourist train overturns and injures 17 during Cártama tapas festival",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-06-14T14:27:43.979202+00:00"
+      "original_title": "65 Cheap Versions Of Expensive Products That Work So Well, They Deserve 6 Stars",
+      "source": "Bustle",
+      "category": "sex",
+      "added_at": "2026-06-14T14:27:43.980195+00:00"
     },
     {
       "tweet": "Bro, the Knicks actually won the chip. Still feels like a glitch in the matrix",
@@ -442,17 +398,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "China might have actually accessed that Anthropic Mythos tech. We're just handing the keys over now, apparently.",
-      "original_url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "China may have accessed Mythos",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-06-14T20:15:30.497281+00:00"
-    },
-    {
       "tweet": "Trump's back to claiming a deal with Iran is close after he already said he was gonna strike. Are we doing this or not",
       "original_url": "https://www.nytimes.com/live/2026/06/11/world/iran-war-trump-us-israel",
       "buzz_score": 88,
@@ -519,26 +464,26 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Turns out those ancient Chianti vines were white grapes all along. Everything is a lie.",
-      "original_url": "https://www.theguardian.com/world/2026/jun/14/dna-from-2000-year-old-grape-seeds-points-to-origins-of-modern-winemaking",
-      "buzz_score": 70,
+      "tweet": "Capcom is on such a streak right now. Sometimes I feel like they're the only ones who actually know what they're doing.",
+      "original_url": "https://kotaku.com/capcoms-president-explains-the-secret-behind-the-resident-evil-makers-recent-winning-streak-2000706227",
+      "buzz_score": 75,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "DNA from 2,000-year-old grape seeds points to origins of modern winemaking",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-14T14:27:43.980804+00:00"
+      "original_title": "Capcom’s President Explains The Secret Behind The Resident Evil Maker’s Recent Winning Streak",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-06-14T14:27:43.979831+00:00"
     },
     {
-      "tweet": "Thinking about getting that new Sonos speaker for the kitchen. At this point, I just need stuff that works.",
-      "original_url": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/",
-      "buzz_score": 70,
+      "tweet": "A tourist train just flipped during a tapas festival in Cártama. That's a rough way to end a lunch.",
+      "original_url": "https://www.bbc.com/news/articles/c14yn10jzyeo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "The new Sonos Play has become my go-to desk and kitchen speaker",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-06-14T14:27:43.980556+00:00"
+      "original_title": "Tourist train overturns and injures 17 during Cártama tapas festival",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-06-14T14:27:43.979202+00:00"
     },
     {
       "tweet": "Science says cutting out all sugar actually messes your body up more. We're just built to need the snacks",
@@ -1023,6 +968,39 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-06-05T13:40:25.804909+00:00"
+    },
+    {
+      "tweet": "China might have actually accessed that Anthropic Mythos tech. We're just handing the keys over now, apparently.",
+      "original_url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "China may have accessed Mythos",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-06-14T20:15:30.497281+00:00"
+    },
+    {
+      "tweet": "Turns out those ancient Chianti vines were white grapes all along. Everything is a lie.",
+      "original_url": "https://www.theguardian.com/world/2026/jun/14/dna-from-2000-year-old-grape-seeds-points-to-origins-of-modern-winemaking",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "DNA from 2,000-year-old grape seeds points to origins of modern winemaking",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-14T14:27:43.980804+00:00"
+    },
+    {
+      "tweet": "Thinking about getting that new Sonos speaker for the kitchen. At this point, I just need stuff that works.",
+      "original_url": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The new Sonos Play has become my go-to desk and kitchen speaker",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-06-14T14:27:43.980556+00:00"
     },
     {
       "tweet": "Passengers is trending on Netflix again. We really love hate-watching terrible movies on a Friday night, huh.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1584,
+    "total_posted": 1586,
     "total_collected": 6955
   },
-  "last_posted_at": "2026-06-14T20:23:34.101793+00:00"
+  "last_posted_at": "2026-06-14T21:46:20.182583+00:00"
 }
