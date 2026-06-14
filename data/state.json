@@ -2,28 +2,6 @@
   "last_collected": "2026-06-14T17:44:44.248055+00:00",
   "queue": [
     {
-      "tweet": "Jalen Brunson literally had to come out and tell Swifties to chill on Monica McNutt. People need to get a grip.",
-      "original_url": "https://www.billboard.com/music/music-news/jalen-brunson-defends-monica-mcnutt-taylor-swift-backlash-1236272630/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Jalen Brunson Defends Monica McNutt After Taylor Swift Backlash: ‘Cut Her Some Slack’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-06-14T17:44:44.246400+00:00"
-    },
-    {
-      "tweet": "Did you hear Amazon CEO Andy Jassy was chatting with officials to get them to crack down on Anthropic models. Big guys just hate competition.",
-      "original_url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-14T17:44:44.246388+00:00"
-    },
-    {
       "tweet": "Swiss voters just shut down that plan to cap the population. Even they know that's not how anything works.",
       "original_url": "https://www.theguardian.com/world/2026/jun/14/switzerland-referendum-population-cap-svp",
       "buzz_score": 80,
@@ -101,6 +79,28 @@
       "added_at": "2026-06-14T14:27:43.979202+00:00"
     },
     {
+      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
+      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-02T15:05:13.740925+00:00"
+    },
+    {
+      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
+      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US court limits mail-order access to abortion pill mifepristone",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
       "tweet": "Bro, the Knicks actually won the chip. Still feels like a glitch in the matrix",
       "original_url": "https://hypebeast.com/2026/6/new-york-knicks-2026-nba-champions-defeating-san-antonio-spurs",
       "buzz_score": 90,
@@ -132,50 +132,6 @@
       "source": "TechCrunch",
       "category": "tech",
       "added_at": "2026-06-14T14:27:43.980556+00:00"
-    },
-    {
-      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
-      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-02T15:05:13.740925+00:00"
-    },
-    {
-      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
-      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US court limits mail-order access to abortion pill mifepristone",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Science says cutting out all sugar actually messes your body up more. We're just built to need the snacks",
-      "original_url": "https://www.sciencedaily.com/releases/2026/06/260614011843.htm",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Scientists found a surprising problem with sugar-free diets",
-      "source": "ScienceDaily",
-      "category": "science",
-      "added_at": "2026-06-14T10:07:24.401973+00:00"
-    },
-    {
-      "tweet": "Samara Weaving just admitted she hauls her PS5 across the globe for shoots. I mean, I get it, hotel TVs aren't gonna play RDR2.",
-      "original_url": "https://www.polygon.com/samara-weaving-shelf-quest/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Samara Weaving reveals she hauls her PS5 literally around the world for movies",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-06-14T12:14:05.963374+00:00"
     },
     {
       "tweet": "So workers in India are training AI robots specifically to take their own jobs. At this point we're just paying for our own replacement.",
@@ -486,6 +442,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Science says cutting out all sugar actually messes your body up more. We're just built to need the snacks",
+      "original_url": "https://www.sciencedaily.com/releases/2026/06/260614011843.htm",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Scientists found a surprising problem with sugar-free diets",
+      "source": "ScienceDaily",
+      "category": "science",
+      "added_at": "2026-06-14T10:07:24.401973+00:00"
+    },
+    {
       "tweet": "Trump's back to claiming a deal with Iran is close after he already said he was gonna strike. Are we doing this or not",
       "original_url": "https://www.nytimes.com/live/2026/06/11/world/iran-war-trump-us-israel",
       "buzz_score": 88,
@@ -550,6 +517,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Samara Weaving just admitted she hauls her PS5 across the globe for shoots. I mean, I get it, hotel TVs aren't gonna play RDR2.",
+      "original_url": "https://www.polygon.com/samara-weaving-shelf-quest/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Samara Weaving reveals she hauls her PS5 literally around the world for movies",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-06-14T12:14:05.963374+00:00"
     },
     {
       "tweet": "Did you see that in Pakistan? Police just opened fire on a car and killed a nine-year-old. Straight up nightmare.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1580,
+    "total_posted": 1582,
     "total_collected": 6939
   },
-  "last_posted_at": "2026-06-14T17:51:23.689762+00:00"
+  "last_posted_at": "2026-06-14T19:06:16.711536+00:00"
 }
