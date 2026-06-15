@@ -2,50 +2,6 @@
   "last_collected": "2026-06-14T22:49:36.712272+00:00",
   "queue": [
     {
-      "tweet": "Japan just fought back twice to tie the Netherlands in that World Cup opener. Unreal",
-      "original_url": "https://www.bbc.com/sport/football/videos/cnv9dzl62g6o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Japan come from behind twice to draw with Netherlands",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-06-14T22:49:36.711661+00:00"
-    },
-    {
-      "tweet": "Did you see that G7 protest in Geneva. Police brought out the water cannons and tear gas just to handle a crowd. Absolutely unhinged",
-      "original_url": "https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Protesters clash with police ahead of G7 summit in Geneva",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-06-14T22:49:36.711650+00:00"
-    },
-    {
-      "tweet": "Swiss voters just shut down that plan to cap the population. Even they know that's not how anything works.",
-      "original_url": "https://www.theguardian.com/world/2026/jun/14/switzerland-referendum-population-cap-svp",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Swiss voters appear to reject proposal to cap population at 10 million",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-14T17:44:44.247062+00:00"
-    },
-    {
-      "tweet": "Turns out everyone isn't actually using AI for everything. We're all just mostly using it to fix emails and pretend we're busy.",
-      "original_url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "No, everyone is not using AI for everything",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-14T17:44:44.246394+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -68,15 +24,26 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Every AI startup is trying to chase that SpaceX IPO wave. They're just desperate for an exit.",
-      "original_url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-      "buzz_score": 75,
+      "tweet": "Swiss voters just shut down that plan to cap the population. Even they know that's not how anything works.",
+      "original_url": "https://www.theguardian.com/world/2026/jun/14/switzerland-referendum-population-cap-svp",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "As AI companies race to go public, who else is along for the ride?",
-      "source": "TechCrunch",
+      "original_title": "Swiss voters appear to reject proposal to cap population at 10 million",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-14T17:44:44.247062+00:00"
+    },
+    {
+      "tweet": "Turns out everyone isn't actually using AI for everything. We're all just mostly using it to fix emails and pretend we're busy.",
+      "original_url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "No, everyone is not using AI for everything",
+      "source": "HackerNews",
       "category": "tech",
-      "added_at": "2026-06-14T17:44:44.247567+00:00"
+      "added_at": "2026-06-14T17:44:44.246394+00:00"
     },
     {
       "tweet": "Dude, did you see this? Scientists are using CRISPR to literally shred cancer cells, even the ones they thought were undruggable. That's actually insane.",
@@ -409,26 +376,15 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Starmer wants to ban social media for kids under 16 including chat features in games. How are they even gonna enforce that",
-      "original_url": "https://www.theguardian.com/uk-news/2026/jun/14/starmer-to-announce-australia-plus-ban-on-social-media-for-under-16s",
-      "buzz_score": 85,
-      "buzz_score2": 90,
+      "tweet": "Every AI startup is trying to chase that SpaceX IPO wave. They're just desperate for an exit.",
+      "original_url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Starmer to announce ‘Australia plus’ ban on social media for under-16s",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-14T22:49:36.711979+00:00"
-    },
-    {
-      "tweet": "They're actually selling Hello Kitty bobbleheads after the Knicks won the title. Absolute chaos",
-      "original_url": "https://www.billboard.com/culture/product-recommendations/find-new-york-knicks-brunson-bobblehead-doll-merch-buy-online-1236272643/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "From Jalen Brunson to Hello Kitty, Score These Official New York Knicks Championship Bobbleheads Online",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-06-14T22:49:36.711660+00:00"
+      "original_title": "As AI companies race to go public, who else is along for the ride?",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-06-14T17:44:44.247567+00:00"
     },
     {
       "tweet": "Trump's back to claiming a deal with Iran is close after he already said he was gonna strike. Are we doing this or not",
@@ -495,17 +451,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Saw this list of cheap versions that work better than the brand name stuff. We really just pay for the logo half the time.",
-      "original_url": "https://www.bustle.com/style/cheap-versions-of-expensive-products-that-work-so-well-they-deserve-6-stars",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "65 Cheap Versions Of Expensive Products That Work So Well, They Deserve 6 Stars",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-06-14T14:27:43.980195+00:00"
     },
     {
       "tweet": "Science says cutting out all sugar actually messes your body up more. We're just built to need the snacks",
@@ -990,6 +935,39 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-06-05T13:40:25.804909+00:00"
+    },
+    {
+      "tweet": "Starmer wants to ban social media for kids under 16 including chat features in games. How are they even gonna enforce that",
+      "original_url": "https://www.theguardian.com/uk-news/2026/jun/14/starmer-to-announce-australia-plus-ban-on-social-media-for-under-16s",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Starmer to announce ‘Australia plus’ ban on social media for under-16s",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-14T22:49:36.711979+00:00"
+    },
+    {
+      "tweet": "They're actually selling Hello Kitty bobbleheads after the Knicks won the title. Absolute chaos",
+      "original_url": "https://www.billboard.com/culture/product-recommendations/find-new-york-knicks-brunson-bobblehead-doll-merch-buy-online-1236272643/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "From Jalen Brunson to Hello Kitty, Score These Official New York Knicks Championship Bobbleheads Online",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-06-14T22:49:36.711660+00:00"
+    },
+    {
+      "tweet": "Saw this list of cheap versions that work better than the brand name stuff. We really just pay for the logo half the time.",
+      "original_url": "https://www.bustle.com/style/cheap-versions-of-expensive-products-that-work-so-well-they-deserve-6-stars",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "65 Cheap Versions Of Expensive Products That Work So Well, They Deserve 6 Stars",
+      "source": "Bustle",
+      "category": "sex",
+      "added_at": "2026-06-14T14:27:43.980195+00:00"
     },
     {
       "tweet": "So they put that referee Clement Turpin on the England game even after Tuchel called him a Grade E official. How does that make sense",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1588,
+    "total_posted": 1590,
     "total_collected": 6965
   },
-  "last_posted_at": "2026-06-14T22:57:42.478746+00:00"
+  "last_posted_at": "2026-06-15T00:09:33.897633+00:00"
 }
