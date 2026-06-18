@@ -2,28 +2,6 @@
   "last_collected": "2026-06-18T21:29:17.767340+00:00",
   "queue": [
     {
-      "tweet": "Epic spent eight years trying to change the game just to end up copying Steam anyway. Total waste of time.",
-      "original_url": "https://kotaku.com/epics-big-plan-for-improving-its-pc-storefront-8-years-later-is-copying-steam-2000708197",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Epic’s Big Plan For Improving Its PC Storefront 8 Years Later Is Copying Steam",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-06-18T21:29:17.766829+00:00"
-    },
-    {
-      "tweet": "They caught that suspect from the consulate shooting at the Toronto airport. Finally",
-      "original_url": "https://www.nytimes.com/2026/06/18/world/canada/toronto-police-shooting-suspect-arrest.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "19-Year-Old Suspect in Consulate Shooting Arrested at Toronto Airport",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-18T19:15:33.644408+00:00"
-    },
-    {
       "tweet": "Ukraine is hitting Moscow with drones now. Moscow's supposed to be the fortress, not the target range.",
       "original_url": "https://www.npr.org/2026/06/18/g-s1-128782/moscow-ukraine-drone-attack-russia-oil-refinery",
       "buzz_score": 85,
@@ -66,17 +44,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Wait, Shehbaz Sharif just signed a US-Iran deal to end the war? I feel like I'm missing a massive chunk of the news cycle right now",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/pakistan-signs-us-iran-mou?traffic_source=rss",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Pakistan signs US-Iran MoU",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-06-18T19:15:33.644020+00:00"
     },
     {
       "tweet": "Hockey Night in Canada isn’t gonna be free to watch anymore. Are they really trying to kill the last ritual we had left?",
@@ -418,50 +385,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "They got Manny Jacinto for the next season of Fallout. That show is gonna be good.",
-      "original_url": "https://www.polygon.com/fallout-season-3-cast-manny-jacinto-emily-mortimer-thomasin-mckenzie/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fallout season 3 adds 3 to cast, including Manny Jacinto",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-06-18T21:29:17.767210+00:00"
-    },
-    {
-      "tweet": "Some company wants 1,800 bucks for a new PC handheld. Who is buying that.",
-      "original_url": "https://kotaku.com/company-reveals-new-pc-gaming-handheld-is-1800-and-says-it-will-be-a-tough-year-for-gamers-2000708162",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Company Reveals New PC Gaming Handheld Is $1,800 And Says It Will Be A ‘Tough Year’ For Gamers",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-06-18T21:29:17.766957+00:00"
-    },
-    {
-      "tweet": "Parastoo Ahmadi got sentenced to 74 lashes just for singing without a hijab in Iran. Absolute insanity.",
-      "original_url": "https://www.theguardian.com/world/2026/jun/18/iran-parastoo-ahmadi-74-lashes-singing-without-hijab",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iranian star Parastoo Ahmadi reportedly sentenced to 74 lashes for singing without hijab",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-18T21:29:17.766701+00:00"
-    },
-    {
-      "tweet": "Look at the fallout from that Iran deal. Trump gave them basically everything they asked for. That’s just a total L.",
-      "original_url": "https://www.nytimes.com/2026/06/18/world/iran-trump-us-ukraine-moscow-world-cup.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fallout From the Iran Deal",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-18T21:29:17.765790+00:00"
     },
     {
       "tweet": "Trump's back to claiming a deal with Iran is close after he already said he was gonna strike. Are we doing this or not",
@@ -959,6 +882,94 @@
       "added_at": "2026-06-11T11:06:30.923204+00:00"
     },
     {
+      "tweet": "Wait, Shehbaz Sharif just signed a US-Iran deal to end the war? I feel like I'm missing a massive chunk of the news cycle right now",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/pakistan-signs-us-iran-mou?traffic_source=rss",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Pakistan signs US-Iran MoU",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-06-18T19:15:33.644020+00:00"
+    },
+    {
+      "tweet": "They got Manny Jacinto for the next season of Fallout. That show is gonna be good.",
+      "original_url": "https://www.polygon.com/fallout-season-3-cast-manny-jacinto-emily-mortimer-thomasin-mckenzie/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Fallout season 3 adds 3 to cast, including Manny Jacinto",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-06-18T21:29:17.767210+00:00"
+    },
+    {
+      "tweet": "Some company wants 1,800 bucks for a new PC handheld. Who is buying that.",
+      "original_url": "https://kotaku.com/company-reveals-new-pc-gaming-handheld-is-1800-and-says-it-will-be-a-tough-year-for-gamers-2000708162",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Company Reveals New PC Gaming Handheld Is $1,800 And Says It Will Be A ‘Tough Year’ For Gamers",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-06-18T21:29:17.766957+00:00"
+    },
+    {
+      "tweet": "Parastoo Ahmadi got sentenced to 74 lashes just for singing without a hijab in Iran. Absolute insanity.",
+      "original_url": "https://www.theguardian.com/world/2026/jun/18/iran-parastoo-ahmadi-74-lashes-singing-without-hijab",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iranian star Parastoo Ahmadi reportedly sentenced to 74 lashes for singing without hijab",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-18T21:29:17.766701+00:00"
+    },
+    {
+      "tweet": "Look at the fallout from that Iran deal. Trump gave them basically everything they asked for. That’s just a total L.",
+      "original_url": "https://www.nytimes.com/2026/06/18/world/iran-trump-us-ukraine-moscow-world-cup.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Fallout From the Iran Deal",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-18T21:29:17.765790+00:00"
+    },
+    {
+      "tweet": "NASA picked Eric Schmidt's rocket company for Mars. SpaceX is gonna have a serious problem.",
+      "original_url": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-06-18T06:27:51.476336+00:00"
+    },
+    {
+      "tweet": "They found new phone evidence in that freebirth inquest and now everything is on hold. That's a mess.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jun/18/freebirth-death-melbourne-influencer-phone-evidence-inquest-ntwnfb",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Inquest into Melbourne influencer’s death following freebirth halted after new phone evidence discovered",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-18T06:27:51.475699+00:00"
+    },
+    {
+      "tweet": "They ranked every single team after the first game and the defending champs aren't even top ten. Absolute chaos.",
+      "original_url": "https://www.bbc.com/sport/football/articles/cn4djkzxygjo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "From one to 48 - every World Cup team ranked after first game",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-06-18T06:27:51.475321+00:00"
+    },
+    {
       "tweet": "Australia is sending another 100 million to Ukraine for the war. Seems like that’s never ending.",
       "original_url": "https://www.theguardian.com/australia-news/live/2026/jun/19/news-live-australia-ukraine-jim-chalmers-anthony-albanese-capital-gains-tax-concessions-business-pauline-hanson-one-nation-ntwnfb",
       "buzz_score": 80,
@@ -1001,39 +1012,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-06-18T19:15:33.643860+00:00"
-    },
-    {
-      "tweet": "NASA picked Eric Schmidt's rocket company for Mars. SpaceX is gonna have a serious problem.",
-      "original_url": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-06-18T06:27:51.476336+00:00"
-    },
-    {
-      "tweet": "They found new phone evidence in that freebirth inquest and now everything is on hold. That's a mess.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jun/18/freebirth-death-melbourne-influencer-phone-evidence-inquest-ntwnfb",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Inquest into Melbourne influencer’s death following freebirth halted after new phone evidence discovered",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-18T06:27:51.475699+00:00"
-    },
-    {
-      "tweet": "They ranked every single team after the first game and the defending champs aren't even top ten. Absolute chaos.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cn4djkzxygjo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "From one to 48 - every World Cup team ranked after first game",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-06-18T06:27:51.475321+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1639,
+    "total_posted": 1641,
     "total_collected": 7324
   },
-  "last_posted_at": "2026-06-18T21:36:21.342331+00:00"
+  "last_posted_at": "2026-06-18T23:26:46.661472+00:00"
 }
