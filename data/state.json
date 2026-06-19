@@ -2,28 +2,6 @@
   "last_collected": "2026-06-19T16:58:12.344048+00:00",
   "queue": [
     {
-      "tweet": "Man, I just read that Steve Jobs was repeating the same two words over and over right at the end. Makes you wonder if we’re all just thinking about one thing when it’s over.",
-      "original_url": "https://www.mentalfloss.com/history/steve-jobs-last-words?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Steve Jobs' Last Words Were Both Simple and Profound",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-06-19T16:58:12.342692+00:00"
-    },
-    {
-      "tweet": "Hold on, the U.S.-Iran talks got canceled and DHS is just gonna drop a facial recognition app for the cops. Figures.",
-      "original_url": "https://www.npr.org/2026/06/19/g-s1-129076/up-first-newsletter-vice-president-vance-iran-agreement-obama-presidential-center-judicial-system-dhs-facial-recognition",
-      "buzz_score": 92,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US-Iran talks in Switzerland canceled. And, DHS to give police facial recognition app",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-06-19T11:45:41.911142+00:00"
-    },
-    {
       "tweet": "KPMG literally leaked Optus info and spied on their own whistleblower. Some ethics.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/19/kpmg-scandal-optus-leak-as-whistleblower-claims-ntwnfb",
       "buzz_score": 90,
@@ -55,28 +33,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "The UK literally denied a visa to the journalist of the year so he couldn't collect his award. Imagine being that petty.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/sudanese-journalist-denied-uk-visa-to-collect-prestigious-award?traffic_source=rss",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Sudanese journalist denied UK visa to collect prestigious award",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-06-19T14:29:41.790726+00:00"
-    },
-    {
-      "tweet": "Did you hear Pulisic might miss the Australia match because he got kicked in the calf. If we lose him over that, I'm honestly done.",
-      "original_url": "https://www.npr.org/2026/06/19/nx-s1-5863602/2026-fifa-world-cup-usmnt-australia",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "The U.S. may face Australia in the World Cup without star Christian Pulisic",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-06-19T14:29:41.789806+00:00"
     },
     {
       "tweet": "Hockey Night in Canada isn’t gonna be free to watch anymore. Are they really trying to kill the last ritual we had left?",
@@ -937,48 +893,26 @@
       "added_at": "2026-06-11T11:06:30.923204+00:00"
     },
     {
-      "tweet": "Andy Burnham actually crushed that election. Starmer’s probably sweating.",
-      "original_url": "https://www.nytimes.com/2026/06/19/world/europe/andy-burnham-election-uk-starmer-makerfield.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
+      "tweet": "The UK literally denied a visa to the journalist of the year so he couldn't collect his award. Imagine being that petty.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/sudanese-journalist-denied-uk-visa-to-collect-prestigious-award?traffic_source=rss",
+      "buzz_score": 82,
+      "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "Burnham’s Stunning Victory in Makerfield Election May Trigger Starmer’s Last Stand",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-19T16:58:12.343953+00:00"
-    },
-    {
-      "tweet": "Macron’s warning about a second heatwave in Europe. We’re all just gonna be sweating the whole summer.",
-      "original_url": "https://www.theguardian.com/world/2026/jun/19/macron-calls-for-vigilance-as-western-europe-faces-second-heatwave-of-year",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Macron calls for vigilance as western Europe faces second heatwave of year",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-19T16:58:12.343297+00:00"
-    },
-    {
-      "tweet": "China’s basically forcing AI into the classroom now. Can’t imagine the homework load.",
-      "original_url": "https://www.aljazeera.com/video/the-take-2/2026/6/19/how-is-china-using-ai-in-the-classroom?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "How is China using AI in the classroom?",
+      "original_title": "Sudanese journalist denied UK visa to collect prestigious award",
       "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-06-19T16:58:12.343107+00:00"
+      "added_at": "2026-06-19T14:29:41.790726+00:00"
     },
     {
-      "tweet": "So apparently Trump just lied about Meloni begging for a photo op. Man, the fact that he's out here inventing side quests for heads of state is wild.",
-      "original_url": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
+      "tweet": "Did you hear Pulisic might miss the Australia match because he got kicked in the calf. If we lose him over that, I'm honestly done.",
+      "original_url": "https://www.npr.org/2026/06/19/nx-s1-5863602/2026-fifa-world-cup-usmnt-australia",
+      "buzz_score": 82,
+      "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
-      "source": "BBC World",
+      "original_title": "The U.S. may face Australia in the World Cup without star Christian Pulisic",
+      "source": "NPR News",
       "category": "world",
-      "added_at": "2026-06-19T14:29:41.789803+00:00"
+      "added_at": "2026-06-19T14:29:41.789806+00:00"
     },
     {
       "tweet": "Just read that post from Oliver Tree’s mom. Makes you realize that no matter how much shit we talk, everyone’s just someone’s kid at the end of the day.",
@@ -1023,6 +957,50 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-06-18T06:27:51.475321+00:00"
+    },
+    {
+      "tweet": "Andy Burnham actually crushed that election. Starmer’s probably sweating.",
+      "original_url": "https://www.nytimes.com/2026/06/19/world/europe/andy-burnham-election-uk-starmer-makerfield.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Burnham’s Stunning Victory in Makerfield Election May Trigger Starmer’s Last Stand",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-19T16:58:12.343953+00:00"
+    },
+    {
+      "tweet": "Macron’s warning about a second heatwave in Europe. We’re all just gonna be sweating the whole summer.",
+      "original_url": "https://www.theguardian.com/world/2026/jun/19/macron-calls-for-vigilance-as-western-europe-faces-second-heatwave-of-year",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Macron calls for vigilance as western Europe faces second heatwave of year",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-19T16:58:12.343297+00:00"
+    },
+    {
+      "tweet": "China’s basically forcing AI into the classroom now. Can’t imagine the homework load.",
+      "original_url": "https://www.aljazeera.com/video/the-take-2/2026/6/19/how-is-china-using-ai-in-the-classroom?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "How is China using AI in the classroom?",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-06-19T16:58:12.343107+00:00"
+    },
+    {
+      "tweet": "So apparently Trump just lied about Meloni begging for a photo op. Man, the fact that he's out here inventing side quests for heads of state is wild.",
+      "original_url": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-06-19T14:29:41.789803+00:00"
     },
     {
       "tweet": "Israel's actually slamming the EU over that apartheid comment now. Things are getting pretty heated between them.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1651,
+    "total_posted": 1653,
     "total_collected": 7390
   },
-  "last_posted_at": "2026-06-19T17:05:42.064304+00:00"
+  "last_posted_at": "2026-06-19T19:00:37.683215+00:00"
 }
