@@ -2,17 +2,6 @@
   "last_collected": "2026-06-19T22:35:28.361315+00:00",
   "queue": [
     {
-      "tweet": "Did you see that new bill trying to stop the government from pressuring companies to silence speech online. Finally.",
-      "original_url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "A new bill takes aim at government pressure to silence lawful online speech",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-19T22:35:28.359777+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -374,17 +363,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "Compulsion Games made a massive hit with South of Midnight and Microsoft might still shut them down. Classic.",
-      "original_url": "https://www.polygon.com/south-of-midnight-compulsion-games-xbox-game-pass-recommendation/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "South of Midnight is one of Xbox Game Pass’ best games, yet that’s not enough to save its developer",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-06-19T22:35:28.360233+00:00"
     },
     {
       "tweet": "Trump's back to claiming a deal with Iran is close after he already said he was gonna strike. Are we doing this or not",
@@ -904,37 +882,15 @@
       "added_at": "2026-06-11T11:06:30.923204+00:00"
     },
     {
-      "tweet": "Just read about how tipping started as a wealthy European thing before it hit us. Makes way too much sense.",
-      "original_url": "https://www.mentalfloss.com/history/tipping-culture-origins?utm_source=RSS",
-      "buzz_score": 80,
+      "tweet": "Compulsion Games made a massive hit with South of Midnight and Microsoft might still shut them down. Classic.",
+      "original_url": "https://www.polygon.com/south-of-midnight-compulsion-games-xbox-game-pass-recommendation/",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "The Troubling Origins of Tipping Culture",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-06-19T22:35:28.360515+00:00"
-    },
-    {
-      "tweet": "That small town in Georgia actually fought off that massive ICE detention center. People power, man.",
-      "original_url": "https://www.theguardian.com/us-news/2026/jun/19/georgia-federal-immigration-detention-center",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Revolt in small Georgia town appears to ward off ICE detention center",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-19T22:35:28.359965+00:00"
-    },
-    {
-      "tweet": "Lebanon is officially the weak link in that whole U.S.-Iran deal. Always seems to be that way.",
-      "original_url": "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Lebanon Emerges as Weak Link in U.S.-Iran Deal to End War",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-19T22:35:28.359786+00:00"
+      "original_title": "South of Midnight is one of Xbox Game Pass’ best games, yet that’s not enough to save its developer",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-06-19T22:35:28.360233+00:00"
     },
     {
       "tweet": "Just read that post from Oliver Tree’s mom. Makes you realize that no matter how much shit we talk, everyone’s just someone’s kid at the end of the day.",
@@ -979,6 +935,39 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-06-18T06:27:51.475321+00:00"
+    },
+    {
+      "tweet": "Just read about how tipping started as a wealthy European thing before it hit us. Makes way too much sense.",
+      "original_url": "https://www.mentalfloss.com/history/tipping-culture-origins?utm_source=RSS",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Troubling Origins of Tipping Culture",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-06-19T22:35:28.360515+00:00"
+    },
+    {
+      "tweet": "That small town in Georgia actually fought off that massive ICE detention center. People power, man.",
+      "original_url": "https://www.theguardian.com/us-news/2026/jun/19/georgia-federal-immigration-detention-center",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Revolt in small Georgia town appears to ward off ICE detention center",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-19T22:35:28.359965+00:00"
+    },
+    {
+      "tweet": "Lebanon is officially the weak link in that whole U.S.-Iran deal. Always seems to be that way.",
+      "original_url": "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Lebanon Emerges as Weak Link in U.S.-Iran Deal to End War",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-19T22:35:28.359786+00:00"
     },
     {
       "tweet": "Aura made a digital photo frame that actually looks like a real print. Finally stopped looking like a cheap tablet.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1656,
+    "total_posted": 1657,
     "total_collected": 7406
   },
-  "last_posted_at": "2026-06-19T22:42:24.480782+00:00"
+  "last_posted_at": "2026-06-19T23:45:16.716637+00:00"
 }
