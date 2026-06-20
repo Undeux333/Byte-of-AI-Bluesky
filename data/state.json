@@ -2,28 +2,6 @@
   "last_collected": "2026-06-20T15:12:19.380127+00:00",
   "queue": [
     {
-      "tweet": "Dude, they're literally fighting in Lebanon hours after the new ceasefire kicked in. Like, do they even talk to each other?",
-      "original_url": "https://www.nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mideast Live Updates: Fighting Persists in Lebanon, Complicating Iran Peace Talks",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-20T13:11:42.424031+00:00"
-    },
-    {
-      "tweet": "Found out Jim Jordan is tied to that group taking dark money from the company running those ICE detention centers. At this point we're just paying for our own outrage.",
-      "original_url": "https://www.theguardian.com/us-news/2026/jun/20/jim-jordan-super-pac-ice-donation",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Trump loyalist Jim Jordan linked to group that received ‘dark money’ from ICE detention contractor",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-20T15:12:19.378343+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -385,28 +363,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "Just read about Steve Jobs' last words. It’s crazy how even the biggest guys on earth just boil it down to basically nothing at the end.",
-      "original_url": "https://www.mentalfloss.com/history/steve-jobs-last-words?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Steve Jobs' Last Words Were Both Simple and Profound",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-06-20T15:12:19.378877+00:00"
-    },
-    {
-      "tweet": "So apparently Spain just banned the PM's wife from leaving the country over that corruption probe. Imagine having to tell your spouse they're grounded by the state. Just wild.",
-      "original_url": "https://www.aljazeera.com/news/2026/6/20/court-bans-spanish-pms-wife-from-leaving-country-amid-corruption-probe?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Court bans Spanish PM’s wife from leaving country amid corruption probe",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-06-20T15:12:19.378340+00:00"
     },
     {
       "tweet": "Trump's back to claiming a deal with Iran is close after he already said he was gonna strike. Are we doing this or not",
@@ -935,6 +891,28 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-06-11T11:06:30.923204+00:00"
+    },
+    {
+      "tweet": "Just read about Steve Jobs' last words. It’s crazy how even the biggest guys on earth just boil it down to basically nothing at the end.",
+      "original_url": "https://www.mentalfloss.com/history/steve-jobs-last-words?utm_source=RSS",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Steve Jobs' Last Words Were Both Simple and Profound",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-06-20T15:12:19.378877+00:00"
+    },
+    {
+      "tweet": "So apparently Spain just banned the PM's wife from leaving the country over that corruption probe. Imagine having to tell your spouse they're grounded by the state. Just wild.",
+      "original_url": "https://www.aljazeera.com/news/2026/6/20/court-bans-spanish-pms-wife-from-leaving-country-amid-corruption-probe?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Court bans Spanish PM’s wife from leaving country amid corruption probe",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-06-20T15:12:19.378340+00:00"
     },
     {
       "tweet": "Hold on, they're actually trying to do a 22-hour non-stop flight from Sydney to London. No amount of movies is worth that.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1669,
+    "total_posted": 1671,
     "total_collected": 7474
   },
-  "last_posted_at": "2026-06-20T15:19:48.264558+00:00"
+  "last_posted_at": "2026-06-20T16:53:20.907573+00:00"
 }
