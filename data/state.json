@@ -2,28 +2,6 @@
   "last_collected": "2026-06-20T21:03:13.357970+00:00",
   "queue": [
     {
-      "tweet": "So they’re actually doing those US-Iran talks in Switzerland on Sunday, right as everything’s hitting the fan. Great timing.",
-      "original_url": "https://www.aljazeera.com/news/2026/6/20/us-iran-talks-to-kick-off-sunday-in-switzerland-says?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US-Iran talks to kick off Sunday in Switzerland, says Pakistan",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-06-20T18:04:16.533156+00:00"
-    },
-    {
-      "tweet": "So apparently Iran’s threatening to shut down the Strait of Hormuz now over everything happening in Lebanon. Like, can we just have one week of normal?",
-      "original_url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-06-20T18:04:16.532871+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -387,28 +365,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "The DOJ is looking at rolling back rights for disabled people now. It’s like we’re actively trying to go backward.",
-      "original_url": "https://www.npr.org/2026/06/20/nx-s1-5865100/doj-memo-trump-disability-civil-rights-institutionalization",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "DOJ memo stokes fear among disability advocates of a return to institutionalization",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-06-20T21:03:13.357600+00:00"
-    },
-    {
-      "tweet": "Pauline Hanson trying to kill paid parental leave is a wild take. Guess she thinks it's still 1950.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jun/21/pauline-hanson-women-working-mothers-paid-parental-leave-childcare-income-gender-gap-economy-one-nation-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Pauline Hanson’s stance on paid parental leave and childcare could turn clock back by decades, economists warn",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-20T21:03:13.356794+00:00"
-    },
-    {
       "tweet": "Trump's back to claiming a deal with Iran is close after he already said he was gonna strike. Are we doing this or not",
       "original_url": "https://www.nytimes.com/live/2026/06/11/world/iran-war-trump-us-israel",
       "buzz_score": 88,
@@ -473,17 +429,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "So the Spanish PM's wife is actually going to trial for corruption now. Turns out being married to power isn't a get out of jail free card after all.",
-      "original_url": "https://www.nytimes.com/2026/06/20/world/europe/gomez-spain-trial-corruption.html",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Wife of Spanish Prime Minister to Stand Trial for Corruption",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-20T21:03:13.356330+00:00"
     },
     {
       "tweet": "Man, Bobby Prince died. That guy literally composed the music for Doom and Duke Nukem back in the day, legendary stuff. Absolute icon.",
@@ -948,15 +893,37 @@
       "added_at": "2026-06-11T11:06:30.923204+00:00"
     },
     {
-      "tweet": "Richard Garriott is trying to sue EA to get Ultima back. Dude is really fighting for his legacy.",
-      "original_url": "https://kotaku.com/richard-garriott-wants-to-take-ultima-back-from-ea-using-some-legal-quirks-2000708685",
-      "buzz_score": 80,
+      "tweet": "The DOJ is looking at rolling back rights for disabled people now. It’s like we’re actively trying to go backward.",
+      "original_url": "https://www.npr.org/2026/06/20/nx-s1-5865100/doj-memo-trump-disability-civil-rights-institutionalization",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Richard Garriott Wants To Take Ultima Back From EA Using Obscure Legal Quirks",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-06-20T21:03:13.357068+00:00"
+      "original_title": "DOJ memo stokes fear among disability advocates of a return to institutionalization",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-06-20T21:03:13.357600+00:00"
+    },
+    {
+      "tweet": "Pauline Hanson trying to kill paid parental leave is a wild take. Guess she thinks it's still 1950.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jun/21/pauline-hanson-women-working-mothers-paid-parental-leave-childcare-income-gender-gap-economy-one-nation-ntwnfb",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Pauline Hanson’s stance on paid parental leave and childcare could turn clock back by decades, economists warn",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-20T21:03:13.356794+00:00"
+    },
+    {
+      "tweet": "So the Spanish PM's wife is actually going to trial for corruption now. Turns out being married to power isn't a get out of jail free card after all.",
+      "original_url": "https://www.nytimes.com/2026/06/20/world/europe/gomez-spain-trial-corruption.html",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Wife of Spanish Prime Minister to Stand Trial for Corruption",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-20T21:03:13.356330+00:00"
     },
     {
       "tweet": "Hold on, they're actually trying to do a 22-hour non-stop flight from Sydney to London. No amount of movies is worth that.",
@@ -1001,6 +968,17 @@
       "source": "TechCrunch",
       "category": "tech",
       "added_at": "2026-06-18T06:27:51.476336+00:00"
+    },
+    {
+      "tweet": "Richard Garriott is trying to sue EA to get Ultima back. Dude is really fighting for his legacy.",
+      "original_url": "https://kotaku.com/richard-garriott-wants-to-take-ultima-back-from-ea-using-some-legal-quirks-2000708685",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Richard Garriott Wants To Take Ultima Back From EA Using Obscure Legal Quirks",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-06-20T21:03:13.357068+00:00"
     },
     {
       "tweet": "Israel and Hezbollah are still going at it, like, how many cease-fires deep are we at this point? That whole thing is just a revolving door.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1677,
+    "total_posted": 1679,
     "total_collected": 7506
   },
-  "last_posted_at": "2026-06-20T21:09:56.140894+00:00"
+  "last_posted_at": "2026-06-20T22:28:04.178215+00:00"
 }
