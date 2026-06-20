@@ -2,28 +2,6 @@
   "last_collected": "2026-06-20T18:04:16.534440+00:00",
   "queue": [
     {
-      "tweet": "Mona Khalil died in that strike in Lebanon. She just stayed on her beach protecting those turtles to the end. That’s rough.",
-      "original_url": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-06-20T18:04:16.534061+00:00"
-    },
-    {
-      "tweet": "Everyone’s saying the new Witcher should be more like the second game. Finally someone said it.",
-      "original_url": "https://www.polygon.com/witcher-4-choices-consequences-witcher-2/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Witcher 4 should take inspiration from the second game, not the third",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-06-20T18:04:16.533685+00:00"
-    },
-    {
       "tweet": "So they’re actually doing those US-Iran talks in Switzerland on Sunday, right as everything’s hitting the fan. Great timing.",
       "original_url": "https://www.aljazeera.com/news/2026/6/20/us-iran-talks-to-kick-off-sunday-in-switzerland-says?traffic_source=rss",
       "buzz_score": 80,
@@ -407,17 +385,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "Israel and Hezbollah are still going at it, like, how many cease-fires deep are we at this point? That whole thing is just a revolving door.",
-      "original_url": "https://www.nytimes.com/2026/06/20/world/middleeast/israel-hezbollah-fighting-cease-fire.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israel and Hezbollah Are Still Fighting, Several Cease-Fires Later",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-20T18:04:16.532873+00:00"
     },
     {
       "tweet": "Trump's back to claiming a deal with Iran is close after he already said he was gonna strike. Are we doing this or not",
@@ -946,6 +913,17 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-06-11T11:06:30.923204+00:00"
+    },
+    {
+      "tweet": "Israel and Hezbollah are still going at it, like, how many cease-fires deep are we at this point? That whole thing is just a revolving door.",
+      "original_url": "https://www.nytimes.com/2026/06/20/world/middleeast/israel-hezbollah-fighting-cease-fire.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Israel and Hezbollah Are Still Fighting, Several Cease-Fires Later",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-20T18:04:16.532873+00:00"
     },
     {
       "tweet": "Hold on, they're actually trying to do a 22-hour non-stop flight from Sydney to London. No amount of movies is worth that.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1673,
+    "total_posted": 1675,
     "total_collected": 7490
   },
-  "last_posted_at": "2026-06-20T18:10:10.335458+00:00"
+  "last_posted_at": "2026-06-20T20:01:26.265983+00:00"
 }
