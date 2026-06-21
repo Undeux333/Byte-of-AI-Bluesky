@@ -2,17 +2,6 @@
   "last_collected": "2026-06-21T10:44:19.763291+00:00",
   "queue": [
     {
-      "tweet": "So apparently the new GPT-5.5 is hallucinating three times more than the old one. We're literally upgrading to be more wrong now.",
-      "original_url": "https://arrowtsx.dev/bigger-models/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-21T10:44:19.761419+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -376,17 +365,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Dude, Travis Kelce is out here playing hype man for Chris Lake in LA while Taylor's off doing her own thing. Just guys being dudes.",
-      "original_url": "https://www.billboard.com/music/music-news/travis-kelce-chris-lake-concert-los-angeles-1236277147/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Travis Kelce Joins Chris Lake, Who Remixed Taylor Swift’s ‘Opalite,’ on Stage in L.A.",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-06-21T02:04:02.161053+00:00"
-    },
-    {
       "tweet": "Trump's back to claiming a deal with Iran is close after he already said he was gonna strike. Are we doing this or not",
       "original_url": "https://www.nytimes.com/live/2026/06/11/world/iran-war-trump-us-israel",
       "buzz_score": 88,
@@ -451,6 +429,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Dude, Travis Kelce is out here playing hype man for Chris Lake in LA while Taylor's off doing her own thing. Just guys being dudes.",
+      "original_url": "https://www.billboard.com/music/music-news/travis-kelce-chris-lake-concert-los-angeles-1236277147/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Travis Kelce Joins Chris Lake, Who Remixed Taylor Swift’s ‘Opalite,’ on Stage in L.A.",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-06-21T02:04:02.161053+00:00"
     },
     {
       "tweet": "Man, Bobby Prince died. That guy literally composed the music for Doom and Duke Nukem back in the day, legendary stuff. Absolute icon.",
@@ -948,28 +937,6 @@
       "added_at": "2026-06-21T02:04:02.161238+00:00"
     },
     {
-      "tweet": "Twenty thousand people just did that ultramarathon in South Africa. Sometimes you just need to run until your problems don't matter.",
-      "original_url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-21T10:44:19.762242+00:00"
-    },
-    {
-      "tweet": "Dude, some former Olympian got popped for vandalizing that reflecting pool, and he's out here saying he was just touching the paint. Classic.",
-      "original_url": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-06-21T10:44:19.761428+00:00"
-    },
-    {
       "tweet": "Sam Levinson is trying to defend how Euphoria depicts OnlyFans, saying it hollows people out. Rich coming from that show.",
       "original_url": "https://deadline.com/2026/06/sam-levinson-defends-euphoria-fairly-critical-onlyfans-1236963341/",
       "buzz_score": 80,
@@ -1001,6 +968,28 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-06-20T23:40:57.902764+00:00"
+    },
+    {
+      "tweet": "Twenty thousand people just did that ultramarathon in South Africa. Sometimes you just need to run until your problems don't matter.",
+      "original_url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-21T10:44:19.762242+00:00"
+    },
+    {
+      "tweet": "Dude, some former Olympian got popped for vandalizing that reflecting pool, and he's out here saying he was just touching the paint. Classic.",
+      "original_url": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-06-21T10:44:19.761428+00:00"
     },
     {
       "tweet": "Wired put out 28 tips for ChatGPT prompts. It's wild that we have to become engineers just to talk to a bot.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1687,
+    "total_posted": 1688,
     "total_collected": 7570
   },
-  "last_posted_at": "2026-06-21T10:49:53.085245+00:00"
+  "last_posted_at": "2026-06-21T12:29:32.452941+00:00"
 }
