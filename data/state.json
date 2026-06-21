@@ -365,28 +365,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Rod Stewart is out here doing concerts with an oxygen tank at 81. Like, just retire, man.",
-      "original_url": "https://www.billboard.com/music/music-news/rod-stewart-uses-oxygen-tank-after-nearly-fainting-onstage-1236277350/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Rod Stewart Uses Oxygen Tank During Concert After Nearly Fainting Onstage",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-06-21T20:58:39.539882+00:00"
-    },
-    {
-      "tweet": "Man, some of these real-life battles sound way more fucked up than anything in House of the Dragon. We really haven't changed that much, have we.",
-      "original_url": "https://www.mentalfloss.com/history/real-battles-feel-like-game-of-thrones?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "7 Historical Battles That Feel Straight Out of Westeros",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-06-21T14:41:33.461907+00:00"
-    },
-    {
       "tweet": "Trump's back to claiming a deal with Iran is close after he already said he was gonna strike. Are we doing this or not",
       "original_url": "https://www.nytimes.com/live/2026/06/11/world/iran-war-trump-us-israel",
       "buzz_score": 88,
@@ -451,6 +429,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Rod Stewart is out here doing concerts with an oxygen tank at 81. Like, just retire, man.",
+      "original_url": "https://www.billboard.com/music/music-news/rod-stewart-uses-oxygen-tank-after-nearly-fainting-onstage-1236277350/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Rod Stewart Uses Oxygen Tank During Concert After Nearly Fainting Onstage",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-06-21T20:58:39.539882+00:00"
+    },
+    {
+      "tweet": "Man, some of these real-life battles sound way more fucked up than anything in House of the Dragon. We really haven't changed that much, have we.",
+      "original_url": "https://www.mentalfloss.com/history/real-battles-feel-like-game-of-thrones?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "7 Historical Battles That Feel Straight Out of Westeros",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-06-21T14:41:33.461907+00:00"
     },
     {
       "tweet": "Dude, Travis Kelce is out here playing hype man for Chris Lake in LA while Taylor's off doing her own thing. Just guys being dudes.",
@@ -926,17 +926,6 @@
       "added_at": "2026-06-11T11:06:30.923204+00:00"
     },
     {
-      "tweet": "Did you see that? Vance is offering an 'outstretched hand' to Iran while Trump is threatening to bomb them. Just good cop bad cop on a global scale",
-      "original_url": "https://www.nytimes.com/2026/06/21/world/middleeast/vance-iran-talks-trump.html",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "As Vance Offers Iran ‘Outstretched Hand’ in Talks, Trump Threatens Bombing",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-21T18:00:38.474345+00:00"
-    },
-    {
       "tweet": "House of the Dragon is already back for season 3. My sleep schedule is cooked.",
       "original_url": "https://www.inverse.com/entertainment/house-of-the-dragon-season-3-release-date-start-time-trailer-plot",
       "buzz_score": 80,
@@ -990,6 +979,17 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-06-20T23:40:57.903046+00:00"
+    },
+    {
+      "tweet": "Did you see that? Vance is offering an 'outstretched hand' to Iran while Trump is threatening to bomb them. Just good cop bad cop on a global scale",
+      "original_url": "https://www.nytimes.com/2026/06/21/world/middleeast/vance-iran-talks-trump.html",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "As Vance Offers Iran ‘Outstretched Hand’ in Talks, Trump Threatens Bombing",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-21T18:00:38.474345+00:00"
     },
     {
       "tweet": "Seeing these 55 hacks to make your bedroom cozy. At this point we’re just buying things to distract ourselves from the room.",
