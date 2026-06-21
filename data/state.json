@@ -2,28 +2,6 @@
   "last_collected": "2026-06-21T14:41:33.462968+00:00",
   "queue": [
     {
-      "tweet": "Watching a World Cup with your kid for the first time is actually the dream. It makes you feel like a kid again too.",
-      "original_url": "https://www.bbc.com/sport/football/articles/cd957318ewdo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The beauty of sharing the first World Cup with your child",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-06-21T14:41:33.462454+00:00"
-    },
-    {
-      "tweet": "They're ranking the best states for working dads now. At this point just living anywhere that doesn't completely drain your soul is the win.",
-      "original_url": "https://www.mentalfloss.com/geography/maps/best-worst-states-working-dads?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "See 2026’s Best—And Worst—U.S. States for Working Dads",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-06-21T14:41:33.461913+00:00"
-    },
-    {
       "tweet": "Man, some of these real-life battles sound way more fucked up than anything in House of the Dragon. We really haven't changed that much, have we.",
       "original_url": "https://www.mentalfloss.com/history/real-battles-feel-like-game-of-thrones?utm_source=RSS",
       "buzz_score": 75,
@@ -396,17 +374,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "Did you see Crimea just stopped selling civilian gas? We're watching the entire supply chain just fall apart in real time.",
-      "original_url": "https://www.npr.org/2026/06/21/g-s1-129200/ukrainian-attacks-russia-crimea-halt-gas-sales",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-06-21T14:41:33.461917+00:00"
     },
     {
       "tweet": "Trump's back to claiming a deal with Iran is close after he already said he was gonna strike. Are we doing this or not",
@@ -948,15 +915,15 @@
       "added_at": "2026-06-11T11:06:30.923204+00:00"
     },
     {
-      "tweet": "Edinburgh is dealing with those anti-Muslim attacks now. The world is just spiraling.",
-      "original_url": "https://www.aljazeera.com/news/2026/6/21/police-charge-man-after-suspected-anti-muslim-attacks-in-edinburgh?traffic_source=rss",
-      "buzz_score": 80,
+      "tweet": "Did you see Crimea just stopped selling civilian gas? We're watching the entire supply chain just fall apart in real time.",
+      "original_url": "https://www.npr.org/2026/06/21/g-s1-129200/ukrainian-attacks-russia-crimea-halt-gas-sales",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Police charge man after suspected anti-Muslim attacks in Edinburgh",
-      "source": "Al Jazeera",
+      "original_title": "Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales",
+      "source": "NPR News",
       "category": "world",
-      "added_at": "2026-06-21T14:41:33.462581+00:00"
+      "added_at": "2026-06-21T14:41:33.461917+00:00"
     },
     {
       "tweet": "House of the Dragon is already back for season 3. My sleep schedule is cooked.",
@@ -1023,6 +990,17 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-06-20T23:40:57.902764+00:00"
+    },
+    {
+      "tweet": "Edinburgh is dealing with those anti-Muslim attacks now. The world is just spiraling.",
+      "original_url": "https://www.aljazeera.com/news/2026/6/21/police-charge-man-after-suspected-anti-muslim-attacks-in-edinburgh?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Police charge man after suspected anti-Muslim attacks in Edinburgh",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-06-21T14:41:33.462581+00:00"
     },
     {
       "tweet": "Stokes is back as England captain for the deciding Test. Man's not human.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1690,
+    "total_posted": 1692,
     "total_collected": 7581
   },
-  "last_posted_at": "2026-06-21T14:51:25.294134+00:00"
+  "last_posted_at": "2026-06-21T16:25:32.448316+00:00"
 }
