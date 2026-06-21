@@ -2,28 +2,6 @@
   "last_collected": "2026-06-21T18:00:38.475885+00:00",
   "queue": [
     {
-      "tweet": "Yo, have you seen Beyond All Reason? It's basically a free version of Total Annihilation and I've been losing my entire weekend to it. Dangerous.",
-      "original_url": "https://www.beyondallreason.info",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-21T18:00:38.474335+00:00"
-    },
-    {
-      "tweet": "Man, some of these real-life battles sound way more fucked up than anything in House of the Dragon. We really haven't changed that much, have we.",
-      "original_url": "https://www.mentalfloss.com/history/real-battles-feel-like-game-of-thrones?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "7 Historical Battles That Feel Straight Out of Westeros",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-06-21T14:41:33.461907+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -46,15 +24,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Did you see that? Vance is offering an 'outstretched hand' to Iran while Trump is threatening to bomb them. Just good cop bad cop on a global scale",
-      "original_url": "https://www.nytimes.com/2026/06/21/world/middleeast/vance-iran-talks-trump.html",
-      "buzz_score": 90,
-      "buzz_score2": 90,
+      "tweet": "Man, some of these real-life battles sound way more fucked up than anything in House of the Dragon. We really haven't changed that much, have we.",
+      "original_url": "https://www.mentalfloss.com/history/real-battles-feel-like-game-of-thrones?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "As Vance Offers Iran ‘Outstretched Hand’ in Talks, Trump Threatens Bombing",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-21T18:00:38.474345+00:00"
+      "original_title": "7 Historical Battles That Feel Straight Out of Westeros",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-06-21T14:41:33.461907+00:00"
     },
     {
       "tweet": "Hockey Night in Canada isn’t gonna be free to watch anymore. Are they really trying to kill the last ritual we had left?",
@@ -398,17 +376,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "So Iran says the Strait of Hormuz is closed and the US says it's open. Pretty sure we're all just guessing at this point",
-      "original_url": "https://www.aljazeera.com/video/inside-story/2026/6/21/whats-next-in-the-strait-of-hormuz-crisis?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "What’s next in the Strait of Hormuz crisis?",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-06-21T18:00:38.474769+00:00"
-    },
-    {
       "tweet": "Trump's back to claiming a deal with Iran is close after he already said he was gonna strike. Are we doing this or not",
       "original_url": "https://www.nytimes.com/live/2026/06/11/world/iran-war-trump-us-israel",
       "buzz_score": 88,
@@ -473,6 +440,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Did you see that? Vance is offering an 'outstretched hand' to Iran while Trump is threatening to bomb them. Just good cop bad cop on a global scale",
+      "original_url": "https://www.nytimes.com/2026/06/21/world/middleeast/vance-iran-talks-trump.html",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "As Vance Offers Iran ‘Outstretched Hand’ in Talks, Trump Threatens Bombing",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-21T18:00:38.474345+00:00"
     },
     {
       "tweet": "Dude, Travis Kelce is out here playing hype man for Chris Lake in LA while Taylor's off doing her own thing. Just guys being dudes.",
@@ -948,37 +926,15 @@
       "added_at": "2026-06-11T11:06:30.923204+00:00"
     },
     {
-      "tweet": "Did you see Butter Baby set up a 50-foot chrome giant in the Jakarta airport? People are literally just living in a movie set now",
-      "original_url": "https://hypebeast.com/2026/6/butter-baby-cgk-airport-indonesia-opening-recap-sculpture-info",
-      "buzz_score": 80,
+      "tweet": "So Iran says the Strait of Hormuz is closed and the US says it's open. Pretty sure we're all just guessing at this point",
+      "original_url": "https://www.aljazeera.com/video/inside-story/2026/6/21/whats-next-in-the-strait-of-hormuz-crisis?traffic_source=rss",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Fake Flight Cancellations, Flying Donuts, and a 50-Foot Chrome Giant: Inside Butter Baby's Jakarta Airport Takeover",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-06-21T18:00:38.475262+00:00"
-    },
-    {
-      "tweet": "Labor is approving new mines while giving coal companies billions in diesel subsidies. That's just a wild way to balance the budget",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jun/22/mining-tax-credit-scheme-coal-companies-subsidies-taxpayer-refunds-diesel",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Coal companies to reap billions more in taxpayer diesel subsidies as Labor approves new mining",
-      "source": "The Guardian",
+      "original_title": "What’s next in the Strait of Hormuz crisis?",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-06-21T18:00:38.474896+00:00"
-    },
-    {
-      "tweet": "Man, that news out of the Goose show at MSG is just brutal. Can't imagine being at a concert and having that happen.",
-      "original_url": "https://www.billboard.com/music/music-news/fan-dies-falling-balcony-madison-square-garden-concert-1236277324/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fan Dies After Falling From Balcony During Goose Concert at Madison Square Garden",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-06-21T18:00:38.474347+00:00"
+      "added_at": "2026-06-21T18:00:38.474769+00:00"
     },
     {
       "tweet": "House of the Dragon is already back for season 3. My sleep schedule is cooked.",
@@ -1034,6 +990,39 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-06-20T23:40:57.903046+00:00"
+    },
+    {
+      "tweet": "Did you see Butter Baby set up a 50-foot chrome giant in the Jakarta airport? People are literally just living in a movie set now",
+      "original_url": "https://hypebeast.com/2026/6/butter-baby-cgk-airport-indonesia-opening-recap-sculpture-info",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Fake Flight Cancellations, Flying Donuts, and a 50-Foot Chrome Giant: Inside Butter Baby's Jakarta Airport Takeover",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-06-21T18:00:38.475262+00:00"
+    },
+    {
+      "tweet": "Labor is approving new mines while giving coal companies billions in diesel subsidies. That's just a wild way to balance the budget",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jun/22/mining-tax-credit-scheme-coal-companies-subsidies-taxpayer-refunds-diesel",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Coal companies to reap billions more in taxpayer diesel subsidies as Labor approves new mining",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-21T18:00:38.474896+00:00"
+    },
+    {
+      "tweet": "Man, that news out of the Goose show at MSG is just brutal. Can't imagine being at a concert and having that happen.",
+      "original_url": "https://www.billboard.com/music/music-news/fan-dies-falling-balcony-madison-square-garden-concert-1236277324/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Fan Dies After Falling From Balcony During Goose Concert at Madison Square Garden",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-06-21T18:00:38.474347+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1694,
+    "total_posted": 1695,
     "total_collected": 7597
   },
-  "last_posted_at": "2026-06-21T18:06:03.705271+00:00"
+  "last_posted_at": "2026-06-21T19:43:09.273073+00:00"
 }
