@@ -2,50 +2,6 @@
   "last_collected": "2026-06-22T20:47:26.814731+00:00",
   "queue": [
     {
-      "tweet": "Man, that explosion in Qatar was wild. Just a technical accident, huh.",
-      "original_url": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "At least 13 killed and dozens injured after Qatar gas explosion",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-06-22T17:59:40.028914+00:00"
-    },
-    {
-      "tweet": "Dude, did you know Cyndi Lauper actually wrote that SpongeBob track? Sometimes you don't realize how much of your childhood was just one person doing everything.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/songs-didnt-know-cyndi-lauper-wrote?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "5 Songs You May Not Know Cyndi Lauper Wrote",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-06-22T17:59:40.028907+00:00"
-    },
-    {
-      "tweet": "Did you see Messi just broke the all-time World Cup scoring record? Dude's not even human.",
-      "original_url": "https://www.npr.org/2026/06/22/nx-s1-5866649/2026-world-cup-fifa-lionel-messi-argentina-scoring-record",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Magnificent Messi makes history, breaks all-time World Cup scoring record",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-06-22T20:47:26.812890+00:00"
-    },
-    {
-      "tweet": "China just hit ten US firms with export bans after that Pentagon blacklist thing. We're really just speedrunning this trade war.",
-      "original_url": "https://www.aljazeera.com/news/2026/6/22/china-adds-10-us-firms-including-rare-earth-miner-to-export-control-list?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "China adds 10 US firms, including rare-earth miner, to export control list",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-06-22T13:16:38.246936+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -68,26 +24,26 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Hold on, the Supreme Court just turned down that case from Texas even with the experts saying the guy has an intellectual disability. That's just wild.",
-      "original_url": "https://www.npr.org/2026/06/22/nx-s1-5866741/supreme-court-texas-death-penalty",
-      "buzz_score": 90,
+      "tweet": "Did you see Messi just broke the all-time World Cup scoring record? Dude's not even human.",
+      "original_url": "https://www.npr.org/2026/06/22/nx-s1-5866649/2026-world-cup-fifa-lionel-messi-argentina-scoring-record",
+      "buzz_score": 95,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Supreme Court declines to hear Texas man's intellectual disability case in capital case",
+      "original_title": "Magnificent Messi makes history, breaks all-time World Cup scoring record",
       "source": "NPR News",
       "category": "world",
-      "added_at": "2026-06-22T20:47:26.812887+00:00"
+      "added_at": "2026-06-22T20:47:26.812890+00:00"
     },
     {
-      "tweet": "Did you see that Codex bug that's literally writing terabytes to local SSDs? Just absolutely nuking people's hard drives for no reason. Wild.",
-      "original_url": "https://github.com/openai/codex/issues/28224",
-      "buzz_score": 85,
+      "tweet": "China just hit ten US firms with export bans after that Pentagon blacklist thing. We're really just speedrunning this trade war.",
+      "original_url": "https://www.aljazeera.com/news/2026/6/22/china-adds-10-us-firms-including-rare-earth-miner-to-export-control-list?traffic_source=rss",
+      "buzz_score": 90,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Codex logging bug may write TBs to local SSDs",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-22T13:16:38.246372+00:00"
+      "original_title": "China adds 10 US firms, including rare-earth miner, to export control list",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-06-22T13:16:38.246936+00:00"
     },
     {
       "tweet": "Hockey Night in Canada isn’t gonna be free to watch anymore. Are they really trying to kill the last ritual we had left?",
@@ -431,17 +387,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Robert Smith from The Cure finally hit the Hot 100 as a solo artist, but only 'cause of that Olivia Rodrigo song. That's how we find music now.",
-      "original_url": "https://www.billboard.com/music/chart-beat/robert-smith-hot-100-olivia-rodrigo-1236277909/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The Cure’s Robert Smith Hits Hot 100 as a Solo Artist for the First Time, Thanks to Olivia Rodrigo",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-06-22T20:47:26.813194+00:00"
-    },
-    {
       "tweet": "Trump's back to claiming a deal with Iran is close after he already said he was gonna strike. Are we doing this or not",
       "original_url": "https://www.nytimes.com/live/2026/06/11/world/iran-war-trump-us-israel",
       "buzz_score": 88,
@@ -506,6 +451,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Hold on, the Supreme Court just turned down that case from Texas even with the experts saying the guy has an intellectual disability. That's just wild.",
+      "original_url": "https://www.npr.org/2026/06/22/nx-s1-5866741/supreme-court-texas-death-penalty",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Supreme Court declines to hear Texas man's intellectual disability case in capital case",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-06-22T20:47:26.812887+00:00"
+    },
+    {
+      "tweet": "Did you see that Codex bug that's literally writing terabytes to local SSDs? Just absolutely nuking people's hard drives for no reason. Wild.",
+      "original_url": "https://github.com/openai/codex/issues/28224",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Codex logging bug may write TBs to local SSDs",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-06-22T13:16:38.246372+00:00"
     },
     {
       "tweet": "Dude, Travis Kelce is out here playing hype man for Chris Lake in LA while Taylor's off doing her own thing. Just guys being dudes.",
@@ -981,15 +948,15 @@
       "added_at": "2026-06-11T11:06:30.923204+00:00"
     },
     {
-      "tweet": "Yo, did you see those two kids in the Philippines are in custody after that shooting? When are schools gonna actually do something about the bullying?",
-      "original_url": "https://www.npr.org/2026/06/22/g-s1-129323/2-students-in-custody-after-shooting-at-high-school-in-philippines-kills-3",
-      "buzz_score": 90,
+      "tweet": "Robert Smith from The Cure finally hit the Hot 100 as a solo artist, but only 'cause of that Olivia Rodrigo song. That's how we find music now.",
+      "original_url": "https://www.billboard.com/music/chart-beat/robert-smith-hot-100-olivia-rodrigo-1236277909/",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "2 students in custody after shooting at high school in Philippines kills 3",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-06-22T17:59:40.029038+00:00"
+      "original_title": "The Cure’s Robert Smith Hits Hot 100 as a Solo Artist for the First Time, Thanks to Olivia Rodrigo",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-06-22T20:47:26.813194+00:00"
     },
     {
       "tweet": "Salah finally got Egypt their first ever World Cup win. Only took them ninety-two years to get it done.",
@@ -1023,6 +990,17 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-06-22T02:09:06.370543+00:00"
+    },
+    {
+      "tweet": "Yo, did you see those two kids in the Philippines are in custody after that shooting? When are schools gonna actually do something about the bullying?",
+      "original_url": "https://www.npr.org/2026/06/22/g-s1-129323/2-students-in-custody-after-shooting-at-high-school-in-philippines-kills-3",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "2 students in custody after shooting at high school in Philippines kills 3",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-06-22T17:59:40.029038+00:00"
     },
     {
       "tweet": "Bro, Vondrousova just got hit with a four-year ban for skipping a drug test. Who just skips a test, man.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1709,
+    "total_posted": 1711,
     "total_collected": 7703
   },
-  "last_posted_at": "2026-06-22T20:54:21.944885+00:00"
+  "last_posted_at": "2026-06-22T22:39:46.570402+00:00"
 }
