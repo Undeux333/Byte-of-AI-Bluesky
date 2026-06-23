@@ -2,28 +2,6 @@
   "last_collected": "2026-06-23T15:43:27.380141+00:00",
   "queue": [
     {
-      "tweet": "There’s this six-dollar indie game on Steam that’s basically just Prop Hunt but better. Sometimes the jankiest stuff is just more fun, man.",
-      "original_url": "https://kotaku.com/steams-latest-viral-multiplayer-game-is-a-6-janky-indie-game-that-is-like-prop-hunt-but-good-2000709515",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Steam’s Latest Viral Multiplayer Game Is A $6 Janky Indie Game That Is Like Prop Hunt, But Good",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-06-23T15:43:27.378289+00:00"
-    },
-    {
-      "tweet": "Saw this warning about Amazon's Pokemon card deals for Prime Day. We really love hunting for a discount on cardboard, don't we.",
-      "original_url": "https://www.polygon.com/amazon-prime-day-best-deals-pokemon-tcg-card-chaos-rising-what-to-buy/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Before you buy Amazon's Pokémon TCG Prime Day deals, read this",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-06-23T15:43:27.379117+00:00"
-    },
-    {
       "tweet": "Nicolas Cage is officially in Black Ops 7 now. Like, are we even playing a war game anymore?",
       "original_url": "https://www.polygon.com/black-ops-7-nicolas-cage-skin/",
       "buzz_score": 80,
@@ -57,17 +35,6 @@
       "added_at": "2026-06-23T10:08:33.690199+00:00"
     },
     {
-      "tweet": "MPs are hearing the UK prioritized trade ties with the UAE over stopping atrocities in Sudan. Sometimes the government's priorities are just loud.",
-      "original_url": "https://www.theguardian.com/global-development/2026/jun/23/uk-ties-uae-mass-atrocities-sudan-mps-select-committee-nathaniel-raymond",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "UK prioritised ties with UAE over averting mass atrocities in Sudan, MPs to be told",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-23T15:43:27.378732+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -88,6 +55,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "MPs are hearing the UK prioritized trade ties with the UAE over stopping atrocities in Sudan. Sometimes the government's priorities are just loud.",
+      "original_url": "https://www.theguardian.com/global-development/2026/jun/23/uk-ties-uae-mass-atrocities-sudan-mps-select-committee-nathaniel-raymond",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "UK prioritised ties with UAE over averting mass atrocities in Sudan, MPs to be told",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-23T15:43:27.378732+00:00"
     },
     {
       "tweet": "China just hit ten US firms with export bans after that Pentagon blacklist thing. We're really just speedrunning this trade war.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1723,
+    "total_posted": 1725,
     "total_collected": 7785
   },
-  "last_posted_at": "2026-06-23T15:52:32.587735+00:00"
+  "last_posted_at": "2026-06-23T17:35:25.364512+00:00"
 }
