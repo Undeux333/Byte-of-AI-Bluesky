@@ -24,28 +24,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Did you see Trump is gonna be at the World Cup final to hand out the trophy. Like, is that even allowed?",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cze9wp8r6lno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump to attend World Cup final and present trophy",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-06-23T19:26:58.086295+00:00"
-    },
-    {
-      "tweet": "Nicolas Cage is officially in Black Ops 7 now. Like, are we even playing a war game anymore?",
-      "original_url": "https://www.polygon.com/black-ops-7-nicolas-cage-skin/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Black Ops 7's Nicolas Cage skin joins an increasingly eclectic roster",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-06-23T12:46:33.283615+00:00"
-    },
-    {
       "tweet": "China just hit ten US firms with export bans after that Pentagon blacklist thing. We're really just speedrunning this trade war.",
       "original_url": "https://www.aljazeera.com/news/2026/6/22/china-adds-10-us-firms-including-rare-earth-miner-to-export-control-list?traffic_source=rss",
       "buzz_score": 90,
@@ -398,6 +376,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Did you see Trump is gonna be at the World Cup final to hand out the trophy. Like, is that even allowed?",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cze9wp8r6lno?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump to attend World Cup final and present trophy",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-06-23T19:26:58.086295+00:00"
+    },
+    {
       "tweet": "Trump's back to claiming a deal with Iran is close after he already said he was gonna strike. Are we doing this or not",
       "original_url": "https://www.nytimes.com/live/2026/06/11/world/iran-war-trump-us-israel",
       "buzz_score": 88,
@@ -462,6 +451,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Nicolas Cage is officially in Black Ops 7 now. Like, are we even playing a war game anymore?",
+      "original_url": "https://www.polygon.com/black-ops-7-nicolas-cage-skin/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Black Ops 7's Nicolas Cage skin joins an increasingly eclectic roster",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-06-23T12:46:33.283615+00:00"
     },
     {
       "tweet": "Some people are getting six-figure payouts after losing their jobs for posting about Charlie Kirk. Feels like the wildest way to get a paycheck.",
