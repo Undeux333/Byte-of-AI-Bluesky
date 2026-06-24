@@ -2,28 +2,6 @@
   "last_collected": "2026-06-24T19:24:59.811723+00:00",
   "queue": [
     {
-      "tweet": "Some lady just got arrested at the airport in Brazil for being racist to the baggage handlers. Keep that energy at home, man.",
-      "original_url": "https://www.theguardian.com/world/2026/jun/24/brazilian-police-arrest-spanish-citizen-racism",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Brazilian federal police arrest Spanish citizen at São Paulo airport for racism",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-24T19:24:59.811469+00:00"
-    },
-    {
-      "tweet": "So Congress finally passed a war powers thing to check Trump, but everyone says he’ll just ignore it anyway. Why even bother.",
-      "original_url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-06-24T19:24:59.810500+00:00"
-    },
-    {
       "tweet": "Chris Sutton is already predicting Belgium is gonna go out. Don't even bother playing the game then.",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/cg74z733xmko?at_medium=RSS&at_campaign=rss",
       "buzz_score": 82,
@@ -90,6 +68,28 @@
       "added_at": "2026-06-24T15:59:49.844319+00:00"
     },
     {
+      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
+      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-02T15:05:13.740925+00:00"
+    },
+    {
+      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
+      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US court limits mail-order access to abortion pill mifepristone",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
       "tweet": "Did you see that One Piece anime remake trailer? Netflix is really trying to start the whole thing from the beginning again.",
       "original_url": "https://www.polygon.com/one-piece-anime-netflix-first-trailer/",
       "buzz_score": 85,
@@ -143,83 +143,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-06-24T11:28:23.259322+00:00"
-    },
-    {
-      "tweet": "Europe's getting crushed by this heatwave right now. Guess climate change is just the new normal for summer.",
-      "original_url": "https://www.aljazeera.com/news/2026/6/24/deaths-disruptions-across-europe-what-you-should-know-about-the-heatwave?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Deaths, disruptions across Europe: What you should know about the heatwave",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-06-24T13:34:44.258923+00:00"
-    },
-    {
-      "tweet": "Sesame Street turned that Chappell Roan song into a potty-training anthem. My niece is gonna be thrilled.",
-      "original_url": "https://www.billboard.com/music/music-news/sesame-street-parody-album-chappell-roan-potty-training-song-1236278992/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘Sesame Street’ Takes a ‘Golden’ Opportunity With Parody Album, Turns Chappell Roan Hit Into Potty-Training Anthem",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-06-24T13:34:44.258501+00:00"
-    },
-    {
-      "tweet": "So apparently Sevastopol's dark tonight after that Ukraine strike. Being the governor there today sounds like a nightmare.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Ukraine strikes knock out power in key city in Russian-occupied Crimea",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-06-24T11:28:23.259013+00:00"
-    },
-    {
-      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
-      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-02T15:05:13.740925+00:00"
-    },
-    {
-      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
-      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US court limits mail-order access to abortion pill mifepristone",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Argentina's cops are working side hustles as drivers and the stats are getting grim. That's a brutal way to make ends meet.",
-      "original_url": "https://www.theguardian.com/world/2026/jun/24/off-duty-cops-second-jobs-kill-and-die-recession-hit-argentina-rideshare",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why off-duty cops in second jobs ‘kill and die more’ in recession-hit Argentina",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-24T11:28:23.259581+00:00"
-    },
-    {
-      "tweet": "Did you hear about France? They're getting absolutely cooked by that heatwave and now the power's just cutting out. Rough.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Power outages hit France as record heatwave set to peak",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-06-24T11:28:23.259007+00:00"
     },
     {
       "tweet": "China just hit ten US firms with export bans after that Pentagon blacklist thing. We're really just speedrunning this trade war.",
@@ -574,6 +497,39 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Europe's getting crushed by this heatwave right now. Guess climate change is just the new normal for summer.",
+      "original_url": "https://www.aljazeera.com/news/2026/6/24/deaths-disruptions-across-europe-what-you-should-know-about-the-heatwave?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Deaths, disruptions across Europe: What you should know about the heatwave",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-06-24T13:34:44.258923+00:00"
+    },
+    {
+      "tweet": "Sesame Street turned that Chappell Roan song into a potty-training anthem. My niece is gonna be thrilled.",
+      "original_url": "https://www.billboard.com/music/music-news/sesame-street-parody-album-chappell-roan-potty-training-song-1236278992/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "‘Sesame Street’ Takes a ‘Golden’ Opportunity With Parody Album, Turns Chappell Roan Hit Into Potty-Training Anthem",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-06-24T13:34:44.258501+00:00"
+    },
+    {
+      "tweet": "So apparently Sevastopol's dark tonight after that Ukraine strike. Being the governor there today sounds like a nightmare.",
+      "original_url": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Ukraine strikes knock out power in key city in Russian-occupied Crimea",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-06-24T11:28:23.259013+00:00"
+    },
+    {
       "tweet": "Trump's back to claiming a deal with Iran is close after he already said he was gonna strike. Are we doing this or not",
       "original_url": "https://www.nytimes.com/live/2026/06/11/world/iran-war-trump-us-israel",
       "buzz_score": 88,
@@ -638,6 +594,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Argentina's cops are working side hustles as drivers and the stats are getting grim. That's a brutal way to make ends meet.",
+      "original_url": "https://www.theguardian.com/world/2026/jun/24/off-duty-cops-second-jobs-kill-and-die-recession-hit-argentina-rideshare",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Why off-duty cops in second jobs ‘kill and die more’ in recession-hit Argentina",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-24T11:28:23.259581+00:00"
+    },
+    {
+      "tweet": "Did you hear about France? They're getting absolutely cooked by that heatwave and now the power's just cutting out. Rough.",
+      "original_url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Power outages hit France as record heatwave set to peak",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-06-24T11:28:23.259007+00:00"
     },
     {
       "tweet": "Some people are getting six-figure payouts after losing their jobs for posting about Charlie Kirk. Feels like the wildest way to get a paycheck.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1744,
+    "total_posted": 1746,
     "total_collected": 7910
   },
-  "last_posted_at": "2026-06-24T19:33:04.435259+00:00"
+  "last_posted_at": "2026-06-24T21:14:03.970696+00:00"
 }
