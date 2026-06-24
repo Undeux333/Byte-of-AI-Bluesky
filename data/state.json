@@ -2,17 +2,6 @@
   "last_collected": "2026-06-24T22:38:34.797281+00:00",
   "queue": [
     {
-      "tweet": "There are five islands we literally aren't allowed to step foot on. Sounds like a horror movie setup",
-      "original_url": "https://www.mentalfloss.com/geography/islands-you-cant-visit?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "5 Isolated Islands That Are Strictly Forbidden (And Why)",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-06-24T22:38:34.796406+00:00"
-    },
-    {
       "tweet": "Dude, Thomann is actually taking Fender to court. Imagine the gear drama. Wild",
       "original_url": "https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/",
       "buzz_score": 85,
@@ -121,17 +110,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Turns out that La La Land pianist story was total theater drama behind the scenes. Nothing is real",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/the-pianist-from-the-audience-at-la-la-land-in-concert-was-a-global-feelgood-story-but-all-was-not-what-it-seemed",
-      "buzz_score": 78,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The pianist from the audience at La La Land in Concert was a global feelgood story – but all was not what it seemed",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-24T15:59:49.844319+00:00"
     },
     {
       "tweet": "Jude Bellingham didn't get a red card for talking into his shirt. Man's basically got plot armor at this point.",
@@ -497,50 +475,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Sega is selling Sonic cartridges for a hundred bucks now. They're definitely testing us",
-      "original_url": "https://kotaku.com/the-original-sonic-games-are-back-with-new-sega-genesis-cartridges-that-will-only-cost-you-100-a-piece-2000710199",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The Original Sonic Games Are Back With New Sega Genesis Cartridges That Will Only Cost You $100 A Piece",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-06-24T22:38:34.795750+00:00"
-    },
-    {
-      "tweet": "Did you see that One Piece anime remake trailer? Netflix is really trying to start the whole thing from the beginning again.",
-      "original_url": "https://www.polygon.com/one-piece-anime-netflix-first-trailer/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "One Piece anime remake from Netflix and WIT Studio gets first trailer",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-06-24T13:34:44.259418+00:00"
-    },
-    {
-      "tweet": "Louis Vuitton's doing a surf show in Paris while it's basically 40 degrees outside. Fashion's lost the plot.",
-      "original_url": "https://www.theguardian.com/fashion/2026/jun/24/louis-vuitton-beach-paris-40c-heat",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Louis Vuitton brings the beach to Paris in near 40C heat",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-24T13:34:44.259046+00:00"
-    },
-    {
-      "tweet": "So apparently we're just leaning into 'The Coming Loop' for AI now. At this point we're just training the robots on their own bad takes until everything's a hallucination. Neat.",
-      "original_url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Coming Loop",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-24T13:34:44.258492+00:00"
-    },
-    {
       "tweet": "So apparently Sevastopol's dark tonight after that Ukraine strike. Being the governor there today sounds like a nightmare.",
       "original_url": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
       "buzz_score": 88,
@@ -616,6 +550,50 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Turns out that La La Land pianist story was total theater drama behind the scenes. Nothing is real",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/the-pianist-from-the-audience-at-la-la-land-in-concert-was-a-global-feelgood-story-but-all-was-not-what-it-seemed",
+      "buzz_score": 78,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The pianist from the audience at La La Land in Concert was a global feelgood story – but all was not what it seemed",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-24T15:59:49.844319+00:00"
+    },
+    {
+      "tweet": "Did you see that One Piece anime remake trailer? Netflix is really trying to start the whole thing from the beginning again.",
+      "original_url": "https://www.polygon.com/one-piece-anime-netflix-first-trailer/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "One Piece anime remake from Netflix and WIT Studio gets first trailer",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-06-24T13:34:44.259418+00:00"
+    },
+    {
+      "tweet": "Louis Vuitton's doing a surf show in Paris while it's basically 40 degrees outside. Fashion's lost the plot.",
+      "original_url": "https://www.theguardian.com/fashion/2026/jun/24/louis-vuitton-beach-paris-40c-heat",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Louis Vuitton brings the beach to Paris in near 40C heat",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-24T13:34:44.259046+00:00"
+    },
+    {
+      "tweet": "So apparently we're just leaning into 'The Coming Loop' for AI now. At this point we're just training the robots on their own bad takes until everything's a hallucination. Neat.",
+      "original_url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Coming Loop",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-06-24T13:34:44.258492+00:00"
     },
     {
       "tweet": "Argentina's cops are working side hustles as drivers and the stats are getting grim. That's a brutal way to make ends meet.",
@@ -1034,6 +1012,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-06-15T19:54:58.322030+00:00"
+    },
+    {
+      "tweet": "Sega is selling Sonic cartridges for a hundred bucks now. They're definitely testing us",
+      "original_url": "https://kotaku.com/the-original-sonic-games-are-back-with-new-sega-genesis-cartridges-that-will-only-cost-you-100-a-piece-2000710199",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Original Sonic Games Are Back With New Sega Genesis Cartridges That Will Only Cost You $100 A Piece",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-06-24T22:38:34.795750+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1748,
+    "total_posted": 1749,
     "total_collected": 7926
   },
-  "last_posted_at": "2026-06-24T22:48:30.040098+00:00"
+  "last_posted_at": "2026-06-24T23:47:04.015800+00:00"
 }
