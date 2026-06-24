@@ -2,28 +2,6 @@
   "last_collected": "2026-06-24T15:59:49.845300+00:00",
   "queue": [
     {
-      "tweet": "Dude, Google fired that dev just for building a CLI for their own workspace. Guess innovation really isn't the goal there anymore",
-      "original_url": "https://twitter.com/JPoehnelt/status/2069482265953087602",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fired by Google for creating the Google workspace CLI",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-24T15:59:49.843599+00:00"
-    },
-    {
-      "tweet": "France is finally caving and getting AC after that heatwave. Are we really gonna act like keeping the planet habitable is a political stance now",
-      "original_url": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Air conditioning creates political divide after France records hottest day",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-06-24T15:59:49.843607+00:00"
-    },
-    {
       "tweet": "Turns out that La La Land pianist story was total theater drama behind the scenes. Nothing is real",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/the-pianist-from-the-audience-at-la-la-land-in-concert-was-a-global-feelgood-story-but-all-was-not-what-it-seemed",
       "buzz_score": 78,
@@ -585,17 +563,6 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Colombia’s election results are in and the Trump-backed guy won by basically nothing. Politics is just a coin flip at this point",
-      "original_url": "https://www.theguardian.com/world/2026/jun/24/colombia-presidential-election-abelardo-de-la-espriella",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Colombia’s leftwing candidate concedes election to Trump-endorsed millionaire",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-24T15:59:49.844206+00:00"
-    },
-    {
       "tweet": "Some people are getting six-figure payouts after losing their jobs for posting about Charlie Kirk. Feels like the wildest way to get a paycheck.",
       "original_url": "https://www.npr.org/2026/06/23/nx-s1-5856300/charlie-kirk-assassination-jobs-social-media-payouts-fired-first-amendment-settlements",
       "buzz_score": 85,
@@ -1034,6 +1001,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-06-14T06:40:34.141822+00:00"
+    },
+    {
+      "tweet": "Colombia’s election results are in and the Trump-backed guy won by basically nothing. Politics is just a coin flip at this point",
+      "original_url": "https://www.theguardian.com/world/2026/jun/24/colombia-presidential-election-abelardo-de-la-espriella",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Colombia’s leftwing candidate concedes election to Trump-endorsed millionaire",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-24T15:59:49.844206+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1740,
+    "total_posted": 1742,
     "total_collected": 7897
   },
-  "last_posted_at": "2026-06-24T16:05:20.277050+00:00"
+  "last_posted_at": "2026-06-24T17:59:53.876963+00:00"
 }
