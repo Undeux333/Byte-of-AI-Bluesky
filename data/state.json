@@ -2,28 +2,6 @@
   "last_collected": "2026-06-25T17:22:02.704349+00:00",
   "queue": [
     {
-      "tweet": "So apparently Ford is rehiring old-school inspectors 'cause their AI can't figure out why cars are breaking. We're literally paying for regression.",
-      "original_url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-25T17:22:02.703920+00:00"
-    },
-    {
-      "tweet": "Olivia Rodrigo is in Fortnite now. Man, that game is just a digital waiting room at this point.",
-      "original_url": "https://www.billboard.com/music/music-news/olivia-rodrigo-fortnite-npc-outfits-emotes-jam-tracks-1236281105/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "You Seem Pretty Sad for an NPC: Olivia Rodrigo Joins ‘Fortnite’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-06-25T17:22:02.703926+00:00"
-    },
-    {
       "tweet": "Court just gave the President total power to end TPS and start deportations. Guess we're just ignoring the rules now.",
       "original_url": "https://www.npr.org/2026/06/25/nx-s1-5844292/supreme-court-syrian-haitian-tps",
       "buzz_score": 88,
@@ -145,6 +123,28 @@
       "added_at": "2026-06-25T12:11:08.799702+00:00"
     },
     {
+      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
+      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-02T15:05:13.740925+00:00"
+    },
+    {
+      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
+      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US court limits mail-order access to abortion pill mifepristone",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
       "tweet": "Bellamy isn't going to Burnley after all. That fell apart quick.",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/cnv9e5pq142o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 72,
@@ -176,28 +176,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-06-25T15:10:02.011579+00:00"
-    },
-    {
-      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
-      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-02T15:05:13.740925+00:00"
-    },
-    {
-      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
-      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US court limits mail-order access to abortion pill mifepristone",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -572,17 +550,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "Microsoft is hiking Xbox prices for the third time and calling it affordable. They really think we're not gonna notice that.",
-      "original_url": "https://www.polygon.com/xbox-price-hike-june-2026-what-is-new-cost-microsoft/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Microsoft reveals another Xbox price hike is coming, the third increase since 2025",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-06-25T17:22:02.704196+00:00"
     },
     {
       "tweet": "So apparently Sevastopol's dark tonight after that Ukraine strike. Being the governor there today sounds like a nightmare.",
@@ -1034,6 +1001,17 @@
       "source": "Kotaku",
       "category": "entertainment",
       "added_at": "2026-06-17T19:48:37.562244+00:00"
+    },
+    {
+      "tweet": "Microsoft is hiking Xbox prices for the third time and calling it affordable. They really think we're not gonna notice that.",
+      "original_url": "https://www.polygon.com/xbox-price-hike-june-2026-what-is-new-cost-microsoft/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Microsoft reveals another Xbox price hike is coming, the third increase since 2025",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-06-25T17:22:02.704196+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1761,
+    "total_posted": 1763,
     "total_collected": 8005
   },
-  "last_posted_at": "2026-06-25T17:29:47.936908+00:00"
+  "last_posted_at": "2026-06-25T19:26:57.437243+00:00"
 }
