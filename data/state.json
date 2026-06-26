@@ -2,28 +2,6 @@
   "last_collected": "2026-06-26T15:08:38.266631+00:00",
   "queue": [
     {
-      "tweet": "The death toll in Venezuela just doubled and they're still scrambling. It's a disaster.",
-      "original_url": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Venezuela death toll doubles as interim president vows to save ‘as many people as possible’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-26T15:08:38.266066+00:00"
-    },
-    {
-      "tweet": "Was reading about early internet habits and honestly forgot we used to wait for dial-up. We really just sat there listening to that noise for nothing.",
-      "original_url": "https://www.mentalfloss.com/nostalgia/early-internet-habits-kids-wouldnt-understand?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "5 Early Internet Habits Kids Today Would Never Understand",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-06-26T15:08:38.265289+00:00"
-    },
-    {
       "tweet": "Everyone is asking why Trump is staying away from the World Cup. Like, he's just gonna show up to a random soccer match?",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/c0myxevn3emo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -79,6 +57,39 @@
       "added_at": "2026-06-26T12:26:27.182036+00:00"
     },
     {
+      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
+      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-02T15:05:13.740925+00:00"
+    },
+    {
+      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
+      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US court limits mail-order access to abortion pill mifepristone",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
+      "buzz_score": 92,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
       "tweet": "Some lady got three years in jail just for tweeting about the government in Somalia. That's a rough way to find out you're not allowed to have an opinion.",
       "original_url": "https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement",
       "buzz_score": 80,
@@ -132,72 +143,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-06-26T06:49:18.764392+00:00"
-    },
-    {
-      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
-      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-02T15:05:13.740925+00:00"
-    },
-    {
-      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
-      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US court limits mail-order access to abortion pill mifepristone",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Serena Williams is finally making a comeback at Wimbledon. She's literally playing tennis forever.",
-      "original_url": "https://www.bbc.co.uk/sport/tennis/articles/c621072x6l2o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Williams to begin Wimbledon comeback against Joint",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-06-26T10:13:01.213596+00:00"
-    },
-    {
-      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
-      "buzz_score": 92,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Charli XCX really said she might've fucked your dad in her new video. She's just doing whatever she wants at this point.",
-      "original_url": "https://www.rollingstone.com/music/music-news/charli-xcx-new-song-music-video-wink-wink-1235583175/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Charli XCX Unveils Titillating New ‘Wink Wink’ Video",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-06-26T06:49:18.765903+00:00"
-    },
-    {
-      "tweet": "So apparently AI is making kids books now, but the images look like straight up body horror. Just pure nightmare fuel.",
-      "original_url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "AI children's books, body horror edition",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-26T06:49:18.764385+00:00"
     },
     {
       "tweet": "Jude Bellingham didn't get a red card for talking into his shirt. Man's basically got plot armor at this point.",
@@ -563,28 +508,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Sony laid off the people working on Destiny 2 so now the hotfix is delayed. Classic move.",
-      "original_url": "https://kotaku.com/destiny-2s-final-hotfix-gets-delayed-after-sony-lays-off-some-of-the-people-working-on-it-2000710981",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Destiny 2′s Final Hotfix Gets Delayed After Sony Lays Off Some Of The People Working On It",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-06-26T15:08:38.266262+00:00"
-    },
-    {
-      "tweet": "Crimea is declaring a state of emergency after those attacks. How long can they keep pretending this is just a normal situation over there?",
-      "original_url": "https://www.nytimes.com/2026/06/26/world/europe/crimea-ukraine-state-emergency.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Ukrainian Attacks Spur State of Emergency Declaration in Crimea",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-26T15:08:38.265602+00:00"
-    },
-    {
       "tweet": "Court just gave the President total power to end TPS and start deportations. Guess we're just ignoring the rules now.",
       "original_url": "https://www.npr.org/2026/06/25/nx-s1-5844292/supreme-court-syrian-haitian-tps",
       "buzz_score": 88,
@@ -671,6 +594,39 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Serena Williams is finally making a comeback at Wimbledon. She's literally playing tennis forever.",
+      "original_url": "https://www.bbc.co.uk/sport/tennis/articles/c621072x6l2o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Williams to begin Wimbledon comeback against Joint",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-06-26T10:13:01.213596+00:00"
+    },
+    {
+      "tweet": "Charli XCX really said she might've fucked your dad in her new video. She's just doing whatever she wants at this point.",
+      "original_url": "https://www.rollingstone.com/music/music-news/charli-xcx-new-song-music-video-wink-wink-1235583175/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Charli XCX Unveils Titillating New ‘Wink Wink’ Video",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-06-26T06:49:18.765903+00:00"
+    },
+    {
+      "tweet": "So apparently AI is making kids books now, but the images look like straight up body horror. Just pure nightmare fuel.",
+      "original_url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "AI children's books, body horror edition",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-06-26T06:49:18.764385+00:00"
     },
     {
       "tweet": "Someone drove into a crowd in Cabo after the game. Why do people have to be like that?",
@@ -1034,6 +990,28 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-06-18T16:50:23.034364+00:00"
+    },
+    {
+      "tweet": "Sony laid off the people working on Destiny 2 so now the hotfix is delayed. Classic move.",
+      "original_url": "https://kotaku.com/destiny-2s-final-hotfix-gets-delayed-after-sony-lays-off-some-of-the-people-working-on-it-2000710981",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Destiny 2′s Final Hotfix Gets Delayed After Sony Lays Off Some Of The People Working On It",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-06-26T15:08:38.266262+00:00"
+    },
+    {
+      "tweet": "Crimea is declaring a state of emergency after those attacks. How long can they keep pretending this is just a normal situation over there?",
+      "original_url": "https://www.nytimes.com/2026/06/26/world/europe/crimea-ukraine-state-emergency.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Ukrainian Attacks Spur State of Emergency Declaration in Crimea",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-26T15:08:38.265602+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1779,
+    "total_posted": 1781,
     "total_collected": 8109
   },
-  "last_posted_at": "2026-06-26T15:17:34.128025+00:00"
+  "last_posted_at": "2026-06-26T17:14:53.618623+00:00"
 }
