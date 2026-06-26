@@ -2,50 +2,6 @@
   "last_collected": "2026-06-26T19:01:57.854856+00:00",
   "queue": [
     {
-      "tweet": "Man, this whole papers please thing for the internet is actually happening. We're gonna have to show ID just to exist online now, aren't we.",
-      "original_url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The 'papers, please' era of the internet will decimate your privacy",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-26T19:01:57.853287+00:00"
-    },
-    {
-      "tweet": "So apparently firefighters in Venezuela are using their phones for flashlights during this earthquake response. Imagine a hospital running on phone batteries.",
-      "original_url": "https://www.nytimes.com/2026/06/26/world/americas/venezuela-earthquake-shortages-doctors.html",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Venezuela Earthquakes Hit a Health System Already in Crisis",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-26T19:01:57.853300+00:00"
-    },
-    {
-      "tweet": "Everyone is asking why Trump is staying away from the World Cup. Like, he's just gonna show up to a random soccer match?",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c0myxevn3emo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why has Trump stayed away from the World Cup?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-06-26T15:08:38.265788+00:00"
-    },
-    {
-      "tweet": "So there's a Destiny 2 meme involving Trump going around and the internet is losing it. It's so stupid it's actually funny.",
-      "original_url": "https://kotaku.com/trumps-destiny-2-meme-white-house-twitter-x-ai-bungie-2000710926",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Internet Reacts To Trump’s Crass Destiny 2 Meme",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-06-26T12:26:27.182837+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -68,28 +24,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Everyone in the UK is suddenly talking about Cape Verde after that World Cup run. It's that kind of hype that makes the tournament worth watching.",
-      "original_url": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-26T12:26:27.182554+00:00"
-    },
-    {
-      "tweet": "So apparently Iran is claiming they have the right to control traffic in the Strait of Hormuz now. Just casually firing on ships and calling it authority.",
-      "original_url": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "After Attacking Cargo Ship, Iran Presses Its Claim to Authority Over Strait",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-26T12:26:27.182043+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -99,6 +33,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Everyone is asking why Trump is staying away from the World Cup. Like, he's just gonna show up to a random soccer match?",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/c0myxevn3emo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Why has Trump stayed away from the World Cup?",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-06-26T15:08:38.265788+00:00"
+    },
+    {
+      "tweet": "So there's a Destiny 2 meme involving Trump going around and the internet is losing it. It's so stupid it's actually funny.",
+      "original_url": "https://kotaku.com/trumps-destiny-2-meme-white-house-twitter-x-ai-bungie-2000710926",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Internet Reacts To Trump’s Crass Destiny 2 Meme",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-06-26T12:26:27.182837+00:00"
     },
     {
       "tweet": "Hold on, so that whole story about someone gashing the Reflecting Pool and dumping fertilizer in it? Turns out it was just a knife cut. Wild how fast that escalated.",
@@ -475,17 +431,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Someone actually indexed 18 years of Hacker News comments. We're all just digging through our old cringey takes at this point.",
-      "original_url": "https://hackernewstrends.com",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-26T12:26:27.182036+00:00"
-    },
-    {
       "tweet": "Court just gave the President total power to end TPS and start deportations. Guess we're just ignoring the rules now.",
       "original_url": "https://www.npr.org/2026/06/25/nx-s1-5844292/supreme-court-syrian-haitian-tps",
       "buzz_score": 88,
@@ -572,6 +517,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Everyone in the UK is suddenly talking about Cape Verde after that World Cup run. It's that kind of hype that makes the tournament worth watching.",
+      "original_url": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-26T12:26:27.182554+00:00"
+    },
+    {
+      "tweet": "So apparently Iran is claiming they have the right to control traffic in the Strait of Hormuz now. Just casually firing on ships and calling it authority.",
+      "original_url": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "After Attacking Cargo Ship, Iran Presses Its Claim to Authority Over Strait",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-26T12:26:27.182043+00:00"
     },
     {
       "tweet": "Charli XCX really said she might've fucked your dad in her new video. She's just doing whatever she wants at this point.",
@@ -959,6 +926,17 @@
       "added_at": "2026-06-18T16:50:23.034364+00:00"
     },
     {
+      "tweet": "Someone actually indexed 18 years of Hacker News comments. We're all just digging through our old cringey takes at this point.",
+      "original_url": "https://hackernewstrends.com",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-06-26T12:26:27.182036+00:00"
+    },
+    {
       "tweet": "Some lady got three years in jail just for tweeting about the government in Somalia. That's a rough way to find out you're not allowed to have an opinion.",
       "original_url": "https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement",
       "buzz_score": 80,
@@ -1014,17 +992,6 @@
       "added_at": "2026-06-26T19:01:57.853461+00:00"
     },
     {
-      "tweet": "Did you know pencils are yellow just because some guy wanted to flex his expensive Chinese graphite back in the day. Total marketing stunt.",
-      "original_url": "https://www.mentalfloss.com/history/why-pencils-are-yellow?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Why Are Pencils Yellow?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-06-26T19:01:57.853294+00:00"
-    },
-    {
       "tweet": "Serena Williams is finally making a comeback at Wimbledon. She's literally playing tennis forever.",
       "original_url": "https://www.bbc.co.uk/sport/tennis/articles/c621072x6l2o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -1034,6 +1001,17 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-06-26T10:13:01.213596+00:00"
+    },
+    {
+      "tweet": "Did you know pencils are yellow just because some guy wanted to flex his expensive Chinese graphite back in the day. Total marketing stunt.",
+      "original_url": "https://www.mentalfloss.com/history/why-pencils-are-yellow?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Why Are Pencils Yellow?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-06-26T19:01:57.853294+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1783,
+    "total_posted": 1785,
     "total_collected": 8125
   },
-  "last_posted_at": "2026-06-26T19:09:21.275315+00:00"
+  "last_posted_at": "2026-06-26T21:01:43.294088+00:00"
 }
