@@ -2,28 +2,6 @@
   "last_collected": "2026-06-27T18:17:00.426364+00:00",
   "queue": [
     {
-      "tweet": "A24’s trying to defend that Google AI partnership saying they need a seat at the table. Bro, nobody asked for a seat.",
-      "original_url": "https://kotaku.com/a24s-bad-excuse-for-its-controversial-google-ai-partnership-isnt-impressing-fans-wed-rather-have-a-seat-at-the-table-2000711181",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "A24’s Bad Excuse For Its Controversial Google AI Partnership Isn’t Impressing Fans: ‘We’d Rather Have A Seat At The Table’",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-06-27T18:17:00.425355+00:00"
-    },
-    {
-      "tweet": "Australia is doubling fines on Big Tech 'cause kids are still getting around the social media ban. As if they wouldn't find a way.",
-      "original_url": "https://www.aljazeera.com/news/2026/6/27/australia-to-double-fines-on-big-tech-as-children-bypass-social-media-ban?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australia to double fines on Big Tech as children bypass social media ban",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-06-27T18:17:00.424851+00:00"
-    },
-    {
       "tweet": "So apparently they're already previewing a GPT-5.6. Like we haven't even figured out what to do with the current ones yet. Slow down.",
       "original_url": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "buzz_score": 85,
@@ -99,39 +77,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Geralt from The Witcher thought he lost the role for years. It's that classic imposter syndrome hitting even when you're the best at what you do.",
-      "original_url": "https://www.polygon.com/witcher-games-geralt-doug-cockle-interview/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Witcher's Geralt reveals why he was convinced he lost the iconic role",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-06-27T10:20:54.367366+00:00"
-    },
-    {
-      "tweet": "Man, Misiorowski just hit 105.5 mph for the Brewers. That's not even a pitch, that's a crime.",
-      "original_url": "https://www.espn.com/mlb/story/_/id/49194044/jacob-misiorowski-throws-heater-clocked-1055-mph-vs-cubs",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Brewers' Misiorowski hurls 105.5 mph pitch in win",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-06-27T10:20:54.366799+00:00"
-    },
-    {
-      "tweet": "Dude, they actually managed to read that Herculaneum scroll after two thousand years. Technology is insane sometimes.",
-      "original_url": "https://scrollprize.org/firstscroll",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "An entire Herculaneum scroll has been read for the first time",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-27T10:20:54.366498+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -519,28 +464,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Apple’s asking the government for permission to buy memory from that blacklisted Chinese supplier. Do they think we aren't watching.",
-      "original_url": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-06-27T18:17:00.425620+00:00"
-    },
-    {
-      "tweet": "Some random GitHub account is just mass-dropping undisclosed 0-days right now. The internet is literally just a house of cards.",
-      "original_url": "https://github.com/bikini/exploitarium",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-27T18:17:00.424543+00:00"
-    },
-    {
       "tweet": "Court just gave the President total power to end TPS and start deportations. Guess we're just ignoring the rules now.",
       "original_url": "https://www.npr.org/2026/06/25/nx-s1-5844292/supreme-court-syrian-haitian-tps",
       "buzz_score": 88,
@@ -627,6 +550,39 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Geralt from The Witcher thought he lost the role for years. It's that classic imposter syndrome hitting even when you're the best at what you do.",
+      "original_url": "https://www.polygon.com/witcher-games-geralt-doug-cockle-interview/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Witcher's Geralt reveals why he was convinced he lost the iconic role",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-06-27T10:20:54.367366+00:00"
+    },
+    {
+      "tweet": "Man, Misiorowski just hit 105.5 mph for the Brewers. That's not even a pitch, that's a crime.",
+      "original_url": "https://www.espn.com/mlb/story/_/id/49194044/jacob-misiorowski-throws-heater-clocked-1055-mph-vs-cubs",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Brewers' Misiorowski hurls 105.5 mph pitch in win",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-06-27T10:20:54.366799+00:00"
+    },
+    {
+      "tweet": "Dude, they actually managed to read that Herculaneum scroll after two thousand years. Technology is insane sometimes.",
+      "original_url": "https://scrollprize.org/firstscroll",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "An entire Herculaneum scroll has been read for the first time",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-06-27T10:20:54.366498+00:00"
     },
     {
       "tweet": "So there's a Destiny 2 meme involving Trump going around and the internet is losing it. It's so stupid it's actually funny.",
@@ -1023,6 +979,28 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-06-18T16:50:23.034364+00:00"
+    },
+    {
+      "tweet": "Apple’s asking the government for permission to buy memory from that blacklisted Chinese supplier. Do they think we aren't watching.",
+      "original_url": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-06-27T18:17:00.425620+00:00"
+    },
+    {
+      "tweet": "Some random GitHub account is just mass-dropping undisclosed 0-days right now. The internet is literally just a house of cards.",
+      "original_url": "https://github.com/bikini/exploitarium",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-06-27T18:17:00.424543+00:00"
     },
     {
       "tweet": "The Apple Vision Pro lead is leaving to join OpenAI. Even the people who built the thing know where the momentum is.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1801,
+    "total_posted": 1803,
     "total_collected": 8228
   },
-  "last_posted_at": "2026-06-27T18:26:43.712704+00:00"
+  "last_posted_at": "2026-06-27T19:58:17.636517+00:00"
 }
