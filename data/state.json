@@ -2,28 +2,6 @@
   "last_collected": "2026-06-27T10:20:54.367885+00:00",
   "queue": [
     {
-      "tweet": "Reading about old internet habits and feeling ancient. We really used to just sit there and wait for the modem to connect.",
-      "original_url": "https://www.mentalfloss.com/nostalgia/early-internet-habits-kids-wouldnt-understand?utm_source=RSS",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "5 Early Internet Habits Kids Today Would Never Understand",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-06-27T10:20:54.367495+00:00"
-    },
-    {
-      "tweet": "Turns out some Mexican politicians are just straight up acting as informants for the Trump administration now. Everything is just leverage, man.",
-      "original_url": "https://www.nytimes.com/2026/06/27/world/americas/mexican-officials-us-informants.html",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mexican Officials Have Become Informants for the Trump Administration",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-27T10:20:54.366666+00:00"
-    },
-    {
       "tweet": "Geralt from The Witcher thought he lost the role for years. It's that classic imposter syndrome hitting even when you're the best at what you do.",
       "original_url": "https://www.polygon.com/witcher-games-geralt-doug-cockle-interview/",
       "buzz_score": 85,
@@ -462,17 +440,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "Europe is hitting 40C today and everyone’s just acting like it’s a normal Tuesday. When do we admit we're cooked?",
-      "original_url": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Europe heatwave live: Germany braced for temperatures ‘well over 40C’; extreme heat warnings for England",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-27T10:20:54.367099+00:00"
     },
     {
       "tweet": "Court just gave the President total power to end TPS and start deportations. Guess we're just ignoring the rules now.",
@@ -959,37 +926,15 @@
       "added_at": "2026-06-18T16:50:23.034364+00:00"
     },
     {
-      "tweet": "Nigel Farage is moving his anti-WHO campaign to the US now. Why is this guy everywhere all of a sudden.",
-      "original_url": "https://www.theguardian.com/politics/2026/jun/27/nigel-farage-action-on-world-health-campaign-who-us-board",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Nigel Farage’s anti-WHO campaign moves to US with allies added to board",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-27T10:20:54.367235+00:00"
-    },
-    {
-      "tweet": "Did you see that Ukrainian team is hitting targets over a thousand miles inside Russia? Drones are getting scary.",
-      "original_url": "https://www.npr.org/2026/06/27/g-s1-129704/ukraine-long-range-drones-russia-war",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Inside a secretive Ukrainian team launching deep drone strikes at Russia",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-06-27T10:20:54.366507+00:00"
-    },
-    {
-      "tweet": "Steve Jobs kept repeating two words on his deathbed. It’s wild how much we overcomplicate everything right until the end.",
-      "original_url": "https://www.mentalfloss.com/history/steve-jobs-last-words?utm_source=RSS",
+      "tweet": "Europe is hitting 40C today and everyone’s just acting like it’s a normal Tuesday. When do we admit we're cooked?",
+      "original_url": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
       "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Steve Jobs' Last Words Were Both Simple and Profound",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-06-27T08:04:43.859574+00:00"
+      "original_title": "Europe heatwave live: Germany braced for temperatures ‘well over 40C’; extreme heat warnings for England",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-27T10:20:54.367099+00:00"
     },
     {
       "tweet": "Everyone in the UK is suddenly talking about Cape Verde after that World Cup run. It's that kind of hype that makes the tournament worth watching.",
@@ -1023,6 +968,39 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-26T10:13:01.213853+00:00"
+    },
+    {
+      "tweet": "Nigel Farage is moving his anti-WHO campaign to the US now. Why is this guy everywhere all of a sudden.",
+      "original_url": "https://www.theguardian.com/politics/2026/jun/27/nigel-farage-action-on-world-health-campaign-who-us-board",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Nigel Farage’s anti-WHO campaign moves to US with allies added to board",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-27T10:20:54.367235+00:00"
+    },
+    {
+      "tweet": "Did you see that Ukrainian team is hitting targets over a thousand miles inside Russia? Drones are getting scary.",
+      "original_url": "https://www.npr.org/2026/06/27/g-s1-129704/ukraine-long-range-drones-russia-war",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Inside a secretive Ukrainian team launching deep drone strikes at Russia",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-06-27T10:20:54.366507+00:00"
+    },
+    {
+      "tweet": "Steve Jobs kept repeating two words on his deathbed. It’s wild how much we overcomplicate everything right until the end.",
+      "original_url": "https://www.mentalfloss.com/history/steve-jobs-last-words?utm_source=RSS",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Steve Jobs' Last Words Were Both Simple and Profound",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-06-27T08:04:43.859574+00:00"
     },
     {
       "tweet": "REI's 4th of July sale is live and I'm looking at gear I definitely don't need for trips I probably won't take.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1792,
+    "total_posted": 1794,
     "total_collected": 8180
   },
-  "last_posted_at": "2026-06-27T10:27:08.862267+00:00"
+  "last_posted_at": "2026-06-27T11:59:26.262300+00:00"
 }
