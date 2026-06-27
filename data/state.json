@@ -2,17 +2,6 @@
   "last_collected": "2026-06-27T13:05:48.435080+00:00",
   "queue": [
     {
-      "tweet": "Did you see Australia is actually gonna start fine-ing social media companies nearly a hundred million bucks if kids under sixteen are on there. Finally some teeth.",
-      "original_url": "https://www.nytimes.com/2026/06/27/world/australia/social-media-ban-children.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australia Says It Will Toughen Its Social Media Ban for Children",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-27T13:05:48.433215+00:00"
-    },
-    {
       "tweet": "Geralt from The Witcher thought he lost the role for years. It's that classic imposter syndrome hitting even when you're the best at what you do.",
       "original_url": "https://www.polygon.com/witcher-games-geralt-doug-cockle-interview/",
       "buzz_score": 85,
@@ -937,17 +926,6 @@
       "added_at": "2026-06-18T16:50:23.034364+00:00"
     },
     {
-      "tweet": "Trump is threatening a hundred percent tariff on any country that tries to tax tech companies. Like, since when is the government the bodyguard for big tech?",
-      "original_url": "https://www.theguardian.com/us-news/2026/jun/27/trump-threatens-tariff-eu-countries-impose-digital-tax",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump threatens 100% tariff on European countries that impose digital tax",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-27T13:05:48.433225+00:00"
-    },
-    {
       "tweet": "Everyone in the UK is suddenly talking about Cape Verde after that World Cup run. It's that kind of hype that makes the tournament worth watching.",
       "original_url": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
       "buzz_score": 80,
@@ -979,6 +957,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-26T10:13:01.213853+00:00"
+    },
+    {
+      "tweet": "Trump is threatening a hundred percent tariff on any country that tries to tax tech companies. Like, since when is the government the bodyguard for big tech?",
+      "original_url": "https://www.theguardian.com/us-news/2026/jun/27/trump-threatens-tariff-eu-countries-impose-digital-tax",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump threatens 100% tariff on European countries that impose digital tax",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-27T13:05:48.433225+00:00"
     },
     {
       "tweet": "Ukraine and Russia are just trading attacks again. It's just constant noise at this point.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1796,
+    "total_posted": 1797,
     "total_collected": 8196
   },
-  "last_posted_at": "2026-06-27T13:11:34.739143+00:00"
+  "last_posted_at": "2026-06-27T14:53:30.879192+00:00"
 }
