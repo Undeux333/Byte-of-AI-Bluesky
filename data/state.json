@@ -2,28 +2,6 @@
   "last_collected": "2026-06-27T20:48:02.134870+00:00",
   "queue": [
     {
-      "tweet": "Did you see that madness in Ealing? Some guy just started hitting people with his car. Unhinged.",
-      "original_url": "https://www.theguardian.com/uk-news/2026/jun/27/man-arrested-on-suspicion-of-attempted-after-vehicle-hits-pedestrians-in-london",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Man arrested on suspicion of attempted murder after vehicle hits pedestrians in London",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-27T20:48:02.133298+00:00"
-    },
-    {
-      "tweet": "Thinking about how Mario Kart 64 basically raised our generation. Nothing hits like that music.",
-      "original_url": "https://www.polygon.com/nintendo-64-30th-anniversary-mario-kart/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mario Kart 64 transformed the series from an oddity into an institution",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-06-27T20:48:02.133837+00:00"
-    },
-    {
       "tweet": "The Critic is actually back on Tubi. We really didn't appreciate that show enough when we were kids.",
       "original_url": "https://www.polygon.com/the-critic-weekend-binge/",
       "buzz_score": 75,
@@ -519,17 +497,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Trump finally picked an ICE director after leaving that chair empty since 2017. Guess they weren't in that much of a rush.",
-      "original_url": "https://www.aljazeera.com/news/2026/6/27/donald-trump-nominates-lance-schroyer-to-serve-as-ice-director?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Donald Trump nominates Lance Schroyer to serve as ICE director",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-06-27T20:48:02.133296+00:00"
-    },
-    {
       "tweet": "Court just gave the President total power to end TPS and start deportations. Guess we're just ignoring the rules now.",
       "original_url": "https://www.npr.org/2026/06/25/nx-s1-5844292/supreme-court-syrian-haitian-tps",
       "buzz_score": 88,
@@ -616,6 +583,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Trump finally picked an ICE director after leaving that chair empty since 2017. Guess they weren't in that much of a rush.",
+      "original_url": "https://www.aljazeera.com/news/2026/6/27/donald-trump-nominates-lance-schroyer-to-serve-as-ice-director?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Donald Trump nominates Lance Schroyer to serve as ICE director",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-06-27T20:48:02.133296+00:00"
     },
     {
       "tweet": "Geralt from The Witcher thought he lost the role for years. It's that classic imposter syndrome hitting even when you're the best at what you do.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1805,
+    "total_posted": 1807,
     "total_collected": 8244
   },
-  "last_posted_at": "2026-06-27T20:54:29.834379+00:00"
+  "last_posted_at": "2026-06-27T21:57:55.148019+00:00"
 }
