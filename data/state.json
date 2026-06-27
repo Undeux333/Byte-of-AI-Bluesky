@@ -2,28 +2,6 @@
   "last_collected": "2026-06-27T22:52:57.605332+00:00",
   "queue": [
     {
-      "tweet": "Dude, we still don't even know how Roman concrete actually works. It's wild how much stuff we just completely forgot how to do.",
-      "original_url": "https://www.mentalfloss.com/science/archaeology/inventions-lost-to-time?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "5 Inventions That Have Been Lost to Time",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-06-27T22:52:57.603558+00:00"
-    },
-    {
-      "tweet": "The Critic is actually back on Tubi. We really didn't appreciate that show enough when we were kids.",
-      "original_url": "https://www.polygon.com/the-critic-weekend-binge/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Critic is still an underrated animated masterpiece, and it's streaming for free on Tubi",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-06-27T20:48:02.133984+00:00"
-    },
-    {
       "tweet": "Nintendo is out here selling 35mm film slides as high-end merch. We're literally paying for trash now.",
       "original_url": "https://kotaku.com/the-hot-new-nintendo-collectibles-are-35mm-film-slides-super-mario-64-2000711209",
       "buzz_score": 75,
@@ -44,17 +22,6 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-06-27T20:48:02.133284+00:00"
-    },
-    {
-      "tweet": "So apparently they're already previewing a GPT-5.6. Like we haven't even figured out what to do with the current ones yet. Slow down.",
-      "original_url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-27T15:58:47.217964+00:00"
     },
     {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
@@ -79,6 +46,17 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "So apparently they're already previewing a GPT-5.6. Like we haven't even figured out what to do with the current ones yet. Slow down.",
+      "original_url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-06-27T15:58:47.217964+00:00"
+    },
+    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -88,50 +66,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Still no disc for GTA 6 after that email from Rockstar. Why do they even bother promising stuff.",
-      "original_url": "https://kotaku.com/there-remains-no-disc-based-version-of-grand-theft-auto-vi-despite-promising-email-from-rockstar-2000711186",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "There Remains No Disc-Based Version Of Grand Theft Auto 6 Despite Promising Email From Rockstar",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-06-27T15:58:47.219027+00:00"
-    },
-    {
-      "tweet": "People in Arizona are fighting data centers because we're literally running out of water. Priorities.",
-      "original_url": "https://www.aljazeera.com/economy/2026/6/27/with-water-cuts-looming-in-arizona-in-us-locals-fight-data-centres?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "With water cuts looming in Arizona in US, locals fight data centres",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-06-27T15:58:47.218654+00:00"
-    },
-    {
-      "tweet": "George Russell got pole after that Verstappen crash. Total mess.",
-      "original_url": "https://www.bbc.co.uk/sport/formula1/articles/cx2wgd5prrno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Russell claims controversial pole after Verstappen crash",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-06-27T15:58:47.218379+00:00"
-    },
-    {
-      "tweet": "The government is just deciding who gets to use Anthropic's AI now. They're basically acting like they own the tech.",
-      "original_url": "https://www.npr.org/2026/06/27/nx-s1-5871245/trump-administration-imposes-restrictions-for-anthropic-to-halt-access-to-2-ai-models",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump administration partially lifts export ban on Anthropic's most advanced AI model",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-06-27T15:58:47.218124+00:00"
     },
     {
       "tweet": "Hold on, so that whole story about someone gashing the Reflecting Pool and dumping fertilizer in it? Turns out it was just a knife cut. Wild how fast that escalated.",
@@ -508,15 +442,48 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Someone just mapped a live atlas of open webcams on the public internet. At this point privacy is just a suggestion.",
-      "original_url": "https://ipcrawl.com/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
+      "tweet": "Still no disc for GTA 6 after that email from Rockstar. Why do they even bother promising stuff.",
+      "original_url": "https://kotaku.com/there-remains-no-disc-based-version-of-grand-theft-auto-vi-despite-promising-email-from-rockstar-2000711186",
+      "buzz_score": 80,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-27T22:52:57.603565+00:00"
+      "original_title": "There Remains No Disc-Based Version Of Grand Theft Auto 6 Despite Promising Email From Rockstar",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-06-27T15:58:47.219027+00:00"
+    },
+    {
+      "tweet": "People in Arizona are fighting data centers because we're literally running out of water. Priorities.",
+      "original_url": "https://www.aljazeera.com/economy/2026/6/27/with-water-cuts-looming-in-arizona-in-us-locals-fight-data-centres?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "With water cuts looming in Arizona in US, locals fight data centres",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-06-27T15:58:47.218654+00:00"
+    },
+    {
+      "tweet": "George Russell got pole after that Verstappen crash. Total mess.",
+      "original_url": "https://www.bbc.co.uk/sport/formula1/articles/cx2wgd5prrno?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Russell claims controversial pole after Verstappen crash",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-06-27T15:58:47.218379+00:00"
+    },
+    {
+      "tweet": "The government is just deciding who gets to use Anthropic's AI now. They're basically acting like they own the tech.",
+      "original_url": "https://www.npr.org/2026/06/27/nx-s1-5871245/trump-administration-imposes-restrictions-for-anthropic-to-halt-access-to-2-ai-models",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Trump administration partially lifts export ban on Anthropic's most advanced AI model",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-06-27T15:58:47.218124+00:00"
     },
     {
       "tweet": "Court just gave the President total power to end TPS and start deportations. Guess we're just ignoring the rules now.",
@@ -605,6 +572,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Someone just mapped a live atlas of open webcams on the public internet. At this point privacy is just a suggestion.",
+      "original_url": "https://ipcrawl.com/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-06-27T22:52:57.603565+00:00"
     },
     {
       "tweet": "Geralt from The Witcher thought he lost the role for years. It's that classic imposter syndrome hitting even when you're the best at what you do.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1809,
+    "total_posted": 1811,
     "total_collected": 8260
   },
-  "last_posted_at": "2026-06-27T22:59:18.880132+00:00"
+  "last_posted_at": "2026-06-27T23:58:45.175986+00:00"
 }
