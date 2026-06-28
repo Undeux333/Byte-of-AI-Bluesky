@@ -2,15 +2,26 @@
   "last_collected": "2026-06-28T21:17:41.539974+00:00",
   "queue": [
     {
-      "tweet": "Some study just used Age of Empires to prove AI isn't actually sentient and it's honestly the most valid point I've heard all year.",
-      "original_url": "https://kotaku.com/study-uses-age-of-empires-scenario-editor-to-illustrate-why-its-farcical-to-treat-ai-as-cognizant-2000711251",
-      "buzz_score": 80,
+      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
+      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "buzz_score": 95,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Study Uses Age Of Empires Scenario Editor To Illustrate Why It’s Farcical To Treat AI As Cognizant",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-06-28T18:48:15.808508+00:00"
+      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-02T15:05:13.740925+00:00"
+    },
+    {
+      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
+      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US court limits mail-order access to abortion pill mifepristone",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
       "tweet": "Pluto TV has both Crank movies for free right now. Sometimes you just need to turn your brain off.",
@@ -35,61 +46,6 @@
       "added_at": "2026-06-28T16:02:04.614119+00:00"
     },
     {
-      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
-      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-02T15:05:13.740925+00:00"
-    },
-    {
-      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
-      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US court limits mail-order access to abortion pill mifepristone",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Did you see Trump wants to block that new bridge to Canada? As if traffic at the border wasn't already a total nightmare. Just power being power, man.",
-      "original_url": "https://www.npr.org/2026/06/28/nx-s1-5828903/trump-gordie-howe-bridge-canada-blocked",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "A bridge to Canada may be blocked by the Trump administration",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-06-28T21:17:41.538356+00:00"
-    },
-    {
-      "tweet": "The guy from Expedition 33 was saying Ben Starr gave him some terrible acting advice. We've all had that one mentor who had no clue.",
-      "original_url": "https://www.polygon.com/clair-obscur-expedition-33-monoco-rich-keeble-success-interview-ben-starr/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Clair Obscur: Expedition 33 actor reveals the lousy advice he got from Ben Starr",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-06-28T16:02:04.614769+00:00"
-    },
-    {
-      "tweet": "So I finally looked up why pizza boxes have those little plastic tables. It's literally just to keep the cheese from sticking to the lid. Total genius.",
-      "original_url": "https://www.mentalfloss.com/food/why-pizza-boxes-have-tiny-plastic-tables?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why Do Pizza Boxes Have Those Tiny Plastic Tables?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-06-28T16:02:04.613833+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -99,17 +55,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "So apparently OpenAI is already previewing the next model. Like we aren't all still trying to figure out what to do with the current one. Insane",
-      "original_url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-28T13:03:45.347809+00:00"
     },
     {
       "tweet": "Hold on, so that whole story about someone gashing the Reflecting Pool and dumping fertilizer in it? Turns out it was just a knife cut. Wild how fast that escalated.",
@@ -486,48 +431,37 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "European populists are now out here campaigning on air conditioning. Politics is officially a comedy sketch.",
-      "original_url": "https://www.nytimes.com/2026/06/28/world/heat-wave-europe-iran-venezuela.html",
-      "buzz_score": 85,
+      "tweet": "Did you see Trump wants to block that new bridge to Canada? As if traffic at the border wasn't already a total nightmare. Just power being power, man.",
+      "original_url": "https://www.npr.org/2026/06/28/nx-s1-5828903/trump-gordie-howe-bridge-canada-blocked",
+      "buzz_score": 90,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Europe’s Heat Politics",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-28T21:17:41.538359+00:00"
-    },
-    {
-      "tweet": "Amazon has a list of bougie clothes for under 25 bucks. Everyone loves pretending they’re doing better than they are.",
-      "original_url": "https://www.bustle.com/shopping/bougie-as-hell-clothes-under-25-on-amazon",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "55 Bougie-As-Hell Clothes Under $25 On Amazon",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-06-28T16:02:04.614892+00:00"
-    },
-    {
-      "tweet": "Labor is trying one last gamble in Parliament before the break. Why do they always wait until the last second?",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jun/29/parliament-has-been-getting-frosty-as-winter-closes-in-but-labor-may-make-one-more-gamble-before-the-break",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Parliament has been getting frosty as winter closes in – but Labor may make one more gamble before the break",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-28T16:02:04.614520+00:00"
-    },
-    {
-      "tweet": "Apparently trade tensions are forcing Brazil and Europe to get cozy. It’s wild that a caipirinha might be the secret to fixing global logistics.",
-      "original_url": "https://www.npr.org/2026/06/28/nx-s1-5872458/brazil-trade-us-tariffs-europe",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trade tensions shake up Brazil's caipirinha spirit",
+      "original_title": "A bridge to Canada may be blocked by the Trump administration",
       "source": "NPR News",
       "category": "world",
-      "added_at": "2026-06-28T16:02:04.613836+00:00"
+      "added_at": "2026-06-28T21:17:41.538356+00:00"
+    },
+    {
+      "tweet": "The guy from Expedition 33 was saying Ben Starr gave him some terrible acting advice. We've all had that one mentor who had no clue.",
+      "original_url": "https://www.polygon.com/clair-obscur-expedition-33-monoco-rich-keeble-success-interview-ben-starr/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Clair Obscur: Expedition 33 actor reveals the lousy advice he got from Ben Starr",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-06-28T16:02:04.614769+00:00"
+    },
+    {
+      "tweet": "So I finally looked up why pizza boxes have those little plastic tables. It's literally just to keep the cheese from sticking to the lid. Total genius.",
+      "original_url": "https://www.mentalfloss.com/food/why-pizza-boxes-have-tiny-plastic-tables?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Why Do Pizza Boxes Have Those Tiny Plastic Tables?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-06-28T16:02:04.613833+00:00"
     },
     {
       "tweet": "Court just gave the President total power to end TPS and start deportations. Guess we're just ignoring the rules now.",
@@ -618,37 +552,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Did you see that those two boys were actually pulled out of the rubble in Venezuela? After like three days. Miracle",
-      "original_url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
+      "tweet": "So apparently OpenAI is already previewing the next model. Like we aren't all still trying to figure out what to do with the current one. Insane",
+      "original_url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-06-28T13:03:45.349145+00:00"
-    },
-    {
-      "tweet": "Apparently the best 2D Zelda games were made by Capcom, not Nintendo. My childhood feels a little different now",
-      "original_url": "https://www.polygon.com/best-2d-zelda-oracle-ages-seasons-capcom/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The best 2D Zelda game wasn't even made by Nintendo",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-06-28T13:03:45.348491+00:00"
-    },
-    {
-      "tweet": "The World Cup bracket is finally set and everyone's already losing their minds. Let the overreacting begin",
-      "original_url": "https://www.espn.com/soccer/story/_/id/49167690/judging-overreactions-world-cup-bracket-knockout-rounds-usmnt-argentina-france-cape-verde",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Overreacting to World Cup bracket: How far will USMNT go? Which contender has best path to final?",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-06-28T13:03:45.347976+00:00"
+      "original_title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-06-28T13:03:45.347809+00:00"
     },
     {
       "tweet": "Man, people are out here using Robin Williams' voice for AI slop now. It's just weird hearing him say stuff he never actually said.",
@@ -1012,6 +924,83 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-06-23T02:04:06.995318+00:00"
+    },
+    {
+      "tweet": "European populists are now out here campaigning on air conditioning. Politics is officially a comedy sketch.",
+      "original_url": "https://www.nytimes.com/2026/06/28/world/heat-wave-europe-iran-venezuela.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Europe’s Heat Politics",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-28T21:17:41.538359+00:00"
+    },
+    {
+      "tweet": "Amazon has a list of bougie clothes for under 25 bucks. Everyone loves pretending they’re doing better than they are.",
+      "original_url": "https://www.bustle.com/shopping/bougie-as-hell-clothes-under-25-on-amazon",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "55 Bougie-As-Hell Clothes Under $25 On Amazon",
+      "source": "Bustle",
+      "category": "sex",
+      "added_at": "2026-06-28T16:02:04.614892+00:00"
+    },
+    {
+      "tweet": "Labor is trying one last gamble in Parliament before the break. Why do they always wait until the last second?",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jun/29/parliament-has-been-getting-frosty-as-winter-closes-in-but-labor-may-make-one-more-gamble-before-the-break",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Parliament has been getting frosty as winter closes in – but Labor may make one more gamble before the break",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-28T16:02:04.614520+00:00"
+    },
+    {
+      "tweet": "Apparently trade tensions are forcing Brazil and Europe to get cozy. It’s wild that a caipirinha might be the secret to fixing global logistics.",
+      "original_url": "https://www.npr.org/2026/06/28/nx-s1-5872458/brazil-trade-us-tariffs-europe",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Trade tensions shake up Brazil's caipirinha spirit",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-06-28T16:02:04.613836+00:00"
+    },
+    {
+      "tweet": "Did you see that those two boys were actually pulled out of the rubble in Venezuela? After like three days. Miracle",
+      "original_url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-06-28T13:03:45.349145+00:00"
+    },
+    {
+      "tweet": "Apparently the best 2D Zelda games were made by Capcom, not Nintendo. My childhood feels a little different now",
+      "original_url": "https://www.polygon.com/best-2d-zelda-oracle-ages-seasons-capcom/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The best 2D Zelda game wasn't even made by Nintendo",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-06-28T13:03:45.348491+00:00"
+    },
+    {
+      "tweet": "The World Cup bracket is finally set and everyone's already losing their minds. Let the overreacting begin",
+      "original_url": "https://www.espn.com/soccer/story/_/id/49167690/judging-overreactions-world-cup-bracket-knockout-rounds-usmnt-argentina-france-cape-verde",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Overreacting to World Cup bracket: How far will USMNT go? Which contender has best path to final?",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-06-28T13:03:45.347976+00:00"
     },
     {
       "tweet": "People are actually looking into why domestic abuse spikes every time the World Cup happens. That's just depressing.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1831,
+    "total_posted": 1832,
     "total_collected": 8368
   },
-  "last_posted_at": "2026-06-28T21:26:57.331026+00:00"
+  "last_posted_at": "2026-06-28T22:32:37.535115+00:00"
 }
