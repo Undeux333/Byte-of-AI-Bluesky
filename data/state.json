@@ -2,28 +2,6 @@
   "last_collected": "2026-06-28T18:48:15.809513+00:00",
   "queue": [
     {
-      "tweet": "Yo, Edgerunners season two is finally dropping on Netflix this fall. About time.",
-      "original_url": "https://kotaku.com/cyberpunk-edgerunners-returns-to-netflix-this-fall-2000711261",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Cyberpunk: Edgerunners’ Season 2 Return To Netflix Finally Has A Release Date This Fall",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-06-28T18:48:15.808360+00:00"
-    },
-    {
-      "tweet": "Did you see there's a sixty-year gap between the oldest and youngest world leaders right now. One guy was born when radio was the main thing and the other was born with an iPad. Man.",
-      "original_url": "https://www.mentalfloss.com/history/government-politics/oldest-youngest-world-leaders-ranked-2026?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Oldest—And Youngest—World Leaders, Ranked",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-06-28T18:48:15.807943+00:00"
-    },
-    {
       "tweet": "Some study just used Age of Empires to prove AI isn't actually sentient and it's honestly the most valid point I've heard all year.",
       "original_url": "https://kotaku.com/study-uses-age-of-empires-scenario-editor-to-illustrate-why-its-farcical-to-treat-ai-as-cognizant-2000711251",
       "buzz_score": 80,
@@ -90,6 +68,28 @@
       "added_at": "2026-06-28T13:03:45.347809+00:00"
     },
     {
+      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
+      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-02T15:05:13.740925+00:00"
+    },
+    {
+      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
+      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US court limits mail-order access to abortion pill mifepristone",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
       "tweet": "Amazon has a list of bougie clothes for under 25 bucks. Everyone loves pretending they’re doing better than they are.",
       "original_url": "https://www.bustle.com/shopping/bougie-as-hell-clothes-under-25-on-amazon",
       "buzz_score": 70,
@@ -123,6 +123,17 @@
       "added_at": "2026-06-28T16:02:04.613836+00:00"
     },
     {
+      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
+      "buzz_score": 92,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
       "tweet": "Did you see that those two boys were actually pulled out of the rubble in Venezuela? After like three days. Miracle",
       "original_url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -154,39 +165,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-06-28T13:03:45.347976+00:00"
-    },
-    {
-      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
-      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-02T15:05:13.740925+00:00"
-    },
-    {
-      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
-      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US court limits mail-order access to abortion pill mifepristone",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
-      "buzz_score": 92,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-24T11:28:23.259709+00:00"
     },
     {
       "tweet": "Hold on, so that whole story about someone gashing the Reflecting Pool and dumping fertilizer in it? Turns out it was just a knife cut. Wild how fast that escalated.",
@@ -563,17 +541,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "People are actually looking into why domestic abuse spikes every time the World Cup happens. That's just depressing.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/why-do-reports-of-domestic-abuse-increase-during-world-cups?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Why do reports of domestic abuse increase during World Cups?",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-06-28T18:48:15.809125+00:00"
-    },
-    {
       "tweet": "Court just gave the President total power to end TPS and start deportations. Guess we're just ignoring the rules now.",
       "original_url": "https://www.npr.org/2026/06/25/nx-s1-5844292/supreme-court-syrian-haitian-tps",
       "buzz_score": 88,
@@ -660,17 +627,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Ben Stokes is retiring 'cause he's totally burned out. Honestly, that feels like the move for everybody these days.",
-      "original_url": "https://www.bbc.co.uk/sport/cricket/articles/c3dymxr4187o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Retirement the best thing for me - Stokes",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-06-28T18:48:15.808107+00:00"
     },
     {
       "tweet": "Man, people are out here using Robin Williams' voice for AI slop now. It's just weird hearing him say stuff he never actually said.",
@@ -1034,6 +990,28 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-06-23T02:04:06.995318+00:00"
+    },
+    {
+      "tweet": "People are actually looking into why domestic abuse spikes every time the World Cup happens. That's just depressing.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/why-do-reports-of-domestic-abuse-increase-during-world-cups?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Why do reports of domestic abuse increase during World Cups?",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-06-28T18:48:15.809125+00:00"
+    },
+    {
+      "tweet": "Ben Stokes is retiring 'cause he's totally burned out. Honestly, that feels like the move for everybody these days.",
+      "original_url": "https://www.bbc.co.uk/sport/cricket/articles/c3dymxr4187o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Retirement the best thing for me - Stokes",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-06-28T18:48:15.808107+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1827,
+    "total_posted": 1829,
     "total_collected": 8352
   },
-  "last_posted_at": "2026-06-28T18:56:43.793910+00:00"
+  "last_posted_at": "2026-06-28T20:11:45.517561+00:00"
 }
