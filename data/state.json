@@ -2,17 +2,6 @@
   "last_collected": "2026-06-28T13:03:45.349404+00:00",
   "queue": [
     {
-      "tweet": "Iran is saying they're keeping the Strait of Hormuz under their control for the next month. Just absolute power moves",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/araghchi-strait-of-hormuz-remains-under-iranian-control-for-30-days?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Araghchi: Strait of Hormuz remains under Iranian control for 30 days",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-06-28T13:03:45.348108+00:00"
-    },
-    {
       "tweet": "So apparently OpenAI is already previewing the next model. Like we aren't all still trying to figure out what to do with the current one. Insane",
       "original_url": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "buzz_score": 85,
@@ -68,28 +57,6 @@
       "added_at": "2026-06-28T09:45:50.343605+00:00"
     },
     {
-      "tweet": "Did you see that Marfa Public Radio is literally just playing audio to help people sleep. We've really hit a new peak of content",
-      "original_url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Marfa Public Radio Puts You to Sleep",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-28T09:45:50.343220+00:00"
-    },
-    {
-      "tweet": "Man, people are out here using Robin Williams' voice for AI slop now. It's just weird hearing him say stuff he never actually said.",
-      "original_url": "https://jayacunzo.com/blog/your-move-chief",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Response to AI slop is from Robin Williams",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-28T06:37:09.941591+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -112,15 +79,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Hold on, so we gutted USAID and now we're scrambling to fix that earthquake mess in Venezuela. Who could’ve seen that coming",
-      "original_url": "https://www.theguardian.com/us-news/2026/jun/28/venezuelan-earthquakes-test-trumps-new-western-hemisphere-policy-after-gutting-of-usaid",
-      "buzz_score": 88,
-      "buzz_score2": 92,
+      "tweet": "Did you see that Marfa Public Radio is literally just playing audio to help people sleep. We've really hit a new peak of content",
+      "original_url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+      "buzz_score": 75,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Venezuelan earthquakes test Trump’s new western hemisphere policy after gutting of USAID",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-28T09:45:50.343489+00:00"
+      "original_title": "Marfa Public Radio Puts You to Sleep",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-06-28T09:45:50.343220+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -132,6 +99,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Man, people are out here using Robin Williams' voice for AI slop now. It's just weird hearing him say stuff he never actually said.",
+      "original_url": "https://jayacunzo.com/blog/your-move-chief",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Response to AI slop is from Robin Williams",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-06-28T06:37:09.941591+00:00"
     },
     {
       "tweet": "Hold on, so that whole story about someone gashing the Reflecting Pool and dumping fertilizer in it? Turns out it was just a knife cut. Wild how fast that escalated.",
@@ -508,17 +486,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Ghana's manager is calling the new 48-team World Cup totally vulgar. He's not wrong, the whole thing is just about the money now",
-      "original_url": "https://www.espn.com/soccer/story/_/id/49205822/carlos-queiroz-world-cup-vulgar-ordinary-competition-ghana",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Ghana boss fears 48-team WC 'vulgar,' 'ordinary'",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-06-28T13:03:45.347823+00:00"
-    },
-    {
       "tweet": "Court just gave the President total power to end TPS and start deportations. Guess we're just ignoring the rules now.",
       "original_url": "https://www.npr.org/2026/06/25/nx-s1-5844292/supreme-court-syrian-haitian-tps",
       "buzz_score": 88,
@@ -605,6 +572,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Hold on, so we gutted USAID and now we're scrambling to fix that earthquake mess in Venezuela. Who could’ve seen that coming",
+      "original_url": "https://www.theguardian.com/us-news/2026/jun/28/venezuelan-earthquakes-test-trumps-new-western-hemisphere-policy-after-gutting-of-usaid",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Venezuelan earthquakes test Trump’s new western hemisphere policy after gutting of USAID",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-28T09:45:50.343489+00:00"
     },
     {
       "tweet": "So apparently they're already previewing a GPT-5.6. Like we haven't even figured out what to do with the current ones yet. Slow down.",
@@ -1001,6 +979,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-06-22T13:16:38.246372+00:00"
+    },
+    {
+      "tweet": "Ghana's manager is calling the new 48-team World Cup totally vulgar. He's not wrong, the whole thing is just about the money now",
+      "original_url": "https://www.espn.com/soccer/story/_/id/49205822/carlos-queiroz-world-cup-vulgar-ordinary-competition-ghana",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Ghana boss fears 48-team WC 'vulgar,' 'ordinary'",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-06-28T13:03:45.347823+00:00"
     },
     {
       "tweet": "Looks like the UK is finally pushing for social media age bans. Tech firms are definitely gonna fight this, they don't want to lose the data",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1820,
+    "total_posted": 1821,
     "total_collected": 8324
   },
-  "last_posted_at": "2026-06-28T13:13:37.090090+00:00"
+  "last_posted_at": "2026-06-28T14:55:23.095432+00:00"
 }
