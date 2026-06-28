@@ -2,28 +2,6 @@
   "last_collected": "2026-06-28T16:02:04.615019+00:00",
   "queue": [
     {
-      "tweet": "Pauline Hanson’s party had to withdraw 800k in spending claims after the commission started asking questions. Classic.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jun/29/one-nation-pauline-hanson-election-funding-withdrawals-aec-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Pauline Hanson’s One Nation withdrew more than $800,000 of election spending claims after AEC inquiries",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-28T16:02:04.614390+00:00"
-    },
-    {
-      "tweet": "Ben Stokes is stepping away from cricket mid-test. Man, just walk out.",
-      "original_url": "https://www.bbc.co.uk/sport/cricket/articles/cq51yee3p2go?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "England captain Ben Stokes announces retirement",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-06-28T16:02:04.613990+00:00"
-    },
-    {
       "tweet": "Pluto TV has both Crank movies for free right now. Sometimes you just need to turn your brain off.",
       "original_url": "https://www.polygon.com/crank-streaming-free-pluto-tv-crank-2/",
       "buzz_score": 80,
@@ -165,17 +143,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Dude, some company is selling a $280 bike lock for a $60 problem. Peak tech",
-      "original_url": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "TMD’s keyless bike lock is a $280 solution to a $60 problem",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-06-28T09:45:50.343605+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -563,15 +530,15 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Did you see that Marfa Public Radio is literally just playing audio to help people sleep. We've really hit a new peak of content",
-      "original_url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
-      "buzz_score": 75,
+      "tweet": "Dude, some company is selling a $280 bike lock for a $60 problem. Peak tech",
+      "original_url": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Marfa Public Radio Puts You to Sleep",
-      "source": "HackerNews",
+      "original_title": "TMD’s keyless bike lock is a $280 solution to a $60 problem",
+      "source": "The Verge",
       "category": "tech",
-      "added_at": "2026-06-28T09:45:50.343220+00:00"
+      "added_at": "2026-06-28T09:45:50.343605+00:00"
     },
     {
       "tweet": "Court just gave the President total power to end TPS and start deportations. Guess we're just ignoring the rules now.",
@@ -1034,6 +1001,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-06-23T02:04:06.995145+00:00"
+    },
+    {
+      "tweet": "Did you see that Marfa Public Radio is literally just playing audio to help people sleep. We've really hit a new peak of content",
+      "original_url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Marfa Public Radio Puts You to Sleep",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-06-28T09:45:50.343220+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1823,
+    "total_posted": 1825,
     "total_collected": 8336
   },
-  "last_posted_at": "2026-06-28T16:08:22.242448+00:00"
+  "last_posted_at": "2026-06-28T17:39:58.791036+00:00"
 }
