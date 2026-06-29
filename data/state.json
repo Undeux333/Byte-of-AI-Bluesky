@@ -2,28 +2,6 @@
   "last_collected": "2026-06-29T21:02:49.399067+00:00",
   "queue": [
     {
-      "tweet": "So the Senate Ethics Committee just tossed that complaint against Ruben Gallego. Must be nice to clear your own record.",
-      "original_url": "https://www.npr.org/2026/06/29/nx-s1-5788049/ruben-gallego-ethics-investigation-dismissed",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Senate Ethics Committee dismisses complaint against Sen. Ruben Gallego",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-06-29T21:02:49.397548+00:00"
-    },
-    {
-      "tweet": "Man, people still talk about that revenge dress Diana wore. It’s wild how one outfit can just completely end a guy’s whole reputation.",
-      "original_url": "https://www.mentalfloss.com/history/royalty/story-behind-princess-diana-revenge-dress?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Story Behind Princess Diana's Revenge Dress",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-06-29T21:02:49.397536+00:00"
-    },
-    {
       "tweet": "Martinelli just saved Brazil in the 95th minute. Insane.",
       "original_url": "https://www.bbc.co.uk/sport/football/videos/cdjknkplkr2o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -90,17 +68,6 @@
       "added_at": "2026-06-29T14:58:18.330460+00:00"
     },
     {
-      "tweet": "There's a class action because the RAM companies were colluding on prices. So we've been overpaying for all of it this whole time.",
-      "original_url": "https://kotaku.com/class-action-lawsuit-accuses-the-three-largest-ram-manufacturers-of-colluding-to-drive-up-prices-2000711373",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Class Action Lawsuit Accuses The Three Largest RAM Manufacturers Of Colluding To Drive Up Prices",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-06-29T14:58:18.331446+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -134,15 +101,15 @@
       "added_at": "2026-06-24T11:28:23.259709+00:00"
     },
     {
-      "tweet": "Jack Draper is out of Wimbledon with that arm injury again. Poor guy can't catch a break.",
-      "original_url": "https://www.bbc.co.uk/sport/tennis/articles/c9821er1yg2o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
+      "tweet": "There's a class action because the RAM companies were colluding on prices. So we've been overpaying for all of it this whole time.",
+      "original_url": "https://kotaku.com/class-action-lawsuit-accuses-the-three-largest-ram-manufacturers-of-colluding-to-drive-up-prices-2000711373",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Draper out of Wimbledon as injury struggles continue",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-06-29T14:58:18.330986+00:00"
+      "original_title": "Class Action Lawsuit Accuses The Three Largest RAM Manufacturers Of Colluding To Drive Up Prices",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-06-29T14:58:18.331446+00:00"
     },
     {
       "tweet": "Hold on, so that whole story about someone gashing the Reflecting Pool and dumping fertilizer in it? Turns out it was just a knife cut. Wild how fast that escalated.",
@@ -519,17 +486,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Another aftershock in Venezuela? That’s just brutal.",
-      "original_url": "https://www.theguardian.com/world/2026/jun/29/strong-aftershock-terrifies-venezuelans-days-after-devastating-twin-quakes",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Strong aftershock terrifies Venezuelans days after devastating twin quakes",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-29T21:02:49.398704+00:00"
-    },
-    {
       "tweet": "Court just gave the President total power to end TPS and start deportations. Guess we're just ignoring the rules now.",
       "original_url": "https://www.npr.org/2026/06/25/nx-s1-5844292/supreme-court-syrian-haitian-tps",
       "buzz_score": 88,
@@ -616,6 +572,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Jack Draper is out of Wimbledon with that arm injury again. Poor guy can't catch a break.",
+      "original_url": "https://www.bbc.co.uk/sport/tennis/articles/c9821er1yg2o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Draper out of Wimbledon as injury struggles continue",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-06-29T14:58:18.330986+00:00"
     },
     {
       "tweet": "So apparently OpenAI is already previewing the next model. Like we aren't all still trying to figure out what to do with the current one. Insane",
@@ -981,15 +948,15 @@
       "added_at": "2026-06-23T02:04:06.996359+00:00"
     },
     {
-      "tweet": "Sounds like the Temporary Protected Status program is basically done. Another thing getting cut.",
-      "original_url": "https://www.npr.org/2026/06/29/g-s1-130942/temporary-protected-status-program-explainer-supreme-court",
-      "buzz_score": 80,
+      "tweet": "Another aftershock in Venezuela? That’s just brutal.",
+      "original_url": "https://www.theguardian.com/world/2026/jun/29/strong-aftershock-terrifies-venezuelans-days-after-devastating-twin-quakes",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "The Temporary Protected Status program may effectively be over. Here's what we know.",
-      "source": "NPR News",
+      "original_title": "Strong aftershock terrifies Venezuelans days after devastating twin quakes",
+      "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-06-29T21:02:49.398084+00:00"
+      "added_at": "2026-06-29T21:02:49.398704+00:00"
     },
     {
       "tweet": "Apparently the US reached a deal with Iran to stop the attacks, but Iran hasn't even confirmed it. Classic.",
@@ -1023,6 +990,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-06-29T11:29:16.661198+00:00"
+    },
+    {
+      "tweet": "Sounds like the Temporary Protected Status program is basically done. Another thing getting cut.",
+      "original_url": "https://www.npr.org/2026/06/29/g-s1-130942/temporary-protected-status-program-explainer-supreme-court",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Temporary Protected Status program may effectively be over. Here's what we know.",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-06-29T21:02:49.398084+00:00"
     },
     {
       "tweet": "Did you know Lauryn Hill wrote half the songs we grew up listening to? Literally a legend.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1848,
+    "total_posted": 1850,
     "total_collected": 8477
   },
-  "last_posted_at": "2026-06-29T21:12:30.537186+00:00"
+  "last_posted_at": "2026-06-29T22:24:20.078961+00:00"
 }
