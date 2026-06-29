@@ -2,28 +2,6 @@
   "last_collected": "2026-06-29T17:32:22.848078+00:00",
   "queue": [
     {
-      "tweet": "Xbox workers are finally saying they're not disposable after all those layoffs. Good for them.",
-      "original_url": "https://kotaku.com/unionized-workers-xbox-respond-layoff-reports-will-not-be-treated-disposable-2000711455",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Unionized Workers At Xbox Respond To Layoff Reports, Say They ‘Will Not Be Treated As Disposable’",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-06-29T17:32:22.847437+00:00"
-    },
-    {
-      "tweet": "Target is apparently marking up Pokémon cards now. Corporate greed.",
-      "original_url": "https://kotaku.com/pokemon-tcg-where-target-stock-prices-gouging-scalpers-2000711454",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Target Seems To Be Artificially Increasing Prices On Pokémon TCG Products",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-06-29T17:32:22.847295+00:00"
-    },
-    {
       "tweet": "Dude, people finally figured out how to open up AirPods and swap the batteries. That's a total game changer.",
       "original_url": "https://github.com/librepods-org/librepods",
       "buzz_score": 85,
@@ -90,39 +68,6 @@
       "added_at": "2026-06-29T14:58:18.330986+00:00"
     },
     {
-      "tweet": "Apparently the US reached a deal with Iran to stop the attacks, but Iran hasn't even confirmed it. Classic.",
-      "original_url": "https://www.nytimes.com/live/2026/06/29/world/hormuz-us-iran-strikes",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mideast Live Updates: U.S. Reaches Deal With Iran to Halt Attacks, Official Says",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-29T11:29:16.662754+00:00"
-    },
-    {
-      "tweet": "Palace dropping a Detroit Tigers collection is actually a vibe. Need that.",
-      "original_url": "https://hypebeast.com/2026/6/detroit-tigers-mlb-palace-skateboards-collaboration-collection-release-info",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Palace Skateboards Celebrates the Detroit Tigers With a Seven-Piece \"313\" Capsule",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-06-29T11:29:16.662258+00:00"
-    },
-    {
-      "tweet": "Did you see Feroz Khan survived an assassination attempt right before he was supposed to talk about police corruption? Super normal.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c9v2x700l8vo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Senior South African police officer survives assassination attempt",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-06-29T11:29:16.661198+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -154,50 +99,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "That liberal frontbencher calling for a party rebrand after tanking in the polls is just hilarious.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jun/29/liberal-frontbencher-melissa-mcintosh-party-rebrand",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Liberal frontbencher calls for party ‘rebrand’ after drop in polls, prompting ridicule from Labor",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-29T11:29:16.662135+00:00"
-    },
-    {
-      "tweet": "Michael Vaughan is saying he'd be staggered if there wasn't a total leadership shakeup after Ben Stokes retired. Fair.",
-      "original_url": "https://www.bbc.co.uk/sport/cricket/articles/ce8ke6y8egzo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "More change needed after Stokes retires - Vaughan",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-06-29T11:29:16.661886+00:00"
-    },
-    {
-      "tweet": "Bad Bunny doing sold-out shows in London is wild. We're everywhere.",
-      "original_url": "https://www.billboard.com/lists/bad-bunny-live-london-seven-best-moments/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Bad Bunny Brings the Heat to London With History-Making Shows: 7 Best Moments",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-06-29T11:29:16.661624+00:00"
-    },
-    {
-      "tweet": "So apparently the US and Iran are back to attacking each other over the weekend. Are we really shocked?",
-      "original_url": "https://www.npr.org/2026/06/29/nx-s1-5874618/us-iran-peace-talks-in-question",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "U.S.-Iran peace talks in question after weekend attacks in the Gulf",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-06-29T11:29:16.661201+00:00"
     },
     {
       "tweet": "Hold on, so that whole story about someone gashing the Reflecting Pool and dumping fertilizer in it? Turns out it was just a knife cut. Wild how fast that escalated.",
@@ -574,17 +475,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Apparently antidepressants can just steal your sex life. Rough.",
-      "original_url": "https://sex.cosmopolitan.com/pleasure/a71772305/orgasm-recovery-course/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Antidepressants Stole My Orgasm. Can a Four-Week Sex Therapy Course Bring It Back?",
-      "source": "Cosmo Sex & Love",
-      "category": "sex",
-      "added_at": "2026-06-29T17:32:22.846908+00:00"
-    },
-    {
       "tweet": "Court just gave the President total power to end TPS and start deportations. Guess we're just ignoring the rules now.",
       "original_url": "https://www.npr.org/2026/06/25/nx-s1-5844292/supreme-court-syrian-haitian-tps",
       "buzz_score": 88,
@@ -671,6 +561,39 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Apparently the US reached a deal with Iran to stop the attacks, but Iran hasn't even confirmed it. Classic.",
+      "original_url": "https://www.nytimes.com/live/2026/06/29/world/hormuz-us-iran-strikes",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Mideast Live Updates: U.S. Reaches Deal With Iran to Halt Attacks, Official Says",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-29T11:29:16.662754+00:00"
+    },
+    {
+      "tweet": "Palace dropping a Detroit Tigers collection is actually a vibe. Need that.",
+      "original_url": "https://hypebeast.com/2026/6/detroit-tigers-mlb-palace-skateboards-collaboration-collection-release-info",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Palace Skateboards Celebrates the Detroit Tigers With a Seven-Piece \"313\" Capsule",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-06-29T11:29:16.662258+00:00"
+    },
+    {
+      "tweet": "Did you see Feroz Khan survived an assassination attempt right before he was supposed to talk about police corruption? Super normal.",
+      "original_url": "https://www.bbc.co.uk/news/articles/c9v2x700l8vo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Senior South African police officer survives assassination attempt",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-06-29T11:29:16.661198+00:00"
     },
     {
       "tweet": "So apparently OpenAI is already previewing the next model. Like we aren't all still trying to figure out what to do with the current one. Insane",
@@ -1034,6 +957,61 @@
       "source": "Rolling Stone",
       "category": "entertainment",
       "added_at": "2026-06-23T02:04:06.996359+00:00"
+    },
+    {
+      "tweet": "That liberal frontbencher calling for a party rebrand after tanking in the polls is just hilarious.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jun/29/liberal-frontbencher-melissa-mcintosh-party-rebrand",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Liberal frontbencher calls for party ‘rebrand’ after drop in polls, prompting ridicule from Labor",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-29T11:29:16.662135+00:00"
+    },
+    {
+      "tweet": "Michael Vaughan is saying he'd be staggered if there wasn't a total leadership shakeup after Ben Stokes retired. Fair.",
+      "original_url": "https://www.bbc.co.uk/sport/cricket/articles/ce8ke6y8egzo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "More change needed after Stokes retires - Vaughan",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-06-29T11:29:16.661886+00:00"
+    },
+    {
+      "tweet": "Bad Bunny doing sold-out shows in London is wild. We're everywhere.",
+      "original_url": "https://www.billboard.com/lists/bad-bunny-live-london-seven-best-moments/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Bad Bunny Brings the Heat to London With History-Making Shows: 7 Best Moments",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-06-29T11:29:16.661624+00:00"
+    },
+    {
+      "tweet": "So apparently the US and Iran are back to attacking each other over the weekend. Are we really shocked?",
+      "original_url": "https://www.npr.org/2026/06/29/nx-s1-5874618/us-iran-peace-talks-in-question",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "U.S.-Iran peace talks in question after weekend attacks in the Gulf",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-06-29T11:29:16.661201+00:00"
+    },
+    {
+      "tweet": "Apparently antidepressants can just steal your sex life. Rough.",
+      "original_url": "https://sex.cosmopolitan.com/pleasure/a71772305/orgasm-recovery-course/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Antidepressants Stole My Orgasm. Can a Four-Week Sex Therapy Course Bring It Back?",
+      "source": "Cosmo Sex & Love",
+      "category": "sex",
+      "added_at": "2026-06-29T17:32:22.846908+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1844,
+    "total_posted": 1846,
     "total_collected": 8461
   },
-  "last_posted_at": "2026-06-29T17:40:06.408289+00:00"
+  "last_posted_at": "2026-06-29T19:31:27.165657+00:00"
 }
