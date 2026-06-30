@@ -2,28 +2,6 @@
   "last_collected": "2026-06-30T11:38:00.479561+00:00",
   "queue": [
     {
-      "tweet": "Dude, Rocketlab just scooped up Iridium. Like, we're really just playing real-life Kerbal Space Program now, huh",
-      "original_url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Rocketlab acquires Iridium",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-30T11:38:00.477727+00:00"
-    },
-    {
-      "tweet": "So apparently Moscow got hit by sixty drones at once today. Sixty. That's just a normal Tuesday for them now, man",
-      "original_url": "https://www.nytimes.com/2026/06/30/world/europe/moscow-drone-attack-russia-ukraine-war.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Moscow Is Attacked by Dozens of Drones, Its Mayor Says",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-30T08:53:43.226356+00:00"
-    },
-    {
       "tweet": "Did you see that US security chief doing a happy dance after Iran got knocked out of the World Cup. Pretty unprofessional tho",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/crr8x5qkly1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -44,39 +22,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-06-30T05:53:49.786311+00:00"
-    },
-    {
-      "tweet": "That report says AI adoption actually increased headcount at companies. So much for the robots taking all the jobs immediately.",
-      "original_url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The AI jobs debate just got messier",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-06-30T05:53:49.786966+00:00"
-    },
-    {
-      "tweet": "Did you see Guo Wengui got 30 years? Imagine claiming you're some political crusader just to blow all that investor cash on a yacht. Total grift.",
-      "original_url": "https://www.npr.org/2026/06/29/g-s1-130976/chinese-billionaire-guo-wengui-gets-30-years-in-u-s-prison-for-fraud-conviction",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Chinese billionaire Guo Wengui gets 30 years in U.S. prison for fraud conviction",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-06-30T05:53:49.786020+00:00"
-    },
-    {
-      "tweet": "Cody Gakpo scored a goal days after losing his kid. Man, that's heavy.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c5yz3yjgp5yo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Emotional Gakpo scores days after loss of unborn son",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-06-30T05:53:49.786439+00:00"
     },
     {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
@@ -101,6 +46,28 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "That report says AI adoption actually increased headcount at companies. So much for the robots taking all the jobs immediately.",
+      "original_url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The AI jobs debate just got messier",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-06-30T05:53:49.786966+00:00"
+    },
+    {
+      "tweet": "Did you see Guo Wengui got 30 years? Imagine claiming you're some political crusader just to blow all that investor cash on a yacht. Total grift.",
+      "original_url": "https://www.npr.org/2026/06/29/g-s1-130976/chinese-billionaire-guo-wengui-gets-30-years-in-u-s-prison-for-fraud-conviction",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Chinese billionaire Guo Wengui gets 30 years in U.S. prison for fraud conviction",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-06-30T05:53:49.786020+00:00"
+    },
+    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -110,6 +77,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Cody Gakpo scored a goal days after losing his kid. Man, that's heavy.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/c5yz3yjgp5yo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 82,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Emotional Gakpo scores days after loss of unborn son",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-06-30T05:53:49.786439+00:00"
     },
     {
       "tweet": "Hold on, so that whole story about someone gashing the Reflecting Pool and dumping fertilizer in it? Turns out it was just a knife cut. Wild how fast that escalated.",
@@ -484,39 +462,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "People in Venezuela are using crowbars to dig out survivors after those quakes. Just brutal how little help they're actually getting",
-      "original_url": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-06-30T11:38:00.479433+00:00"
-    },
-    {
-      "tweet": "The Gojek founder just got ten years for corruption. Pretty wild how fast you go from tech darling to a prison cell",
-      "original_url": "https://www.aljazeera.com/economy/2026/6/30/gojek-co-founder-nadiem-makarim-sentenced-to-10-years-for-corruption?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Gojek co-founder Nadiem Makarim sentenced to 10 years for corruption",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-06-30T11:38:00.478145+00:00"
-    },
-    {
-      "tweet": "Scientists are packing up and heading to the UK after that whole election thing. Sometimes you just gotta change your zip code to keep your head on straight",
-      "original_url": "https://www.npr.org/2026/06/30/nx-s1-5875206/trumps-cuts-science-researchers-move-abroad",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "After Trump's re-election, these U.S. scientists found jobs in the U.K.",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-06-30T11:38:00.477734+00:00"
     },
     {
       "tweet": "Court just gave the President total power to end TPS and start deportations. Guess we're just ignoring the rules now.",
@@ -1023,6 +968,39 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-23T06:18:28.629735+00:00"
+    },
+    {
+      "tweet": "People in Venezuela are using crowbars to dig out survivors after those quakes. Just brutal how little help they're actually getting",
+      "original_url": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-06-30T11:38:00.479433+00:00"
+    },
+    {
+      "tweet": "The Gojek founder just got ten years for corruption. Pretty wild how fast you go from tech darling to a prison cell",
+      "original_url": "https://www.aljazeera.com/economy/2026/6/30/gojek-co-founder-nadiem-makarim-sentenced-to-10-years-for-corruption?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Gojek co-founder Nadiem Makarim sentenced to 10 years for corruption",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-06-30T11:38:00.478145+00:00"
+    },
+    {
+      "tweet": "Scientists are packing up and heading to the UK after that whole election thing. Sometimes you just gotta change your zip code to keep your head on straight",
+      "original_url": "https://www.npr.org/2026/06/30/nx-s1-5875206/trumps-cuts-science-researchers-move-abroad",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "After Trump's re-election, these U.S. scientists found jobs in the U.K.",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-06-30T11:38:00.477734+00:00"
     },
     {
       "tweet": "Call of Duty is out here running ads just to tell us Modern Warfare 4 isn't on Game Pass. Like, why are we paying for this",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1860,
+    "total_posted": 1862,
     "total_collected": 8554
   },
-  "last_posted_at": "2026-06-30T11:43:55.199046+00:00"
+  "last_posted_at": "2026-06-30T13:36:31.717541+00:00"
 }
