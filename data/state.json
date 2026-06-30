@@ -2,28 +2,6 @@
   "last_collected": "2026-06-30T20:16:51.793736+00:00",
   "queue": [
     {
-      "tweet": "Dude, Berlin is seriously trying to pave over a Nazi bunker to build luxury apartments. Like, that's history right there. Man.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-06-30T20:16:51.791930+00:00"
-    },
-    {
-      "tweet": "Five humanitarian workers got killed in South Sudan. It's just a mess.",
-      "original_url": "https://www.aljazeera.com/news/2026/6/30/five-humanitarian-workers-killed-in-convoy-ambush-in-south-sudan?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Five humanitarian workers killed in convoy ambush in South Sudan",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-06-30T20:16:51.793488+00:00"
-    },
-    {
       "tweet": "Suno is getting sued for copyright again. Guess building AI on everyone's music wasn't as free as they thought.",
       "original_url": "https://www.billboard.com/pro/suno-ai-training-copyright-lawsuit-production-music-firm/",
       "buzz_score": 80,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1868,
+    "total_posted": 1870,
     "total_collected": 8594
   },
-  "last_posted_at": "2026-06-30T20:24:32.210536+00:00"
+  "last_posted_at": "2026-06-30T22:01:04.487107+00:00"
 }
