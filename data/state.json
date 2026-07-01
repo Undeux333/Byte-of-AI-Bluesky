@@ -2,28 +2,6 @@
   "last_collected": "2026-06-30T23:02:29.110525+00:00",
   "queue": [
     {
-      "tweet": "The US power grid is gonna be tested by this heatwave because of AI energy demand. We're literally trading our AC for more chatbots.",
-      "original_url": "https://www.aljazeera.com/news/2026/6/30/us-heatwave-to-test-power-grid-amid-soaring-ai-driven-energy-demand?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US heatwave to test power grid amid soaring AI-driven energy demand",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-06-30T18:11:00.934726+00:00"
-    },
-    {
-      "tweet": "So apparently Claude Code is steganographically marking every single request now. Just another day of us paying companies to track what we're actually doing with their tools. Creepy.",
-      "original_url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Claude Code Is Steganographically Marking Requests",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-30T18:11:00.934188+00:00"
-    },
-    {
       "tweet": "So Meta tried to buy Kalshi first but just decided to copy them instead. Zuckerberg really doesn't have a single original idea left in his head.",
       "original_url": "https://www.npr.org/2026/06/30/nx-s1-5875468/meta-kalshi-prediction-market-acquisition-talks",
       "buzz_score": 85,
@@ -68,17 +46,6 @@
       "added_at": "2026-06-30T16:02:46.937283+00:00"
     },
     {
-      "tweet": "Dude, the US ambassador actually had the Belgian police shut down that reporter. Like, we're really doing that now?",
-      "original_url": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The US ambassador had Belgian police stop our reporting",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-06-30T16:02:46.937272+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -112,15 +79,15 @@
       "added_at": "2026-06-24T11:28:23.259709+00:00"
     },
     {
-      "tweet": "People in Venezuela are basically digging through rubble with their hands because the rescue equipment isn't there. That's just brutal.",
-      "original_url": "https://www.nytimes.com/2026/06/30/world/americas/venezuela-earthquake-rescue-equipment-aid.html",
-      "buzz_score": 80,
+      "tweet": "Dude, the US ambassador actually had the Belgian police shut down that reporter. Like, we're really doing that now?",
+      "original_url": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Shortages of Rescue Equipment Hampered Venezuela’s Earthquake Response",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-06-30T16:02:46.937288+00:00"
+      "original_title": "The US ambassador had Belgian police stop our reporting",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-06-30T16:02:46.937272+00:00"
     },
     {
       "tweet": "Hold on, so that whole story about someone gashing the Reflecting Pool and dumping fertilizer in it? Turns out it was just a knife cut. Wild how fast that escalated.",
@@ -594,6 +561,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "People in Venezuela are basically digging through rubble with their hands because the rescue equipment isn't there. That's just brutal.",
+      "original_url": "https://www.nytimes.com/2026/06/30/world/americas/venezuela-earthquake-rescue-equipment-aid.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Shortages of Rescue Equipment Hampered Venezuela’s Earthquake Response",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-06-30T16:02:46.937288+00:00"
     },
     {
       "tweet": "That report says AI adoption actually increased headcount at companies. So much for the robots taking all the jobs immediately.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1872,
+    "total_posted": 1874,
     "total_collected": 8610
   },
-  "last_posted_at": "2026-06-30T23:09:11.994208+00:00"
+  "last_posted_at": "2026-07-01T00:27:56.926895+00:00"
 }
