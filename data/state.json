@@ -2,28 +2,6 @@
   "last_collected": "2026-07-02T20:51:42.075515+00:00",
   "queue": [
     {
-      "tweet": "So apparently Japan's top court just ruled that AI can't be a patent inventor. Honestly just good to know robots don't have human rights yet",
-      "original_url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-02T18:09:21.473603+00:00"
-    },
-    {
-      "tweet": "Dude, they just built a cell from scratch that actually grows and divides. We're literally playing God now. Kind of weird",
-      "original_url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "For first time, a cell built from scratch grows and divides",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-02T14:34:44.272756+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -46,17 +24,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Man City is dropping a record fee for Elliot Anderson. Do they even have a budget at this point",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c3dynyg0j1lo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why are Man City breaking the bank for Anderson?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-02T14:34:44.273061+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -66,6 +33,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Man City is dropping a record fee for Elliot Anderson. Do they even have a budget at this point",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/c3dynyg0j1lo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Why are Man City breaking the bank for Anderson?",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-02T14:34:44.273061+00:00"
     },
     {
       "tweet": "So the Supreme Court just blocked that whole birthright citizenship order Trump tried to push. Glad that's settled.",
@@ -453,28 +431,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Russia is firing 70 missiles at Kyiv while dealing with their own fuel shortages back home. At what point does the math just stop working?",
-      "original_url": "https://www.theguardian.com/world/2026/jul/02/russia-attacks-kyiv-missiles-drones-ukraine",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "At least 21 dead as Russia launches massive drone and missile attack on Kyiv",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-02T20:51:42.074366+00:00"
-    },
-    {
-      "tweet": "An 11-year-old just drove a truck into a monk procession in Thailand and killed nine people. What is even happening",
-      "original_url": "https://www.theguardian.com/world/2026/jul/02/monks-killed-thailand-mukdahan-crash-truck-procession",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "At least nine monks killed in Thailand after boy drives truck into procession",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-02T14:34:44.273192+00:00"
-    },
-    {
       "tweet": "Germany just got knocked out of the World Cup by Paraguay. Nightmare stuff.",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/c992kzk00kzo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 88,
@@ -572,6 +528,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Russia is firing 70 missiles at Kyiv while dealing with their own fuel shortages back home. At what point does the math just stop working?",
+      "original_url": "https://www.theguardian.com/world/2026/jul/02/russia-attacks-kyiv-missiles-drones-ukraine",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "At least 21 dead as Russia launches massive drone and missile attack on Kyiv",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-02T20:51:42.074366+00:00"
+    },
+    {
+      "tweet": "An 11-year-old just drove a truck into a monk procession in Thailand and killed nine people. What is even happening",
+      "original_url": "https://www.theguardian.com/world/2026/jul/02/monks-killed-thailand-mukdahan-crash-truck-procession",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "At least nine monks killed in Thailand after boy drives truck into procession",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-02T14:34:44.273192+00:00"
     },
     {
       "tweet": "Four people died just celebrating that Mexico City win? That's just wild, man.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1902,
+    "total_posted": 1904,
     "total_collected": 8805
   },
-  "last_posted_at": "2026-07-02T21:01:36.580506+00:00"
+  "last_posted_at": "2026-07-02T22:04:07.550418+00:00"
 }
