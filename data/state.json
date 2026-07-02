@@ -2,28 +2,6 @@
   "last_collected": "2026-07-02T10:27:02.759105+00:00",
   "queue": [
     {
-      "tweet": "Spurs just dropped eighty-five million on Fernandes. That’s a lot of money for a guy who better start scoring",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c862ejqg3leo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Spurs sign West Ham midfielder Fernandes for £85m",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-02T10:27:02.757809+00:00"
-    },
-    {
-      "tweet": "So apparently an Indonesian couple got caned in public for kissing on TikTok. Are we seriously still living in the middle ages",
-      "original_url": "https://www.theguardian.com/world/2026/jul/02/young-indonesian-couple-publicly-caned-after-kissing-on-tiktok",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Young Indonesian couple publicly caned after kissing on TikTok",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-02T10:27:02.757557+00:00"
-    },
-    {
       "tweet": "This report says a US-UK drug deal might cause over two hundred thousand deaths by gutting the NHS. Is that the price of a trade deal",
       "original_url": "https://www.aljazeera.com/news/2026/7/2/an-extra-229000-deaths-is-that-the-cost-of-us-uk-drugs-deal?traffic_source=rss",
       "buzz_score": 80,
@@ -79,39 +57,6 @@
       "added_at": "2026-07-02T07:54:38.913678+00:00"
     },
     {
-      "tweet": "Russia is really out here hitting Kyiv with the biggest strikes in weeks. Watching the news is just depressing man",
-      "original_url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Russia launches deadly large-scale missile and drone strikes on Kyiv",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-02T04:36:39.724949+00:00"
-    },
-    {
-      "tweet": "Wait, German prosecutors are saying a yacht was used for the Nord Stream stuff? That sounds like a movie script",
-      "original_url": "https://www.aljazeera.com/news/2026/7/2/german-prosecutors-charge-ukrainian-suspect-over-nord-stream-explosions?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "German prosecutors charge Ukrainian suspect over Nord Stream explosions",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-02T04:36:39.724338+00:00"
-    },
-    {
-      "tweet": "USA made it to the next round but that Balogun red card is gonna haunt us, right? How do you even do that in a game this big",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cgjx07ql6v0o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "USA march on but will Balogun red card prove costly?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-02T04:36:39.723968+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -143,28 +88,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "So the US officially labeled those Chone Killers guys as terrorists. Pretty sure that’s just how we say we're done messing around",
-      "original_url": "https://www.aljazeera.com/news/2026/7/2/us-designates-ecuadors-chone-killers-gang-as-terrorist-organisation?traffic_source=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US designates Ecuador’s Chone Killers gang as ‘terrorist’ organisation",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-02T04:36:39.724213+00:00"
-    },
-    {
-      "tweet": "Dude, saw this list of the five alien types people keep spotting. Honestly, kind of wild how we all just agree on what they look like, isn't it",
-      "original_url": "https://www.mentalfloss.com/culture/weird/major-types-of-aliens?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The 5 Types of Aliens People Most Frequently Say They See",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-02T04:36:39.723537+00:00"
     },
     {
       "tweet": "So the Supreme Court just blocked that whole birthright citizenship order Trump tried to push. Glad that's settled.",
@@ -552,48 +475,37 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Russia is hammering Kyiv again. It’s just relentless over there",
-      "original_url": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack",
-      "buzz_score": 85,
-      "buzz_score2": 90,
+      "tweet": "Russia is really out here hitting Kyiv with the biggest strikes in weeks. Watching the news is just depressing man",
+      "original_url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Live Updates: Russia Hammers Ukraine’s Capital in Deadly Attacks",
-      "source": "NYT World",
+      "original_title": "Russia launches deadly large-scale missile and drone strikes on Kyiv",
+      "source": "BBC World",
       "category": "world",
-      "added_at": "2026-07-02T10:27:02.758612+00:00"
+      "added_at": "2026-07-02T04:36:39.724949+00:00"
     },
     {
-      "tweet": "There’s a whole Luddite festival in NYC right now for people trying to get offline. We're all just tired of being tracked, man",
-      "original_url": "https://www.wired.com/story/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Inside the Luddite Festival Harnessing Gen Z’s Rage Against Big Tech",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-07-02T10:27:02.757276+00:00"
-    },
-    {
-      "tweet": "Found some half-off codes for Paramount plus if you're trying to watch something this weekend. Don't pay full price for that stuff.",
-      "original_url": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "buzz_score": 60,
+      "tweet": "Wait, German prosecutors are saying a yacht was used for the Nord Stream stuff? That sounds like a movie script",
+      "original_url": "https://www.aljazeera.com/news/2026/7/2/german-prosecutors-charge-ukrainian-suspect-over-nord-stream-explosions?traffic_source=rss",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Paramount+ Coupon Codes and Deals for July 2026",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-07-02T07:54:38.914678+00:00"
+      "original_title": "German prosecutors charge Ukrainian suspect over Nord Stream explosions",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-02T04:36:39.724338+00:00"
     },
     {
-      "tweet": "If you're looking for a new laptop, Dell's got 20 percent off codes this month. Definitely beats paying full price.",
-      "original_url": "https://www.wired.com/story/dell-coupon-code/",
-      "buzz_score": 60,
+      "tweet": "USA made it to the next round but that Balogun red card is gonna haunt us, right? How do you even do that in a game this big",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cgjx07ql6v0o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Dell Coupon Codes: 20% Off for July 2026",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-07-02T07:54:38.914554+00:00"
+      "original_title": "USA march on but will Balogun red card prove costly?",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-02T04:36:39.723968+00:00"
     },
     {
       "tweet": "Germany just got knocked out of the World Cup by Paraguay. Nightmare stuff.",
@@ -693,17 +605,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "I'm looking at these Rhythm Heaven tips and it just reminds me how trash I am at rhythm games. Always happens",
-      "original_url": "https://www.polygon.com/rhythm-heaven-groove-beginners-tips-tricks/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "8 Rhythm Heaven Groove tips to help you stay on beat",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-02T04:36:39.724578+00:00"
     },
     {
       "tweet": "Did you see what Claude Sonnet 5 is pulling off? It's actually getting scary how fast these things are just taking over everything.",
@@ -1034,6 +935,83 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-06-25T06:18:12.524579+00:00"
+    },
+    {
+      "tweet": "So the US officially labeled those Chone Killers guys as terrorists. Pretty sure that’s just how we say we're done messing around",
+      "original_url": "https://www.aljazeera.com/news/2026/7/2/us-designates-ecuadors-chone-killers-gang-as-terrorist-organisation?traffic_source=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US designates Ecuador’s Chone Killers gang as ‘terrorist’ organisation",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-02T04:36:39.724213+00:00"
+    },
+    {
+      "tweet": "Dude, saw this list of the five alien types people keep spotting. Honestly, kind of wild how we all just agree on what they look like, isn't it",
+      "original_url": "https://www.mentalfloss.com/culture/weird/major-types-of-aliens?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The 5 Types of Aliens People Most Frequently Say They See",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-07-02T04:36:39.723537+00:00"
+    },
+    {
+      "tweet": "Russia is hammering Kyiv again. It’s just relentless over there",
+      "original_url": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Live Updates: Russia Hammers Ukraine’s Capital in Deadly Attacks",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-02T10:27:02.758612+00:00"
+    },
+    {
+      "tweet": "There’s a whole Luddite festival in NYC right now for people trying to get offline. We're all just tired of being tracked, man",
+      "original_url": "https://www.wired.com/story/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Inside the Luddite Festival Harnessing Gen Z’s Rage Against Big Tech",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-07-02T10:27:02.757276+00:00"
+    },
+    {
+      "tweet": "Found some half-off codes for Paramount plus if you're trying to watch something this weekend. Don't pay full price for that stuff.",
+      "original_url": "https://www.wired.com/story/paramount-plus-coupon-code/",
+      "buzz_score": 60,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Paramount+ Coupon Codes and Deals for July 2026",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-07-02T07:54:38.914678+00:00"
+    },
+    {
+      "tweet": "If you're looking for a new laptop, Dell's got 20 percent off codes this month. Definitely beats paying full price.",
+      "original_url": "https://www.wired.com/story/dell-coupon-code/",
+      "buzz_score": 60,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Dell Coupon Codes: 20% Off for July 2026",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-07-02T07:54:38.914554+00:00"
+    },
+    {
+      "tweet": "I'm looking at these Rhythm Heaven tips and it just reminds me how trash I am at rhythm games. Always happens",
+      "original_url": "https://www.polygon.com/rhythm-heaven-groove-beginners-tips-tricks/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "8 Rhythm Heaven Groove tips to help you stay on beat",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-07-02T04:36:39.724578+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1890,
+    "total_posted": 1892,
     "total_collected": 8763
   },
-  "last_posted_at": "2026-07-02T10:35:19.836760+00:00"
+  "last_posted_at": "2026-07-02T12:34:33.410396+00:00"
 }
