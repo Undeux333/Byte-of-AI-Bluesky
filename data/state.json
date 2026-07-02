@@ -2,17 +2,6 @@
   "last_collected": "2026-07-01T23:01:50.774218+00:00",
   "queue": [
     {
-      "tweet": "Did you see what Claude Sonnet 5 is pulling off? It's actually getting scary how fast these things are just taking over everything.",
-      "original_url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Claude Sonnet 5",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-01T16:38:32.743304+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -35,48 +24,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "They're killing game discs to force digital-only downloads. It's just all about profitability, man.",
-      "original_url": "https://kotaku.com/analysts-say-sonys-termination-disc-game-one-step-closer-death-physical-games-2000712106",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Killing Discs Could Mean More Expensive Games, And Fewer Discounts: ‘This Move Is All About Profitability And Control’",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-01T23:01:50.773183+00:00"
-    },
-    {
-      "tweet": "Jaylen Brown to the Sixers for Paul George. The Celtics really just blew it up, huh.",
-      "original_url": "https://www.espn.com/nba/story/_/id/49241843/sources-celtics-sending-brown-76ers-george-picks",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sources: Brown heading to Philly in blockbuster",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-07-01T23:01:50.772667+00:00"
-    },
-    {
-      "tweet": "Venezuelan police getting caught looting after that earthquake. That’s low, even for them.",
-      "original_url": "https://www.theguardian.com/world/2026/jul/01/venezuela-police-officers-arrested-alleged-looting-after-earthquakes",
-      "buzz_score": 80,
+      "tweet": "Did you see what Claude Sonnet 5 is pulling off? It's actually getting scary how fast these things are just taking over everything.",
+      "original_url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Venezuelan police officers arrested over alleged looting after earthquakes",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-01T16:38:32.744467+00:00"
-    },
-    {
-      "tweet": "So the government is calling Maria Corina Machado’s earthquake response a political stunt. That’s just a wild look, honestly.",
-      "original_url": "https://www.nytimes.com/2026/06/30/world/americas/trump-machado-venezuela-rift.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump Officials Sideline Machado, Venezuela’s Opposition Leader, Over Earthquake Response",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-01T16:38:32.743724+00:00"
+      "original_title": "Claude Sonnet 5",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-01T16:38:32.743304+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -475,15 +431,48 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "E Jean Carroll wants that 5.8 million from Trump immediately. You think he's actually gonna pay that.",
-      "original_url": "https://www.aljazeera.com/news/2026/7/1/e-jean-carroll-demands-donald-trump-pay-5-8m-in-damages-from-2019-case?traffic_source=rss",
-      "buzz_score": 85,
+      "tweet": "They're killing game discs to force digital-only downloads. It's just all about profitability, man.",
+      "original_url": "https://kotaku.com/analysts-say-sonys-termination-disc-game-one-step-closer-death-physical-games-2000712106",
+      "buzz_score": 90,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "E Jean Carroll demands Donald Trump pay $5.8m in damages from 2019 case",
-      "source": "Al Jazeera",
+      "original_title": "Killing Discs Could Mean More Expensive Games, And Fewer Discounts: ‘This Move Is All About Profitability And Control’",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-01T23:01:50.773183+00:00"
+    },
+    {
+      "tweet": "Jaylen Brown to the Sixers for Paul George. The Celtics really just blew it up, huh.",
+      "original_url": "https://www.espn.com/nba/story/_/id/49241843/sources-celtics-sending-brown-76ers-george-picks",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sources: Brown heading to Philly in blockbuster",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-07-01T23:01:50.772667+00:00"
+    },
+    {
+      "tweet": "Venezuelan police getting caught looting after that earthquake. That’s low, even for them.",
+      "original_url": "https://www.theguardian.com/world/2026/jul/01/venezuela-police-officers-arrested-alleged-looting-after-earthquakes",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Venezuelan police officers arrested over alleged looting after earthquakes",
+      "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-07-01T23:01:50.772925+00:00"
+      "added_at": "2026-07-01T16:38:32.744467+00:00"
+    },
+    {
+      "tweet": "So the government is calling Maria Corina Machado’s earthquake response a political stunt. That’s just a wild look, honestly.",
+      "original_url": "https://www.nytimes.com/2026/06/30/world/americas/trump-machado-venezuela-rift.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Trump Officials Sideline Machado, Venezuela’s Opposition Leader, Over Earthquake Response",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-01T16:38:32.743724+00:00"
     },
     {
       "tweet": "Germany just got knocked out of the World Cup by Paraguay. Nightmare stuff.",
@@ -1023,6 +1012,17 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-06-23T10:08:33.690209+00:00"
+    },
+    {
+      "tweet": "E Jean Carroll wants that 5.8 million from Trump immediately. You think he's actually gonna pay that.",
+      "original_url": "https://www.aljazeera.com/news/2026/7/1/e-jean-carroll-demands-donald-trump-pay-5-8m-in-damages-from-2019-case?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "E Jean Carroll demands Donald Trump pay $5.8m in damages from 2019 case",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-01T23:01:50.772925+00:00"
     },
     {
       "tweet": "World of Warcraft is finally fixing a setting that's been broken for 22 years. 22 years.",
