@@ -2,28 +2,6 @@
   "last_collected": "2026-07-02T14:34:44.273580+00:00",
   "queue": [
     {
-      "tweet": "PlayStation is killing physical disc production by 2028. Guess we're just renting our games until they decide to delete them",
-      "original_url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-02T14:34:44.272763+00:00"
-    },
-    {
-      "tweet": "Kotaku says it's too hot to play video games right now. Honestly, my console is just a heater at this point",
-      "original_url": "https://kotaku.com/it-s-too-hot-to-play-video-games-1847410462",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "It’s Too Hot To Play Video Games",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-02T14:34:44.273322+00:00"
-    },
-    {
       "tweet": "Dude, they just built a cell from scratch that actually grows and divides. We're literally playing God now. Kind of weird",
       "original_url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
       "buzz_score": 85,
@@ -68,28 +46,6 @@
       "added_at": "2026-07-02T10:27:02.758488+00:00"
     },
     {
-      "tweet": "Four people died just celebrating that Mexico City win? That's just wild, man.",
-      "original_url": "https://www.nytimes.com/2026/07/01/world/americas/world-cup-mexico-city-crowd-deaths.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "4 People Die During World Cup Celebrations in Mexico City",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-02T07:54:38.913305+00:00"
-    },
-    {
-      "tweet": "Man, we need to bring back those old crappy forums. Being able to just vent in some random niche thread without an algorithm tracking everything was the best.",
-      "original_url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Bring back crappy forums",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-02T07:54:38.913016+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -112,17 +68,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Over 900 people arrested in those South Africa anti-migrant protests. Things are getting pretty heated down there.",
-      "original_url": "https://www.aljazeera.com/news/2026/7/2/more-than-900-arrested-during-south-africas-antimigrant-protests?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "More than 900 arrested during South Africa’s antimigrant protests",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-02T07:54:38.914187+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -132,6 +77,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Four people died just celebrating that Mexico City win? That's just wild, man.",
+      "original_url": "https://www.nytimes.com/2026/07/01/world/americas/world-cup-mexico-city-crowd-deaths.html",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "4 People Die During World Cup Celebrations in Mexico City",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-02T07:54:38.913305+00:00"
+    },
+    {
+      "tweet": "Man, we need to bring back those old crappy forums. Being able to just vent in some random niche thread without an algorithm tracking everything was the best.",
+      "original_url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Bring back crappy forums",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-02T07:54:38.913016+00:00"
     },
     {
       "tweet": "So the Supreme Court just blocked that whole birthright citizenship order Trump tried to push. Glad that's settled.",
@@ -618,15 +585,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Deion Sanders is dropping those 49ers Diamond Turfs again. Brings back so many memories of just trying to look cool on the field.",
-      "original_url": "https://hypebeast.com/2026/7/official-look-at-deion-sanders-nike-diamond-turf-2-cleat-49ers",
-      "buzz_score": 75,
+      "tweet": "Over 900 people arrested in those South Africa anti-migrant protests. Things are getting pretty heated down there.",
+      "original_url": "https://www.aljazeera.com/news/2026/7/2/more-than-900-arrested-during-south-africas-antimigrant-protests?traffic_source=rss",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Official Look at Deion Sanders’ Nike Diamond Turf 2 Cleat “49ers”",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-07-02T07:54:38.913678+00:00"
+      "original_title": "More than 900 arrested during South Africa’s antimigrant protests",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-02T07:54:38.914187+00:00"
     },
     {
       "tweet": "Did you see what Claude Sonnet 5 is pulling off? It's actually getting scary how fast these things are just taking over everything.",
@@ -959,6 +926,17 @@
       "added_at": "2026-06-25T06:18:12.524579+00:00"
     },
     {
+      "tweet": "Deion Sanders is dropping those 49ers Diamond Turfs again. Brings back so many memories of just trying to look cool on the field.",
+      "original_url": "https://hypebeast.com/2026/7/official-look-at-deion-sanders-nike-diamond-turf-2-cleat-49ers",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Official Look at Deion Sanders’ Nike Diamond Turf 2 Cleat “49ers”",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-07-02T07:54:38.913678+00:00"
+    },
+    {
       "tweet": "Russia is really out here hitting Kyiv with the biggest strikes in weeks. Watching the news is just depressing man",
       "original_url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -992,28 +970,6 @@
       "added_at": "2026-07-02T04:36:39.723968+00:00"
     },
     {
-      "tweet": "Job growth just tanked in June with only 57,000 new spots. Everyone I know is already stressed about work as it is",
-      "original_url": "https://www.npr.org/2026/07/02/nx-s1-5877491/labor-department-to-release-latest-jobs-report-thursday",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "U.S. job market slows in June",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-02T14:34:44.272771+00:00"
-    },
-    {
-      "tweet": "China says that guy crashed his plane into a skyscraper for personal reasons. Just a brutal way to go",
-      "original_url": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-02T14:34:44.272766+00:00"
-    },
-    {
       "tweet": "So the US officially labeled those Chone Killers guys as terrorists. Pretty sure that’s just how we say we're done messing around",
       "original_url": "https://www.aljazeera.com/news/2026/7/2/us-designates-ecuadors-chone-killers-gang-as-terrorist-organisation?traffic_source=rss",
       "buzz_score": 75,
@@ -1034,6 +990,28 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-07-02T04:36:39.723537+00:00"
+    },
+    {
+      "tweet": "Job growth just tanked in June with only 57,000 new spots. Everyone I know is already stressed about work as it is",
+      "original_url": "https://www.npr.org/2026/07/02/nx-s1-5877491/labor-department-to-release-latest-jobs-report-thursday",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "U.S. job market slows in June",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-02T14:34:44.272771+00:00"
+    },
+    {
+      "tweet": "China says that guy crashed his plane into a skyscraper for personal reasons. Just a brutal way to go",
+      "original_url": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-02T14:34:44.272766+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1894,
+    "total_posted": 1896,
     "total_collected": 8773
   },
-  "last_posted_at": "2026-07-02T14:43:14.411832+00:00"
+  "last_posted_at": "2026-07-02T16:34:04.411176+00:00"
 }
