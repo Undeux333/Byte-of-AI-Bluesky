@@ -2,17 +2,6 @@
   "last_collected": "2026-07-02T22:59:29.193606+00:00",
   "queue": [
     {
-      "tweet": "Australia's PM basically said he's fine with people losing money gambling. Is the lobby paying him by the hour",
-      "original_url": "https://www.theguardian.com/australia-news/live/2026/jul/03/politics-anthony-albanese-labor-angus-taylor-liberal-party-coalition-antisemitism-royal-commission-nsw-victorian-alps-snow-weather-ntwnfb",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Australia news live: PM says he is ‘not against someone having a punt’ as Pocock attacks ‘weak’ gambling reforms",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-02T22:59:29.192265+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -530,17 +519,6 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Man City is dropping a record fee for Elliot Anderson. Do they even have a budget at this point",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c3dynyg0j1lo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why are Man City breaking the bank for Anderson?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-02T14:34:44.273061+00:00"
-    },
-    {
       "tweet": "Four people died just celebrating that Mexico City win? That's just wild, man.",
       "original_url": "https://www.nytimes.com/2026/07/01/world/americas/world-cup-mexico-city-crowd-deaths.html",
       "buzz_score": 85,
@@ -893,6 +871,17 @@
       "added_at": "2026-06-25T06:18:12.524579+00:00"
     },
     {
+      "tweet": "Man City is dropping a record fee for Elliot Anderson. Do they even have a budget at this point",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/c3dynyg0j1lo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Why are Man City breaking the bank for Anderson?",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-02T14:34:44.273061+00:00"
+    },
+    {
       "tweet": "Taylor Swift and Travis Kelce just dropped 26 million on charity for their wedding. We’re all just living in their simulation at this point",
       "original_url": "https://www.billboard.com/music/music-news/taylor-swift-travis-kelce-charities-react-wedding-donation-1236287100/",
       "buzz_score": 80,
@@ -902,39 +891,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-07-02T22:59:29.192109+00:00"
-    },
-    {
-      "tweet": "Hollywood is buying up every creepy internet trend to make movies now. It's like they ran out of ideas a decade ago",
-      "original_url": "https://kotaku.com/hollywood-is-desperate-for-the-next-backrooms-2000712351",
-      "buzz_score": 78,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hollywood Is Desperate For The Next Backrooms As Studios Buy Up Film Rights To More Creepy Online Media",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-02T22:59:29.192389+00:00"
-    },
-    {
-      "tweet": "Russia is firing 70 missiles at Kyiv while dealing with their own fuel shortages back home. At what point does the math just stop working?",
-      "original_url": "https://www.theguardian.com/world/2026/jul/02/russia-attacks-kyiv-missiles-drones-ukraine",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "At least 21 dead as Russia launches massive drone and missile attack on Kyiv",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-02T20:51:42.074366+00:00"
-    },
-    {
-      "tweet": "An 11-year-old just drove a truck into a monk procession in Thailand and killed nine people. What is even happening",
-      "original_url": "https://www.theguardian.com/world/2026/jul/02/monks-killed-thailand-mukdahan-crash-truck-procession",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "At least nine monks killed in Thailand after boy drives truck into procession",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-02T14:34:44.273192+00:00"
     },
     {
       "tweet": "This report says a US-UK drug deal might cause over two hundred thousand deaths by gutting the NHS. Is that the price of a trade deal",
@@ -990,6 +946,39 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-07-02T04:36:39.723968+00:00"
+    },
+    {
+      "tweet": "Hollywood is buying up every creepy internet trend to make movies now. It's like they ran out of ideas a decade ago",
+      "original_url": "https://kotaku.com/hollywood-is-desperate-for-the-next-backrooms-2000712351",
+      "buzz_score": 78,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hollywood Is Desperate For The Next Backrooms As Studios Buy Up Film Rights To More Creepy Online Media",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-02T22:59:29.192389+00:00"
+    },
+    {
+      "tweet": "Russia is firing 70 missiles at Kyiv while dealing with their own fuel shortages back home. At what point does the math just stop working?",
+      "original_url": "https://www.theguardian.com/world/2026/jul/02/russia-attacks-kyiv-missiles-drones-ukraine",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "At least 21 dead as Russia launches massive drone and missile attack on Kyiv",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-02T20:51:42.074366+00:00"
+    },
+    {
+      "tweet": "An 11-year-old just drove a truck into a monk procession in Thailand and killed nine people. What is even happening",
+      "original_url": "https://www.theguardian.com/world/2026/jul/02/monks-killed-thailand-mukdahan-crash-truck-procession",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "At least nine monks killed in Thailand after boy drives truck into procession",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-02T14:34:44.273192+00:00"
     },
     {
       "tweet": "Men's Health is out here dropping a guide on backdoor bliss. I'm good, man.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1906,
+    "total_posted": 1907,
     "total_collected": 8821
   },
-  "last_posted_at": "2026-07-02T23:05:01.278464+00:00"
+  "last_posted_at": "2026-07-03T00:04:22.336011+00:00"
 }
