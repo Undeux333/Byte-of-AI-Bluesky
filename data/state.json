@@ -2,28 +2,6 @@
   "last_collected": "2026-07-03T14:36:57.025379+00:00",
   "queue": [
     {
-      "tweet": "Columbia’s protestors are actually getting people into Congress now. Turns out that whole thing wasn't just noise.",
-      "original_url": "https://www.aljazeera.com/news/2026/7/3/election-wins-prove-pro-palestine-us-campus-protests-didnt-fail-activists?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Election wins prove pro-Palestine US campus protests didn’t fail: Activists",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-03T14:36:57.024744+00:00"
-    },
-    {
-      "tweet": "Did you see Spain just blacklisted Palantir from all their companies? Imagine the data guys finally hitting a wall. Wild.",
-      "original_url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-03T14:36:57.024308+00:00"
-    },
-    {
       "tweet": "Everyone in the UK is skipping overseas trips 'cause of the travel chaos. We're all just tired of the airport stress.",
       "original_url": "https://www.theguardian.com/business/2026/jul/03/uk-summer-bookings-jump-britons-ditch-overseas-holidays-for-staycations",
       "buzz_score": 80,
@@ -101,17 +79,6 @@
       "added_at": "2026-07-03T07:34:07.921004+00:00"
     },
     {
-      "tweet": "So apparently CarPlay just makes the whole car experience better. I'm honestly not even surprised, we've been waiting for this. Wild",
-      "original_url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "CarPlay Is Additive",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-03T07:34:07.920706+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -134,17 +101,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Pierre Coffin is back directing Minions & Monsters. Guy actually sat out two movies just to return for this. Respect",
-      "original_url": "https://www.polygon.com/pierre-coffin-minions-monsters-interview/",
-      "buzz_score": 72,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Pierre Coffin reveals why he returned to direct Minions & Monsters after sitting out the last 2 movies",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-03T10:17:01.809332+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -156,15 +112,15 @@
       "added_at": "2026-06-24T11:28:23.259709+00:00"
     },
     {
-      "tweet": "So apparently we're supposed to just treat extreme heat like the flu now. What are we doing",
-      "original_url": "https://www.aljazeera.com/features/2026/7/3/are-europes-extreme-summers-the-new-normal-what-the-science-says?traffic_source=rss",
-      "buzz_score": 80,
+      "tweet": "So apparently CarPlay just makes the whole car experience better. I'm honestly not even surprised, we've been waiting for this. Wild",
+      "original_url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Are Europe’s extreme summers the new normal? What the science says",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-03T07:34:07.921388+00:00"
+      "original_title": "CarPlay Is Additive",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-03T07:34:07.920706+00:00"
     },
     {
       "tweet": "So the Supreme Court just blocked that whole birthright citizenship order Trump tried to push. Glad that's settled.",
@@ -651,6 +607,28 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
+      "tweet": "Pierre Coffin is back directing Minions & Monsters. Guy actually sat out two movies just to return for this. Respect",
+      "original_url": "https://www.polygon.com/pierre-coffin-minions-monsters-interview/",
+      "buzz_score": 72,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Pierre Coffin reveals why he returned to direct Minions & Monsters after sitting out the last 2 movies",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-07-03T10:17:01.809332+00:00"
+    },
+    {
+      "tweet": "So apparently we're supposed to just treat extreme heat like the flu now. What are we doing",
+      "original_url": "https://www.aljazeera.com/features/2026/7/3/are-europes-extreme-summers-the-new-normal-what-the-science-says?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Are Europe’s extreme summers the new normal? What the science says",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-03T07:34:07.921388+00:00"
+    },
+    {
       "tweet": "Four people died just celebrating that Mexico City win? That's just wild, man.",
       "original_url": "https://www.nytimes.com/2026/07/01/world/americas/world-cup-mexico-city-crowd-deaths.html",
       "buzz_score": 85,
@@ -1003,17 +981,6 @@
       "added_at": "2026-06-25T06:18:12.524579+00:00"
     },
     {
-      "tweet": "Nagelsmann is out as Germany boss and they're already chasing Klopp. Talk about a downgrade",
-      "original_url": "https://www.espn.com/soccer/story/_/id/49225220/julian-nagelsmann-germany-world-cup-2026",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Nagelsmann out as Germany boss, Klopp lined up",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-07-03T12:23:19.929983+00:00"
-    },
-    {
       "tweet": "Man City is dropping a record fee for Elliot Anderson. Do they even have a budget at this point",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/c3dynyg0j1lo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -1034,6 +1001,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-07-02T10:27:02.758488+00:00"
+    },
+    {
+      "tweet": "Nagelsmann is out as Germany boss and they're already chasing Klopp. Talk about a downgrade",
+      "original_url": "https://www.espn.com/soccer/story/_/id/49225220/julian-nagelsmann-germany-world-cup-2026",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Nagelsmann out as Germany boss, Klopp lined up",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-07-03T12:23:19.929983+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1916,
+    "total_posted": 1918,
     "total_collected": 8889
   },
-  "last_posted_at": "2026-07-03T14:46:35.313137+00:00"
+  "last_posted_at": "2026-07-03T16:17:14.660486+00:00"
 }
