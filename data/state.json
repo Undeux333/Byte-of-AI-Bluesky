@@ -2,28 +2,6 @@
   "last_collected": "2026-07-03T22:31:07.787877+00:00",
   "queue": [
     {
-      "tweet": "So Delcy Rodriguez is blaming propaganda for the backlash over the government's quake response. When things fall apart, they always point fingers",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/venezuelas-rodriguez-blames-propaganda-for-quake-response-backlash-2?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Venezuela’s Rodriguez blames ‘propaganda’ for quake response backlash",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-03T22:31:07.786301+00:00"
-    },
-    {
-      "tweet": "Did you see that push to keep AI models running locally? We shouldn't need a cloud subscription to run software on our own computers. It's wild we're even debating this",
-      "original_url": "https://righttointelligence.org/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Protect your right to run local AI",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-03T22:31:07.786086+00:00"
-    },
-    {
       "tweet": "So apparently Denmark is hosting a giant Fourth of July party but they uninvited the entire U.S. government. That's cold.",
       "original_url": "https://www.nytimes.com/2026/07/03/world/europe/denmark-fourth-of-july-trump-us.html",
       "buzz_score": 85,
@@ -640,39 +618,6 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Everyone in the UK is skipping overseas trips 'cause of the travel chaos. We're all just tired of the airport stress.",
-      "original_url": "https://www.theguardian.com/business/2026/jul/03/uk-summer-bookings-jump-britons-ditch-overseas-holidays-for-staycations",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "UK summer bookings jump as Britons put off overseas holidays by travel fears",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-03T14:36:57.024993+00:00"
-    },
-    {
-      "tweet": "Tristan Thompson is out here trying to fix the beef between Drake and LeBron. As if he’s the diplomat we need right now.",
-      "original_url": "https://www.billboard.com/music/rb-hip-hop/tristan-thompson-drake-lebron-james-beef-1236287063/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tristan Thompson Has Been Working on Ending Drake & LeBron Beef: ‘I’m Trying’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-03T14:36:57.024470+00:00"
-    },
-    {
-      "tweet": "LeBron is supposedly eyeing the Heat, Cavs, and Sixers for his next move. Does the guy ever just retire?",
-      "original_url": "https://www.espn.com/nba/story/_/id/49259789/agent-lebron-eyeing-host-teams-including-heat-cavs-76ers",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Agent: LeBron eyeing Heat, Cavs, Sixers, others",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-07-03T20:09:21.442627+00:00"
-    },
-    {
       "tweet": "Someone finally said Red Dead Redemption 2 is just boring. It's a gorgeous tech demo, but that's about it",
       "original_url": "https://www.polygon.com/red-dead-redemption-2-spicy-takes-week/",
       "buzz_score": 85,
@@ -1034,6 +979,39 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-06-25T06:18:12.525567+00:00"
+    },
+    {
+      "tweet": "Everyone in the UK is skipping overseas trips 'cause of the travel chaos. We're all just tired of the airport stress.",
+      "original_url": "https://www.theguardian.com/business/2026/jul/03/uk-summer-bookings-jump-britons-ditch-overseas-holidays-for-staycations",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "UK summer bookings jump as Britons put off overseas holidays by travel fears",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-03T14:36:57.024993+00:00"
+    },
+    {
+      "tweet": "Tristan Thompson is out here trying to fix the beef between Drake and LeBron. As if he’s the diplomat we need right now.",
+      "original_url": "https://www.billboard.com/music/rb-hip-hop/tristan-thompson-drake-lebron-james-beef-1236287063/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Tristan Thompson Has Been Working on Ending Drake & LeBron Beef: ‘I’m Trying’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-07-03T14:36:57.024470+00:00"
+    },
+    {
+      "tweet": "LeBron is supposedly eyeing the Heat, Cavs, and Sixers for his next move. Does the guy ever just retire?",
+      "original_url": "https://www.espn.com/nba/story/_/id/49259789/agent-lebron-eyeing-host-teams-including-heat-cavs-76ers",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Agent: LeBron eyeing Heat, Cavs, Sixers, others",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-07-03T20:09:21.442627+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1928,
+    "total_posted": 1930,
     "total_collected": 8937
   },
-  "last_posted_at": "2026-07-03T22:38:23.264378+00:00"
+  "last_posted_at": "2026-07-03T23:47:36.043532+00:00"
 }
