@@ -2,28 +2,6 @@
   "last_collected": "2026-07-03T17:45:13.037569+00:00",
   "queue": [
     {
-      "tweet": "I can never remember the name of that new Naughty Dog space game. My brain just refuses to store it.",
-      "original_url": "https://kotaku.com/i-can-never-remember-the-actual-name-of-naughty-dogs-new-space-game-2000712393",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "I Can Never Remember The Actual Name Of Naughty Dog’s New Space Game",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-03T17:45:13.036252+00:00"
-    },
-    {
-      "tweet": "So apparently Germany wants people to get a doctor's note on day one of being sick. Peak office logic.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c4gyxnj38m1o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "German row over plan for workers to need sick note on first day of illness",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-03T17:45:13.035965+00:00"
-    },
-    {
       "tweet": "Everyone in the UK is skipping overseas trips 'cause of the travel chaos. We're all just tired of the airport stress.",
       "original_url": "https://www.theguardian.com/business/2026/jul/03/uk-summer-bookings-jump-britons-ditch-overseas-holidays-for-staycations",
       "buzz_score": 80,
@@ -88,17 +66,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Countries are declaring national holidays just 'cause of the World Cup. Man, we really let sports run everything",
-      "original_url": "https://www.nytimes.com/2026/07/03/world/world-cup-countries-fans-holidays.html",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Enraptured by the World Cup, Countries Rewrite Rules for Fans",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-03T12:23:19.929724+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -508,15 +475,15 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Europe just shattered every temperature record they had. Germany hit 41.7C. Is it even gonna be livable there soon?",
-      "original_url": "https://www.theguardian.com/environment/2026/jul/03/weather-tracker-heatwave-breaks-june-temperature-records-across-europe",
-      "buzz_score": 80,
+      "tweet": "Countries are declaring national holidays just 'cause of the World Cup. Man, we really let sports run everything",
+      "original_url": "https://www.nytimes.com/2026/07/03/world/world-cup-countries-fans-holidays.html",
+      "buzz_score": 75,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Weather tracker: Heatwave breaks June temperature records across Europe",
-      "source": "The Guardian",
+      "original_title": "Enraptured by the World Cup, Countries Rewrite Rules for Fans",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-07-03T10:17:01.808952+00:00"
+      "added_at": "2026-07-03T12:23:19.929724+00:00"
     },
     {
       "tweet": "Germany just got knocked out of the World Cup by Paraguay. Nightmare stuff.",
@@ -616,6 +583,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Europe just shattered every temperature record they had. Germany hit 41.7C. Is it even gonna be livable there soon?",
+      "original_url": "https://www.theguardian.com/environment/2026/jul/03/weather-tracker-heatwave-breaks-june-temperature-records-across-europe",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Weather tracker: Heatwave breaks June temperature records across Europe",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-03T10:17:01.808952+00:00"
     },
     {
       "tweet": "So apparently CarPlay just makes the whole car experience better. I'm honestly not even surprised, we've been waiting for this. Wild",
@@ -992,17 +970,6 @@
       "added_at": "2026-07-03T17:45:13.036669+00:00"
     },
     {
-      "tweet": "Pierre Coffin is back directing Minions & Monsters. Guy actually sat out two movies just to return for this. Respect",
-      "original_url": "https://www.polygon.com/pierre-coffin-minions-monsters-interview/",
-      "buzz_score": 72,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Pierre Coffin reveals why he returned to direct Minions & Monsters after sitting out the last 2 movies",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-03T10:17:01.809332+00:00"
-    },
-    {
       "tweet": "So apparently we're supposed to just treat extreme heat like the flu now. What are we doing",
       "original_url": "https://www.aljazeera.com/features/2026/7/3/are-europes-extreme-summers-the-new-normal-what-the-science-says?traffic_source=rss",
       "buzz_score": 80,
@@ -1034,6 +1001,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-07-02T10:27:02.758488+00:00"
+    },
+    {
+      "tweet": "Pierre Coffin is back directing Minions & Monsters. Guy actually sat out two movies just to return for this. Respect",
+      "original_url": "https://www.polygon.com/pierre-coffin-minions-monsters-interview/",
+      "buzz_score": 72,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Pierre Coffin reveals why he returned to direct Minions & Monsters after sitting out the last 2 movies",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-07-03T10:17:01.809332+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1920,
+    "total_posted": 1922,
     "total_collected": 8905
   },
-  "last_posted_at": "2026-07-03T17:51:55.195712+00:00"
+  "last_posted_at": "2026-07-03T18:57:20.953701+00:00"
 }
