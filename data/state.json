@@ -2,28 +2,6 @@
   "last_collected": "2026-07-04T17:34:22.373740+00:00",
   "queue": [
     {
-      "tweet": "Apparently the Steam Machine has its own red ring of death now. It's like we're back in 2007",
-      "original_url": "https://kotaku.com/the-steam-machine-has-its-own-red-ring-of-death-2000712587",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Steam Machine Has Its Own ‘Red Ring Of Death’",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-04T17:34:22.372324+00:00"
-    },
-    {
-      "tweet": "Did you see Beyoncé just dropped a random track on the Fourth of July. She really just does whatever she wants",
-      "original_url": "https://www.billboard.com/music/music-news/beyonce-surprise-new-song-morning-dew-donk-bday-reissue-1236287816/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Beyoncé Drops Surprise New Song ‘Morning Dew (Donk)’ on Fourth of July",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-04T17:34:22.372165+00:00"
-    },
-    {
       "tweet": "Did you see that Ukraine hit a massive oil terminal in St Petersburg. Just straight to the source, man",
       "original_url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -462,17 +440,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "England getting booed the second they hit Mexico City. The atmosphere is gonna be brutal.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cx2x1gwwjego?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "England team booed on arrival at Mexico City hotel",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-04T09:50:25.500431+00:00"
     },
     {
       "tweet": "Germany just got knocked out of the World Cup by Paraguay. Nightmare stuff.",
@@ -915,6 +882,17 @@
       "added_at": "2026-06-25T15:10:02.011134+00:00"
     },
     {
+      "tweet": "England getting booed the second they hit Mexico City. The atmosphere is gonna be brutal.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cx2x1gwwjego?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "England team booed on arrival at Mexico City hotel",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-04T09:50:25.500431+00:00"
+    },
+    {
       "tweet": "Did you see that boat capsized in Wisconsin during a storm? Three kids died, man that's rough",
       "original_url": "https://www.theguardian.com/us-news/2026/jul/04/wisconsin-children-drown",
       "buzz_score": 80,
@@ -926,17 +904,6 @@
       "added_at": "2026-07-04T17:34:22.373475+00:00"
     },
     {
-      "tweet": "Dolly Parton just thanked Taylor Swift and Travis for that donation. Can you imagine getting a shoutout from Dolly?",
-      "original_url": "https://www.billboard.com/music/music-news/dolly-thanks-taylor-swift-travis-kelce-1236287798/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Dolly Parton Thanks Taylor Swift and Travis Kelce for $2 Million Donation",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-04T09:50:25.499253+00:00"
-    },
-    {
       "tweet": "Man, watching France play Paraguay is gonna be rough after that Paraguay upset. Do we really think we're seeing another one",
       "original_url": "https://www.aljazeera.com/sports/2026/7/4/france-vs-paraguay-world-cup-round-of-16-mbappe-prediction-kickoff?traffic_source=rss",
       "buzz_score": 80,
@@ -946,6 +913,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-07-04T07:35:54.924463+00:00"
+    },
+    {
+      "tweet": "Dolly Parton just thanked Taylor Swift and Travis for that donation. Can you imagine getting a shoutout from Dolly?",
+      "original_url": "https://www.billboard.com/music/music-news/dolly-thanks-taylor-swift-travis-kelce-1236287798/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Dolly Parton Thanks Taylor Swift and Travis Kelce for $2 Million Donation",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-07-04T09:50:25.499253+00:00"
     },
     {
       "tweet": "Did you hear Taylor and Travis actually got married? That whole thing was basically just a movie at this point.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1944,
+    "total_posted": 1946,
     "total_collected": 9043
   },
-  "last_posted_at": "2026-07-04T17:42:03.842271+00:00"
+  "last_posted_at": "2026-07-04T18:45:47.980189+00:00"
 }
