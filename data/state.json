@@ -24,6 +24,28 @@
       "added_at": "2026-07-04T09:50:25.499253+00:00"
     },
     {
+      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
+      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-02T15:05:13.740925+00:00"
+    },
+    {
+      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
+      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US court limits mail-order access to abortion pill mifepristone",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
       "tweet": "Did you hear Taylor and Travis actually got married? That whole thing was basically just a movie at this point.",
       "original_url": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -77,61 +99,6 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-07-04T09:50:25.498938+00:00"
-    },
-    {
-      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
-      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-02T15:05:13.740925+00:00"
-    },
-    {
-      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
-      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US court limits mail-order access to abortion pill mifepristone",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Cape Verde didn't win a single match at the World Cup but everyone's obsessed with them. That's just how it goes sometimes",
-      "original_url": "https://www.npr.org/2026/07/04/nx-s1-5882086/cape-verde-world-cup-ends",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Cape Verde's historic World Cup ride ends after pushing Argentina to the brink",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-04T07:35:54.926003+00:00"
-    },
-    {
-      "tweet": "Found out Bogart's last words to Bacall were just 'Goodbye, kid.' That's rough",
-      "original_url": "https://www.mentalfloss.com/entertainment/movies/humphrey-bogart-last-words?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Humphrey Bogart’s Emotional Last Words to Lauren Bacall",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-04T07:35:54.925141+00:00"
-    },
-    {
-      "tweet": "Dude, people are already shipping this new tool and it’s basically just a broken link in a trench coat. We’re really just paying for beta testing now",
-      "original_url": "https://weli.dev/blog/half-baked-product/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Half-Baked Product",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-04T04:51:05.005257+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -541,81 +508,26 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "The stories coming out of Sudan right now are insane. It's just a reminder that the world is pretty rough.",
-      "original_url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
-      "buzz_score": 85,
-      "buzz_score2": 90,
+      "tweet": "Cape Verde didn't win a single match at the World Cup but everyone's obsessed with them. That's just how it goes sometimes",
+      "original_url": "https://www.npr.org/2026/07/04/nx-s1-5882086/cape-verde-world-cup-ends",
+      "buzz_score": 75,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
-      "source": "The Guardian",
+      "original_title": "Cape Verde's historic World Cup ride ends after pushing Argentina to the brink",
+      "source": "NPR News",
       "category": "world",
-      "added_at": "2026-07-04T12:39:35.360213+00:00"
+      "added_at": "2026-07-04T07:35:54.926003+00:00"
     },
     {
-      "tweet": "They're already showing clips of Edgerunners 2. If the first one was that depressing, I don't know if I'm ready for more.",
-      "original_url": "https://www.polygon.com/cyberpunk-edgerunners-2-episode-1-review/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Cyberpunk Edgerunners 2 early review: devastation in Night City",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-04T12:39:35.359338+00:00"
-    },
-    {
-      "tweet": "So apparently Kimi Antonelli just beat Lewis Hamilton in that sprint race. Kid's definitely not messing around.",
-      "original_url": "https://www.bbc.co.uk/sport/formula1/articles/cvglegml3llo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Antonelli passes Hamilton to win Silverstone sprint",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-04T12:39:35.359087+00:00"
-    },
-    {
-      "tweet": "It's literally 250 years since the Continental Congress signed that declaration. That's a long time",
-      "original_url": "https://www.goodnewsnetwork.org/events060704/",
-      "buzz_score": 70,
+      "tweet": "Found out Bogart's last words to Bacall were just 'Goodbye, kid.' That's rough",
+      "original_url": "https://www.mentalfloss.com/entertainment/movies/humphrey-bogart-last-words?utm_source=RSS",
+      "buzz_score": 75,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Good News in History, July 4",
-      "source": "Good News Network",
-      "category": "lifestyle",
-      "added_at": "2026-07-04T07:35:54.925881+00:00"
-    },
-    {
-      "tweet": "Man, I finally got one of those wireless Qi chargers with the fan built in. It's actually game-changing not having my phone overheat every time I plug it in",
-      "original_url": "https://www.theverge.com/tech/961332/qi-active-cooling-really-works",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Qi fan fan",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-07-04T07:35:54.925391+00:00"
-    },
-    {
-      "tweet": "Apparently the director still has no idea if there's gonna be a Mortal Kombat 3. They're just winging it at this point",
-      "original_url": "https://www.polygon.com/mortal-kombat-3-movie-update-director-liu-kang-kung-lao/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mortal Kombat 3's fate is uncertain, Mortal Kombat 2 director says",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-04T07:35:54.924997+00:00"
-    },
-    {
-      "tweet": "Sydney just hit its hottest June since 1859, and it's supposedly the new normal. We're cooked",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jul/04/sydney-records-hottest-june-since-1859-as-expert-warns-new-high-a-signature-of-global-warming",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Sydney records hottest June since 1859 as expert warns new high a ‘signature’ of global warming",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-04T07:35:54.924746+00:00"
+      "original_title": "Humphrey Bogart’s Emotional Last Words to Lauren Bacall",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-07-04T07:35:54.925141+00:00"
     },
     {
       "tweet": "Germany just got knocked out of the World Cup by Paraguay. Nightmare stuff.",
@@ -715,6 +627,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Dude, people are already shipping this new tool and it’s basically just a broken link in a trench coat. We’re really just paying for beta testing now",
+      "original_url": "https://weli.dev/blog/half-baked-product/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Half-Baked Product",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-04T04:51:05.005257+00:00"
     },
     {
       "tweet": "So apparently Denmark is hosting a giant Fourth of July party but they uninvited the entire U.S. government. That's cold.",
@@ -1045,6 +968,83 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-25T15:10:02.011134+00:00"
+    },
+    {
+      "tweet": "The stories coming out of Sudan right now are insane. It's just a reminder that the world is pretty rough.",
+      "original_url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-04T12:39:35.360213+00:00"
+    },
+    {
+      "tweet": "They're already showing clips of Edgerunners 2. If the first one was that depressing, I don't know if I'm ready for more.",
+      "original_url": "https://www.polygon.com/cyberpunk-edgerunners-2-episode-1-review/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Cyberpunk Edgerunners 2 early review: devastation in Night City",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-07-04T12:39:35.359338+00:00"
+    },
+    {
+      "tweet": "So apparently Kimi Antonelli just beat Lewis Hamilton in that sprint race. Kid's definitely not messing around.",
+      "original_url": "https://www.bbc.co.uk/sport/formula1/articles/cvglegml3llo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Antonelli passes Hamilton to win Silverstone sprint",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-04T12:39:35.359087+00:00"
+    },
+    {
+      "tweet": "It's literally 250 years since the Continental Congress signed that declaration. That's a long time",
+      "original_url": "https://www.goodnewsnetwork.org/events060704/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Good News in History, July 4",
+      "source": "Good News Network",
+      "category": "lifestyle",
+      "added_at": "2026-07-04T07:35:54.925881+00:00"
+    },
+    {
+      "tweet": "Man, I finally got one of those wireless Qi chargers with the fan built in. It's actually game-changing not having my phone overheat every time I plug it in",
+      "original_url": "https://www.theverge.com/tech/961332/qi-active-cooling-really-works",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Qi fan fan",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-07-04T07:35:54.925391+00:00"
+    },
+    {
+      "tweet": "Apparently the director still has no idea if there's gonna be a Mortal Kombat 3. They're just winging it at this point",
+      "original_url": "https://www.polygon.com/mortal-kombat-3-movie-update-director-liu-kang-kung-lao/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Mortal Kombat 3's fate is uncertain, Mortal Kombat 2 director says",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-07-04T07:35:54.924997+00:00"
+    },
+    {
+      "tweet": "Sydney just hit its hottest June since 1859, and it's supposedly the new normal. We're cooked",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jul/04/sydney-records-hottest-june-since-1859-as-expert-warns-new-high-a-signature-of-global-warming",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Sydney records hottest June since 1859 as expert warns new high a ‘signature’ of global warming",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-04T07:35:54.924746+00:00"
     }
   ],
   "seen_urls": [
