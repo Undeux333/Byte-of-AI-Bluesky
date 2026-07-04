@@ -2,28 +2,6 @@
   "last_collected": "2026-07-04T19:51:18.180991+00:00",
   "queue": [
     {
-      "tweet": "Ukrainian drones just hit that oil terminal in St Petersburg overnight. Things are getting loud",
-      "original_url": "https://www.theguardian.com/world/2026/jul/04/ukrainian-drones-hit-st-petersburg-oil-terminal-and-nearby-port",
-      "buzz_score": 80,
-      "buzz_score2": 100,
-      "rewrite_count": 0,
-      "original_title": "Ukrainian drones hit St Petersburg oil terminal and nearby port",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-04T19:51:18.179989+00:00"
-    },
-    {
-      "tweet": "NASA just launched an emergency mission to save the Swift Observatory from burning up in the atmosphere. Nothing like a space rescue to start the day",
-      "original_url": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
-      "buzz_score": 80,
-      "buzz_score2": 100,
-      "rewrite_count": 0,
-      "original_title": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-07-04T19:51:18.179429+00:00"
-    },
-    {
       "tweet": "Arthur Fery just won at Wimbledon with three nosebleeds. Dude really fought through that",
       "original_url": "https://www.bbc.co.uk/sport/tennis/articles/cj3gp85me40o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1948,
+    "total_posted": 1950,
     "total_collected": 9059
   },
-  "last_posted_at": "2026-07-04T19:58:48.477476+00:00"
+  "last_posted_at": "2026-07-04T20:47:48.868799+00:00"
 }
