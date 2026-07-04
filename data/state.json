@@ -2,28 +2,6 @@
   "last_collected": "2026-07-04T22:37:02.678553+00:00",
   "queue": [
     {
-      "tweet": "Forty-five years later and Evil Dead is still the best horror marathon you can do. Yeah, that checks out",
-      "original_url": "https://www.polygon.com/evil-dead-trilogy-streaming-hbo-max-july-2026/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Sam Raimi's Evil Dead trilogy remains the ultimate horror binge 45 years later",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-04T22:37:02.678367+00:00"
-    },
-    {
-      "tweet": "Apparently there's a map out now showing which states drink the most beer. I'm pretty sure I could've guessed that one",
-      "original_url": "https://www.mentalfloss.com/geography/maps/states-drink-most-least-beer?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The States That Drink the Most—And Least—Beer, Mapped and Ranked",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-04T22:37:02.677585+00:00"
-    },
-    {
       "tweet": "Did you see YouTube creators are having their private videos leaked right now. Absolute disaster",
       "original_url": "https://javoriuski.com/post/youtube",
       "buzz_score": 80,
@@ -55,6 +33,28 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-07-04T19:51:18.179427+00:00"
+    },
+    {
+      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
+      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-02T15:05:13.740925+00:00"
+    },
+    {
+      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
+      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US court limits mail-order access to abortion pill mifepristone",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
       "tweet": "Reading this review that says Supergirl isn't actually a disaster. Maybe I'll watch it",
@@ -101,39 +101,6 @@
       "added_at": "2026-07-04T19:51:18.179587+00:00"
     },
     {
-      "tweet": "Did you see that Ukraine hit a massive oil terminal in St Petersburg. Just straight to the source, man",
-      "original_url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-04T15:21:09.335697+00:00"
-    },
-    {
-      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
-      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-02T15:05:13.740925+00:00"
-    },
-    {
-      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
-      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US court limits mail-order access to abortion pill mifepristone",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -143,6 +110,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Did you see that Ukraine hit a massive oil terminal in St Petersburg. Just straight to the source, man",
+      "original_url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-04T15:21:09.335697+00:00"
     },
     {
       "tweet": "Hold on, Denmark just uninvited the U.S. from their Fourth of July party because of that whole Greenland thing. Awkward",
@@ -541,17 +519,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Huge crowds are out in Tehran for that state funeral. Man, the world is just heavy right now",
-      "original_url": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Huge Crowds Mass in Tehran for Ayatollah’s State Funeral",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-04T22:37:02.677590+00:00"
-    },
-    {
       "tweet": "Germany just got knocked out of the World Cup by Paraguay. Nightmare stuff.",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/c992kzk00kzo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 88,
@@ -649,6 +616,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Huge crowds are out in Tehran for that state funeral. Man, the world is just heavy right now",
+      "original_url": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Huge Crowds Mass in Tehran for Ayatollah’s State Funeral",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-04T22:37:02.677590+00:00"
     },
     {
       "tweet": "Dude, people are already shipping this new tool and it’s basically just a broken link in a trench coat. We’re really just paying for beta testing now",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1954,
+    "total_posted": 1956,
     "total_collected": 9075
   },
-  "last_posted_at": "2026-07-04T22:43:46.347585+00:00"
+  "last_posted_at": "2026-07-04T23:46:48.438100+00:00"
 }
