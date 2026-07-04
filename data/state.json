@@ -2,28 +2,6 @@
   "last_collected": "2026-07-04T15:21:09.336872+00:00",
   "queue": [
     {
-      "tweet": "Elon Musk posted twice as much about UK immigration than SpaceX right before the IPO. Priorities, right",
-      "original_url": "https://www.theguardian.com/technology/2026/jul/04/elon-musk-uk-race-immigration-spacex-ipo",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Elon Musk posted twice as often on UK race and immigration as about SpaceX in IPO run-up",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-04T15:21:09.336481+00:00"
-    },
-    {
-      "tweet": "We're already down to the round of 16 for the World Cup. Like how is time moving this fast",
-      "original_url": "https://www.espn.com/soccer/story/_/id/49251656/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "World Cup 2026 Power Rankings before round of 16: Who's No. 1?",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-07-04T15:21:09.336107+00:00"
-    },
-    {
       "tweet": "Did you see that Ukraine hit a massive oil terminal in St Petersburg. Just straight to the source, man",
       "original_url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -33,17 +11,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-07-04T15:21:09.335697+00:00"
-    },
-    {
-      "tweet": "England getting booed the second they hit Mexico City. The atmosphere is gonna be brutal.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cx2x1gwwjego?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "England team booed on arrival at Mexico City hotel",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-04T09:50:25.500431+00:00"
     },
     {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
@@ -68,15 +35,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Dolly Parton just thanked Taylor Swift and Travis for that donation. Can you imagine getting a shoutout from Dolly?",
-      "original_url": "https://www.billboard.com/music/music-news/dolly-thanks-taylor-swift-travis-kelce-1236287798/",
-      "buzz_score": 75,
+      "tweet": "England getting booed the second they hit Mexico City. The atmosphere is gonna be brutal.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cx2x1gwwjego?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Dolly Parton Thanks Taylor Swift and Travis Kelce for $2 Million Donation",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-04T09:50:25.499253+00:00"
+      "original_title": "England team booed on arrival at Mexico City hotel",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-04T09:50:25.500431+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -486,28 +453,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Did you hear Taylor and Travis actually got married? That whole thing was basically just a movie at this point.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Dior dress, Adam Sandler and a man of honour: what we know about Taylor and Travis's wedding",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-04T12:39:35.358804+00:00"
-    },
-    {
-      "tweet": "Man, watching France play Paraguay is gonna be rough after that Paraguay upset. Do we really think we're seeing another one",
-      "original_url": "https://www.aljazeera.com/sports/2026/7/4/france-vs-paraguay-world-cup-round-of-16-mbappe-prediction-kickoff?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "France vs Paraguay: World Cup Round of 16 – Mbappe, prediction, kickoff",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-04T07:35:54.924463+00:00"
-    },
-    {
       "tweet": "Germany just got knocked out of the World Cup by Paraguay. Nightmare stuff.",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/c992kzk00kzo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 88,
@@ -607,37 +552,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "There’s a new show on Netflix where a girl finds a necklace to rewind time. Sounds like a total nightmare to deal with.",
-      "original_url": "https://usa.newonnetflix.info/info/82761735",
-      "buzz_score": 70,
+      "tweet": "Dolly Parton just thanked Taylor Swift and Travis for that donation. Can you imagine getting a shoutout from Dolly?",
+      "original_url": "https://www.billboard.com/music/music-news/dolly-thanks-taylor-swift-travis-kelce-1236287798/",
+      "buzz_score": 75,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "3rd Jul: Time (2024), 13 Episodes [TV-14] (5.35/10)",
-      "source": "New on Netflix",
+      "original_title": "Dolly Parton Thanks Taylor Swift and Travis Kelce for $2 Million Donation",
+      "source": "Billboard",
       "category": "entertainment",
-      "added_at": "2026-07-04T09:50:25.500172+00:00"
-    },
-    {
-      "tweet": "That All Blacks game against France was absolutely insane. Nine tries in one game, man.",
-      "original_url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5yze25d46do?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "All Blacks beat France in thrilling Nations Championship opener",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-04T09:50:25.499902+00:00"
-    },
-    {
-      "tweet": "Did you know pencils are only yellow because they used to be a luxury flex? Branding man.",
-      "original_url": "https://www.mentalfloss.com/history/why-pencils-are-yellow?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why Are Pencils Yellow?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-04T09:50:25.498938+00:00"
+      "added_at": "2026-07-04T09:50:25.499253+00:00"
     },
     {
       "tweet": "Dude, people are already shipping this new tool and it’s basically just a broken link in a trench coat. We’re really just paying for beta testing now",
@@ -979,6 +902,61 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-25T15:10:02.011134+00:00"
+    },
+    {
+      "tweet": "Did you hear Taylor and Travis actually got married? That whole thing was basically just a movie at this point.",
+      "original_url": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Dior dress, Adam Sandler and a man of honour: what we know about Taylor and Travis's wedding",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-04T12:39:35.358804+00:00"
+    },
+    {
+      "tweet": "Man, watching France play Paraguay is gonna be rough after that Paraguay upset. Do we really think we're seeing another one",
+      "original_url": "https://www.aljazeera.com/sports/2026/7/4/france-vs-paraguay-world-cup-round-of-16-mbappe-prediction-kickoff?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "France vs Paraguay: World Cup Round of 16 – Mbappe, prediction, kickoff",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-04T07:35:54.924463+00:00"
+    },
+    {
+      "tweet": "There’s a new show on Netflix where a girl finds a necklace to rewind time. Sounds like a total nightmare to deal with.",
+      "original_url": "https://usa.newonnetflix.info/info/82761735",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "3rd Jul: Time (2024), 13 Episodes [TV-14] (5.35/10)",
+      "source": "New on Netflix",
+      "category": "entertainment",
+      "added_at": "2026-07-04T09:50:25.500172+00:00"
+    },
+    {
+      "tweet": "That All Blacks game against France was absolutely insane. Nine tries in one game, man.",
+      "original_url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5yze25d46do?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "All Blacks beat France in thrilling Nations Championship opener",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-04T09:50:25.499902+00:00"
+    },
+    {
+      "tweet": "Did you know pencils are only yellow because they used to be a luxury flex? Branding man.",
+      "original_url": "https://www.mentalfloss.com/history/why-pencils-are-yellow?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Why Are Pencils Yellow?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-07-04T09:50:25.498938+00:00"
     },
     {
       "tweet": "The Danganronpa devs literally told fans to just play GTA 6 while waiting for their delay. That is an all-time level of shade",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1940,
+    "total_posted": 1942,
     "total_collected": 9027
   },
-  "last_posted_at": "2026-07-04T15:27:36.759170+00:00"
+  "last_posted_at": "2026-07-04T16:35:44.198558+00:00"
 }
