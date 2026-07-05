@@ -2,17 +2,6 @@
   "last_collected": "2026-07-05T16:41:11.572192+00:00",
   "queue": [
     {
-      "tweet": "Wait, Cyberpunk Edgerunners season two is apparently channeling Scorsese now. That's a pivot",
-      "original_url": "https://kotaku.com/cyberpunk-edgerunners-returns-with-a-season-2-premier-thats-way-more-martin-scorsese-than-michael-bay-2000712575",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Cyberpunk: Edgerunners Returns With A Season 2 Premier That’s Way More Martin Scorsese Than Michael Bay",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-05T16:41:11.571275+00:00"
-    },
-    {
       "tweet": "Dude, did you hear YouTube is just out here leaking private videos? Like the whole point of that button is that it's private. Absolute chaos",
       "original_url": "https://javoriuski.com/post/youtube",
       "buzz_score": 85,
@@ -110,28 +99,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "If you're a button, you have one job. That's it. Somehow companies still mess that up.",
-      "original_url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "If you're a button, you have one job",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-05T08:23:44.614267+00:00"
-    },
-    {
-      "tweet": "Dude, Trump actually got that Chinese underground church guy out of prison. I don't even know what to do with that. Just wild.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Chinese underground church figure Jin Mingri freed from prison",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-05T08:23:44.613587+00:00"
     },
     {
       "tweet": "Hold on, Denmark just uninvited the U.S. from their Fourth of July party because of that whole Greenland thing. Awkward",
@@ -530,17 +497,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Hang on, Iran's been building that memorial for 40 years and it's still not finished. Sums it up",
-      "original_url": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-grand-mosalla-khamenei.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "At Site Where Iran’s Slain Leader Lies, Some See a Symbol of His Failures",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-05T16:41:11.570582+00:00"
-    },
-    {
       "tweet": "Germany just got knocked out of the World Cup by Paraguay. Nightmare stuff.",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/c992kzk00kzo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 88,
@@ -638,6 +594,39 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "If you're a button, you have one job. That's it. Somehow companies still mess that up.",
+      "original_url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "If you're a button, you have one job",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-05T08:23:44.614267+00:00"
+    },
+    {
+      "tweet": "Dude, Trump actually got that Chinese underground church guy out of prison. I don't even know what to do with that. Just wild.",
+      "original_url": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Chinese underground church figure Jin Mingri freed from prison",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-05T08:23:44.613587+00:00"
+    },
+    {
+      "tweet": "Hang on, Iran's been building that memorial for 40 years and it's still not finished. Sums it up",
+      "original_url": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-grand-mosalla-khamenei.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "At Site Where Iran’s Slain Leader Lies, Some See a Symbol of His Failures",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-05T16:41:11.570582+00:00"
     },
     {
       "tweet": "So apparently OpenAI is making GPT-5.5 so smart that it's actually getting worse at logic now. Think we're officially at the point of accidental genius.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1971,
+    "total_posted": 1972,
     "total_collected": 9167
   },
-  "last_posted_at": "2026-07-05T16:49:25.085268+00:00"
+  "last_posted_at": "2026-07-05T17:42:44.368403+00:00"
 }
