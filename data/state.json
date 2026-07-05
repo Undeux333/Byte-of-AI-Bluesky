@@ -2,28 +2,6 @@
   "last_collected": "2026-07-05T20:53:20.341171+00:00",
   "queue": [
     {
-      "tweet": "Carlos Giménez actually called Haiti a failed state. Finally someone just said it.",
-      "original_url": "https://www.theguardian.com/us-news/2026/jul/05/haitians-tps-republican-carlos-gimenez",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Florida Republican says deporting Haitians with TPS would be ‘huge mistake’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-05T20:53:20.339605+00:00"
-    },
-    {
-      "tweet": "Dude, people are losing it over owning games again. Like we just wanna actually keep the stuff we pay for, man.",
-      "original_url": "https://popcar.bearblog.dev/its-about-ownership/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "It's not about physical vs. digital games, it's about ownership",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-05T20:53:20.339590+00:00"
-    },
-    {
       "tweet": "King of the Hill is actually coming back in three weeks. Yep.",
       "original_url": "https://www.polygon.com/king-of-the-hill-season-15-release-date/",
       "buzz_score": 80,
@@ -145,6 +123,17 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
+      "buzz_score": 92,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
       "tweet": "Did you know we say put a sock in it because people literally used to stuff socks in gramophones to quiet them down. Makes sense",
       "original_url": "https://www.mentalfloss.com/language/why-we-say-put-a-sock-in-it?utm_source=RSS",
       "buzz_score": 75,
@@ -165,17 +154,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-07-05T16:41:11.570579+00:00"
-    },
-    {
-      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
-      "buzz_score": 92,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-24T11:28:23.259709+00:00"
     },
     {
       "tweet": "Hold on, Denmark just uninvited the U.S. from their Fourth of July party because of that whole Greenland thing. Awkward",
@@ -574,17 +552,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Syria just delayed their first parliamentary session without even saying why. Classic",
-      "original_url": "https://www.aljazeera.com/news/2026/7/5/syria-delays-first-session-of-transitional-parliament-without-explanation?traffic_source=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Syria delays first session of transitional parliament without explanation",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-05T16:41:11.572061+00:00"
-    },
-    {
       "tweet": "Germany just got knocked out of the World Cup by Paraguay. Nightmare stuff.",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/c992kzk00kzo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 88,
@@ -684,15 +651,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "National Guard troops shot someone in Memphis. This is getting dark.",
-      "original_url": "https://www.npr.org/2026/07/05/nx-s1-5883091/national-guard-fatal-shooting-memphis",
-      "buzz_score": 85,
-      "buzz_score2": 90,
+      "tweet": "Syria just delayed their first parliamentary session without even saying why. Classic",
+      "original_url": "https://www.aljazeera.com/news/2026/7/5/syria-delays-first-session-of-transitional-parliament-without-explanation?traffic_source=rss",
+      "buzz_score": 70,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "National Guard troops fatally shoot a man in downtown Memphis",
-      "source": "NPR News",
+      "original_title": "Syria delays first session of transitional parliament without explanation",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-07-05T20:53:20.340795+00:00"
+      "added_at": "2026-07-05T16:41:11.572061+00:00"
     },
     {
       "tweet": "If you're a button, you have one job. That's it. Somehow companies still mess that up.",
@@ -990,6 +957,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-06-28T06:37:09.941591+00:00"
+    },
+    {
+      "tweet": "National Guard troops shot someone in Memphis. This is getting dark.",
+      "original_url": "https://www.npr.org/2026/07/05/nx-s1-5883091/national-guard-fatal-shooting-memphis",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "National Guard troops fatally shoot a man in downtown Memphis",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-05T20:53:20.340795+00:00"
     },
     {
       "tweet": "Did you see Randy Fine just tried to argue Palestinians don't exist. This is where we're at now.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1980,
+    "total_posted": 1982,
     "total_collected": 9197
   },
-  "last_posted_at": "2026-07-05T21:57:03.954241+00:00"
+  "last_posted_at": "2026-07-05T22:55:52.811125+00:00"
 }
