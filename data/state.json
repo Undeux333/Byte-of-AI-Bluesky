@@ -2,28 +2,6 @@
   "last_collected": "2026-07-05T14:05:41.544553+00:00",
   "queue": [
     {
-      "tweet": "Dude, people are actually signing petitions to bring back the wolf man in Love And Deepspace. Over 300,000 signatures. We're cooked.",
-      "original_url": "https://kotaku.com/love-and-deepspace-petitions-demanding-devs-bring-back-sexy-wolf-man-amass-over-300000-signatures-2000712590",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Love And Deepspace Petitions Demanding Devs ‘Bring Back’ Sexy Wolf Man Amass Over 300,000 Signatures",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-05T14:05:41.542980+00:00"
-    },
-    {
-      "tweet": "Halo Studios is actually releasing the remake on physical disc so we have something tangible. Imagine that, a company just letting you own your games.",
-      "original_url": "https://www.polygon.com/halo-campaign-evolved-physical-disc-confirmation/",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Halo remake will be on physical disc 'so that you have tangible items to add to your collection'",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-05T14:05:41.542987+00:00"
-    },
-    {
       "tweet": "If you're a button, you have one job. That's it. Somehow companies still mess that up.",
       "original_url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
       "buzz_score": 85,
@@ -77,17 +55,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "So apparently OpenAI is making GPT-5.5 so smart that it's actually getting worse at logic now. Think we're officially at the point of accidental genius.",
-      "original_url": "https://github.com/openai/codex/issues/30364",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-05T05:27:06.251702+00:00"
     },
     {
       "tweet": "Hold on, Denmark just uninvited the U.S. from their Fourth of July party because of that whole Greenland thing. Awkward",
@@ -486,17 +453,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Millions showed up for the funeral prayers for Khamenei. The scale of that whole thing is just wild.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/millions-attend-funeral-prayers-for-irans-khamenei-and-family?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Millions attend funeral prayers for Iran’s Khamenei and family",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-05T14:05:41.543278+00:00"
-    },
-    {
       "tweet": "Germany just got knocked out of the World Cup by Paraguay. Nightmare stuff.",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/c992kzk00kzo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 88,
@@ -596,15 +552,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Dan Tehan says a coalition with One Nation isn't being talked about. Guess they're just waiting for the election cycle to start.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jul/05/liberal-frontbencher-dan-tehan-says-coalition-with-one-nation-not-even-being-talked-about-ntwnfb",
-      "buzz_score": 80,
+      "tweet": "So apparently OpenAI is making GPT-5.5 so smart that it's actually getting worse at logic now. Think we're officially at the point of accidental genius.",
+      "original_url": "https://github.com/openai/codex/issues/30364",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Liberal frontbencher Dan Tehan says coalition with One Nation ‘not even being talked about’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-05T05:27:06.252126+00:00"
+      "original_title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-05T05:27:06.251702+00:00"
     },
     {
       "tweet": "Did you see that Ukraine hit a massive oil terminal in St Petersburg. Just straight to the source, man",
@@ -959,15 +915,26 @@
       "added_at": "2026-06-25T15:10:02.011134+00:00"
     },
     {
-      "tweet": "Reading about the UK heatwave in 76 is wild. Sunstroke and empty reservoirs, man, people just remember the misery.",
-      "original_url": "https://www.theguardian.com/environment/2026/jul/05/readers-recall-heatwave-1976-uk-weather-climate",
-      "buzz_score": 78,
+      "tweet": "Millions showed up for the funeral prayers for Khamenei. The scale of that whole thing is just wild.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/millions-attend-funeral-prayers-for-irans-khamenei-and-family?traffic_source=rss",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Empty reservoirs, ladybirds and sunstroke: remembering the UK heatwave of 1976",
+      "original_title": "Millions attend funeral prayers for Iran’s Khamenei and family",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-05T14:05:41.543278+00:00"
+    },
+    {
+      "tweet": "Dan Tehan says a coalition with One Nation isn't being talked about. Guess they're just waiting for the election cycle to start.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jul/05/liberal-frontbencher-dan-tehan-says-coalition-with-one-nation-not-even-being-talked-about-ntwnfb",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Liberal frontbencher Dan Tehan says coalition with One Nation ‘not even being talked about’",
       "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-07-05T14:05:41.543532+00:00"
+      "added_at": "2026-07-05T05:27:06.252126+00:00"
     },
     {
       "tweet": "Did you see YouTube creators are having their private videos leaked right now. Absolute disaster",
@@ -979,6 +946,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-07-04T19:51:18.179434+00:00"
+    },
+    {
+      "tweet": "Reading about the UK heatwave in 76 is wild. Sunstroke and empty reservoirs, man, people just remember the misery.",
+      "original_url": "https://www.theguardian.com/environment/2026/jul/05/readers-recall-heatwave-1976-uk-weather-climate",
+      "buzz_score": 78,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Empty reservoirs, ladybirds and sunstroke: remembering the UK heatwave of 1976",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-05T14:05:41.543532+00:00"
     },
     {
       "tweet": "Found this list of 60 bougie things for the house that are actually cheap. Like, how is this stuff so cheap.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1967,
+    "total_posted": 1969,
     "total_collected": 9151
   },
-  "last_posted_at": "2026-07-05T14:11:07.985098+00:00"
+  "last_posted_at": "2026-07-05T15:44:47.411125+00:00"
 }
