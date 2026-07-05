@@ -2,28 +2,6 @@
   "last_collected": "2026-07-05T10:34:03.212927+00:00",
   "queue": [
     {
-      "tweet": "So Nigel Farage forgot to mention all those gifts from that crypto guy convicted of fraud. Typical.",
-      "original_url": "https://www.theguardian.com/politics/2026/jul/05/nigel-farage-did-not-declare-gifts-from-crypto-entrepreneur-george-cottrell-says-reform-uk",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Nigel Farage did not declare gifts from crypto entrepreneur convicted of fraud",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-05T10:34:03.211135+00:00"
-    },
-    {
-      "tweet": "Did you see that China actually let that pastor out after Trump said something. Man, power moves are weird.",
-      "original_url": "https://www.npr.org/2026/07/05/nx-s1-5882784/pastor-freed-prison-china-trump-request",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Pastor freed from prison in China weeks after Trump requested his release",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-05T10:34:03.211126+00:00"
-    },
-    {
       "tweet": "If you're a button, you have one job. That's it. Somehow companies still mess that up.",
       "original_url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
       "buzz_score": 85,
@@ -57,17 +35,6 @@
       "added_at": "2026-07-05T05:27:06.251702+00:00"
     },
     {
-      "tweet": "Dan Tehan says a coalition with One Nation isn't being talked about. Guess they're just waiting for the election cycle to start.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jul/05/liberal-frontbencher-dan-tehan-says-coalition-with-one-nation-not-even-being-talked-about-ntwnfb",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Liberal frontbencher Dan Tehan says coalition with One Nation ‘not even being talked about’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-05T05:27:06.252126+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -88,6 +55,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Dan Tehan says a coalition with One Nation isn't being talked about. Guess they're just waiting for the election cycle to start.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jul/05/liberal-frontbencher-dan-tehan-says-coalition-with-one-nation-not-even-being-talked-about-ntwnfb",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Liberal frontbencher Dan Tehan says coalition with One Nation ‘not even being talked about’",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-05T05:27:06.252126+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -495,28 +473,6 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
-    },
-    {
-      "tweet": "Finally got an update on Frieren season three at Anime Expo. Finally.",
-      "original_url": "https://www.polygon.com/frieren-season-3-anime-expo-panel-announcement-release/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Frieren season 3 gets first real update in months at Anime Expo",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-05T10:34:03.212309+00:00"
-    },
-    {
-      "tweet": "Bro, Haaland and that Arsenal defender going at it on the world stage is gonna be wild.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c2ky2x52kwlo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Stay humble - the Premier League feud about to hit world stage",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-05T10:34:03.211921+00:00"
     },
     {
       "tweet": "Germany just got knocked out of the World Cup by Paraguay. Nightmare stuff.",
@@ -970,6 +926,39 @@
       "added_at": "2026-06-25T15:10:02.011134+00:00"
     },
     {
+      "tweet": "Finally got an update on Frieren season three at Anime Expo. Finally.",
+      "original_url": "https://www.polygon.com/frieren-season-3-anime-expo-panel-announcement-release/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Frieren season 3 gets first real update in months at Anime Expo",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-07-05T10:34:03.212309+00:00"
+    },
+    {
+      "tweet": "Bro, Haaland and that Arsenal defender going at it on the world stage is gonna be wild.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/c2ky2x52kwlo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Stay humble - the Premier League feud about to hit world stage",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-05T10:34:03.211921+00:00"
+    },
+    {
+      "tweet": "Did you see YouTube creators are having their private videos leaked right now. Absolute disaster",
+      "original_url": "https://javoriuski.com/post/youtube",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Leaking YouTube creators' private videos",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-04T19:51:18.179434+00:00"
+    },
+    {
       "tweet": "Saw how that whole xenophobia thing just went viral in South Africa. That’s just a mess.",
       "original_url": "https://www.aljazeera.com/video/the-listening-post/2026/7/5/how-xenophobia-went-viral-in-south-africa?traffic_source=rss",
       "buzz_score": 80,
@@ -1023,17 +1012,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-07-05T10:34:03.211132+00:00"
-    },
-    {
-      "tweet": "Did you see YouTube creators are having their private videos leaked right now. Absolute disaster",
-      "original_url": "https://javoriuski.com/post/youtube",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Leaking YouTube creators' private videos",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-04T19:51:18.179434+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1963,
+    "total_posted": 1965,
     "total_collected": 9135
   },
-  "last_posted_at": "2026-07-05T10:41:42.276960+00:00"
+  "last_posted_at": "2026-07-05T12:08:57.008977+00:00"
 }
