@@ -2,28 +2,6 @@
   "last_collected": "2026-07-05T18:44:29.406084+00:00",
   "queue": [
     {
-      "tweet": "Dude, someone actually got Command and Conquer Generals running on an iPad. I'm gonna be wasting so much time.",
-      "original_url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-05T18:44:29.404658+00:00"
-    },
-    {
-      "tweet": "Finally someone said it, no RPG needs to be longer than 40 hours. I just want to finish a game for once.",
-      "original_url": "https://www.polygon.com/rpg-game-length-spicy-take/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "No RPG needs to be longer than 40 hours",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-05T18:44:29.405584+00:00"
-    },
-    {
       "tweet": "Hold on, a plane literally got hit by a firework landing in Chicago. What.",
       "original_url": "https://www.bbc.co.uk/news/articles/cj4gg89r9gdo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -132,28 +110,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Did you see Randy Fine just tried to argue Palestinians don't exist. This is where we're at now.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/us-congressman-denies-existence-of-palestinians-in-interview-2?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US Congressman denies existence of Palestinians in interview",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-05T18:44:29.405094+00:00"
-    },
-    {
-      "tweet": "Did you see the EU just fast-tracked that Chat Control stuff. We're really just letting them look at everything now.",
-      "original_url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "EU Council forces Chat Control via fast-track",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-05T18:44:29.404664+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -563,15 +519,26 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Nintendo is gonna 'tackle' Pokémon card scalpers after printing billions of them. Like, how is that the plan",
-      "original_url": "https://kotaku.com/nintendo-president-promises-to-tackle-pokemon-card-scalpers-after-billions-printed-fail-to-satisfy-market-2000712688",
-      "buzz_score": 85,
+      "tweet": "Did you see Randy Fine just tried to argue Palestinians don't exist. This is where we're at now.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/us-congressman-denies-existence-of-palestinians-in-interview-2?traffic_source=rss",
+      "buzz_score": 90,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Nintendo President Promises To Tackle Pokémon Card Scalpers After Billions Printed Fail To Satisfy Market",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-05T18:44:29.405340+00:00"
+      "original_title": "US Congressman denies existence of Palestinians in interview",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-05T18:44:29.405094+00:00"
+    },
+    {
+      "tweet": "Did you see the EU just fast-tracked that Chat Control stuff. We're really just letting them look at everything now.",
+      "original_url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "EU Council forces Chat Control via fast-track",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-05T18:44:29.404664+00:00"
     },
     {
       "tweet": "Germany just got knocked out of the World Cup by Paraguay. Nightmare stuff.",
@@ -1034,6 +1001,17 @@
       "source": "Rolling Stone",
       "category": "entertainment",
       "added_at": "2026-06-26T06:49:18.765903+00:00"
+    },
+    {
+      "tweet": "Nintendo is gonna 'tackle' Pokémon card scalpers after printing billions of them. Like, how is that the plan",
+      "original_url": "https://kotaku.com/nintendo-president-promises-to-tackle-pokemon-card-scalpers-after-billions-printed-fail-to-satisfy-market-2000712688",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Nintendo President Promises To Tackle Pokémon Card Scalpers After Billions Printed Fail To Satisfy Market",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-05T18:44:29.405340+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1974,
+    "total_posted": 1976,
     "total_collected": 9181
   },
-  "last_posted_at": "2026-07-05T18:52:24.928432+00:00"
+  "last_posted_at": "2026-07-05T20:05:52.476937+00:00"
 }
