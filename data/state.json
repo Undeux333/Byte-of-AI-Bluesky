@@ -2,28 +2,6 @@
   "last_collected": "2026-07-06T17:26:00.479704+00:00",
   "queue": [
     {
-      "tweet": "Did you see Nintendo is finally making the batteries in their devices replaceable again. It’s 2026, we’re back in 2005",
-      "original_url": "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Nintendo announces new product revisions in Europe with replaceable batteries",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-06T17:26:00.478521+00:00"
-    },
-    {
-      "tweet": "Was thinking about those school lunch desserts from the 2000s today. We really survived on pure sugar and industrial grade chocolate.",
-      "original_url": "https://www.mentalfloss.com/food/2000s-school-lunch-desserts?utm_source=RSS",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "5 School Lunch Desserts That Defined Cafeterias in the 2000s",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-06T14:40:44.267592+00:00"
-    },
-    {
       "tweet": "That doctor from Gaza is looking totally different after 18 months in an Israeli jail without a trial. Just brutal.",
       "original_url": "https://www.theguardian.com/world/2026/jul/06/detained-gaza-doctor-almost-unrecognisable-injuries-israeli-jail-hussam-abu-safiya",
       "buzz_score": 85,
@@ -57,28 +35,6 @@
       "added_at": "2026-07-06T14:40:44.267871+00:00"
     },
     {
-      "tweet": "Meccha Chameleon just outsold Mario Kart. I don't even know what's happening anymore",
-      "original_url": "https://www.polygon.com/meccha-chameleon-sales-15-million/",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Meccha Chameleon sales reach 15 million, beating Mario Kart World",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-06T11:21:09.211105+00:00"
-    },
-    {
-      "tweet": "Turkey is banning protests and raiding houses right before that NATO summit. Subtle",
-      "original_url": "https://www.theguardian.com/world/2026/jul/06/turkey-crackdown-public-life-run-up-nato-summit-ankara",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Turkey intensifies crackdown on public life in run-up to Nato summit in Ankara",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-06T11:21:09.211967+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -99,17 +55,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Hold on, Trump just asked FIFA to review that Balogun suspension. Like the leader of the free world has nothing better to do",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump confirms he asked Fifa to review Balogun ban",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-06T17:26:00.478527+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -519,15 +464,15 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Man, Messi vs Salah for the World Cup round of 16. That’s just unfair",
-      "original_url": "https://www.aljazeera.com/news/2026/7/6/argentina-vs-egypt-fifa-world-cup-last-16-messi-salah-prediction-kickoff-news?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
+      "tweet": "Meccha Chameleon just outsold Mario Kart. I don't even know what's happening anymore",
+      "original_url": "https://www.polygon.com/meccha-chameleon-sales-15-million/",
+      "buzz_score": 82,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Argentina vs Egypt: FIFA World Cup last 16 – Messi, Salah, prediction, news",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-06T17:26:00.479057+00:00"
+      "original_title": "Meccha Chameleon sales reach 15 million, beating Mario Kart World",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-07-06T11:21:09.211105+00:00"
     },
     {
       "tweet": "Germany just got knocked out of the World Cup by Paraguay. Nightmare stuff.",
@@ -629,15 +574,26 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Hold on, FIFA is letting Balogun play after that red card in his last game. At this point why even have rules",
-      "original_url": "https://www.npr.org/2026/07/06/g-s1-132108/world-cup-balogun-uefa-fifa-belgum-trump",
-      "buzz_score": 92,
+      "tweet": "Turkey is banning protests and raiding houses right before that NATO summit. Subtle",
+      "original_url": "https://www.theguardian.com/world/2026/jul/06/turkey-crackdown-public-life-run-up-nato-summit-ankara",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Turkey intensifies crackdown on public life in run-up to Nato summit in Ankara",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-06T11:21:09.211967+00:00"
+    },
+    {
+      "tweet": "Hold on, Trump just asked FIFA to review that Balogun suspension. Like the leader of the free world has nothing better to do",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 90,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Historic World Cup furor at 'incomprehensible' FIFA decision to let U.S. forward Balogun play",
-      "source": "NPR News",
+      "original_title": "Trump confirms he asked Fifa to review Balogun ban",
+      "source": "BBC World",
       "category": "world",
-      "added_at": "2026-07-06T14:40:44.267595+00:00"
+      "added_at": "2026-07-06T17:26:00.478527+00:00"
     },
     {
       "tweet": "Ronaldo confirmed 2026 is his last World Cup. It's wild that we're watching the end of an entire era.",
@@ -970,15 +926,15 @@
       "added_at": "2026-06-29T17:32:22.846191+00:00"
     },
     {
-      "tweet": "Medicare just kicked thousands off their plans because they missed an eight dollar payment. That's just a coffee.",
-      "original_url": "https://www.npr.org/2026/07/06/nx-s1-5879413/medicare-drug-plan-coverage-premiums-wellcare",
-      "buzz_score": 88,
-      "buzz_score2": 92,
+      "tweet": "Man, Messi vs Salah for the World Cup round of 16. That’s just unfair",
+      "original_url": "https://www.aljazeera.com/news/2026/7/6/argentina-vs-egypt-fifa-world-cup-last-16-messi-salah-prediction-kickoff-news?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "These Medicare beneficiaries thought their drug plan was free. Then they lost it",
-      "source": "NPR News",
+      "original_title": "Argentina vs Egypt: FIFA World Cup last 16 – Messi, Salah, prediction, news",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-07-06T11:21:09.210823+00:00"
+      "added_at": "2026-07-06T17:26:00.479057+00:00"
     },
     {
       "tweet": "Neymar's quitting international football after that World Cup exit. Guess we're finally done with the theatrics.",
@@ -990,6 +946,28 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-07-06T02:01:30.376196+00:00"
+    },
+    {
+      "tweet": "Hold on, FIFA is letting Balogun play after that red card in his last game. At this point why even have rules",
+      "original_url": "https://www.npr.org/2026/07/06/g-s1-132108/world-cup-balogun-uefa-fifa-belgum-trump",
+      "buzz_score": 92,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Historic World Cup furor at 'incomprehensible' FIFA decision to let U.S. forward Balogun play",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-06T14:40:44.267595+00:00"
+    },
+    {
+      "tweet": "Medicare just kicked thousands off their plans because they missed an eight dollar payment. That's just a coffee.",
+      "original_url": "https://www.npr.org/2026/07/06/nx-s1-5879413/medicare-drug-plan-coverage-premiums-wellcare",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "These Medicare beneficiaries thought their drug plan was free. Then they lost it",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-06T11:21:09.210823+00:00"
     },
     {
       "tweet": "Apparently a UK charity sent 200k to a school in an illegal settlement. Just casual international law violations.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 1994,
+    "total_posted": 1996,
     "total_collected": 9279
   },
-  "last_posted_at": "2026-07-06T17:32:09.468461+00:00"
+  "last_posted_at": "2026-07-06T19:21:47.940026+00:00"
 }
