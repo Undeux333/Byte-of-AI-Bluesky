@@ -2,28 +2,6 @@
   "last_collected": "2026-07-07T22:50:43.831209+00:00",
   "queue": [
     {
-      "tweet": "Did you see the US just started hitting targets in Iran after those tankers got smoked? Feels like we're always one headline away from things just spiraling.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-07T22:50:43.829639+00:00"
-    },
-    {
-      "tweet": "So the president of Zimbabwe just signed a law letting him stay in power until 2030. Imagine just deciding your job contract is basically forever now.",
-      "original_url": "https://www.nytimes.com/2026/07/07/world/africa/zimbabwe-president-mnangagwa-extension.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Zimbabwe’s President Signs Law Extending His Term",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-07T22:50:43.829642+00:00"
-    },
-    {
       "tweet": "So apparently every new car in the EU is gonna have a camera watching you drive now. Imagine just trying to grab a burger and the car is judging your form. No thanks.",
       "original_url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
       "buzz_score": 85,
@@ -123,17 +101,6 @@
       "added_at": "2026-07-07T18:17:23.949931+00:00"
     },
     {
-      "tweet": "Bro, I just found this hack to tie my shorts so they actually stay up. We've been living like savages for years.",
-      "original_url": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "A better way to tie your gym shorts. (Or any drawstring) [video]",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-07T16:09:44.593167+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -154,6 +121,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Bro, I just found this hack to tie my shorts so they actually stay up. We've been living like savages for years.",
+      "original_url": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "A better way to tie your gym shorts. (Or any drawstring) [video]",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-07T16:09:44.593167+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -574,39 +552,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Egypt blowing a two-goal lead so late to lose to Argentina is pure pain. That’s sports for you.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c5yzd23jll5o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The fury and heartbreak of Egypt's stunning World Cup collapse",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-07T22:50:43.830947+00:00"
-    },
-    {
-      "tweet": "Reading about those Rhythm Heaven levels that make people wanna smash their TV. We’ve all played that one game that’s just built to ruin your day.",
-      "original_url": "https://kotaku.com/rhythm-heaven-groove-games-frustrating-worst-best-2000713407",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "9 Rhythm Heaven Groove Games That Made Me Want To Put A Controller Through My TV",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-07T22:50:43.830317+00:00"
-    },
-    {
-      "tweet": "Egypt coach is saying they got cheated out of that win against Argentina because FIFA needs Messi in the tournament. Like, are we even surprised?",
-      "original_url": "https://www.espn.com/soccer/story/_/id/49298958/egypt-boss-bemoans-injustice-loss-argentina-world-cup",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Egypt bemoan 'injustice' after Argentina defeat",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-07-07T22:50:43.829921+00:00"
-    },
-    {
       "tweet": "So apparently a tanker just got hit in the Strait of Hormuz after Iranian state TV warned them. Just another day in the Middle East.",
       "original_url": "https://www.npr.org/2026/07/07/g-s1-132265/tanker-attack-strait-of-hormuz",
       "buzz_score": 88,
@@ -715,6 +660,39 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Egypt blowing a two-goal lead so late to lose to Argentina is pure pain. That’s sports for you.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/c5yzd23jll5o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The fury and heartbreak of Egypt's stunning World Cup collapse",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-07T22:50:43.830947+00:00"
+    },
+    {
+      "tweet": "Reading about those Rhythm Heaven levels that make people wanna smash their TV. We’ve all played that one game that’s just built to ruin your day.",
+      "original_url": "https://kotaku.com/rhythm-heaven-groove-games-frustrating-worst-best-2000713407",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "9 Rhythm Heaven Groove Games That Made Me Want To Put A Controller Through My TV",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-07T22:50:43.830317+00:00"
+    },
+    {
+      "tweet": "Egypt coach is saying they got cheated out of that win against Argentina because FIFA needs Messi in the tournament. Like, are we even surprised?",
+      "original_url": "https://www.espn.com/soccer/story/_/id/49298958/egypt-boss-bemoans-injustice-loss-argentina-world-cup",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Egypt bemoan 'injustice' after Argentina defeat",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-07-07T22:50:43.829921+00:00"
     },
     {
       "tweet": "Someone in Liberia tried to smuggle 200kg of cocaine disguised as seasoning cubes. They really thought.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2022,
+    "total_posted": 2024,
     "total_collected": 9435
   },
-  "last_posted_at": "2026-07-07T22:59:50.620139+00:00"
+  "last_posted_at": "2026-07-07T23:53:07.630449+00:00"
 }
