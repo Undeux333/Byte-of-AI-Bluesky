@@ -2,28 +2,6 @@
   "last_collected": "2026-07-06T23:31:40.709739+00:00",
   "queue": [
     {
-      "tweet": "Man, Russia hitting Kyiv right before that NATO summit. Like, are they even trying to be subtle anymore",
-      "original_url": "https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Russia Strikes Kyiv, Ukraine’s Capital, on Eve of NATO Summit",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-06T23:31:40.708174+00:00"
-    },
-    {
-      "tweet": "So apparently the extreme heat on July 4th is just the new normal now. We're just gonna have to cancel every parade until we're used to it.",
-      "original_url": "https://www.npr.org/2026/07/06/nx-s1-5883704/extreme-heat-july-4th-climate",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Extreme heat on Independence Day will be America's new normal, experts say",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-06T23:31:40.708171+00:00"
-    },
-    {
       "tweet": "Did you know US mailboxes didn't used to be blue. They were all sorts of colors for the longest time and they only just settled on that. Pretty random.",
       "original_url": "https://www.mentalfloss.com/history/why-us-mailboxes-are-blue?utm_source=RSS",
       "buzz_score": 75,
@@ -134,6 +112,28 @@
       "added_at": "2026-07-06T20:59:51.412684+00:00"
     },
     {
+      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
+      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-02T15:05:13.740925+00:00"
+    },
+    {
+      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
+      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US court limits mail-order access to abortion pill mifepristone",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
       "tweet": "Typhoon Maysak is absolutely wrecking parts of China right now. Man",
       "original_url": "https://www.theguardian.com/world/2026/jul/06/typhoon-maysak-kills-two-and-forces-thousands-to-evacuate-in-china",
       "buzz_score": 70,
@@ -165,28 +165,6 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-07-06T20:59:51.413177+00:00"
-    },
-    {
-      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
-      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-02T15:05:13.740925+00:00"
-    },
-    {
-      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
-      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US court limits mail-order access to abortion pill mifepristone",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -596,50 +574,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Keir Starmer is heading to Ankara to beg NATO allies to keep spending money because of Trump. Rough week for that guy.",
-      "original_url": "https://www.theguardian.com/world/2026/jul/06/keir-starmer-european-nato-us-ankara-summit",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Starmer to rally European allies at Nato summit amid concerns over US stance",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-06T23:31:40.708730+00:00"
-    },
-    {
-      "tweet": "So the Democrats are finally pulling support for that Platner guy after all those assault allegations. Took them long enough.",
-      "original_url": "https://www.aljazeera.com/news/2026/7/6/leading-us-democrats-withdraw-support-for-platner-after-assault-allegations?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Leading US Democrats withdraw support for Platner after assault allegations",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-06T23:31:40.708457+00:00"
-    },
-    {
-      "tweet": "That doctor from Gaza is looking totally different after 18 months in an Israeli jail without a trial. Just brutal.",
-      "original_url": "https://www.theguardian.com/world/2026/jul/06/detained-gaza-doctor-almost-unrecognisable-injuries-israeli-jail-hussam-abu-safiya",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Detained Gaza doctor almost unrecognisable after injuries in Israeli jail, lawyer says",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-06T14:40:44.269068+00:00"
-    },
-    {
-      "tweet": "Dude, I just found out Tom Petty wrote half the hits I grew up listening to. Sometimes you don't even realize who's behind your favorite songs.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/songs-you-might-not-know-tom-petty-wrote?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "8 Hit Songs You Might Not Know Tom Petty Wrote",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-06T14:40:44.267586+00:00"
-    },
-    {
       "tweet": "Germany just got knocked out of the World Cup by Paraguay. Nightmare stuff.",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/c992kzk00kzo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 88,
@@ -737,6 +671,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "That doctor from Gaza is looking totally different after 18 months in an Israeli jail without a trial. Just brutal.",
+      "original_url": "https://www.theguardian.com/world/2026/jul/06/detained-gaza-doctor-almost-unrecognisable-injuries-israeli-jail-hussam-abu-safiya",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Detained Gaza doctor almost unrecognisable after injuries in Israeli jail, lawyer says",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-06T14:40:44.269068+00:00"
+    },
+    {
+      "tweet": "Dude, I just found out Tom Petty wrote half the hits I grew up listening to. Sometimes you don't even realize who's behind your favorite songs.",
+      "original_url": "https://www.mentalfloss.com/entertainment/music/songs-you-might-not-know-tom-petty-wrote?utm_source=RSS",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "8 Hit Songs You Might Not Know Tom Petty Wrote",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-07-06T14:40:44.267586+00:00"
     },
     {
       "tweet": "Ronaldo confirmed 2026 is his last World Cup. It's wild that we're watching the end of an entire era.",
@@ -1034,6 +990,28 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-06-30T01:35:36.586580+00:00"
+    },
+    {
+      "tweet": "Keir Starmer is heading to Ankara to beg NATO allies to keep spending money because of Trump. Rough week for that guy.",
+      "original_url": "https://www.theguardian.com/world/2026/jul/06/keir-starmer-european-nato-us-ankara-summit",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Starmer to rally European allies at Nato summit amid concerns over US stance",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-06T23:31:40.708730+00:00"
+    },
+    {
+      "tweet": "So the Democrats are finally pulling support for that Platner guy after all those assault allegations. Took them long enough.",
+      "original_url": "https://www.aljazeera.com/news/2026/7/6/leading-us-democrats-withdraw-support-for-platner-after-assault-allegations?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Leading US Democrats withdraw support for Platner after assault allegations",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-06T23:31:40.708457+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2002,
+    "total_posted": 2004,
     "total_collected": 9311
   },
-  "last_posted_at": "2026-07-06T23:38:58.501156+00:00"
+  "last_posted_at": "2026-07-07T01:29:18.394598+00:00"
 }
