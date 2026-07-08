@@ -2,28 +2,6 @@
   "last_collected": "2026-07-08T09:33:58.597259+00:00",
   "queue": [
     {
-      "tweet": "Keith Richards wrote the main Satisfaction riff in his sleep and woke up not remembering it. Brains are weird.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/rolling-stones-song-keith-richards-wrote-in-sleep?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Iconic Rolling Stones Song Keith Richards Wrote in His Sleep",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-08T09:33:58.596632+00:00"
-    },
-    {
-      "tweet": "That GE factory in Georgia finally fixed their labor shortage just by letting people pick their own shifts. Turns out people actually want to work if you don't treat them like robots.",
-      "original_url": "https://www.npr.org/2026/07/08/nx-s1-5876084/manufacturing-flexible-part-time-work",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "This factory was severely short on workers. Then it offered flexible work",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-08T09:33:58.595614+00:00"
-    },
-    {
       "tweet": "Did you hear about Marine Le Pen? She got that guilty verdict and immediately launched her campaign like nothing even happened. Just zero shame.",
       "original_url": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -33,28 +11,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-07-08T04:30:04.166793+00:00"
-    },
-    {
-      "tweet": "Iran is accusing the US of violating a peace deal after those strikes near the strait of Hormuz. Everyone's just blaming everyone now.",
-      "original_url": "https://www.theguardian.com/world/2026/jul/08/iran-us-war-ceasefire-peace-agreement-strikes-strait-of-hormuz",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Iran accuses US of violating peace agreement after strikes target sites around strait of Hormuz",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-08T04:30:04.167364+00:00"
-    },
-    {
-      "tweet": "They just killed the investigation into that anti-corruption chief because it costs too much money. You can't write irony like that.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jul/08/nacc-anti-corruption-paul-brereton-complaints-investigations-cost-",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Investigations into former anti-corruption chief Paul Brereton nixed over cost concerns",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-08T04:30:04.167235+00:00"
     },
     {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
@@ -79,28 +35,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Novak Djokovic just pulled off another five-set epic. Some guys are just built different at this point.",
-      "original_url": "https://www.bbc.co.uk/sport/tennis/articles/czx5q0kzrkro?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'The moments I still play tennis for' - extraordinary Djokovic wins five-set epic",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-08T04:30:04.166955+00:00"
-    },
-    {
-      "tweet": "So apparently the EU is moving forward with Chat Control. Pretty sure our privacy isn't supposed to be a suggestion. Wild.",
-      "original_url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Chat Control passed first round in EU Parliament",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-08T09:33:58.595454+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -112,15 +46,26 @@
       "added_at": "2026-06-24T11:28:23.259709+00:00"
     },
     {
-      "tweet": "Did you hear about India going after Meta for that ads mess. They're literally hosting illegal content on their own platform. Wild, man.",
-      "original_url": "https://www.nytimes.com/2026/07/07/world/asia/india-meta-child-abuse-imagery.html",
-      "buzz_score": 85,
+      "tweet": "Iran is accusing the US of violating a peace deal after those strikes near the strait of Hormuz. Everyone's just blaming everyone now.",
+      "original_url": "https://www.theguardian.com/world/2026/jul/08/iran-us-war-ceasefire-peace-agreement-strikes-strait-of-hormuz",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "India Calls Out Meta Over Reported Child Sexual Abuse Imagery in Ads",
-      "source": "NYT World",
+      "original_title": "Iran accuses US of violating peace agreement after strikes target sites around strait of Hormuz",
+      "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-07-08T01:11:52.995307+00:00"
+      "added_at": "2026-07-08T04:30:04.167364+00:00"
+    },
+    {
+      "tweet": "They just killed the investigation into that anti-corruption chief because it costs too much money. You can't write irony like that.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jul/08/nacc-anti-corruption-paul-brereton-complaints-investigations-cost-",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Investigations into former anti-corruption chief Paul Brereton nixed over cost concerns",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-08T04:30:04.167235+00:00"
     },
     {
       "tweet": "Did you see China just test-launched a ballistic missile while Australia and Fiji were signing a defense treaty. Pretty bold.",
@@ -530,39 +475,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Trump says the ceasefire with Iran is over while they’re still at that summit in Turkey. The timing is just brutal.",
-      "original_url": "https://www.npr.org/2026/07/08/nx-s1-5883929/trump-nato-iran-strikes-press-conference",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "At NATO summit in Turkey, Trump says he believes ceasefire with Iran is 'over'",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-08T09:33:58.597004+00:00"
-    },
-    {
-      "tweet": "That Melbourne case is insane. Guy gets punched in the face for being a creep right after doing the crime. Talk about instant karma.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jul/08/high-profile-melbourne-man-called-rapist-and-punched-in-face-shortly-after-he-raped-former-employee-court-hears-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "High-profile Melbourne man called rapist and punched in face shortly after he raped former employee, court hears",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-08T09:33:58.596246+00:00"
-    },
-    {
-      "tweet": "Trump just declared the whole deal with Iran dead on arrival. We’re really just speedrunning this now.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-says-mou-with-vicious-violent-iran-is-over?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump says MoU with ‘vicious, violent’ Iran is over",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-08T09:33:58.595994+00:00"
-    },
-    {
       "tweet": "So apparently a tanker just got hit in the Strait of Hormuz after Iranian state TV warned them. Just another day in the Middle East.",
       "original_url": "https://www.npr.org/2026/07/07/g-s1-132265/tanker-attack-strait-of-hormuz",
       "buzz_score": 88,
@@ -671,6 +583,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Novak Djokovic just pulled off another five-set epic. Some guys are just built different at this point.",
+      "original_url": "https://www.bbc.co.uk/sport/tennis/articles/czx5q0kzrkro?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "'The moments I still play tennis for' - extraordinary Djokovic wins five-set epic",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-08T04:30:04.166955+00:00"
+    },
+    {
+      "tweet": "Did you hear about India going after Meta for that ads mess. They're literally hosting illegal content on their own platform. Wild, man.",
+      "original_url": "https://www.nytimes.com/2026/07/07/world/asia/india-meta-child-abuse-imagery.html",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "India Calls Out Meta Over Reported Child Sexual Abuse Imagery in Ads",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-08T01:11:52.995307+00:00"
     },
     {
       "tweet": "So apparently every new car in the EU is gonna have a camera watching you drive now. Imagine just trying to grab a burger and the car is judging your form. No thanks.",
@@ -1034,6 +968,50 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-06-30T16:02:46.937272+00:00"
+    },
+    {
+      "tweet": "So apparently the EU is moving forward with Chat Control. Pretty sure our privacy isn't supposed to be a suggestion. Wild.",
+      "original_url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Chat Control passed first round in EU Parliament",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-08T09:33:58.595454+00:00"
+    },
+    {
+      "tweet": "Trump says the ceasefire with Iran is over while they’re still at that summit in Turkey. The timing is just brutal.",
+      "original_url": "https://www.npr.org/2026/07/08/nx-s1-5883929/trump-nato-iran-strikes-press-conference",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "At NATO summit in Turkey, Trump says he believes ceasefire with Iran is 'over'",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-08T09:33:58.597004+00:00"
+    },
+    {
+      "tweet": "That Melbourne case is insane. Guy gets punched in the face for being a creep right after doing the crime. Talk about instant karma.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jul/08/high-profile-melbourne-man-called-rapist-and-punched-in-face-shortly-after-he-raped-former-employee-court-hears-ntwnfb",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "High-profile Melbourne man called rapist and punched in face shortly after he raped former employee, court hears",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-08T09:33:58.596246+00:00"
+    },
+    {
+      "tweet": "Trump just declared the whole deal with Iran dead on arrival. We’re really just speedrunning this now.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-says-mou-with-vicious-violent-iran-is-over?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump says MoU with ‘vicious, violent’ Iran is over",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-08T09:33:58.595994+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2032,
+    "total_posted": 2034,
     "total_collected": 9493
   },
-  "last_posted_at": "2026-07-08T09:43:33.022481+00:00"
+  "last_posted_at": "2026-07-08T11:34:13.964952+00:00"
 }
