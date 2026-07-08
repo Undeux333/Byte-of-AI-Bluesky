@@ -2,28 +2,6 @@
   "last_collected": "2026-07-08T20:55:05.215701+00:00",
   "queue": [
     {
-      "tweet": "Did you see Trump ended that Iran ceasefire? We're just back to stressing over gas prices again I guess.",
-      "original_url": "https://www.npr.org/2026/07/08/nx-s1-5885946/iran-trump-oil-stock-inflation-gas-federal-reserve",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tensions with Iran add fresh uncertainty to an already shaky global economy",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-08T20:55:05.214122+00:00"
-    },
-    {
-      "tweet": "That Nato summit was just pure chaos with Trump. Watching world leaders try to keep a straight face is something else.",
-      "original_url": "https://www.theguardian.com/world/2026/jul/08/erratic-trump-dominates-final-hours-nato-summit",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Sabre-rattling to ‘tremendous love’: erratic Trump dominates final hours of Nato summit",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-08T20:55:05.215061+00:00"
-    },
-    {
       "tweet": "Seeing everyone skip summer travel because it's too expensive. We're all just staying home this year.",
       "original_url": "https://www.aljazeera.com/economy/2026/7/8/us-summer-travel-slumps-under-rising-fares-and-fuel-expenses?traffic_source=rss",
       "buzz_score": 85,
@@ -101,17 +79,6 @@
       "added_at": "2026-07-08T15:22:10.411465+00:00"
     },
     {
-      "tweet": "So apparently someone just walked into the Nigerian presidency and set up an entire fake agency out of his office. Dude really just made it up.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c621xrrp6jeo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Nigeria's president demands to know how fake agency was allegedly set up in his office",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-08T12:59:52.669993+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -134,37 +101,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "That report says AI is coming for the white-collar jobs while the trades are fine. We really spent all that money on college for nothing.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jul/08/women-and-university-graduates-most-at-risk-ai-job-loss-australia-report",
-      "buzz_score": 85,
+      "tweet": "So apparently someone just walked into the Nigerian presidency and set up an entire fake agency out of his office. Dude really just made it up.",
+      "original_url": "https://www.bbc.co.uk/news/articles/c621xrrp6jeo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 90,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Women and university graduates in Australia most at risk of losing jobs to AI, report finds",
-      "source": "The Guardian",
+      "original_title": "Nigeria's president demands to know how fake agency was allegedly set up in his office",
+      "source": "BBC World",
       "category": "world",
-      "added_at": "2026-07-08T12:59:52.670682+00:00"
-    },
-    {
-      "tweet": "People are losing their minds over the USMNT coach, but honestly? It doesn't matter. The players are just that bad.",
-      "original_url": "https://www.espn.com/soccer/story/_/id/49298797/usmnt-failed-world-cup-players-no-coach-save-them",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Let's face it: The USMNT's coach doesn't matter --...",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-07-08T12:59:52.670279+00:00"
-    },
-    {
-      "tweet": "Did you see what they're calling Chat Control 2.0 now. They're literally just trying to scan everyone's DMs for 'safety' reasons. Total surveillance.",
-      "original_url": "https://fightchatcontrol.eu/chat-control-overview",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Chat Control 1.0 and 2.0 Explained",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-08T12:59:52.669986+00:00"
+      "added_at": "2026-07-08T12:59:52.669993+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -583,6 +528,39 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "That report says AI is coming for the white-collar jobs while the trades are fine. We really spent all that money on college for nothing.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jul/08/women-and-university-graduates-most-at-risk-ai-job-loss-australia-report",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Women and university graduates in Australia most at risk of losing jobs to AI, report finds",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-08T12:59:52.670682+00:00"
+    },
+    {
+      "tweet": "People are losing their minds over the USMNT coach, but honestly? It doesn't matter. The players are just that bad.",
+      "original_url": "https://www.espn.com/soccer/story/_/id/49298797/usmnt-failed-world-cup-players-no-coach-save-them",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Let's face it: The USMNT's coach doesn't matter --...",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-07-08T12:59:52.670279+00:00"
+    },
+    {
+      "tweet": "Did you see what they're calling Chat Control 2.0 now. They're literally just trying to scan everyone's DMs for 'safety' reasons. Total surveillance.",
+      "original_url": "https://fightchatcontrol.eu/chat-control-overview",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Chat Control 1.0 and 2.0 Explained",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-08T12:59:52.669986+00:00"
     },
     {
       "tweet": "So apparently a tanker just got hit in the Strait of Hormuz after Iranian state TV warned them. Just another day in the Middle East.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2043,
+    "total_posted": 2045,
     "total_collected": 9554
   },
-  "last_posted_at": "2026-07-08T21:05:03.875376+00:00"
+  "last_posted_at": "2026-07-08T22:03:58.380233+00:00"
 }
