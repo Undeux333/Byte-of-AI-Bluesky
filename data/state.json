@@ -79,17 +79,6 @@
       "added_at": "2026-07-08T15:22:10.411632+00:00"
     },
     {
-      "tweet": "Trump's out here saying the Iran ceasefire is over. Like, the whole thing just expired because he decided it did. Casual.",
-      "original_url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Iran Live Updates: Trump Casts Doubt on Future of Cease-Fire After Latest Strikes",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-08T12:59:52.669997+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -121,6 +110,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Trump's out here saying the Iran ceasefire is over. Like, the whole thing just expired because he decided it did. Casual.",
+      "original_url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Iran Live Updates: Trump Casts Doubt on Future of Cease-Fire After Latest Strikes",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-08T12:59:52.669997+00:00"
     },
     {
       "tweet": "Did you see China just test-launched a ballistic missile while Australia and Fiji were signing a defense treaty. Pretty bold.",
@@ -530,17 +530,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "UK government says 100,000 people are signed off work with ADHD now. We're all just collectively losing our minds at this point.",
-      "original_url": "https://www.aljazeera.com/news/2026/7/8/why-have-100000-people-been-signed-off-work-with-adhd-in-the-uk?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Why have 100,000 people been signed off work with ADHD in the UK?",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-08T15:22:10.412130+00:00"
-    },
-    {
       "tweet": "So apparently a tanker just got hit in the Strait of Hormuz after Iranian state TV warned them. Just another day in the Middle East.",
       "original_url": "https://www.npr.org/2026/07/07/g-s1-132265/tanker-attack-strait-of-hormuz",
       "buzz_score": 88,
@@ -649,17 +638,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "London City just signed Alexia Putellas to a three-year deal. Like, the actual Ballon d'Or winner is playing for them now. Huge.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cvg7wenkklyo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "London City sign Ballon d'Or winner Putellas",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-08T15:22:10.411892+00:00"
     },
     {
       "tweet": "Did you hear about Marine Le Pen? She got that guilty verdict and immediately launched her campaign like nothing even happened. Just zero shame.",
@@ -1045,6 +1023,28 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-06-30T16:02:46.937272+00:00"
+    },
+    {
+      "tweet": "UK government says 100,000 people are signed off work with ADHD now. We're all just collectively losing our minds at this point.",
+      "original_url": "https://www.aljazeera.com/news/2026/7/8/why-have-100000-people-been-signed-off-work-with-adhd-in-the-uk?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Why have 100,000 people been signed off work with ADHD in the UK?",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-08T15:22:10.412130+00:00"
+    },
+    {
+      "tweet": "London City just signed Alexia Putellas to a three-year deal. Like, the actual Ballon d'Or winner is playing for them now. Huge.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cvg7wenkklyo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "London City sign Ballon d'Or winner Putellas",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-08T15:22:10.411892+00:00"
     }
   ],
   "seen_urls": [
