@@ -2,28 +2,6 @@
   "last_collected": "2026-07-08T18:12:48.326095+00:00",
   "queue": [
     {
-      "tweet": "Apparently you can get passports with Trump’s face on them now but only if you go to DC. Since when did the government start selling merch.",
-      "original_url": "https://www.npr.org/2026/07/08/g-s1-132497/passports-trump-image",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "New U.S. passports with Trump's image are available. Here's how to get (or avoid) one",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-08T18:12:48.324283+00:00"
-    },
-    {
-      "tweet": "Man, that ICC prosecutor is out here sexually harassing people while running the whole show. Can we have one major institution that isn’t a total joke.",
-      "original_url": "https://www.nytimes.com/2026/07/08/world/europe/internal-file-finds-icc-prosecutor-engaged-in-sexual-harassment.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Internal File Finds I.C.C. Prosecutor Engaged in Sexual Harassment",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-08T18:12:48.324414+00:00"
-    },
-    {
       "tweet": "Marine Le Pen is running in 2027 despite that whole 4 million euro misuse thing. Imagine if we were allowed to just ignore our crimes like that.",
       "original_url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-election-2027",
       "buzz_score": 85,
@@ -110,17 +88,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-07-08T12:59:52.669986+00:00"
-    },
-    {
-      "tweet": "Nigel Farage might be running his next election against a guy literally dressed as a trash can. The absolute state of that whole thing.",
-      "original_url": "https://www.nytimes.com/2026/07/08/world/europe/uk-nigel-farage-resigns-clacton-election.html",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Farage’s Resignation Risks Becoming Farce as U.K. Parties Boycott Clacton By-Election",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-08T15:22:10.411632+00:00"
     },
     {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
@@ -563,6 +530,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Nigel Farage might be running his next election against a guy literally dressed as a trash can. The absolute state of that whole thing.",
+      "original_url": "https://www.nytimes.com/2026/07/08/world/europe/uk-nigel-farage-resigns-clacton-election.html",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Farage’s Resignation Risks Becoming Farce as U.K. Parties Boycott Clacton By-Election",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-08T15:22:10.411632+00:00"
+    },
+    {
       "tweet": "So apparently a tanker just got hit in the Strait of Hormuz after Iranian state TV warned them. Just another day in the Middle East.",
       "original_url": "https://www.npr.org/2026/07/07/g-s1-132265/tanker-attack-strait-of-hormuz",
       "buzz_score": 88,
@@ -671,17 +649,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Trump's out here saying the Iran ceasefire is over. Like, the whole thing just expired because he decided it did. Casual.",
-      "original_url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Iran Live Updates: Trump Casts Doubt on Future of Cease-Fire After Latest Strikes",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-08T12:59:52.669997+00:00"
     },
     {
       "tweet": "Did you hear about Marine Le Pen? She got that guilty verdict and immediately launched her campaign like nothing even happened. Just zero shame.",
@@ -1034,6 +1001,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-07-02T07:54:38.913016+00:00"
+    },
+    {
+      "tweet": "Trump's out here saying the Iran ceasefire is over. Like, the whole thing just expired because he decided it did. Casual.",
+      "original_url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Iran Live Updates: Trump Casts Doubt on Future of Cease-Fire After Latest Strikes",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-08T12:59:52.669997+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2039,
+    "total_posted": 2041,
     "total_collected": 9538
   },
-  "last_posted_at": "2026-07-08T18:19:38.915033+00:00"
+  "last_posted_at": "2026-07-08T20:00:38.160256+00:00"
 }
