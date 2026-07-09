@@ -156,28 +156,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Elder Scrolls VI devs are saying the Xbox layoffs are gonna cause a cascading effect on development. Like, how is that game not done yet?",
-      "original_url": "https://kotaku.com/elder-scrolls-6-vi-delays-bethesda-xbox-layoffs-release-2000714125",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Elder Scrolls VI Devs Say Xbox Layoffs Will Have ‘Substantial And Cascading Effect’ On The Game’s Already Long Development",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-09T13:36:37.440144+00:00"
-    },
-    {
-      "tweet": "Yo, the U.S. and Iran are basically just trading strikes back and forth now. How is this even still sustainable?",
-      "original_url": "https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Live Updates: U.S. and Iran Sink Into Violent Cycle After Latest Strikes",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-09T13:36:37.439174+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -618,28 +596,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "So the Trump admin is taking Syria off the terror sponsor list. That’s a move.",
-      "original_url": "https://www.aljazeera.com/video/inside-story/2026/7/9/is-syria-stable-enough-to-engage-with-the-world?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Is Syria stable enough to engage with the world?",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-09T20:02:22.699471+00:00"
-    },
-    {
-      "tweet": "Gas prices are jumping around again after everything going on with Iran. Can we just have one month where my wallet isn't in survival mode",
-      "original_url": "https://www.npr.org/2026/07/09/nx-s1-5886319/gas-prices-budget",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "How to deal with seesawing gas prices",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-09T20:02:22.698292+00:00"
-    },
-    {
       "tweet": "Dude, Iran's own president and foreign minister got physically attacked by their own people this week. Talk about a rough internal meeting.",
       "original_url": "https://www.nytimes.com/2026/07/08/world/middleeast/iran-divisions-us-leaders.html",
       "buzz_score": 88,
@@ -759,6 +715,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Elder Scrolls VI devs are saying the Xbox layoffs are gonna cause a cascading effect on development. Like, how is that game not done yet?",
+      "original_url": "https://kotaku.com/elder-scrolls-6-vi-delays-bethesda-xbox-layoffs-release-2000714125",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Elder Scrolls VI Devs Say Xbox Layoffs Will Have ‘Substantial And Cascading Effect’ On The Game’s Already Long Development",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-09T13:36:37.440144+00:00"
+    },
+    {
+      "tweet": "Yo, the U.S. and Iran are basically just trading strikes back and forth now. How is this even still sustainable?",
+      "original_url": "https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Live Updates: U.S. and Iran Sink Into Violent Cycle After Latest Strikes",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-09T13:36:37.439174+00:00"
     },
     {
       "tweet": "Did you see the air raid sirens going off in Bahrain after that whole US-Iran thing? Are we really doing this again?",
@@ -1045,6 +1023,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-06T14:40:44.269068+00:00"
+    },
+    {
+      "tweet": "So the Trump admin is taking Syria off the terror sponsor list. That’s a move.",
+      "original_url": "https://www.aljazeera.com/video/inside-story/2026/7/9/is-syria-stable-enough-to-engage-with-the-world?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Is Syria stable enough to engage with the world?",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-09T20:02:22.699471+00:00"
+    },
+    {
+      "tweet": "Gas prices are jumping around again after everything going on with Iran. Can we just have one month where my wallet isn't in survival mode",
+      "original_url": "https://www.npr.org/2026/07/09/nx-s1-5886319/gas-prices-budget",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "How to deal with seesawing gas prices",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-09T20:02:22.698292+00:00"
     }
   ],
   "seen_urls": [
