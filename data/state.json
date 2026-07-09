@@ -2,28 +2,6 @@
   "last_collected": "2026-07-08T22:59:16.439914+00:00",
   "queue": [
     {
-      "tweet": "Seeing everyone skip summer travel because it's too expensive. We're all just staying home this year.",
-      "original_url": "https://www.aljazeera.com/economy/2026/7/8/us-summer-travel-slumps-under-rising-fares-and-fuel-expenses?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US summer travel slumps under rising fares and fuel expenses",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-08T20:55:05.214685+00:00"
-    },
-    {
-      "tweet": "Verlander's finally retiring after this season. Forty-three is basically ancient for a pitcher.",
-      "original_url": "https://www.espn.com/mlb/story/_/id/49307720/tigers-justin-verlander-retire-2026-season",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'Time has come': Verlander to retire after season",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-07-08T20:55:05.214408+00:00"
-    },
-    {
       "tweet": "So apparently Grok 4.5 is out now. I'm sure it's exactly what the world needed right now. Man.",
       "original_url": "https://x.ai/news/grok-4-5",
       "buzz_score": 85,
@@ -68,17 +46,6 @@
       "added_at": "2026-07-08T18:12:48.324119+00:00"
     },
     {
-      "tweet": "Yo, Trump is just out there saying he’ll probably hit Iran hard again tonight on the news. It's just wild how casual that is.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-on-iran-well-probably-hit-them-hard-again?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump on Iran: ‘We’ll probably hit them hard again tonight’",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-08T15:22:10.412251+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -101,15 +68,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Dude, the EU is making every new car come with a driver monitoring camera now. Like we need the machine watching us while we're stuck in traffic. Big brother.",
-      "original_url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
-      "buzz_score": 85,
+      "tweet": "Yo, Trump is just out there saying he’ll probably hit Iran hard again tonight on the news. It's just wild how casual that is.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-on-iran-well-probably-hit-them-hard-again?traffic_source=rss",
+      "buzz_score": 90,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Every new car sold in the European Union must include a driver monitoring camera",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-08T15:22:10.411465+00:00"
+      "original_title": "Trump on Iran: ‘We’ll probably hit them hard again tonight’",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-08T15:22:10.412251+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -541,15 +508,15 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Trump's just out here calling Spain 'very bad' at the summit now. Diplomacy in 2026 is just weird.",
-      "original_url": "https://www.theguardian.com/world/live/2026/jul/08/trump-nato-summit-greenland-us-turkey-rutte-marine-le-pen-europe-latest-news-updates",
+      "tweet": "Dude, the EU is making every new car come with a driver monitoring camera now. Like we need the machine watching us while we're stuck in traffic. Big brother.",
+      "original_url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
       "buzz_score": 85,
-      "buzz_score2": 90,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Nato summit: Trump says US could let Ukraine make Patriots and renews criticism of Spain and UK – as it happened",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-08T22:59:16.439733+00:00"
+      "original_title": "Every new car sold in the European Union must include a driver monitoring camera",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-08T15:22:10.411465+00:00"
     },
     {
       "tweet": "So apparently a tanker just got hit in the Strait of Hormuz after Iranian state TV warned them. Just another day in the Middle East.",
@@ -1034,6 +1001,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-07-02T07:54:38.913305+00:00"
+    },
+    {
+      "tweet": "Trump's just out here calling Spain 'very bad' at the summit now. Diplomacy in 2026 is just weird.",
+      "original_url": "https://www.theguardian.com/world/live/2026/jul/08/trump-nato-summit-greenland-us-turkey-rutte-marine-le-pen-europe-latest-news-updates",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Nato summit: Trump says US could let Ukraine make Patriots and renews criticism of Spain and UK – as it happened",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-08T22:59:16.439733+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2047,
+    "total_posted": 2049,
     "total_collected": 9562
   },
-  "last_posted_at": "2026-07-08T23:04:53.592017+00:00"
+  "last_posted_at": "2026-07-09T00:16:44.525863+00:00"
 }
