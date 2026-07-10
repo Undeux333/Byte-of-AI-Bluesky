@@ -46,39 +46,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Netflix is reportedly trying to buy Letterboxd now. Of course they have to ruin the one decent place left for movies.",
-      "original_url": "https://kotaku.com/netflix-reportedly-threatening-to-take-over-letterboxd-2000714661",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Netflix Reportedly Threatening To Take Over Letterboxd",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-10T15:07:57.658966+00:00"
-    },
-    {
-      "tweet": "Israeli drones are hitting Lebanon right after a US-brokered deal was announced. Pretty wild how those framework deals work.",
-      "original_url": "https://www.aljazeera.com/news/2026/7/10/israeli-drones-strike-lebanon-despite-us-brokered-framework-deal?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israeli drones strike Lebanon despite US-brokered framework deal",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-10T15:07:57.658717+00:00"
-    },
-    {
-      "tweet": "Dude, a passenger got partially sucked out of a plane window mid-flight and actually survived. Man, talk about a bad day.",
-      "original_url": "https://www.nytimes.com/2026/07/10/world/europe/ryanair-plane-greece-passenger-broken-window.html",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Passenger Is Partly Sucked Through Plane Window but Survives, Reports Say",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-10T15:07:57.658438+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -530,28 +497,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "SK hynix just raised twenty-six billion bucks off the AI hype alone. Like, who even has that kind of cash.",
-      "original_url": "https://www.theguardian.com/world/2026/jul/10/south-korea-chip-maker-sk-hynix-rides-ai-boom-raising-265bn-in-huge-us-listing",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "South Korea chip maker SK hynix rides AI boom raising $26.5bn in huge US listing",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-10T06:14:16.005874+00:00"
-    },
-    {
-      "tweet": "Dude, people are actually decoding the bash script printed on a Uniqlo shirt. We're really bored.",
-      "original_url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-10T06:14:16.005447+00:00"
-    },
-    {
       "tweet": "Dude, Iran's own president and foreign minister got physically attacked by their own people this week. Talk about a rough internal meeting.",
       "original_url": "https://www.nytimes.com/2026/07/08/world/middleeast/iran-divisions-us-leaders.html",
       "buzz_score": 88,
@@ -671,6 +616,61 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Netflix is reportedly trying to buy Letterboxd now. Of course they have to ruin the one decent place left for movies.",
+      "original_url": "https://kotaku.com/netflix-reportedly-threatening-to-take-over-letterboxd-2000714661",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Netflix Reportedly Threatening To Take Over Letterboxd",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-10T15:07:57.658966+00:00"
+    },
+    {
+      "tweet": "Israeli drones are hitting Lebanon right after a US-brokered deal was announced. Pretty wild how those framework deals work.",
+      "original_url": "https://www.aljazeera.com/news/2026/7/10/israeli-drones-strike-lebanon-despite-us-brokered-framework-deal?traffic_source=rss",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Israeli drones strike Lebanon despite US-brokered framework deal",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-10T15:07:57.658717+00:00"
+    },
+    {
+      "tweet": "Dude, a passenger got partially sucked out of a plane window mid-flight and actually survived. Man, talk about a bad day.",
+      "original_url": "https://www.nytimes.com/2026/07/10/world/europe/ryanair-plane-greece-passenger-broken-window.html",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Passenger Is Partly Sucked Through Plane Window but Survives, Reports Say",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-10T15:07:57.658438+00:00"
+    },
+    {
+      "tweet": "SK hynix just raised twenty-six billion bucks off the AI hype alone. Like, who even has that kind of cash.",
+      "original_url": "https://www.theguardian.com/world/2026/jul/10/south-korea-chip-maker-sk-hynix-rides-ai-boom-raising-265bn-in-huge-us-listing",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "South Korea chip maker SK hynix rides AI boom raising $26.5bn in huge US listing",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-10T06:14:16.005874+00:00"
+    },
+    {
+      "tweet": "Dude, people are actually decoding the bash script printed on a Uniqlo shirt. We're really bored.",
+      "original_url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-10T06:14:16.005447+00:00"
     },
     {
       "tweet": "Reading an article about how to orgasm, like we aren't all just winging it until something happens.",
