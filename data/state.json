@@ -2,28 +2,6 @@
   "last_collected": "2026-07-10T21:18:51.808633+00:00",
   "queue": [
     {
-      "tweet": "Dude, NYC is finally banning those shady subscription traps. Took them long enough to stop companies from making it impossible to cancel anything",
-      "original_url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "New York City to become first in US to ban deceptive subscription practices",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-10T21:18:51.807537+00:00"
-    },
-    {
-      "tweet": "Zverev ended that Arthur Fery run at Wimbledon today. Kind of a reality check for a wildcard.",
-      "original_url": "https://www.bbc.co.uk/sport/tennis/articles/ckg475qdnd7o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fery's Wimbledon run ended by Zverev in semi-finals",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-10T18:42:56.984697+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -915,17 +893,6 @@
       "added_at": "2026-07-07T08:41:28.355507+00:00"
     },
     {
-      "tweet": "So the government is shifting NEA funding toward patriotic art now. Imagine the meeting where they decided The Ronald Reagan Overture was the fix",
-      "original_url": "https://www.npr.org/2026/07/10/nx-s1-5870578/ronald-reagan-250th-patriotic-art",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Patriotic art gets the spotlight as NEA funding shifts. Cue 'The Ronald Reagan Overture'",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-10T21:18:51.807547+00:00"
-    },
-    {
       "tweet": "Russian finances are looking rough now that oil prices are bottoming out. That didn't last long.",
       "original_url": "https://www.nytimes.com/2026/07/09/world/europe/russia-oil-budget-deficit.html",
       "buzz_score": 80,
@@ -959,6 +926,28 @@
       "added_at": "2026-07-10T02:11:46.183268+00:00"
     },
     {
+      "tweet": "So the government is shifting NEA funding toward patriotic art now. Imagine the meeting where they decided The Ronald Reagan Overture was the fix",
+      "original_url": "https://www.npr.org/2026/07/10/nx-s1-5870578/ronald-reagan-250th-patriotic-art",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Patriotic art gets the spotlight as NEA funding shifts. Cue 'The Ronald Reagan Overture'",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-10T21:18:51.807547+00:00"
+    },
+    {
+      "tweet": "Wait, Steam finally got the verification working right. And of course Black Flag gets a perfect score. Classic.",
+      "original_url": "https://kotaku.com/steam-machine-valve-deck-verification-performance-black-flag-2000714602",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Steam Machine Verification Is Finally Working, And Black Flag Gets A Perfect Score",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-10T12:18:16.894423+00:00"
+    },
+    {
       "tweet": "Historic sites in Lebanon are getting wiped out by strikes. Just brutal",
       "original_url": "https://www.aljazeera.com/video/2026/7/10/lebanon-historic-sites-destroyed-by-israeli-strikes?traffic_source=rss",
       "buzz_score": 75,
@@ -990,17 +979,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-07-10T21:18:51.807754+00:00"
-    },
-    {
-      "tweet": "Wait, Steam finally got the verification working right. And of course Black Flag gets a perfect score. Classic.",
-      "original_url": "https://kotaku.com/steam-machine-valve-deck-verification-performance-black-flag-2000714602",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Steam Machine Verification Is Finally Working, And Black Flag Gets A Perfect Score",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-10T12:18:16.894423+00:00"
     },
     {
       "tweet": "Sophie Ecclestone just broke a record at Lord's. She's actually cracked",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2079,
+    "total_posted": 2081,
     "total_collected": 9769
   },
-  "last_posted_at": "2026-07-10T21:25:19.500721+00:00"
+  "last_posted_at": "2026-07-10T22:35:07.165613+00:00"
 }
