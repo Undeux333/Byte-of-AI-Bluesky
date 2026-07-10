@@ -2,28 +2,6 @@
   "last_collected": "2026-07-10T18:42:56.985660+00:00",
   "queue": [
     {
-      "tweet": "Telstra’s whole reputation is basically tanking after that outage. Love paying a premium for absolutely nothing.",
-      "original_url": "https://www.theguardian.com/business/2026/jul/11/why-pay-a-premium-fee-for-a-service-that-isnt-how-the-nationwide-outage-could-hurt-telstra",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why pay a premium fee for a service that isn’t? How the nationwide outage could hurt Telstra",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-10T18:42:56.985294+00:00"
-    },
-    {
-      "tweet": "Saw a list of things every 90s living room had and it's wild how we all basically lived in the same house growing up. We were all just doing the same stuff",
-      "original_url": "https://www.mentalfloss.com/nostalgia/90s/things-every-living-room-had-1990s?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "7 Things Every Living Room Had in the 1990s",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-10T18:42:56.983794+00:00"
-    },
-    {
       "tweet": "Zverev ended that Arthur Fery run at Wimbledon today. Kind of a reality check for a wildcard.",
       "original_url": "https://www.bbc.co.uk/sport/tennis/articles/ckg475qdnd7o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -508,28 +486,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "So apparently China finally landed a reusable rocket, just like that whole SpaceX thing. At this point we're just copy-pasting physics.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "China lands reusable rocket for first time, state media says",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-10T09:53:01.296676+00:00"
-    },
-    {
-      "tweet": "Wait, Steam finally got the verification working right. And of course Black Flag gets a perfect score. Classic.",
-      "original_url": "https://kotaku.com/steam-machine-valve-deck-verification-performance-black-flag-2000714602",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Steam Machine Verification Is Finally Working, And Black Flag Gets A Perfect Score",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-10T12:18:16.894423+00:00"
-    },
-    {
       "tweet": "Dude, Iran's own president and foreign minister got physically attacked by their own people this week. Talk about a rough internal meeting.",
       "original_url": "https://www.nytimes.com/2026/07/08/world/middleeast/iran-divisions-us-leaders.html",
       "buzz_score": 88,
@@ -649,6 +605,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "So apparently China finally landed a reusable rocket, just like that whole SpaceX thing. At this point we're just copy-pasting physics.",
+      "original_url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "China lands reusable rocket for first time, state media says",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-10T09:53:01.296676+00:00"
     },
     {
       "tweet": "SK hynix just raised twenty-six billion bucks off the AI hype alone. Like, who even has that kind of cash.",
@@ -937,6 +904,50 @@
       "added_at": "2026-07-07T08:41:28.355507+00:00"
     },
     {
+      "tweet": "Wait, Steam finally got the verification working right. And of course Black Flag gets a perfect score. Classic.",
+      "original_url": "https://kotaku.com/steam-machine-valve-deck-verification-performance-black-flag-2000714602",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Steam Machine Verification Is Finally Working, And Black Flag Gets A Perfect Score",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-10T12:18:16.894423+00:00"
+    },
+    {
+      "tweet": "Russian finances are looking rough now that oil prices are bottoming out. That didn't last long.",
+      "original_url": "https://www.nytimes.com/2026/07/09/world/europe/russia-oil-budget-deficit.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Russian Finances Get Shakier, Despite Short-Term Bonus From Iran War",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-10T06:14:16.006130+00:00"
+    },
+    {
+      "tweet": "Erling Haaland got Norway to their first World Cup since the nineties. That's wild.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cd7pqdyy9v2o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Born in Leeds, crafted in Norway - Haaland's worlds about to collide",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-10T06:14:16.005744+00:00"
+    },
+    {
+      "tweet": "Microsoft emissions went up twenty-five percent last year. So much for those climate goals.",
+      "original_url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Microsoft’s carbon emissions went up 25 percent last year",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-07-10T02:11:46.183268+00:00"
+    },
+    {
       "tweet": "Police finally arrested a guy for that Ann Widdecombe murder. That whole story is just grim.",
       "original_url": "https://www.aljazeera.com/news/2026/7/10/uk-police-arrest-man-suspected-of-murdering-former-mp-ann-widdecombe?traffic_source=rss",
       "buzz_score": 80,
@@ -1001,39 +1012,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-07-10T15:07:57.658438+00:00"
-    },
-    {
-      "tweet": "Russian finances are looking rough now that oil prices are bottoming out. That didn't last long.",
-      "original_url": "https://www.nytimes.com/2026/07/09/world/europe/russia-oil-budget-deficit.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Russian Finances Get Shakier, Despite Short-Term Bonus From Iran War",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-10T06:14:16.006130+00:00"
-    },
-    {
-      "tweet": "Erling Haaland got Norway to their first World Cup since the nineties. That's wild.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cd7pqdyy9v2o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Born in Leeds, crafted in Norway - Haaland's worlds about to collide",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-10T06:14:16.005744+00:00"
-    },
-    {
-      "tweet": "Microsoft emissions went up twenty-five percent last year. So much for those climate goals.",
-      "original_url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Microsoft’s carbon emissions went up 25 percent last year",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-07-10T02:11:46.183268+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2075,
+    "total_posted": 2077,
     "total_collected": 9753
   },
-  "last_posted_at": "2026-07-10T18:49:35.998434+00:00"
+  "last_posted_at": "2026-07-10T20:11:14.352870+00:00"
 }
