@@ -2,28 +2,6 @@
   "last_collected": "2026-07-09T22:53:30.190686+00:00",
   "queue": [
     {
-      "tweet": "Bethesda workers are hitting the streets to protest those layoffs. Good for them, that whole company is a mess right now.",
-      "original_url": "https://kotaku.com/bethesda-workers-rallies-next-week-protesting-mass-layoffs-2000714247",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Bethesda Union Workers Will Hold Rallies Next Week Protesting Mass Layoffs",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-09T22:53:30.189134+00:00"
-    },
-    {
-      "tweet": "Dude, John Deere finally has to let people repair their own tractors. Took them long enough to stop holding our own gear hostage.",
-      "original_url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-09T22:53:30.188695+00:00"
-    },
-    {
       "tweet": "Looks like the whole US-Iran fight is over some bad paperwork on the Strait of Hormuz. We’re really doing this over a memo?",
       "original_url": "https://www.aljazeera.com/news/2026/7/9/how-strait-of-hormuz-dispute-led-to-latest-us-iran-cycle-of-fighting?traffic_source=rss",
       "buzz_score": 80,
@@ -167,17 +145,6 @@
       "added_at": "2026-07-09T20:02:22.697996+00:00"
     },
     {
-      "tweet": "So apparently Grok 4.5 is out now. I can't keep up with these updates, man.",
-      "original_url": "https://x.ai/news/grok-4-5",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Grok 4.5",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-09T16:14:52.731153+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -200,15 +167,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Raising Hell is 40 years old today. Man, I'm old.",
-      "original_url": "https://www.billboard.com/video/run-dmc-celebrates-40-years-raising-hell/",
-      "buzz_score": 80,
+      "tweet": "So apparently Grok 4.5 is out now. I can't keep up with these updates, man.",
+      "original_url": "https://x.ai/news/grok-4-5",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "RUN DMC Celebrates 40 Years of ‘Raising Hell’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-09T16:14:52.731571+00:00"
+      "original_title": "Grok 4.5",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-09T16:14:52.731153+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -649,6 +616,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "Raising Hell is 40 years old today. Man, I'm old.",
+      "original_url": "https://www.billboard.com/video/run-dmc-celebrates-40-years-raising-hell/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "RUN DMC Celebrates 40 Years of ‘Raising Hell’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-07-09T16:14:52.731571+00:00"
     },
     {
       "tweet": "Dude, Iran's own president and foreign minister got physically attacked by their own people this week. Talk about a rough internal meeting.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2062,
+    "total_posted": 2064,
     "total_collected": 9667
   },
-  "last_posted_at": "2026-07-09T22:59:42.860632+00:00"
+  "last_posted_at": "2026-07-10T00:03:19.909155+00:00"
 }
