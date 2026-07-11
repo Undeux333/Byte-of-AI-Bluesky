@@ -2,28 +2,6 @@
   "last_collected": "2026-07-10T23:28:50.446085+00:00",
   "queue": [
     {
-      "tweet": "So apparently some crypto billionaires are just building their own nations now 'cause they're bored with voting. That's just a private island with extra steps.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 90,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Meet the crypto billionaires building a world where money buys you a vote",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-10T23:28:50.444500+00:00"
-    },
-    {
-      "tweet": "People are actually sending death threats to Jaminton Campaz because they lost on penalties. Is it ever that serious",
-      "original_url": "https://www.aljazeera.com/sports/2026/7/10/colombias-jaminton-campaz-receives-death-threats-after-world-cup-exit?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Colombia’s Jaminton Campaz receives death threats after World Cup exit",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-10T23:28:50.445170+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -46,15 +24,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Steam pulled that entire game bundle for being too risky, but like, who are they actually trying to protect here",
-      "original_url": "https://kotaku.com/robert-yang-radiator-forever-steam-censorship-collective-shout-2000714776",
-      "buzz_score": 88,
-      "buzz_score2": 90,
+      "tweet": "People are actually sending death threats to Jaminton Campaz because they lost on penalties. Is it ever that serious",
+      "original_url": "https://www.aljazeera.com/sports/2026/7/10/colombias-jaminton-campaz-receives-death-threats-after-world-cup-exit?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "‘Gay As A Service’ Game Bundle Impossible To Find On Steam Because ‘Compliance-In-Advance Is Never Enough To Appease A Zealous Censor’",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-10T23:28:50.444508+00:00"
+      "original_title": "Colombia’s Jaminton Campaz receives death threats after World Cup exit",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-10T23:28:50.445170+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -508,17 +486,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "The EU just greenlit Chat Control. So much for privacy, I guess.",
-      "original_url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "EU Parliament greenlights Chat Control 1.0",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-10T23:28:50.445460+00:00"
-    },
-    {
       "tweet": "Dude, Iran's own president and foreign minister got physically attacked by their own people this week. Talk about a rough internal meeting.",
       "original_url": "https://www.nytimes.com/2026/07/08/world/middleeast/iran-divisions-us-leaders.html",
       "buzz_score": 88,
@@ -638,6 +605,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Steam pulled that entire game bundle for being too risky, but like, who are they actually trying to protect here",
+      "original_url": "https://kotaku.com/robert-yang-radiator-forever-steam-censorship-collective-shout-2000714776",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘Gay As A Service’ Game Bundle Impossible To Find On Steam Because ‘Compliance-In-Advance Is Never Enough To Appease A Zealous Censor’",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-10T23:28:50.444508+00:00"
     },
     {
       "tweet": "So apparently China finally landed a reusable rocket, just like that whole SpaceX thing. At this point we're just copy-pasting physics.",
@@ -937,15 +915,15 @@
       "added_at": "2026-07-07T08:41:28.355507+00:00"
     },
     {
-      "tweet": "John Rich is officially the USDA special envoy for landowners now. I don't even know what to say to that.",
-      "original_url": "https://www.billboard.com/music/country/big-rich-john-rich-usda-special-envoy-president-trump-1236292185/",
-      "buzz_score": 80,
+      "tweet": "The EU just greenlit Chat Control. So much for privacy, I guess.",
+      "original_url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Big & Rich’s John Rich Sworn In as USDA Special Envoy for American Landowners: ‘Let’s Get to Work’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-10T23:28:50.444503+00:00"
+      "original_title": "EU Parliament greenlights Chat Control 1.0",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-10T23:28:50.445460+00:00"
     },
     {
       "tweet": "Russian finances are looking rough now that oil prices are bottoming out. That didn't last long.",
@@ -981,6 +959,28 @@
       "added_at": "2026-07-10T02:11:46.183268+00:00"
     },
     {
+      "tweet": "John Rich is officially the USDA special envoy for landowners now. I don't even know what to say to that.",
+      "original_url": "https://www.billboard.com/music/country/big-rich-john-rich-usda-special-envoy-president-trump-1236292185/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Big & Rich’s John Rich Sworn In as USDA Special Envoy for American Landowners: ‘Let’s Get to Work’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-07-10T23:28:50.444503+00:00"
+    },
+    {
+      "tweet": "Wait, Steam finally got the verification working right. And of course Black Flag gets a perfect score. Classic.",
+      "original_url": "https://kotaku.com/steam-machine-valve-deck-verification-performance-black-flag-2000714602",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Steam Machine Verification Is Finally Working, And Black Flag Gets A Perfect Score",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-10T12:18:16.894423+00:00"
+    },
+    {
       "tweet": "Seeing Rhotta the Hutt as a Halloween costume is peak internet. We're never beating the weird allegations.",
       "original_url": "https://kotaku.com/rhotta-the-hutt-is-ready-to-be-the-hottest-halloween-costume-of-the-year-2000714805",
       "buzz_score": 72,
@@ -1001,17 +1001,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-07-10T21:18:51.807547+00:00"
-    },
-    {
-      "tweet": "Wait, Steam finally got the verification working right. And of course Black Flag gets a perfect score. Classic.",
-      "original_url": "https://kotaku.com/steam-machine-valve-deck-verification-performance-black-flag-2000714602",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Steam Machine Verification Is Finally Working, And Black Flag Gets A Perfect Score",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-10T12:18:16.894423+00:00"
     },
     {
       "tweet": "Historic sites in Lebanon are getting wiped out by strikes. Just brutal",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2083,
+    "total_posted": 2084,
     "total_collected": 9785
   },
-  "last_posted_at": "2026-07-10T23:36:15.280555+00:00"
+  "last_posted_at": "2026-07-11T00:55:36.177797+00:00"
 }
