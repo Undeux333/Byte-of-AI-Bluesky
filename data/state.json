@@ -2,28 +2,6 @@
   "last_collected": "2026-07-11T10:53:09.565787+00:00",
   "queue": [
     {
-      "tweet": "Patriot Front showed up in D.C. again. What you see is never what you get with those guys.",
-      "original_url": "https://www.npr.org/2026/07/11/nx-s1-5888571/patriot-front-washington-dc",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "With the white nationalist group Patriot Front, what you see is not what you get",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-11T10:53:09.565143+00:00"
-    },
-    {
-      "tweet": "Walz is pulling the Guard out of D.C. early. Everyone's just tired of it.",
-      "original_url": "https://www.npr.org/2026/07/11/nx-s1-5887666/national-guard-dc-trump-michigan-minnesota",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Minnesota is pulling troops early from D.C., as pressure grows on Michigan",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-11T10:53:09.564765+00:00"
-    },
-    {
       "tweet": "Dude, Harry Kane actually played a round of golf with Trump. Honestly, I can't even imagine what that conversation was like. Surreal.",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/c8e2z97rp4xo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -79,6 +57,28 @@
       "added_at": "2026-07-11T06:11:57.910284+00:00"
     },
     {
+      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
+      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-02T15:05:13.740925+00:00"
+    },
+    {
+      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
+      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US court limits mail-order access to abortion pill mifepristone",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
       "tweet": "Dude, Meta just scrapped their new AI photo feature after a few days of total chaos. Turns out letting people edit their own feed like that was a massive mistake.",
       "original_url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -112,28 +112,6 @@
       "added_at": "2026-07-11T08:13:27.701723+00:00"
     },
     {
-      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
-      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-02T15:05:13.740925+00:00"
-    },
-    {
-      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
-      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US court limits mail-order access to abortion pill mifepristone",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -143,17 +121,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Samsung's new R95H TV supposedly isn't even that bright. Kind of defeats the point, man.",
-      "original_url": "https://www.wired.com/review/samsung-micro-rgb-r95h/",
-      "buzz_score": 72,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Samsung Micro RGB R95H Review (2026): Not the Brightest",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-07-11T10:53:09.564634+00:00"
     },
     {
       "tweet": "Man, a Greek F-16 just landed in the middle of a busy airport without its gear down. Absolute chaos.",
@@ -596,17 +563,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "The Alfred Dreyfus statue in Paris spent 40 years just getting moved around. Finally getting a home.",
-      "original_url": "https://www.theguardian.com/world/2026/jul/11/alfred-dreyfus-statue-permanent-spot-central-paris-france",
-      "buzz_score": 70,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Alfred Dreyfus statue to finally receive permanent home in central Paris",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-11T10:53:09.565517+00:00"
-    },
-    {
       "tweet": "Dude, Iran's own president and foreign minister got physically attacked by their own people this week. Talk about a rough internal meeting.",
       "original_url": "https://www.nytimes.com/2026/07/08/world/middleeast/iran-divisions-us-leaders.html",
       "buzz_score": 88,
@@ -728,26 +684,26 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "SpaceX wants to launch another 100k satellites for more bandwidth. Do we really need more internet up there",
-      "original_url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
-      "buzz_score": 80,
+      "tweet": "Samsung's new R95H TV supposedly isn't even that bright. Kind of defeats the point, man.",
+      "original_url": "https://www.wired.com/review/samsung-micro-rgb-r95h/",
+      "buzz_score": 72,
       "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
-      "source": "HackerNews",
+      "original_title": "Samsung Micro RGB R95H Review (2026): Not the Brightest",
+      "source": "Wired",
       "category": "tech",
-      "added_at": "2026-07-11T08:13:27.703028+00:00"
+      "added_at": "2026-07-11T10:53:09.564634+00:00"
     },
     {
-      "tweet": "That Melbourne Symphony Orchestra pianist lost his discrimination case over his Gaza comments. Not exactly surprising",
-      "original_url": "https://www.theguardian.com/music/2026/jul/11/pianist-jayson-gillham-very-disappointed-after-losing-discrimination-case-against-melbourne-symphony-orchestra-ntwnfb",
-      "buzz_score": 80,
+      "tweet": "The Alfred Dreyfus statue in Paris spent 40 years just getting moved around. Finally getting a home.",
+      "original_url": "https://www.theguardian.com/world/2026/jul/11/alfred-dreyfus-statue-permanent-spot-central-paris-france",
+      "buzz_score": 70,
       "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "Pianist Jayson Gillham ‘very disappointed’ after losing Melbourne Symphony Orchestra discrimination case",
+      "original_title": "Alfred Dreyfus statue to finally receive permanent home in central Paris",
       "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-07-11T08:13:27.702277+00:00"
+      "added_at": "2026-07-11T10:53:09.565517+00:00"
     },
     {
       "tweet": "So apparently China finally landed a reusable rocket, just like that whole SpaceX thing. At this point we're just copy-pasting physics.",
@@ -1034,6 +990,28 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-07-07T16:09:44.593167+00:00"
+    },
+    {
+      "tweet": "SpaceX wants to launch another 100k satellites for more bandwidth. Do we really need more internet up there",
+      "original_url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-11T08:13:27.703028+00:00"
+    },
+    {
+      "tweet": "That Melbourne Symphony Orchestra pianist lost his discrimination case over his Gaza comments. Not exactly surprising",
+      "original_url": "https://www.theguardian.com/music/2026/jul/11/pianist-jayson-gillham-very-disappointed-after-losing-discrimination-case-against-melbourne-symphony-orchestra-ntwnfb",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Pianist Jayson Gillham ‘very disappointed’ after losing Melbourne Symphony Orchestra discrimination case",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-11T08:13:27.702277+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2094,
+    "total_posted": 2096,
     "total_collected": 9849
   },
-  "last_posted_at": "2026-07-11T10:59:39.913016+00:00"
+  "last_posted_at": "2026-07-11T11:47:37.024932+00:00"
 }
