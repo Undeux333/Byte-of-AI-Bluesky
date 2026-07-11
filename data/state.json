@@ -2,28 +2,6 @@
   "last_collected": "2026-07-11T22:04:54.922903+00:00",
   "queue": [
     {
-      "tweet": "Meta finally pulled that AI thing off Instagram after people lost it. Turns out people don't want robots everywhere.",
-      "original_url": "https://kotaku.com/meta-removes-latest-ai-integration-on-instagram-following-sag-aftra-backlash-2000714982",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Meta Removes Latest AI Integration On Instagram Following SAG-AFTRA Backlash",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-11T22:04:54.922259+00:00"
-    },
-    {
-      "tweet": "Yo, they really killed a guy just for trying to show people the World Cup in Gaza. We’re living in a total nightmare.",
-      "original_url": "https://www.npr.org/2026/07/11/nx-s1-5890044/palestinian-aid-worker-who-organized-world-cup-screenings-killed-in-israeli-strike",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Palestinian aid worker who organized World Cup screenings killed in Israeli strike",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-11T22:04:54.921438+00:00"
-    },
-    {
       "tweet": "FIFA just straight up refusing to talk about that Jarell Quansah ban is a joke. It’s like they know it’s sketchy so they just won’t look at you.",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/c4gy1j87e1yo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -110,28 +88,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Scientists confirmed that big Australian spider is the fastest thing on earth. Like we needed more reasons to never go to Australia. Hard pass",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jul/09/fastest-spider-on-the-planet-brown-huntsman",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fastest spider in the world? This huge, hairy-legged Australian arachnid may be the quickest on the planet",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-11T16:09:31.832355+00:00"
-    },
-    {
-      "tweet": "Apparently there’s a massive 1940s steam train just cruising across the country right now. People are actually losing their minds over it. Pure chaos",
-      "original_url": "https://www.npr.org/2026/07/11/nx-s1-5872656/big-boy-locomotive-steam",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The biggest steam locomotive is whistle-stopping across the U.S.",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-11T16:09:31.832349+00:00"
     },
     {
       "tweet": "Man, a Greek F-16 just landed in the middle of a busy airport without its gear down. Absolute chaos.",
@@ -574,17 +530,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Yo, Argentina vs Switzerland for a World Cup spot? I’m already stressed and the match just started.",
-      "original_url": "https://www.aljazeera.com/sports/liveblog/2026/7/11/argentina-vs-switzerland-live-fifa-world-cup-2026?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Argentina vs Switzerland LIVE: FIFA World Cup 2026 quarterfinal",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-11T22:04:54.921751+00:00"
-    },
-    {
       "tweet": "Dude, Iran's own president and foreign minister got physically attacked by their own people this week. Talk about a rough internal meeting.",
       "original_url": "https://www.nytimes.com/2026/07/08/world/middleeast/iran-divisions-us-leaders.html",
       "buzz_score": 88,
@@ -704,6 +649,39 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Scientists confirmed that big Australian spider is the fastest thing on earth. Like we needed more reasons to never go to Australia. Hard pass",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jul/09/fastest-spider-on-the-planet-brown-huntsman",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Fastest spider in the world? This huge, hairy-legged Australian arachnid may be the quickest on the planet",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-11T16:09:31.832355+00:00"
+    },
+    {
+      "tweet": "Apparently there’s a massive 1940s steam train just cruising across the country right now. People are actually losing their minds over it. Pure chaos",
+      "original_url": "https://www.npr.org/2026/07/11/nx-s1-5872656/big-boy-locomotive-steam",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The biggest steam locomotive is whistle-stopping across the U.S.",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-11T16:09:31.832349+00:00"
+    },
+    {
+      "tweet": "Yo, Argentina vs Switzerland for a World Cup spot? I’m already stressed and the match just started.",
+      "original_url": "https://www.aljazeera.com/sports/liveblog/2026/7/11/argentina-vs-switzerland-live-fifa-world-cup-2026?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Argentina vs Switzerland LIVE: FIFA World Cup 2026 quarterfinal",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-11T22:04:54.921751+00:00"
     },
     {
       "tweet": "Dude, Harry Kane actually played a round of golf with Trump. Honestly, I can't even imagine what that conversation was like. Surreal.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2113,
+    "total_posted": 2115,
     "total_collected": 9902
   },
-  "last_posted_at": "2026-07-11T22:12:57.911227+00:00"
+  "last_posted_at": "2026-07-11T23:14:37.552544+00:00"
 }
