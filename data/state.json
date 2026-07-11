@@ -2,28 +2,6 @@
   "last_collected": "2026-07-11T14:08:20.177937+00:00",
   "queue": [
     {
-      "tweet": "Man, Jayden Adams dying at 25 is just brutal. Dude was literally just at the World Cup.",
-      "original_url": "https://www.espn.com/soccer/story/_/id/49333373/south-africa-midfielder-jayden-adams-dies-aged-25-weeks-world-cup-appearance",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "South Africa's Adams, who played at WC, dies at 25...",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-07-11T14:08:20.177391+00:00"
-    },
-    {
-      "tweet": "So apparently Count Binface is the only one making sense in British politics right now. The guy is literally a bin.",
-      "original_url": "https://www.npr.org/2026/07/11/nx-s1-5881251/opinion-is-democracy-a-joke-count-binface-says-no",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Opinion: Is democracy a joke? Count Binface says no.",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-11T14:08:20.176960+00:00"
-    },
-    {
       "tweet": "Madonna just hit a 13th number one album. The woman is basically immortal.",
       "original_url": "https://www.billboard.com/music/chart-beat/madonna-uk-number-one-album-chart-confessions-ii-1236291539/",
       "buzz_score": 75,
@@ -90,17 +68,6 @@
       "added_at": "2026-07-11T10:53:09.564346+00:00"
     },
     {
-      "tweet": "France just came back to beat Australia in that rugby match. Wild game.",
-      "original_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cz6v5nevpvyo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 72,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Six-try France fight back to beat Wallabies",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-11T10:53:09.565657+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -121,6 +88,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "France just came back to beat Australia in that rugby match. Wild game.",
+      "original_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cz6v5nevpvyo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 72,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Six-try France fight back to beat Wallabies",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-11T10:53:09.565657+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -695,17 +673,6 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Meta finally pulled that AI-image feature on Instagram after everyone complained about privacy. They were just waiting to see if we'd notice.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/meta-backtracks-on-ai-image-feature-for-instagram-due-to-privacy-backlash?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Meta backtracks on AI-image feature for Instagram due to privacy backlash",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-11T06:11:57.910284+00:00"
-    },
-    {
       "tweet": "Dude, Meta just scrapped their new AI photo feature after a few days of total chaos. Turns out letting people edit their own feed like that was a massive mistake.",
       "original_url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -1001,6 +968,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-07-07T16:09:44.593167+00:00"
+    },
+    {
+      "tweet": "Meta finally pulled that AI-image feature on Instagram after everyone complained about privacy. They were just waiting to see if we'd notice.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/meta-backtracks-on-ai-image-feature-for-instagram-due-to-privacy-backlash?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Meta backtracks on AI-image feature for Instagram due to privacy backlash",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-11T06:11:57.910284+00:00"
     },
     {
       "tweet": "Russia is literally targeting buses and offices in Zaporizhzhia now. Man, it’s just rough.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2098,
+    "total_posted": 2100,
     "total_collected": 9860
   },
-  "last_posted_at": "2026-07-11T14:17:59.124549+00:00"
+  "last_posted_at": "2026-07-11T15:19:33.288879+00:00"
 }
