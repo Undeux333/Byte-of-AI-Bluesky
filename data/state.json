@@ -2,28 +2,6 @@
   "last_collected": "2026-07-11T16:09:31.833194+00:00",
   "queue": [
     {
-      "tweet": "Did you see NYC is finally banning those nightmare subscription traps? Kinda wild it took this long to realize we shouldn't have to hire a lawyer just to cancel a gym membership. About time",
-      "original_url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "New York City to ban deceptive subscription practices",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-11T16:09:31.832339+00:00"
-    },
-    {
-      "tweet": "OpenAI is trying to get ChatGPT into families now by hiring a specific manager for it. Like they really need to be part of every single dinner conversation. Weird",
-      "original_url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-07-11T16:09:31.833062+00:00"
-    },
-    {
       "tweet": "Did you see that Warhammer 40,000 gameplay reveal? I’m pretty sure my PC would just start smoking if I tried to run that. Who's actually got a rig for this",
       "original_url": "https://www.polygon.com/total-war-warhammer-40k-gameplay-reveal/",
       "buzz_score": 80,
@@ -167,17 +145,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "New study says letting go of a rigid self-image is the key to actually getting anything out of meditation. Yeah, that's definitely the hard part.",
-      "original_url": "https://www.psypost.org/letting-go-of-a-rigid-self-image-might-be-the-secret-to-meditations-mental-health-benefits/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Letting go of a rigid self-image might be the secret to meditation’s mental health benefits",
-      "source": "PsyPost",
-      "category": "psychology",
-      "added_at": "2026-07-11T10:53:09.564346+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -187,17 +154,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "France just came back to beat Australia in that rugby match. Wild game.",
-      "original_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cz6v5nevpvyo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 72,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Six-try France fight back to beat Wallabies",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-11T10:53:09.565657+00:00"
     },
     {
       "tweet": "Man, a Greek F-16 just landed in the middle of a busy airport without its gear down. Absolute chaos.",
@@ -640,6 +596,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "New study says letting go of a rigid self-image is the key to actually getting anything out of meditation. Yeah, that's definitely the hard part.",
+      "original_url": "https://www.psypost.org/letting-go-of-a-rigid-self-image-might-be-the-secret-to-meditations-mental-health-benefits/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Letting go of a rigid self-image might be the secret to meditation’s mental health benefits",
+      "source": "PsyPost",
+      "category": "psychology",
+      "added_at": "2026-07-11T10:53:09.564346+00:00"
+    },
+    {
       "tweet": "Dude, Iran's own president and foreign minister got physically attacked by their own people this week. Talk about a rough internal meeting.",
       "original_url": "https://www.nytimes.com/2026/07/08/world/middleeast/iran-divisions-us-leaders.html",
       "buzz_score": 88,
@@ -759,6 +726,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "France just came back to beat Australia in that rugby match. Wild game.",
+      "original_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cz6v5nevpvyo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 72,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Six-try France fight back to beat Wallabies",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-11T10:53:09.565657+00:00"
     },
     {
       "tweet": "Dude, Meta just scrapped their new AI photo feature after a few days of total chaos. Turns out letting people edit their own feed like that was a massive mistake.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2102,
+    "total_posted": 2104,
     "total_collected": 9870
   },
-  "last_posted_at": "2026-07-11T16:19:05.181502+00:00"
+  "last_posted_at": "2026-07-11T17:21:05.616251+00:00"
 }
