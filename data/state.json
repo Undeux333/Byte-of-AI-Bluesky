@@ -2,28 +2,6 @@
   "last_collected": "2026-07-11T19:24:39.274505+00:00",
   "queue": [
     {
-      "tweet": "Dude, Apple is suing OpenAI because their own people allegedly stole secrets. Talk about the pot calling the kettle black, man.",
-      "original_url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-11T19:24:39.273143+00:00"
-    },
-    {
-      "tweet": "Just saw a list of 90s pool sounds and it's literally just the ice cream truck and that specific slap of wet pool noodles. It’s wild how fast you can get sent back to being ten years old",
-      "original_url": "https://www.mentalfloss.com/nostalgia/90s/sounds-defined-pool-day-1990s?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "9 Sounds That Defined a Summer Pool Day in the 1990s",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-11T16:09:31.832346+00:00"
-    },
-    {
       "tweet": "Duncan Jones is making a Rogue Trooper movie with Matt Berry in it. That sounds like the most random fever dream ever. Wild",
       "original_url": "https://www.polygon.com/duncan-jones-rogue-trooper-interview/",
       "buzz_score": 75,
@@ -79,6 +57,17 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
+      "buzz_score": 92,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
       "tweet": "EA actually backed down on the microtransactions in College Football 27. I guess they finally heard the players.",
       "original_url": "https://kotaku.com/ea-sports-reverses-course-on-college-football-microtransactions-following-player-revolt-2000714972",
       "buzz_score": 90,
@@ -110,28 +99,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-07-11T14:08:20.176965+00:00"
-    },
-    {
-      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
-      "buzz_score": 92,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Dude, Harry Kane actually played a round of golf with Trump. Honestly, I can't even imagine what that conversation was like. Surreal.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c8e2z97rp4xo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Playing golf with Trump surreal - Kane",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-11T10:53:09.564179+00:00"
     },
     {
       "tweet": "Man, a Greek F-16 just landed in the middle of a busy airport without its gear down. Absolute chaos.",
@@ -574,39 +541,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "They're trying to shove 300 new Pokemon into the next game. That's just unplayable.",
-      "original_url": "https://www.polygon.com/pokemon-winds-waves-300-new-pokedex/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Pokémon Winds and Waves leaks point to all-time Pokédex record that could be unplayable",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-11T19:24:39.273739+00:00"
-    },
-    {
-      "tweet": "So Ro Khanna got detained by armed settlers while visiting the West Bank. How is that even a thing?",
-      "original_url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-11T19:24:39.273152+00:00"
-    },
-    {
-      "tweet": "Hewett and Reid just grabbed their seventh Wimbledon title. These guys own the place.",
-      "original_url": "https://www.bbc.co.uk/sport/tennis/articles/c0qyk5wxk5eo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Hewett & Reid win seventh Wimbledon doubles title",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-11T14:08:20.177524+00:00"
-    },
-    {
       "tweet": "Dude, Iran's own president and foreign minister got physically attacked by their own people this week. Talk about a rough internal meeting.",
       "original_url": "https://www.nytimes.com/2026/07/08/world/middleeast/iran-divisions-us-leaders.html",
       "buzz_score": 88,
@@ -728,15 +662,48 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "They're investigating forged land deeds for that Kushner project in Albania. Seems like that whole thing's a mess.",
-      "original_url": "https://www.aljazeera.com/news/2026/7/11/land-sold-for-kushner-backed-albania-resort-suspected-of-forged-deeds?traffic_source=rss",
-      "buzz_score": 82,
+      "tweet": "Dude, Harry Kane actually played a round of golf with Trump. Honestly, I can't even imagine what that conversation was like. Surreal.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/c8e2z97rp4xo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Land sold for Kushner-backed Albania resort suspected of forged deeds",
-      "source": "Al Jazeera",
+      "original_title": "Playing golf with Trump surreal - Kane",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-11T10:53:09.564179+00:00"
+    },
+    {
+      "tweet": "They're trying to shove 300 new Pokemon into the next game. That's just unplayable.",
+      "original_url": "https://www.polygon.com/pokemon-winds-waves-300-new-pokedex/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Pokémon Winds and Waves leaks point to all-time Pokédex record that could be unplayable",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-07-11T19:24:39.273739+00:00"
+    },
+    {
+      "tweet": "So Ro Khanna got detained by armed settlers while visiting the West Bank. How is that even a thing?",
+      "original_url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
+      "source": "BBC World",
       "category": "world",
-      "added_at": "2026-07-11T10:53:09.564475+00:00"
+      "added_at": "2026-07-11T19:24:39.273152+00:00"
+    },
+    {
+      "tweet": "Hewett and Reid just grabbed their seventh Wimbledon title. These guys own the place.",
+      "original_url": "https://www.bbc.co.uk/sport/tennis/articles/c0qyk5wxk5eo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Hewett & Reid win seventh Wimbledon doubles title",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-11T14:08:20.177524+00:00"
     },
     {
       "tweet": "Dude, Meta just scrapped their new AI photo feature after a few days of total chaos. Turns out letting people edit their own feed like that was a massive mistake.",
@@ -1012,6 +979,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-07-07T18:17:23.950030+00:00"
+    },
+    {
+      "tweet": "They're investigating forged land deeds for that Kushner project in Albania. Seems like that whole thing's a mess.",
+      "original_url": "https://www.aljazeera.com/news/2026/7/11/land-sold-for-kushner-backed-albania-resort-suspected-of-forged-deeds?traffic_source=rss",
+      "buzz_score": 82,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Land sold for Kushner-backed Albania resort suspected of forged deeds",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-11T10:53:09.564475+00:00"
     },
     {
       "tweet": "Iran told the US that shooting at ships in the Strait of Hormuz was just a mistake. Because that's definitely how accidental missile fire works.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2108,
+    "total_posted": 2110,
     "total_collected": 9886
   },
-  "last_posted_at": "2026-07-11T19:29:43.194280+00:00"
+  "last_posted_at": "2026-07-11T20:22:19.048126+00:00"
 }
