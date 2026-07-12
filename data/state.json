@@ -2,17 +2,6 @@
   "last_collected": "2026-07-12T13:55:01.187231+00:00",
   "queue": [
     {
-      "tweet": "Did you see that QuadRF thing? Apparently it can see through walls and spot drones. Privacy is literally just a suggestion at this point.",
-      "original_url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "QuadRF can spot drones and see WiFi through my wall",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-12T08:35:43.528687+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -44,39 +33,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Nigel Farage resigning and then running for re-election again immediately? How is this not just a total joke.",
-      "original_url": "https://www.npr.org/2026/07/11/nx-s1-5881251/opinion-is-democracy-a-joke-count-binface-says-no",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Opinion: Is democracy a joke? Count Binface says no.",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-12T06:25:13.114106+00:00"
-    },
-    {
-      "tweet": "Hang on, we're meeting with Iran about opening up the Strait of Hormuz and then immediately striking them? Are we even trying to fix it.",
-      "original_url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "U.S. Strikes Iran After Iran Fires on Ship in Strait of Hormuz",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-12T06:25:13.112989+00:00"
-    },
-    {
-      "tweet": "So apparently the Grok CLI is just sending everything you type straight to xAI. I guess privacy is a premium feature now, man.",
-      "original_url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "What xAI's Grok Build CLI Actually Sends to xAI",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-12T06:25:13.112822+00:00"
     },
     {
       "tweet": "Man, a Greek F-16 just landed in the middle of a busy airport without its gear down. Absolute chaos.",
@@ -640,15 +596,37 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "People are actually arguing over the Bible to decide how to handle immigration. We'll fight over literally anything",
-      "original_url": "https://www.npr.org/2026/07/12/nx-s1-5885947/a-bibe-passage-is-at-the-center-of-a-debate-over-how-the-u-s-should-treat-immigrants",
+      "tweet": "Nigel Farage resigning and then running for re-election again immediately? How is this not just a total joke.",
+      "original_url": "https://www.npr.org/2026/07/11/nx-s1-5881251/opinion-is-democracy-a-joke-count-binface-says-no",
       "buzz_score": 85,
-      "buzz_score2": 90,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "A Bible passage is at the center of a debate over how the U.S. should treat immigrants",
+      "original_title": "Opinion: Is democracy a joke? Count Binface says no.",
       "source": "NPR News",
       "category": "world",
-      "added_at": "2026-07-12T13:55:01.186969+00:00"
+      "added_at": "2026-07-12T06:25:13.114106+00:00"
+    },
+    {
+      "tweet": "Hang on, we're meeting with Iran about opening up the Strait of Hormuz and then immediately striking them? Are we even trying to fix it.",
+      "original_url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "U.S. Strikes Iran After Iran Fires on Ship in Strait of Hormuz",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-12T06:25:13.112989+00:00"
+    },
+    {
+      "tweet": "So apparently the Grok CLI is just sending everything you type straight to xAI. I guess privacy is a premium feature now, man.",
+      "original_url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "What xAI's Grok Build CLI Actually Sends to xAI",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-12T06:25:13.112822+00:00"
     },
     {
       "tweet": "Bro, a T. rex is gonna sell for 30 million in New York. Science is officially dead, man.",
@@ -979,6 +957,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-07-07T18:17:23.950030+00:00"
+    },
+    {
+      "tweet": "People are actually arguing over the Bible to decide how to handle immigration. We'll fight over literally anything",
+      "original_url": "https://www.npr.org/2026/07/12/nx-s1-5885947/a-bibe-passage-is-at-the-center-of-a-debate-over-how-the-u-s-should-treat-immigrants",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "A Bible passage is at the center of a debate over how the U.S. should treat immigrants",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-12T13:55:01.186969+00:00"
     },
     {
       "tweet": "Are we seriously getting another remake of Ocarina of Time? Does Hollywood even have new ideas anymore",
@@ -2018,8 +2007,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2133,
+    "total_posted": 2134,
     "total_collected": 9995
   },
-  "last_posted_at": "2026-07-12T14:51:38.685367+00:00"
+  "last_posted_at": "2026-07-12T15:47:28.365593+00:00"
 }
