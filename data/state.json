@@ -2,28 +2,6 @@
   "last_collected": "2026-07-12T08:35:43.530870+00:00",
   "queue": [
     {
-      "tweet": "Man, Lindsey Graham actually died. That whole thing is just wild, man.",
-      "original_url": "https://deadline.com/2026/07/lindsey-graham-dead-trump-brief-sudden-illness-1236980078/",
-      "buzz_score": 95,
-      "buzz_score2": 98,
-      "rewrite_count": 0,
-      "original_title": "Lindsey Graham Dies: Trump Ally Suffered “Brief & Sudden Illness”",
-      "source": "Deadline",
-      "category": "entertainment",
-      "added_at": "2026-07-12T08:35:43.528694+00:00"
-    },
-    {
-      "tweet": "CENTCOM just hit Iran for the third time. Seems like we're just escalating this thing now.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-centcom-completes-third-round-of-strikes-on-iran?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US CENTCOM completes third round of strikes on Iran",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-12T08:35:43.528885+00:00"
-    },
-    {
       "tweet": "Wait, the Trump admin is subpoenaing NYT reporters over Air Force One coverage? Are we seriously doing this again?",
       "original_url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -121,39 +99,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Jay-Z brought out Beyoncé and Nas at Yankee Stadium last night. That whole show was just legendary.",
-      "original_url": "https://www.billboard.com/lists/jay-z-yankee-stadium-night-one-setlist/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Jay-Z’s Yankee Stadium Night One Setlist: Every Song Played at the First Show",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-12T00:08:08.592761+00:00"
-    },
-    {
-      "tweet": "Turns out book smarts and life smarts are the exact same thing according to this new study. Makes sense, it's all just pattern recognition.",
-      "original_url": "https://www.psypost.org/school-lessons-and-life-lessons-are-built-on-the-same-psychological-foundation/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Book smarts and life smarts are driven by the exact same intelligence, study finds",
-      "source": "PsyPost",
-      "category": "psychology",
-      "added_at": "2026-07-12T00:08:08.592241+00:00"
-    },
-    {
-      "tweet": "Did you know Elton John wrote a bunch of songs for Tina Turner? I swear that guy just lives in a different reality than the rest of us. Wild.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/songs-you-might-not-know-elton-john-wrote?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "9 Songs You May Not Know Elton John Wrote",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-12T00:08:08.591692+00:00"
     },
     {
       "tweet": "Man, a Greek F-16 just landed in the middle of a busy airport without its gear down. Absolute chaos.",
@@ -717,15 +662,37 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Zooey Deschanel said they had to fight to get Lamorne Morris on New Girl. It's impossible to imagine that show without Winston at this point.",
-      "original_url": "https://deadline.com/2026/07/new-girl-cast-fought-for-lamorne-morris-zooey-deschanel-1236980001/",
-      "buzz_score": 80,
+      "tweet": "Jay-Z brought out Beyoncé and Nas at Yankee Stadium last night. That whole show was just legendary.",
+      "original_url": "https://www.billboard.com/lists/jay-z-yankee-stadium-night-one-setlist/",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "‘New Girl’ Cast Had To “Fight” To Get Lamorne Morris On Fox Comedy, Recalls Zooey Deschanel",
-      "source": "Deadline",
+      "original_title": "Jay-Z’s Yankee Stadium Night One Setlist: Every Song Played at the First Show",
+      "source": "Billboard",
       "category": "entertainment",
-      "added_at": "2026-07-12T00:08:08.592114+00:00"
+      "added_at": "2026-07-12T00:08:08.592761+00:00"
+    },
+    {
+      "tweet": "Turns out book smarts and life smarts are the exact same thing according to this new study. Makes sense, it's all just pattern recognition.",
+      "original_url": "https://www.psypost.org/school-lessons-and-life-lessons-are-built-on-the-same-psychological-foundation/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Book smarts and life smarts are driven by the exact same intelligence, study finds",
+      "source": "PsyPost",
+      "category": "psychology",
+      "added_at": "2026-07-12T00:08:08.592241+00:00"
+    },
+    {
+      "tweet": "Did you know Elton John wrote a bunch of songs for Tina Turner? I swear that guy just lives in a different reality than the rest of us. Wild.",
+      "original_url": "https://www.mentalfloss.com/entertainment/music/songs-you-might-not-know-elton-john-wrote?utm_source=RSS",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "9 Songs You May Not Know Elton John Wrote",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-07-12T00:08:08.591692+00:00"
     },
     {
       "tweet": "Dude, Harry Kane actually played a round of golf with Trump. Honestly, I can't even imagine what that conversation was like. Surreal.",
@@ -1012,6 +979,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-07-07T18:17:23.950030+00:00"
+    },
+    {
+      "tweet": "Zooey Deschanel said they had to fight to get Lamorne Morris on New Girl. It's impossible to imagine that show without Winston at this point.",
+      "original_url": "https://deadline.com/2026/07/new-girl-cast-fought-for-lamorne-morris-zooey-deschanel-1236980001/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "‘New Girl’ Cast Had To “Fight” To Get Lamorne Morris On Fox Comedy, Recalls Zooey Deschanel",
+      "source": "Deadline",
+      "category": "entertainment",
+      "added_at": "2026-07-12T00:08:08.592114+00:00"
     },
     {
       "tweet": "That wildfire in Spain sounds absolute nightmare fuel. Twelve people gone just like that.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2123,
+    "total_posted": 2125,
     "total_collected": 9963
   },
-  "last_posted_at": "2026-07-12T08:43:13.539078+00:00"
+  "last_posted_at": "2026-07-12T10:17:31.609505+00:00"
 }
