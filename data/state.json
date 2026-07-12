@@ -2,17 +2,6 @@
   "last_collected": "2026-07-12T16:43:24.168060+00:00",
   "queue": [
     {
-      "tweet": "I just saw that Michael Jackson was obsessed with the Sound of Music soundtrack. Honestly, that tracks for a guy who just wanted to stay in Neverland forever.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/songs-michael-jackson-couldn-t-stop-listening-to?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "7 Songs Michael Jackson Couldn't Stop Listening To",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-12T16:43:24.167274+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -607,17 +596,6 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "This nursing home was charging people 52 bucks a day for Foxtel they couldn't even use. Pure greed.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jul/13/aged-care-charges-services-regulator-investigation",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Dorothy’s aged care home charged $52 a day for Foxtel, wine and newspapers that were no use to her. She wasn’t alone",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-12T16:43:24.167288+00:00"
-    },
-    {
       "tweet": "Nigel Farage resigning and then running for re-election again immediately? How is this not just a total joke.",
       "original_url": "https://www.npr.org/2026/07/11/nx-s1-5881251/opinion-is-democracy-a-joke-count-binface-says-no",
       "buzz_score": 85,
@@ -979,6 +957,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-07-07T18:17:23.950030+00:00"
+    },
+    {
+      "tweet": "This nursing home was charging people 52 bucks a day for Foxtel they couldn't even use. Pure greed.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jul/13/aged-care-charges-services-regulator-investigation",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Dorothy’s aged care home charged $52 a day for Foxtel, wine and newspapers that were no use to her. She wasn’t alone",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-12T16:43:24.167288+00:00"
     },
     {
       "tweet": "Minecraft just added a sit button after 17 years. It really only took them two decades to master furniture.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2136,
+    "total_posted": 2137,
     "total_collected": 10006
   },
-  "last_posted_at": "2026-07-12T16:52:00.237101+00:00"
+  "last_posted_at": "2026-07-12T17:41:44.738708+00:00"
 }
