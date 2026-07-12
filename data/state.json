@@ -2,28 +2,6 @@
   "last_collected": "2026-07-12T13:55:01.187231+00:00",
   "queue": [
     {
-      "tweet": "The fight against AI data centers is starting to ramp up. It's about time we addressed how much power this stuff actually eats",
-      "original_url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The fight against AI data centers is just beginning",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-07-12T13:55:01.186452+00:00"
-    },
-    {
-      "tweet": "They're bringing back League of Legends Classic next month. Man, that's just gonna wreck my sleep schedule",
-      "original_url": "https://www.polygon.com/league-of-legends-classic-release-date/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "You'll be able to play League of Legends Classic before the end of July",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-12T13:55:01.185618+00:00"
-    },
-    {
       "tweet": "Did you see that QuadRF thing? Apparently it can see through walls and spot drones. Privacy is literally just a suggestion at this point.",
       "original_url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
       "buzz_score": 85,
@@ -57,6 +35,17 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
+      "buzz_score": 92,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
       "tweet": "Nigel Farage resigning and then running for re-election again immediately? How is this not just a total joke.",
       "original_url": "https://www.npr.org/2026/07/11/nx-s1-5881251/opinion-is-democracy-a-joke-count-binface-says-no",
       "buzz_score": 85,
@@ -88,17 +77,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-07-12T06:25:13.112822+00:00"
-    },
-    {
-      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
-      "buzz_score": 92,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-24T11:28:23.259709+00:00"
     },
     {
       "tweet": "Man, a Greek F-16 just landed in the middle of a busy airport without its gear down. Absolute chaos.",
@@ -541,17 +519,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "People are actually arguing over the Bible to decide how to handle immigration. We'll fight over literally anything",
-      "original_url": "https://www.npr.org/2026/07/12/nx-s1-5885947/a-bibe-passage-is-at-the-center-of-a-debate-over-how-the-u-s-should-treat-immigrants",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "A Bible passage is at the center of a debate over how the U.S. should treat immigrants",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-12T13:55:01.186969+00:00"
-    },
-    {
       "tweet": "Dude, Iran's own president and foreign minister got physically attacked by their own people this week. Talk about a rough internal meeting.",
       "original_url": "https://www.nytimes.com/2026/07/08/world/middleeast/iran-divisions-us-leaders.html",
       "buzz_score": 88,
@@ -673,15 +640,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Are we seriously getting another remake of Ocarina of Time? Does Hollywood even have new ideas anymore",
-      "original_url": "https://www.polygon.com/patch-notes-remakes-assassins-creed-black-flag-resynced/",
-      "buzz_score": 82,
+      "tweet": "People are actually arguing over the Bible to decide how to handle immigration. We'll fight over literally anything",
+      "original_url": "https://www.npr.org/2026/07/12/nx-s1-5885947/a-bibe-passage-is-at-the-center-of-a-debate-over-how-the-u-s-should-treat-immigrants",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Video game remakes have officially reached a point of no return",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-12T13:55:01.185620+00:00"
+      "original_title": "A Bible passage is at the center of a debate over how the U.S. should treat immigrants",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-12T13:55:01.186969+00:00"
     },
     {
       "tweet": "Bro, a T. rex is gonna sell for 30 million in New York. Science is officially dead, man.",
@@ -1012,6 +979,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-07-07T18:17:23.950030+00:00"
+    },
+    {
+      "tweet": "Are we seriously getting another remake of Ocarina of Time? Does Hollywood even have new ideas anymore",
+      "original_url": "https://www.polygon.com/patch-notes-remakes-assassins-creed-black-flag-resynced/",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Video game remakes have officially reached a point of no return",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-07-12T13:55:01.185620+00:00"
     },
     {
       "tweet": "Watched that footage of the strike near the coffee shop in Ukraine. People just hitting the deck mid-scream. Total chaos.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2131,
+    "total_posted": 2133,
     "total_collected": 9995
   },
-  "last_posted_at": "2026-07-12T14:04:12.986322+00:00"
+  "last_posted_at": "2026-07-12T14:51:38.685367+00:00"
 }
