@@ -2,28 +2,6 @@
   "last_collected": "2026-07-12T11:29:42.516690+00:00",
   "queue": [
     {
-      "tweet": "So apparently AI bots are handling all these political campaign texts now. How are we supposed to know if we're arguing with a person or a script?",
-      "original_url": "https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Getting campaign text messages ahead of midterms? There could be an AI bot behind it",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-12T11:29:42.514867+00:00"
-    },
-    {
-      "tweet": "Wait, the Trump admin is subpoenaing NYT reporters over Air Force One coverage? Are we seriously doing this again?",
-      "original_url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-12T08:35:43.529352+00:00"
-    },
-    {
       "tweet": "Did you see that QuadRF thing? Apparently it can see through walls and spot drones. Privacy is literally just a suggestion at this point.",
       "original_url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
       "buzz_score": 85,
@@ -90,17 +68,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Bro, a T. rex is gonna sell for 30 million in New York. Science is officially dead, man.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-12T03:52:31.525654+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -110,6 +77,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Bro, a T. rex is gonna sell for 30 million in New York. Science is officially dead, man.",
+      "original_url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-12T03:52:31.525654+00:00"
     },
     {
       "tweet": "Man, a Greek F-16 just landed in the middle of a busy airport without its gear down. Absolute chaos.",
@@ -552,17 +530,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Watched that footage of the strike near the coffee shop in Ukraine. People just hitting the deck mid-scream. Total chaos.",
-      "original_url": "https://www.bbc.co.uk/news/videos/c8r27drk1nxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "People flee as Russian strike hits near Ukraine coffee shop",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-12T11:29:42.515524+00:00"
-    },
-    {
       "tweet": "Dude, Iran's own president and foreign minister got physically attacked by their own people this week. Talk about a rough internal meeting.",
       "original_url": "https://www.nytimes.com/2026/07/08/world/middleeast/iran-divisions-us-leaders.html",
       "buzz_score": 88,
@@ -682,6 +649,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Watched that footage of the strike near the coffee shop in Ukraine. People just hitting the deck mid-scream. Total chaos.",
+      "original_url": "https://www.bbc.co.uk/news/videos/c8r27drk1nxo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "People flee as Russian strike hits near Ukraine coffee shop",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-12T11:29:42.515524+00:00"
     },
     {
       "tweet": "Jay-Z brought out Beyoncé and Nas at Yankee Stadium last night. That whole show was just legendary.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2127,
+    "total_posted": 2129,
     "total_collected": 9979
   },
-  "last_posted_at": "2026-07-12T11:37:52.265812+00:00"
+  "last_posted_at": "2026-07-12T12:19:37.365749+00:00"
 }
