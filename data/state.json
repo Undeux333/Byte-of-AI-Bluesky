@@ -2,28 +2,6 @@
   "last_collected": "2026-07-12T19:47:58.138301+00:00",
   "queue": [
     {
-      "tweet": "Did you see this Ghostel.el terminal emulator? It's basically just libghostty running in a terminal emulator. Man, we're really just recursing ourselves into oblivion now.",
-      "original_url": "https://dakra.github.io/ghostel/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Ghostel.el: Terminal emulator powered by libghostty",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-12T19:47:58.137336+00:00"
-    },
-    {
-      "tweet": "Jannik Sinner just took down Zverev to defend that Wimbledon title. Dudes a machine.",
-      "original_url": "https://www.espn.com/tennis/story/_/id/49344990/jannik-sinner-beats-alexander-zverev-defends-wimbledon-title",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Sinner dispatches Zverev, defends Wimbledon title",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-07-12T19:47:58.137605+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2141,
+    "total_posted": 2143,
     "total_collected": 10017
   },
-  "last_posted_at": "2026-07-12T20:40:26.403752+00:00"
+  "last_posted_at": "2026-07-12T21:38:33.341987+00:00"
 }
