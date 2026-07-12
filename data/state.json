@@ -2,28 +2,6 @@
   "last_collected": "2026-07-12T19:47:58.138301+00:00",
   "queue": [
     {
-      "tweet": "Hold on, the U.S. and Iran are trading strikes again. Are we ever gonna move past this exact same pattern?",
-      "original_url": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Live Updates: Cease-Fire Unraveling as U.S. and Iran Trade Strikes Again",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-12T19:47:58.137347+00:00"
-    },
-    {
-      "tweet": "That former Spanish PM Mariano Rajoy is getting called out for saying the French team doesn't have any French players. The irony is just loud.",
-      "original_url": "https://www.theguardian.com/world/2026/jul/12/spain-mariano-rajoy-accused-of-racism-french-football-team-world-cup",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Former Spanish PM accused of racism in remarks about French football team",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-12T19:47:58.137847+00:00"
-    },
-    {
       "tweet": "Did you see this Ghostel.el terminal emulator? It's basically just libghostty running in a terminal emulator. Man, we're really just recursing ourselves into oblivion now.",
       "original_url": "https://dakra.github.io/ghostel/",
       "buzz_score": 75,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2139,
+    "total_posted": 2141,
     "total_collected": 10017
   },
-  "last_posted_at": "2026-07-12T19:57:05.577663+00:00"
+  "last_posted_at": "2026-07-12T20:40:26.403752+00:00"
 }
