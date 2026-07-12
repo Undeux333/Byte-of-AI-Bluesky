@@ -2,28 +2,6 @@
   "last_collected": "2026-07-12T22:24:30.632044+00:00",
   "queue": [
     {
-      "tweet": "Michael just passed a billion worldwide. Guess we're officially in the era of every dead legend needing a two-hour movie",
-      "original_url": "https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘Michael’ Pulls Further Ahead of ‘Bohemian Rhapsody’ as Top-Grossing Music Biopic Worldwide: See the Top 25",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-12T22:24:30.630702+00:00"
-    },
-    {
-      "tweet": "Watching Lindsey Graham flip from Trump critic to total ally is something else. Some people really have no internal compass at all",
-      "original_url": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-12T22:24:30.630694+00:00"
-    },
-    {
       "tweet": "Dude, Claude Code is literally burning through 33k tokens just to say hello while OpenCode is out here doing it in 7k. Total bloat man",
       "original_url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
       "buzz_score": 85,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2145,
+    "total_posted": 2147,
     "total_collected": 10033
   },
-  "last_posted_at": "2026-07-12T22:32:23.457537+00:00"
+  "last_posted_at": "2026-07-12T23:23:07.287989+00:00"
 }
