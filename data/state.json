@@ -2,28 +2,6 @@
   "last_collected": "2026-07-13T17:27:26.255401+00:00",
   "queue": [
     {
-      "tweet": "The EU is putting up a billion for Gaza recovery, but apparently the bill is actually 71 billion. That's not even a down payment.",
-      "original_url": "https://www.aljazeera.com/news/2026/7/13/eu-unveils-1bn-fund-for-gaza-war-recovery?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "EU unveils $1bn fund for Gaza war recovery",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-13T17:27:26.254886+00:00"
-    },
-    {
-      "tweet": "Dude, Grok just uploaded my whole user directory to xAI's servers. We’re literally paying them to steal our data now.",
-      "original_url": "https://twitter.com/a_green_being/status/2076598897779020159",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Grok uploaded my user directory to xAI's servers",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-13T15:21:16.947921+00:00"
-    },
-    {
       "tweet": "Dude, back in the day people used to get married by proxy without even showing up to their own wedding. Some things are just better off staying in the past.",
       "original_url": "https://www.mentalfloss.com/history/proxy-marriage-history-sounds-made-up?utm_source=RSS",
       "buzz_score": 75,
@@ -88,28 +66,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Queensland was holding kids in adult cells without toilets for ages. What a joke",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jul/13/queensland-unlawfully-detained-children-in-adult-watch-house-without-private-toilet-access-tribunal-finds-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Queensland unlawfully detained children in adult watch house without private toilet access, tribunal finds",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-13T09:58:42.532204+00:00"
-    },
-    {
-      "tweet": "So apparently federal prison guards just handle complaints by retaliating against the inmates. System works, huh",
-      "original_url": "https://www.npr.org/2026/07/13/nx-s1-5825915/prison-grievance-retaliation-complaints",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "How federal prison guards stop lawsuits before they start",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-13T09:58:42.531773+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -563,37 +519,26 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Explosions and fires all over Russia after those drone attacks. Things are getting wild",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/explosions-and-large-fires-following-ukrainian-attacks-on-russia?traffic_source=rss",
-      "buzz_score": 80,
+      "tweet": "Queensland was holding kids in adult cells without toilets for ages. What a joke",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jul/13/queensland-unlawfully-detained-children-in-adult-watch-house-without-private-toilet-access-tribunal-finds-ntwnfb",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Explosions and large fires following Ukrainian attacks on Russia",
-      "source": "Al Jazeera",
+      "original_title": "Queensland unlawfully detained children in adult watch house without private toilet access, tribunal finds",
+      "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-07-13T09:58:42.532108+00:00"
+      "added_at": "2026-07-13T09:58:42.532204+00:00"
     },
     {
-      "tweet": "Square Enix is seriously charging full price for a slightly shinier Octopath Traveler. They just expect us to buy the same thing twice now.",
-      "original_url": "https://kotaku.com/ridiculous-square-enix-fans-full-price-octopath-traveler-upgrade-2000715245",
+      "tweet": "So apparently federal prison guards just handle complaints by retaliating against the inmates. System works, huh",
+      "original_url": "https://www.npr.org/2026/07/13/nx-s1-5825915/prison-grievance-retaliation-complaints",
       "buzz_score": 85,
-      "buzz_score2": 90,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "It’s Ridiculous That Square Enix Is Charging Fans Full Price To Make Octopath Traveler Look Slightly Shinier",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-13T17:27:26.255143+00:00"
-    },
-    {
-      "tweet": "So apparently states are trying to block that whole Paramount and Warner Bros merger. It's like they realized giving two companies every movie is a bad idea.",
-      "original_url": "https://www.npr.org/2026/07/13/nx-s1-5879286/paramount-warner-bros-discovery-lawsuit",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "States sue to stop Paramount-Warner Bros blockbuster merger",
+      "original_title": "How federal prison guards stop lawsuits before they start",
       "source": "NPR News",
       "category": "world",
-      "added_at": "2026-07-13T17:27:26.254220+00:00"
+      "added_at": "2026-07-13T09:58:42.531773+00:00"
     },
     {
       "tweet": "Dude, Iran's own president and foreign minister got physically attacked by their own people this week. Talk about a rough internal meeting.",
@@ -1023,6 +968,39 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-07-08T15:22:10.411465+00:00"
+    },
+    {
+      "tweet": "Explosions and fires all over Russia after those drone attacks. Things are getting wild",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/explosions-and-large-fires-following-ukrainian-attacks-on-russia?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Explosions and large fires following Ukrainian attacks on Russia",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-13T09:58:42.532108+00:00"
+    },
+    {
+      "tweet": "Square Enix is seriously charging full price for a slightly shinier Octopath Traveler. They just expect us to buy the same thing twice now.",
+      "original_url": "https://kotaku.com/ridiculous-square-enix-fans-full-price-octopath-traveler-upgrade-2000715245",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "It’s Ridiculous That Square Enix Is Charging Fans Full Price To Make Octopath Traveler Look Slightly Shinier",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-13T17:27:26.255143+00:00"
+    },
+    {
+      "tweet": "So apparently states are trying to block that whole Paramount and Warner Bros merger. It's like they realized giving two companies every movie is a bad idea.",
+      "original_url": "https://www.npr.org/2026/07/13/nx-s1-5879286/paramount-warner-bros-discovery-lawsuit",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "States sue to stop Paramount-Warner Bros blockbuster merger",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-13T17:27:26.254220+00:00"
     },
     {
       "tweet": "The FA of Wales is out here sending football coaches to do military training. That is a rough promotion",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2161,
+    "total_posted": 2163,
     "total_collected": 10125
   },
-  "last_posted_at": "2026-07-13T17:36:44.241697+00:00"
+  "last_posted_at": "2026-07-13T19:00:44.915295+00:00"
 }
