@@ -2,28 +2,6 @@
   "last_collected": "2026-07-13T20:07:17.108977+00:00",
   "queue": [
     {
-      "tweet": "Those new Black Ops ports are already overrun with hackers and cheaters. It’s like they didn't even try.",
-      "original_url": "https://kotaku.com/black-ops-ports-on-ps4-and-ps5-are-already-filled-with-cheaters-and-hackers-2000715306",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Black Ops Ports On PS4 And PS5 Are Already Filled With Cheaters And Hackers",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-13T20:07:17.108693+00:00"
-    },
-    {
-      "tweet": "Matt Fitzpatrick said betting is making people harass golfers on the course. It’s like people forgot how to just watch a game without betting their rent on it.",
-      "original_url": "https://www.bbc.co.uk/sport/golf/articles/c79y2py9p9do?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Gambling contributing to abuse of golfers - Fitzpatrick",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-13T20:07:17.108139+00:00"
-    },
-    {
       "tweet": "Just saw the most searched definitions by state. Half the country is googling what gaslighting means, like we're all just living in a constant state of confusion.",
       "original_url": "https://www.mentalfloss.com/language/words/most-searched-word-definitions-by-state?utm_source=RSS",
       "buzz_score": 85,
@@ -110,17 +88,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Just saw a thing on how the phrase crash out is actually ancient. Kinda crazy how we just recycle the same exact slang for losing our minds every few hundred years.",
-      "original_url": "https://www.mentalfloss.com/language/slang/crash-out-meaning?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "What Does the Slang Term \"Crash Out\" Mean?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-13T12:29:35.753007+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -572,6 +539,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "Just saw a thing on how the phrase crash out is actually ancient. Kinda crazy how we just recycle the same exact slang for losing our minds every few hundred years.",
+      "original_url": "https://www.mentalfloss.com/language/slang/crash-out-meaning?utm_source=RSS",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "What Does the Slang Term \"Crash Out\" Mean?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-07-13T12:29:35.753007+00:00"
     },
     {
       "tweet": "Dude, Iran's own president and foreign minister got physically attacked by their own people this week. Talk about a rough internal meeting.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2165,
+    "total_posted": 2167,
     "total_collected": 10135
   },
-  "last_posted_at": "2026-07-13T20:15:00.075078+00:00"
+  "last_posted_at": "2026-07-13T21:20:26.085462+00:00"
 }
