@@ -2,28 +2,6 @@
   "last_collected": "2026-07-13T20:07:17.108977+00:00",
   "queue": [
     {
-      "tweet": "Just saw the most searched definitions by state. Half the country is googling what gaslighting means, like we're all just living in a constant state of confusion.",
-      "original_url": "https://www.mentalfloss.com/language/words/most-searched-word-definitions-by-state?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Most Searched Word Definitions in Every U.S. State",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-13T20:07:17.108124+00:00"
-    },
-    {
-      "tweet": "Netflix actually greenlit a Monopoly reality series. Who is even asking for this.",
-      "original_url": "https://hypebeast.com/2026/7/netflix-monopoly-reality-series-greenlit-casting-2-million-usd-prize-news",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Netflix's 'Monopoly' Reality Series Has Been Greenlit",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-07-13T20:07:17.108843+00:00"
-    },
-    {
       "tweet": "The devs for Dragon’s Dogma 2 are shocked that players keep playing dress-up with their characters. They clearly don't know how gamers work.",
       "original_url": "https://kotaku.com/dragons-dogma-2-devs-surprised-players-dress-up-2000715277",
       "buzz_score": 75,
@@ -46,28 +24,6 @@
       "added_at": "2026-07-13T17:27:26.254004+00:00"
     },
     {
-      "tweet": "Jubilee Media is out here using viral debate videos to help politicians connect with us. It’s just content for them.",
-      "original_url": "https://www.npr.org/2026/07/13/nx-s1-5870650/jubilee-media-helps-politicians-connect-with-young-people-through-viral-debate-videos",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Jubilee Media helps politicians connect with young people through viral debate videos",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-13T15:21:16.949150+00:00"
-    },
-    {
-      "tweet": "I just saw Mega Gengar’s tiny feet and I’m honestly so uncomfortable. Why would they do that.",
-      "original_url": "https://kotaku.com/pokemon-champions-mega-gengar-fissure-feet-legs-evolve-2000715252",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "I Have Now Seen Mega Gengar’s Tiny Feet And Am Very Uncomfortable",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-13T15:21:16.948613+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -88,6 +44,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Jubilee Media is out here using viral debate videos to help politicians connect with us. It’s just content for them.",
+      "original_url": "https://www.npr.org/2026/07/13/nx-s1-5870650/jubilee-media-helps-politicians-connect-with-young-people-through-viral-debate-videos",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Jubilee Media helps politicians connect with young people through viral debate videos",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-13T15:21:16.949150+00:00"
+    },
+    {
+      "tweet": "I just saw Mega Gengar’s tiny feet and I’m honestly so uncomfortable. Why would they do that.",
+      "original_url": "https://kotaku.com/pokemon-champions-mega-gengar-fissure-feet-legs-evolve-2000715252",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "I Have Now Seen Mega Gengar’s Tiny Feet And Am Very Uncomfortable",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-13T15:21:16.948613+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -541,17 +519,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Just saw a thing on how the phrase crash out is actually ancient. Kinda crazy how we just recycle the same exact slang for losing our minds every few hundred years.",
-      "original_url": "https://www.mentalfloss.com/language/slang/crash-out-meaning?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "What Does the Slang Term \"Crash Out\" Mean?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-13T12:29:35.753007+00:00"
-    },
-    {
       "tweet": "Dude, Iran's own president and foreign minister got physically attacked by their own people this week. Talk about a rough internal meeting.",
       "original_url": "https://www.nytimes.com/2026/07/08/world/middleeast/iran-divisions-us-leaders.html",
       "buzz_score": 88,
@@ -671,6 +638,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Just saw a thing on how the phrase crash out is actually ancient. Kinda crazy how we just recycle the same exact slang for losing our minds every few hundred years.",
+      "original_url": "https://www.mentalfloss.com/language/slang/crash-out-meaning?utm_source=RSS",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "What Does the Slang Term \"Crash Out\" Mean?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-07-13T12:29:35.753007+00:00"
     },
     {
       "tweet": "Queensland was holding kids in adult cells without toilets for ages. What a joke",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2167,
+    "total_posted": 2169,
     "total_collected": 10135
   },
-  "last_posted_at": "2026-07-13T21:20:26.085462+00:00"
+  "last_posted_at": "2026-07-13T22:13:07.130725+00:00"
 }
