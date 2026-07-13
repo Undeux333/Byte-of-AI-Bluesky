@@ -2,28 +2,6 @@
   "last_collected": "2026-07-12T22:24:30.632044+00:00",
   "queue": [
     {
-      "tweet": "Dude, Claude Code is literally burning through 33k tokens just to say hello while OpenCode is out here doing it in 7k. Total bloat man",
-      "original_url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-12T22:24:30.630684+00:00"
-    },
-    {
-      "tweet": "Steam is making bank on these expensive new games even though we’re all just going back to play stuff from ten years ago. It’s a comfort thing",
-      "original_url": "https://kotaku.com/expensive-games-are-fueling-steams-most-lucrative-year-despite-players-trending-towards-older-releases-2000715030",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Expensive Games Are Fueling Steam’s Most Lucrative Year Despite Players Trending Towards Older Releases",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-12T22:24:30.631254+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2147,
+    "total_posted": 2149,
     "total_collected": 10033
   },
-  "last_posted_at": "2026-07-12T23:23:07.287989+00:00"
+  "last_posted_at": "2026-07-13T00:18:04.200635+00:00"
 }
