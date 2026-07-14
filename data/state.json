@@ -2,28 +2,6 @@
   "last_collected": "2026-07-14T09:29:50.868757+00:00",
   "queue": [
     {
-      "tweet": "US is bombing Iran again while Trump says a deal is possible. How is that supposed to work.",
-      "original_url": "https://www.aljazeera.com/news/2026/7/14/us-bombs-iran-again-tehran-strikes-gulf-tankers-whats-the-latest?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US bombs Iran again, Tehran strikes Gulf, tankers: What’s the latest?",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-14T09:29:50.867061+00:00"
-    },
-    {
-      "tweet": "HUD is withholding how DOGE used AI for housing policy by citing a privilege that doesn't exist. You can't make this stuff up.",
-      "original_url": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "DOGE Used AI for Housing Policy. The Government Won’t Say How",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-07-14T09:29:50.867714+00:00"
-    },
-    {
       "tweet": "So apparently there's a town in the Amazon that's been split for a century over a bull mascot. People are losing their minds over it, man. It's just a cow.",
       "original_url": "https://www.nytimes.com/2026/07/14/world/americas/bull-mascots-red-blue-parintins-brazil.html",
       "buzz_score": 85,
@@ -90,6 +68,28 @@
       "added_at": "2026-07-14T05:52:03.214481+00:00"
     },
     {
+      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
+      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-02T15:05:13.740925+00:00"
+    },
+    {
+      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
+      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US court limits mail-order access to abortion pill mifepristone",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
       "tweet": "Found out Freddie Mercury wrote a whole song about his cat Delilah. It's that kind of stuff that just hits different when you're a pet owner.",
       "original_url": "https://www.mentalfloss.com/entertainment/music/queen-song-freddie-mercury-cat?utm_source=RSS",
       "buzz_score": 85,
@@ -143,39 +143,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-07-14T05:52:03.214475+00:00"
-    },
-    {
-      "tweet": "Apparently I need to use the git history command more. My terminal flow is just a mess at this point",
-      "original_url": "https://lalitm.com/post/git-history/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Git history command deserves more attention",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-14T05:52:03.215553+00:00"
-    },
-    {
-      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
-      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-02T15:05:13.740925+00:00"
-    },
-    {
-      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
-      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US court limits mail-order access to abortion pill mifepristone",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -629,15 +596,15 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "A landlord kicked an LGBTQ+ pop-up out of a former Sydney church because it 'mocked' their beliefs. It's a deconsecrated building, man.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jul/14/divine-playhouse-lgbtq-events-cancelled-sydney-church",
-      "buzz_score": 85,
-      "buzz_score2": 90,
+      "tweet": "Apparently I need to use the git history command more. My terminal flow is just a mess at this point",
+      "original_url": "https://lalitm.com/post/git-history/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "LGBTQ+ pop-up in former Sydney church ordered by landlord to cancel events after religious protest",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-14T09:29:50.867195+00:00"
+      "original_title": "The Git history command deserves more attention",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-14T05:52:03.215553+00:00"
     },
     {
       "tweet": "Dude, Iran's own president and foreign minister got physically attacked by their own people this week. Talk about a rough internal meeting.",
@@ -1034,6 +1001,17 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-07-09T10:44:03.573319+00:00"
+    },
+    {
+      "tweet": "A landlord kicked an LGBTQ+ pop-up out of a former Sydney church because it 'mocked' their beliefs. It's a deconsecrated building, man.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jul/14/divine-playhouse-lgbtq-events-cancelled-sydney-church",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "LGBTQ+ pop-up in former Sydney church ordered by landlord to cancel events after religious protest",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-14T09:29:50.867195+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2178,
+    "total_posted": 2180,
     "total_collected": 10199
   },
-  "last_posted_at": "2026-07-14T09:36:36.354954+00:00"
+  "last_posted_at": "2026-07-14T11:13:41.432423+00:00"
 }
