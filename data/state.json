@@ -2,17 +2,6 @@
   "last_collected": "2026-07-14T12:22:26.019311+00:00",
   "queue": [
     {
-      "tweet": "So apparently there's a town in the Amazon that's been split for a century over a bull mascot. People are losing their minds over it, man. It's just a cow.",
-      "original_url": "https://www.nytimes.com/2026/07/14/world/americas/bull-mascots-red-blue-parintins-brazil.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "A Heated Rivalry Over Bull Mascots Is Dividing a Brazilian Town",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-14T09:29:50.866741+00:00"
-    },
-    {
       "tweet": "France vs Spain for the semi-final is gonna be a movie. Finally get to see Mbappe and Lamine Yamal on the same pitch",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/clywep30z7jo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 90,
@@ -22,28 +11,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-07-14T05:52:03.214791+00:00"
-    },
-    {
-      "tweet": "Skenes and the other stars are saying players will never agree to a salary cap in baseball. They're just drawing a line in the sand",
-      "original_url": "https://www.espn.com/mlb/story/_/id/49353827/all-stars-oppose-mlb-salary-cap-lot-reach-deal",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "All-Stars oppose salary cap, see time to find deal...",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-07-14T05:52:03.214640+00:00"
-    },
-    {
-      "tweet": "Jordan Walker hitting six homers in a row to take the Derby was wild. Dude literally couldn't miss",
-      "original_url": "https://www.espn.com/mlb/story/_/id/49355213/jordan-walker-homers-last-six-swings-win-home-run-derby",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Walker walks it off: Cards slugger wins HR Derby",
-      "source": "ESPN",
-      "category": "sports",
-      "added_at": "2026-07-14T05:52:03.214484+00:00"
     },
     {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
@@ -68,37 +35,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Wait, the U.S. is just gonna blockade the Strait of Hormuz on Tuesday? Like that’s just a normal thing we do now",
-      "original_url": "https://www.npr.org/2026/07/14/nx-s1-5893257/us-iran-updates",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The U.S. is set to reinstate a blockade over the Strait of Hormuz",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-14T12:22:26.017729+00:00"
-    },
-    {
-      "tweet": "India and Bangladesh are just leaving people stuck at the border over those deportations. Does anyone actually have a plan for this",
-      "original_url": "https://www.nytimes.com/2026/07/14/world/asia/india-bangladesh-border-migration.html",
-      "buzz_score": 80,
+      "tweet": "Skenes and the other stars are saying players will never agree to a salary cap in baseball. They're just drawing a line in the sand",
+      "original_url": "https://www.espn.com/mlb/story/_/id/49353827/all-stars-oppose-mlb-salary-cap-lot-reach-deal",
+      "buzz_score": 88,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Deportations by India Cause Tension Along Border with Bangladesh",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-14T05:52:03.215821+00:00"
-    },
-    {
-      "tweet": "Man, that bar fire in Bangkok is brutal. Hard to believe they actually locked the emergency exits, that's just insane",
-      "original_url": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Death toll from Bangkok bar fire rises to 30 as police probe safety lapses",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-14T05:52:03.214481+00:00"
+      "original_title": "All-Stars oppose salary cap, see time to find deal...",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-07-14T05:52:03.214640+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -110,6 +55,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Jordan Walker hitting six homers in a row to take the Derby was wild. Dude literally couldn't miss",
+      "original_url": "https://www.espn.com/mlb/story/_/id/49355213/jordan-walker-homers-last-six-swings-win-home-run-derby",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Walker walks it off: Cards slugger wins HR Derby",
+      "source": "ESPN",
+      "category": "sports",
+      "added_at": "2026-07-14T05:52:03.214484+00:00"
     },
     {
       "tweet": "Man, a Greek F-16 just landed in the middle of a busy airport without its gear down. Absolute chaos.",
@@ -552,61 +508,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Found out Freddie Mercury wrote a whole song about his cat Delilah. It's that kind of stuff that just hits different when you're a pet owner.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/queen-song-freddie-mercury-cat?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Queen Ballad Freddie Mercury Wrote About His Favorite Cat",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-14T03:29:36.114945+00:00"
-    },
-    {
-      "tweet": "Bose is doing 40% off right now. Might as well upgrade the setup since it's actually cheap for once",
-      "original_url": "https://www.wired.com/story/bose-coupon-code/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Bose Promo Code: 40% Off for July 2026",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-07-14T05:52:03.216196+00:00"
-    },
-    {
-      "tweet": "India is blocking that movie about Khalra for no reason. It's the best way to make sure everyone watches it",
-      "original_url": "https://www.aljazeera.com/news/2026/7/14/why-is-india-blocking-film-on-a-man-who-counted-punjab-insurgency-killings?traffic_source=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why is India blocking film on a man who counted Punjab insurgency killings?",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-14T05:52:03.215947+00:00"
-    },
-    {
-      "tweet": "Nous Research just pulled in 75 million for their AI agent. Everything is getting funded these days, man",
-      "original_url": "https://hypebeast.com/2026/7/nous-researchs-hermes-ai-nears-1-5-billion-valuation",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Nous Research Secures a Massive $75M USD to Scale Its Hermes AI Agent",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-07-14T05:52:03.215046+00:00"
-    },
-    {
-      "tweet": "Dude, Japan just figured out how to recycle 90% of the lithium from dead EV batteries. Turns out we were just throwing them away this whole time",
-      "original_url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-14T05:52:03.214475+00:00"
-    },
-    {
       "tweet": "Dude, Iran's own president and foreign minister got physically attacked by their own people this week. Talk about a rough internal meeting.",
       "original_url": "https://www.nytimes.com/2026/07/08/world/middleeast/iran-divisions-us-leaders.html",
       "buzz_score": 88,
@@ -726,6 +627,50 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Wait, the U.S. is just gonna blockade the Strait of Hormuz on Tuesday? Like that’s just a normal thing we do now",
+      "original_url": "https://www.npr.org/2026/07/14/nx-s1-5893257/us-iran-updates",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The U.S. is set to reinstate a blockade over the Strait of Hormuz",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-14T12:22:26.017729+00:00"
+    },
+    {
+      "tweet": "India and Bangladesh are just leaving people stuck at the border over those deportations. Does anyone actually have a plan for this",
+      "original_url": "https://www.nytimes.com/2026/07/14/world/asia/india-bangladesh-border-migration.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Deportations by India Cause Tension Along Border with Bangladesh",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-14T05:52:03.215821+00:00"
+    },
+    {
+      "tweet": "Man, that bar fire in Bangkok is brutal. Hard to believe they actually locked the emergency exits, that's just insane",
+      "original_url": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Death toll from Bangkok bar fire rises to 30 as police probe safety lapses",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-14T05:52:03.214481+00:00"
+    },
+    {
+      "tweet": "Found out Freddie Mercury wrote a whole song about his cat Delilah. It's that kind of stuff that just hits different when you're a pet owner.",
+      "original_url": "https://www.mentalfloss.com/entertainment/music/queen-song-freddie-mercury-cat?utm_source=RSS",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Queen Ballad Freddie Mercury Wrote About His Favorite Cat",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-07-14T03:29:36.114945+00:00"
     },
     {
       "tweet": "England's making a late call on Rice for the semi-final. If he’s out against Argentina, they’re in real trouble",
@@ -1001,6 +946,50 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-07-09T10:44:03.573319+00:00"
+    },
+    {
+      "tweet": "Bose is doing 40% off right now. Might as well upgrade the setup since it's actually cheap for once",
+      "original_url": "https://www.wired.com/story/bose-coupon-code/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Bose Promo Code: 40% Off for July 2026",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-07-14T05:52:03.216196+00:00"
+    },
+    {
+      "tweet": "India is blocking that movie about Khalra for no reason. It's the best way to make sure everyone watches it",
+      "original_url": "https://www.aljazeera.com/news/2026/7/14/why-is-india-blocking-film-on-a-man-who-counted-punjab-insurgency-killings?traffic_source=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Why is India blocking film on a man who counted Punjab insurgency killings?",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-14T05:52:03.215947+00:00"
+    },
+    {
+      "tweet": "Nous Research just pulled in 75 million for their AI agent. Everything is getting funded these days, man",
+      "original_url": "https://hypebeast.com/2026/7/nous-researchs-hermes-ai-nears-1-5-billion-valuation",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Nous Research Secures a Massive $75M USD to Scale Its Hermes AI Agent",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-07-14T05:52:03.215046+00:00"
+    },
+    {
+      "tweet": "Dude, Japan just figured out how to recycle 90% of the lithium from dead EV batteries. Turns out we were just throwing them away this whole time",
+      "original_url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-14T05:52:03.214475+00:00"
     },
     {
       "tweet": "Meg 2 is somehow still in the Netflix top 10. Jason Statham fighting giant sharks is just timeless",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2182,
+    "total_posted": 2183,
     "total_collected": 10215
   },
-  "last_posted_at": "2026-07-14T12:28:50.497619+00:00"
+  "last_posted_at": "2026-07-14T14:20:27.859891+00:00"
 }
