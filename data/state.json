@@ -2,28 +2,6 @@
   "last_collected": "2026-07-14T15:53:51.981013+00:00",
   "queue": [
     {
-      "tweet": "They really renamed a London train station to Jude Bellingham Station for the World Cup. At this point we're just",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/jude-bellingham-station-unveiled-ahead-of-world-cup-semi-final?traffic_source=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Jude Bellingham Station unveiled ahead of World Cup semi-final",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-14T15:53:51.979713+00:00"
-    },
-    {
-      "tweet": "Arsenal are actually shipping Trossard off to Besiktas for 17 million. Done deal.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cddldzme6g1o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Arsenal agree fee for Trossard move to Besiktas",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-14T15:53:51.979423+00:00"
-    },
-    {
       "tweet": "There’s a brand trying to make refrigerators 'elevated' furniture. People really have too much money.",
       "original_url": "https://hypebeast.com/2026/7/rocco-gohar-world-limited-edition-fridge-launch-details",
       "buzz_score": 70,
@@ -519,17 +497,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Why watch a new Nolan movie when you could watch two hours of AI slop. That's the bar now.",
-      "original_url": "https://kotaku.com/the-odyssey-christopher-nolan-odysseus-the-fall-ai-slop-movie-2000715809",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Why Watch Christopher Nolan’s The Odyssey When You Could Instead Sit Through 135 Minutes Of AI Slop?",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-14T15:53:51.979975+00:00"
-    },
-    {
       "tweet": "Skenes and the other stars are saying players will never agree to a salary cap in baseball. They're just drawing a line in the sand",
       "original_url": "https://www.espn.com/mlb/story/_/id/49353827/all-stars-oppose-mlb-salary-cap-lot-reach-deal",
       "buzz_score": 88,
@@ -660,6 +627,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Why watch a new Nolan movie when you could watch two hours of AI slop. That's the bar now.",
+      "original_url": "https://kotaku.com/the-odyssey-christopher-nolan-odysseus-the-fall-ai-slop-movie-2000715809",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Why Watch Christopher Nolan’s The Odyssey When You Could Instead Sit Through 135 Minutes Of AI Slop?",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-14T15:53:51.979975+00:00"
     },
     {
       "tweet": "Jordan Walker hitting six homers in a row to take the Derby was wild. Dude literally couldn't miss",
@@ -992,17 +970,6 @@
       "added_at": "2026-07-14T15:53:51.979258+00:00"
     },
     {
-      "tweet": "Wait, the U.S. is just gonna blockade the Strait of Hormuz on Tuesday? Like that’s just a normal thing we do now",
-      "original_url": "https://www.npr.org/2026/07/14/nx-s1-5893257/us-iran-updates",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The U.S. is set to reinstate a blockade over the Strait of Hormuz",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-14T12:22:26.017729+00:00"
-    },
-    {
       "tweet": "India and Bangladesh are just leaving people stuck at the border over those deportations. Does anyone actually have a plan for this",
       "original_url": "https://www.nytimes.com/2026/07/14/world/asia/india-bangladesh-border-migration.html",
       "buzz_score": 80,
@@ -1023,6 +990,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-07-14T05:52:03.214481+00:00"
+    },
+    {
+      "tweet": "Wait, the U.S. is just gonna blockade the Strait of Hormuz on Tuesday? Like that’s just a normal thing we do now",
+      "original_url": "https://www.npr.org/2026/07/14/nx-s1-5893257/us-iran-updates",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The U.S. is set to reinstate a blockade over the Strait of Hormuz",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-14T12:22:26.017729+00:00"
     },
     {
       "tweet": "Nicki Minaj owes 230 thousand in legal bills and might get hit with a judgment. Being rich is weird.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2185,
+    "total_posted": 2187,
     "total_collected": 10231
   },
-  "last_posted_at": "2026-07-14T15:59:11.674914+00:00"
+  "last_posted_at": "2026-07-14T17:07:37.430822+00:00"
 }
