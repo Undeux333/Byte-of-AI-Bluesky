@@ -2,28 +2,6 @@
   "last_collected": "2026-07-13T23:10:31.891767+00:00",
   "queue": [
     {
-      "tweet": "There’s already nine deaths linked to that new immigration crackdown. It’s getting ugly out there",
-      "original_url": "https://www.aljazeera.com/news/2026/7/13/nine-deaths-tied-to-trumps-immigration-enforcement-operations-in-us?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Nine deaths tied to Trump’s immigration enforcement operations in US",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-13T23:10:31.890965+00:00"
-    },
-    {
-      "tweet": "Did you see that South Carolina is just handing Lindsey Graham’s Senate seat to his sister? Like we're just running the government like a family business now",
-      "original_url": "https://www.npr.org/2026/07/13/nx-s1-5891839/lindsey-graham-senate-seat-darline-graham",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "South Carolina's governor names Lindsey Graham's sister to serve out his term",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-13T23:10:31.890403+00:00"
-    },
-    {
       "tweet": "England's making a late call on Rice for the semi-final. If he’s out against Argentina, they’re in real trouble",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/ce8m996g9g1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -110,17 +88,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Dude, back in the day people used to get married by proxy without even showing up to their own wedding. Some things are just better off staying in the past.",
-      "original_url": "https://www.mentalfloss.com/history/proxy-marriage-history-sounds-made-up?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Medieval Marriage Ceremony That Sounds Completely Made Up (But Isn’t)",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-13T17:27:26.254004+00:00"
     },
     {
       "tweet": "Man, a Greek F-16 just landed in the middle of a busy airport without its gear down. Absolute chaos.",
@@ -563,37 +530,15 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Man, that wildfire near Paris was allegedly set on purpose. People are wild",
-      "original_url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Wildfire raging south of Paris could have been set deliberately, says minister",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-13T23:10:31.890399+00:00"
-    },
-    {
-      "tweet": "Jubilee Media is out here using viral debate videos to help politicians connect with us. It’s just content for them.",
-      "original_url": "https://www.npr.org/2026/07/13/nx-s1-5870650/jubilee-media-helps-politicians-connect-with-young-people-through-viral-debate-videos",
-      "buzz_score": 80,
+      "tweet": "Dude, back in the day people used to get married by proxy without even showing up to their own wedding. Some things are just better off staying in the past.",
+      "original_url": "https://www.mentalfloss.com/history/proxy-marriage-history-sounds-made-up?utm_source=RSS",
+      "buzz_score": 75,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Jubilee Media helps politicians connect with young people through viral debate videos",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-13T15:21:16.949150+00:00"
-    },
-    {
-      "tweet": "I just saw Mega Gengar’s tiny feet and I’m honestly so uncomfortable. Why would they do that.",
-      "original_url": "https://kotaku.com/pokemon-champions-mega-gengar-fissure-feet-legs-evolve-2000715252",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "I Have Now Seen Mega Gengar’s Tiny Feet And Am Very Uncomfortable",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-13T15:21:16.948613+00:00"
+      "original_title": "The Medieval Marriage Ceremony That Sounds Completely Made Up (But Isn’t)",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-07-13T17:27:26.254004+00:00"
     },
     {
       "tweet": "Dude, Iran's own president and foreign minister got physically attacked by their own people this week. Talk about a rough internal meeting.",
@@ -715,6 +660,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Man, that wildfire near Paris was allegedly set on purpose. People are wild",
+      "original_url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Wildfire raging south of Paris could have been set deliberately, says minister",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-13T23:10:31.890399+00:00"
     },
     {
       "tweet": "Just saw a thing on how the phrase crash out is actually ancient. Kinda crazy how we just recycle the same exact slang for losing our minds every few hundred years.",
@@ -1034,6 +990,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-08T18:12:48.324671+00:00"
+    },
+    {
+      "tweet": "Jubilee Media is out here using viral debate videos to help politicians connect with us. It’s just content for them.",
+      "original_url": "https://www.npr.org/2026/07/13/nx-s1-5870650/jubilee-media-helps-politicians-connect-with-young-people-through-viral-debate-videos",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Jubilee Media helps politicians connect with young people through viral debate videos",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-13T15:21:16.949150+00:00"
+    },
+    {
+      "tweet": "I just saw Mega Gengar’s tiny feet and I’m honestly so uncomfortable. Why would they do that.",
+      "original_url": "https://kotaku.com/pokemon-champions-mega-gengar-fissure-feet-legs-evolve-2000715252",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "I Have Now Seen Mega Gengar’s Tiny Feet And Am Very Uncomfortable",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-13T15:21:16.948613+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2171,
+    "total_posted": 2173,
     "total_collected": 10151
   },
-  "last_posted_at": "2026-07-13T23:20:22.990837+00:00"
+  "last_posted_at": "2026-07-14T00:12:18.719108+00:00"
 }
