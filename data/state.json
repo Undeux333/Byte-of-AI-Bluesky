@@ -2,17 +2,6 @@
   "last_collected": "2026-07-14T20:43:04.412750+00:00",
   "queue": [
     {
-      "tweet": "So Trump just took two million from that South Korean company while they're under investigation. Just business as usual I guess",
-      "original_url": "https://www.nytimes.com/2026/07/14/us/politics/trump-south-korea-aluminum.html",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump Paid $2 Million by South Korean Company Facing Trade Investigation",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-14T20:43:04.410933+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -497,17 +486,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Hold on, Trump is out here threatening to strike a place called Pickaxe Mountain. Are we playing Minecraft or something",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/what-is-irans-pickaxe-mountain-2?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "What is Iran’s Pickaxe Mountain?",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-14T20:43:04.410937+00:00"
-    },
-    {
       "tweet": "Skenes and the other stars are saying players will never agree to a salary cap in baseball. They're just drawing a line in the sand",
       "original_url": "https://www.espn.com/mlb/story/_/id/49353827/all-stars-oppose-mlb-salary-cap-lot-reach-deal",
       "buzz_score": 88,
@@ -638,6 +616,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Hold on, Trump is out here threatening to strike a place called Pickaxe Mountain. Are we playing Minecraft or something",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/what-is-irans-pickaxe-mountain-2?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "What is Iran’s Pickaxe Mountain?",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-14T20:43:04.410937+00:00"
     },
     {
       "tweet": "Jordan Walker hitting six homers in a row to take the Derby was wild. Dude literally couldn't miss",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2191,
+    "total_posted": 2192,
     "total_collected": 10261
   },
-  "last_posted_at": "2026-07-14T20:52:32.486788+00:00"
+  "last_posted_at": "2026-07-14T21:36:49.753915+00:00"
 }
