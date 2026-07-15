@@ -2,28 +2,6 @@
   "last_collected": "2026-07-15T15:01:07.034978+00:00",
   "queue": [
     {
-      "tweet": "GameStop is on Uber Eats now because physical games are dying. What a time to be alive",
-      "original_url": "https://kotaku.com/gamestop-joins-uber-eats-as-it-braces-for-the-death-of-physical-games-2000716214",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "GameStop Joins Uber Eats As It Braces For The Death Of Physical Games",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-15T15:01:07.034591+00:00"
-    },
-    {
-      "tweet": "Turns out sleep regularity is way more important than how long you're actually out. My 3 AM bedtime is finally coming back to haunt me",
-      "original_url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-15T15:01:07.033368+00:00"
-    },
-    {
       "tweet": "Twitter is 20 years old today and it’s just a ghost of itself. We’re still all stuck on this app though",
       "original_url": "https://www.aljazeera.com/news/2026/7/15/my-twitter-not-x?traffic_source=rss",
       "buzz_score": 80,
@@ -101,28 +79,6 @@
       "added_at": "2026-07-15T11:56:15.742618+00:00"
     },
     {
-      "tweet": "US and Iran are just trading strikes for the fifth day in a row now. We're just living in a constant state of escalation",
-      "original_url": "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran War Live Updates: U.S. and Iran Exchange Strikes for Fifth Straight Day",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-15T15:01:07.033383+00:00"
-    },
-    {
-      "tweet": "So basically every app we use is just a webpage in a trench coat. We're really out here downloading entire browsers just to check the weather",
-      "original_url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Your 'app' could have been a webpage (so I fixed it for you)",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-15T08:33:51.729817+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -145,6 +101,17 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "US and Iran are just trading strikes for the fifth day in a row now. We're just living in a constant state of escalation",
+      "original_url": "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iran War Live Updates: U.S. and Iran Exchange Strikes for Fifth Straight Day",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-15T15:01:07.033383+00:00"
+    },
+    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -154,6 +121,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "So basically every app we use is just a webpage in a trench coat. We're really out here downloading entire browsers just to check the weather",
+      "original_url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Your 'app' could have been a webpage (so I fixed it for you)",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-15T08:33:51.729817+00:00"
     },
     {
       "tweet": "France vs Spain for the semi-final is gonna be a movie. Finally get to see Mbappe and Lamine Yamal on the same pitch",
@@ -739,17 +717,6 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Man, Japan has a serial bear just hitting people’s fridges. Fourteen break-ins in two weeks and they're just setting up fences.",
-      "original_url": "https://www.theguardian.com/world/2026/jul/15/japan-bear-raids-fridge",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Japan officials hunt bear that raided couple’s fridge amid string of break-ins",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-15T06:05:58.458643+00:00"
-    },
-    {
       "tweet": "An OpenAI researcher is launching a drug discovery startup and it’s already valued at 2 billion. They're just printing money over there.",
       "original_url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
       "buzz_score": 85,
@@ -1034,6 +1001,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-07-09T20:02:22.698826+00:00"
+    },
+    {
+      "tweet": "Man, Japan has a serial bear just hitting people’s fridges. Fourteen break-ins in two weeks and they're just setting up fences.",
+      "original_url": "https://www.theguardian.com/world/2026/jul/15/japan-bear-raids-fridge",
+      "buzz_score": 82,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Japan officials hunt bear that raided couple’s fridge amid string of break-ins",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-15T06:05:58.458643+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2210,
+    "total_posted": 2212,
     "total_collected": 10352
   },
-  "last_posted_at": "2026-07-15T15:09:01.406329+00:00"
+  "last_posted_at": "2026-07-15T16:49:46.795740+00:00"
 }
