@@ -2,28 +2,6 @@
   "last_collected": "2026-07-15T11:56:15.742879+00:00",
   "queue": [
     {
-      "tweet": "Another massive hack, this time at an Australian healthcare provider. Nothing is safe.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jul/15/patient-records-stolen-in-cyber-attack-on-australian-healthcare-provider",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Patient records stolen in cyber-attack on Australian healthcare provider",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-15T11:56:15.742349+00:00"
-    },
-    {
-      "tweet": "They might move the final round of The Open just to avoid a clash with the World Cup final. Why are we like this?",
-      "original_url": "https://www.bbc.co.uk/sport/golf/articles/c8d2d31yn04o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Decision on changing Open final round timings to follow England World Cup semi-final",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-15T11:56:15.741959+00:00"
-    },
-    {
       "tweet": "Queens of the Stone Age dropped a new song and announced a tour. Finally.",
       "original_url": "https://www.billboard.com/music/rock/queens-of-the-stone-age-easy-street-tour-australia-and-nz-1236294451/",
       "buzz_score": 85,
@@ -101,17 +79,6 @@
       "added_at": "2026-07-15T08:33:51.729817+00:00"
     },
     {
-      "tweet": "Man, Japan has a serial bear just hitting people’s fridges. Fourteen break-ins in two weeks and they're just setting up fences.",
-      "original_url": "https://www.theguardian.com/world/2026/jul/15/japan-bear-raids-fridge",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Japan officials hunt bear that raided couple’s fridge amid string of break-ins",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-15T06:05:58.458643+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -134,37 +101,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "An OpenAI researcher is launching a drug discovery startup and it’s already valued at 2 billion. They're just printing money over there.",
-      "original_url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-      "buzz_score": 85,
+      "tweet": "Man, Japan has a serial bear just hitting people’s fridges. Fourteen break-ins in two weeks and they're just setting up fences.",
+      "original_url": "https://www.theguardian.com/world/2026/jul/15/japan-bear-raids-fridge",
+      "buzz_score": 82,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-07-15T03:51:56.055284+00:00"
-    },
-    {
-      "tweet": "Just rewatched that old Sam Neill thriller and man, that ending still hits so hard.",
-      "original_url": "https://www.polygon.com/sam-neill-in-the-mouth-of-madness-horror-what-to-watch/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Sam Neill’s cult classic thriller has one of the all-time great mic-drop endings",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-15T03:51:56.055023+00:00"
-    },
-    {
-      "tweet": "Dude, Dolly Parton wrote Jolene and I Will Always Love You on the exact same day. Some people are just built different man.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/dolly-parton-classics-written-same-day?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Two Dolly Parton Classics She Wrote on the Same Day",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-15T03:51:56.054430+00:00"
+      "original_title": "Japan officials hunt bear that raided couple’s fridge amid string of break-ins",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-15T06:05:58.458643+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -761,15 +706,37 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Trump is threatening to bomb Iran if they don't start talking. It's like he's just running a negotiation through a war room",
-      "original_url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 90,
+      "tweet": "An OpenAI researcher is launching a drug discovery startup and it’s already valued at 2 billion. They're just printing money over there.",
+      "original_url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-15T08:33:51.730762+00:00"
+      "original_title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-07-15T03:51:56.055284+00:00"
+    },
+    {
+      "tweet": "Just rewatched that old Sam Neill thriller and man, that ending still hits so hard.",
+      "original_url": "https://www.polygon.com/sam-neill-in-the-mouth-of-madness-horror-what-to-watch/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Sam Neill’s cult classic thriller has one of the all-time great mic-drop endings",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-07-15T03:51:56.055023+00:00"
+    },
+    {
+      "tweet": "Dude, Dolly Parton wrote Jolene and I Will Always Love You on the exact same day. Some people are just built different man.",
+      "original_url": "https://www.mentalfloss.com/entertainment/music/dolly-parton-classics-written-same-day?utm_source=RSS",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Two Dolly Parton Classics She Wrote on the Same Day",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-07-15T03:51:56.054430+00:00"
     },
     {
       "tweet": "Jordan Walker hitting six homers in a row to take the Derby was wild. Dude literally couldn't miss",
@@ -1034,6 +1001,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-07-09T20:02:22.697986+00:00"
+    },
+    {
+      "tweet": "Trump is threatening to bomb Iran if they don't start talking. It's like he's just running a negotiation through a war room",
+      "original_url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-15T08:33:51.730762+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2206,
+    "total_posted": 2208,
     "total_collected": 10336
   },
-  "last_posted_at": "2026-07-15T12:04:50.272651+00:00"
+  "last_posted_at": "2026-07-15T13:20:07.140268+00:00"
 }
