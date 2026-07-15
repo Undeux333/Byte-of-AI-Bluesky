@@ -2,28 +2,6 @@
   "last_collected": "2026-07-15T08:33:51.730834+00:00",
   "queue": [
     {
-      "tweet": "Lindsey Graham’s sister just got sworn into his old seat. I mean, at least they're not pretending it's merit-based anymore",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/lindsey-grahams-sister-sworn-in-to-fill-his-us-senate-seat?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Lindsey Graham’s sister sworn in to fill his US Senate seat",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-15T08:33:51.730072+00:00"
-    },
-    {
-      "tweet": "Did you see someone dropped 50 million on a T. rex? Imagine having that kind of money just to put a skeleton in your living room",
-      "original_url": "https://www.npr.org/2026/07/15/nx-s1-5894586/mystery-bidder-buys-t-rex",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mystery bidder buys T. rex nicknamed 'Gus' for a record $50 million",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-15T08:33:51.729821+00:00"
-    },
-    {
       "tweet": "So basically every app we use is just a webpage in a trench coat. We're really out here downloading entire browsers just to check the weather",
       "original_url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
       "buzz_score": 85,
@@ -79,17 +57,6 @@
       "added_at": "2026-07-15T03:51:56.054430+00:00"
     },
     {
-      "tweet": "Trump is threatening to bomb Iran if they don't start talking. It's like he's just running a negotiation through a war room",
-      "original_url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-15T08:33:51.730762+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -121,6 +88,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Trump is threatening to bomb Iran if they don't start talking. It's like he's just running a negotiation through a war room",
+      "original_url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-15T08:33:51.730762+00:00"
     },
     {
       "tweet": "France vs Spain for the semi-final is gonna be a movie. Finally get to see Mbappe and Lamine Yamal on the same pitch",
@@ -574,17 +552,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Did you hear about that stabbing in Brisbane? They're saying it was over a social media post. How are we still doing this",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jul/15/brisbane-school-alleged-stabbing-child-arrested-court-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Brisbane child accused of school stabbing allegedly faced ‘racist’ abuse, court hears",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-15T08:33:51.730143+00:00"
-    },
-    {
       "tweet": "Skenes and the other stars are saying players will never agree to a salary cap in baseball. They're just drawing a line in the sand",
       "original_url": "https://www.espn.com/mlb/story/_/id/49353827/all-stars-oppose-mlb-salary-cap-lot-reach-deal",
       "buzz_score": 88,
@@ -1012,6 +979,17 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-07-09T10:44:03.573319+00:00"
+    },
+    {
+      "tweet": "Did you hear about that stabbing in Brisbane? They're saying it was over a social media post. How are we still doing this",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jul/15/brisbane-school-alleged-stabbing-child-arrested-court-ntwnfb",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Brisbane child accused of school stabbing allegedly faced ‘racist’ abuse, court hears",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-15T08:33:51.730143+00:00"
     },
     {
       "tweet": "Europe’s new age verification app forces you to use iOS or Android. Nothing like a little government-mandated lock-in",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2202,
+    "total_posted": 2204,
     "total_collected": 10320
   },
-  "last_posted_at": "2026-07-15T08:41:48.548391+00:00"
+  "last_posted_at": "2026-07-15T10:34:07.908795+00:00"
 }
