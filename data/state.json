@@ -2,28 +2,6 @@
   "last_collected": "2026-07-15T20:00:58.426397+00:00",
   "queue": [
     {
-      "tweet": "Germany is warning the US about election interference now. We're just pointing at each other at this point.",
-      "original_url": "https://www.theguardian.com/us-news/2026/jul/15/germany-warns-against-election-interference-as-us-offers-funding-to-maga-aligned-causes-in-europe",
-      "buzz_score": 88,
-      "buzz_score2": 96,
-      "rewrite_count": 0,
-      "original_title": "Germany warns US against election interference after it announces grants scheme",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-15T20:00:58.425397+00:00"
-    },
-    {
-      "tweet": "Wait, Conor Benn and Ryan Garcia are actually fighting in Vegas? That's gonna be a absolute mess.",
-      "original_url": "https://www.bbc.co.uk/sport/boxing/articles/cg53j8vg9l6o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Benn to face WBC champion Garcia on 12 September",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-15T20:00:58.425174+00:00"
-    },
-    {
       "tweet": "Dude, people are actually running Gemma 26B on a 13-year-old Xeon chip. My laptop can't even handle a Chrome tab, man.",
       "original_url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
       "buzz_score": 85,
@@ -134,6 +112,28 @@
       "added_at": "2026-07-15T17:53:03.436404+00:00"
     },
     {
+      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
+      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-02T15:05:13.740925+00:00"
+    },
+    {
+      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
+      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US court limits mail-order access to abortion pill mifepristone",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
       "tweet": "Twitter is 20 years old today and it’s just a ghost of itself. We’re still all stuck on this app though",
       "original_url": "https://www.aljazeera.com/news/2026/7/15/my-twitter-not-x?traffic_source=rss",
       "buzz_score": 80,
@@ -165,61 +165,6 @@
       "source": "Hypebeast",
       "category": "entertainment",
       "added_at": "2026-07-15T20:00:58.425999+00:00"
-    },
-    {
-      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
-      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-02T15:05:13.740925+00:00"
-    },
-    {
-      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
-      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US court limits mail-order access to abortion pill mifepristone",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Queens of the Stone Age dropped a new song and announced a tour. Finally.",
-      "original_url": "https://www.billboard.com/music/rock/queens-of-the-stone-age-easy-street-tour-australia-and-nz-1236294451/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Queens of the Stone Age Return With ‘Easy Street,’ Announce Tour of Australia and NZ",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-15T11:56:15.741544+00:00"
-    },
-    {
-      "tweet": "Iran is threatening to block all oil routes now that the U.S. is blocking their ports. Just a normal Wednesday.",
-      "original_url": "https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "U.S. and Iran standoff over the Strait of Hormuz intensifies",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-15T11:56:15.741249+00:00"
-    },
-    {
-      "tweet": "Dude, people are actually tracking the average tip percentage in every single state. At this point, we're just paying for the receipt.",
-      "original_url": "https://www.mentalfloss.com/geograpy/maps/every-state-average-tip-percentage?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Every State’s Average Tipping Percentage, Mapped",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-15T11:56:15.741237+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -684,17 +629,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Apparently we use Greek mythology words like narcissism every single day without thinking about it. We're just living in the past.",
-      "original_url": "https://www.mentalfloss.com/language/words/everyday-greek-mythology-words?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "10 Greek Mythology Words You Use Every Day",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-15T20:00:58.425803+00:00"
-    },
-    {
       "tweet": "Skenes and the other stars are saying players will never agree to a salary cap in baseball. They're just drawing a line in the sand",
       "original_url": "https://www.espn.com/mlb/story/_/id/49353827/all-stars-oppose-mlb-salary-cap-lot-reach-deal",
       "buzz_score": 88,
@@ -827,26 +761,37 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Apparently the best weapon in Black Flag is just kicking people off the ship. We've all been there.",
-      "original_url": "https://www.polygon.com/assassins-creed-black-flag-resynced-best-weapon-spartan-kick/",
-      "buzz_score": 80,
+      "tweet": "Queens of the Stone Age dropped a new song and announced a tour. Finally.",
+      "original_url": "https://www.billboard.com/music/rock/queens-of-the-stone-age-easy-street-tour-australia-and-nz-1236294451/",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Assassin’s Creed Black Flag Resynced features the series’ best weapon, and it’s not dual Hidden Blades",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-15T11:56:15.742748+00:00"
-    },
-    {
-      "tweet": "Lily Allen is moving her whole tour into smaller theaters after trying to sell arenas. That's a lot of empty seats.",
-      "original_url": "https://www.billboard.com/music/pop/lily-allen-scales-down-west-end-girl-tour-arenas-theaters-1236294482/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Lily Allen Scaling Down Fall 2026 Leg of North American West End Girl Tour From Arenas to Theaters: ‘We’ve Had to Make Some Adjustments’",
+      "original_title": "Queens of the Stone Age Return With ‘Easy Street,’ Announce Tour of Australia and NZ",
       "source": "Billboard",
       "category": "entertainment",
-      "added_at": "2026-07-15T11:56:15.741411+00:00"
+      "added_at": "2026-07-15T11:56:15.741544+00:00"
+    },
+    {
+      "tweet": "Iran is threatening to block all oil routes now that the U.S. is blocking their ports. Just a normal Wednesday.",
+      "original_url": "https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "U.S. and Iran standoff over the Strait of Hormuz intensifies",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-15T11:56:15.741249+00:00"
+    },
+    {
+      "tweet": "Dude, people are actually tracking the average tip percentage in every single state. At this point, we're just paying for the receipt.",
+      "original_url": "https://www.mentalfloss.com/geograpy/maps/every-state-average-tip-percentage?utm_source=RSS",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Every State’s Average Tipping Percentage, Mapped",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-07-15T11:56:15.741237+00:00"
     },
     {
       "tweet": "So basically every app we use is just a webpage in a trench coat. We're really out here downloading entire browsers just to check the weather",
@@ -1034,6 +979,39 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-07-12T03:52:31.525654+00:00"
+    },
+    {
+      "tweet": "Apparently we use Greek mythology words like narcissism every single day without thinking about it. We're just living in the past.",
+      "original_url": "https://www.mentalfloss.com/language/words/everyday-greek-mythology-words?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "10 Greek Mythology Words You Use Every Day",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-07-15T20:00:58.425803+00:00"
+    },
+    {
+      "tweet": "Apparently the best weapon in Black Flag is just kicking people off the ship. We've all been there.",
+      "original_url": "https://www.polygon.com/assassins-creed-black-flag-resynced-best-weapon-spartan-kick/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Assassin’s Creed Black Flag Resynced features the series’ best weapon, and it’s not dual Hidden Blades",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-07-15T11:56:15.742748+00:00"
+    },
+    {
+      "tweet": "Lily Allen is moving her whole tour into smaller theaters after trying to sell arenas. That's a lot of empty seats.",
+      "original_url": "https://www.billboard.com/music/pop/lily-allen-scales-down-west-end-girl-tour-arenas-theaters-1236294482/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Lily Allen Scaling Down Fall 2026 Leg of North American West End Girl Tour From Arenas to Theaters: ‘We’ve Had to Make Some Adjustments’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-07-15T11:56:15.741411+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2218,
+    "total_posted": 2220,
     "total_collected": 10381
   },
-  "last_posted_at": "2026-07-15T20:07:16.682804+00:00"
+  "last_posted_at": "2026-07-15T21:20:15.185494+00:00"
 }
