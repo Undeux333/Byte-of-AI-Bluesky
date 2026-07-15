@@ -2,28 +2,6 @@
   "last_collected": "2026-07-15T17:53:03.437152+00:00",
   "queue": [
     {
-      "tweet": "Hong Kong is literally arresting people for selling books now. Is that really where we're at in 2026?",
-      "original_url": "https://www.npr.org/2026/07/15/g-s1-133697/hong-kong-booksellers-arrested-for-allegedly-selling-seditious-books",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Hong Kong booksellers arrested for allegedly selling seditious books",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-15T17:53:03.436000+00:00"
-    },
-    {
-      "tweet": "Toronto air quality is officially the worst on the planet right now because of those Ontario fires. We're breathing straight smoke.",
-      "original_url": "https://www.theguardian.com/world/2026/jul/15/wildfires-in-ontario-make-toronto-canada-air-quality-worst-in-world",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Wildfires in Ontario make Toronto air quality worst in world",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-15T17:53:03.436651+00:00"
-    },
-    {
       "tweet": "93% of cancer researchers are saying government funding changes are screwing up their work. We're prioritizing the wrong things again.",
       "original_url": "https://www.npr.org/2026/07/15/nx-s1-5893653/cancer-disparities-gaps-research-funding-grant-disruptions",
       "buzz_score": 85,
@@ -123,28 +101,6 @@
       "added_at": "2026-07-15T11:56:15.741237+00:00"
     },
     {
-      "tweet": "Apparently the best weapon in Black Flag is just kicking people off the ship. We've all been there.",
-      "original_url": "https://www.polygon.com/assassins-creed-black-flag-resynced-best-weapon-spartan-kick/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Assassin’s Creed Black Flag Resynced features the series’ best weapon, and it’s not dual Hidden Blades",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-15T11:56:15.742748+00:00"
-    },
-    {
-      "tweet": "Lily Allen is moving her whole tour into smaller theaters after trying to sell arenas. That's a lot of empty seats.",
-      "original_url": "https://www.billboard.com/music/pop/lily-allen-scales-down-west-end-girl-tour-arenas-theaters-1236294482/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Lily Allen Scaling Down Fall 2026 Leg of North American West End Girl Tour From Arenas to Theaters: ‘We’ve Had to Make Some Adjustments’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-15T11:56:15.741411+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -178,15 +134,26 @@
       "added_at": "2026-06-24T11:28:23.259709+00:00"
     },
     {
-      "tweet": "Toyota just brought that V8 supercar to the UK for a run. That thing sounds insane.",
-      "original_url": "https://hypebeast.com/2026/7/toyota-gr-gt-hybrid-v8-supercar-debuts-at-goodwood",
-      "buzz_score": 75,
+      "tweet": "Apparently the best weapon in Black Flag is just kicking people off the ship. We've all been there.",
+      "original_url": "https://www.polygon.com/assassins-creed-black-flag-resynced-best-weapon-spartan-kick/",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Toyota Brings the V8-Powered GR GT Supercar to the UK for First Dynamic Run",
-      "source": "Hypebeast",
+      "original_title": "Assassin’s Creed Black Flag Resynced features the series’ best weapon, and it’s not dual Hidden Blades",
+      "source": "Polygon",
       "category": "entertainment",
-      "added_at": "2026-07-15T11:56:15.742618+00:00"
+      "added_at": "2026-07-15T11:56:15.742748+00:00"
+    },
+    {
+      "tweet": "Lily Allen is moving her whole tour into smaller theaters after trying to sell arenas. That's a lot of empty seats.",
+      "original_url": "https://www.billboard.com/music/pop/lily-allen-scales-down-west-end-girl-tour-arenas-theaters-1236294482/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Lily Allen Scaling Down Fall 2026 Leg of North American West End Girl Tour From Arenas to Theaters: ‘We’ve Had to Make Some Adjustments’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-07-15T11:56:15.741411+00:00"
     },
     {
       "tweet": "France vs Spain for the semi-final is gonna be a movie. Finally get to see Mbappe and Lamine Yamal on the same pitch",
@@ -772,15 +739,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "US and Iran are just trading strikes for the fifth day in a row now. We're just living in a constant state of escalation",
-      "original_url": "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz",
-      "buzz_score": 95,
-      "buzz_score2": 90,
+      "tweet": "Toyota just brought that V8 supercar to the UK for a run. That thing sounds insane.",
+      "original_url": "https://hypebeast.com/2026/7/toyota-gr-gt-hybrid-v8-supercar-debuts-at-goodwood",
+      "buzz_score": 75,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Iran War Live Updates: U.S. and Iran Exchange Strikes for Fifth Straight Day",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-15T15:01:07.033383+00:00"
+      "original_title": "Toyota Brings the V8-Powered GR GT Supercar to the UK for First Dynamic Run",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-07-15T11:56:15.742618+00:00"
     },
     {
       "tweet": "So basically every app we use is just a webpage in a trench coat. We're really out here downloading entire browsers just to check the weather",
@@ -1034,6 +1001,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-07-10T09:53:01.296676+00:00"
+    },
+    {
+      "tweet": "US and Iran are just trading strikes for the fifth day in a row now. We're just living in a constant state of escalation",
+      "original_url": "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iran War Live Updates: U.S. and Iran Exchange Strikes for Fifth Straight Day",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-15T15:01:07.033383+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2214,
+    "total_posted": 2216,
     "total_collected": 10365
   },
-  "last_posted_at": "2026-07-15T18:01:44.619687+00:00"
+  "last_posted_at": "2026-07-15T18:59:59.505695+00:00"
 }
