@@ -2,28 +2,6 @@
   "last_collected": "2026-07-14T23:30:51.426528+00:00",
   "queue": [
     {
-      "tweet": "Travis Scott is getting sued for that whole yacht thing in Miami. Dude never learns.",
-      "original_url": "https://www.billboard.com/pro/travis-scott-lawsuit-drunken-assault-miami-yacht-crew/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Travis Scott Sued for Alleged Drunken Assault on Miami Yacht Crew in 2024",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-14T23:30:51.424795+00:00"
-    },
-    {
-      "tweet": "Apparently a whole town in Brazil has been split for a century over bull mascots. People just love fighting over anything.",
-      "original_url": "https://www.nytimes.com/2026/07/14/world/americas/bull-mascots-red-blue-parintins-brazil.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "A Heated Rivalry Over Bull Mascots Is Dividing a Brazilian Town",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-14T23:30:51.424792+00:00"
-    },
-    {
       "tweet": "The US and Iran are still going at it over the Strait of Hormuz. When does it end.",
       "original_url": "https://www.bbc.co.uk/news/videos/cx2425dmpl3o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -948,17 +926,6 @@
       "added_at": "2026-07-09T10:44:03.573319+00:00"
     },
     {
-      "tweet": "So apparently Cursor has a zero-day and they're just telling everyone. Security is basically a joke now.",
-      "original_url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-14T23:30:51.425342+00:00"
-    },
-    {
       "tweet": "India and Bangladesh are just leaving people stuck at the border over those deportations. Does anyone actually have a plan for this",
       "original_url": "https://www.nytimes.com/2026/07/14/world/asia/india-bangladesh-border-migration.html",
       "buzz_score": 80,
@@ -979,6 +946,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-07-14T05:52:03.214481+00:00"
+    },
+    {
+      "tweet": "So apparently Cursor has a zero-day and they're just telling everyone. Security is basically a joke now.",
+      "original_url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-14T23:30:51.425342+00:00"
     },
     {
       "tweet": "They're making another Conjuring movie for 2027. We’re gonna be watching these until we're eighty.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2194,
+    "total_posted": 2196,
     "total_collected": 10277
   },
-  "last_posted_at": "2026-07-14T23:36:21.489499+00:00"
+  "last_posted_at": "2026-07-15T00:59:00.361588+00:00"
 }
