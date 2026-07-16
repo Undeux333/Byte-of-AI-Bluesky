@@ -2,17 +2,6 @@
   "last_collected": "2026-07-16T19:37:54.479642+00:00",
   "queue": [
     {
-      "tweet": "The UK is cutting aid to some African countries by 90 percent. Pretty loud message to send.",
-      "original_url": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
-      "buzz_score": 78,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-16T17:01:33.302172+00:00"
-    },
-    {
       "tweet": "Trump wants to put a permanent fence around Lafayette Park now. The irony is just loud.",
       "original_url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal",
       "buzz_score": 88,
@@ -57,17 +46,6 @@
       "added_at": "2026-07-16T14:18:10.356406+00:00"
     },
     {
-      "tweet": "Italy's letting mafia families get new identities to quit the life. Sometimes you just gotta start over.",
-      "original_url": "https://www.theguardian.com/world/2026/jul/16/italy-mafia-law-families-break-free-crime-new-identities",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mafia law gives Italian families right to break free from life of crime",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-16T14:18:10.356990+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -90,6 +68,28 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "Italy's letting mafia families get new identities to quit the life. Sometimes you just gotta start over.",
+      "original_url": "https://www.theguardian.com/world/2026/jul/16/italy-mafia-law-families-break-free-crime-new-identities",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Mafia law gives Italian families right to break free from life of crime",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-16T14:18:10.356990+00:00"
+    },
+    {
+      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
+      "buzz_score": 92,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
       "tweet": "Olive Garden brought back that pasta pass for a hundred bucks and it sold out in minutes. We really are desperate for breadsticks.",
       "original_url": "https://kotaku.com/olive-garden-100-unlimited-pasta-pass-sold-out-2000716753",
       "buzz_score": 90,
@@ -110,17 +110,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-07-16T19:37:54.478070+00:00"
-    },
-    {
-      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
-      "buzz_score": 92,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-24T11:28:23.259709+00:00"
     },
     {
       "tweet": "France vs Spain for the semi-final is gonna be a movie. Finally get to see Mbappe and Lamine Yamal on the same pitch",
@@ -970,6 +959,17 @@
       "added_at": "2026-07-12T06:25:13.112822+00:00"
     },
     {
+      "tweet": "Man, I miss the days of just raw dogging LimeWire and praying my computer didn't catch a virus. We really peaked with that.",
+      "original_url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The lost joy of music piracy",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-16T08:31:08.453438+00:00"
+    },
+    {
       "tweet": "PlayStation turned off the comments on that new trailer because everyone was losing it. Imagine being that surprised.",
       "original_url": "https://kotaku.com/playstation-5-6-physical-discs-youtube-comments-social-2000716707",
       "buzz_score": 88,
@@ -990,17 +990,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-07-16T17:01:33.301775+00:00"
-    },
-    {
-      "tweet": "Man, I miss the days of just raw dogging LimeWire and praying my computer didn't catch a virus. We really peaked with that.",
-      "original_url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The lost joy of music piracy",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-16T08:31:08.453438+00:00"
     },
     {
       "tweet": "Did you see JD Vance is calling some random Welsh castle the coolest thing he's ever seen. Okay man.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2244,
+    "total_posted": 2245,
     "total_collected": 10501
   },
-  "last_posted_at": "2026-07-16T19:46:03.674178+00:00"
+  "last_posted_at": "2026-07-16T20:32:22.063070+00:00"
 }
