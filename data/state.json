@@ -2,28 +2,6 @@
   "last_collected": "2026-07-16T10:32:50.421741+00:00",
   "queue": [
     {
-      "tweet": "OnePlus is officially just done with the US and Europe. Guess they finally realized nobody’s actually buying that stuff.",
-      "original_url": "https://www.theverge.com/tech/966404/oneplus-oppo-us-europe-withdrawal-realme",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "OnePlus officially gives up on the US and Europe",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-07-16T10:32:50.420371+00:00"
-    },
-    {
-      "tweet": "Dude, did you see that Blue Angels jet basically buzz that beach in Florida? People were losing their minds. Just pure noise.",
-      "original_url": "https://www.bbc.co.uk/news/videos/cx27ljkngxmo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Moment US Navy jet stuns packed Florida beach with low flypast",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-16T10:32:50.419958+00:00"
-    },
-    {
       "tweet": "So apparently sleep regularity matters more than how many hours you actually log. My sleep schedule is literally a disaster zone.",
       "original_url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
       "buzz_score": 85,
@@ -79,17 +57,6 @@
       "added_at": "2026-07-16T06:02:39.204709+00:00"
     },
     {
-      "tweet": "Brazil is going off on that twenty-five percent tariff the US is dropping next week. Just another Tuesday in global trade.",
-      "original_url": "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Brazil condemns US move to impose 25% tariffs next week",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-16T06:02:39.204191+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -121,6 +88,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Brazil is going off on that twenty-five percent tariff the US is dropping next week. Just another Tuesday in global trade.",
+      "original_url": "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Brazil condemns US move to impose 25% tariffs next week",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-16T06:02:39.204191+00:00"
     },
     {
       "tweet": "France vs Spain for the semi-final is gonna be a movie. Finally get to see Mbappe and Lamine Yamal on the same pitch",
@@ -574,17 +552,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Messi really just knocked England out to hit that final against Spain. Like he didn't even break a sweat. Brutal.",
-      "original_url": "https://www.aljazeera.com/gallery/2026/7/16/photos-messis-argentina-stun-england-to-reach-world-cup-final-vs-spain?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Photos: Messi’s Argentina stun England to reach World Cup final vs Spain",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-16T10:32:50.420119+00:00"
-    },
-    {
       "tweet": "Skenes and the other stars are saying players will never agree to a salary cap in baseball. They're just drawing a line in the sand",
       "original_url": "https://www.espn.com/mlb/story/_/id/49353827/all-stars-oppose-mlb-salary-cap-lot-reach-deal",
       "buzz_score": 88,
@@ -715,17 +682,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "So apparently Grok just went open source. Guess we're finally seeing what's under the hood of that whole thing. Man.",
-      "original_url": "https://github.com/xai-org/grok-build",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Grok Build is open source",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-16T03:32:46.929161+00:00"
     },
     {
       "tweet": "Dude, people are actually running Gemma 26B on a 13-year-old Xeon chip. My laptop can't even handle a Chrome tab, man.",
@@ -981,6 +937,50 @@
       "added_at": "2026-07-12T03:52:31.525654+00:00"
     },
     {
+      "tweet": "Messi really just knocked England out to hit that final against Spain. Like he didn't even break a sweat. Brutal.",
+      "original_url": "https://www.aljazeera.com/gallery/2026/7/16/photos-messis-argentina-stun-england-to-reach-world-cup-final-vs-spain?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Photos: Messi’s Argentina stun England to reach World Cup final vs Spain",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-16T10:32:50.420119+00:00"
+    },
+    {
+      "tweet": "Man, a fourteen-year-old got arrested for a plot against mosques in London. What are kids doing these days.",
+      "original_url": "https://www.aljazeera.com/news/2026/7/15/fourteen-year-old-boy-charged-over-alleged-plot-targeting-london-mosques?traffic_source=rss",
+      "buzz_score": 90,
+      "buzz_score2": 94,
+      "rewrite_count": 0,
+      "original_title": "Fourteen-year-old boy charged over alleged plot targeting London mosques",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-15T20:00:58.425298+00:00"
+    },
+    {
+      "tweet": "People are losing their minds over GTA 6 clues in some random GTA Online paintings. We just need the game to drop already.",
+      "original_url": "https://kotaku.com/gta-onlines-big-update-added-new-paintings-and-yup-fans-think-they-are-filled-with-gta-6-clues-2000716305",
+      "buzz_score": 82,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "GTA Online’s Big Update Added New Paintings And Yup, Fans Think They Are Filled With GTA 6 Clues",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-15T20:00:58.425611+00:00"
+    },
+    {
+      "tweet": "So apparently Grok just went open source. Guess we're finally seeing what's under the hood of that whole thing. Man.",
+      "original_url": "https://github.com/xai-org/grok-build",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Grok Build is open source",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-16T03:32:46.929161+00:00"
+    },
+    {
       "tweet": "Zelensky just fired his defense minister and now the streets are filled with protests. Things are getting real messy over there.",
       "original_url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -1012,28 +1012,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-07-16T10:32:50.419964+00:00"
-    },
-    {
-      "tweet": "Man, a fourteen-year-old got arrested for a plot against mosques in London. What are kids doing these days.",
-      "original_url": "https://www.aljazeera.com/news/2026/7/15/fourteen-year-old-boy-charged-over-alleged-plot-targeting-london-mosques?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 94,
-      "rewrite_count": 0,
-      "original_title": "Fourteen-year-old boy charged over alleged plot targeting London mosques",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-15T20:00:58.425298+00:00"
-    },
-    {
-      "tweet": "People are losing their minds over GTA 6 clues in some random GTA Online paintings. We just need the game to drop already.",
-      "original_url": "https://kotaku.com/gta-onlines-big-update-added-new-paintings-and-yup-fans-think-they-are-filled-with-gta-6-clues-2000716305",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "GTA Online’s Big Update Added New Paintings And Yup, Fans Think They Are Filled With GTA 6 Clues",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-15T20:00:58.425611+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2234,
+    "total_posted": 2236,
     "total_collected": 10453
   },
-  "last_posted_at": "2026-07-16T10:42:42.564567+00:00"
+  "last_posted_at": "2026-07-16T12:16:47.570002+00:00"
 }
