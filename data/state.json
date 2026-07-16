@@ -2,28 +2,6 @@
   "last_collected": "2026-07-15T22:11:42.332266+00:00",
   "queue": [
     {
-      "tweet": "Dude, some guy on the internet spent months breaking down every single computer screen in Jurassic Park. We really have nothing better to do than obsess over fake tech",
-      "original_url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Jurassic Park computers in excruciating detail",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-15T22:11:42.331070+00:00"
-    },
-    {
-      "tweet": "Nvidia is shouting out Sega for a five million dollar investment that saved them back in the day. It’s wild how one check changes everything",
-      "original_url": "https://kotaku.com/nvidia-thanks-sega-for-5-million-investment-that-saved-it-as-it-now-unleashes-ramageddon-on-the-gaming-industry-2000716308",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Nvidia Thanks Sega For $5 Million Investment That Saved It As It Now Unleashes RAMageddon On The Gaming Industry",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-15T22:11:42.331397+00:00"
-    },
-    {
       "tweet": "Dude, people are actually running Gemma 26B on a 13-year-old Xeon chip. My laptop can't even handle a Chrome tab, man.",
       "original_url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
       "buzz_score": 85,
@@ -90,28 +68,6 @@
       "added_at": "2026-07-15T17:53:03.435986+00:00"
     },
     {
-      "tweet": "They’re finally changing camera angles for female athletics so they’re actually watching the sport. About time.",
-      "original_url": "https://www.bbc.co.uk/sport/athletics/articles/cvgj55npzdzo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "New camera guidelines for female athletics coverage",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-15T17:53:03.436280+00:00"
-    },
-    {
-      "tweet": "French MPs finally signed off on that assisted dying law. Took them long enough to actually agree on something that basic.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "French MPs approve assisted dying law with strict rules after years of argument",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-15T17:53:03.435996+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -134,26 +90,26 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Criterion is putting out a physical copy of that Frankenstein movie. My wallet is gonna hate me.",
-      "original_url": "https://www.polygon.com/guillermo-del-toro-frankenstein-criterion-release-netflix/",
-      "buzz_score": 75,
-      "buzz_score2": 94,
-      "rewrite_count": 0,
-      "original_title": "Netflix's Frankenstein gets physical deluxe edition from Criterion",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-15T20:00:58.425901+00:00"
-    },
-    {
-      "tweet": "Soren Waerenskjold just pulled off the fastest stage win in Tour de France history. The guy literally just sent it.",
-      "original_url": "https://www.bbc.co.uk/sport/cycling/articles/c78y88pndeqo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
+      "tweet": "They’re finally changing camera angles for female athletics so they’re actually watching the sport. About time.",
+      "original_url": "https://www.bbc.co.uk/sport/athletics/articles/cvgj55npzdzo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Waerenskjold takes maiden Tour win in fastest stage",
+      "original_title": "New camera guidelines for female athletics coverage",
       "source": "BBC Sport",
       "category": "sports",
-      "added_at": "2026-07-15T17:53:03.436404+00:00"
+      "added_at": "2026-07-15T17:53:03.436280+00:00"
+    },
+    {
+      "tweet": "French MPs finally signed off on that assisted dying law. Took them long enough to actually agree on something that basic.",
+      "original_url": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "French MPs approve assisted dying law with strict rules after years of argument",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-15T17:53:03.435996+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -165,6 +121,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Criterion is putting out a physical copy of that Frankenstein movie. My wallet is gonna hate me.",
+      "original_url": "https://www.polygon.com/guillermo-del-toro-frankenstein-criterion-release-netflix/",
+      "buzz_score": 75,
+      "buzz_score2": 94,
+      "rewrite_count": 0,
+      "original_title": "Netflix's Frankenstein gets physical deluxe edition from Criterion",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-07-15T20:00:58.425901+00:00"
     },
     {
       "tweet": "France vs Spain for the semi-final is gonna be a movie. Finally get to see Mbappe and Lamine Yamal on the same pitch",
@@ -618,6 +585,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Soren Waerenskjold just pulled off the fastest stage win in Tour de France history. The guy literally just sent it.",
+      "original_url": "https://www.bbc.co.uk/sport/cycling/articles/c78y88pndeqo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Waerenskjold takes maiden Tour win in fastest stage",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-15T17:53:03.436404+00:00"
+    },
+    {
       "tweet": "Skenes and the other stars are saying players will never agree to a salary cap in baseball. They're just drawing a line in the sand",
       "original_url": "https://www.espn.com/mlb/story/_/id/49353827/all-stars-oppose-mlb-salary-cap-lot-reach-deal",
       "buzz_score": 88,
@@ -748,28 +726,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Twitter is 20 years old today and it’s just a ghost of itself. We’re still all stuck on this app though",
-      "original_url": "https://www.aljazeera.com/news/2026/7/15/my-twitter-not-x?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "My Twitter, not X",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-15T15:01:07.034056+00:00"
-    },
-    {
-      "tweet": "So apparently the rest of Latin America is actually rooting against Argentina in the World Cup. Talk about bad vibes.",
-      "original_url": "https://www.nytimes.com/2026/07/15/world/americas/argentina-world-cup-semifinals.html",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "As Argentina Tries to Win the World Cup, the Rest of Latin America Cheers Against It",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-15T20:00:58.425170+00:00"
     },
     {
       "tweet": "Queens of the Stone Age dropped a new song and announced a tour. Finally.",
@@ -990,6 +946,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-07-12T03:52:31.525654+00:00"
+    },
+    {
+      "tweet": "Twitter is 20 years old today and it’s just a ghost of itself. We’re still all stuck on this app though",
+      "original_url": "https://www.aljazeera.com/news/2026/7/15/my-twitter-not-x?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "My Twitter, not X",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-15T15:01:07.034056+00:00"
+    },
+    {
+      "tweet": "So apparently the rest of Latin America is actually rooting against Argentina in the World Cup. Talk about bad vibes.",
+      "original_url": "https://www.nytimes.com/2026/07/15/world/americas/argentina-world-cup-semifinals.html",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "As Argentina Tries to Win the World Cup, the Rest of Latin America Cheers Against It",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-15T20:00:58.425170+00:00"
     },
     {
       "tweet": "Another eight drops this week on Hypebeast. My closet is honestly just full of stuff I never wear.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2224,
+    "total_posted": 2226,
     "total_collected": 10397
   },
-  "last_posted_at": "2026-07-15T23:20:21.456525+00:00"
+  "last_posted_at": "2026-07-16T00:14:58.636412+00:00"
 }
