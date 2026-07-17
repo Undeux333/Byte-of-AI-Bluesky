@@ -2,17 +2,6 @@
   "last_collected": "2026-07-17T22:21:30.382299+00:00",
   "queue": [
     {
-      "tweet": "Saw this map of the most popular candy in every state. It’s wild how we all think our state has superior taste until you look at the data. Just pure nostalgia, man.",
-      "original_url": "https://www.mentalfloss.com/geography/maps/most-popular-candy-by-state-map?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Most Popular Candy in Every State, Mapped",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-17T22:21:30.381352+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -497,28 +486,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "So the CDC just linked Taco Bell lettuce to a massive outbreak. Why is it always the lettuce?",
-      "original_url": "https://www.theguardian.com/us-news/2026/jul/17/cyclospora-lettuce-taco-bell",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "CDC and FDA link lettuce at Taco Bell in five states to cyclospora outbreak",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-17T22:21:30.381794+00:00"
-    },
-    {
-      "tweet": "US hitting civilian infrastructure now while expanding strikes against Iran. We're just casual about bridges and energy facilities these days",
-      "original_url": "https://www.theguardian.com/world/2026/jul/17/us-marines-board-ship-gulf-oman-expanded-airstrikes-iran",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US hits civilian infrastructure as it expands strikes against Iran",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-17T19:44:08.971304+00:00"
-    },
-    {
       "tweet": "Trump wants to put a permanent fence around Lafayette Park now. The irony is just loud.",
       "original_url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal",
       "buzz_score": 88,
@@ -660,6 +627,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "So the CDC just linked Taco Bell lettuce to a massive outbreak. Why is it always the lettuce?",
+      "original_url": "https://www.theguardian.com/us-news/2026/jul/17/cyclospora-lettuce-taco-bell",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "CDC and FDA link lettuce at Taco Bell in five states to cyclospora outbreak",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-17T22:21:30.381794+00:00"
+    },
+    {
+      "tweet": "US hitting civilian infrastructure now while expanding strikes against Iran. We're just casual about bridges and energy facilities these days",
+      "original_url": "https://www.theguardian.com/world/2026/jul/17/us-marines-board-ship-gulf-oman-expanded-airstrikes-iran",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US hits civilian infrastructure as it expands strikes against Iran",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-17T19:44:08.971304+00:00"
     },
     {
       "tweet": "So apparently Trump Media is selling premium, instant access to posts for Wall Street traders now. Like we’re just turning the news into a high-frequency trading bot. Whatever.",
@@ -992,28 +981,6 @@
       "added_at": "2026-07-17T19:44:08.971023+00:00"
     },
     {
-      "tweet": "They built a record-breaking LEGO Technic car for Goodwood. Actually insane.",
-      "original_url": "https://hypebeast.com/2026/7/lego-technic-koenigsegg-sadairs-spear-goodwood-come-with-me-video",
-      "buzz_score": 75,
-      "buzz_score2": 94,
-      "rewrite_count": 0,
-      "original_title": "A Race to the Top of Goodwood with LEGO Technic’s Record-Breaking Ultimate Car Concept",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-07-17T14:44:31.009216+00:00"
-    },
-    {
-      "tweet": "They finally confirmed Fallout 5 is actually happening. How are we supposed to wait that long?",
-      "original_url": "https://www.polygon.com/fallout-5-announcement-release-date-engine-bethesda-new-vegas-tes6-update/",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Fallout 5 development confirmed by Bethesda, but it's not all good news",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-17T14:44:31.008199+00:00"
-    },
-    {
       "tweet": "So we're just hitting civilian infrastructure in Iran now? What's the plan here?",
       "original_url": "https://www.aljazeera.com/news/2026/7/17/why-is-the-us-attacking-southern-irans-civilian-infrastructure?traffic_source=rss",
       "buzz_score": 75,
@@ -1034,6 +1001,28 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-07-17T11:52:15.851293+00:00"
+    },
+    {
+      "tweet": "They built a record-breaking LEGO Technic car for Goodwood. Actually insane.",
+      "original_url": "https://hypebeast.com/2026/7/lego-technic-koenigsegg-sadairs-spear-goodwood-come-with-me-video",
+      "buzz_score": 75,
+      "buzz_score2": 94,
+      "rewrite_count": 0,
+      "original_title": "A Race to the Top of Goodwood with LEGO Technic’s Record-Breaking Ultimate Car Concept",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-07-17T14:44:31.009216+00:00"
+    },
+    {
+      "tweet": "They finally confirmed Fallout 5 is actually happening. How are we supposed to wait that long?",
+      "original_url": "https://www.polygon.com/fallout-5-announcement-release-date-engine-bethesda-new-vegas-tes6-update/",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Fallout 5 development confirmed by Bethesda, but it's not all good news",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-07-17T14:44:31.008199+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2274,
+    "total_posted": 2275,
     "total_collected": 10650
   },
-  "last_posted_at": "2026-07-17T22:28:59.234939+00:00"
+  "last_posted_at": "2026-07-17T23:13:19.893598+00:00"
 }
