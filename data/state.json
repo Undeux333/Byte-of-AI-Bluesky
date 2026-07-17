@@ -2,28 +2,6 @@
   "last_collected": "2026-07-17T17:22:05.812993+00:00",
   "queue": [
     {
-      "tweet": "Fans are losing their minds waiting for a Zelda: Ocarina of Time remake. We’re all just chasing that same childhood high.",
-      "original_url": "https://kotaku.com/fans-are-desperate-for-a-zelda-ocarina-of-time-remake-nintendo-direct-as-price-and-pre-order-rumors-swirl-2000717069",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fans Are Desperate For A Zelda: Ocarina Of Time Remake Nintendo Direct As Price And Pre-Order Rumors Swirl",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-17T17:22:05.811607+00:00"
-    },
-    {
-      "tweet": "Did you see that Taco Bell is dealing with a cyclospora outbreak now? Eating lunch is basically Russian roulette at this point.",
-      "original_url": "https://www.npr.org/2026/07/17/nx-s1-5897509/lettuce-taco-bell-mexico-cyclospora-outbreak",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Iceberg lettuce at Taco Bell linked to cyclospora outbreak in 5 states",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-17T17:22:05.811430+00:00"
-    },
-    {
       "tweet": "So apparently Apple is back on top with a 4.88 trillion valuation. Money really is just fake at this point.",
       "original_url": "https://www.aljazeera.com/economy/2026/7/17/apple-regains-top-spot-as-worlds-most-valuable-company?traffic_source=rss",
       "buzz_score": 80,
@@ -79,6 +57,28 @@
       "added_at": "2026-07-17T14:44:31.008568+00:00"
     },
     {
+      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
+      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-02T15:05:13.740925+00:00"
+    },
+    {
+      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
+      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US court limits mail-order access to abortion pill mifepristone",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
       "tweet": "Persona 3's social stats really changed how we play everything now. We're all just managing our virtual schedules at this point.",
       "original_url": "https://www.polygon.com/persona-3-atlus-20th-anniversary/",
       "buzz_score": 80,
@@ -123,83 +123,6 @@
       "added_at": "2026-07-17T14:44:31.009216+00:00"
     },
     {
-      "tweet": "They finally confirmed Fallout 5 is actually happening. How are we supposed to wait that long?",
-      "original_url": "https://www.polygon.com/fallout-5-announcement-release-date-engine-bethesda-new-vegas-tes6-update/",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Fallout 5 development confirmed by Bethesda, but it's not all good news",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-17T14:44:31.008199+00:00"
-    },
-    {
-      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
-      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-02T15:05:13.740925+00:00"
-    },
-    {
-      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
-      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US court limits mail-order access to abortion pill mifepristone",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "So we're just hitting civilian infrastructure in Iran now? What's the plan here?",
-      "original_url": "https://www.aljazeera.com/news/2026/7/17/why-is-the-us-attacking-southern-irans-civilian-infrastructure?traffic_source=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why is the US attacking southern Iran’s civilian infrastructure?",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-17T11:52:15.851572+00:00"
-    },
-    {
-      "tweet": "That sci-fi flick with Scarlett Johansson is finally free to stream. Pretty wild watch.",
-      "original_url": "https://www.polygon.com/scarlett-johansson-under-the-skin-free-on-tubi/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Scarlett Johansson sci-fi thriller that's better than Lucy is officially free on streaming",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-17T11:52:15.851293+00:00"
-    },
-    {
-      "tweet": "People are actually flying to London just to catch that Nolan movie at midnight. We all have that one thing.",
-      "original_url": "https://www.theguardian.com/film/2026/jul/17/the-odyssey-bfi-imax-christopher-nolan-fans-london",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘I don’t play around’: Nolan fans fly into London to see The Odyssey at BFI Imax",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-17T11:52:15.851104+00:00"
-    },
-    {
-      "tweet": "Man, that bodycam footage from the Texas floods is intense. Those rescuers don't mess around.",
-      "original_url": "https://www.bbc.co.uk/news/videos/c36d1n6g3x9o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Bodycam footage shows airlift of girl stranded by Texas floods",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-17T11:52:15.850791+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -211,15 +134,15 @@
       "added_at": "2026-06-24T11:28:23.259709+00:00"
     },
     {
-      "tweet": "So apparently Trump Media is selling premium, instant access to posts for Wall Street traders now. Like we’re just turning the news into a high-frequency trading bot. Whatever.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
+      "tweet": "They finally confirmed Fallout 5 is actually happening. How are we supposed to wait that long?",
+      "original_url": "https://www.polygon.com/fallout-5-announcement-release-date-engine-bethesda-new-vegas-tes6-update/",
+      "buzz_score": 88,
+      "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "Trump Media to sell instant access to 'market-moving' social posts",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-17T08:54:38.701261+00:00"
+      "original_title": "Fallout 5 development confirmed by Bethesda, but it's not all good news",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-07-17T14:44:31.008199+00:00"
     },
     {
       "tweet": "France vs Spain for the semi-final is gonna be a movie. Finally get to see Mbappe and Lamine Yamal on the same pitch",
@@ -816,26 +739,59 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "So Andy Burnham is gonna be the new PM in Britain. Man, good luck to him.",
-      "original_url": "https://www.nytimes.com/live/2026/07/17/world/uk-burnham-starmer-labour",
-      "buzz_score": 78,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Andy Burnham Becomes Labour Leader and Is Set to Be Britain’s Prime Minister",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-17T14:44:31.008672+00:00"
-    },
-    {
-      "tweet": "So apparently Trump is showing up to hand out World Cup rings to the winners. Imagine getting your trophy from that guy. Surreal.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cgmk7mnnyjeo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
+      "tweet": "So we're just hitting civilian infrastructure in Iran now? What's the plan here?",
+      "original_url": "https://www.aljazeera.com/news/2026/7/17/why-is-the-us-attacking-southern-irans-civilian-infrastructure?traffic_source=rss",
+      "buzz_score": 75,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "World Cup rings for winners as Trump attendance confirmed",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-17T08:54:38.701542+00:00"
+      "original_title": "Why is the US attacking southern Iran’s civilian infrastructure?",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-17T11:52:15.851572+00:00"
+    },
+    {
+      "tweet": "That sci-fi flick with Scarlett Johansson is finally free to stream. Pretty wild watch.",
+      "original_url": "https://www.polygon.com/scarlett-johansson-under-the-skin-free-on-tubi/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Scarlett Johansson sci-fi thriller that's better than Lucy is officially free on streaming",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-07-17T11:52:15.851293+00:00"
+    },
+    {
+      "tweet": "People are actually flying to London just to catch that Nolan movie at midnight. We all have that one thing.",
+      "original_url": "https://www.theguardian.com/film/2026/jul/17/the-odyssey-bfi-imax-christopher-nolan-fans-london",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "‘I don’t play around’: Nolan fans fly into London to see The Odyssey at BFI Imax",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-17T11:52:15.851104+00:00"
+    },
+    {
+      "tweet": "Man, that bodycam footage from the Texas floods is intense. Those rescuers don't mess around.",
+      "original_url": "https://www.bbc.co.uk/news/videos/c36d1n6g3x9o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Bodycam footage shows airlift of girl stranded by Texas floods",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-17T11:52:15.850791+00:00"
+    },
+    {
+      "tweet": "So apparently Trump Media is selling premium, instant access to posts for Wall Street traders now. Like we’re just turning the news into a high-frequency trading bot. Whatever.",
+      "original_url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Trump Media to sell instant access to 'market-moving' social posts",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-17T08:54:38.701261+00:00"
     },
     {
       "tweet": "Man, I kinda miss the days of Limewire and sketchy torrents. We really traded that thrill for a monthly subscription and an algorithm.",
@@ -1034,6 +990,28 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-07-13T12:29:35.753007+00:00"
+    },
+    {
+      "tweet": "So Andy Burnham is gonna be the new PM in Britain. Man, good luck to him.",
+      "original_url": "https://www.nytimes.com/live/2026/07/17/world/uk-burnham-starmer-labour",
+      "buzz_score": 78,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Andy Burnham Becomes Labour Leader and Is Set to Be Britain’s Prime Minister",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-17T14:44:31.008672+00:00"
+    },
+    {
+      "tweet": "So apparently Trump is showing up to hand out World Cup rings to the winners. Imagine getting your trophy from that guy. Surreal.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cgmk7mnnyjeo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "World Cup rings for winners as Trump attendance confirmed",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-17T08:54:38.701542+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2266,
+    "total_posted": 2268,
     "total_collected": 10623
   },
-  "last_posted_at": "2026-07-17T17:30:45.279404+00:00"
+  "last_posted_at": "2026-07-17T18:39:13.759394+00:00"
 }
