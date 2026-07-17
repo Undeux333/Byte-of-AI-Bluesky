@@ -2,17 +2,6 @@
   "last_collected": "2026-07-17T11:52:15.851958+00:00",
   "queue": [
     {
-      "tweet": "Hold on, we're hitting bridges and ports in Iran now? Is that how we're doing things these days?",
-      "original_url": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Iran War Live Updates: U.S. Hits Bridges and a Port in Country’s South, Iranian Media says",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-17T11:52:15.850795+00:00"
-    },
-    {
       "tweet": "Persona 3's social stats really changed how we play everything now. We're all just managing our virtual schedules at this point.",
       "original_url": "https://www.polygon.com/persona-3-atlus-20th-anniversary/",
       "buzz_score": 80,
@@ -112,17 +101,6 @@
       "added_at": "2026-07-17T08:54:38.701542+00:00"
     },
     {
-      "tweet": "That BrewDog founder is out here personally emailing ex-investors for a buy-back bid. How's this guy even got my details?",
-      "original_url": "https://www.theguardian.com/business/2026/jul/17/brewdog-founder-james-watt-faces-data-privacy-complaints-over-emails-to-equity-punks",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘How’s this joker got my details?’: BrewDog founder faces complaints over emails to ‘equity punks’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-17T06:34:02.626225+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -143,6 +121,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "That BrewDog founder is out here personally emailing ex-investors for a buy-back bid. How's this guy even got my details?",
+      "original_url": "https://www.theguardian.com/business/2026/jul/17/brewdog-founder-james-watt-faces-data-privacy-complaints-over-emails-to-equity-punks",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "‘How’s this joker got my details?’: BrewDog founder faces complaints over emails to ‘equity punks’",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-17T06:34:02.626225+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2259,
+    "total_posted": 2260,
     "total_collected": 10591
   },
-  "last_posted_at": "2026-07-17T11:58:20.461052+00:00"
+  "last_posted_at": "2026-07-17T12:59:47.226061+00:00"
 }
