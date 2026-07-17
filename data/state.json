@@ -2,28 +2,6 @@
   "last_collected": "2026-07-17T08:54:38.702525+00:00",
   "queue": [
     {
-      "tweet": "Did you see that AI video China put out about the Philippines? Man, we're really letting state media get into shitposting now. Weird.",
-      "original_url": "https://www.nytimes.com/2026/07/17/world/asia/philippines-ai-video-china-racist.html",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Philippines Condemns AI Video Posted by Chinese State Media Depicting It as a Monkey",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-17T08:54:38.701270+00:00"
-    },
-    {
-      "tweet": "Apple’s making Siri a standalone app in the new iOS beta. We’re all just gonna be talking to our phones even more now, huh.",
-      "original_url": "https://hypebeast.com/2026/7/ios-27-public-beta-debuts-standalone-siri-app",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Apple iOS 27 Public Beta Debuts Standalone Siri App",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-07-17T08:54:38.702163+00:00"
-    },
-    {
       "tweet": "So apparently Trump Media is selling premium, instant access to posts for Wall Street traders now. Like we’re just turning the news into a high-frequency trading bot. Whatever.",
       "original_url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -77,17 +55,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Man, I kinda miss the days of Limewire and sketchy torrents. We really traded that thrill for a monthly subscription and an algorithm.",
-      "original_url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The lost joy of music piracy",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-17T01:09:45.777614+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -695,6 +662,17 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
+      "tweet": "Man, I kinda miss the days of Limewire and sketchy torrents. We really traded that thrill for a monthly subscription and an algorithm.",
+      "original_url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The lost joy of music piracy",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-17T01:09:45.777614+00:00"
+    },
+    {
       "tweet": "Dude, SpaceX stock just fell below the IPO price. All that hype, gone. Wild.",
       "original_url": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
       "buzz_score": 85,
@@ -970,17 +948,6 @@
       "added_at": "2026-07-12T06:25:13.112822+00:00"
     },
     {
-      "tweet": "Did you see people are actually turning on VAR during the World Cup? We spent years begging for the tech and now it’s just killing the vibe. At what point do we just let them play?",
-      "original_url": "https://www.npr.org/2026/07/17/nx-s1-5896544/2026-world-cup-fifa-var-video-assitant-referee",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "At the World Cup, has 'VAR' gone too far? Some fans say it's ruining the tournament",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-17T08:54:38.701267+00:00"
-    },
-    {
       "tweet": "Italy's letting mafia families get new identities to quit the life. Sometimes you just gotta start over.",
       "original_url": "https://www.theguardian.com/world/2026/jul/16/italy-mafia-law-families-break-free-crime-new-identities",
       "buzz_score": 80,
@@ -1001,6 +968,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-07-16T08:31:08.453438+00:00"
+    },
+    {
+      "tweet": "Did you see people are actually turning on VAR during the World Cup? We spent years begging for the tech and now it’s just killing the vibe. At what point do we just let them play?",
+      "original_url": "https://www.npr.org/2026/07/17/nx-s1-5896544/2026-world-cup-fifa-var-video-assitant-referee",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "At the World Cup, has 'VAR' gone too far? Some fans say it's ruining the tournament",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-17T08:54:38.701267+00:00"
     },
     {
       "tweet": "Europe’s getting hit with massive storms and heatwaves right now. Feels like we’re just waiting for the weather to decide what it’s doing next.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2255,
+    "total_posted": 2257,
     "total_collected": 10575
   },
-  "last_posted_at": "2026-07-17T08:59:56.684999+00:00"
+  "last_posted_at": "2026-07-17T10:33:54.855967+00:00"
 }
