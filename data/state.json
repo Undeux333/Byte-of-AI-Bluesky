@@ -2,17 +2,6 @@
   "last_collected": "2026-07-17T19:44:08.972528+00:00",
   "queue": [
     {
-      "tweet": "US hitting civilian infrastructure now while expanding strikes against Iran. We're just casual about bridges and energy facilities these days",
-      "original_url": "https://www.theguardian.com/world/2026/jul/17/us-marines-board-ship-gulf-oman-expanded-airstrikes-iran",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US hits civilian infrastructure as it expands strikes against Iran",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-17T19:44:08.971304+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -35,6 +24,17 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "US hitting civilian infrastructure now while expanding strikes against Iran. We're just casual about bridges and energy facilities these days",
+      "original_url": "https://www.theguardian.com/world/2026/jul/17/us-marines-board-ship-gulf-oman-expanded-airstrikes-iran",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US hits civilian infrastructure as it expands strikes against Iran",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-17T19:44:08.971304+00:00"
+    },
+    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -44,28 +44,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "There’s this thing called Decoy Font that hides your actual text so AI can’t scrape it. We're all just tired of being tracked, man.",
-      "original_url": "https://www.mixfont.com/experiments/decoy-font",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Decoy Font",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-17T14:44:31.008784+00:00"
-    },
-    {
-      "tweet": "MSG is suing Wired because of that article about their surveillance list. Like that’s gonna make people forget it happened.",
-      "original_url": "https://www.billboard.com/pro/msg-sues-wired-for-defamation-over-article/",
-      "buzz_score": 82,
-      "buzz_score2": 94,
-      "rewrite_count": 0,
-      "original_title": "MSG Sues Wired for Defamation Over Article About Gay Celeb Surveillance List: ‘Shockingly Unethical’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-17T14:44:31.008568+00:00"
     },
     {
       "tweet": "France vs Spain for the semi-final is gonna be a movie. Finally get to see Mbappe and Lamine Yamal on the same pitch",
@@ -519,6 +497,28 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "There’s this thing called Decoy Font that hides your actual text so AI can’t scrape it. We're all just tired of being tracked, man.",
+      "original_url": "https://www.mixfont.com/experiments/decoy-font",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Decoy Font",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-17T14:44:31.008784+00:00"
+    },
+    {
+      "tweet": "MSG is suing Wired because of that article about their surveillance list. Like that’s gonna make people forget it happened.",
+      "original_url": "https://www.billboard.com/pro/msg-sues-wired-for-defamation-over-article/",
+      "buzz_score": 82,
+      "buzz_score2": 94,
+      "rewrite_count": 0,
+      "original_title": "MSG Sues Wired for Defamation Over Article About Gay Celeb Surveillance List: ‘Shockingly Unethical’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-07-17T14:44:31.008568+00:00"
+    },
+    {
       "tweet": "Trump wants to put a permanent fence around Lafayette Park now. The irony is just loud.",
       "original_url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal",
       "buzz_score": 88,
@@ -660,17 +660,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "So apparently Seattle has a new cryptid that’s just a massive raccoon named Jimothy. Absolute legend",
-      "original_url": "https://kotaku.com/seattles-newest-cryptid-is-actually-just-a-very-round-raccoon-named-jimothy-2000717201",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Seattle’s Newest Cryptid Is Actually Just A Very Round Raccoon Named Jimothy",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-17T19:44:08.971023+00:00"
     },
     {
       "tweet": "So apparently Trump Media is selling premium, instant access to posts for Wall Street traders now. Like we’re just turning the news into a high-frequency trading bot. Whatever.",
@@ -880,6 +869,17 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-07-13T12:29:35.753007+00:00"
+    },
+    {
+      "tweet": "So apparently Seattle has a new cryptid that’s just a massive raccoon named Jimothy. Absolute legend",
+      "original_url": "https://kotaku.com/seattles-newest-cryptid-is-actually-just-a-very-round-raccoon-named-jimothy-2000717201",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Seattle’s Newest Cryptid Is Actually Just A Very Round Raccoon Named Jimothy",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-17T19:44:08.971023+00:00"
     },
     {
       "tweet": "Persona 3's social stats really changed how we play everything now. We're all just managing our virtual schedules at this point.",
