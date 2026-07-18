@@ -2,28 +2,6 @@
   "last_collected": "2026-07-18T16:08:38.323272+00:00",
   "queue": [
     {
-      "tweet": "Man, saw that graph of what AI did to Stack Overflow. Turns out we just stopped helping each other entirely. Wild.",
-      "original_url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "What AI did to stackoverflow in a graph",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-18T16:08:38.321221+00:00"
-    },
-    {
-      "tweet": "The whole country is basically a fireplace right now and they're still acting like the World Cup final is happening on Sunday.",
-      "original_url": "https://www.theguardian.com/world/2026/jul/18/air-quality-warnings-canada-wildfires",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Air quality warnings remain in place across US as wildfire smoke continues to swathe country",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-18T16:08:38.321918+00:00"
-    },
-    {
       "tweet": "Dude, LG is out here just straight up installing software on PCs through Windows Update without asking. Like, why are we even allowing that to happen.",
       "original_url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
       "buzz_score": 85,
@@ -585,17 +563,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Venezuela's death toll from that quake just passed five thousand. Brutal.",
-      "original_url": "https://www.aljazeera.com/news/2026/7/18/venezuela-quake-death-toll-tops-5000-as-imf-releases-emergency-aid?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Venezuela quake death toll tops 5,000 as IMF releases emergency aid",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-18T16:08:38.322971+00:00"
-    },
-    {
       "tweet": "Trump wants to put a permanent fence around Lafayette Park now. The irony is just loud.",
       "original_url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal",
       "buzz_score": 88,
@@ -739,15 +706,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "So apparently we're doing regressive JPEGs now, like we actually needed files to get worse over time. That's just efficiency in reverse",
-      "original_url": "https://maurycyz.com/projects/bad_jpeg/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
+      "tweet": "Venezuela's death toll from that quake just passed five thousand. Brutal.",
+      "original_url": "https://www.aljazeera.com/news/2026/7/18/venezuela-quake-death-toll-tops-5000-as-imf-releases-emergency-aid?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Regressive JPEGs",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-18T09:07:01.895814+00:00"
+      "original_title": "Venezuela quake death toll tops 5,000 as IMF releases emergency aid",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-18T16:08:38.322971+00:00"
     },
     {
       "tweet": "So apparently Trump Media is selling premium, instant access to posts for Wall Street traders now. Like we’re just turning the news into a high-frequency trading bot. Whatever.",
@@ -959,6 +926,17 @@
       "added_at": "2026-07-13T12:29:35.753007+00:00"
     },
     {
+      "tweet": "So apparently we're doing regressive JPEGs now, like we actually needed files to get worse over time. That's just efficiency in reverse",
+      "original_url": "https://maurycyz.com/projects/bad_jpeg/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Regressive JPEGs",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-18T09:07:01.895814+00:00"
+    },
+    {
       "tweet": "Iran is hitting targets in Kuwait now. Smoke is everywhere.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/plumes-of-smoke-rise-over-kuwait-after-repeated-iranian-attacks?traffic_source=rss",
       "buzz_score": 80,
@@ -979,17 +957,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-07-18T16:08:38.321512+00:00"
-    },
-    {
-      "tweet": "Iran is saying the U.S. is hitting their critical infrastructure now. Feels like we’re just skating on thin ice at this point.",
-      "original_url": "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran accuses US of striking critical infrastructure as war intensifies",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-18T14:06:02.024885+00:00"
     },
     {
       "tweet": "Persona 3's social stats really changed how we play everything now. We're all just managing our virtual schedules at this point.",
@@ -1034,6 +1001,17 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-07-17T08:54:38.701542+00:00"
+    },
+    {
+      "tweet": "Iran is saying the U.S. is hitting their critical infrastructure now. Feels like we’re just skating on thin ice at this point.",
+      "original_url": "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iran accuses US of striking critical infrastructure as war intensifies",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-18T14:06:02.024885+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2290,
+    "total_posted": 2292,
     "total_collected": 10740
   },
-  "last_posted_at": "2026-07-18T16:16:57.122284+00:00"
+  "last_posted_at": "2026-07-18T17:17:59.254340+00:00"
 }
