@@ -57,28 +57,6 @@
       "added_at": "2026-07-18T14:06:02.023672+00:00"
     },
     {
-      "tweet": "Another day, another AI thing called Kimi K3 dropping. I can’t even keep track of what’s actually new anymore.",
-      "original_url": "https://www.kimi.com/blog/kimi-k3",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Kimi K3: Open Frontier Intelligence",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-18T14:06:02.025025+00:00"
-    },
-    {
-      "tweet": "CliffyB is making a new game but no PvP. Honestly, I’m kinda down for a game that doesn't just stress me out every match.",
-      "original_url": "https://www.polygon.com/cliffyb-new-game-not-pvp/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "CliffyB is making a new game, but it won't have PvP",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-18T14:06:02.024249+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -99,6 +77,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Another day, another AI thing called Kimi K3 dropping. I can’t even keep track of what’s actually new anymore.",
+      "original_url": "https://www.kimi.com/blog/kimi-k3",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Kimi K3: Open Frontier Intelligence",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-18T14:06:02.025025+00:00"
+    },
+    {
+      "tweet": "CliffyB is making a new game but no PvP. Honestly, I’m kinda down for a game that doesn't just stress me out every match.",
+      "original_url": "https://www.polygon.com/cliffyb-new-game-not-pvp/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "CliffyB is making a new game, but it won't have PvP",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-07-18T14:06:02.024249+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -706,17 +706,6 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Venezuela's death toll from that quake just passed five thousand. Brutal.",
-      "original_url": "https://www.aljazeera.com/news/2026/7/18/venezuela-quake-death-toll-tops-5000-as-imf-releases-emergency-aid?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Venezuela quake death toll tops 5,000 as IMF releases emergency aid",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-18T16:08:38.322971+00:00"
-    },
-    {
       "tweet": "So apparently Trump Media is selling premium, instant access to posts for Wall Street traders now. Like we’re just turning the news into a high-frequency trading bot. Whatever.",
       "original_url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -926,37 +915,15 @@
       "added_at": "2026-07-13T12:29:35.753007+00:00"
     },
     {
-      "tweet": "So apparently we're doing regressive JPEGs now, like we actually needed files to get worse over time. That's just efficiency in reverse",
-      "original_url": "https://maurycyz.com/projects/bad_jpeg/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Regressive JPEGs",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-18T09:07:01.895814+00:00"
-    },
-    {
-      "tweet": "Iran is hitting targets in Kuwait now. Smoke is everywhere.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/plumes-of-smoke-rise-over-kuwait-after-repeated-iranian-attacks?traffic_source=rss",
-      "buzz_score": 80,
+      "tweet": "Venezuela's death toll from that quake just passed five thousand. Brutal.",
+      "original_url": "https://www.aljazeera.com/news/2026/7/18/venezuela-quake-death-toll-tops-5000-as-imf-releases-emergency-aid?traffic_source=rss",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Plumes of smoke rise over Kuwait after repeated Iranian attacks",
+      "original_title": "Venezuela quake death toll tops 5,000 as IMF releases emergency aid",
       "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-07-18T16:08:38.323139+00:00"
-    },
-    {
-      "tweet": "Wait, the World Cup final is actually free to watch online? Finally.",
-      "original_url": "https://www.billboard.com/culture/product-recommendations/fifa-world-cup-final-2026-watch-live-soccer-online-free-1236296664/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Here’s Where to Watch FIFA World Cup Final 2026: Spain vs. Argentina Live Online for Free",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-18T16:08:38.321512+00:00"
+      "added_at": "2026-07-18T16:08:38.322971+00:00"
     },
     {
       "tweet": "Persona 3's social stats really changed how we play everything now. We're all just managing our virtual schedules at this point.",
@@ -1001,6 +968,39 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-07-17T08:54:38.701542+00:00"
+    },
+    {
+      "tweet": "So apparently we're doing regressive JPEGs now, like we actually needed files to get worse over time. That's just efficiency in reverse",
+      "original_url": "https://maurycyz.com/projects/bad_jpeg/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Regressive JPEGs",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-18T09:07:01.895814+00:00"
+    },
+    {
+      "tweet": "Iran is hitting targets in Kuwait now. Smoke is everywhere.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/plumes-of-smoke-rise-over-kuwait-after-repeated-iranian-attacks?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Plumes of smoke rise over Kuwait after repeated Iranian attacks",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-18T16:08:38.323139+00:00"
+    },
+    {
+      "tweet": "Wait, the World Cup final is actually free to watch online? Finally.",
+      "original_url": "https://www.billboard.com/culture/product-recommendations/fifa-world-cup-final-2026-watch-live-soccer-online-free-1236296664/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Here’s Where to Watch FIFA World Cup Final 2026: Spain vs. Argentina Live Online for Free",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-07-18T16:08:38.321512+00:00"
     },
     {
       "tweet": "Iran is saying the U.S. is hitting their critical infrastructure now. Feels like we’re just skating on thin ice at this point.",
