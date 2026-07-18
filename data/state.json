@@ -2,28 +2,6 @@
   "last_collected": "2026-07-18T22:04:35.811397+00:00",
   "queue": [
     {
-      "tweet": "Some country is trying to make it illegal to fall in love with AI chatbots. Like, how are they even gonna enforce that?",
-      "original_url": "https://kotaku.com/china-introduces-new-laws-to-prevent-people-from-falling-in-love-with-ai-chatbots-2000717442",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "One Country Is Already Trying To Outlaw People From Falling In Love With AI Chatbots",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-18T22:04:35.809872+00:00"
-    },
-    {
-      "tweet": "Did you see Josh Kerr just smashed that mile record? Dude basically told everyone exactly when he was gonna do it and then just did it. Unreal.",
-      "original_url": "https://www.npr.org/2026/07/18/nx-s1-5899057/josh-kerr-mile-world-record-time",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Josh Kerr of Britain breaks 27-year-old world record in the mile",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-18T22:04:35.809705+00:00"
-    },
-    {
       "tweet": "ANU is losing their minds over students using AI to cheat on tests. They're trying so hard to gatekeep schoolwork.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/18/anu-accused-of-hysterical-response-to-students-using-ai-to-as-unis-scramble-to-secure-assessments",
       "buzz_score": 80,
@@ -88,17 +66,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Dude, LG is out here just straight up installing software on PCs through Windows Update without asking. Like, why are we even allowing that to happen.",
-      "original_url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "LG monitors silently install software through Windows Update without consent",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-18T14:06:02.023662+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -563,6 +530,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Dude, LG is out here just straight up installing software on PCs through Windows Update without asking. Like, why are we even allowing that to happen.",
+      "original_url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "LG monitors silently install software through Windows Update without consent",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-18T14:06:02.023662+00:00"
+    },
+    {
       "tweet": "Trump wants to put a permanent fence around Lafayette Park now. The irony is just loud.",
       "original_url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal",
       "buzz_score": 88,
@@ -704,17 +682,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Did you hear about the attack in Jordan. Two service members killed, one missing. At this point are we just doing another forever war.",
-      "original_url": "https://www.npr.org/2026/07/18/nx-s1-5899039/us-troops-killed-missing-iran-jordan",
-      "buzz_score": 92,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "2 U.S. service members killed, 1 missing after Iranian attack in Jordan",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-18T19:21:53.225846+00:00"
     },
     {
       "tweet": "So apparently Trump Media is selling premium, instant access to posts for Wall Street traders now. Like we’re just turning the news into a high-frequency trading bot. Whatever.",
@@ -926,6 +893,17 @@
       "added_at": "2026-07-13T12:29:35.753007+00:00"
     },
     {
+      "tweet": "Did you hear about the attack in Jordan. Two service members killed, one missing. At this point are we just doing another forever war.",
+      "original_url": "https://www.npr.org/2026/07/18/nx-s1-5899039/us-troops-killed-missing-iran-jordan",
+      "buzz_score": 92,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "2 U.S. service members killed, 1 missing after Iranian attack in Jordan",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-18T19:21:53.225846+00:00"
+    },
+    {
       "tweet": "Man, things in Jordan are getting real sketchy with these Iran-backed attacks. Just another day in the middle of a mess.",
       "original_url": "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html",
       "buzz_score": 80,
@@ -935,6 +913,39 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-07-18T22:04:35.810888+00:00"
+    },
+    {
+      "tweet": "Persona 3's social stats really changed how we play everything now. We're all just managing our virtual schedules at this point.",
+      "original_url": "https://www.polygon.com/persona-3-atlus-20th-anniversary/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "20 years ago, Persona 3's social stats changed how we think about video game characters",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-07-17T11:52:15.851199+00:00"
+    },
+    {
+      "tweet": "ICE just arrested that Chinese human rights lawyer in Pennsylvania. What a joke.",
+      "original_url": "https://www.theguardian.com/us-news/2026/jul/17/ice-arrests-human-rights-lawyer-wu-shaoping-fled-chinese-crackdown",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "ICE arrests human rights lawyer who fled Chinese crackdown",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-17T11:52:15.851009+00:00"
+    },
+    {
+      "tweet": "Did you hear Trump actually got that Chinese pastor released? That's wild.",
+      "original_url": "https://www.nytimes.com/2026/07/17/world/asia/ezra-jin-china-pastor-trump.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "‘Suddenly, I Was Free’: A Chinese Pastor’s Journey From Jail to the U.S.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-17T11:52:15.850793+00:00"
     },
     {
       "tweet": "Iran is hitting US allies all over the Middle East right now. Seems like the whole region is just coming apart.",
@@ -1001,39 +1012,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-18T19:21:53.225294+00:00"
-    },
-    {
-      "tweet": "Persona 3's social stats really changed how we play everything now. We're all just managing our virtual schedules at this point.",
-      "original_url": "https://www.polygon.com/persona-3-atlus-20th-anniversary/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "20 years ago, Persona 3's social stats changed how we think about video game characters",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-17T11:52:15.851199+00:00"
-    },
-    {
-      "tweet": "ICE just arrested that Chinese human rights lawyer in Pennsylvania. What a joke.",
-      "original_url": "https://www.theguardian.com/us-news/2026/jul/17/ice-arrests-human-rights-lawyer-wu-shaoping-fled-chinese-crackdown",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "ICE arrests human rights lawyer who fled Chinese crackdown",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-17T11:52:15.851009+00:00"
-    },
-    {
-      "tweet": "Did you hear Trump actually got that Chinese pastor released? That's wild.",
-      "original_url": "https://www.nytimes.com/2026/07/17/world/asia/ezra-jin-china-pastor-trump.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘Suddenly, I Was Free’: A Chinese Pastor’s Journey From Jail to the U.S.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-17T11:52:15.850793+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2297,
+    "total_posted": 2299,
     "total_collected": 10772
   },
-  "last_posted_at": "2026-07-18T22:11:55.932650+00:00"
+  "last_posted_at": "2026-07-18T23:12:15.131879+00:00"
 }
