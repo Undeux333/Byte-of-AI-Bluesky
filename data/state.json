@@ -2,17 +2,6 @@
   "last_collected": "2026-07-18T19:21:53.226884+00:00",
   "queue": [
     {
-      "tweet": "So apparently the EU is making it illegal to throw out unsold clothes now. It's actually insane that we needed a law to stop companies from just trashing perfectly good stuff. Man.",
-      "original_url": "https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "EU ban on destruction of unsold clothes and shoes enters into application",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-18T19:21:53.225282+00:00"
-    },
-    {
       "tweet": "Dude, LG is out here just straight up installing software on PCs through Windows Update without asking. Like, why are we even allowing that to happen.",
       "original_url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
       "buzz_score": 85,
@@ -22,17 +11,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-07-18T14:06:02.023662+00:00"
-    },
-    {
-      "tweet": "Did you hear about the attack in Jordan. Two service members killed, one missing. At this point are we just doing another forever war.",
-      "original_url": "https://www.npr.org/2026/07/18/nx-s1-5899039/us-troops-killed-missing-iran-jordan",
-      "buzz_score": 92,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "2 U.S. service members killed, 1 missing after Iranian attack in Jordan",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-18T19:21:53.225846+00:00"
     },
     {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
@@ -55,6 +33,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Did you hear about the attack in Jordan. Two service members killed, one missing. At this point are we just doing another forever war.",
+      "original_url": "https://www.npr.org/2026/07/18/nx-s1-5899039/us-troops-killed-missing-iran-jordan",
+      "buzz_score": 92,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "2 U.S. service members killed, 1 missing after Iranian attack in Jordan",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-18T19:21:53.225846+00:00"
+    },
+    {
+      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
+      "buzz_score": 92,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-24T11:28:23.259709+00:00"
     },
     {
       "tweet": "Iran is hitting US allies all over the Middle East right now. Seems like the whole region is just coming apart.",
@@ -110,28 +110,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-07-18T14:06:02.023672+00:00"
-    },
-    {
-      "tweet": "These two guys in North Dakota just found out they were switched at birth because of a Christmas DNA kit. Imagine opening that gift and finding out your whole life is a lie.",
-      "original_url": "https://www.theguardian.com/us-news/2026/jul/18/north-dakota-newborns-switched",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "North Dakota men who discover they were switched as newborns sue hospital",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-18T19:21:53.225294+00:00"
-    },
-    {
-      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
-      "buzz_score": 92,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-24T11:28:23.259709+00:00"
     },
     {
       "tweet": "France vs Spain for the semi-final is gonna be a movie. Finally get to see Mbappe and Lamine Yamal on the same pitch",
@@ -585,37 +563,15 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Chelsea just dropped a record 117 million on Morgan Rogers. The transfer market is officially broken.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c0ej1jyy8yyo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
+      "tweet": "These two guys in North Dakota just found out they were switched at birth because of a Christmas DNA kit. Imagine opening that gift and finding out your whole life is a lie.",
+      "original_url": "https://www.theguardian.com/us-news/2026/jul/18/north-dakota-newborns-switched",
+      "buzz_score": 88,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Chelsea agree record £117m deal for Villa's Rogers",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-18T19:21:53.225453+00:00"
-    },
-    {
-      "tweet": "Another day, another AI thing called Kimi K3 dropping. I can’t even keep track of what’s actually new anymore.",
-      "original_url": "https://www.kimi.com/blog/kimi-k3",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Kimi K3: Open Frontier Intelligence",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-18T14:06:02.025025+00:00"
-    },
-    {
-      "tweet": "CliffyB is making a new game but no PvP. Honestly, I’m kinda down for a game that doesn't just stress me out every match.",
-      "original_url": "https://www.polygon.com/cliffyb-new-game-not-pvp/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "CliffyB is making a new game, but it won't have PvP",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-18T14:06:02.024249+00:00"
+      "original_title": "North Dakota men who discover they were switched as newborns sue hospital",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-18T19:21:53.225294+00:00"
     },
     {
       "tweet": "Trump wants to put a permanent fence around Lafayette Park now. The irony is just loud.",
@@ -761,15 +717,37 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "George Russell is out here saying his Mercedes makes winning impossible 'cause of some power issue. Imagine having the best seat and just being powerless.",
-      "original_url": "https://www.bbc.co.uk/sport/formula1/articles/clyq6q12dkko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 82,
+      "tweet": "Chelsea just dropped a record 117 million on Morgan Rogers. The transfer market is officially broken.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/c0ej1jyy8yyo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Russell 'infuriated' by straight-line issue that leaves him 'powerless'",
+      "original_title": "Chelsea agree record £117m deal for Villa's Rogers",
       "source": "BBC Sport",
       "category": "sports",
-      "added_at": "2026-07-18T19:21:53.225297+00:00"
+      "added_at": "2026-07-18T19:21:53.225453+00:00"
+    },
+    {
+      "tweet": "Another day, another AI thing called Kimi K3 dropping. I can’t even keep track of what’s actually new anymore.",
+      "original_url": "https://www.kimi.com/blog/kimi-k3",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Kimi K3: Open Frontier Intelligence",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-18T14:06:02.025025+00:00"
+    },
+    {
+      "tweet": "CliffyB is making a new game but no PvP. Honestly, I’m kinda down for a game that doesn't just stress me out every match.",
+      "original_url": "https://www.polygon.com/cliffyb-new-game-not-pvp/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "CliffyB is making a new game, but it won't have PvP",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-07-18T14:06:02.024249+00:00"
     },
     {
       "tweet": "So apparently Trump Media is selling premium, instant access to posts for Wall Street traders now. Like we’re just turning the news into a high-frequency trading bot. Whatever.",
@@ -979,6 +957,17 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-07-13T12:29:35.753007+00:00"
+    },
+    {
+      "tweet": "George Russell is out here saying his Mercedes makes winning impossible 'cause of some power issue. Imagine having the best seat and just being powerless.",
+      "original_url": "https://www.bbc.co.uk/sport/formula1/articles/clyq6q12dkko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Russell 'infuriated' by straight-line issue that leaves him 'powerless'",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-18T19:21:53.225297+00:00"
     },
     {
       "tweet": "Ontario is still on fire and the smoke is just choking out the Midwest again. Like we're just breathing in the forest.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2294,
+    "total_posted": 2295,
     "total_collected": 10756
   },
-  "last_posted_at": "2026-07-18T19:27:47.030978+00:00"
+  "last_posted_at": "2026-07-18T20:10:40.103692+00:00"
 }
