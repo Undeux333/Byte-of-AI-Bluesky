@@ -2,28 +2,6 @@
   "last_collected": "2026-07-19T22:32:12.018710+00:00",
   "queue": [
     {
-      "tweet": "Another troop dead in Iraq and the US is launching more strikes. At what point does this cycle just become the standard",
-      "original_url": "https://www.theguardian.com/us-news/2026/jul/19/military-service-member-death-iran-airstrikes",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US says another troop killed as Israel warns Tehran’s attacks coming close",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-19T22:32:12.018067+00:00"
-    },
-    {
-      "tweet": "Mbappe is the first to win two Golden Boots. Dude's just playing a different game than everyone else",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cre4z58pzj9o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mbappe first to win World Cup Golden Boot twice",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-19T22:32:12.017658+00:00"
-    },
-    {
       "tweet": "New York is basically turning into an aquarium today with these floods. Commuting's a joke right now",
       "original_url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2323,
+    "total_posted": 2325,
     "total_collected": 10902
   },
-  "last_posted_at": "2026-07-19T22:39:58.206576+00:00"
+  "last_posted_at": "2026-07-19T23:43:05.187750+00:00"
 }
