@@ -2,28 +2,6 @@
   "last_collected": "2026-07-19T08:39:55.324408+00:00",
   "queue": [
     {
-      "tweet": "Reading about the last song Freddie Mercury recorded. Man, that stuff hits different.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/last-song-freddie-mercury-recorded-for-queen?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Last Song Freddie Mercury Ever Recorded For Queen Is Deeply Emotional",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-19T08:39:55.323882+00:00"
-    },
-    {
-      "tweet": "Half the wildfires in Canada are just impossible to reach so they're leaving them to burn. Just letting it ride.",
-      "original_url": "https://www.nytimes.com/2026/07/18/world/canada/wildfires-canada-fire-fighting.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Most Forest Fires in Canada Are Simply Impossible to Put Out",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-19T08:39:55.323499+00:00"
-    },
-    {
       "tweet": "Bro, Poppy had to wear a respirator mask on stage because the air was unbreathable. Just wild.",
       "original_url": "https://www.billboard.com/music/rock/poppy-upheaval-festival-wildfire-1236297450/",
       "buzz_score": 85,
@@ -101,17 +79,6 @@
       "added_at": "2026-07-19T03:48:44.127858+00:00"
     },
     {
-      "tweet": "That new EU border system is tripling wait times at the airport now. Nothing says vacation like standing in a line for five hours",
-      "original_url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "New EU border system tripling time at passport control, airport boss says",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-19T03:48:44.127863+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -134,6 +101,17 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "That new EU border system is tripling wait times at the airport now. Nothing says vacation like standing in a line for five hours",
+      "original_url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "New EU border system tripling time at passport control, airport boss says",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-19T03:48:44.127863+00:00"
+    },
+    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -143,39 +121,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Trump is arguing with Meloni while our ambassador to Italy is just chilling on his superyacht. That's the dream right there.",
-      "original_url": "https://www.nytimes.com/2026/07/18/world/europe/tilman-fertitta-superyacht-italy-ambassador.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-19T00:06:19.562654+00:00"
-    },
-    {
-      "tweet": "Kylian Mbappe just hit 22 goals at the World Cup. At this point he's just playing a different game than everyone else.",
-      "original_url": "https://www.aljazeera.com/sports/2026/7/18/kylian-mbappe-breaks-all-time-world-cup-scoring-record-with-22nd-goal?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Kylian Mbappe breaks all-time World Cup scoring record with 22nd goal",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-19T00:06:19.562351+00:00"
-    },
-    {
-      "tweet": "Did you hear that Russia is basically ditching the internet for cash again. Guess when you're busy running a war economy, digital banking is just too much to handle.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Russians turn to cash, putting more strain on slowing wartime economy",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-19T00:06:19.562341+00:00"
     },
     {
       "tweet": "France vs Spain for the semi-final is gonna be a movie. Finally get to see Mbappe and Lamine Yamal on the same pitch",
@@ -772,26 +717,37 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "So Bridget McKenzie is out here talking about a war on leftwing globalists at CPAC. These people literally live in a different reality than us.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jul/19/bridget-mckenzie-cpac-london-national-party-pauline-hanson-one-nation-ntwnfb",
-      "buzz_score": 80,
+      "tweet": "Trump is arguing with Meloni while our ambassador to Italy is just chilling on his superyacht. That's the dream right there.",
+      "original_url": "https://www.nytimes.com/2026/07/18/world/europe/tilman-fertitta-superyacht-italy-ambassador.html",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Conservatives around world at war against ‘leftwing globalists’, Bridget McKenzie tells CPAC London event",
-      "source": "The Guardian",
+      "original_title": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-07-19T00:06:19.562352+00:00"
+      "added_at": "2026-07-19T00:06:19.562654+00:00"
     },
     {
-      "tweet": "England winning 6-4 in the Bronze Final is insane. I've never seen a third-place game go full arcade mode like that.",
-      "original_url": "https://www.aljazeera.com/sports/2026/7/18/saka-hat-trick-helps-england-down-france-to-win-world-cup-2026-bronze-final?traffic_source=rss",
-      "buzz_score": 80,
+      "tweet": "Kylian Mbappe just hit 22 goals at the World Cup. At this point he's just playing a different game than everyone else.",
+      "original_url": "https://www.aljazeera.com/sports/2026/7/18/kylian-mbappe-breaks-all-time-world-cup-scoring-record-with-22nd-goal?traffic_source=rss",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Saka hat-trick helps England down France to win World Cup 2026 Bronze Final",
+      "original_title": "Kylian Mbappe breaks all-time World Cup scoring record with 22nd goal",
       "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-07-19T00:06:19.562349+00:00"
+      "added_at": "2026-07-19T00:06:19.562351+00:00"
+    },
+    {
+      "tweet": "Did you hear that Russia is basically ditching the internet for cash again. Guess when you're busy running a war economy, digital banking is just too much to handle.",
+      "original_url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Russians turn to cash, putting more strain on slowing wartime economy",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-19T00:06:19.562341+00:00"
     },
     {
       "tweet": "Dude, LG is out here just straight up installing software on PCs through Windows Update without asking. Like, why are we even allowing that to happen.",
@@ -992,15 +948,26 @@
       "added_at": "2026-07-14T03:29:36.114945+00:00"
     },
     {
-      "tweet": "Dozens of missiles in Kyiv again. At this point the world is just trying to see how much we can handle.",
-      "original_url": "https://www.theguardian.com/world/2026/jul/19/dozens-of-russian-missiles-pound-kyiv-ukraine-in-major-attack",
-      "buzz_score": 85,
-      "buzz_score2": 90,
+      "tweet": "So Bridget McKenzie is out here talking about a war on leftwing globalists at CPAC. These people literally live in a different reality than us.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jul/19/bridget-mckenzie-cpac-london-national-party-pauline-hanson-one-nation-ntwnfb",
+      "buzz_score": 80,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Dozens of Russian missiles pound Kyiv in major attack",
+      "original_title": "Conservatives around world at war against ‘leftwing globalists’, Bridget McKenzie tells CPAC London event",
       "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-07-19T06:21:30.646377+00:00"
+      "added_at": "2026-07-19T00:06:19.562352+00:00"
+    },
+    {
+      "tweet": "England winning 6-4 in the Bronze Final is insane. I've never seen a third-place game go full arcade mode like that.",
+      "original_url": "https://www.aljazeera.com/sports/2026/7/18/saka-hat-trick-helps-england-down-france-to-win-world-cup-2026-bronze-final?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Saka hat-trick helps England down France to win World Cup 2026 Bronze Final",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-19T00:06:19.562349+00:00"
     },
     {
       "tweet": "People are calling Sam Neill skux in his tributes. Who knew a 90s Kiwi slang word would make such a comeback.",
@@ -1034,6 +1001,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-07-19T00:06:19.562346+00:00"
+    },
+    {
+      "tweet": "Dozens of missiles in Kyiv again. At this point the world is just trying to see how much we can handle.",
+      "original_url": "https://www.theguardian.com/world/2026/jul/19/dozens-of-russian-missiles-pound-kyiv-ukraine-in-major-attack",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Dozens of Russian missiles pound Kyiv in major attack",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-19T06:21:30.646377+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2307,
+    "total_posted": 2309,
     "total_collected": 10830
   },
-  "last_posted_at": "2026-07-19T08:48:44.127908+00:00"
+  "last_posted_at": "2026-07-19T10:19:13.530389+00:00"
 }
