@@ -211,6 +211,17 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
+      "buzz_score": 92,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
       "tweet": "Andrew and Tristan Tate finally got picked up in Miami. Sounds like that UK extradition is actually happening this time.",
       "original_url": "https://www.aljazeera.com/news/2026/7/19/why-were-andrew-and-tristan-tate-arrested-will-they-be-extradited-to-uk?traffic_source=rss",
       "buzz_score": 90,
@@ -242,17 +253,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-07-19T08:39:55.323223+00:00"
-    },
-    {
-      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
-      "buzz_score": 92,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-24T11:28:23.259709+00:00"
     },
     {
       "tweet": "France vs Spain for the semi-final is gonna be a movie. Finally get to see Mbappe and Lamine Yamal on the same pitch",
@@ -706,17 +706,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Washington is trying to push that CLARITY Act to cash in on crypto. They really don't care about anything but the bag.",
-      "original_url": "https://www.rollingstone.com/politics/political-commentary/crypto-corruption-trump-clarity-act-1235595388/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Congress Must Stop Enabling Trump’s Crypto Corruption",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-07-19T13:49:46.472971+00:00"
-    },
-    {
       "tweet": "Trump wants to put a permanent fence around Lafayette Park now. The irony is just loud.",
       "original_url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal",
       "buzz_score": 88,
@@ -858,6 +847,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Washington is trying to push that CLARITY Act to cash in on crypto. They really don't care about anything but the bag.",
+      "original_url": "https://www.rollingstone.com/politics/political-commentary/crypto-corruption-trump-clarity-act-1235595388/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Congress Must Stop Enabling Trump’s Crypto Corruption",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-07-19T13:49:46.472971+00:00"
     },
     {
       "tweet": "So apparently landlords can't use AI images for apartments anymore. Guess we're finally done with paying for fake furniture",
