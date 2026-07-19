@@ -2,28 +2,6 @@
   "last_collected": "2026-07-19T11:24:55.587925+00:00",
   "queue": [
     {
-      "tweet": "Bad Bunny's concert in Milan got shut down by a hailstorm. Imagine paying for those tickets just to get pelted with ice.",
-      "original_url": "https://www.theguardian.com/music/2026/jul/19/bad-bunny-milan-abandoned-hailstorm",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Bad Bunny concert in Milan abandoned because of hailstorm",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-19T11:24:55.586889+00:00"
-    },
-    {
-      "tweet": "Messi playing his 34th World Cup game is insane. If that's really his last one, the sport just loses its main character.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Messi on the brink of history - will it be his last World Cup game?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-19T11:24:55.586347+00:00"
-    },
-    {
       "tweet": "Man, another massive attack on Kyiv. At this point the world's just watching them get leveled in real time while we scroll.",
       "original_url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -233,17 +211,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "So apparently landlords can't use AI images for apartments anymore. Guess we're finally done with paying for fake furniture",
-      "original_url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-19T03:48:44.127858+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -253,6 +220,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "So apparently landlords can't use AI images for apartments anymore. Guess we're finally done with paying for fake furniture",
+      "original_url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-19T03:48:44.127858+00:00"
     },
     {
       "tweet": "France vs Spain for the semi-final is gonna be a movie. Finally get to see Mbappe and Lamine Yamal on the same pitch",
@@ -706,17 +684,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "That new EU border system is tripling wait times at the airport now. Nothing says vacation like standing in a line for five hours",
-      "original_url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "New EU border system tripling time at passport control, airport boss says",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-19T03:48:44.127863+00:00"
-    },
-    {
       "tweet": "Trump wants to put a permanent fence around Lafayette Park now. The irony is just loud.",
       "original_url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal",
       "buzz_score": 88,
@@ -858,6 +825,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "That new EU border system is tripling wait times at the airport now. Nothing says vacation like standing in a line for five hours",
+      "original_url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "New EU border system tripling time at passport control, airport boss says",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-19T03:48:44.127863+00:00"
     },
     {
       "tweet": "Trump is arguing with Meloni while our ambassador to Italy is just chilling on his superyacht. That's the dream right there.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2311,
+    "total_posted": 2313,
     "total_collected": 10846
   },
-  "last_posted_at": "2026-07-19T11:33:16.993103+00:00"
+  "last_posted_at": "2026-07-19T12:16:13.032223+00:00"
 }
