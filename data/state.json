@@ -2,28 +2,6 @@
   "last_collected": "2026-07-20T15:00:56.355352+00:00",
   "queue": [
     {
-      "tweet": "So the EU is just selling our most sensitive data to the US now for visa-free travel. Privacy’s just a suggestion at this point.",
-      "original_url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-20T15:00:56.353453+00:00"
-    },
-    {
-      "tweet": "People are losing their minds over these Fortnite swimsuit skins. We're really just trapped in a simulation.",
-      "original_url": "https://kotaku.com/the-internet-sure-is-being-weird-about-those-fortnite-swimsuit-skins-2000717529",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Internet Sure Is Being Weird About Those Fortnite Swimsuit Skins",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-20T15:00:56.353771+00:00"
-    },
-    {
       "tweet": "Did you know British judges wear those wigs to hide venereal disease symptoms from back in the day. The things we keep around for tradition.",
       "original_url": "https://www.mentalfloss.com/history/why-do-judges-barristers-wear-wigs-britain?utm_source=RSS",
       "buzz_score": 75,
@@ -33,28 +11,6 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-07-20T15:00:56.353459+00:00"
-    },
-    {
-      "tweet": "Villa just dropped 38 million on Joao Gomes for that midfield spot. That's a massive bag for a guy stepping in after that Onana injury.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cnvndy7pej9o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Villa sign Wolves midfielder Gomes in £38m deal",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-20T10:38:55.435178+00:00"
-    },
-    {
-      "tweet": "Did you hear Liam Gallagher calling that World Cup halftime show a bad trip. I’m dying, man.",
-      "original_url": "https://www.billboard.com/music/music-news/liam-gallagher-fifa-world-cup-halftime-show-1236297975/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Liam Gallagher Says FIFA’s World Cup Halftime Show Was ‘Like a Bad Trip’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-20T07:50:35.435532+00:00"
     },
     {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
@@ -88,6 +44,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Villa just dropped 38 million on Joao Gomes for that midfield spot. That's a massive bag for a guy stepping in after that Onana injury.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cnvndy7pej9o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Villa sign Wolves midfielder Gomes in £38m deal",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-20T10:38:55.435178+00:00"
+    },
+    {
+      "tweet": "Did you hear Liam Gallagher calling that World Cup halftime show a bad trip. I’m dying, man.",
+      "original_url": "https://www.billboard.com/music/music-news/liam-gallagher-fifa-world-cup-halftime-show-1236297975/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Liam Gallagher Says FIFA’s World Cup Halftime Show Was ‘Like a Bad Trip’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-07-20T07:50:35.435532+00:00"
     },
     {
       "tweet": "France vs Spain for the semi-final is gonna be a movie. Finally get to see Mbappe and Lamine Yamal on the same pitch",
@@ -915,39 +893,6 @@
       "added_at": "2026-07-15T11:56:15.741237+00:00"
     },
     {
-      "tweet": "Kylian Mbappé just took the Golden Boot over Messi in the World Cup. End of an era.",
-      "original_url": "https://hypebeast.com/2026/7/kylian-mbappe-wins-2026-fifa-world-cup-golden-boot-over-lionel-messi",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Kylian Mbappé Wins 2026 FIFA World Cup Golden Boot Over Lionel Messi",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-07-20T15:00:56.354035+00:00"
-    },
-    {
-      "tweet": "Constant game sales have basically replaced actual value in gaming. We’re all just waiting for the discount instead of buying the game.",
-      "original_url": "https://kotaku.com/budget-games-lower-prices-rerelease-game-sales-cheaper-2000716197",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Constant Game Sales Have Replaced What Was Once The Best Deal In Gaming",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-20T12:53:53.375204+00:00"
-    },
-    {
-      "tweet": "Liam Gallagher says there won't be a new Oasis album 'cause he's scared it won't sell 100 million copies in the first hour. Honestly, peak Liam.",
-      "original_url": "https://www.billboard.com/music/rock/liam-gallagher-no-new-oasis-album-teases-2027-shows-1236298125/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Liam Gallagher Says There Won’t Be a New Oasis Album Because He’s Not Up For the Criticism If It ‘Doesn’t Sell 100 Million Copies in the 1st Hour’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-20T12:53:53.374545+00:00"
-    },
-    {
       "tweet": "Fabien Frankel says Criston Cole’s just lost the will to motivate. Sounds like every Monday morning ever.",
       "original_url": "https://variety.com/2026/tv/news/house-of-the-dragon-fabien-frankel-criston-cole-suicide-mission-butchers-ball-1236815984/",
       "buzz_score": 80,
@@ -1012,6 +957,39 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-07-19T11:24:55.586630+00:00"
+    },
+    {
+      "tweet": "Kylian Mbappé just took the Golden Boot over Messi in the World Cup. End of an era.",
+      "original_url": "https://hypebeast.com/2026/7/kylian-mbappe-wins-2026-fifa-world-cup-golden-boot-over-lionel-messi",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Kylian Mbappé Wins 2026 FIFA World Cup Golden Boot Over Lionel Messi",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-07-20T15:00:56.354035+00:00"
+    },
+    {
+      "tweet": "Constant game sales have basically replaced actual value in gaming. We’re all just waiting for the discount instead of buying the game.",
+      "original_url": "https://kotaku.com/budget-games-lower-prices-rerelease-game-sales-cheaper-2000716197",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Constant Game Sales Have Replaced What Was Once The Best Deal In Gaming",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-20T12:53:53.375204+00:00"
+    },
+    {
+      "tweet": "Liam Gallagher says there won't be a new Oasis album 'cause he's scared it won't sell 100 million copies in the first hour. Honestly, peak Liam.",
+      "original_url": "https://www.billboard.com/music/rock/liam-gallagher-no-new-oasis-album-teases-2027-shows-1236298125/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Liam Gallagher Says There Won’t Be a New Oasis Album Because He’s Not Up For the Criticism If It ‘Doesn’t Sell 100 Million Copies in the 1st Hour’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-07-20T12:53:53.374545+00:00"
     },
     {
       "tweet": "Russia is hitting Odesa again after Ukraine sent all those drones to Moscow. It’s a total mess over there.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2337,
+    "total_posted": 2339,
     "total_collected": 10980
   },
-  "last_posted_at": "2026-07-20T15:07:41.956534+00:00"
+  "last_posted_at": "2026-07-20T16:33:42.091560+00:00"
 }
