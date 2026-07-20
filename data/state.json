@@ -530,28 +530,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "DC is teasing something and everyone thinks it's Injustice 3 but it's probably just a mobile game. Why do they do this to us?",
-      "original_url": "https://kotaku.com/dcko-dc-fighting-game-injustice-3-free-to-play-mobile-2000717764",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "That’s…Not Injustice 3, DC",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-20T21:21:42.789743+00:00"
-    },
-    {
-      "tweet": "Did you know British judges wear those wigs to hide venereal disease symptoms from back in the day. The things we keep around for tradition.",
-      "original_url": "https://www.mentalfloss.com/history/why-do-judges-barristers-wear-wigs-britain?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why Do Judges and Barristers Wear Wigs in Britain?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-20T15:00:56.353459+00:00"
-    },
-    {
       "tweet": "Trump wants to put a permanent fence around Lafayette Park now. The irony is just loud.",
       "original_url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal",
       "buzz_score": 88,
@@ -693,6 +671,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "DC is teasing something and everyone thinks it's Injustice 3 but it's probably just a mobile game. Why do they do this to us?",
+      "original_url": "https://kotaku.com/dcko-dc-fighting-game-injustice-3-free-to-play-mobile-2000717764",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "That’s…Not Injustice 3, DC",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-20T21:21:42.789743+00:00"
+    },
+    {
+      "tweet": "Did you know British judges wear those wigs to hide venereal disease symptoms from back in the day. The things we keep around for tradition.",
+      "original_url": "https://www.mentalfloss.com/history/why-do-judges-barristers-wear-wigs-britain?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Why Do Judges and Barristers Wear Wigs in Britain?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-07-20T15:00:56.353459+00:00"
     },
     {
       "tweet": "Did you hear Liam Gallagher calling that World Cup halftime show a bad trip. I’m dying, man.",
@@ -959,17 +959,6 @@
       "added_at": "2026-07-20T21:21:42.789146+00:00"
     },
     {
-      "tweet": "So Argentina might face an investigation after that World Cup final mess. Are we really gonna pretend we didn't see that coming?",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Could Argentina face action after post-final trouble?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-20T18:27:05.588663+00:00"
-    },
-    {
       "tweet": "Fabien Frankel says Criston Cole’s just lost the will to motivate. Sounds like every Monday morning ever.",
       "original_url": "https://variety.com/2026/tv/news/house-of-the-dragon-fabien-frankel-criston-cole-suicide-mission-butchers-ball-1236815984/",
       "buzz_score": 80,
@@ -1034,6 +1023,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-07-19T11:24:55.586630+00:00"
+    },
+    {
+      "tweet": "So Argentina might face an investigation after that World Cup final mess. Are we really gonna pretend we didn't see that coming?",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Could Argentina face action after post-final trouble?",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-20T18:27:05.588663+00:00"
     },
     {
       "tweet": "Barnaby Joyce getting grilled in an interview and then a dog starts bothering him. Can't make this stuff up.",
