@@ -35,17 +35,6 @@
       "added_at": "2026-06-24T11:28:23.259709+00:00"
     },
     {
-      "tweet": "Dude, a hacker just wiped the entire Romanian land registry. Imagine showing up to your house and the government just has zero record you own it. Absolutely cooked.",
-      "original_url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Hacker wipes Romania's land registry database",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-21T09:15:17.972338+00:00"
-    },
-    {
       "tweet": "Someone actually watched that AI movie from the District 9 guy and said it was straight trash. We're not ready for AI cinema.",
       "original_url": "https://kotaku.com/district-9-director-ai-generated-short-film-nightborne-2000717745",
       "buzz_score": 90,
@@ -519,28 +508,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Avengers vs. X-Men is actually happening in the new movie. Finally.",
-      "original_url": "https://www.polygon.com/the-x-men-vs-the-avengers-doomsday-comics-history/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Avengers vs. X-Men: Who will win in Avengers: Doomsday? Here's what the comics reveal",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-21T17:44:50.084945+00:00"
-    },
-    {
-      "tweet": "France is actually trying to ban kids from social media. Honestly, they might be the only ones who get it.",
-      "original_url": "https://www.nytimes.com/2026/07/21/world/europe/france-social-media-ban.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "France Is Poised to Restrict Social Media for Children",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-21T17:44:50.084278+00:00"
-    },
-    {
       "tweet": "Trump wants to put a permanent fence around Lafayette Park now. The irony is just loud.",
       "original_url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal",
       "buzz_score": 88,
@@ -682,6 +649,39 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Dude, a hacker just wiped the entire Romanian land registry. Imagine showing up to your house and the government just has zero record you own it. Absolutely cooked.",
+      "original_url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Hacker wipes Romania's land registry database",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-21T09:15:17.972338+00:00"
+    },
+    {
+      "tweet": "Avengers vs. X-Men is actually happening in the new movie. Finally.",
+      "original_url": "https://www.polygon.com/the-x-men-vs-the-avengers-doomsday-comics-history/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Avengers vs. X-Men: Who will win in Avengers: Doomsday? Here's what the comics reveal",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-07-21T17:44:50.084945+00:00"
+    },
+    {
+      "tweet": "France is actually trying to ban kids from social media. Honestly, they might be the only ones who get it.",
+      "original_url": "https://www.nytimes.com/2026/07/21/world/europe/france-social-media-ban.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "France Is Poised to Restrict Social Media for Children",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-21T17:44:50.084278+00:00"
     },
     {
       "tweet": "Israel's U.N. ambassador calling the Netanyahu arrest threat empty. Politics is basically just yelling at clouds now.",
@@ -970,17 +970,6 @@
       "added_at": "2026-07-21T17:44:50.084302+00:00"
     },
     {
-      "tweet": "Seventeen hundred HIV treatment sites just got shut down after those aid cuts. Just wild that this is how we're prioritizing the budget.",
-      "original_url": "https://www.nytimes.com/2026/07/21/health/hiv-trump-cuts-pepfar.html",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "1,700 H.I.V. Treatment Sites Closed After Trump Aid Cuts, a Study Finds",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-21T14:53:58.016990+00:00"
-    },
-    {
       "tweet": "Offset just got probation for that whole dispensary fight. Imagine catching a charge 'cause you didn't want to show your ID.",
       "original_url": "https://www.billboard.com/pro/offset-probation-cannabis-dispensary-criminal-assault-case/",
       "buzz_score": 80,
@@ -1001,6 +990,17 @@
       "source": "Variety",
       "category": "entertainment",
       "added_at": "2026-07-20T04:50:12.863284+00:00"
+    },
+    {
+      "tweet": "Seventeen hundred HIV treatment sites just got shut down after those aid cuts. Just wild that this is how we're prioritizing the budget.",
+      "original_url": "https://www.nytimes.com/2026/07/21/health/hiv-trump-cuts-pepfar.html",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "1,700 H.I.V. Treatment Sites Closed After Trump Aid Cuts, a Study Finds",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-21T14:53:58.016990+00:00"
     },
     {
       "tweet": "So apparently Trump's putting new tariffs on Canada now. We're really trying to start a trade war with our nicest neighbor?",
