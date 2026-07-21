@@ -2,28 +2,6 @@
   "last_collected": "2026-07-21T14:53:58.018612+00:00",
   "queue": [
     {
-      "tweet": "Those First Nations communities in Canada didn't even get an alert before their homes burned down. They were just left to fend for themselves.",
-      "original_url": "https://www.theguardian.com/world/2026/jul/21/first-nations-ontario-canada-wildfires-evacuations-government",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "We received no alert, say leaders of First Nations communities razed by Canadian wildfires",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-21T14:53:58.017568+00:00"
-    },
-    {
-      "tweet": "The US government is claiming Cuba's a unique threat while the whole country is dealing with blackouts and zero food. Do they even hear themselves?",
-      "original_url": "https://www.theguardian.com/world/2026/jul/21/us-state-department-report-cuba",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US claims of Cuba’s ‘unique threat’ jar with reality of hunger and blackouts",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-21T14:53:58.017435+00:00"
-    },
-    {
       "tweet": "Dude, a hacker just wiped the entire Romanian land registry. Imagine showing up to your house and the government just has zero record you own it. Absolutely cooked.",
       "original_url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
       "buzz_score": 85,
@@ -55,17 +33,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Seventeen hundred HIV treatment sites just got shut down after those aid cuts. Just wild that this is how we're prioritizing the budget.",
-      "original_url": "https://www.nytimes.com/2026/07/21/health/hiv-trump-cuts-pepfar.html",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "1,700 H.I.V. Treatment Sites Closed After Trump Aid Cuts, a Study Finds",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-21T14:53:58.016990+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -552,28 +519,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "So apparently Trump's putting new tariffs on Canada now. We're really trying to start a trade war with our nicest neighbor?",
-      "original_url": "https://www.nytimes.com/2026/07/21/world/canada/trump-carney-trade-tariffs.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump Is Squeezing Canada. Don’t Expect Carney to Roll Over.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-21T14:53:58.016988+00:00"
-    },
-    {
-      "tweet": "India's literally got a protest movement called the Cockroach movement now. Protesting the government through satire is a wild move, man.",
-      "original_url": "https://www.npr.org/2026/07/21/g-s1-134722/indias-youth-led-cockroach-movement-vows-to-continue-protest-after-police-crackdown",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "India's youth-led Cockroach movement vows to continue protest after police crackdown",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-21T14:53:58.016985+00:00"
-    },
-    {
       "tweet": "Trump wants to put a permanent fence around Lafayette Park now. The irony is just loud.",
       "original_url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal",
       "buzz_score": 88,
@@ -717,15 +662,15 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "The Houthis are blocking the Strait of Hormuz and Saudi Arabia is tripping out. Good luck getting any gas delivered for the next few weeks.",
-      "original_url": "https://www.aljazeera.com/news/2026/7/21/saudi-condemns-houthi-blockade-how-will-the-rest-of-the-world-be-impacted?traffic_source=rss",
-      "buzz_score": 82,
+      "tweet": "Seventeen hundred HIV treatment sites just got shut down after those aid cuts. Just wild that this is how we're prioritizing the budget.",
+      "original_url": "https://www.nytimes.com/2026/07/21/health/hiv-trump-cuts-pepfar.html",
+      "buzz_score": 88,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Saudi condemns Houthi blockade: How will the rest of the world be impacted?",
-      "source": "Al Jazeera",
+      "original_title": "1,700 H.I.V. Treatment Sites Closed After Trump Aid Cuts, a Study Finds",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-07-21T14:53:58.017300+00:00"
+      "added_at": "2026-07-21T14:53:58.016990+00:00"
     },
     {
       "tweet": "Israel's U.N. ambassador calling the Netanyahu arrest threat empty. Politics is basically just yelling at clouds now.",
@@ -992,26 +937,37 @@
       "added_at": "2026-07-15T11:56:15.741237+00:00"
     },
     {
-      "tweet": "Man, Man Utd fans are losing it over these new ticket rules. It's like the club is actively trying to make sure none of the actual fans can get inside.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c2elxzrpw4eo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
+      "tweet": "So apparently Trump's putting new tariffs on Canada now. We're really trying to start a trade war with our nicest neighbor?",
+      "original_url": "https://www.nytimes.com/2026/07/21/world/canada/trump-carney-trade-tariffs.html",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "'They want us gone' - Man Utd fans' fury over ticket ultimatum",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-21T14:53:58.017146+00:00"
+      "original_title": "Trump Is Squeezing Canada. Don’t Expect Carney to Roll Over.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-21T14:53:58.016988+00:00"
     },
     {
-      "tweet": "Canada is trying to talk it out while those 50% tariffs are hitting. What are we actually doing here.",
-      "original_url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
-      "buzz_score": 90,
+      "tweet": "India's literally got a protest movement called the Cockroach movement now. Protesting the government through satire is a wild move, man.",
+      "original_url": "https://www.npr.org/2026/07/21/g-s1-134722/indias-youth-led-cockroach-movement-vows-to-continue-protest-after-police-crackdown",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Canada ready to ‘intensify’ trade talks as Trump orders new tariffs – US politics live",
-      "source": "The Guardian",
+      "original_title": "India's youth-led Cockroach movement vows to continue protest after police crackdown",
+      "source": "NPR News",
       "category": "world",
-      "added_at": "2026-07-21T11:18:39.499566+00:00"
+      "added_at": "2026-07-21T14:53:58.016985+00:00"
+    },
+    {
+      "tweet": "The Houthis are blocking the Strait of Hormuz and Saudi Arabia is tripping out. Good luck getting any gas delivered for the next few weeks.",
+      "original_url": "https://www.aljazeera.com/news/2026/7/21/saudi-condemns-houthi-blockade-how-will-the-rest-of-the-world-be-impacted?traffic_source=rss",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Saudi condemns Houthi blockade: How will the rest of the world be impacted?",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-21T14:53:58.017300+00:00"
     },
     {
       "tweet": "Offset just got probation for that whole dispensary fight. Imagine catching a charge 'cause you didn't want to show your ID.",
@@ -1034,6 +990,28 @@
       "source": "Variety",
       "category": "entertainment",
       "added_at": "2026-07-20T04:50:12.863284+00:00"
+    },
+    {
+      "tweet": "Man, Man Utd fans are losing it over these new ticket rules. It's like the club is actively trying to make sure none of the actual fans can get inside.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/c2elxzrpw4eo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "'They want us gone' - Man Utd fans' fury over ticket ultimatum",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-21T14:53:58.017146+00:00"
+    },
+    {
+      "tweet": "Canada is trying to talk it out while those 50% tariffs are hitting. What are we actually doing here.",
+      "original_url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Canada ready to ‘intensify’ trade talks as Trump orders new tariffs – US politics live",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-21T11:18:39.499566+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2356,
+    "total_posted": 2358,
     "total_collected": 11086
   },
-  "last_posted_at": "2026-07-21T15:03:35.829820+00:00"
+  "last_posted_at": "2026-07-21T16:22:12.073681+00:00"
 }
