@@ -2,28 +2,6 @@
   "last_collected": "2026-07-21T22:33:34.368237+00:00",
   "queue": [
     {
-      "tweet": "Man, I just read that Nixon had a whole contingency speech drafted if Apollo 11 didn't make it back. Just sitting there in the archives the whole time. Creepy.",
-      "original_url": "https://www.mentalfloss.com/history/backup-speech-nixon-prepared-apollo-11-failed?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Backup Speech Nixon Was Prepared to Give if Apollo 11 Failed",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-21T22:33:34.366703+00:00"
-    },
-    {
-      "tweet": "Things are so bad that Apple is doing Buy Now, Pay Later stuff now. We really are just financing our phones until the heat death of the universe.",
-      "original_url": "https://kotaku.com/things-are-so-bad-even-apple-is-implementing-buy-now-pay-later-plans-2000718171",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Things Are So Bad Even Apple Is Implementing Buy Now, Pay Later Plans",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-21T22:33:34.367121+00:00"
-    },
-    {
       "tweet": "Saw this thing about that specific smell every 90s video store had. It’s wild how just thinking about that mix of plastic and carpet hits you instantly. Core memory.",
       "original_url": "https://www.mentalfloss.com/nostalgia/90s/nostalgic-smells-90s-video-stores?utm_source=RSS",
       "buzz_score": 80,
@@ -596,17 +574,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Ben Folds just quit the Kennedy Center board because of all that Trump stuff. He said it straight—once you politicize art, it’s just propaganda. Hard to argue with that.",
-      "original_url": "https://www.billboard.com/music/music-news/ben-folds-testifies-against-trump-kennedy-center-congress-1236300068/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Ben Folds Slams Trump’s Kennedy Center Takeover Before Congress: ‘When You Politicize Art, You’ve Got Propaganda’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-21T22:33:34.366721+00:00"
-    },
-    {
       "tweet": "Trump wants to put a permanent fence around Lafayette Park now. The irony is just loud.",
       "original_url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal",
       "buzz_score": 88,
@@ -748,6 +715,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Ben Folds just quit the Kennedy Center board because of all that Trump stuff. He said it straight—once you politicize art, it’s just propaganda. Hard to argue with that.",
+      "original_url": "https://www.billboard.com/music/music-news/ben-folds-testifies-against-trump-kennedy-center-congress-1236300068/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Ben Folds Slams Trump’s Kennedy Center Takeover Before Congress: ‘When You Politicize Art, You’ve Got Propaganda’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-07-21T22:33:34.366721+00:00"
     },
     {
       "tweet": "Dude, a hacker just wiped the entire Romanian land registry. Imagine showing up to your house and the government just has zero record you own it. Absolutely cooked.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2365,
+    "total_posted": 2367,
     "total_collected": 11134
   },
-  "last_posted_at": "2026-07-21T22:39:31.107402+00:00"
+  "last_posted_at": "2026-07-21T23:43:27.871694+00:00"
 }
