@@ -2,28 +2,6 @@
   "last_collected": "2026-07-21T20:12:04.244675+00:00",
   "queue": [
     {
-      "tweet": "That new Xbox VP they hired to fix their complex product problems already quit after three months. That ship is leaking.",
-      "original_url": "https://kotaku.com/new-xbox-vp-helping-ceo-with-our-most-complex-product-and-engineering-problems-is-already-leaving-three-months-later-2000718135",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "New Xbox VP Helping CEO With ‘Our Most Complex Product And Engineering Problems’ Is Already Leaving Three Months Later",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-21T20:12:04.243913+00:00"
-    },
-    {
-      "tweet": "Turns out that expensive avocado oil you're buying is probably just canola oil with a fancy label. Literally paying extra to get played.",
-      "original_url": "https://www.npr.org/2026/07/21/nx-s1-5902084/avocado-oil-health-fraud-study",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Is that food really made with 100% avocado oil? Likely not",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-21T20:12:04.243343+00:00"
-    },
-    {
       "tweet": "Man, watching Robin Williams clips again. It’s wild how much of what we quote from those movies was just him making it up on the spot. Just built different.",
       "original_url": "https://www.mentalfloss.com/entertainment/movies/robin-williams-most-iconic-improvised-movie-lines-made-it-into-final-cut?utm_source=RSS",
       "buzz_score": 85,
@@ -541,28 +519,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "The Sam's Club Pokémon drop was an absolute disaster. Everyone’s just losing their minds over shiny cardboard again.",
-      "original_url": "https://www.polygon.com/sams-club-pokemon-tcg-ascended-heroes-when-is-drop/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sam's Club Ascended Heroes Pokémon TCG release was awful, employees say",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-21T20:12:04.244007+00:00"
-    },
-    {
-      "tweet": "The government is trying to stop collecting data on workforce diversity now. Like, why are we even doing this at this point",
-      "original_url": "https://www.aljazeera.com/economy/2026/7/21/us-agency-proposes-ending-racial-and-gender-workforce-data-collection?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US agency proposes ending racial and gender workforce data collection",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-21T20:12:04.243630+00:00"
-    },
-    {
       "tweet": "Trump wants to put a permanent fence around Lafayette Park now. The irony is just loud.",
       "original_url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal",
       "buzz_score": 88,
@@ -704,17 +660,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
-    },
-    {
-      "tweet": "Seeing what's going down in South Africa with people taking the law into their own hands to kick out immigrants. Things are getting real dark over there.",
-      "original_url": "https://www.nytimes.com/2026/07/21/world/africa/south-africa-migrants.html",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Inside the Fight to Rid South Africa of Black Immigrants",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-21T20:12:04.243440+00:00"
     },
     {
       "tweet": "Dude, a hacker just wiped the entire Romanian land registry. Imagine showing up to your house and the government just has zero record you own it. Absolutely cooked.",
@@ -992,15 +937,37 @@
       "added_at": "2026-07-15T11:56:15.741237+00:00"
     },
     {
-      "tweet": "So apparently Ortega just called off the elections in Nicaragua indefinitely. Twenty years in power and I guess he’s just done pretending now.",
-      "original_url": "https://www.npr.org/2026/07/21/nx-s1-5902228/nicaragua-ortega-no-elections",
-      "buzz_score": 80,
+      "tweet": "The Sam's Club Pokémon drop was an absolute disaster. Everyone’s just losing their minds over shiny cardboard again.",
+      "original_url": "https://www.polygon.com/sams-club-pokemon-tcg-ascended-heroes-when-is-drop/",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Nicaragua's President Ortega says no more elections, extending his 20-year rule",
-      "source": "NPR News",
+      "original_title": "Sam's Club Ascended Heroes Pokémon TCG release was awful, employees say",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-07-21T20:12:04.244007+00:00"
+    },
+    {
+      "tweet": "The government is trying to stop collecting data on workforce diversity now. Like, why are we even doing this at this point",
+      "original_url": "https://www.aljazeera.com/economy/2026/7/21/us-agency-proposes-ending-racial-and-gender-workforce-data-collection?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US agency proposes ending racial and gender workforce data collection",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-07-21T20:12:04.243227+00:00"
+      "added_at": "2026-07-21T20:12:04.243630+00:00"
+    },
+    {
+      "tweet": "Seeing what's going down in South Africa with people taking the law into their own hands to kick out immigrants. Things are getting real dark over there.",
+      "original_url": "https://www.nytimes.com/2026/07/21/world/africa/south-africa-migrants.html",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Inside the Fight to Rid South Africa of Black Immigrants",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-21T20:12:04.243440+00:00"
     },
     {
       "tweet": "Offset just got probation for that whole dispensary fight. Imagine catching a charge 'cause you didn't want to show your ID.",
@@ -1012,6 +979,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-07-20T23:29:27.784509+00:00"
+    },
+    {
+      "tweet": "So apparently Ortega just called off the elections in Nicaragua indefinitely. Twenty years in power and I guess he’s just done pretending now.",
+      "original_url": "https://www.npr.org/2026/07/21/nx-s1-5902228/nicaragua-ortega-no-elections",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Nicaragua's President Ortega says no more elections, extending his 20-year rule",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-21T20:12:04.243227+00:00"
     },
     {
       "tweet": "Avengers vs. X-Men is actually happening in the new movie. Finally.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2361,
+    "total_posted": 2363,
     "total_collected": 11118
   },
-  "last_posted_at": "2026-07-21T20:21:21.586235+00:00"
+  "last_posted_at": "2026-07-21T21:38:26.169291+00:00"
 }
