@@ -2,28 +2,6 @@
   "last_collected": "2026-07-21T11:18:39.500362+00:00",
   "queue": [
     {
-      "tweet": "So the Houthis just declared a maritime embargo on Saudi Arabia. These dudes are just playing battleship with the world economy now.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-21T09:15:17.972982+00:00"
-    },
-    {
-      "tweet": "Hang on, a Russian warship just rolled up off the coast of England to shoot some guns for fun. They're just flexing at this point, man.",
-      "original_url": "https://www.theguardian.com/uk-news/2026/jul/21/russian-warship-carries-out-live-fire-exercise-uk-coast-neustrashimy-plymouth",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Russian warship carries out rare live-fire exercise 45 miles off UK coast",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-21T09:15:17.972624+00:00"
-    },
-    {
       "tweet": "Dude, a hacker just wiped the entire Romanian land registry. Imagine showing up to your house and the government just has zero record you own it. Absolutely cooked.",
       "original_url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
       "buzz_score": 85,
@@ -55,17 +33,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Canada is trying to talk it out while those 50% tariffs are hitting. What are we actually doing here.",
-      "original_url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Canada ready to ‘intensify’ trade talks as Trump orders new tariffs – US politics live",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-21T11:18:39.499566+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -552,26 +519,15 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "People are still shocked China is making decent AI. It's not 2010 anymore, man.",
-      "original_url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
-      "buzz_score": 85,
+      "tweet": "Canada is trying to talk it out while those 50% tariffs are hitting. What are we actually doing here.",
+      "original_url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
+      "buzz_score": 90,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "America needs to stop getting shocked by Chinese AI",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-07-21T11:18:39.500081+00:00"
-    },
-    {
-      "tweet": "Read about that family escaping North Korea. Honestly makes you realize how much we take for granted every single day.",
-      "original_url": "https://www.nytimes.com/2026/07/21/world/asia/south-korea-family-defection-escape.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "A Family’s Daring Escape From North Korea",
-      "source": "NYT World",
+      "original_title": "Canada ready to ‘intensify’ trade talks as Trump orders new tariffs – US politics live",
+      "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-07-21T11:18:39.499275+00:00"
+      "added_at": "2026-07-21T11:18:39.499566+00:00"
     },
     {
       "tweet": "Trump wants to put a permanent fence around Lafayette Park now. The irony is just loud.",
@@ -981,26 +937,26 @@
       "added_at": "2026-07-15T11:56:15.741237+00:00"
     },
     {
-      "tweet": "The Guild reunion movie made 2.5 million in a day. People really miss that show.",
-      "original_url": "https://www.polygon.com/the-guild-renfaired-kickstarter-funded/",
-      "buzz_score": 80,
+      "tweet": "People are still shocked China is making decent AI. It's not 2010 anymore, man.",
+      "original_url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "The Guild reunion film smashes fundraising goals, earning $2.5 million in less than a day",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-21T11:18:39.499822+00:00"
+      "original_title": "America needs to stop getting shocked by Chinese AI",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-07-21T11:18:39.500081+00:00"
     },
     {
-      "tweet": "Can you imagine just being on a tour in Liverpool and Paul McCartney is stuck in traffic next to you. Absolute main character energy.",
-      "original_url": "https://www.billboard.com/music/music-news/the-beatles-paul-mccartney-magical-mystery-tour-cameo-1236299425/",
-      "buzz_score": 80,
+      "tweet": "Read about that family escaping North Korea. Honestly makes you realize how much we take for granted every single day.",
+      "original_url": "https://www.nytimes.com/2026/07/21/world/asia/south-korea-family-defection-escape.html",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Paul McCartney Shocks Fans With Surprise Cameo on Beatles’ Magical Mystery Tour in Liverpool",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-21T11:18:39.499278+00:00"
+      "original_title": "A Family’s Daring Escape From North Korea",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-21T11:18:39.499275+00:00"
     },
     {
       "tweet": "Offset just got probation for that whole dispensary fight. Imagine catching a charge 'cause you didn't want to show your ID.",
@@ -1034,6 +990,28 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-07-20T04:50:12.862116+00:00"
+    },
+    {
+      "tweet": "The Guild reunion movie made 2.5 million in a day. People really miss that show.",
+      "original_url": "https://www.polygon.com/the-guild-renfaired-kickstarter-funded/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Guild reunion film smashes fundraising goals, earning $2.5 million in less than a day",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-07-21T11:18:39.499822+00:00"
+    },
+    {
+      "tweet": "Can you imagine just being on a tour in Liverpool and Paul McCartney is stuck in traffic next to you. Absolute main character energy.",
+      "original_url": "https://www.billboard.com/music/music-news/the-beatles-paul-mccartney-magical-mystery-tour-cameo-1236299425/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Paul McCartney Shocks Fans With Surprise Cameo on Beatles’ Magical Mystery Tour in Liverpool",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-07-21T11:18:39.499278+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2352,
+    "total_posted": 2354,
     "total_collected": 11070
   },
-  "last_posted_at": "2026-07-21T11:28:34.547214+00:00"
+  "last_posted_at": "2026-07-21T12:57:56.302185+00:00"
 }
