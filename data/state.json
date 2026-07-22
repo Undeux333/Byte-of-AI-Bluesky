@@ -2,28 +2,6 @@
   "last_collected": "2026-07-22T09:44:28.932314+00:00",
   "queue": [
     {
-      "tweet": "Trump is already hitting the campaign trail for 2026 way harder than he did back in 2018. Never stops",
-      "original_url": "https://www.npr.org/2026/07/22/nx-s1-5887428/2026-midterm-election-trump-campaign-rally",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump has campaigned more so far in 2026 midterms than he did at this point in 2018",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-22T09:44:28.930956+00:00"
-    },
-    {
-      "tweet": "Dude, a restaurant in South Korea might actually go to jail for putting ants in a dessert. Just stick to chocolate",
-      "original_url": "https://www.theguardian.com/world/2026/jul/22/restaurant-owner-south-korea-dried-ants-dessert",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Michelin-starred restaurant owner in South Korea faces jail for serving ants in dessert",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-22T09:44:28.930557+00:00"
-    },
-    {
       "tweet": "Hold on, Spider-Man and Hulk are actually going head-to-head in that new trailer? That's ridiculous.",
       "original_url": "https://hypebeast.com/2026/7/marvel-tom-holland-zendaya-spider-man-brand-new-day-final-trailer-stream",
       "buzz_score": 85,
@@ -123,28 +101,6 @@
       "added_at": "2026-07-22T04:31:08.042181+00:00"
     },
     {
-      "tweet": "Paul McCartney just randomly Facetimed Ringo Starr during a Beatles tour in Liverpool. That's actually a wild thing to happen on a Tuesday.",
-      "original_url": "https://www.rollingstone.com/music/music-news/paul-mccartney-facetimes-ringo-beatles-magical-mystery-tour-1235596950/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Paul McCartney Facetiming Ringo Starr During Beatles’ Magical Mystery Tour Is the Cameo of the Year",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-07-22T04:31:08.042849+00:00"
-    },
-    {
-      "tweet": "New study says coffee might be fine for your heart but energy drinks are just a bad time. My daily caffeine routine is technically a health choice now.",
-      "original_url": "https://www.sciencedaily.com/releases/2026/07/260721000820.htm",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Coffee may protect your heart but energy drinks could harm it",
-      "source": "ScienceDaily",
-      "category": "science",
-      "added_at": "2026-07-22T04:31:08.042698+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -176,6 +132,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Paul McCartney just randomly Facetimed Ringo Starr during a Beatles tour in Liverpool. That's actually a wild thing to happen on a Tuesday.",
+      "original_url": "https://www.rollingstone.com/music/music-news/paul-mccartney-facetimes-ringo-beatles-magical-mystery-tour-1235596950/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Paul McCartney Facetiming Ringo Starr During Beatles’ Magical Mystery Tour Is the Cameo of the Year",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-07-22T04:31:08.042849+00:00"
+    },
+    {
+      "tweet": "New study says coffee might be fine for your heart but energy drinks are just a bad time. My daily caffeine routine is technically a health choice now.",
+      "original_url": "https://www.sciencedaily.com/releases/2026/07/260721000820.htm",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Coffee may protect your heart but energy drinks could harm it",
+      "source": "ScienceDaily",
+      "category": "science",
+      "added_at": "2026-07-22T04:31:08.042698+00:00"
     },
     {
       "tweet": "Someone actually watched that AI movie from the District 9 guy and said it was straight trash. We're not ready for AI cinema.",
@@ -651,17 +629,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Chelsea really dropped 117 million on Morgan Rogers. Are they even playing soccer or just doing math at this point?",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Chelsea sign £117m Rogers - what will he bring?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-22T01:04:36.807037+00:00"
-    },
-    {
       "tweet": "Trump wants to put a permanent fence around Lafayette Park now. The irony is just loud.",
       "original_url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal",
       "buzz_score": 88,
@@ -803,6 +770,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Chelsea really dropped 117 million on Morgan Rogers. Are they even playing soccer or just doing math at this point?",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Chelsea sign £117m Rogers - what will he bring?",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-22T01:04:36.807037+00:00"
     },
     {
       "tweet": "Man, watching Robin Williams clips again. It’s wild how much of what we quote from those movies was just him making it up on the spot. Just built different.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2375,
+    "total_posted": 2377,
     "total_collected": 11194
   },
-  "last_posted_at": "2026-07-22T09:50:59.852633+00:00"
+  "last_posted_at": "2026-07-22T11:38:04.211104+00:00"
 }
