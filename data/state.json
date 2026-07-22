@@ -2,28 +2,6 @@
   "last_collected": "2026-07-22T22:31:30.378220+00:00",
   "queue": [
     {
-      "tweet": "That Assassin's Creed director said managing 1,000 people feels like pissing upstream. Sometimes more people just means less gets done",
-      "original_url": "https://kotaku.com/ex-assassins-creed-hexe-director-explains-why-trying-to-get-things-done-with-1000-person-teams-felt-like-pissing-upstream-2000718473",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Ex-Assassin’s Creed Hexe Director Explains Why Trying To Get Things Done With 1,000-Person Teams Felt Like ‘Pissing Upstream’",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-22T22:31:30.377100+00:00"
-    },
-    {
-      "tweet": "WoW players think there's some massive insider raiding scandal going down. Can anything just be for fun anymore",
-      "original_url": "https://kotaku.com/world-of-warcraft-insider-raiding-scandal-2000718464",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "World Of Warcraft Players Think They’ve Uncovered An Insider Raiding Scandal",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-22T22:31:30.376975+00:00"
-    },
-    {
       "tweet": "Dude, people are saying AI labs are now 'pelicanmaxxing' and I genuinely don't even know what to do with that. Just another day in hell",
       "original_url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
       "buzz_score": 85,
@@ -200,17 +178,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "There’s a thing called FreeInk now to make e-readers actually open source. Finally, let me own the device I paid for.",
-      "original_url": "https://freeink.org/",
-      "buzz_score": 65,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "FreeInk: Open ecosystem for e-readers",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-22T20:05:17.100443+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -220,6 +187,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "There’s a thing called FreeInk now to make e-readers actually open source. Finally, let me own the device I paid for.",
+      "original_url": "https://freeink.org/",
+      "buzz_score": 65,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "FreeInk: Open ecosystem for e-readers",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-22T20:05:17.100443+00:00"
     },
     {
       "tweet": "Someone actually watched that AI movie from the District 9 guy and said it was straight trash. We're not ready for AI cinema.",
@@ -695,17 +673,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Japan is losing it because their PM is getting like three hours of sleep. Everyone acts like burning out is a personality trait",
-      "original_url": "https://www.nytimes.com/2026/07/22/world/asia/japan-takaichi-sleep-schedule.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Japan Is Startled by Prime Minister’s Grueling Sleep Schedule",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-22T22:31:30.376668+00:00"
-    },
-    {
       "tweet": "Trump wants to put a permanent fence around Lafayette Park now. The irony is just loud.",
       "original_url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal",
       "buzz_score": 88,
@@ -847,6 +814,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Japan is losing it because their PM is getting like three hours of sleep. Everyone acts like burning out is a personality trait",
+      "original_url": "https://www.nytimes.com/2026/07/22/world/asia/japan-takaichi-sleep-schedule.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Japan Is Startled by Prime Minister’s Grueling Sleep Schedule",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-22T22:31:30.376668+00:00"
     },
     {
       "tweet": "Hold on, Spider-Man and Hulk are actually going head-to-head in that new trailer? That's ridiculous.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2393,
+    "total_posted": 2395,
     "total_collected": 11272
   },
-  "last_posted_at": "2026-07-22T22:39:03.854303+00:00"
+  "last_posted_at": "2026-07-22T23:44:39.958912+00:00"
 }
