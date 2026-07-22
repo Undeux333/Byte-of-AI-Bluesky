@@ -2,28 +2,6 @@
   "last_collected": "2026-07-22T17:46:24.748416+00:00",
   "queue": [
     {
-      "tweet": "People are using delivery apps to send food to those student protesters in India. Actually kinda genius.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/anonymous-food-donations-reach-indian-student-protesters?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Anonymous food donations reach Indian student protesters",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-22T17:46:24.747397+00:00"
-    },
-    {
-      "tweet": "People are actually out here chasing that Instagram face look now. We’re literally editing ourselves out of reality, man.",
-      "original_url": "https://www.npr.org/2026/07/22/nx-s1-5902070/jia-tolentino-instagram-face-plastic-surgery",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "In pursuit of 'Instagram face,' are we losing the imperfections that make us human?",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-22T17:46:24.746837+00:00"
-    },
-    {
       "tweet": "So apparently ChatGPT is gonna have ads now. Can’t wait for my chatbot to try and sell me insurance while I’m trying to finish this email. Great.",
       "original_url": "https://ads.openai.com/",
       "buzz_score": 85,
@@ -79,28 +57,6 @@
       "added_at": "2026-07-22T12:57:37.637379+00:00"
     },
     {
-      "tweet": "Hold on, Southampton’s coach got charged by the FA for that whole Spygate thing? Honestly, keep up.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c93480l4ex7o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Southampton boss Eckert charged by FA over Spygate",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-22T12:57:37.636987+00:00"
-    },
-    {
-      "tweet": "Dude, they just busted 370 million worth of coke in Liberia. That is a lot of nose candy.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cyvl3zgr3v4o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Cocaine worth $370m seized in Liberia's biggest-ever drugs bust",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-22T12:57:37.636688+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -132,6 +88,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Hold on, Southampton’s coach got charged by the FA for that whole Spygate thing? Honestly, keep up.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/c93480l4ex7o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Southampton boss Eckert charged by FA over Spygate",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-22T12:57:37.636987+00:00"
+    },
+    {
+      "tweet": "Dude, they just busted 370 million worth of coke in Liberia. That is a lot of nose candy.",
+      "original_url": "https://www.bbc.co.uk/news/articles/cyvl3zgr3v4o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Cocaine worth $370m seized in Liberia's biggest-ever drugs bust",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-22T12:57:37.636688+00:00"
     },
     {
       "tweet": "Someone actually watched that AI movie from the District 9 guy and said it was straight trash. We're not ready for AI cinema.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2385,
+    "total_posted": 2387,
     "total_collected": 11240
   },
-  "last_posted_at": "2026-07-22T17:54:35.047815+00:00"
+  "last_posted_at": "2026-07-22T19:02:43.793026+00:00"
 }
