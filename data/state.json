@@ -2,28 +2,6 @@
   "last_collected": "2026-07-22T20:05:17.100725+00:00",
   "queue": [
     {
-      "tweet": "Inter Miami is actually under investigation for tampering after signing Casemiro. They’re basically playing FIFA career mode with infinite money turned on.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c3304ex7n7xo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Inter Miami under investigation after signing Casemiro",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-22T20:05:17.099565+00:00"
-    },
-    {
-      "tweet": "So I just found out about sin-eaters. People used to literally eat food off a dead body to take on their sins so they could get into heaven. My job search is rough but that's a whole new level.",
-      "original_url": "https://www.mentalfloss.com/culture/jobs/sin-eaters-creepy-history?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Creepy Historical Job That Required You to Eat Someone Else's Sins",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-22T20:05:17.099554+00:00"
-    },
-    {
       "tweet": "Palworld fans think one of their monsters is better than the actual Pokémon version. I mean, it’s not exactly a hard thing to do these days.",
       "original_url": "https://www.polygon.com/palworld-panthalus-kyogre-pokemon-legendary-comparison/",
       "buzz_score": 80,
@@ -165,28 +143,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Yo, Populous just unveiled the world's largest football stadium. That place is gonna be empty.",
-      "original_url": "https://hypebeast.com/2026/7/2030-fifa-world-cup-populous-grand-stade-hassan-ii-venue-morocco",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Populous Unveils the World's Largest Football Stadium for the 2030 World Cup",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-07-22T12:57:37.637654+00:00"
-    },
-    {
-      "tweet": "Australia is telling China they won't be bullied while building nukes. That's a bold look.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jul/22/australia-to-warn-china-it-wont-be-bulled-by-provocative-actions-as-it-builds-military-and-nuclear-arsenal",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australia to warn China it won’t be bullied by ‘provocative‘ actions as it builds military and nuclear arsenal",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-22T12:57:37.637379+00:00"
     },
     {
       "tweet": "Someone actually watched that AI movie from the District 9 guy and said it was straight trash. We're not ready for AI cinema.",
@@ -805,26 +761,26 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "Hold on, Southampton’s coach got charged by the FA for that whole Spygate thing? Honestly, keep up.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c93480l4ex7o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
+      "tweet": "Yo, Populous just unveiled the world's largest football stadium. That place is gonna be empty.",
+      "original_url": "https://hypebeast.com/2026/7/2030-fifa-world-cup-populous-grand-stade-hassan-ii-venue-morocco",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Southampton boss Eckert charged by FA over Spygate",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-22T12:57:37.636987+00:00"
+      "original_title": "Populous Unveils the World's Largest Football Stadium for the 2030 World Cup",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-07-22T12:57:37.637654+00:00"
     },
     {
-      "tweet": "Dude, they just busted 370 million worth of coke in Liberia. That is a lot of nose candy.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cyvl3zgr3v4o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
+      "tweet": "Australia is telling China they won't be bullied while building nukes. That's a bold look.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jul/22/australia-to-warn-china-it-wont-be-bulled-by-provocative-actions-as-it-builds-military-and-nuclear-arsenal",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Cocaine worth $370m seized in Liberia's biggest-ever drugs bust",
-      "source": "BBC World",
+      "original_title": "Australia to warn China it won’t be bullied by ‘provocative‘ actions as it builds military and nuclear arsenal",
+      "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-07-22T12:57:37.636688+00:00"
+      "added_at": "2026-07-22T12:57:37.637379+00:00"
     },
     {
       "tweet": "Hold on, Spider-Man and Hulk are actually going head-to-head in that new trailer? That's ridiculous.",
@@ -1034,6 +990,28 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-07-18T14:06:02.023662+00:00"
+    },
+    {
+      "tweet": "Hold on, Southampton’s coach got charged by the FA for that whole Spygate thing? Honestly, keep up.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/c93480l4ex7o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Southampton boss Eckert charged by FA over Spygate",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-22T12:57:37.636987+00:00"
+    },
+    {
+      "tweet": "Dude, they just busted 370 million worth of coke in Liberia. That is a lot of nose candy.",
+      "original_url": "https://www.bbc.co.uk/news/articles/cyvl3zgr3v4o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Cocaine worth $370m seized in Liberia's biggest-ever drugs bust",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-22T12:57:37.636688+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2389,
+    "total_posted": 2391,
     "total_collected": 11256
   },
-  "last_posted_at": "2026-07-22T20:14:35.220822+00:00"
+  "last_posted_at": "2026-07-22T21:34:10.801297+00:00"
 }
