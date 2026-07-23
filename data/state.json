@@ -2,28 +2,6 @@
   "last_collected": "2026-07-23T22:36:29.236846+00:00",
   "queue": [
     {
-      "tweet": "The war on Iran has already cost us over a hundred billion and now they want sixty-seven billion more. Where's the money even going.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-war-on-iran-the-110-billion-price-tag?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US war on Iran: The $110 billion price tag",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-23T22:36:29.236297+00:00"
-    },
-    {
-      "tweet": "Did you see people arguing against open source AI on HackerNews again. Man, they’re just gatekeeping math at this point.",
-      "original_url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The arguments against open source AI are bad",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-23T22:36:29.235980+00:00"
-    },
-    {
       "tweet": "Watched some guys try to take down that massive Palworld boss and it almost went completely sideways. Classic.",
       "original_url": "https://kotaku.com/palworld-players-fight-massive-end-game-boss-and-it-almost-goes-terribly-2000718798",
       "buzz_score": 80,
@@ -112,28 +90,6 @@
       "added_at": "2026-07-23T18:00:42.946245+00:00"
     },
     {
-      "tweet": "Did you see Arsenal is trying to drop 70 million for Guimaraes. Man, money is just pretend at this point.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cpq8lpj530po?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Arsenal set to make £70m bid for Newcastle's Guimaraes",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-23T18:00:42.945562+00:00"
-    },
-    {
-      "tweet": "They're saying writing by hand is actually better for your brain than typing. Honestly just makes sense, feels like I haven't used a pen for anything besides a signature in years.",
-      "original_url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Writing by hand is good for your brain",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-23T18:00:42.945547+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -154,6 +110,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Did you see Arsenal is trying to drop 70 million for Guimaraes. Man, money is just pretend at this point.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cpq8lpj530po?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Arsenal set to make £70m bid for Newcastle's Guimaraes",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-23T18:00:42.945562+00:00"
+    },
+    {
+      "tweet": "They're saying writing by hand is actually better for your brain than typing. Honestly just makes sense, feels like I haven't used a pen for anything besides a signature in years.",
+      "original_url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Writing by hand is good for your brain",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-23T18:00:42.945547+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -640,28 +618,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Trump is letting Saudi Arabia enrich uranium while South Korea has been asking for the same deal for years. That's a bold move.",
-      "original_url": "https://www.nytimes.com/2026/07/23/world/asia/us-saudi-nuclear-deal-south-korea.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "For South Korea, U.S.-Saudi Nuclear Deal Exposes a Double Standard",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-23T15:07:26.057127+00:00"
-    },
-    {
-      "tweet": "Trump is threatening the biggest strikes yet on Iran while they're hitting Bahrain and Kuwait. Are we just doing this forever.",
-      "original_url": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump warns of largest strikes on Iran yet as Tehran lashes out across Gulf",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-23T22:36:29.236367+00:00"
-    },
-    {
       "tweet": "Ukraine is hitting Russian warehouses now to basically mess with their version of Amazon. They're really trying to make that war felt at home.",
       "original_url": "https://www.nytimes.com/2026/07/23/world/europe/russia-ukraine-wildberries-attacks.html",
       "buzz_score": 88,
@@ -814,6 +770,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-04-09T07:14:41.251115+00:00"
+    },
+    {
+      "tweet": "Trump is letting Saudi Arabia enrich uranium while South Korea has been asking for the same deal for years. That's a bold move.",
+      "original_url": "https://www.nytimes.com/2026/07/23/world/asia/us-saudi-nuclear-deal-south-korea.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "For South Korea, U.S.-Saudi Nuclear Deal Exposes a Double Standard",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-23T15:07:26.057127+00:00"
+    },
+    {
+      "tweet": "Trump is threatening the biggest strikes yet on Iran while they're hitting Bahrain and Kuwait. Are we just doing this forever.",
+      "original_url": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump warns of largest strikes on Iran yet as Tehran lashes out across Gulf",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-23T22:36:29.236367+00:00"
     },
     {
       "tweet": "The EU just hit Google with another billion dollar fine for antitrust stuff. Brussels is never gonna let up on them.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2421,
+    "total_posted": 2423,
     "total_collected": 11395
   },
-  "last_posted_at": "2026-07-23T22:42:56.442935+00:00"
+  "last_posted_at": "2026-07-23T23:42:15.235369+00:00"
 }
