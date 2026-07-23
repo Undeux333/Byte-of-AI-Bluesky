@@ -2,39 +2,6 @@
   "last_collected": "2026-07-23T09:33:31.257859+00:00",
   "queue": [
     {
-      "tweet": "So Origin Energy got hacked and they just handed over everyone's bank details. Classic.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jul/23/personal-and-banking-details-among-customer-data-stolen-in-origin-energy-hack",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Personal and banking details among customer data stolen in Origin Energy hack",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-23T09:33:31.256089+00:00"
-    },
-    {
-      "tweet": "Dude, Shania Twain is actually doing a biopic. We're getting the whole story, it's all happening.",
-      "original_url": "https://www.billboard.com/music/country/shania-twain-talks-taylor-swift-new-album-fallon-1236301256/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘I Love Everything About Her’: Shania Twain Has Only Good Things to Say About Taylor Swift",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-23T09:33:31.256080+00:00"
-    },
-    {
-      "tweet": "Saw someone say non-fiction books are the antithesis of AI slop. Finally someone said it.",
-      "original_url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Quality non-fiction books are the antithesis of AI slop",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-23T04:29:39.238369+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -66,6 +33,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Saw someone say non-fiction books are the antithesis of AI slop. Finally someone said it.",
+      "original_url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Quality non-fiction books are the antithesis of AI slop",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-23T04:29:39.238369+00:00"
     },
     {
       "tweet": "Someone actually watched that AI movie from the District 9 guy and said it was straight trash. We're not ready for AI cinema.",
@@ -541,28 +519,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "New York Times says the White House is using the legal system to scare reporters. Power moves.",
-      "original_url": "https://www.npr.org/2026/07/23/nx-s1-5903854/trump-new-air-force-one-nyt-subpoenas",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "'New York Times' alleges White House abuses legal system to intimidate reporters",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-23T09:33:31.256740+00:00"
-    },
-    {
-      "tweet": "Labor is apparently allergic to dissent now at that party conference. Since when is progress just doing whatever you're told.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jul/23/ed-husic-dissent-labor-party-national-conference-anthony-albanese-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Husic says Labor ‘allergic to dissent’ as he breaks ranks on key government positions at party conference",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-23T09:33:31.256617+00:00"
-    },
-    {
       "tweet": "Trump wants to put a permanent fence around Lafayette Park now. The irony is just loud.",
       "original_url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal",
       "buzz_score": 88,
@@ -915,48 +871,26 @@
       "added_at": "2026-07-19T00:06:19.562351+00:00"
     },
     {
-      "tweet": "Mamdani says he can't arrest Netanyahu because he lacks the authority. Why even bring it up then?",
-      "original_url": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 90,
+      "tweet": "New York Times says the White House is using the legal system to scare reporters. Power moves.",
+      "original_url": "https://www.npr.org/2026/07/23/nx-s1-5903854/trump-new-air-force-one-nyt-subpoenas",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Mamdani backs off pledge to arrest Netanyahu citing lack of authority",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-23T07:05:30.216150+00:00"
-    },
-    {
-      "tweet": "Police experts are questioning how ICE is vetting their people after those shootings. Guess they aren't.",
-      "original_url": "https://www.npr.org/2026/07/23/nx-s1-5903173/police-experts-question-ice-officer-vetting",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "After deadly shootings, police experts question how well ICE officers are vetted",
+      "original_title": "'New York Times' alleges White House abuses legal system to intimidate reporters",
       "source": "NPR News",
       "category": "world",
-      "added_at": "2026-07-23T09:33:31.256878+00:00"
+      "added_at": "2026-07-23T09:33:31.256740+00:00"
     },
     {
-      "tweet": "Apple's new iOS beta has a max transparency setting that warps everything. We're really just living in a tech demo now.",
-      "original_url": "https://www.wired.com/story/my-week-of-transparent-living-with-apples-more-clear-liquid-glass-setting/",
-      "buzz_score": 80,
+      "tweet": "Labor is apparently allergic to dissent now at that party conference. Since when is progress just doing whatever you're told.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jul/23/ed-husic-dissent-labor-party-national-conference-anthony-albanese-ntwnfb",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "My Week of Transparent Living With Apple’s ‘More Clear’ Liquid Glass Setting",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-07-23T09:33:31.256367+00:00"
-    },
-    {
-      "tweet": "Man, Kaymer says even the CEO doesn't know if LIV Golf is gonna exist next year. Just burning cash until the music stops.",
-      "original_url": "https://www.bbc.co.uk/sport/golf/articles/c8dn9rpev80o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "'Even the CEO doesn't know' - Kaymer on LIV's future",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-23T09:33:31.256086+00:00"
+      "original_title": "Husic says Labor ‘allergic to dissent’ as he breaks ranks on key government positions at party conference",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-23T09:33:31.256617+00:00"
     },
     {
       "tweet": "Ten people from the same family died in a fire in Lima and they're calling it arson. Absolutely tragic",
@@ -1034,6 +968,50 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-07-22T17:46:24.747269+00:00"
+    },
+    {
+      "tweet": "Mamdani says he can't arrest Netanyahu because he lacks the authority. Why even bring it up then?",
+      "original_url": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Mamdani backs off pledge to arrest Netanyahu citing lack of authority",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-23T07:05:30.216150+00:00"
+    },
+    {
+      "tweet": "Police experts are questioning how ICE is vetting their people after those shootings. Guess they aren't.",
+      "original_url": "https://www.npr.org/2026/07/23/nx-s1-5903173/police-experts-question-ice-officer-vetting",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "After deadly shootings, police experts question how well ICE officers are vetted",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-23T09:33:31.256878+00:00"
+    },
+    {
+      "tweet": "Apple's new iOS beta has a max transparency setting that warps everything. We're really just living in a tech demo now.",
+      "original_url": "https://www.wired.com/story/my-week-of-transparent-living-with-apples-more-clear-liquid-glass-setting/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "My Week of Transparent Living With Apple’s ‘More Clear’ Liquid Glass Setting",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-07-23T09:33:31.256367+00:00"
+    },
+    {
+      "tweet": "Man, Kaymer says even the CEO doesn't know if LIV Golf is gonna exist next year. Just burning cash until the music stops.",
+      "original_url": "https://www.bbc.co.uk/sport/golf/articles/c8dn9rpev80o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "'Even the CEO doesn't know' - Kaymer on LIV's future",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-23T09:33:31.256086+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2403,
+    "total_posted": 2405,
     "total_collected": 11328
   },
-  "last_posted_at": "2026-07-23T09:41:24.619864+00:00"
+  "last_posted_at": "2026-07-23T11:37:12.780096+00:00"
 }
