@@ -2,28 +2,6 @@
   "last_collected": "2026-07-23T20:34:07.235695+00:00",
   "queue": [
     {
-      "tweet": "Dude, Paul McCartney actually thought he stole the melody for Yesterday from someone else and spent weeks asking around. Just pure anxiety.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/beatles-classic-paul-mccartney-dreamed?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Beatles Classic Paul McCartney Dreamed Before He Wrote It Down",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-23T20:34:07.234202+00:00"
-    },
-    {
-      "tweet": "Trump is already throwing a wrench into that Saudi nuclear deal he just signed. The man really can't help himself.",
-      "original_url": "https://www.nytimes.com/2026/07/23/world/middleeast/trump-saudi-arabia-palestinian-state.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump Throws a Potential Wrench in the Saudi Nuclear Deal He Just Inked",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-23T20:34:07.235339+00:00"
-    },
-    {
       "tweet": "So Houthis are hitting tankers and the US is striking back in Iran again. Are we ever just gonna have a normal week?",
       "original_url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -112,28 +90,6 @@
       "added_at": "2026-07-23T18:00:42.945547+00:00"
     },
     {
-      "tweet": "Trump is letting Saudi Arabia enrich uranium while South Korea has been asking for the same deal for years. That's a bold move.",
-      "original_url": "https://www.nytimes.com/2026/07/23/world/asia/us-saudi-nuclear-deal-south-korea.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "For South Korea, U.S.-Saudi Nuclear Deal Exposes a Double Standard",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-23T15:07:26.057127+00:00"
-    },
-    {
-      "tweet": "Ukraine is hitting Russian warehouses now to basically mess with their version of Amazon. They're really trying to make that war felt at home.",
-      "original_url": "https://www.nytimes.com/2026/07/23/world/europe/russia-ukraine-wildberries-attacks.html",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-23T12:59:00.061689+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -156,59 +112,26 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "The EU just hit Google with another billion dollar fine for antitrust stuff. Brussels is never gonna let up on them.",
-      "original_url": "https://www.aljazeera.com/news/2026/7/23/eu-hits-google-with-new-1bn-fine-saying-it-broke-digital-antitrust-rules?traffic_source=rss",
-      "buzz_score": 85,
+      "tweet": "Trump is letting Saudi Arabia enrich uranium while South Korea has been asking for the same deal for years. That's a bold move.",
+      "original_url": "https://www.nytimes.com/2026/07/23/world/asia/us-saudi-nuclear-deal-south-korea.html",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "EU hits Google with new $1bn fine, saying it broke digital antitrust rules",
-      "source": "Al Jazeera",
+      "original_title": "For South Korea, U.S.-Saudi Nuclear Deal Exposes a Double Standard",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-07-23T12:59:00.061971+00:00"
+      "added_at": "2026-07-23T15:07:26.057127+00:00"
     },
     {
-      "tweet": "Bro, check this out. Someone made a tool to put an entire PowerPoint presentation into a single HTML file. Absolute wizardry.",
-      "original_url": "https://bento.page/slides/",
-      "buzz_score": 85,
+      "tweet": "Ukraine is hitting Russian warehouses now to basically mess with their version of Amazon. They're really trying to make that war felt at home.",
+      "original_url": "https://www.nytimes.com/2026/07/23/world/europe/russia-ukraine-wildberries-attacks.html",
+      "buzz_score": 88,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-23T12:59:00.061678+00:00"
-    },
-    {
-      "tweet": "Arsenal dropped 34 million on Tzolis. Hope he's worth that kind of cash.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cp8xk0x902do?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Arsenal sign Greece forward Tzolis for £34m",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-23T15:07:26.057643+00:00"
-    },
-    {
-      "tweet": "Garnacho is heading to Villa on loan from Chelsea. Seems like a lot of moving parts for one transfer.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c1d1g6k51l7o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Garnacho joins Villa on loan from Chelsea",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-23T15:07:26.057505+00:00"
-    },
-    {
-      "tweet": "Dude, GigaToken is out here moving 1000x faster than current language models. My brain literally can't even process that kind of speed.",
-      "original_url": "https://github.com/marcelroed/gigatoken/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "GigaToken: ~1000x faster Language model tokenization",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-23T15:07:26.056549+00:00"
+      "original_title": "A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-23T12:59:00.061689+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -695,26 +618,59 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Man, people are modding Final Fantasy 7 Rebirth and it looks insane. One file and the game's completely different.",
-      "original_url": "https://kotaku.com/final-fantasy-7-rebirth-shader-injector-mod-lighting-shadows-2000718736",
-      "buzz_score": 80,
+      "tweet": "The EU just hit Google with another billion dollar fine for antitrust stuff. Brussels is never gonna let up on them.",
+      "original_url": "https://www.aljazeera.com/news/2026/7/23/eu-hits-google-with-new-1bn-fine-saying-it-broke-digital-antitrust-rules?traffic_source=rss",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "You Can Make Final Fantasy 7 Rebirth Utterly Beautiful With A Single Mod",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-23T12:59:00.062226+00:00"
+      "original_title": "EU hits Google with new $1bn fine, saying it broke digital antitrust rules",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-23T12:59:00.061971+00:00"
     },
     {
-      "tweet": "Saudi Arabia is going nuclear now so they can sell more of their own oil. Can you even imagine being that flush with cash.",
-      "original_url": "https://www.nytimes.com/2026/07/23/world/middleeast/saudi-arabia-nuclear.html",
-      "buzz_score": 80,
+      "tweet": "Bro, check this out. Someone made a tool to put an entire PowerPoint presentation into a single HTML file. Absolute wizardry.",
+      "original_url": "https://bento.page/slides/",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Oil-Rich Saudi Arabia Isn’t Short on Energy. Here’s Why It’s Going Nuclear.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-23T12:59:00.061687+00:00"
+      "original_title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-23T12:59:00.061678+00:00"
+    },
+    {
+      "tweet": "Arsenal dropped 34 million on Tzolis. Hope he's worth that kind of cash.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cp8xk0x902do?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Arsenal sign Greece forward Tzolis for £34m",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-23T15:07:26.057643+00:00"
+    },
+    {
+      "tweet": "Garnacho is heading to Villa on loan from Chelsea. Seems like a lot of moving parts for one transfer.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/c1d1g6k51l7o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Garnacho joins Villa on loan from Chelsea",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-23T15:07:26.057505+00:00"
+    },
+    {
+      "tweet": "Dude, GigaToken is out here moving 1000x faster than current language models. My brain literally can't even process that kind of speed.",
+      "original_url": "https://github.com/marcelroed/gigatoken/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "GigaToken: ~1000x faster Language model tokenization",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-23T15:07:26.056549+00:00"
     },
     {
       "tweet": "Trump wants to put a permanent fence around Lafayette Park now. The irony is just loud.",
@@ -1034,6 +990,28 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-07-19T08:39:55.322536+00:00"
+    },
+    {
+      "tweet": "Man, people are modding Final Fantasy 7 Rebirth and it looks insane. One file and the game's completely different.",
+      "original_url": "https://kotaku.com/final-fantasy-7-rebirth-shader-injector-mod-lighting-shadows-2000718736",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "You Can Make Final Fantasy 7 Rebirth Utterly Beautiful With A Single Mod",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-23T12:59:00.062226+00:00"
+    },
+    {
+      "tweet": "Saudi Arabia is going nuclear now so they can sell more of their own oil. Can you even imagine being that flush with cash.",
+      "original_url": "https://www.nytimes.com/2026/07/23/world/middleeast/saudi-arabia-nuclear.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Oil-Rich Saudi Arabia Isn’t Short on Energy. Here’s Why It’s Going Nuclear.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-23T12:59:00.061687+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2417,
+    "total_posted": 2419,
     "total_collected": 11379
   },
-  "last_posted_at": "2026-07-23T20:41:32.633232+00:00"
+  "last_posted_at": "2026-07-23T21:49:39.467795+00:00"
 }
