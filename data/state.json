@@ -2,28 +2,6 @@
   "last_collected": "2026-07-23T15:07:26.058386+00:00",
   "queue": [
     {
-      "tweet": "They're showing a four-hour Elon Musk documentary at the Venice film festival. Imagine sitting through that.",
-      "original_url": "https://www.theguardian.com/film/2026/jul/23/venice-film-festival-lineup-2026-danny-boyle",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Murdoch and Musk in the crosshairs at Venice film festival",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-23T15:07:26.058015+00:00"
-    },
-    {
-      "tweet": "Shipping insurance through Hormuz is four times higher than the average right now. We're gonna feel that at the pump soon.",
-      "original_url": "https://www.aljazeera.com/economy/2026/7/23/how-shipping-insurance-rates-are-rising-as-hormuz-bab-al-mandeb-shut-down?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "How shipping insurance rates are rising, as Hormuz, Bab al-Mandeb shut down",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-23T15:07:26.057769+00:00"
-    },
-    {
       "tweet": "Trump is letting Saudi Arabia enrich uranium while South Korea has been asking for the same deal for years. That's a bold move.",
       "original_url": "https://www.nytimes.com/2026/07/23/world/asia/us-saudi-nuclear-deal-south-korea.html",
       "buzz_score": 80,
@@ -981,17 +959,6 @@
       "added_at": "2026-07-19T00:06:19.562351+00:00"
     },
     {
-      "tweet": "So apparently Trump says the Saudis only get a nuclear deal if they join the Abraham Accords. Is that how we're doing diplomacy now?",
-      "original_url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Saudis must recognise Israel for nuclear deal, says Trump",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-23T15:07:26.056745+00:00"
-    },
-    {
       "tweet": "Saw someone say non-fiction books are the antithesis of AI slop. Finally someone said it.",
       "original_url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
       "buzz_score": 80,
@@ -1034,6 +1001,17 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-07-22T22:31:30.376673+00:00"
+    },
+    {
+      "tweet": "So apparently Trump says the Saudis only get a nuclear deal if they join the Abraham Accords. Is that how we're doing diplomacy now?",
+      "original_url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Saudis must recognise Israel for nuclear deal, says Trump",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-23T15:07:26.056745+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2409,
+    "total_posted": 2411,
     "total_collected": 11353
   },
-  "last_posted_at": "2026-07-23T15:14:51.510177+00:00"
+  "last_posted_at": "2026-07-23T16:51:57.682035+00:00"
 }
