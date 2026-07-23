@@ -2,28 +2,6 @@
   "last_collected": "2026-07-23T18:00:42.946371+00:00",
   "queue": [
     {
-      "tweet": "Hold on, the House just voted to end the war in Iran again. Like, how many times do we have to tell them we aren't doing that. Whatever.",
-      "original_url": "https://www.npr.org/2026/07/23/nx-s1-5904515/congress-iran-war-powers-vote",
-      "buzz_score": 85,
-      "buzz_score2": 98,
-      "rewrite_count": 0,
-      "original_title": "For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-23T18:00:42.945554+00:00"
-    },
-    {
-      "tweet": "Watching the Tate brothers lose their right-wing allies after that Miami arrest is something else. Some people sure know how to find the exit.",
-      "original_url": "https://www.nytimes.com/2026/07/23/us/tate-brothers-trump-tucker-carlson.html",
-      "buzz_score": 85,
-      "buzz_score2": 97,
-      "rewrite_count": 0,
-      "original_title": "The Tate Brothers Are Losing Right-Wing Allies After Their Arrest",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-23T18:00:42.945559+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -167,28 +145,6 @@
       "added_at": "2026-07-23T15:07:26.056549+00:00"
     },
     {
-      "tweet": "Man, people are modding Final Fantasy 7 Rebirth and it looks insane. One file and the game's completely different.",
-      "original_url": "https://kotaku.com/final-fantasy-7-rebirth-shader-injector-mod-lighting-shadows-2000718736",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "You Can Make Final Fantasy 7 Rebirth Utterly Beautiful With A Single Mod",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-23T12:59:00.062226+00:00"
-    },
-    {
-      "tweet": "Saudi Arabia is going nuclear now so they can sell more of their own oil. Can you even imagine being that flush with cash.",
-      "original_url": "https://www.nytimes.com/2026/07/23/world/middleeast/saudi-arabia-nuclear.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Oil-Rich Saudi Arabia Isn’t Short on Energy. Here’s Why It’s Going Nuclear.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-23T12:59:00.061687+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -209,6 +165,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Man, people are modding Final Fantasy 7 Rebirth and it looks insane. One file and the game's completely different.",
+      "original_url": "https://kotaku.com/final-fantasy-7-rebirth-shader-injector-mod-lighting-shadows-2000718736",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "You Can Make Final Fantasy 7 Rebirth Utterly Beautiful With A Single Mod",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-23T12:59:00.062226+00:00"
+    },
+    {
+      "tweet": "Saudi Arabia is going nuclear now so they can sell more of their own oil. Can you even imagine being that flush with cash.",
+      "original_url": "https://www.nytimes.com/2026/07/23/world/middleeast/saudi-arabia-nuclear.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Oil-Rich Saudi Arabia Isn’t Short on Energy. Here’s Why It’s Going Nuclear.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-23T12:59:00.061687+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2413,
+    "total_posted": 2415,
     "total_collected": 11363
   },
-  "last_posted_at": "2026-07-23T18:07:40.390804+00:00"
+  "last_posted_at": "2026-07-23T19:28:36.080637+00:00"
 }
