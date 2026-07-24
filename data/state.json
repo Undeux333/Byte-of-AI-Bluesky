@@ -2,17 +2,6 @@
   "last_collected": "2026-07-24T17:48:30.026043+00:00",
   "queue": [
     {
-      "tweet": "Man, Tomb Raider: Catalyst got pushed to 2028 and they're dropping discs for it on PlayStation. Guess we don't own our games anymore.",
-      "original_url": "https://kotaku.com/tomb-raider-catalyst-delayed-to-2028-which-means-no-disc-on-playstation-2000719166",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tomb Raider: Catalyst Delayed To 2028 Which Means No Disc On PlayStation",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-24T17:48:30.024456+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -904,28 +893,6 @@
       "added_at": "2026-07-19T11:24:55.586339+00:00"
     },
     {
-      "tweet": "Wait, a Romanian jet just shot down a Russian drone. That's a little too close to home.",
-      "original_url": "https://www.aljazeera.com/news/2026/7/24/romanian-jet-fighter-shoots-down-suspected-russian-drone?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Romanian jet fighter shoots down suspected Russian drone",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-24T17:48:30.025273+00:00"
-    },
-    {
-      "tweet": "So apparently the US just hit over 2,300 measles cases already. We're out here living in the 1800s now.",
-      "original_url": "https://www.aljazeera.com/news/2026/7/24/us-records-2318-measles-cases-thus-far-in-2026-passing-2025-total?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US records 2,318 measles cases, already surpassing 2025 total",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-24T17:48:30.024450+00:00"
-    },
-    {
       "tweet": "The director for Spider-Man: Brand New Day isn't even sure if photos of Peter Parker exist after that spell. Kinda how it feels whenever I check my own cloud storage.",
       "original_url": "https://kotaku.com/even-spider-man-brand-new-days-director-isnt-sure-if-photos-of-peter-parker-exist-following-dr-stranges-spell-2000718803",
       "buzz_score": 75,
@@ -946,6 +913,28 @@
       "source": "Kotaku",
       "category": "entertainment",
       "added_at": "2026-07-23T22:36:29.236573+00:00"
+    },
+    {
+      "tweet": "Wait, a Romanian jet just shot down a Russian drone. That's a little too close to home.",
+      "original_url": "https://www.aljazeera.com/news/2026/7/24/romanian-jet-fighter-shoots-down-suspected-russian-drone?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Romanian jet fighter shoots down suspected Russian drone",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-24T17:48:30.025273+00:00"
+    },
+    {
+      "tweet": "So apparently the US just hit over 2,300 measles cases already. We're out here living in the 1800s now.",
+      "original_url": "https://www.aljazeera.com/news/2026/7/24/us-records-2318-measles-cases-thus-far-in-2026-passing-2025-total?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US records 2,318 measles cases, already surpassing 2025 total",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-24T17:48:30.024450+00:00"
     },
     {
       "tweet": "Canada is about to let Thomson Reuters sell a massive investigative database to ICE for 125 million bucks. Just selling us out.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2439,
+    "total_posted": 2440,
     "total_collected": 11491
   },
-  "last_posted_at": "2026-07-24T17:56:43.368333+00:00"
+  "last_posted_at": "2026-07-24T19:09:08.530872+00:00"
 }
