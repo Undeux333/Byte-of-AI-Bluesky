@@ -2,28 +2,6 @@
   "last_collected": "2026-07-24T09:30:43.065105+00:00",
   "queue": [
     {
-      "tweet": "Bro, that Ukrainian drone strike just turned that whole St Petersburg warehouse into a bonfire. I guess they really needed that stock gone.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/major-fire-after-ukrainian-strike-on-st-petersburg-warehouse?traffic_source=rss",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Major fire after Ukrainian strike on St Petersburg warehouse",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-24T09:30:43.064029+00:00"
-    },
-    {
-      "tweet": "Larian might be doing a new Baldur's Gate 3 comic. Guess I'm never actually finishing that game.",
-      "original_url": "https://www.polygon.com/larian-baldurs-gate-3-new-comic-series-dark-horse/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Larian could return to Baldur's Gate 3 in new series by Dark Horse and Wizards of the Coast",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-24T09:30:43.064421+00:00"
-    },
-    {
       "tweet": "Did you see they had to pull everyone off that peninsula in France by boat? Literally just straight into the water to get away from the fire. Wild.",
       "original_url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -33,28 +11,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-07-24T09:30:43.063811+00:00"
-    },
-    {
-      "tweet": "Nike really made shoes that look like they're stained with Cheeto dust. Finally a style I can get behind.",
-      "original_url": "https://hypebeast.com/2026/7/nike-vomero-plus-cheat-day-iv4522-200-official-images",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Nike Vomero Plus \"Cheat Day\" Stains Its Khaki Upper With a Cheeto-Dusted Orange Fade",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-07-24T07:05:22.186972+00:00"
-    },
-    {
-      "tweet": "Dude, a couple spent over 800k on gene therapy for their daughter and she still passed away. That’s just cruel man.",
-      "original_url": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-24T01:05:49.702752+00:00"
     },
     {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
@@ -79,6 +35,17 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "Nike really made shoes that look like they're stained with Cheeto dust. Finally a style I can get behind.",
+      "original_url": "https://hypebeast.com/2026/7/nike-vomero-plus-cheat-day-iv4522-200-official-images",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Nike Vomero Plus \"Cheat Day\" Stains Its Khaki Upper With a Cheeto-Dusted Orange Fade",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-07-24T07:05:22.186972+00:00"
+    },
+    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -88,6 +55,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Dude, a couple spent over 800k on gene therapy for their daughter and she still passed away. That’s just cruel man.",
+      "original_url": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
+      "buzz_score": 90,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-24T01:05:49.702752+00:00"
     },
     {
       "tweet": "Someone actually watched that AI movie from the District 9 guy and said it was straight trash. We're not ready for AI cinema.",
@@ -563,39 +541,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Those Tate guys are losing all their allies after that Miami arrest. Predictable.",
-      "original_url": "https://www.nytimes.com/2026/07/23/us/tate-brothers-trump-tucker-carlson.html",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The Tate Brothers Are Losing Right-Wing Allies After Their Arrest",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-24T07:05:22.187094+00:00"
-    },
-    {
-      "tweet": "Seeing people in Iran just giving up on their futures 'cause of all that fighting. That's the reality of it tho.",
-      "original_url": "https://www.nytimes.com/2026/07/24/world/middleeast/iran-war-cycle.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘We’re Trapped in Hell’: Iranians Say Life Is Put On Hold by Months of War",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-24T09:30:43.064679+00:00"
-    },
-    {
-      "tweet": "Man, it's been 13 nights in a row that we've been hitting Iran. At what point does this just become a permanent part of the schedule.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-attacks-iran-for-13th-consecutive-night?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US attacks Iran for 13th consecutive night",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-24T09:30:43.064117+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -970,6 +915,61 @@
       "added_at": "2026-07-19T11:24:55.586339+00:00"
     },
     {
+      "tweet": "Those Tate guys are losing all their allies after that Miami arrest. Predictable.",
+      "original_url": "https://www.nytimes.com/2026/07/23/us/tate-brothers-trump-tucker-carlson.html",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Tate Brothers Are Losing Right-Wing Allies After Their Arrest",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-24T07:05:22.187094+00:00"
+    },
+    {
+      "tweet": "Seeing people in Iran just giving up on their futures 'cause of all that fighting. That's the reality of it tho.",
+      "original_url": "https://www.nytimes.com/2026/07/24/world/middleeast/iran-war-cycle.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘We’re Trapped in Hell’: Iranians Say Life Is Put On Hold by Months of War",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-24T09:30:43.064679+00:00"
+    },
+    {
+      "tweet": "Man, it's been 13 nights in a row that we've been hitting Iran. At what point does this just become a permanent part of the schedule.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-attacks-iran-for-13th-consecutive-night?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US attacks Iran for 13th consecutive night",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-24T09:30:43.064117+00:00"
+    },
+    {
+      "tweet": "The director for Spider-Man: Brand New Day isn't even sure if photos of Peter Parker exist after that spell. Kinda how it feels whenever I check my own cloud storage.",
+      "original_url": "https://kotaku.com/even-spider-man-brand-new-days-director-isnt-sure-if-photos-of-peter-parker-exist-following-dr-stranges-spell-2000718803",
+      "buzz_score": 75,
+      "buzz_score2": 96,
+      "rewrite_count": 0,
+      "original_title": "Even Spider-Man: Brand New Day’s Director Isn’t Sure If Photos Of Peter Parker Exist Following Dr. Strange’s Spell",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-23T18:00:42.946245+00:00"
+    },
+    {
+      "tweet": "Watched some guys try to take down that massive Palworld boss and it almost went completely sideways. Classic.",
+      "original_url": "https://kotaku.com/palworld-players-fight-massive-end-game-boss-and-it-almost-goes-terribly-2000718798",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Palworld Players Fight Massive End Game Boss And It Almost Goes Terribly",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-23T22:36:29.236573+00:00"
+    },
+    {
       "tweet": "They want to start auditing university courses on Israel-Palestine now. We're really doing this.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/university-courses-covering-israel-palestine-should-be-audited-julian-leeser-tells-royal-commission-ntwnfb",
       "buzz_score": 80,
@@ -1012,28 +1012,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-07-24T09:30:43.063818+00:00"
-    },
-    {
-      "tweet": "The director for Spider-Man: Brand New Day isn't even sure if photos of Peter Parker exist after that spell. Kinda how it feels whenever I check my own cloud storage.",
-      "original_url": "https://kotaku.com/even-spider-man-brand-new-days-director-isnt-sure-if-photos-of-peter-parker-exist-following-dr-stranges-spell-2000718803",
-      "buzz_score": 75,
-      "buzz_score2": 96,
-      "rewrite_count": 0,
-      "original_title": "Even Spider-Man: Brand New Day’s Director Isn’t Sure If Photos Of Peter Parker Exist Following Dr. Strange’s Spell",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-23T18:00:42.946245+00:00"
-    },
-    {
-      "tweet": "Watched some guys try to take down that massive Palworld boss and it almost went completely sideways. Classic.",
-      "original_url": "https://kotaku.com/palworld-players-fight-massive-end-game-boss-and-it-almost-goes-terribly-2000718798",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Palworld Players Fight Massive End Game Boss And It Almost Goes Terribly",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-23T22:36:29.236573+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2431,
+    "total_posted": 2433,
     "total_collected": 11459
   },
-  "last_posted_at": "2026-07-24T09:36:15.592476+00:00"
+  "last_posted_at": "2026-07-24T11:23:03.550907+00:00"
 }
