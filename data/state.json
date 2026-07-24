@@ -2,17 +2,6 @@
   "last_collected": "2026-07-24T22:41:23.055754+00:00",
   "queue": [
     {
-      "tweet": "Man, Europe is literally on fire right now. 140,000 people just had to leave everything behind. Insane.",
-      "original_url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-24T22:41:23.053643+00:00"
-    },
-    {
       "tweet": "Dude, did you see Claude Opus 5 just dropped? We're running out of ways to say it's getting scary.",
       "original_url": "https://www.anthropic.com/news/claude-opus-5",
       "buzz_score": 85,
@@ -937,6 +926,17 @@
       "added_at": "2026-07-19T11:24:55.586339+00:00"
     },
     {
+      "tweet": "The director for Spider-Man: Brand New Day isn't even sure if photos of Peter Parker exist after that spell. Kinda how it feels whenever I check my own cloud storage.",
+      "original_url": "https://kotaku.com/even-spider-man-brand-new-days-director-isnt-sure-if-photos-of-peter-parker-exist-following-dr-stranges-spell-2000718803",
+      "buzz_score": 75,
+      "buzz_score2": 96,
+      "rewrite_count": 0,
+      "original_title": "Even Spider-Man: Brand New Day’s Director Isn’t Sure If Photos Of Peter Parker Exist Following Dr. Strange’s Spell",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-23T18:00:42.946245+00:00"
+    },
+    {
       "tweet": "Reid Hoffman is raising 100 million for a new AI lab. Because apparently we really need more of that right now.",
       "original_url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
       "buzz_score": 80,
@@ -981,15 +981,15 @@
       "added_at": "2026-07-24T22:41:23.053797+00:00"
     },
     {
-      "tweet": "The director for Spider-Man: Brand New Day isn't even sure if photos of Peter Parker exist after that spell. Kinda how it feels whenever I check my own cloud storage.",
-      "original_url": "https://kotaku.com/even-spider-man-brand-new-days-director-isnt-sure-if-photos-of-peter-parker-exist-following-dr-stranges-spell-2000718803",
-      "buzz_score": 75,
-      "buzz_score2": 96,
+      "tweet": "Watched some guys try to take down that massive Palworld boss and it almost went completely sideways. Classic.",
+      "original_url": "https://kotaku.com/palworld-players-fight-massive-end-game-boss-and-it-almost-goes-terribly-2000718798",
+      "buzz_score": 80,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Even Spider-Man: Brand New Day’s Director Isn’t Sure If Photos Of Peter Parker Exist Following Dr. Strange’s Spell",
+      "original_title": "Palworld Players Fight Massive End Game Boss And It Almost Goes Terribly",
       "source": "Kotaku",
       "category": "entertainment",
-      "added_at": "2026-07-23T18:00:42.946245+00:00"
+      "added_at": "2026-07-23T22:36:29.236573+00:00"
     },
     {
       "tweet": "How much longer is PlayStation gonna keep hiding from 'no disc, no buy'? Do they even hear us?",
@@ -1001,17 +1001,6 @@
       "source": "Kotaku",
       "category": "entertainment",
       "added_at": "2026-07-24T20:39:31.414299+00:00"
-    },
-    {
-      "tweet": "Watched some guys try to take down that massive Palworld boss and it almost went completely sideways. Classic.",
-      "original_url": "https://kotaku.com/palworld-players-fight-massive-end-game-boss-and-it-almost-goes-terribly-2000718798",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Palworld Players Fight Massive End Game Boss And It Almost Goes Terribly",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-23T22:36:29.236573+00:00"
     },
     {
       "tweet": "Paramount is pausing the Warner deal and it could cost them 1.7 billion. That’s a hell of a tab to pay for nothing.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2442,
+    "total_posted": 2443,
     "total_collected": 11517
   },
-  "last_posted_at": "2026-07-24T22:49:52.533955+00:00"
+  "last_posted_at": "2026-07-24T23:40:14.795635+00:00"
 }
