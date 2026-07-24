@@ -2,28 +2,6 @@
   "last_collected": "2026-07-24T12:52:24.042308+00:00",
   "queue": [
     {
-      "tweet": "Did you see they had to pull everyone off that peninsula in France by boat? Literally just straight into the water to get away from the fire. Wild.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "France orders evacuation of tourist spot as hundreds flee wildfires by boat",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-24T09:30:43.063811+00:00"
-    },
-    {
-      "tweet": "Waxahatchee and Kevin Morby just had their kid. Guy literally couldn't wait to show up, arrived two weeks early.",
-      "original_url": "https://www.billboard.com/music/music-news/waxahatchee-katie-crutchfield-kevin-morby-announce-birth-son-1236302231/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Waxahatchee’s Katie Crutchfield and Kevin Morby Welcome First Child: ‘He Is Perfect’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-24T12:52:24.040793+00:00"
-    },
-    {
       "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
       "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "buzz_score": 95,
@@ -541,50 +519,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Trump and Iran are just trading strikes now. It feels like we're constantly on the edge of that thing spiraling out.",
-      "original_url": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump threatens Iran with further escalation as tit-for-tat airstrikes continue",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-24T12:52:24.041936+00:00"
-    },
-    {
-      "tweet": "Laura Loomer went to Ukraine and suddenly changed her whole stance on the war. That’s how you know she’s just playing a part.",
-      "original_url": "https://www.theguardian.com/us-news/2026/jul/24/maga-influencer-laura-loomer-reverses-course-on-ukraine-after-kyiv-visit",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Maga influencer Laura Loomer reverses course on Ukraine after Kyiv visit",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-24T12:52:24.041321+00:00"
-    },
-    {
-      "tweet": "Watching these kids in India use memes to clown on Modi is wild. Nothing ruins a polished image faster than the internet.",
-      "original_url": "https://www.nytimes.com/2026/07/24/world/asia/india-cockroach-party-cjp-protest-memes.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Phones in Hand, India’s Young Protesters Blast Through Modi’s Media Control",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-24T12:52:24.040791+00:00"
-    },
-    {
-      "tweet": "Oil just hit a hundred bucks a barrel again. Cool, guess I'll just start walking to work then.",
-      "original_url": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-24T12:52:24.040788+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -770,17 +704,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945557+00:00"
-    },
-    {
-      "tweet": "Nike really made shoes that look like they're stained with Cheeto dust. Finally a style I can get behind.",
-      "original_url": "https://hypebeast.com/2026/7/nike-vomero-plus-cheat-day-iv4522-200-official-images",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Nike Vomero Plus \"Cheat Day\" Stains Its Khaki Upper With a Cheeto-Dusted Orange Fade",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-07-24T07:05:22.186972+00:00"
     },
     {
       "tweet": "The EU just hit Google with another billion dollar fine for antitrust stuff. Brussels is never gonna let up on them.",
@@ -970,6 +893,83 @@
       "added_at": "2026-07-19T11:24:55.586339+00:00"
     },
     {
+      "tweet": "Trump and Iran are just trading strikes now. It feels like we're constantly on the edge of that thing spiraling out.",
+      "original_url": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump threatens Iran with further escalation as tit-for-tat airstrikes continue",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-24T12:52:24.041936+00:00"
+    },
+    {
+      "tweet": "Laura Loomer went to Ukraine and suddenly changed her whole stance on the war. That’s how you know she’s just playing a part.",
+      "original_url": "https://www.theguardian.com/us-news/2026/jul/24/maga-influencer-laura-loomer-reverses-course-on-ukraine-after-kyiv-visit",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Maga influencer Laura Loomer reverses course on Ukraine after Kyiv visit",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-24T12:52:24.041321+00:00"
+    },
+    {
+      "tweet": "Watching these kids in India use memes to clown on Modi is wild. Nothing ruins a polished image faster than the internet.",
+      "original_url": "https://www.nytimes.com/2026/07/24/world/asia/india-cockroach-party-cjp-protest-memes.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Phones in Hand, India’s Young Protesters Blast Through Modi’s Media Control",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-24T12:52:24.040791+00:00"
+    },
+    {
+      "tweet": "Oil just hit a hundred bucks a barrel again. Cool, guess I'll just start walking to work then.",
+      "original_url": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-24T12:52:24.040788+00:00"
+    },
+    {
+      "tweet": "The director for Spider-Man: Brand New Day isn't even sure if photos of Peter Parker exist after that spell. Kinda how it feels whenever I check my own cloud storage.",
+      "original_url": "https://kotaku.com/even-spider-man-brand-new-days-director-isnt-sure-if-photos-of-peter-parker-exist-following-dr-stranges-spell-2000718803",
+      "buzz_score": 75,
+      "buzz_score2": 96,
+      "rewrite_count": 0,
+      "original_title": "Even Spider-Man: Brand New Day’s Director Isn’t Sure If Photos Of Peter Parker Exist Following Dr. Strange’s Spell",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-23T18:00:42.946245+00:00"
+    },
+    {
+      "tweet": "Watched some guys try to take down that massive Palworld boss and it almost went completely sideways. Classic.",
+      "original_url": "https://kotaku.com/palworld-players-fight-massive-end-game-boss-and-it-almost-goes-terribly-2000718798",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Palworld Players Fight Massive End Game Boss And It Almost Goes Terribly",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-23T22:36:29.236573+00:00"
+    },
+    {
+      "tweet": "Nike really made shoes that look like they're stained with Cheeto dust. Finally a style I can get behind.",
+      "original_url": "https://hypebeast.com/2026/7/nike-vomero-plus-cheat-day-iv4522-200-official-images",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Nike Vomero Plus \"Cheat Day\" Stains Its Khaki Upper With a Cheeto-Dusted Orange Fade",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-07-24T07:05:22.186972+00:00"
+    },
+    {
       "tweet": "Spain just declared a national emergency with those wildfires near Madrid. Honestly terrifying.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/spain-declares-national-emergency-over-wildfires?traffic_source=rss",
       "buzz_score": 80,
@@ -1001,28 +1001,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-07-24T12:52:24.040785+00:00"
-    },
-    {
-      "tweet": "The director for Spider-Man: Brand New Day isn't even sure if photos of Peter Parker exist after that spell. Kinda how it feels whenever I check my own cloud storage.",
-      "original_url": "https://kotaku.com/even-spider-man-brand-new-days-director-isnt-sure-if-photos-of-peter-parker-exist-following-dr-stranges-spell-2000718803",
-      "buzz_score": 75,
-      "buzz_score2": 96,
-      "rewrite_count": 0,
-      "original_title": "Even Spider-Man: Brand New Day’s Director Isn’t Sure If Photos Of Peter Parker Exist Following Dr. Strange’s Spell",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-23T18:00:42.946245+00:00"
-    },
-    {
-      "tweet": "Watched some guys try to take down that massive Palworld boss and it almost went completely sideways. Classic.",
-      "original_url": "https://kotaku.com/palworld-players-fight-massive-end-game-boss-and-it-almost-goes-terribly-2000718798",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Palworld Players Fight Massive End Game Boss And It Almost Goes Terribly",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-23T22:36:29.236573+00:00"
     },
     {
       "tweet": "Gangs in the Amazon are literally holding villages hostage now. Things are getting wild down there.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2435,
+    "total_posted": 2437,
     "total_collected": 11475
   },
-  "last_posted_at": "2026-07-24T13:00:33.106279+00:00"
+  "last_posted_at": "2026-07-24T14:51:21.445383+00:00"
 }
