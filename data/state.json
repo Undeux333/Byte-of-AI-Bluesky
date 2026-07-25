@@ -2,28 +2,6 @@
   "last_collected": "2026-07-25T18:36:31.394894+00:00",
   "queue": [
     {
-      "tweet": "Katy Perry is legit pissed the Trump administration used Firework for those military strikes. That's a rough look",
-      "original_url": "https://www.billboard.com/music/music-news/katy-perry-condemns-trump-firework-military-video-1236302972/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Katy Perry Condemns Trump Administration’s Use of ‘Firework’ in Military Strikes Video",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-25T18:36:31.393631+00:00"
-    },
-    {
-      "tweet": "Dude, someone found a rare Nintendo console just sitting in a Japanese love hotel. Like, I don't even know what to do with that info. Weird",
-      "original_url": "https://kotaku.com/rare-nintendo-console-discovered-throughout-japanese-love-hotel-2000719317",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Rare Nintendo Console Discovered Throughout Japanese Love Hotel",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-25T18:36:31.393617+00:00"
-    },
-    {
       "tweet": "Saw this list of summer movies millennials grew up with. We're all basically the same person",
       "original_url": "https://www.mentalfloss.com/entertainment/movies/unforgettable-summer-movies-every-millennial-grew-up-watching?utm_source=RSS",
       "buzz_score": 80,
@@ -143,28 +121,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Hitting a drone exhibition in Kyiv with missiles while people are standing there. That is just brutal.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-25T11:34:36.946209+00:00"
-    },
-    {
-      "tweet": "De Zerbi telling Tottenham players they can just leave if they aren't happy. Finally a manager who doesn't care about their feelings.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cdewlp710l0o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Unhappy Tottenham players should leave - De Zerbi",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-25T11:34:36.945022+00:00"
     },
     {
       "tweet": "So now the US is out here disabling tankers in the Hormuz Strait. At this point we're just looking for trouble.",
@@ -882,15 +838,26 @@
       "added_at": "2026-07-23T18:00:42.945557+00:00"
     },
     {
-      "tweet": "Splatoon fans are already shipping characters that don't even have personalities. We really just need to project romance onto everything.",
-      "original_url": "https://www.polygon.com/splatoon-raiders-fan-shipping-shiver/",
-      "buzz_score": 75,
+      "tweet": "Hitting a drone exhibition in Kyiv with missiles while people are standing there. That is just brutal.",
+      "original_url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Splatoon Raiders fans are already shipping its characters, somehow",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-25T11:34:36.945558+00:00"
+      "original_title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-25T11:34:36.946209+00:00"
+    },
+    {
+      "tweet": "De Zerbi telling Tottenham players they can just leave if they aren't happy. Finally a manager who doesn't care about their feelings.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cdewlp710l0o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Unhappy Tottenham players should leave - De Zerbi",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-25T11:34:36.945022+00:00"
     },
     {
       "tweet": "Instead of buying those overpriced sleepbuds, apparently a decent pillow actually works. We're so easy to sell gadgets to.",
@@ -1034,6 +1001,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-07-22T22:31:30.376658+00:00"
+    },
+    {
+      "tweet": "Splatoon fans are already shipping characters that don't even have personalities. We really just need to project romance onto everything.",
+      "original_url": "https://www.polygon.com/splatoon-raiders-fan-shipping-shiver/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Splatoon Raiders fans are already shipping its characters, somehow",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-07-25T11:34:36.945558+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2460,
+    "total_posted": 2462,
     "total_collected": 11639
   },
-  "last_posted_at": "2026-07-25T18:45:32.699112+00:00"
+  "last_posted_at": "2026-07-25T20:00:44.445521+00:00"
 }
