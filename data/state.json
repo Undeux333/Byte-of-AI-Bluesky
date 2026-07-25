@@ -2,28 +2,6 @@
   "last_collected": "2026-07-25T20:39:03.279544+00:00",
   "queue": [
     {
-      "tweet": "Hamilton's saying his positivity is getting tested while Norris takes pole in Hungary. It's just falling apart",
-      "original_url": "https://www.bbc.co.uk/sport/formula1/articles/cm2gd6gd33go?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Norris cautious despite pole as it 'falls apart' for Hamilton",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-25T20:39:03.279065+00:00"
-    },
-    {
-      "tweet": "Saw this list of summer movies millennials grew up with. We're all basically the same person",
-      "original_url": "https://www.mentalfloss.com/entertainment/movies/unforgettable-summer-movies-every-millennial-grew-up-watching?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "6 Unforgettable Summer Movies Every Millennial Grew Up Watching",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-25T18:36:31.394790+00:00"
-    },
-    {
       "tweet": "Kalshi is trying to get Netflix to pull that Prediction Games documentary trailer. Pretty sure that just makes everyone want to watch it more",
       "original_url": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
       "buzz_score": 80,
@@ -585,61 +563,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "That synth guy just wants to spend his money on a bike. Honestly, same.",
-      "original_url": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Synth historian Oli Freke will spend big on a good bicycle",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-07-25T16:31:34.284970+00:00"
-    },
-    {
-      "tweet": "Some people think the northern lights are fire foxes. That’s wild.",
-      "original_url": "https://www.mentalfloss.com/culture/folklore-mythology/northern-lights-legends?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fire Foxes and Dancing Spirits: 10 Legends About the Northern Lights",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-25T16:31:34.284667+00:00"
-    },
-    {
-      "tweet": "Why wear real clothes when you can just find loose-fitting stuff that feels like pajamas. We're all doing that anyway.",
-      "original_url": "https://www.bustle.com/shopping/loose-fitting-clothes-that-are-so-pretty-flattering",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "80 Loose-Fitting Clothes That Are So Pretty & Flattering",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-07-25T16:31:34.284484+00:00"
-    },
-    {
-      "tweet": "Teenage Engineering is doing thirty percent off their gear. Wallet's gonna hurt.",
-      "original_url": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Teenage Engineering’s unique music machines are 30 percent off",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-07-25T16:31:34.284299+00:00"
-    },
-    {
-      "tweet": "Quarter of a million people fleeing wildfires in France and Spain right now. We're cooked.",
-      "original_url": "https://www.theguardian.com/world/2026/jul/25/wildfires-force-250000-people-to-evacuate-in-france-and-spain",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "More than 250,000 people flee wildfires in France and Spain",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-25T16:31:34.283783+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -847,6 +770,61 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945557+00:00"
+    },
+    {
+      "tweet": "That synth guy just wants to spend his money on a bike. Honestly, same.",
+      "original_url": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Synth historian Oli Freke will spend big on a good bicycle",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-07-25T16:31:34.284970+00:00"
+    },
+    {
+      "tweet": "Some people think the northern lights are fire foxes. That’s wild.",
+      "original_url": "https://www.mentalfloss.com/culture/folklore-mythology/northern-lights-legends?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Fire Foxes and Dancing Spirits: 10 Legends About the Northern Lights",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-07-25T16:31:34.284667+00:00"
+    },
+    {
+      "tweet": "Why wear real clothes when you can just find loose-fitting stuff that feels like pajamas. We're all doing that anyway.",
+      "original_url": "https://www.bustle.com/shopping/loose-fitting-clothes-that-are-so-pretty-flattering",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "80 Loose-Fitting Clothes That Are So Pretty & Flattering",
+      "source": "Bustle",
+      "category": "sex",
+      "added_at": "2026-07-25T16:31:34.284484+00:00"
+    },
+    {
+      "tweet": "Teenage Engineering is doing thirty percent off their gear. Wallet's gonna hurt.",
+      "original_url": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Teenage Engineering’s unique music machines are 30 percent off",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-07-25T16:31:34.284299+00:00"
+    },
+    {
+      "tweet": "Quarter of a million people fleeing wildfires in France and Spain right now. We're cooked.",
+      "original_url": "https://www.theguardian.com/world/2026/jul/25/wildfires-force-250000-people-to-evacuate-in-france-and-spain",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "More than 250,000 people flee wildfires in France and Spain",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-25T16:31:34.283783+00:00"
     },
     {
       "tweet": "Instead of buying those overpriced sleepbuds, apparently a decent pillow actually works. We're so easy to sell gadgets to.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2466,
+    "total_posted": 2468,
     "total_collected": 11649
   },
-  "last_posted_at": "2026-07-25T21:40:20.195513+00:00"
+  "last_posted_at": "2026-07-25T22:42:26.439497+00:00"
 }
