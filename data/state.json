@@ -2,28 +2,6 @@
   "last_collected": "2026-07-26T14:55:41.220026+00:00",
   "queue": [
     {
-      "tweet": "Romania just summoned the Russian ambassador again after downing another drone. Third one since Friday. We're just waiting for the big one now.",
-      "original_url": "https://www.theguardian.com/world/2026/jul/26/romania-summons-russia-ambassador-third-drone-shot-down",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Romania summons Russia’s ambassador after downing third drone since Friday",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-26T14:55:41.218754+00:00"
-    },
-    {
-      "tweet": "So apparently this guy founded the Cockroach Janta Party as a joke after a judge insulted young people in India. Now it's a whole political movement. Peak spite.",
-      "original_url": "https://www.nytimes.com/2026/07/26/world/asia/india-protests-cockroach-janta-party-abhijeet-dipke.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Accidental Hero Who Faced Down India’s Government",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-26T14:55:41.218439+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -57,6 +35,17 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
+      "buzz_score": 92,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
       "tweet": "Saw the list of states with the worst commutes and yeah, my drive is soul-crushing too. That's just how we spend our lives now.",
       "original_url": "https://www.mentalfloss.com/geography/states/states-with-worst-commutes-america?utm_source=RSS",
       "buzz_score": 85,
@@ -88,17 +77,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-07-26T07:17:19.863608+00:00"
-    },
-    {
-      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
-      "buzz_score": 92,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-24T11:28:23.259709+00:00"
     },
     {
       "tweet": "Monday.com is officially blaming AI for their layoffs. That makes 20 companies this year using that same excuse.",
@@ -618,28 +596,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Anthony Joshua got knocked down twice and still won that fight in the second. That guy's chin is made of straight granite.",
-      "original_url": "https://www.aljazeera.com/sports/2026/7/26/joshua-comes-back-twice-to-knock-out-prenga-and-set-up-fury-showdown?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Joshua comes back twice to knock out Prenga and set up Fury showdown",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-26T07:17:19.864163+00:00"
-    },
-    {
-      "tweet": "Bret Michaels had to get surgery for kidney stones right after playing a show in agony. Dude's literally built different, or just insane.",
-      "original_url": "https://www.billboard.com/music/rock/bret-michaels-kidney-stone-surgery-1236303048/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Bret Michaels Undergoes Kidney Stone Surgery After Performing in ‘Intense’ Pain",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-26T07:17:19.863902+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -869,6 +825,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945557+00:00"
+    },
+    {
+      "tweet": "Anthony Joshua got knocked down twice and still won that fight in the second. That guy's chin is made of straight granite.",
+      "original_url": "https://www.aljazeera.com/sports/2026/7/26/joshua-comes-back-twice-to-knock-out-prenga-and-set-up-fury-showdown?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Joshua comes back twice to knock out Prenga and set up Fury showdown",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-26T07:17:19.864163+00:00"
+    },
+    {
+      "tweet": "Bret Michaels had to get surgery for kidney stones right after playing a show in agony. Dude's literally built different, or just insane.",
+      "original_url": "https://www.billboard.com/music/rock/bret-michaels-kidney-stone-surgery-1236303048/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Bret Michaels Undergoes Kidney Stone Surgery After Performing in ‘Intense’ Pain",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-07-26T07:17:19.863902+00:00"
     },
     {
       "tweet": "Dude, there's a prison in Cameroon that actually has its own record label. Inmates are dropping tracks and music videos from inside. That's wild.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2481,
+    "total_posted": 2483,
     "total_collected": 11745
   },
-  "last_posted_at": "2026-07-26T15:01:42.073972+00:00"
+  "last_posted_at": "2026-07-26T16:00:27.313458+00:00"
 }
