@@ -2,17 +2,6 @@
   "last_collected": "2026-07-26T19:51:53.832820+00:00",
   "queue": [
     {
-      "tweet": "Sammy Hagar is actually trying to get David Lee Roth to join him in Vegas. That's a lot of ego for one stage man.",
-      "original_url": "https://www.billboard.com/music/rock/sammy-hagar-david-lee-roth-tour-cancellation-invite-1236303064/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Sammy Hagar Offers David Lee Roth a Spot at His Las Vegas Residency Following Tour Cancellation",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-26T17:44:03.163838+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -948,6 +937,28 @@
       "added_at": "2026-07-25T04:24:58.227407+00:00"
     },
     {
+      "tweet": "Anthony Joshua got knocked down twice and still won that fight in the second. That guy's chin is made of straight granite.",
+      "original_url": "https://www.aljazeera.com/sports/2026/7/26/joshua-comes-back-twice-to-knock-out-prenga-and-set-up-fury-showdown?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Joshua comes back twice to knock out Prenga and set up Fury showdown",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-26T07:17:19.864163+00:00"
+    },
+    {
+      "tweet": "Bret Michaels had to get surgery for kidney stones right after playing a show in agony. Dude's literally built different, or just insane.",
+      "original_url": "https://www.billboard.com/music/rock/bret-michaels-kidney-stone-surgery-1236303048/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Bret Michaels Undergoes Kidney Stone Surgery After Performing in ‘Intense’ Pain",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-07-26T07:17:19.863902+00:00"
+    },
+    {
       "tweet": "Apple's trying to sell their new smart glasses based on privacy. Good luck with that.",
       "original_url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
       "buzz_score": 80,
@@ -990,28 +1001,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-07-26T19:51:53.831249+00:00"
-    },
-    {
-      "tweet": "Anthony Joshua got knocked down twice and still won that fight in the second. That guy's chin is made of straight granite.",
-      "original_url": "https://www.aljazeera.com/sports/2026/7/26/joshua-comes-back-twice-to-knock-out-prenga-and-set-up-fury-showdown?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Joshua comes back twice to knock out Prenga and set up Fury showdown",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-26T07:17:19.864163+00:00"
-    },
-    {
-      "tweet": "Bret Michaels had to get surgery for kidney stones right after playing a show in agony. Dude's literally built different, or just insane.",
-      "original_url": "https://www.billboard.com/music/rock/bret-michaels-kidney-stone-surgery-1236303048/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Bret Michaels Undergoes Kidney Stone Surgery After Performing in ‘Intense’ Pain",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-26T07:17:19.863902+00:00"
     }
   ],
   "seen_urls": [
@@ -2018,8 +2007,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2491,
+    "total_posted": 2492,
     "total_collected": 11777
   },
-  "last_posted_at": "2026-07-26T20:53:04.171569+00:00"
+  "last_posted_at": "2026-07-26T21:39:06.227480+00:00"
 }
