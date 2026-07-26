@@ -79,17 +79,6 @@
       "added_at": "2026-07-25T23:40:15.289021+00:00"
     },
     {
-      "tweet": "Kalshi is trying to get Netflix to pull that Prediction Games documentary trailer. Pretty sure that just makes everyone want to watch it more",
-      "original_url": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-07-25T18:36:31.393867+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -121,6 +110,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Kalshi is trying to get Netflix to pull that Prediction Games documentary trailer. Pretty sure that just makes everyone want to watch it more",
+      "original_url": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-07-25T18:36:31.393867+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -640,17 +640,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Wait, we’re actually getting Blade Runner 2099. That’s lowkey terrifying.",
-      "original_url": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "SDCC teaser gives us our first good look at Blade Runner 2099",
-      "source": "Ars Technica",
-      "category": "tech",
-      "added_at": "2026-07-25T23:40:15.288654+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -1001,6 +990,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-07-22T22:31:30.376658+00:00"
+    },
+    {
+      "tweet": "Wait, we’re actually getting Blade Runner 2099. That’s lowkey terrifying.",
+      "original_url": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "SDCC teaser gives us our first good look at Blade Runner 2099",
+      "source": "Ars Technica",
+      "category": "tech",
+      "added_at": "2026-07-25T23:40:15.288654+00:00"
     },
     {
       "tweet": "Luke Littler is legit trying to break Phil Taylor’s record at the World Matchplay. At this point the kid’s just showing off.",
