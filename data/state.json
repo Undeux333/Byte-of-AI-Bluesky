@@ -2,28 +2,6 @@
   "last_collected": "2026-07-26T12:01:22.463090+00:00",
   "queue": [
     {
-      "tweet": "RFK Jr is pushing for Alzheimer's screenings but he's also sidelining the main panel that would actually do the research. What are we doing here?",
-      "original_url": "https://www.theguardian.com/us-news/2026/jul/26/rfk-jr-alzheimers-us-preventive-services-task-force",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "RFK Jr urges Alzheimer’s screening but blunts key panel that could drive research",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-26T12:01:22.462108+00:00"
-    },
-    {
-      "tweet": "Did you see these new prediction markets? People are out here betting actual money on whether aliens are gonna land. People are bored.",
-      "original_url": "https://usa.newonnetflix.info/info/82772143",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "26th Jul: Instadocs: The Prediction Games (2026), 36m [TV-14] (6/10)",
-      "source": "New on Netflix",
-      "category": "entertainment",
-      "added_at": "2026-07-26T12:01:22.461590+00:00"
-    },
-    {
       "tweet": "Saw the list of states with the worst commutes and yeah, my drive is soul-crushing too. That's just how we spend our lives now.",
       "original_url": "https://www.mentalfloss.com/geography/states/states-with-worst-commutes-america?utm_source=RSS",
       "buzz_score": 85,
@@ -55,50 +33,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-07-26T07:17:19.863608+00:00"
-    },
-    {
-      "tweet": "Anthony Joshua got knocked down twice and still won that fight in the second. That guy's chin is made of straight granite.",
-      "original_url": "https://www.aljazeera.com/sports/2026/7/26/joshua-comes-back-twice-to-knock-out-prenga-and-set-up-fury-showdown?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Joshua comes back twice to knock out Prenga and set up Fury showdown",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-26T07:17:19.864163+00:00"
-    },
-    {
-      "tweet": "Bret Michaels had to get surgery for kidney stones right after playing a show in agony. Dude's literally built different, or just insane.",
-      "original_url": "https://www.billboard.com/music/rock/bret-michaels-kidney-stone-surgery-1236303048/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Bret Michaels Undergoes Kidney Stone Surgery After Performing in ‘Intense’ Pain",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-26T07:17:19.863902+00:00"
-    },
-    {
-      "tweet": "Monday.com is officially blaming AI for their layoffs. That makes 20 companies this year using that same excuse.",
-      "original_url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-07-26T04:39:14.509935+00:00"
-    },
-    {
-      "tweet": "Watching this new Netflix show where the guy tries to avoid dating but obviously fails. We've all been there.",
-      "original_url": "https://usa.newonnetflix.info/info/82761927",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "24th Jul: Class Crush Crisis (2026), 8 Episodes [TV-MA] (6/10)",
-      "source": "New on Netflix",
-      "category": "entertainment",
-      "added_at": "2026-07-26T07:17:19.864786+00:00"
     },
     {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
@@ -134,15 +68,37 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Dude, there's a prison in Cameroon that actually has its own record label. Inmates are dropping tracks and music videos from inside. That's wild.",
-      "original_url": "https://www.bbc.co.uk/news/articles/czxqlkrlj7no?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
+      "tweet": "Anthony Joshua got knocked down twice and still won that fight in the second. That guy's chin is made of straight granite.",
+      "original_url": "https://www.aljazeera.com/sports/2026/7/26/joshua-comes-back-twice-to-knock-out-prenga-and-set-up-fury-showdown?traffic_source=rss",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "The notorious Cameroonian prison with its own record label",
-      "source": "BBC World",
+      "original_title": "Joshua comes back twice to knock out Prenga and set up Fury showdown",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-07-26T04:39:14.509232+00:00"
+      "added_at": "2026-07-26T07:17:19.864163+00:00"
+    },
+    {
+      "tweet": "Bret Michaels had to get surgery for kidney stones right after playing a show in agony. Dude's literally built different, or just insane.",
+      "original_url": "https://www.billboard.com/music/rock/bret-michaels-kidney-stone-surgery-1236303048/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Bret Michaels Undergoes Kidney Stone Surgery After Performing in ‘Intense’ Pain",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-07-26T07:17:19.863902+00:00"
+    },
+    {
+      "tweet": "Monday.com is officially blaming AI for their layoffs. That makes 20 companies this year using that same excuse.",
+      "original_url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "buzz_score": 90,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-07-26T04:39:14.509935+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -662,39 +618,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Marvel just cast David Jonsson as T'Challa's son for the next Black Panther. Guess they're not done with that franchise at all.",
-      "original_url": "https://hypebeast.com/2026/7/marvel-studios-black-panther-3-film-t-challa-son-david-jonsson-announcement",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Marvel Casts David Jonsson as T'Challa's Son in 'Black Panther 3'",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-07-26T04:39:14.509676+00:00"
-    },
-    {
-      "tweet": "So apparently Tehran is summoning diplomats because Kyiv bombed an Iranian ship. We're really just out here escalating everything at this point.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/tehran-summons-ukrainian-diplomat-after-kyiv-bombs-an-iranian-ship?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tehran summons Ukrainian diplomat after Kyiv bombs an Iranian ship",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-26T04:39:14.509393+00:00"
-    },
-    {
-      "tweet": "Israeli settlers are burning crops and mosques in the West Bank again. There’s zero accountability for any of that.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-26T12:01:22.462967+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -704,6 +627,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
+    },
+    {
+      "tweet": "Watching this new Netflix show where the guy tries to avoid dating but obviously fails. We've all been there.",
+      "original_url": "https://usa.newonnetflix.info/info/82761927",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "24th Jul: Class Crush Crisis (2026), 8 Episodes [TV-MA] (6/10)",
+      "source": "New on Netflix",
+      "category": "entertainment",
+      "added_at": "2026-07-26T07:17:19.864786+00:00"
     },
     {
       "tweet": "Hang on, the Neuromancer trailer actually looks decent. Against all odds.",
@@ -904,6 +838,17 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
+      "tweet": "Dude, there's a prison in Cameroon that actually has its own record label. Inmates are dropping tracks and music videos from inside. That's wild.",
+      "original_url": "https://www.bbc.co.uk/news/articles/czxqlkrlj7no?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The notorious Cameroonian prison with its own record label",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-26T04:39:14.509232+00:00"
+    },
+    {
       "tweet": "Ben-Gvir is out there pulling stunts at Al-Aqsa right before an election. Classic move when you've got nothing else to run on.",
       "original_url": "https://www.aljazeera.com/news/2026/7/23/far-right-israeli-incursion-heightens-tensions-at-al-aqsa-ahead-of-election?traffic_source=rss",
       "buzz_score": 80,
@@ -1023,6 +968,39 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-07-25T04:24:58.227407+00:00"
+    },
+    {
+      "tweet": "Marvel just cast David Jonsson as T'Challa's son for the next Black Panther. Guess they're not done with that franchise at all.",
+      "original_url": "https://hypebeast.com/2026/7/marvel-studios-black-panther-3-film-t-challa-son-david-jonsson-announcement",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Marvel Casts David Jonsson as T'Challa's Son in 'Black Panther 3'",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-07-26T04:39:14.509676+00:00"
+    },
+    {
+      "tweet": "So apparently Tehran is summoning diplomats because Kyiv bombed an Iranian ship. We're really just out here escalating everything at this point.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/tehran-summons-ukrainian-diplomat-after-kyiv-bombs-an-iranian-ship?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Tehran summons Ukrainian diplomat after Kyiv bombs an Iranian ship",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-26T04:39:14.509393+00:00"
+    },
+    {
+      "tweet": "Israeli settlers are burning crops and mosques in the West Bank again. There’s zero accountability for any of that.",
+      "original_url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-26T12:01:22.462967+00:00"
     },
     {
       "tweet": "So the Bahrain F1 race is actually happening in Malaysia now. Logistics nightmare.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2477,
+    "total_posted": 2479,
     "total_collected": 11729
   },
-  "last_posted_at": "2026-07-26T12:09:19.734087+00:00"
+  "last_posted_at": "2026-07-26T13:58:41.530026+00:00"
 }
