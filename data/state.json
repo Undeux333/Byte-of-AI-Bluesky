@@ -2,17 +2,6 @@
   "last_collected": "2026-07-26T22:39:09.284490+00:00",
   "queue": [
     {
-      "tweet": "Dude, did you know they used to build amusement parks right next to graveyards? Apparently land was just cheaper back then. Talk about a literal dead-end date.",
-      "original_url": "https://www.mentalfloss.com/history/why-early-amusement-parks-built-near-graveyards?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why So Many Early Amusement Parks Were Built Near Graveyards",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-26T22:39:09.283382+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -574,28 +563,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Trump's border czar is probing vetting failures after that ICE shooting in Maine. Someone really messed up.",
-      "original_url": "https://www.aljazeera.com/news/2026/7/26/trumps-border-czar-suggests-vetting-failures-after-deadly-ice-shooting?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump’s border czar probes possible vetting failures after ICE shooting",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-26T22:39:09.284384+00:00"
-    },
-    {
-      "tweet": "Apple trying to make smart glasses that aren't a privacy nightmare is basically impossible. We're just volunteering to get tracked now.",
-      "original_url": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-07-26T22:39:09.283396+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -825,6 +792,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945557+00:00"
+    },
+    {
+      "tweet": "Trump's border czar is probing vetting failures after that ICE shooting in Maine. Someone really messed up.",
+      "original_url": "https://www.aljazeera.com/news/2026/7/26/trumps-border-czar-suggests-vetting-failures-after-deadly-ice-shooting?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump’s border czar probes possible vetting failures after ICE shooting",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-26T22:39:09.284384+00:00"
+    },
+    {
+      "tweet": "Apple trying to make smart glasses that aren't a privacy nightmare is basically impossible. We're just volunteering to get tracked now.",
+      "original_url": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-07-26T22:39:09.283396+00:00"
     },
     {
       "tweet": "Saw the list of states with the worst commutes and yeah, my drive is soul-crushing too. That's just how we spend our lives now.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2494,
+    "total_posted": 2495,
     "total_collected": 11793
   },
-  "last_posted_at": "2026-07-26T22:44:40.768443+00:00"
+  "last_posted_at": "2026-07-26T23:38:19.203753+00:00"
 }
