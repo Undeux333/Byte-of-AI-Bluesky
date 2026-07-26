@@ -2,28 +2,6 @@
   "last_collected": "2026-07-26T19:51:53.832820+00:00",
   "queue": [
     {
-      "tweet": "So the US is pausing attacks in Iran now because we're running out of missiles. Guess we're just out of gear now.",
-      "original_url": "https://www.theguardian.com/world/2026/jul/26/us-pauses-trump-netanyahu-attacks-on-iran-talks-hormuz",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US pauses Iran attacks for second night after Trump advised to halt bombing",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-26T19:51:53.831254+00:00"
-    },
-    {
-      "tweet": "Did you see that Htmx 4.0 is only dropping on the Game Boy? At this point we're just actively trying to make coding annoying.",
-      "original_url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-26T19:51:53.831239+00:00"
-    },
-    {
       "tweet": "Sammy Hagar is actually trying to get David Lee Roth to join him in Vegas. That's a lot of ego for one stage man.",
       "original_url": "https://www.billboard.com/music/rock/sammy-hagar-david-lee-roth-tour-cancellation-invite-1236303064/",
       "buzz_score": 75,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2489,
+    "total_posted": 2491,
     "total_collected": 11777
   },
-  "last_posted_at": "2026-07-26T19:59:43.267978+00:00"
+  "last_posted_at": "2026-07-26T20:53:04.171569+00:00"
 }
