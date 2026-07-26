@@ -2,28 +2,6 @@
   "last_collected": "2026-07-26T09:29:33.787470+00:00",
   "queue": [
     {
-      "tweet": "So this kid in Michigan is teaching robots how to speak his tribal language to keep it alive. That's actually pretty wild.",
-      "original_url": "https://www.npr.org/2026/07/26/nx-s1-5825798/robot-speaks-endangered-native-american-languages",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Meet the robots programmed by kids to speak their Indigenous languages",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-26T09:29:33.785553+00:00"
-    },
-    {
-      "tweet": "Pubs made an extra 150 million off the World Cup but one place had to scrap their Dolly Parton tribute to fit everyone. Priorities man.",
-      "original_url": "https://www.theguardian.com/business/2026/jul/26/pubs-extra-sales-world-cup-england-football",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘Weekday games were amazing’: pubs toast extra £150m in World Cup sales",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-26T09:29:33.786141+00:00"
-    },
-    {
       "tweet": "Saw the list of states with the worst commutes and yeah, my drive is soul-crushing too. That's just how we spend our lives now.",
       "original_url": "https://www.mentalfloss.com/geography/states/states-with-worst-commutes-america?utm_source=RSS",
       "buzz_score": 85,
@@ -112,28 +90,6 @@
       "added_at": "2026-07-26T04:39:14.509232+00:00"
     },
     {
-      "tweet": "Marvel just cast David Jonsson as T'Challa's son for the next Black Panther. Guess they're not done with that franchise at all.",
-      "original_url": "https://hypebeast.com/2026/7/marvel-studios-black-panther-3-film-t-challa-son-david-jonsson-announcement",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Marvel Casts David Jonsson as T'Challa's Son in 'Black Panther 3'",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-07-26T04:39:14.509676+00:00"
-    },
-    {
-      "tweet": "So apparently Tehran is summoning diplomats because Kyiv bombed an Iranian ship. We're really just out here escalating everything at this point.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/tehran-summons-ukrainian-diplomat-after-kyiv-bombs-an-iranian-ship?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tehran summons Ukrainian diplomat after Kyiv bombs an Iranian ship",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-26T04:39:14.509393+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -165,6 +121,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Marvel just cast David Jonsson as T'Challa's son for the next Black Panther. Guess they're not done with that franchise at all.",
+      "original_url": "https://hypebeast.com/2026/7/marvel-studios-black-panther-3-film-t-challa-son-david-jonsson-announcement",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Marvel Casts David Jonsson as T'Challa's Son in 'Black Panther 3'",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-07-26T04:39:14.509676+00:00"
+    },
+    {
+      "tweet": "So apparently Tehran is summoning diplomats because Kyiv bombed an Iranian ship. We're really just out here escalating everything at this point.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/tehran-summons-ukrainian-diplomat-after-kyiv-bombs-an-iranian-ship?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Tehran summons Ukrainian diplomat after Kyiv bombs an Iranian ship",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-26T04:39:14.509393+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -684,28 +662,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Journalists in Gaza are literally fighting just to leave for medical care. That's grim.",
-      "original_url": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-26T09:29:33.787206+00:00"
-    },
-    {
-      "tweet": "Andy Burnham says he's ready to call out Trump in public if he has to. Someone’s gotta say it.",
-      "original_url": "https://www.theguardian.com/politics/2026/jul/26/andy-burnham-interview-bbc-donald-trump-wes-streeting",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Andy Burnham says he will disagree with Trump in public if necessary",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-26T09:29:33.786006+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -1034,6 +990,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-07-25T04:24:58.227407+00:00"
+    },
+    {
+      "tweet": "Journalists in Gaza are literally fighting just to leave for medical care. That's grim.",
+      "original_url": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-26T09:29:33.787206+00:00"
+    },
+    {
+      "tweet": "Andy Burnham says he's ready to call out Trump in public if he has to. Someone’s gotta say it.",
+      "original_url": "https://www.theguardian.com/politics/2026/jul/26/andy-burnham-interview-bbc-donald-trump-wes-streeting",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Andy Burnham says he will disagree with Trump in public if necessary",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-26T09:29:33.786006+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2473,
+    "total_posted": 2475,
     "total_collected": 11713
   },
-  "last_posted_at": "2026-07-26T09:37:20.129441+00:00"
+  "last_posted_at": "2026-07-26T11:08:04.793231+00:00"
 }
