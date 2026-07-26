@@ -2,28 +2,6 @@
   "last_collected": "2026-07-26T17:44:03.165353+00:00",
   "queue": [
     {
-      "tweet": "PlayStation is doing a massive sale on physical discs before they phase them out. We're all just renting our libraries now.",
-      "original_url": "https://kotaku.com/big-playstation-game-sale-is-a-perfect-chance-to-build-up-your-physical-collection-before-sony-kills-discs-2000719394",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Big PlayStation Game Sale Is A Perfect Chance To Build Up Your Physical Collection Before Sony Kills Discs",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-26T17:44:03.164376+00:00"
-    },
-    {
-      "tweet": "Valve is ghosting the people who spent years building that Portal remake. Pretty cold.",
-      "original_url": "https://kotaku.com/completed-fan-made-portal-remake-stuck-in-limbo-as-valve-goes-silent-2000719395",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Completed Fan-Made Portal Remake Stuck In Limbo As Valve Goes Silent",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-26T17:44:03.164499+00:00"
-    },
-    {
       "tweet": "Sammy Hagar is actually trying to get David Lee Roth to join him in Vegas. That's a lot of ego for one stage man.",
       "original_url": "https://www.billboard.com/music/rock/sammy-hagar-david-lee-roth-tour-cancellation-invite-1236303064/",
       "buzz_score": 75,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2485,
+    "total_posted": 2487,
     "total_collected": 11761
   },
-  "last_posted_at": "2026-07-26T17:50:34.898520+00:00"
+  "last_posted_at": "2026-07-26T18:47:06.818566+00:00"
 }
