@@ -2,28 +2,6 @@
   "last_collected": "2026-07-27T19:52:06.018958+00:00",
   "queue": [
     {
-      "tweet": "Yo, Boosie Badazz is getting sued for jumping a bouncer at a club. Man can't stay out of his own way.",
-      "original_url": "https://www.billboard.com/pro/boosie-badazz-lawsuit-over-alleged-nightclub-hookah-assault/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Boosie Badazz Hit With Lawsuit Over Alleged Nightclub Hookah Assault: ‘Violently Ambushed’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-27T16:37:13.886925+00:00"
-    },
-    {
-      "tweet": "They shot at the US consulate in Toronto again and the guy just drove off. How is that even possible",
-      "original_url": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Shots fired at US consulate in Toronto for a second time this year",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-27T19:52:06.017400+00:00"
-    },
-    {
       "tweet": "They finally caught some guy in Chile for killing a singer fifty-three years ago. Some people just never stop running.",
       "original_url": "https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile",
       "buzz_score": 75,
@@ -33,17 +11,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-27T16:37:13.887404+00:00"
-    },
-    {
-      "tweet": "Hannibal is back on Netflix and honestly that's exactly what I needed. You forget how good a real thriller feels.",
-      "original_url": "https://www.polygon.com/bryan-fuller-hannibal-netflix-dark-romance/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mads Mikkelsen's three-part psychological thriller is a spine-chilling masterpiece you'll watch in 1 week",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-27T14:22:14.613753+00:00"
     },
     {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
@@ -79,15 +46,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Did you see Billie Joe Armstrong just started playing an ice cream truck at Comic-Con. Like, out of nowhere. Man, I love that guy",
-      "original_url": "https://www.billboard.com/music/rock/green-day-billie-joe-armstrong-comic-con-basket-case-pop-up-1236303176/",
-      "buzz_score": 85,
+      "tweet": "Hannibal is back on Netflix and honestly that's exactly what I needed. You forget how good a real thriller feels.",
+      "original_url": "https://www.polygon.com/bryan-fuller-hannibal-netflix-dark-romance/",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Green Day’s Billie Joe Armstrong Crashes San Diego Comic-Con For Pop-Up Ice Cream Truck Performance of ‘Basket Case’",
-      "source": "Billboard",
+      "original_title": "Mads Mikkelsen's three-part psychological thriller is a spine-chilling masterpiece you'll watch in 1 week",
+      "source": "Polygon",
       "category": "entertainment",
-      "added_at": "2026-07-27T11:58:11.968070+00:00"
+      "added_at": "2026-07-27T14:22:14.613753+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -629,6 +596,17 @@
       "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
+      "tweet": "Did you see Billie Joe Armstrong just started playing an ice cream truck at Comic-Con. Like, out of nowhere. Man, I love that guy",
+      "original_url": "https://www.billboard.com/music/rock/green-day-billie-joe-armstrong-comic-con-basket-case-pop-up-1236303176/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Green Day’s Billie Joe Armstrong Crashes San Diego Comic-Con For Pop-Up Ice Cream Truck Performance of ‘Basket Case’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-07-27T11:58:11.968070+00:00"
+    },
+    {
       "tweet": "Hang on, the Neuromancer trailer actually looks decent. Against all odds.",
       "original_url": "https://www.polygon.com/apple-tv-neuromancer-trailer-2027-release/",
       "buzz_score": 88,
@@ -827,17 +805,6 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
-      "tweet": "The Berlin Pride attacker was literally a known ISIS guy they let out of jail. Why do we keep doing this",
-      "original_url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Berlin Pride Attack Suspect Tried to Join ISIS, Prosecutors Say",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-27T11:58:11.969324+00:00"
-    },
-    {
       "tweet": "Ben-Gvir is out there pulling stunts at Al-Aqsa right before an election. Classic move when you've got nothing else to run on.",
       "original_url": "https://www.aljazeera.com/news/2026/7/23/far-right-israeli-incursion-heightens-tensions-at-al-aqsa-ahead-of-election?traffic_source=rss",
       "buzz_score": 80,
@@ -858,28 +825,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945557+00:00"
-    },
-    {
-      "tweet": "Pokemon fans are actually losing it over a Mew card that might be fake. People need to chill.",
-      "original_url": "https://kotaku.com/pokemon-30th-anniversary-tcg-set-mew-yoshirotten-card-2000719548",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Pokémon Fans Are Battling Over A Mew Card That Might Not Even Be Real",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-27T19:52:06.018329+00:00"
-    },
-    {
-      "tweet": "South Asia is finally getting fed up with their elites. Watching Gen Z decide they've had enough is wild.",
-      "original_url": "https://www.npr.org/2026/07/27/nx-s1-5908567/india-cockroach-movement-gen-z-south-asia",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The 'cockroach' in the machine: How Gen Z is rattling South Asia's elites",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-27T19:52:06.017402+00:00"
     },
     {
       "tweet": "So apparently Trump is going after Dylan Mulvaney now. Like, don't they have actual problems to solve?",
@@ -1012,6 +957,39 @@
       "source": "The Verge",
       "category": "tech",
       "added_at": "2026-07-25T08:36:27.986944+00:00"
+    },
+    {
+      "tweet": "The Berlin Pride attacker was literally a known ISIS guy they let out of jail. Why do we keep doing this",
+      "original_url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Berlin Pride Attack Suspect Tried to Join ISIS, Prosecutors Say",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-27T11:58:11.969324+00:00"
+    },
+    {
+      "tweet": "Pokemon fans are actually losing it over a Mew card that might be fake. People need to chill.",
+      "original_url": "https://kotaku.com/pokemon-30th-anniversary-tcg-set-mew-yoshirotten-card-2000719548",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Pokémon Fans Are Battling Over A Mew Card That Might Not Even Be Real",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-27T19:52:06.018329+00:00"
+    },
+    {
+      "tweet": "South Asia is finally getting fed up with their elites. Watching Gen Z decide they've had enough is wild.",
+      "original_url": "https://www.npr.org/2026/07/27/nx-s1-5908567/india-cockroach-movement-gen-z-south-asia",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The 'cockroach' in the machine: How Gen Z is rattling South Asia's elites",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-27T19:52:06.017402+00:00"
     },
     {
       "tweet": "Pakistan-administered Kashmir is holding elections after all that violence. Seems like a bad idea.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2511,
+    "total_posted": 2513,
     "total_collected": 11905
   },
-  "last_posted_at": "2026-07-27T20:01:50.304520+00:00"
+  "last_posted_at": "2026-07-27T21:06:39.070708+00:00"
 }
