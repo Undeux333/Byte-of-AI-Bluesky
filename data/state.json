@@ -2,28 +2,6 @@
   "last_collected": "2026-07-27T16:37:13.888051+00:00",
   "queue": [
     {
-      "tweet": "Dude, OpenAI and them are literally shredding up rare books to train their models. We're just burning history to teach a bot how to talk.",
-      "original_url": "https://twitter.com/HedgieMarkets/status/2081534588485296565",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "AI companies are shredding rare books",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-27T16:37:13.886701+00:00"
-    },
-    {
-      "tweet": "Did you hear those identical twins in Wales both won bronze on the same day. Talk about a glitch in the matrix.",
-      "original_url": "https://www.bbc.co.uk/sport/articles/cd9wl9459g5o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Identical twins win gymnastics medals on same day",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-27T16:37:13.887200+00:00"
-    },
-    {
       "tweet": "Yo, Boosie Badazz is getting sued for jumping a bouncer at a club. Man can't stay out of his own way.",
       "original_url": "https://www.billboard.com/pro/boosie-badazz-lawsuit-over-alleged-nightclub-hookah-assault/",
       "buzz_score": 80,
@@ -68,17 +46,6 @@
       "added_at": "2026-07-27T11:58:11.968070+00:00"
     },
     {
-      "tweet": "The Berlin Pride attacker was literally a known ISIS guy they let out of jail. Why do we keep doing this",
-      "original_url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Berlin Pride Attack Suspect Tried to Join ISIS, Prosecutors Say",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-27T11:58:11.969324+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -112,37 +79,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "So apparently Trump is going after Dylan Mulvaney now. Like, don't they have actual problems to solve?",
-      "original_url": "https://www.rollingstone.com/politics/politics-news/dylan-mulvaney-donald-trump-kaitlan-collins-whcd-speech-1235598970/",
-      "buzz_score": 85,
+      "tweet": "The Berlin Pride attacker was literally a known ISIS guy they let out of jail. Why do we keep doing this",
+      "original_url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Dylan Mulvaney Responds to Trump Attacking Her and Kaitlan Collins in WHCD Speech",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-07-27T08:44:53.910687+00:00"
-    },
-    {
-      "tweet": "Hold on, Ford is recalling half a million Broncos because they might catch on fire. Guess they're living up to the name.",
-      "original_url": "https://hypebeast.com/2026/7/ford-recalls-over-500000-broncos-due-to-engine-fire-risk",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Ford Recalls Over 500,000 Broncos Due to Engine Fire Risk",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-07-27T08:44:53.910276+00:00"
-    },
-    {
-      "tweet": "Did you see what's going on in India? The kids literally forced a minister to quit over that protest. Apparently power doesn't like it when people actually show up.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c8dng1v72lno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'This is just the start': India's Gen Z protesters force out a minister, but what next?",
-      "source": "BBC World",
+      "original_title": "Berlin Pride Attack Suspect Tried to Join ISIS, Prosecutors Say",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-07-27T08:44:53.910112+00:00"
+      "added_at": "2026-07-27T11:58:11.969324+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -154,17 +99,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Reading about Miyazaki’s old stuff again today. It’s wild how we keep chasing new tech when the old hits just don't miss",
-      "original_url": "https://www.polygon.com/christopher-nolan-the-odyssey-nausicaa-of-the-valley-of-the-wind/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "42 years ago, Hayao Miyazaki gave The Odyssey’s overlooked princess the epic adventure she deserves",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-27T11:58:11.968359+00:00"
     },
     {
       "tweet": "Monday.com is officially blaming AI for their layoffs. That makes 20 companies this year using that same excuse.",
@@ -684,17 +618,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Watching that original Pokémon pitch from ninety-eight is so weird. We really grew up on the wildest stuff.",
-      "original_url": "https://kotaku.com/pokemon-e3-1998-reveal-announcement-nintendo-america-2000719502",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Nintendo Of America’s Original Pokémon Pitch From E3 1998 Is Wild To Watch Nearly 30 Years Later",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-27T16:37:13.887683+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -704,17 +627,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
-    },
-    {
-      "tweet": "Charli XCX just dropped those Brat b-sides. It's that kind of music that makes the whole summer feel like a blur.",
-      "original_url": "https://www.rollingstone.com/music/music-news/charli-xcx-music-fashion-film-b-sides-edition-streaming-1235598976/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Charli XCX ‘Begrudgingly’ Shares ‘Music, Fashion, Film (B-Sides Edition)’ on Streaming",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-07-27T08:44:53.910555+00:00"
     },
     {
       "tweet": "Hang on, the Neuromancer trailer actually looks decent. Against all odds.",
@@ -937,6 +849,39 @@
       "added_at": "2026-07-23T18:00:42.945557+00:00"
     },
     {
+      "tweet": "So apparently Trump is going after Dylan Mulvaney now. Like, don't they have actual problems to solve?",
+      "original_url": "https://www.rollingstone.com/politics/politics-news/dylan-mulvaney-donald-trump-kaitlan-collins-whcd-speech-1235598970/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Dylan Mulvaney Responds to Trump Attacking Her and Kaitlan Collins in WHCD Speech",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-07-27T08:44:53.910687+00:00"
+    },
+    {
+      "tweet": "Hold on, Ford is recalling half a million Broncos because they might catch on fire. Guess they're living up to the name.",
+      "original_url": "https://hypebeast.com/2026/7/ford-recalls-over-500000-broncos-due-to-engine-fire-risk",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Ford Recalls Over 500,000 Broncos Due to Engine Fire Risk",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-07-27T08:44:53.910276+00:00"
+    },
+    {
+      "tweet": "Did you see what's going on in India? The kids literally forced a minister to quit over that protest. Apparently power doesn't like it when people actually show up.",
+      "original_url": "https://www.bbc.co.uk/news/articles/c8dng1v72lno?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "'This is just the start': India's Gen Z protesters force out a minister, but what next?",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-27T08:44:53.910112+00:00"
+    },
+    {
       "tweet": "Dude, a guy just got charged after his phone wiped itself at the airport. Imagine traveling and your own tech decides to bail on you. Brutal.",
       "original_url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
       "buzz_score": 85,
@@ -1034,6 +979,39 @@
       "source": "The Verge",
       "category": "tech",
       "added_at": "2026-07-25T08:36:27.986944+00:00"
+    },
+    {
+      "tweet": "Reading about Miyazaki’s old stuff again today. It’s wild how we keep chasing new tech when the old hits just don't miss",
+      "original_url": "https://www.polygon.com/christopher-nolan-the-odyssey-nausicaa-of-the-valley-of-the-wind/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "42 years ago, Hayao Miyazaki gave The Odyssey’s overlooked princess the epic adventure she deserves",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-07-27T11:58:11.968359+00:00"
+    },
+    {
+      "tweet": "Watching that original Pokémon pitch from ninety-eight is so weird. We really grew up on the wildest stuff.",
+      "original_url": "https://kotaku.com/pokemon-e3-1998-reveal-announcement-nintendo-america-2000719502",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Nintendo Of America’s Original Pokémon Pitch From E3 1998 Is Wild To Watch Nearly 30 Years Later",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-27T16:37:13.887683+00:00"
+    },
+    {
+      "tweet": "Charli XCX just dropped those Brat b-sides. It's that kind of music that makes the whole summer feel like a blur.",
+      "original_url": "https://www.rollingstone.com/music/music-news/charli-xcx-music-fashion-film-b-sides-edition-streaming-1235598976/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Charli XCX ‘Begrudgingly’ Shares ‘Music, Fashion, Film (B-Sides Edition)’ on Streaming",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-07-27T08:44:53.910555+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2507,
+    "total_posted": 2509,
     "total_collected": 11889
   },
-  "last_posted_at": "2026-07-27T16:44:32.713609+00:00"
+  "last_posted_at": "2026-07-27T18:17:41.878713+00:00"
 }
