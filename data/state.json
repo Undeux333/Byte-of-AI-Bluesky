@@ -2,28 +2,6 @@
   "last_collected": "2026-07-27T22:09:36.104766+00:00",
   "queue": [
     {
-      "tweet": "Hold on, D4vd is going on trial for murder after they found a body in a Tesla at his place. That's insane",
-      "original_url": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US singer D4vd to go on trial for murder in death of teen",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-27T22:09:36.103175+00:00"
-    },
-    {
-      "tweet": "Trump is back at the Supreme Court trying to block mail-in voting. Can we just have one election without a lawsuit",
-      "original_url": "https://www.aljazeera.com/news/2026/7/27/trump-asks-us-supreme-court-to-allow-mail-in-voting-restrictions?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump asks US Supreme Court to allow mail-in voting restrictions",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-27T22:09:36.103983+00:00"
-    },
-    {
       "tweet": "John Stones is looking at a free transfer to Inter Milan. The market is wild right now",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/cgewgj8qwvjo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -143,17 +121,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "They finally caught some guy in Chile for killing a singer fifty-three years ago. Some people just never stop running.",
-      "original_url": "https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Pinochet-era soldier jailed for killing folk singer 53 years ago",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-27T16:37:13.887404+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -684,17 +651,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Trump says there's a chance something could happen with Iran while everyone's still firing at each other. Who's actually talking here",
-      "original_url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump says Iran war talks taking place during lull in strikes",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-27T22:09:36.103173+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -704,17 +660,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
-    },
-    {
-      "tweet": "Hannibal is back on Netflix and honestly that's exactly what I needed. You forget how good a real thriller feels.",
-      "original_url": "https://www.polygon.com/bryan-fuller-hannibal-netflix-dark-romance/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mads Mikkelsen's three-part psychological thriller is a spine-chilling masterpiece you'll watch in 1 week",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-07-27T14:22:14.613753+00:00"
     },
     {
       "tweet": "Hang on, the Neuromancer trailer actually looks decent. Against all odds.",
@@ -915,6 +860,17 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
+      "tweet": "They finally caught some guy in Chile for killing a singer fifty-three years ago. Some people just never stop running.",
+      "original_url": "https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Pinochet-era soldier jailed for killing folk singer 53 years ago",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-27T16:37:13.887404+00:00"
+    },
+    {
       "tweet": "Ben-Gvir is out there pulling stunts at Al-Aqsa right before an election. Classic move when you've got nothing else to run on.",
       "original_url": "https://www.aljazeera.com/news/2026/7/23/far-right-israeli-incursion-heightens-tensions-at-al-aqsa-ahead-of-election?traffic_source=rss",
       "buzz_score": 80,
@@ -1034,6 +990,28 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-07-26T07:17:19.864424+00:00"
+    },
+    {
+      "tweet": "Trump says there's a chance something could happen with Iran while everyone's still firing at each other. Who's actually talking here",
+      "original_url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump says Iran war talks taking place during lull in strikes",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-27T22:09:36.103173+00:00"
+    },
+    {
+      "tweet": "Hannibal is back on Netflix and honestly that's exactly what I needed. You forget how good a real thriller feels.",
+      "original_url": "https://www.polygon.com/bryan-fuller-hannibal-netflix-dark-romance/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Mads Mikkelsen's three-part psychological thriller is a spine-chilling masterpiece you'll watch in 1 week",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-07-27T14:22:14.613753+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2515,
+    "total_posted": 2517,
     "total_collected": 11921
   },
-  "last_posted_at": "2026-07-27T22:17:28.308160+00:00"
+  "last_posted_at": "2026-07-27T23:24:38.301753+00:00"
 }
