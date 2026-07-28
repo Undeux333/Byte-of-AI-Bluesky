@@ -2,39 +2,6 @@
   "last_collected": "2026-07-28T15:31:07.076975+00:00",
   "queue": [
     {
-      "tweet": "Ariana Grande is really doing this whole Pepper character thing. At this point I'm just waiting to see if she keeps this up longer than that last haircut.",
-      "original_url": "https://www.billboard.com/music/music-news/ariana-grande-new-character-pepper-petal-teaser-1236304223/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Ariana Grande Debuts New Character in Teaser for ‘Petal’ Visual Ahead of Album: ‘Hello, I’m Pepper’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-28T15:31:07.076187+00:00"
-    },
-    {
-      "tweet": "So I was just reading about why we call it a third wheel. Apparently it comes from old carriages where a spare wheel was literally just dragging along behind doing nothing. Makes way too much sense.",
-      "original_url": "https://www.mentalfloss.com/language/where-does-phrase-third-wheel-come-from?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Where Does the Phrase \"Third Wheel\" Come From?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-28T15:31:07.076175+00:00"
-    },
-    {
-      "tweet": "Man, the US just walked out of the UN Security Council meeting while France was talking. We're literally out here choosing sides with North Korea now. Embarrassing.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US walks out of UN Security Council meeting during France's remarks",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-28T08:50:54.111075+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -68,17 +35,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Did you see that 6.8 earthquake in Japan? Watching that shopping center footage is rough, hope they're getting people out of there.",
-      "original_url": "https://www.theguardian.com/world/live/2026/jul/28/people-trapped-japan-earthquake-kumamoto-aeon-shopping-centre-mall-latest-news-updates",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘Many people’ trapped inside Japanese shopping centre, others missing in paper factory, after earthquake – live updates",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-28T15:31:07.076468+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -88,6 +44,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Man, the US just walked out of the UN Security Council meeting while France was talking. We're literally out here choosing sides with North Korea now. Embarrassing.",
+      "original_url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US walks out of UN Security Council meeting during France's remarks",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-28T08:50:54.111075+00:00"
     },
     {
       "tweet": "Monday.com is officially blaming AI for their layoffs. That makes 20 companies this year using that same excuse.",
@@ -618,6 +585,17 @@
       "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
+      "tweet": "Did you see that 6.8 earthquake in Japan? Watching that shopping center footage is rough, hope they're getting people out of there.",
+      "original_url": "https://www.theguardian.com/world/live/2026/jul/28/people-trapped-japan-earthquake-kumamoto-aeon-shopping-centre-mall-latest-news-updates",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘Many people’ trapped inside Japanese shopping centre, others missing in paper factory, after earthquake – live updates",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-28T15:31:07.076468+00:00"
+    },
+    {
       "tweet": "Hang on, the Neuromancer trailer actually looks decent. Against all odds.",
       "original_url": "https://www.polygon.com/apple-tv-neuromancer-trailer-2027-release/",
       "buzz_score": 88,
@@ -970,6 +948,17 @@
       "added_at": "2026-07-26T07:17:19.864424+00:00"
     },
     {
+      "tweet": "So apparently a judge just told Google they can't use DMCA claims to stop people from scraping their data. Finally some sanity",
+      "original_url": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-27T22:09:36.103169+00:00"
+    },
+    {
       "tweet": "The director of Dawnwalker said game design shouldn't be about hitting sales targets. Finally someone said it out loud.",
       "original_url": "https://kotaku.com/the-blood-of-dawnwalker-director-says-sales-targets-have-to-be-secondary-when-designing-games-2000719780",
       "buzz_score": 80,
@@ -990,17 +979,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-07-28T15:31:07.076182+00:00"
-    },
-    {
-      "tweet": "So apparently a judge just told Google they can't use DMCA claims to stop people from scraping their data. Finally some sanity",
-      "original_url": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-27T22:09:36.103169+00:00"
     },
     {
       "tweet": "Touchland is out here asking people which performance body spray matches their energy. We're literally just buying cologne to watch football now.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2529,
+    "total_posted": 2531,
     "total_collected": 12010
   },
-  "last_posted_at": "2026-07-28T15:39:56.089756+00:00"
+  "last_posted_at": "2026-07-28T17:12:50.312800+00:00"
 }
