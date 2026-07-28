@@ -2,28 +2,6 @@
   "last_collected": "2026-07-28T18:41:47.599501+00:00",
   "queue": [
     {
-      "tweet": "Did you see that Cuba is basically running on pure ingenuity to get around that Trump blockade. Straight up MacGyver level stuff.",
-      "original_url": "https://www.nytimes.com/2026/07/27/world/americas/trump-oil-gas-cuba-havana.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Cuba, Lacking Fuel, Relies on Ingenuity to Defy Trump’s Blockade",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-28T18:41:47.598193+00:00"
-    },
-    {
-      "tweet": "They really put out a game with basically zero fashion options. It’s like they don't even know why we play.",
-      "original_url": "https://kotaku.com/splatoon-raiders-limited-fashion-options-disappointing-2000719813",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Splatoon Raiders’ Limited Fashion Options Are Really Disappointing",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-28T18:41:47.598593+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -585,17 +563,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Canadians dropped 3.3 billion on travel elsewhere since Trump returned to office. I guess they're just over it.",
-      "original_url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-28T18:41:47.598437+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -970,6 +937,28 @@
       "added_at": "2026-07-26T07:17:19.864424+00:00"
     },
     {
+      "tweet": "Canadians dropped 3.3 billion on travel elsewhere since Trump returned to office. I guess they're just over it.",
+      "original_url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-28T18:41:47.598437+00:00"
+    },
+    {
+      "tweet": "So apparently a judge just told Google they can't use DMCA claims to stop people from scraping their data. Finally some sanity",
+      "original_url": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-27T22:09:36.103169+00:00"
+    },
+    {
       "tweet": "Miyamoto just summed up everything wrong with the industry in one sentence. Finally someone said it.",
       "original_url": "https://kotaku.com/shigeru-miyamoto-sums-up-everything-wrong-with-the-industry-in-one-sentence-2000719771",
       "buzz_score": 80,
@@ -1001,17 +990,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-28T15:31:07.076468+00:00"
-    },
-    {
-      "tweet": "So apparently a judge just told Google they can't use DMCA claims to stop people from scraping their data. Finally some sanity",
-      "original_url": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-27T22:09:36.103169+00:00"
     },
     {
       "tweet": "Man, another earthquake in Japan. At least 50 people hurt, it's just rough.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2533,
+    "total_posted": 2535,
     "total_collected": 12026
   },
-  "last_posted_at": "2026-07-28T18:51:46.727772+00:00"
+  "last_posted_at": "2026-07-28T20:14:49.232184+00:00"
 }
