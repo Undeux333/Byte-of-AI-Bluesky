@@ -2,28 +2,6 @@
   "last_collected": "2026-07-28T21:20:27.295432+00:00",
   "queue": [
     {
-      "tweet": "Final Fantasy 14 is doing a crossover with FF7 and people are already losing their minds online. Nerds are something else.",
-      "original_url": "https://kotaku.com/final-fantasy-14-evercold-final-fantasy-7-remake-crossover-raid-2000719881",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Final Fantasy 14′s Next Expansion Will Feature A Crossover With Final Fantasy 7 So Of Course Fans Are Gonna Fight About It",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-28T21:20:27.294656+00:00"
-    },
-    {
-      "tweet": "Dude, people are telling Substack writers they need a website now. Guess we're just reinventing the blog.",
-      "original_url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Substack writers, you need a website",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-28T21:20:27.293820+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -585,28 +563,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Saw that Trump showed up for Lindsey Graham’s funeral. The irony is just",
-      "original_url": "https://www.aljazeera.com/gallery/2026/7/28/donald-trump-and-world-leaders-attend-lindsey-grahams-funeral?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Donald Trump and world leaders attend Lindsey Graham’s funeral",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-28T21:20:27.294250+00:00"
-    },
-    {
-      "tweet": "So the wealth gap between renters and owners is hitting record highs right now. We're just never gonna buy a house.",
-      "original_url": "https://www.npr.org/2026/07/28/nx-s1-5853585/as-many-are-priced-out-of-buying-the-renter-owner-wealth-gap-is-wider-than-ever",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "As many are priced out of buying, the renter-owner wealth gap is wider than ever",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-28T21:20:27.293832+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -981,6 +937,39 @@
       "added_at": "2026-07-26T07:17:19.864424+00:00"
     },
     {
+      "tweet": "Saw that Trump showed up for Lindsey Graham’s funeral. The irony is just",
+      "original_url": "https://www.aljazeera.com/gallery/2026/7/28/donald-trump-and-world-leaders-attend-lindsey-grahams-funeral?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Donald Trump and world leaders attend Lindsey Graham’s funeral",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-28T21:20:27.294250+00:00"
+    },
+    {
+      "tweet": "So the wealth gap between renters and owners is hitting record highs right now. We're just never gonna buy a house.",
+      "original_url": "https://www.npr.org/2026/07/28/nx-s1-5853585/as-many-are-priced-out-of-buying-the-renter-owner-wealth-gap-is-wider-than-ever",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "As many are priced out of buying, the renter-owner wealth gap is wider than ever",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-28T21:20:27.293832+00:00"
+    },
+    {
+      "tweet": "So apparently a judge just told Google they can't use DMCA claims to stop people from scraping their data. Finally some sanity",
+      "original_url": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-27T22:09:36.103169+00:00"
+    },
+    {
       "tweet": "This guy James Desborough was already in for killing his cellmate and he just got convicted for two more. Some people are broken.",
       "original_url": "https://www.theguardian.com/uk-news/2026/jul/28/james-desborough-convicted-murder-claudio-aquilino-daniel-coleman-cornwall",
       "buzz_score": 80,
@@ -1001,17 +990,6 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-07-28T21:20:27.293827+00:00"
-    },
-    {
-      "tweet": "So apparently a judge just told Google they can't use DMCA claims to stop people from scraping their data. Finally some sanity",
-      "original_url": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-27T22:09:36.103169+00:00"
     },
     {
       "tweet": "Canadians dropped 3.3 billion on travel elsewhere since Trump returned to office. I guess they're just over it.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2537,
+    "total_posted": 2539,
     "total_collected": 12042
   },
-  "last_posted_at": "2026-07-28T21:28:37.889344+00:00"
+  "last_posted_at": "2026-07-28T22:40:13.277959+00:00"
 }
