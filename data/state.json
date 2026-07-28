@@ -2,28 +2,6 @@
   "last_collected": "2026-07-28T11:08:28.782762+00:00",
   "queue": [
     {
-      "tweet": "Dude, people are actually trapped at that Aeon Mall in Kumamoto after the earthquake. Just saw the clips. Absolutely wild",
-      "original_url": "https://www.bbc.co.uk/news/articles/cgewg24qgnjo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "People trapped inside Japan shopping centre after earthquake",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-28T11:08:28.781088+00:00"
-    },
-    {
-      "tweet": "Did you see that cricket match video? Guy literally clicked his fingers to fake a noise and get the batter out. Humans are shameless",
-      "original_url": "https://www.bbc.co.uk/sport/cricket/articles/c86n10548yeo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Local match goes viral over 'finger-clicking' cheating claim",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-28T11:08:28.781523+00:00"
-    },
-    {
       "tweet": "Man, the US just walked out of the UN Security Council meeting while France was talking. We're literally out here choosing sides with North Korea now. Embarrassing.",
       "original_url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -596,17 +574,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Javier Milei is out here claiming US Democrats financed an anti-Argentina campaign at the World Cup. He's honestly lost the plot",
-      "original_url": "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-28T11:08:28.781770+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -970,15 +937,15 @@
       "added_at": "2026-07-26T07:17:19.864424+00:00"
     },
     {
-      "tweet": "Conor McGregor is already trying to line up a fight with Max Holloway for 2027. This guy just doesn't know when to chill.",
-      "original_url": "https://www.aljazeera.com/sports/2026/7/28/conor-mcgregor-calls-for-third-ufc-fight-against-max-holloway-in-2027?traffic_source=rss",
+      "tweet": "Javier Milei is out here claiming US Democrats financed an anti-Argentina campaign at the World Cup. He's honestly lost the plot",
+      "original_url": "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup",
       "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Conor McGregor calls for third UFC fight against Max Holloway in 2027",
-      "source": "Al Jazeera",
+      "original_title": "Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup",
+      "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-07-28T08:50:54.111363+00:00"
+      "added_at": "2026-07-28T11:08:28.781770+00:00"
     },
     {
       "tweet": "So apparently a judge just told Google they can't use DMCA claims to stop people from scraping their data. Finally some sanity",
@@ -990,6 +957,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-07-27T22:09:36.103169+00:00"
+    },
+    {
+      "tweet": "Conor McGregor is already trying to line up a fight with Max Holloway for 2027. This guy just doesn't know when to chill.",
+      "original_url": "https://www.aljazeera.com/sports/2026/7/28/conor-mcgregor-calls-for-third-ufc-fight-against-max-holloway-in-2027?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Conor McGregor calls for third UFC fight against Max Holloway in 2027",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-28T08:50:54.111363+00:00"
     },
     {
       "tweet": "Finally some news on Demon Slayer Infinity Castle Part 2. It's about time",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2525,
+    "total_posted": 2527,
     "total_collected": 12000
   },
-  "last_posted_at": "2026-07-28T11:15:18.065392+00:00"
+  "last_posted_at": "2026-07-28T13:08:29.222469+00:00"
 }
