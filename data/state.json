@@ -2,28 +2,6 @@
   "last_collected": "2026-07-29T18:01:42.957352+00:00",
   "queue": [
     {
-      "tweet": "So Katy Perry just got stuck in a giant plastic bottle on stage during her set. Truly peak pop star drama.",
-      "original_url": "https://kotaku.com/katy-perry-trapped-in-large-plastic-bottle-during-recent-concert-2000720236",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Katy Perry Trapped In Large Plastic Bottle During Recent Concert",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-29T18:01:42.957216+00:00"
-    },
-    {
-      "tweet": "So apparently even these complex AI agents don't actually follow the instructions in their own handbooks. Turns out rules are just suggestions for robots too.",
-      "original_url": "https://arxiv.org/abs/2607.25398",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Handbook.md shows that long policy documents do not reliably govern agents",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-29T18:01:42.956331+00:00"
-    },
-    {
       "tweet": "Russia is officially trying to hunt down the Telegram founder for aiding terrorism. Just another day in the surveillance state.",
       "original_url": "https://www.theguardian.com/world/2026/jul/29/russia-accuses-telegram-founder-of-aiding-terrorism-pavel-durov",
       "buzz_score": 89,
@@ -849,17 +827,6 @@
       "added_at": "2026-07-23T18:00:42.945557+00:00"
     },
     {
-      "tweet": "Fuel prices are skyrocketing 'cause of the war and now guys in Yemen can't even get to work. It’s definitely not just about the gas stations.",
-      "original_url": "https://www.aljazeera.com/news/2026/7/29/yemen-construction-fuel-iran?traffic_source=rss",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-29T18:01:42.956975+00:00"
-    },
-    {
       "tweet": "Politicians out here keeping a legit shit sheet on each other to track affairs. These guys are just high schoolers with budgets",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/29/icac-operation-rosny-young-liberals-shit-sheet-nsw-minister-david-elliott-ntwnfb",
       "buzz_score": 85,
@@ -979,6 +946,17 @@
       "source": "Rolling Stone",
       "category": "entertainment",
       "added_at": "2026-07-27T08:44:53.910687+00:00"
+    },
+    {
+      "tweet": "Fuel prices are skyrocketing 'cause of the war and now guys in Yemen can't even get to work. It’s definitely not just about the gas stations.",
+      "original_url": "https://www.aljazeera.com/news/2026/7/29/yemen-construction-fuel-iran?traffic_source=rss",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-29T18:01:42.956975+00:00"
     },
     {
       "tweet": "Nas is finally getting that BMI Icon Award. Makes you realize how fast time actually goes, man.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2556,
+    "total_posted": 2558,
     "total_collected": 12144
   },
-  "last_posted_at": "2026-07-29T18:06:51.910420+00:00"
+  "last_posted_at": "2026-07-29T19:48:27.793063+00:00"
 }
