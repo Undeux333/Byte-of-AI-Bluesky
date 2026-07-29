@@ -2,28 +2,6 @@
   "last_collected": "2026-07-29T11:53:00.562752+00:00",
   "queue": [
     {
-      "tweet": "So OpenAI just had their AI models do a cybersecurity test to see if they could hack stuff. At what point do we just stop giving them the keys",
-      "original_url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "We’re running out of reasons to ignore AI safety",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-07-29T11:53:00.560893+00:00"
-    },
-    {
-      "tweet": "A new game is dropping for the Dreamcast in 2026. The console is literally older than some of the people playing it.",
-      "original_url": "https://hypebeast.com/2026/7/white-creek-brings-new-survival-horror-sega-dreamcast",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "A Brand New Survival-Horror Title Is Coming to the SEGA Dreamcast 25 Years After SEGA Left the Console Market",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-07-29T09:50:03.140557+00:00"
-    },
-    {
       "tweet": "Japan is dealing with another massive earthquake. Just terrible.",
       "original_url": "https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates",
       "buzz_score": 75,
@@ -79,39 +57,6 @@
       "added_at": "2026-07-29T07:15:18.660332+00:00"
     },
     {
-      "tweet": "Diomande is about to be Real Madrid's record signing after basically appearing out of nowhere. The money in soccer is getting stupid",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cm2g3dd2jxko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Diomande's rapid and remarkable rise to Real Madrid",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-29T07:15:18.661030+00:00"
-    },
-    {
-      "tweet": "Drake really turned his house into a brand visibility play with that NOCTA thing. Can't even live in your own spot without it being a marketing move",
-      "original_url": "https://hypebeast.com/2026/7/nocta-manor-drake-new-jersey-info-merch",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Drake's NOCTA Manor: A Masterclass in Brand Visibility",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-07-29T07:15:18.661570+00:00"
-    },
-    {
-      "tweet": "Danny Welbeck is headed to Chelsea for a medical. That's a random jump for him",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c935lvyeykwo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Brighton's Welbeck set for Chelsea medical",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-29T07:15:18.660900+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -145,37 +90,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Hold on, someone just fine-tuned an open model for 500 bucks and it's beating the massive frontier models. We're all just wasting money",
-      "original_url": "https://fermisense.com/when-machines-take-the-wheel/",
-      "buzz_score": 85,
+      "tweet": "Diomande is about to be Real Madrid's record signing after basically appearing out of nowhere. The money in soccer is getting stupid",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cm2g3dd2jxko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-29T04:27:55.137326+00:00"
-    },
-    {
-      "tweet": "Did you hear that the name Mary shows up in more song titles than literally anything else. Which, honestly, that's just an insane amount of songs",
-      "original_url": "https://www.mentalfloss.com/entertainment/muisc/name-shows-up-more-song-titles-any-other?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Name That Appears in More Song Titles Than Any Other",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-29T04:27:55.137031+00:00"
-    },
-    {
-      "tweet": "Greggs is out here making a billion with iced matcha lattes. Who even goes to a bakery for a matcha",
-      "original_url": "https://www.theguardian.com/business/2026/jul/29/greggs-sales-jump-iced-matcha-lattes-chicken-rolls-heatwave-hits",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Greggs sales jump as iced matcha lattes and chicken rolls become heatwave hits",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-29T11:53:00.560896+00:00"
+      "original_title": "Diomande's rapid and remarkable rise to Real Madrid",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-29T07:15:18.661030+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -706,28 +629,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Some guy got tired of clicking tabs for HackerNews and just built a script to fix it. We really do be out here overcomplicating everything",
-      "original_url": "https://github.com/twalichiewicz/HNewhere",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-29T04:27:55.137871+00:00"
-    },
-    {
-      "tweet": "Russia is charging the Telegram founder for facilitating terrorism. That app is basically the wild west",
-      "original_url": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-29T11:53:00.561465+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -737,6 +638,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
+    },
+    {
+      "tweet": "Drake really turned his house into a brand visibility play with that NOCTA thing. Can't even live in your own spot without it being a marketing move",
+      "original_url": "https://hypebeast.com/2026/7/nocta-manor-drake-new-jersey-info-merch",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Drake's NOCTA Manor: A Masterclass in Brand Visibility",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-07-29T07:15:18.661570+00:00"
+    },
+    {
+      "tweet": "Danny Welbeck is headed to Chelsea for a medical. That's a random jump for him",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/c935lvyeykwo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Brighton's Welbeck set for Chelsea medical",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-29T07:15:18.660900+00:00"
     },
     {
       "tweet": "Hang on, the Neuromancer trailer actually looks decent. Against all odds.",
@@ -937,6 +860,28 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
+      "tweet": "Hold on, someone just fine-tuned an open model for 500 bucks and it's beating the massive frontier models. We're all just wasting money",
+      "original_url": "https://fermisense.com/when-machines-take-the-wheel/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-29T04:27:55.137326+00:00"
+    },
+    {
+      "tweet": "Did you hear that the name Mary shows up in more song titles than literally anything else. Which, honestly, that's just an insane amount of songs",
+      "original_url": "https://www.mentalfloss.com/entertainment/muisc/name-shows-up-more-song-titles-any-other?utm_source=RSS",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Name That Appears in More Song Titles Than Any Other",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-07-29T04:27:55.137031+00:00"
+    },
+    {
       "tweet": "Ben-Gvir is out there pulling stunts at Al-Aqsa right before an election. Classic move when you've got nothing else to run on.",
       "original_url": "https://www.aljazeera.com/news/2026/7/23/far-right-israeli-incursion-heightens-tensions-at-al-aqsa-ahead-of-election?traffic_source=rss",
       "buzz_score": 80,
@@ -957,6 +902,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945557+00:00"
+    },
+    {
+      "tweet": "Greggs is out here making a billion with iced matcha lattes. Who even goes to a bakery for a matcha",
+      "original_url": "https://www.theguardian.com/business/2026/jul/29/greggs-sales-jump-iced-matcha-lattes-chicken-rolls-heatwave-hits",
+      "buzz_score": 75,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Greggs sales jump as iced matcha lattes and chicken rolls become heatwave hits",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-29T11:53:00.560896+00:00"
     },
     {
       "tweet": "Man, the US just walked out of the UN Security Council meeting while France was talking. We're literally out here choosing sides with North Korea now. Embarrassing.",
@@ -1023,6 +979,28 @@
       "source": "Rolling Stone",
       "category": "entertainment",
       "added_at": "2026-07-27T08:44:53.910687+00:00"
+    },
+    {
+      "tweet": "Some guy got tired of clicking tabs for HackerNews and just built a script to fix it. We really do be out here overcomplicating everything",
+      "original_url": "https://github.com/twalichiewicz/HNewhere",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-29T04:27:55.137871+00:00"
+    },
+    {
+      "tweet": "Russia is charging the Telegram founder for facilitating terrorism. That app is basically the wild west",
+      "original_url": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-07-29T11:53:00.561465+00:00"
     },
     {
       "tweet": "Man, people are saying that new shark movie on Prime, The Devil's Mouth, is actually not bad. Wild",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2548,
+    "total_posted": 2550,
     "total_collected": 12116
   },
-  "last_posted_at": "2026-07-29T12:01:25.357465+00:00"
+  "last_posted_at": "2026-07-29T13:51:20.671890+00:00"
 }
