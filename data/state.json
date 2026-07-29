@@ -2,28 +2,6 @@
   "last_collected": "2026-07-29T22:37:10.710343+00:00",
   "queue": [
     {
-      "tweet": "GTA 6 fans are losing their minds thinking trailer 3 is finally dropping soon. We really love torturing ourselves.",
-      "original_url": "https://kotaku.com/heres-why-gta-6-fans-are-convinced-that-after-waiting-over-a-year-trailer-3-is-coming-soon-2000720315",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Here’s Why GTA 6 Fans Are Convinced That After Waiting Over A Year, Trailer 3 Is Coming Soon",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-29T22:37:10.709245+00:00"
-    },
-    {
-      "tweet": "FIFA is trying to sell off 20 percent of the World Cup to private investors now. Can't let a single thing exist without a payout.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/is-fifa-selling-parts-of-the-world-cup-to-private-investors?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Is FIFA selling parts of the World Cup to private investors?",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-29T22:37:10.708997+00:00"
-    },
-    {
       "tweet": "Dude, Claude is literally falling apart right now. Everything’s hitting an error. Classic.",
       "original_url": "https://status.claude.com/incidents/q2kg8n613kr3",
       "buzz_score": 85,
@@ -662,17 +640,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Russia is officially trying to hunt down the Telegram founder for aiding terrorism. Just another day in the surveillance state.",
-      "original_url": "https://www.theguardian.com/world/2026/jul/29/russia-accuses-telegram-founder-of-aiding-terrorism-pavel-durov",
-      "buzz_score": 89,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Russia accuses Telegram founder of aiding terrorism in its latest online crackdown",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-29T18:01:42.957094+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -682,17 +649,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
-    },
-    {
-      "tweet": "Hold on, Emily Wilson is out here saying Christopher Nolan shouldn't have written his own movie? Like, who does she think is gonna write it instead",
-      "original_url": "https://www.npr.org/2026/07/29/nx-s1-5910645/odyssey-translator-emily-wilson-christopher-nolan",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "'Odyssey' translator Emily Wilson says Nolan shouldn't have written the movie himself",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-29T18:01:42.956344+00:00"
     },
     {
       "tweet": "Hang on, the Neuromancer trailer actually looks decent. Against all odds.",
@@ -915,15 +871,15 @@
       "added_at": "2026-07-23T18:00:42.945557+00:00"
     },
     {
-      "tweet": "Found out that magazine Mental Floss shows up in everything from Friends to Marvel movies. It's wild seeing stuff you recognize in the background of a big screen.",
-      "original_url": "https://www.mentalfloss.com/entertainment/movies/mental-floss-mcu-appearance?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
+      "tweet": "Russia is officially trying to hunt down the Telegram founder for aiding terrorism. Just another day in the surveillance state.",
+      "original_url": "https://www.theguardian.com/world/2026/jul/29/russia-accuses-telegram-founder-of-aiding-terrorism-pavel-durov",
+      "buzz_score": 89,
+      "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "The Time Mental Floss Appeared in the MCU",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-29T15:34:01.023901+00:00"
+      "original_title": "Russia accuses Telegram founder of aiding terrorism in its latest online crackdown",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-29T18:01:42.957094+00:00"
     },
     {
       "tweet": "Politicians out here keeping a legit shit sheet on each other to track affairs. These guys are just high schoolers with budgets",
@@ -1034,6 +990,28 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-07-27T11:58:11.968070+00:00"
+    },
+    {
+      "tweet": "Hold on, Emily Wilson is out here saying Christopher Nolan shouldn't have written his own movie? Like, who does she think is gonna write it instead",
+      "original_url": "https://www.npr.org/2026/07/29/nx-s1-5910645/odyssey-translator-emily-wilson-christopher-nolan",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "'Odyssey' translator Emily Wilson says Nolan shouldn't have written the movie himself",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-29T18:01:42.956344+00:00"
+    },
+    {
+      "tweet": "Found out that magazine Mental Floss shows up in everything from Friends to Marvel movies. It's wild seeing stuff you recognize in the background of a big screen.",
+      "original_url": "https://www.mentalfloss.com/entertainment/movies/mental-floss-mcu-appearance?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Time Mental Floss Appeared in the MCU",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-07-29T15:34:01.023901+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2564,
+    "total_posted": 2566,
     "total_collected": 12170
   },
-  "last_posted_at": "2026-07-29T22:44:09.579472+00:00"
+  "last_posted_at": "2026-07-29T23:44:31.527803+00:00"
 }
