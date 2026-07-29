@@ -563,28 +563,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "The FCC is actually banning Chinese humanoid robots because of security risks. What are we even doing anymore.",
-      "original_url": "https://www.theguardian.com/us-news/2026/jul/28/fcc-ban-humanoid-robots-china",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "FCC bans humanoid robots from China, citing ‘unacceptable risks’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-28T23:37:01.755408+00:00"
-    },
-    {
-      "tweet": "Dude, FIFA is literally selling stakes in the World Cup now. Like they haven't made enough off it already.",
-      "original_url": "https://www.npr.org/2026/07/28/nx-s1-5910773/fifa-world-cup-gianni-infantino",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "FIFA has a new plan to raise billions of dollars: Selling stakes in the World Cup",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-28T23:37:01.755142+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -959,6 +937,39 @@
       "added_at": "2026-07-26T07:17:19.864424+00:00"
     },
     {
+      "tweet": "The FCC is actually banning Chinese humanoid robots because of security risks. What are we even doing anymore.",
+      "original_url": "https://www.theguardian.com/us-news/2026/jul/28/fcc-ban-humanoid-robots-china",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "FCC bans humanoid robots from China, citing ‘unacceptable risks’",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-28T23:37:01.755408+00:00"
+    },
+    {
+      "tweet": "Dude, FIFA is literally selling stakes in the World Cup now. Like they haven't made enough off it already.",
+      "original_url": "https://www.npr.org/2026/07/28/nx-s1-5910773/fifa-world-cup-gianni-infantino",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "FIFA has a new plan to raise billions of dollars: Selling stakes in the World Cup",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-28T23:37:01.755142+00:00"
+    },
+    {
+      "tweet": "So apparently a judge just told Google they can't use DMCA claims to stop people from scraping their data. Finally some sanity",
+      "original_url": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-27T22:09:36.103169+00:00"
+    },
+    {
       "tweet": "Kim Kardashian is carrying a bag shaped like a soccer ball and calling it sportscore. Man, we'll buy anything.",
       "original_url": "https://www.bustle.com/style/2026-sportscore-ball-bags",
       "buzz_score": 80,
@@ -990,17 +1001,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-07-28T21:20:27.293832+00:00"
-    },
-    {
-      "tweet": "So apparently a judge just told Google they can't use DMCA claims to stop people from scraping their data. Finally some sanity",
-      "original_url": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-27T22:09:36.103169+00:00"
     },
     {
       "tweet": "Some bot-detection startup just raised 200 million. At this point we're just paying robots to catch other robots.",
