@@ -2,28 +2,6 @@
   "last_collected": "2026-07-30T18:10:21.222113+00:00",
   "queue": [
     {
-      "tweet": "Besigye is in intensive care after collapsing in that Ugandan court. Is any of this supposed to be normal?",
-      "original_url": "https://www.aljazeera.com/news/2026/7/30/detained-ugandan-opposition-leader-besigye-in-intensive-care-wife-says?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Detained Ugandan opposition leader Besigye in intensive care, wife says",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-30T13:12:52.725470+00:00"
-    },
-    {
-      "tweet": "Soundgarden is dropping a final album with Chris Cornell's vocals. It's that feeling when you realize it's actually the end",
-      "original_url": "https://www.billboard.com/music/rock/soundgarden-mixing-final-album-chris-cornell-vocals-cameron-1236306036/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Soundgarden Mixing Final Album Featuring Late Singer Chris Cornell’s Vocals: ‘It’s Been Kind of a Long Process Just to Get to Here’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-30T13:12:52.724382+00:00"
-    },
-    {
       "tweet": "Dude, people just got an engine running Gemma 4 26B on a Mac with only 2 GB of RAM. My laptop struggles to open Chrome. wild",
       "original_url": "https://github.com/drumih/turbo-fieldfare",
       "buzz_score": 85,
@@ -33,28 +11,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-07-30T13:12:52.724095+00:00"
-    },
-    {
-      "tweet": "Jordan's intercepting missiles and the US is hitting Iran again. It’s pretty clear this whole thing isn't staying contained anymore.",
-      "original_url": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Middle East crisis live: Jordan says it foiled Iranian missile attack as US launches ‘heavy’ strikes on Iran after pause",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-30T18:10:21.220842+00:00"
-    },
-    {
-      "tweet": "They found 15 elephants in Kenya died from cyanide. Who even does that to animals?",
-      "original_url": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife",
-      "buzz_score": 78,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fifteen elephant deaths at Kenya park may be due to cyanide poisoning",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-30T13:12:52.724626+00:00"
     },
     {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
@@ -90,15 +46,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "So Russia just leveled a US drone factory in Kyiv. First time they've actually hit a US company over there. We're getting real close to something else now.",
-      "original_url": "https://www.theguardian.com/world/2026/jul/30/us-firm-drone-factory-terminal-autonomy-ukraine-russia",
-      "buzz_score": 90,
+      "tweet": "Jordan's intercepting missiles and the US is hitting Iran again. It’s pretty clear this whole thing isn't staying contained anymore.",
+      "original_url": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
+      "buzz_score": 95,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Russian missile destroys US firm’s Kyiv drone factory",
+      "original_title": "Middle East crisis live: Jordan says it foiled Iranian missile attack as US launches ‘heavy’ strikes on Iran after pause",
       "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-07-30T18:10:21.220714+00:00"
+      "added_at": "2026-07-30T18:10:21.220842+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -110,6 +66,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "They found 15 elephants in Kenya died from cyanide. Who even does that to animals?",
+      "original_url": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife",
+      "buzz_score": 78,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Fifteen elephant deaths at Kenya park may be due to cyanide poisoning",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-30T13:12:52.724626+00:00"
     },
     {
       "tweet": "Monday.com is officially blaming AI for their layoffs. That makes 20 companies this year using that same excuse.",
@@ -629,17 +596,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Trump's team is asking for another ten million for the July Fourth stuff. Like they didn't already have one hundred and fifty million to throw at it.",
-      "original_url": "https://www.npr.org/2026/07/30/nx-s1-5913172/freedom-250-july-fourth-10-million",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The Trump administration wants $10 million more to cover its July Fourth celebrations",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-30T18:10:21.221735+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -860,6 +816,17 @@
       "added_at": "2026-04-09T07:14:41.251115+00:00"
     },
     {
+      "tweet": "So Russia just leveled a US drone factory in Kyiv. First time they've actually hit a US company over there. We're getting real close to something else now.",
+      "original_url": "https://www.theguardian.com/world/2026/jul/30/us-firm-drone-factory-terminal-autonomy-ukraine-russia",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Russian missile destroys US firm’s Kyiv drone factory",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-30T18:10:21.220714+00:00"
+    },
+    {
       "tweet": "Ben-Gvir is out there pulling stunts at Al-Aqsa right before an election. Classic move when you've got nothing else to run on.",
       "original_url": "https://www.aljazeera.com/news/2026/7/23/far-right-israeli-incursion-heightens-tensions-at-al-aqsa-ahead-of-election?traffic_source=rss",
       "buzz_score": 80,
@@ -979,6 +946,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-07-28T08:50:54.111075+00:00"
+    },
+    {
+      "tweet": "Trump's team is asking for another ten million for the July Fourth stuff. Like they didn't already have one hundred and fifty million to throw at it.",
+      "original_url": "https://www.npr.org/2026/07/30/nx-s1-5913172/freedom-250-july-fourth-10-million",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Trump administration wants $10 million more to cover its July Fourth celebrations",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-07-30T18:10:21.221735+00:00"
     },
     {
       "tweet": "Iran apparently thinks a limited war is better than actual peace. Just wild that's the strategy we're living with now.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2584,
+    "total_posted": 2586,
     "total_collected": 12282
   },
-  "last_posted_at": "2026-07-30T18:19:28.234872+00:00"
+  "last_posted_at": "2026-07-30T19:57:12.874710+00:00"
 }
