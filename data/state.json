@@ -2,28 +2,6 @@
   "last_collected": "2026-07-30T15:22:15.693957+00:00",
   "queue": [
     {
-      "tweet": "Hold on, that Alien Terrorist Removal Court is finally holding a hearing after 30 years. Talk about moving with urgency",
-      "original_url": "https://www.npr.org/2026/07/30/g-s1-136289/alien-terrorist-removal-court-isis-terror-plot",
-      "buzz_score": 92,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Alien Terrorist Removal Court to hold its first-ever hearing after 30 years",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-07-30T13:12:52.724105+00:00"
-    },
-    {
-      "tweet": "Yo, Poland thinks a Russian missile might have hit them again. At this point we're just waiting for a mistake",
-      "original_url": "https://www.nytimes.com/2026/07/30/world/europe/ukraine-poland-russia-missile.html",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Poland’s Leader Says Russian Missile May Have Struck Its Territory During Ukraine Attack",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-07-30T13:12:52.724110+00:00"
-    },
-    {
       "tweet": "Cameroon’s president has been gone for 53 days now. Imagine just clocking out for two months at a Swiss hotel",
       "original_url": "https://www.theguardian.com/world/2026/jul/30/record-absence-paul-biya-cameroon-president-health-speculation",
       "buzz_score": 88,
@@ -110,17 +88,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "So apparently police threw a guy in prison because they got his username wrong and thought it was something from Skyrim. That's the justice system for you.",
-      "original_url": "https://kotaku.com/police-got-a-username-based-on-skyrim-wrong-and-sent-an-innocent-man-to-prison-a-subtle-mistake-that-changed-the-course-of-my-life-2000720448",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Police Got A Username Based On Skyrim Wrong And Sent An Innocent Man To Prison: ‘A Subtle Mistake That Changed The Course Of My Life’",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-30T15:22:15.692773+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -651,50 +618,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Wall Street is mad at that RAM manufacturer for only making 55 billion. I wish I had that kind of problem",
-      "original_url": "https://kotaku.com/ram-manufacturer-gets-pummeled-by-stock-market-for-only-making-55-billion-2000720432",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "RAM Manufacturer Gets Pummeled By Stock Market For Only Making $55 Billion",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-30T13:12:52.724996+00:00"
-    },
-    {
-      "tweet": "Eddie Howe leaving Newcastle is wild given all that money they poured in. Turns out spending rules bite",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c78g4jn43zko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Howe going as spending rules bite - troubles for Newcastle's Saudi owners",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-30T13:12:52.724504+00:00"
-    },
-    {
-      "tweet": "Man, sounds like Bruno Guimaraes is heading to Arsenal for 80 million. That's a massive bag.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cgewqpp5e57o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Newcastle captain Guimaraes expected to join Arsenal",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-30T15:22:15.693043+00:00"
-    },
-    {
-      "tweet": "Bro, have you seen Jason Momoa as Blanka in that Street Fighter movie. It looks so cursed.",
-      "original_url": "https://kotaku.com/street-fighter-movie-blanka-jason-momoa-ryu-fight-clip-2000720459",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Jason Momoa’s Blanka Looks Kinda Cursed In The Street Fighter Movie",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-30T15:22:15.692775+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -704,6 +627,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
+    },
+    {
+      "tweet": "So apparently police threw a guy in prison because they got his username wrong and thought it was something from Skyrim. That's the justice system for you.",
+      "original_url": "https://kotaku.com/police-got-a-username-based-on-skyrim-wrong-and-sent-an-innocent-man-to-prison-a-subtle-mistake-that-changed-the-course-of-my-life-2000720448",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Police Got A Username Based On Skyrim Wrong And Sent An Innocent Man To Prison: ‘A Subtle Mistake That Changed The Course Of My Life’",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-30T15:22:15.692773+00:00"
     },
     {
       "tweet": "So apparently Trump wants to start controlling AI now after that OpenAI hack. Irony is dead.",
@@ -1034,6 +968,50 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-07-28T08:50:54.111075+00:00"
+    },
+    {
+      "tweet": "Wall Street is mad at that RAM manufacturer for only making 55 billion. I wish I had that kind of problem",
+      "original_url": "https://kotaku.com/ram-manufacturer-gets-pummeled-by-stock-market-for-only-making-55-billion-2000720432",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "RAM Manufacturer Gets Pummeled By Stock Market For Only Making $55 Billion",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-30T13:12:52.724996+00:00"
+    },
+    {
+      "tweet": "Eddie Howe leaving Newcastle is wild given all that money they poured in. Turns out spending rules bite",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/c78g4jn43zko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Howe going as spending rules bite - troubles for Newcastle's Saudi owners",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-30T13:12:52.724504+00:00"
+    },
+    {
+      "tweet": "Man, sounds like Bruno Guimaraes is heading to Arsenal for 80 million. That's a massive bag.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cgewqpp5e57o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Newcastle captain Guimaraes expected to join Arsenal",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-30T15:22:15.693043+00:00"
+    },
+    {
+      "tweet": "Bro, have you seen Jason Momoa as Blanka in that Street Fighter movie. It looks so cursed.",
+      "original_url": "https://kotaku.com/street-fighter-movie-blanka-jason-momoa-ryu-fight-clip-2000720459",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Jason Momoa’s Blanka Looks Kinda Cursed In The Street Fighter Movie",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-07-30T15:22:15.692775+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2580,
+    "total_posted": 2582,
     "total_collected": 12266
   },
-  "last_posted_at": "2026-07-30T15:31:07.616842+00:00"
+  "last_posted_at": "2026-07-30T17:02:22.107353+00:00"
 }
