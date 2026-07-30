@@ -2,50 +2,6 @@
   "last_collected": "2026-07-30T09:39:04.766469+00:00",
   "queue": [
     {
-      "tweet": "Did you see that AI worms are now self-propagating through Copilot for Word. Literally just living in our documents now. Great.",
-      "original_url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Document-borne AI worms can self-propagate through Copilot for Word",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-30T09:39:04.764596+00:00"
-    },
-    {
-      "tweet": "Dude, Newcastle just fired Eddie Howe with immediate effect. No warning, just gone.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c5yd23l95vgo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Manager Howe to leave Newcastle with immediate effect",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-30T09:39:04.764791+00:00"
-    },
-    {
-      "tweet": "The Grammys CEO is acting sad that BTS won't participate after they made a whole separate category for them. They're definitely feeling the heat.",
-      "original_url": "https://www.rollingstone.com/music/music-news/bts-grammys-arirang-wont-submit-2027-awards-ceo-responds-1235600777/",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Grammys CEO Defends New Asian Pop Category After BTS Says They Won’t Participate in 2027 Awards",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-07-30T04:17:05.016027+00:00"
-    },
-    {
-      "tweet": "Saw this article explaining edging like it's some new life hack. I mean, we've known how that works since we were fourteen.",
-      "original_url": "https://sex.cosmopolitan.com/pleasure/a73296157/what-is-edging/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "What Is Edging? A Beginner-Friendly Explainer",
-      "source": "Cosmo Sex & Love",
-      "category": "sex",
-      "added_at": "2026-07-30T04:17:05.015463+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -79,26 +35,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Did you hear about that kid in Singapore who got fined 465 bucks for licking a straw? Dude paid a half-month salary for a TikTok. Wild.",
-      "original_url": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
+      "tweet": "The Grammys CEO is acting sad that BTS won't participate after they made a whole separate category for them. They're definitely feeling the heat.",
+      "original_url": "https://www.rollingstone.com/music/music-news/bts-grammys-arirang-wont-submit-2027-awards-ceo-responds-1235600777/",
+      "buzz_score": 82,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Singapore fines French teen $465 for viral straw-licking stunt",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-30T04:17:05.015454+00:00"
-    },
-    {
-      "tweet": "So apparently Trump wants to start controlling AI now after that OpenAI hack. Irony is dead.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump considering AI controls after OpenAI hacking incidents",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-07-30T01:01:03.886158+00:00"
+      "original_title": "Grammys CEO Defends New Asian Pop Category After BTS Says They Won’t Participate in 2027 Awards",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-07-30T04:17:05.016027+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -112,26 +57,15 @@
       "added_at": "2026-06-24T11:28:23.259709+00:00"
     },
     {
-      "tweet": "This boxer disqualification is wild. Imagine being Idi Amin’s grandson and still losing because you headbutted someone.",
-      "original_url": "https://www.bbc.co.uk/sport/boxing/articles/czxewy7zl46o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
+      "tweet": "Saw this article explaining edging like it's some new life hack. I mean, we've known how that works since we were fourteen.",
+      "original_url": "https://sex.cosmopolitan.com/pleasure/a73296157/what-is-edging/",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Boxer Abdul - grandson of dictator - disqualified for headbutt",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-30T01:01:03.886167+00:00"
-    },
-    {
-      "tweet": "Did you see these AI startups stopped publishing their research. Suddenly transparency is a bad look for business, huh.",
-      "original_url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "AI's top startups are barely publishing their research",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-30T01:01:03.886151+00:00"
+      "original_title": "What Is Edging? A Beginner-Friendly Explainer",
+      "source": "Cosmo Sex & Love",
+      "category": "sex",
+      "added_at": "2026-07-30T04:17:05.015463+00:00"
     },
     {
       "tweet": "Monday.com is officially blaming AI for their layoffs. That makes 20 companies this year using that same excuse.",
@@ -662,15 +596,15 @@
       "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
-      "tweet": "People are actually living in that isolated region of Pakistan with constant avalanches. That's a no from me.",
-      "original_url": "https://www.npr.org/2026/07/29/g-s1-135641/pakistan-chitral-hindu-kush-mountains",
-      "buzz_score": 70,
+      "tweet": "So apparently Trump wants to start controlling AI now after that OpenAI hack. Irony is dead.",
+      "original_url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Greetings from an isolated region in northern Pakistan's Hindu Kush mountains",
-      "source": "NPR News",
+      "original_title": "Trump considering AI controls after OpenAI hacking incidents",
+      "source": "BBC World",
       "category": "world",
-      "added_at": "2026-07-30T04:17:05.017181+00:00"
+      "added_at": "2026-07-30T01:01:03.886158+00:00"
     },
     {
       "tweet": "Hang on, the Neuromancer trailer actually looks decent. Against all odds.",
@@ -893,6 +827,39 @@
       "added_at": "2026-07-23T18:00:42.945557+00:00"
     },
     {
+      "tweet": "Did you hear about that kid in Singapore who got fined 465 bucks for licking a straw? Dude paid a half-month salary for a TikTok. Wild.",
+      "original_url": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Singapore fines French teen $465 for viral straw-licking stunt",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-30T04:17:05.015454+00:00"
+    },
+    {
+      "tweet": "This boxer disqualification is wild. Imagine being Idi Amin’s grandson and still losing because you headbutted someone.",
+      "original_url": "https://www.bbc.co.uk/sport/boxing/articles/czxewy7zl46o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Boxer Abdul - grandson of dictator - disqualified for headbutt",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-30T01:01:03.886167+00:00"
+    },
+    {
+      "tweet": "Did you see these AI startups stopped publishing their research. Suddenly transparency is a bad look for business, huh.",
+      "original_url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "AI's top startups are barely publishing their research",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-30T01:01:03.886151+00:00"
+    },
+    {
       "tweet": "Dude, Claude is literally falling apart right now. Everything’s hitting an error. Classic.",
       "original_url": "https://status.claude.com/incidents/q2kg8n613kr3",
       "buzz_score": 85,
@@ -992,26 +959,15 @@
       "added_at": "2026-07-27T22:09:36.103728+00:00"
     },
     {
-      "tweet": "Some startup sent a chef to film someone cooking just to train robots. We're literally training our own replacements for lunch.",
-      "original_url": "https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
+      "tweet": "People are actually living in that isolated region of Pakistan with constant avalanches. That's a no from me.",
+      "original_url": "https://www.npr.org/2026/07/29/g-s1-135641/pakistan-chitral-hindu-kush-mountains",
+      "buzz_score": 70,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "I Got a Free Meal From a Private Chef—Who Filmed It All to Train Robots",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-07-30T09:39:04.765442+00:00"
-    },
-    {
-      "tweet": "So apparently a Russian missile just cratered a field in Poland. Are we just doing this now.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-      "source": "BBC World",
+      "original_title": "Greetings from an isolated region in northern Pakistan's Hindu Kush mountains",
+      "source": "NPR News",
       "category": "world",
-      "added_at": "2026-07-30T09:39:04.764603+00:00"
+      "added_at": "2026-07-30T04:17:05.017181+00:00"
     },
     {
       "tweet": "Two tankers just got hit in a drone strike over in Egypt. Stuff is getting wild.",
@@ -1034,6 +990,28 @@
       "source": "Kotaku",
       "category": "entertainment",
       "added_at": "2026-07-29T22:37:10.709370+00:00"
+    },
+    {
+      "tweet": "Some startup sent a chef to film someone cooking just to train robots. We're literally training our own replacements for lunch.",
+      "original_url": "https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "I Got a Free Meal From a Private Chef—Who Filmed It All to Train Robots",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-07-30T09:39:04.765442+00:00"
+    },
+    {
+      "tweet": "So apparently a Russian missile just cratered a field in Poland. Are we just doing this now.",
+      "original_url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-07-30T09:39:04.764603+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2574,
+    "total_posted": 2576,
     "total_collected": 12234
   },
-  "last_posted_at": "2026-07-30T09:44:56.134002+00:00"
+  "last_posted_at": "2026-07-30T11:39:31.232366+00:00"
 }
