@@ -2,28 +2,6 @@
   "last_collected": "2026-07-30T20:53:50.964046+00:00",
   "queue": [
     {
-      "tweet": "The dad of that Georgia shooter just got fifteen years. It's a new world when that happens.",
-      "original_url": "https://www.aljazeera.com/news/2026/7/30/father-of-georgia-apalachee-school-shooter-sentenced-to-15-years-in-prison?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Father of Georgia Apalachee school shooter sentenced to 15 years in prison",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-30T20:53:50.963244+00:00"
-    },
-    {
-      "tweet": "Dude, before you grab another streaming stick, check how much they're actually tracking you. It's basically a surveillance device that plays Netflix. Wild.",
-      "original_url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Read this before you buy that TV streaming stick",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-30T20:53:50.962382+00:00"
-    },
-    {
       "tweet": "Disney already greenlit that Marvel show and now they're just canceling it anyway. Burning money.",
       "original_url": "https://kotaku.com/why-is-disney-canceling-a-marvel-show-it-already-greenlit-the-second-season-of-2000720574",
       "buzz_score": 80,
@@ -77,17 +55,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Dude, people just got an engine running Gemma 4 26B on a Mac with only 2 GB of RAM. My laptop struggles to open Chrome. wild",
-      "original_url": "https://github.com/drumih/turbo-fieldfare",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-07-30T13:12:52.724095+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -618,15 +585,15 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Therapists are saying everyone is suddenly super curious about kinks right now. We're all just bored, man.",
-      "original_url": "https://sex.cosmopolitan.com/pleasure/a73286309/popular-kinks/",
+      "tweet": "Dude, people just got an engine running Gemma 4 26B on a Mac with only 2 GB of RAM. My laptop struggles to open Chrome. wild",
+      "original_url": "https://github.com/drumih/turbo-fieldfare",
       "buzz_score": 85,
-      "buzz_score2": 90,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "The Kinks Therapists Say Couples Are Most Curious About Right Now",
-      "source": "Cosmo Sex & Love",
-      "category": "sex",
-      "added_at": "2026-07-30T20:53:50.962846+00:00"
+      "original_title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-07-30T13:12:52.724095+00:00"
     },
     {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
@@ -638,17 +605,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
-    },
-    {
-      "tweet": "Jordan's intercepting missiles and the US is hitting Iran again. It’s pretty clear this whole thing isn't staying contained anymore.",
-      "original_url": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Middle East crisis live: Jordan says it foiled Iranian missile attack as US launches ‘heavy’ strikes on Iran after pause",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-30T18:10:21.220842+00:00"
     },
     {
       "tweet": "So apparently Trump wants to start controlling AI now after that OpenAI hack. Irony is dead.",
@@ -882,15 +838,15 @@
       "added_at": "2026-07-23T18:00:42.945557+00:00"
     },
     {
-      "tweet": "They found 15 elephants in Kenya died from cyanide. Who even does that to animals?",
-      "original_url": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife",
-      "buzz_score": 78,
-      "buzz_score2": 95,
+      "tweet": "Therapists are saying everyone is suddenly super curious about kinks right now. We're all just bored, man.",
+      "original_url": "https://sex.cosmopolitan.com/pleasure/a73286309/popular-kinks/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Fifteen elephant deaths at Kenya park may be due to cyanide poisoning",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-30T13:12:52.724626+00:00"
+      "original_title": "The Kinks Therapists Say Couples Are Most Curious About Right Now",
+      "source": "Cosmo Sex & Love",
+      "category": "sex",
+      "added_at": "2026-07-30T20:53:50.962846+00:00"
     },
     {
       "tweet": "This boxer disqualification is wild. Imagine being Idi Amin’s grandson and still losing because you headbutted someone.",
@@ -990,6 +946,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-07-28T08:50:54.111075+00:00"
+    },
+    {
+      "tweet": "Jordan's intercepting missiles and the US is hitting Iran again. It’s pretty clear this whole thing isn't staying contained anymore.",
+      "original_url": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Middle East crisis live: Jordan says it foiled Iranian missile attack as US launches ‘heavy’ strikes on Iran after pause",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-30T18:10:21.220842+00:00"
+    },
+    {
+      "tweet": "They found 15 elephants in Kenya died from cyanide. Who even does that to animals?",
+      "original_url": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife",
+      "buzz_score": 78,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Fifteen elephant deaths at Kenya park may be due to cyanide poisoning",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-30T13:12:52.724626+00:00"
     },
     {
       "tweet": "The US hit targets in Iran overnight while saying peace talks are still ongoing. That's a joke.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2588,
+    "total_posted": 2590,
     "total_collected": 12298
   },
-  "last_posted_at": "2026-07-30T20:58:58.035923+00:00"
+  "last_posted_at": "2026-07-30T22:02:57.398554+00:00"
 }
