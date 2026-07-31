@@ -2,28 +2,6 @@
   "last_collected": "2026-07-31T21:18:30.774877+00:00",
   "queue": [
     {
-      "tweet": "The internet is clowning Ludwig for that Chinese game role. It's only a matter of time before we're all in AI slop.",
-      "original_url": "https://kotaku.com/ludwig-road-to-empress-2-chinese-fmv-game-ai-slop-2000720867",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Internet Is Clowning The Hell Outta Ludwig For His Hilarious Appearance In A Chinese FMV Game",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-31T21:18:30.774360+00:00"
-    },
-    {
-      "tweet": "MoMA PS1 put a twenty-five foot teddy bear slide in their courtyard. Honestly, I'm down.",
-      "original_url": "https://hypebeast.com/2026/7/precious-okoyomon-moma-ps1-courtyard-teddy-bear-installation-nyc-2026",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Precious Okoyomon Unveils 25-Foot Teddy Bear Slide at MoMA PS1",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-07-31T21:18:30.774749+00:00"
-    },
-    {
       "tweet": "Cambridge students are protesting during their own graduation ceremonies. Makes you wonder if the degree is even worth it if you're that mad.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/cambridge-students-on-why-they-protested-at-graduation-ceremony?traffic_source=rss",
       "buzz_score": 75,
@@ -121,28 +99,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Big Motoring World investors basically set up a sting to fire their own boss. Corporate stuff is ruthless.",
-      "original_url": "https://www.theguardian.com/business/2026/jul/31/used-car-firm-boss-ousted-peter-waddell-big-motoring-world",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Boss of £300m used-car firm was ousted after ‘orchestrated plan’ by investors, judge rules",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-31T21:18:30.774235+00:00"
-    },
-    {
-      "tweet": "Bro, they're actually selling KPop Demon Hunter Squishmallows now. We're devolving.",
-      "original_url": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-squishmallows-plush-toys-shop-online-1236291847/",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "‘KPop Demon Hunters’ Squishmallows Are Back in Stock, With 4 Fan-Favorite Characters in Plushie Form",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-31T21:18:30.773460+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -682,6 +638,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
+    },
+    {
+      "tweet": "Big Motoring World investors basically set up a sting to fire their own boss. Corporate stuff is ruthless.",
+      "original_url": "https://www.theguardian.com/business/2026/jul/31/used-car-firm-boss-ousted-peter-waddell-big-motoring-world",
+      "buzz_score": 75,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Boss of £300m used-car firm was ousted after ‘orchestrated plan’ by investors, judge rules",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-31T21:18:30.774235+00:00"
+    },
+    {
+      "tweet": "Bro, they're actually selling KPop Demon Hunter Squishmallows now. We're devolving.",
+      "original_url": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-squishmallows-plush-toys-shop-online-1236291847/",
+      "buzz_score": 75,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "‘KPop Demon Hunters’ Squishmallows Are Back in Stock, With 4 Fan-Favorite Characters in Plushie Form",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-07-31T21:18:30.773460+00:00"
     },
     {
       "tweet": "So apparently Trump wants to start controlling AI now after that OpenAI hack. Irony is dead.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2612,
+    "total_posted": 2614,
     "total_collected": 12416
   },
-  "last_posted_at": "2026-07-31T21:25:54.941524+00:00"
+  "last_posted_at": "2026-07-31T22:38:14.448447+00:00"
 }
