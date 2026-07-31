@@ -2,17 +2,6 @@
   "last_collected": "2026-07-31T18:43:02.616143+00:00",
   "queue": [
     {
-      "tweet": "Man, Eddie Howe stepping down at Newcastle is wild. Five years just gone like that.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c74gdn2w3d7o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Newcastle confirm Howe resignation as head coach",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-31T18:43:02.615142+00:00"
-    },
-    {
       "tweet": "Google just had to pause that satellite project 'cause even they realized giving everyone access to live deepfake footage from space was a bad call. We're cooked.",
       "original_url": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky",
       "buzz_score": 85,
@@ -860,17 +849,6 @@
       "added_at": "2026-07-23T18:00:42.945557+00:00"
     },
     {
-      "tweet": "Lorde brought Charli xcx out for that song at Lollapalooza. That's definitely the kind of moment you have to be there for.",
-      "original_url": "https://www.billboard.com/music/music-news/lorde-lollapalooza-charli-xcx-girl-so-confusing-1236306966/",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Watch Lorde Surprise Lollapalooza Crowd With Special Guest Charli xcx on ‘Girl, So Confusing’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-07-31T15:28:29.995143+00:00"
-    },
-    {
       "tweet": "18 people died trying to reach Ceuta. It’s insane that people are still stuck in that nightmare.",
       "original_url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
       "buzz_score": 85,
@@ -1023,6 +1001,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-07-28T08:50:54.111075+00:00"
+    },
+    {
+      "tweet": "Lorde brought Charli xcx out for that song at Lollapalooza. That's definitely the kind of moment you have to be there for.",
+      "original_url": "https://www.billboard.com/music/music-news/lorde-lollapalooza-charli-xcx-girl-so-confusing-1236306966/",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Watch Lorde Surprise Lollapalooza Crowd With Special Guest Charli xcx on ‘Girl, So Confusing’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-07-31T15:28:29.995143+00:00"
     },
     {
       "tweet": "That new Sam Fender track has been number one in the UK for 19 weeks and didn't even crack our top 40. Guess we're just listening to...",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2609,
+    "total_posted": 2610,
     "total_collected": 12400
   },
-  "last_posted_at": "2026-07-31T18:48:59.352473+00:00"
+  "last_posted_at": "2026-07-31T20:07:06.915130+00:00"
 }
