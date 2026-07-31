@@ -2,28 +2,6 @@
   "last_collected": "2026-07-30T22:59:23.645833+00:00",
   "queue": [
     {
-      "tweet": "So that fifty-five billion EA sale to Saudi Arabia is actually going through next week. They really just own everything now",
-      "original_url": "https://kotaku.com/ea-says-sale-saudi-arabia-go-through-next-week-2000720596",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "EA Says Its $55 Billion Sale To Saudi Arabia And Private Equity Will Go Through Next Week",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-07-30T22:59:23.645246+00:00"
-    },
-    {
-      "tweet": "Hold on, Uefa’s actually talking about a World Cup boycott? Gianni Infantino is officially on thin ice",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Is Infantino finished? Could Uefa boycott World Cup? What happens now?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-30T22:59:23.644604+00:00"
-    },
-    {
       "tweet": "Man, it’s wild how many countries are getting tangled up in that whole Iran thing right now. Just a mess",
       "original_url": "https://www.nytimes.com/2026/07/30/world/middleeast/us-iran-war-expansion.html",
       "buzz_score": 85,
@@ -640,17 +618,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "So Zoox just got the green light for those steering-wheel-free robotaxis in Vegas. Guess we're really doing this now",
-      "original_url": "https://www.aljazeera.com/economy/2026/7/30/amazons-zoox-secures-us-federal-approval-for-steering-wheel-free-robotaxis?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Amazon’s Zoox secures US federal approval for steering-wheel-free robotaxis",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-07-30T22:59:23.644935+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -891,6 +858,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945557+00:00"
+    },
+    {
+      "tweet": "So Zoox just got the green light for those steering-wheel-free robotaxis in Vegas. Guess we're really doing this now",
+      "original_url": "https://www.aljazeera.com/economy/2026/7/30/amazons-zoox-secures-us-federal-approval-for-steering-wheel-free-robotaxis?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Amazon’s Zoox secures US federal approval for steering-wheel-free robotaxis",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-07-30T22:59:23.644935+00:00"
     },
     {
       "tweet": "Dude, people just got an engine running Gemma 4 26B on a Mac with only 2 GB of RAM. My laptop struggles to open Chrome. wild",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2592,
+    "total_posted": 2594,
     "total_collected": 12314
   },
-  "last_posted_at": "2026-07-30T23:09:17.704500+00:00"
+  "last_posted_at": "2026-07-31T00:08:53.000034+00:00"
 }
