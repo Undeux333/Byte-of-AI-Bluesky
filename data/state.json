@@ -2,28 +2,6 @@
   "last_collected": "2026-08-01T20:39:10.500590+00:00",
   "queue": [
     {
-      "tweet": "Pedro Sánchez was basically the migration hero in Spain, now 60,000 people cross and the whole thing goes sideways. Classic.",
-      "original_url": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants",
-      "buzz_score": 78,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Spain's Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-01T20:39:10.500060+00:00"
-    },
-    {
-      "tweet": "Harry Styles is doing a six-night run in Mexico City. The guy basically has a permanent residency in every major city on earth at this point.",
-      "original_url": "https://www.billboard.com/lists/harry-styles-together-together-tour-mexico-best-moments/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘¡Viva México!’ Harry Styles Kicks Off His GNP Seguros Stadium Residency: 5 Best Moments",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-01T20:39:10.500322+00:00"
-    },
-    {
       "tweet": "Saw this show My Side on Netflix where celebrities talk about pop culture memories. We all have that one story we swear happened differently than it actually did.",
       "original_url": "https://usa.newonnetflix.info/info/83057406",
       "buzz_score": 75,
@@ -101,17 +79,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Nine people dead in Kyiv after those missiles hit, and now Trump is walking back that support package. Just another Tuesday in this timeline.",
-      "original_url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-01T20:39:10.499926+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -121,6 +88,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Nine people dead in Kyiv after those missiles hit, and now Trump is walking back that support package. Just another Tuesday in this timeline.",
+      "original_url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-01T20:39:10.499926+00:00"
     },
     {
       "tweet": "Monday.com is officially blaming AI for their layoffs. That makes 20 companies this year using that same excuse.",
@@ -640,39 +618,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Did you hear Google fixed more bugs in Chrome this month than in two years? Kinda funny how they finally found the motivation once they let AI do the heavy lifting.",
-      "original_url": "https://blog.google/security/chrome-stronger-with-every-update/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-01T11:54:48.905261+00:00"
-    },
-    {
-      "tweet": "So Israel and Hezbollah are fighting over some random ridge in Lebanon again. At what point does a ceasefire stop being a ceasefire?",
-      "original_url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-01T20:39:10.498793+00:00"
-    },
-    {
-      "tweet": "So I just saw this map of the most popular religions in every state besides Christianity. Turns out we’re way more diverse than I thought.",
-      "original_url": "https://www.mentalfloss.com/geography/maps/every-states-most-popular-religion-excluding-christianity?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Every State’s Most Popular Religion (Excluding Christianity), Mapped",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-01T14:20:40.670440+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -682,17 +627,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
-    },
-    {
-      "tweet": "Bro, the Greeks had a myth about a giant bronze robot protecting an island. Thousands of years later and we're still just trying to catch up to the bronze age.",
-      "original_url": "https://www.mentalfloss.com/history/ancient-greek-bronze-robot-talos?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Ancient Greece Had a Giant Bronze Robot—And His Story Sounds Like Science Fiction",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-01T20:39:10.498790+00:00"
     },
     {
       "tweet": "So apparently Trump wants to start controlling AI now after that OpenAI hack. Irony is dead.",
@@ -924,6 +858,50 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945557+00:00"
+    },
+    {
+      "tweet": "Did you hear Google fixed more bugs in Chrome this month than in two years? Kinda funny how they finally found the motivation once they let AI do the heavy lifting.",
+      "original_url": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-08-01T11:54:48.905261+00:00"
+    },
+    {
+      "tweet": "So Israel and Hezbollah are fighting over some random ridge in Lebanon again. At what point does a ceasefire stop being a ceasefire?",
+      "original_url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-01T20:39:10.498793+00:00"
+    },
+    {
+      "tweet": "So I just saw this map of the most popular religions in every state besides Christianity. Turns out we’re way more diverse than I thought.",
+      "original_url": "https://www.mentalfloss.com/geography/maps/every-states-most-popular-religion-excluding-christianity?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Every State’s Most Popular Religion (Excluding Christianity), Mapped",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-08-01T14:20:40.670440+00:00"
+    },
+    {
+      "tweet": "Bro, the Greeks had a myth about a giant bronze robot protecting an island. Thousands of years later and we're still just trying to catch up to the bronze age.",
+      "original_url": "https://www.mentalfloss.com/history/ancient-greek-bronze-robot-talos?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Ancient Greece Had a Giant Bronze Robot—And His Story Sounds Like Science Fiction",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-08-01T20:39:10.498790+00:00"
     },
     {
       "tweet": "Google just had to pause that satellite project 'cause even they realized giving everyone access to live deepfake footage from space was a bad call. We're cooked.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2636,
+    "total_posted": 2638,
     "total_collected": 12532
   },
-  "last_posted_at": "2026-08-01T20:45:48.395249+00:00"
+  "last_posted_at": "2026-08-01T21:38:40.873202+00:00"
 }
