@@ -2,28 +2,6 @@
   "last_collected": "2026-08-01T20:39:10.500590+00:00",
   "queue": [
     {
-      "tweet": "Saw this show My Side on Netflix where celebrities talk about pop culture memories. We all have that one story we swear happened differently than it actually did.",
-      "original_url": "https://usa.newonnetflix.info/info/83057406",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "1st Aug: My Side (2026), 3 Episodes [TV-14] (6/10)",
-      "source": "New on Netflix",
-      "category": "entertainment",
-      "added_at": "2026-08-01T20:39:10.499380+00:00"
-    },
-    {
-      "tweet": "Did you see that Penguin Highway is free on YouTube right now? Honestly a top-tier sci-fi movie and we're just getting it for free.",
-      "original_url": "https://www.polygon.com/penguin-highway-most-overlooked-sci-fi-anime-masterpiece-streaming-free-on-youtube/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Anime's most overlooked sci-fi masterpiece is streaming free on YouTube",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-01T20:39:10.499115+00:00"
-    },
-    {
       "tweet": "Did you know everyone on the Oregon Trail was using oxen instead of horses? Apparently they don't spook and can eat basically anything you find on the road. Just straight up lawnmowers.",
       "original_url": "https://www.mentalfloss.com/history/why-pioneer-families-chose-oxen-over-horses?utm_source=RSS",
       "buzz_score": 75,
@@ -88,17 +66,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Nine people dead in Kyiv after those missiles hit, and now Trump is walking back that support package. Just another Tuesday in this timeline.",
-      "original_url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-01T20:39:10.499926+00:00"
     },
     {
       "tweet": "Monday.com is officially blaming AI for their layoffs. That makes 20 companies this year using that same excuse.",
@@ -860,6 +827,17 @@
       "added_at": "2026-07-23T18:00:42.945557+00:00"
     },
     {
+      "tweet": "Nine people dead in Kyiv after those missiles hit, and now Trump is walking back that support package. Just another Tuesday in this timeline.",
+      "original_url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-01T20:39:10.499926+00:00"
+    },
+    {
       "tweet": "Did you hear Google fixed more bugs in Chrome this month than in two years? Kinda funny how they finally found the motivation once they let AI do the heavy lifting.",
       "original_url": "https://blog.google/security/chrome-stronger-with-every-update/",
       "buzz_score": 85,
@@ -869,39 +847,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-08-01T11:54:48.905261+00:00"
-    },
-    {
-      "tweet": "So Israel and Hezbollah are fighting over some random ridge in Lebanon again. At what point does a ceasefire stop being a ceasefire?",
-      "original_url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-01T20:39:10.498793+00:00"
-    },
-    {
-      "tweet": "So I just saw this map of the most popular religions in every state besides Christianity. Turns out we’re way more diverse than I thought.",
-      "original_url": "https://www.mentalfloss.com/geography/maps/every-states-most-popular-religion-excluding-christianity?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Every State’s Most Popular Religion (Excluding Christianity), Mapped",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-01T14:20:40.670440+00:00"
-    },
-    {
-      "tweet": "Bro, the Greeks had a myth about a giant bronze robot protecting an island. Thousands of years later and we're still just trying to catch up to the bronze age.",
-      "original_url": "https://www.mentalfloss.com/history/ancient-greek-bronze-robot-talos?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Ancient Greece Had a Giant Bronze Robot—And His Story Sounds Like Science Fiction",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-01T20:39:10.498790+00:00"
     },
     {
       "tweet": "Google just had to pause that satellite project 'cause even they realized giving everyone access to live deepfake footage from space was a bad call. We're cooked.",
@@ -1001,6 +946,39 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-07-29T22:37:10.708806+00:00"
+    },
+    {
+      "tweet": "So Israel and Hezbollah are fighting over some random ridge in Lebanon again. At what point does a ceasefire stop being a ceasefire?",
+      "original_url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-01T20:39:10.498793+00:00"
+    },
+    {
+      "tweet": "So I just saw this map of the most popular religions in every state besides Christianity. Turns out we’re way more diverse than I thought.",
+      "original_url": "https://www.mentalfloss.com/geography/maps/every-states-most-popular-religion-excluding-christianity?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Every State’s Most Popular Religion (Excluding Christianity), Mapped",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-08-01T14:20:40.670440+00:00"
+    },
+    {
+      "tweet": "Bro, the Greeks had a myth about a giant bronze robot protecting an island. Thousands of years later and we're still just trying to catch up to the bronze age.",
+      "original_url": "https://www.mentalfloss.com/history/ancient-greek-bronze-robot-talos?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Ancient Greece Had a Giant Bronze Robot—And His Story Sounds Like Science Fiction",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-08-01T20:39:10.498790+00:00"
     },
     {
       "tweet": "Bro, this boxer from Tuvalu just won a medal at the Commonwealth Games without winning a single fight. Failing upward.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2638,
+    "total_posted": 2640,
     "total_collected": 12532
   },
-  "last_posted_at": "2026-08-01T21:38:40.873202+00:00"
+  "last_posted_at": "2026-08-01T22:41:49.106648+00:00"
 }
