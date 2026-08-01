@@ -2,28 +2,6 @@
   "last_collected": "2026-08-01T16:35:34.209490+00:00",
   "queue": [
     {
-      "tweet": "Crazy how they’re out there hitting medical supply warehouses in Gaza right after that disarmament deal. So much for that.",
-      "original_url": "https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Israeli strikes kill four across Gaza, destroy medical supply warehouse",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-01T16:35:34.208111+00:00"
-    },
-    {
-      "tweet": "Dude, Game Freak really can't catch a break. Pirates already leaked the whole game three days early. Rough.",
-      "original_url": "https://kotaku.com/game-freaks-beast-of-reincarnation-reportedly-leaked-by-pirates-three-days-before-official-release-2000720999",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Game Freak’s Beast Of Reincarnation Reportedly Leaked By Pirates Three Days Before Official Release",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-01T16:35:34.207679+00:00"
-    },
-    {
       "tweet": "They got Lego Pokémon sets out now and I’m genuinely considering buying them. Sometimes you just need to feel 8 again.",
       "original_url": "https://www.polygon.com/lego-smart-pokemon-sets-hands-on/",
       "buzz_score": 80,
@@ -79,17 +57,6 @@
       "added_at": "2026-08-01T14:20:40.670147+00:00"
     },
     {
-      "tweet": "Apparently everyone's forgetting Yellowstone and going back to watch Taylor Sheridan's old thriller on HBO. We just love feeling like we discovered something.",
-      "original_url": "https://www.polygon.com/taylor-sheridan-sicario-hbo-max-august-streaming-2026/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Forget Yellowstone, Taylor Sheridan's breakthrough crime thriller is still his sharpest script ever",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-01T11:54:48.905396+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -132,6 +99,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Apparently everyone's forgetting Yellowstone and going back to watch Taylor Sheridan's old thriller on HBO. We just love feeling like we discovered something.",
+      "original_url": "https://www.polygon.com/taylor-sheridan-sicario-hbo-max-august-streaming-2026/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Forget Yellowstone, Taylor Sheridan's breakthrough crime thriller is still his sharpest script ever",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-01T11:54:48.905396+00:00"
     },
     {
       "tweet": "Monday.com is officially blaming AI for their layoffs. That makes 20 companies this year using that same excuse.",
@@ -2051,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2629,
+    "total_posted": 2631,
     "total_collected": 12500
   },
-  "last_posted_at": "2026-08-01T16:35:37.096879+00:00"
+  "last_posted_at": "2026-08-01T17:45:48.287983+00:00"
 }
