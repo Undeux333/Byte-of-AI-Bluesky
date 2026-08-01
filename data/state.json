@@ -2,17 +2,6 @@
   "last_collected": "2026-08-01T09:18:57.814587+00:00",
   "queue": [
     {
-      "tweet": "Taking a Spider-Man trivia quiz and realizing I know more about Peter Parker’s life than my own at this point. It’s a problem.",
-      "original_url": "https://www.mentalfloss.com/entertainment/movies/spider-man-trivia-questions?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Best Spider-Man Trivia Questions to Separate the Fans From the Green Goblins",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-01T04:32:50.807350+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -44,17 +33,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Netflix is doing an Inbetweeners reunion with the original cast. Honestly, don't know if I'm ready to feel that cringe again.",
-      "original_url": "https://variety.com/2026/film/global/the-inbetweeners-reunion-movie-netflix-original-lead-cast-1236825532/",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘The Inbetweeners’ Reunion Movie in the Works at Netflix With Original Lead Cast to Return",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-08-01T09:18:57.813218+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -585,17 +563,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Lil Uzi just canceled his Lollapalooza set and dropped an EP like three hours later. Man is chaotic.",
-      "original_url": "https://www.billboard.com/music/rb-hip-hop/lil-uzi-vert-surprise-ep-after-lollapalooza-cancellation-1236307558/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Lil Uzi Vert Drops Surprise Birthday EP After Lollapalooza Cancellation",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-01T09:18:57.812639+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -605,6 +572,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
+    },
+    {
+      "tweet": "Netflix is doing an Inbetweeners reunion with the original cast. Honestly, don't know if I'm ready to feel that cringe again.",
+      "original_url": "https://variety.com/2026/film/global/the-inbetweeners-reunion-movie-netflix-original-lead-cast-1236825532/",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘The Inbetweeners’ Reunion Movie in the Works at Netflix With Original Lead Cast to Return",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-08-01T09:18:57.813218+00:00"
     },
     {
       "tweet": "So apparently Trump wants to start controlling AI now after that OpenAI hack. Irony is dead.",
@@ -838,17 +816,6 @@
       "added_at": "2026-07-23T18:00:42.945557+00:00"
     },
     {
-      "tweet": "Did you see that BBC clip of the settler justifying attacks on Palestinians? Honestly, at this point, we're just watching people normalize anything.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-01T07:11:57.759151+00:00"
-    },
-    {
       "tweet": "Google just had to pause that satellite project 'cause even they realized giving everyone access to live deepfake footage from space was a bad call. We're cooked.",
       "original_url": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky",
       "buzz_score": 85,
@@ -981,15 +948,15 @@
       "added_at": "2026-07-29T07:15:18.660332+00:00"
     },
     {
-      "tweet": "FIFA is finally canning that 20 billion dollar investment plan after Gianni Infantino got called out. Guess money can't fix everything, huh.",
-      "original_url": "https://variety.com/2026/biz/global/fifa-gianni-infantino-ditches-private-investment-plan-1236825512/",
+      "tweet": "Lil Uzi just canceled his Lollapalooza set and dropped an EP like three hours later. Man is chaotic.",
+      "original_url": "https://www.billboard.com/music/rb-hip-hop/lil-uzi-vert-surprise-ep-after-lollapalooza-cancellation-1236307558/",
       "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "FIFA Chief Gianni Infantino on the Ropes as He Ditches Controversial $20 Billion Private Investment Plan",
-      "source": "Variety",
+      "original_title": "Lil Uzi Vert Drops Surprise Birthday EP After Lollapalooza Cancellation",
+      "source": "Billboard",
       "category": "entertainment",
-      "added_at": "2026-08-01T07:11:57.759588+00:00"
+      "added_at": "2026-08-01T09:18:57.812639+00:00"
     },
     {
       "tweet": "Mega Crit tried to nerf The Silent in that new Slay The Spire update but somehow made her even more busted. Devs never learn.",
@@ -1012,6 +979,28 @@
       "source": "Cosmo Sex & Love",
       "category": "sex",
       "added_at": "2026-07-31T18:43:02.615340+00:00"
+    },
+    {
+      "tweet": "Did you see that BBC clip of the settler justifying attacks on Palestinians? Honestly, at this point, we're just watching people normalize anything.",
+      "original_url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-01T07:11:57.759151+00:00"
+    },
+    {
+      "tweet": "FIFA is finally canning that 20 billion dollar investment plan after Gianni Infantino got called out. Guess money can't fix everything, huh.",
+      "original_url": "https://variety.com/2026/biz/global/fifa-gianni-infantino-ditches-private-investment-plan-1236825512/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "FIFA Chief Gianni Infantino on the Ropes as He Ditches Controversial $20 Billion Private Investment Plan",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-08-01T07:11:57.759588+00:00"
     },
     {
       "tweet": "Dead birds washing up all over the coast in Australia 'cause of bird flu. It's like we're just speed-running the apocalypse now.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2623,
+    "total_posted": 2624,
     "total_collected": 12470
   },
-  "last_posted_at": "2026-08-01T09:26:41.506471+00:00"
+  "last_posted_at": "2026-08-01T10:54:01.118276+00:00"
 }
