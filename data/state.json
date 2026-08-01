@@ -2,17 +2,6 @@
   "last_collected": "2026-07-31T23:30:33.071300+00:00",
   "queue": [
     {
-      "tweet": "Did you know the myth of Echo is just about someone being forced to repeat whatever everyone else says. That's literally just the internet now.",
-      "original_url": "https://www.mentalfloss.com/culture/folklore-mythology/greek-myth-behind-word-echo-incredibly-tragic?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Greek Myth Behind the Word “Echo” Is Incredibly Tragic",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-31T21:18:30.773163+00:00"
-    },
-    {
       "tweet": "Google just had to pause that satellite project 'cause even they realized giving everyone access to live deepfake footage from space was a bad call. We're cooked.",
       "original_url": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky",
       "buzz_score": 85,
@@ -22,6 +11,39 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-07-31T18:43:02.615137+00:00"
+    },
+    {
+      "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
+      "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "'Maybe he's a racist' - Trump critical of James",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-25T08:36:27.986292+00:00"
+    },
+    {
+      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
+      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-02T15:05:13.740925+00:00"
+    },
+    {
+      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
+      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US court limits mail-order access to abortion pill mifepristone",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
       "tweet": "Mega Crit tried to nerf The Silent in that new Slay The Spire update but somehow made her even more busted. Devs never learn.",
@@ -66,50 +88,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-31T23:30:33.069703+00:00"
-    },
-    {
-      "tweet": "Did you see that medieval churches used to let kids run the show for a week? Basically just let toddlers make the rules. Absolute chaos.",
-      "original_url": "https://www.mentalfloss.com/history/medieval-feast-boy-bishop?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Medieval Feast Where Children Were Temporarily Put in Charge",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-07-31T18:43:02.615130+00:00"
-    },
-    {
-      "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
-      "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'Maybe he's a racist' - Trump critical of James",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-25T08:36:27.986292+00:00"
-    },
-    {
-      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
-      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-02T15:05:13.740925+00:00"
-    },
-    {
-      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
-      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US court limits mail-order access to abortion pill mifepristone",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -638,6 +616,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "Did you see that medieval churches used to let kids run the show for a week? Basically just let toddlers make the rules. Absolute chaos.",
+      "original_url": "https://www.mentalfloss.com/history/medieval-feast-boy-bishop?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Medieval Feast Where Children Were Temporarily Put in Charge",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-07-31T18:43:02.615130+00:00"
     },
     {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2616,
+    "total_posted": 2617,
     "total_collected": 12432
   },
-  "last_posted_at": "2026-07-31T23:36:03.726457+00:00"
+  "last_posted_at": "2026-08-01T01:03:20.603488+00:00"
 }
