@@ -2,17 +2,6 @@
   "last_collected": "2026-08-02T20:41:46.662181+00:00",
   "queue": [
     {
-      "tweet": "Disney just canned that Wonder Man show and the showrunner is straight up saying it was them. They really just flush whatever they want now.",
-      "original_url": "https://www.polygon.com/wonder-man-cancellation-showrunner-comments/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Wonder Man showrunner reveals why the series was shockingly canceled",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-02T20:41:46.661147+00:00"
-    },
-    {
       "tweet": "Spider-Man is still forcing an AI sidekick into the movie, nine years later. We really can't let that trope die",
       "original_url": "https://www.polygon.com/spider-man-brand-new-day-ai-assistant-ev-karen-edith/",
       "buzz_score": 80,
@@ -915,6 +904,17 @@
       "added_at": "2026-08-02T07:15:41.330377+00:00"
     },
     {
+      "tweet": "Bro, Nicole Kidman and Sandra Bullock just walked into a Practical Magic screening in LA. Total glitch in the matrix.",
+      "original_url": "https://variety.com/2026/film/news/nicole-kidman-sandra-bullock-practical-magic-cinespia-screening-1236825330/",
+      "buzz_score": 82,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Nicole Kidman and Sandra Bullock Surprise Fans at ‘Practical Magic’ Screening in Hollywood Forever Cemetery for L.A.’s Cinespia",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-08-02T07:15:41.330551+00:00"
+    },
+    {
       "tweet": "So apparently Trump canceled those Iran strikes again. We’re really just playing chicken with the whole Middle East at this point.",
       "original_url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -957,28 +957,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-02T11:52:36.497698+00:00"
-    },
-    {
-      "tweet": "Bro, Nicole Kidman and Sandra Bullock just walked into a Practical Magic screening in LA. Total glitch in the matrix.",
-      "original_url": "https://variety.com/2026/film/news/nicole-kidman-sandra-bullock-practical-magic-cinespia-screening-1236825330/",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Nicole Kidman and Sandra Bullock Surprise Fans at ‘Practical Magic’ Screening in Hollywood Forever Cemetery for L.A.’s Cinespia",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-08-02T07:15:41.330551+00:00"
-    },
-    {
-      "tweet": "Marvel just pulled the plug on that Wonder Man show before it even started filming. The showrunner is just as confused as we are",
-      "original_url": "https://kotaku.com/wonder-man-showrunner-opens-up-on-sudden-cancellation-in-tiktok-video-as-confused-as-anyone-else-2000721053",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Wonder Man Showrunner Opens Up About The Sudden Cancellation And Is As Confused As Everyone Else",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-02T18:40:14.306492+00:00"
     },
     {
       "tweet": "England wants to build more homes but they don't have enough water. You can't just magic up water, man.",
@@ -1034,6 +1012,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-02T04:36:05.047422+00:00"
+    },
+    {
+      "tweet": "Marvel just pulled the plug on that Wonder Man show before it even started filming. The showrunner is just as confused as we are",
+      "original_url": "https://kotaku.com/wonder-man-showrunner-opens-up-on-sudden-cancellation-in-tiktok-video-as-confused-as-anyone-else-2000721053",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Wonder Man Showrunner Opens Up About The Sudden Cancellation And Is As Confused As Everyone Else",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-02T18:40:14.306492+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2666,
+    "total_posted": 2667,
     "total_collected": 12650
   },
-  "last_posted_at": "2026-08-02T20:51:29.986315+00:00"
+  "last_posted_at": "2026-08-02T21:34:19.046352+00:00"
 }
