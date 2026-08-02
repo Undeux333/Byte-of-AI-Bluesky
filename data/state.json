@@ -2,28 +2,6 @@
   "last_collected": "2026-08-02T14:22:37.930338+00:00",
   "queue": [
     {
-      "tweet": "New Radicals just dropped their first song in 28 years for some rom-com. I didn't even know they were still a thing.",
-      "original_url": "https://www.rollingstone.com/music/music-news/new-radicals-first-new-song-28-years-one-night-only-1235602202/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "New Radicals Release First New Song in 28 Years for ‘One Night Only’ Rom-Com",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-08-02T14:22:37.930093+00:00"
-    },
-    {
-      "tweet": "So apparently house prices in Australia are finally dipping. They're down 19 grand, but honestly, that's like a rounding error at this point.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/03/house-prices-slide-across-australia-as-middle-east-conflict-and-tax-changes-begin-to-bite",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "House prices slide across Australia as Middle East conflict and tax changes begin to bite",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-02T14:22:37.929574+00:00"
-    },
-    {
       "tweet": "Wired did a whole test on password managers for 2026. Everyone’s still just using their dog's name anyway.",
       "original_url": "https://www.wired.com/story/best-password-managers/",
       "buzz_score": 80,
@@ -101,72 +79,6 @@
       "added_at": "2026-08-02T07:15:41.330383+00:00"
     },
     {
-      "tweet": "England wants to build more homes but they don't have enough water. You can't just magic up water, man.",
-      "original_url": "https://www.theguardian.com/environment/2026/aug/02/we-cannot-magic-up-more-water-the-supply-problems-putting-housing-targets-in-england-at-risk",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘We cannot magic up more water’: the supply problems putting housing targets in England at risk",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-02T09:21:55.160813+00:00"
-    },
-    {
-      "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
-      "original_url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-02T07:15:41.331116+00:00"
-    },
-    {
-      "tweet": "So apparently the EU is forcing labels on AI content now so people actually know what's fake. It's wild that we even need a sticker for reality.",
-      "original_url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-08-02T07:15:41.330386+00:00"
-    },
-    {
-      "tweet": "Students in Gaza are finishing their exams while everything is falling apart around them. That's a different kind of strength.",
-      "original_url": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Gaza students overcome Israel’s genocide to mark Tawjihi results",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-02T07:15:41.331654+00:00"
-    },
-    {
-      "tweet": "Thinking about those 2000s computer rooms with the wired mice and the heavy monitors. It's crazy how much we miss the clunkiest tech ever.",
-      "original_url": "https://www.mentalfloss.com/nostalgia/things-early-2000s-computer-rooms-had?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "7 Things Every Early 2000s Computer Room Had",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-02T07:15:41.330689+00:00"
-    },
-    {
-      "tweet": "Did you see Nick Cave and Kylie Minogue back on stage in Brighton? That honestly shouldn't feel as wild as it does.",
-      "original_url": "https://www.billboard.com/music/music-news/kylie-minogue-nick-cave-and-the-bad-seeds-where-the-wild-roses-brighton-1236307687/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Kylie Minogue Joins Nick Cave and the Bad Seeds for ‘Where the Wild Roses Grow’ in Brighton",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-02T07:15:41.330377+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -200,15 +112,37 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Bro, Nicole Kidman and Sandra Bullock just walked into a Practical Magic screening in LA. Total glitch in the matrix.",
-      "original_url": "https://variety.com/2026/film/news/nicole-kidman-sandra-bullock-practical-magic-cinespia-screening-1236825330/",
-      "buzz_score": 82,
+      "tweet": "England wants to build more homes but they don't have enough water. You can't just magic up water, man.",
+      "original_url": "https://www.theguardian.com/environment/2026/aug/02/we-cannot-magic-up-more-water-the-supply-problems-putting-housing-targets-in-england-at-risk",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Nicole Kidman and Sandra Bullock Surprise Fans at ‘Practical Magic’ Screening in Hollywood Forever Cemetery for L.A.’s Cinespia",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-08-02T07:15:41.330551+00:00"
+      "original_title": "‘We cannot magic up more water’: the supply problems putting housing targets in England at risk",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-02T09:21:55.160813+00:00"
+    },
+    {
+      "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
+      "original_url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-02T07:15:41.331116+00:00"
+    },
+    {
+      "tweet": "So apparently the EU is forcing labels on AI content now so people actually know what's fake. It's wild that we even need a sticker for reality.",
+      "original_url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-08-02T07:15:41.330386+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -222,26 +156,37 @@
       "added_at": "2026-06-24T11:28:23.259709+00:00"
     },
     {
-      "tweet": "Hannah Einbinder saying a new movie role changed her perspective on things. It's funny how a job just completely rewires how you see the world.",
-      "original_url": "https://variety.com/2026/tv/awards/hacks-hannah-einbinder-paul-w-downs-legacy-spinoff-1236825927/",
-      "buzz_score": 80,
+      "tweet": "Students in Gaza are finishing their exams while everything is falling apart around them. That's a different kind of strength.",
+      "original_url": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "‘Hacks’ Stars Hannah Einbinder and Paul W. Downs on the Legacy of ‘Hacks’ and Which Character Needs a Spinoff First",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-08-02T07:15:41.332074+00:00"
+      "original_title": "Gaza students overcome Israel’s genocide to mark Tawjihi results",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-02T07:15:41.331654+00:00"
     },
     {
-      "tweet": "Did you see these slum dwellers designed their own apartments and actually got them built? That's genuinely cooler than anything in the news.",
-      "original_url": "https://www.npr.org/2026/08/01/g-s1-135362/slum-apartments-india-design",
-      "buzz_score": 80,
+      "tweet": "Thinking about those 2000s computer rooms with the wired mice and the heavy monitors. It's crazy how much we miss the clunkiest tech ever.",
+      "original_url": "https://www.mentalfloss.com/nostalgia/things-early-2000s-computer-rooms-had?utm_source=RSS",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "How these slum dwellers went from one-room shacks to beautiful new apartments",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-02T07:15:41.330982+00:00"
+      "original_title": "7 Things Every Early 2000s Computer Room Had",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-08-02T07:15:41.330689+00:00"
+    },
+    {
+      "tweet": "Did you see Nick Cave and Kylie Minogue back on stage in Brighton? That honestly shouldn't feel as wild as it does.",
+      "original_url": "https://www.billboard.com/music/music-news/kylie-minogue-nick-cave-and-the-bad-seeds-where-the-wild-roses-brighton-1236307687/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Kylie Minogue Joins Nick Cave and the Bad Seeds for ‘Where the Wild Roses Grow’ in Brighton",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-08-02T07:15:41.330377+00:00"
     },
     {
       "tweet": "Monday.com is officially blaming AI for their layoffs. That makes 20 companies this year using that same excuse.",
@@ -761,17 +706,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "So apparently Israel is back to bombarding Gaza, just days after Trump announced that deal. Diplomacy is having a really rough week.",
-      "original_url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-02T11:52:36.497387+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -781,6 +715,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
+    },
+    {
+      "tweet": "Bro, Nicole Kidman and Sandra Bullock just walked into a Practical Magic screening in LA. Total glitch in the matrix.",
+      "original_url": "https://variety.com/2026/film/news/nicole-kidman-sandra-bullock-practical-magic-cinespia-screening-1236825330/",
+      "buzz_score": 82,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Nicole Kidman and Sandra Bullock Surprise Fans at ‘Practical Magic’ Screening in Hollywood Forever Cemetery for L.A.’s Cinespia",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-08-02T07:15:41.330551+00:00"
     },
     {
       "tweet": "So apparently Trump wants to start controlling AI now after that OpenAI hack. Irony is dead.",
@@ -948,6 +893,39 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
+      "tweet": "Hannah Einbinder saying a new movie role changed her perspective on things. It's funny how a job just completely rewires how you see the world.",
+      "original_url": "https://variety.com/2026/tv/awards/hacks-hannah-einbinder-paul-w-downs-legacy-spinoff-1236825927/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "‘Hacks’ Stars Hannah Einbinder and Paul W. Downs on the Legacy of ‘Hacks’ and Which Character Needs a Spinoff First",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-08-02T07:15:41.332074+00:00"
+    },
+    {
+      "tweet": "Did you see these slum dwellers designed their own apartments and actually got them built? That's genuinely cooler than anything in the news.",
+      "original_url": "https://www.npr.org/2026/08/01/g-s1-135362/slum-apartments-india-design",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "How these slum dwellers went from one-room shacks to beautiful new apartments",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-02T07:15:41.330982+00:00"
+    },
+    {
+      "tweet": "So apparently Israel is back to bombarding Gaza, just days after Trump announced that deal. Diplomacy is having a really rough week.",
+      "original_url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-02T11:52:36.497387+00:00"
+    },
+    {
       "tweet": "Crazy that 83 years ago today they were fighting over that PT-109 boat. Time just moves weird.",
       "original_url": "https://www.goodnewsnetwork.org/events060802/",
       "buzz_score": 75,
@@ -981,28 +959,6 @@
       "added_at": "2026-08-02T07:15:41.330824+00:00"
     },
     {
-      "tweet": "They're trying to push that new Brisbane stadium precinct but everyone's calling it a fantasy. Politics really is just glorified fan fiction.",
-      "original_url": "https://www.theguardian.com/sport/2026/aug/02/queensland-reveals-concept-plans-for-brisbane-olympic-stadium-precinct-but-critics-say-they-are-fantasy-vision",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Queensland reveals concept plans for Brisbane Olympic stadium precinct – but critics say they are ‘fantasy vision’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-02T07:15:41.331939+00:00"
-    },
-    {
-      "tweet": "So Karol G is basically just making Reebok happen again. We're all just walking billboards.",
-      "original_url": "https://hypebeast.com/2026/7/karol-g-reebok-born-classic-worn-together-campaign-interview",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Karol G's 'Tropicoqueta' Only Wears Reebok",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-08-02T07:15:41.331254+00:00"
-    },
-    {
       "tweet": "Hasbro is putting Spider-Man on every board game now because that movie is crushing Endgame numbers. It's not like we needed a new Monopoly.",
       "original_url": "https://variety.com/2026/shopping/news/best-spider-man-board-games-hasbro-monopoly-buy-online-1236825826/",
       "buzz_score": 80,
@@ -1023,6 +979,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-02T04:36:05.047422+00:00"
+    },
+    {
+      "tweet": "They're trying to push that new Brisbane stadium precinct but everyone's calling it a fantasy. Politics really is just glorified fan fiction.",
+      "original_url": "https://www.theguardian.com/sport/2026/aug/02/queensland-reveals-concept-plans-for-brisbane-olympic-stadium-precinct-but-critics-say-they-are-fantasy-vision",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Queensland reveals concept plans for Brisbane Olympic stadium precinct – but critics say they are ‘fantasy vision’",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-02T07:15:41.331939+00:00"
+    },
+    {
+      "tweet": "So Karol G is basically just making Reebok happen again. We're all just walking billboards.",
+      "original_url": "https://hypebeast.com/2026/7/karol-g-reebok-born-classic-worn-together-campaign-interview",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Karol G's 'Tropicoqueta' Only Wears Reebok",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-08-02T07:15:41.331254+00:00"
     },
     {
       "tweet": "Saw a list of places where 100k actually gets you somewhere these days. It’s wild how much we’re paying just to exist in some cities.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2656,
+    "total_posted": 2658,
     "total_collected": 12602
   },
-  "last_posted_at": "2026-08-02T14:29:38.612619+00:00"
+  "last_posted_at": "2026-08-02T15:43:23.641372+00:00"
 }
