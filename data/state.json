@@ -2,28 +2,6 @@
   "last_collected": "2026-08-02T11:52:36.498798+00:00",
   "queue": [
     {
-      "tweet": "Measles are making a comeback in Delaware and they're understaffed because of budget cuts. We're actually regressing.",
-      "original_url": "https://www.theguardian.com/us-news/2026/aug/02/us-measles-cases-outbreak",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US officials focus on identification and rapid action as measles cases rise",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-02T11:52:36.497787+00:00"
-    },
-    {
-      "tweet": "They're rallying in Ceuta to kick out all the migrants again. How many times are we gonna do this exact same thing?",
-      "original_url": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-02T11:52:36.498692+00:00"
-    },
-    {
       "tweet": "Wired did a whole test on password managers for 2026. Everyone’s still just using their dog's name anyway.",
       "original_url": "https://www.wired.com/story/best-password-managers/",
       "buzz_score": 80,
@@ -211,39 +189,6 @@
       "added_at": "2026-08-02T11:52:36.497387+00:00"
     },
     {
-      "tweet": "Crazy that 83 years ago today they were fighting over that PT-109 boat. Time just moves weird.",
-      "original_url": "https://www.goodnewsnetwork.org/events060802/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Good News in History, August 2",
-      "source": "Good News Network",
-      "category": "lifestyle",
-      "added_at": "2026-08-02T07:15:41.332206+00:00"
-    },
-    {
-      "tweet": "Almost half of new car sales in Australia are EVs or hybrids now. Guess the gas pump finally lost.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/02/ev-hybrids-almost-half-australian-new-car-sales-april-june-fuel-crisis",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "EVs and hybrids approach half of Australian new car sales amid ongoing fuel crisis",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-02T07:15:41.331787+00:00"
-    },
-    {
-      "tweet": "Man, FIFA is facing a massive call for a full review of their leadership again. They really are just allergic to doing anything right.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Call for 'full review' as pressure grows on Infantino",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-02T07:15:41.330824+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -277,6 +222,39 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "Crazy that 83 years ago today they were fighting over that PT-109 boat. Time just moves weird.",
+      "original_url": "https://www.goodnewsnetwork.org/events060802/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Good News in History, August 2",
+      "source": "Good News Network",
+      "category": "lifestyle",
+      "added_at": "2026-08-02T07:15:41.332206+00:00"
+    },
+    {
+      "tweet": "Almost half of new car sales in Australia are EVs or hybrids now. Guess the gas pump finally lost.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/02/ev-hybrids-almost-half-australian-new-car-sales-april-june-fuel-crisis",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "EVs and hybrids approach half of Australian new car sales amid ongoing fuel crisis",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-02T07:15:41.331787+00:00"
+    },
+    {
+      "tweet": "Man, FIFA is facing a massive call for a full review of their leadership again. They really are just allergic to doing anything right.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Call for 'full review' as pressure grows on Infantino",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-02T07:15:41.330824+00:00"
+    },
+    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -286,50 +264,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "They're trying to push that new Brisbane stadium precinct but everyone's calling it a fantasy. Politics really is just glorified fan fiction.",
-      "original_url": "https://www.theguardian.com/sport/2026/aug/02/queensland-reveals-concept-plans-for-brisbane-olympic-stadium-precinct-but-critics-say-they-are-fantasy-vision",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Queensland reveals concept plans for Brisbane Olympic stadium precinct – but critics say they are ‘fantasy vision’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-02T07:15:41.331939+00:00"
-    },
-    {
-      "tweet": "So Karol G is basically just making Reebok happen again. We're all just walking billboards.",
-      "original_url": "https://hypebeast.com/2026/7/karol-g-reebok-born-classic-worn-together-campaign-interview",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Karol G's 'Tropicoqueta' Only Wears Reebok",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-08-02T07:15:41.331254+00:00"
-    },
-    {
-      "tweet": "Hasbro is putting Spider-Man on every board game now because that movie is crushing Endgame numbers. It's not like we needed a new Monopoly.",
-      "original_url": "https://variety.com/2026/shopping/news/best-spider-man-board-games-hasbro-monopoly-buy-online-1236825826/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Toymaker Hasbro Reimagines Most Iconic Board Games With Spider-Man-Themed Graphics and Gameplay",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-08-02T04:36:05.047830+00:00"
-    },
-    {
-      "tweet": "Man, some woman just walked into a restaurant in Moscow with a bomb and it killed three people. Nothing is real.",
-      "original_url": "https://www.theguardian.com/world/2026/aug/02/moscow-restaurant-bombing-kills-three-people-as-device-carried-by-woman-explodes",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Moscow restaurant bombing kills three people as device carried by woman explodes",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-02T04:36:05.047422+00:00"
     },
     {
       "tweet": "Monday.com is officially blaming AI for their layoffs. That makes 20 companies this year using that same excuse.",
@@ -849,17 +783,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Saw a map of the most popular religions in every state besides Christianity. It's crazy how much the vibe shifts when you cross state lines.",
-      "original_url": "https://www.mentalfloss.com/geography/maps/every-states-most-popular-religion-excluding-christianity?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Every State’s Most Popular Religion (Excluding Christianity), Mapped",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-02T11:52:36.498180+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -1034,6 +957,61 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "They're trying to push that new Brisbane stadium precinct but everyone's calling it a fantasy. Politics really is just glorified fan fiction.",
+      "original_url": "https://www.theguardian.com/sport/2026/aug/02/queensland-reveals-concept-plans-for-brisbane-olympic-stadium-precinct-but-critics-say-they-are-fantasy-vision",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Queensland reveals concept plans for Brisbane Olympic stadium precinct – but critics say they are ‘fantasy vision’",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-02T07:15:41.331939+00:00"
+    },
+    {
+      "tweet": "So Karol G is basically just making Reebok happen again. We're all just walking billboards.",
+      "original_url": "https://hypebeast.com/2026/7/karol-g-reebok-born-classic-worn-together-campaign-interview",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Karol G's 'Tropicoqueta' Only Wears Reebok",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-08-02T07:15:41.331254+00:00"
+    },
+    {
+      "tweet": "Hasbro is putting Spider-Man on every board game now because that movie is crushing Endgame numbers. It's not like we needed a new Monopoly.",
+      "original_url": "https://variety.com/2026/shopping/news/best-spider-man-board-games-hasbro-monopoly-buy-online-1236825826/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Toymaker Hasbro Reimagines Most Iconic Board Games With Spider-Man-Themed Graphics and Gameplay",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-08-02T04:36:05.047830+00:00"
+    },
+    {
+      "tweet": "Man, some woman just walked into a restaurant in Moscow with a bomb and it killed three people. Nothing is real.",
+      "original_url": "https://www.theguardian.com/world/2026/aug/02/moscow-restaurant-bombing-kills-three-people-as-device-carried-by-woman-explodes",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Moscow restaurant bombing kills three people as device carried by woman explodes",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-02T04:36:05.047422+00:00"
+    },
+    {
+      "tweet": "Saw a map of the most popular religions in every state besides Christianity. It's crazy how much the vibe shifts when you cross state lines.",
+      "original_url": "https://www.mentalfloss.com/geography/maps/every-states-most-popular-religion-excluding-christianity?utm_source=RSS",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Every State’s Most Popular Religion (Excluding Christianity), Mapped",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-08-02T11:52:36.498180+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2652,
+    "total_posted": 2654,
     "total_collected": 12592
   },
-  "last_posted_at": "2026-08-02T11:59:07.781571+00:00"
+  "last_posted_at": "2026-08-02T12:59:22.559326+00:00"
 }
