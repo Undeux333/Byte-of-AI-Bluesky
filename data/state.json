@@ -2,28 +2,6 @@
   "last_collected": "2026-08-01T23:37:56.434747+00:00",
   "queue": [
     {
-      "tweet": "ISBNdb is destroying rare books to feed their AI. They said it was just a 'test of market interest' but man, that is actual dystopia stuff.",
-      "original_url": "https://kotaku.com/book-database-shutters-ai-service-following-outrage-over-destroyed-rare-texts-2000721018",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Book Database Shutters AI Service Following Outrage Over Destroyed Rare Texts",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-01T23:37:56.434468+00:00"
-    },
-    {
-      "tweet": "Did you see Google basically gave up on Google News? It’s just been auto-generated junk for months now. That’s what happens when you automate the whole internet.",
-      "original_url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Google has abandoned Google News?",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-01T23:37:56.434449+00:00"
-    },
-    {
       "tweet": "Did you know everyone on the Oregon Trail was using oxen instead of horses? Apparently they don't spook and can eat basically anything you find on the road. Just straight up lawnmowers.",
       "original_url": "https://www.mentalfloss.com/history/why-pioneer-families-chose-oxen-over-horses?utm_source=RSS",
       "buzz_score": 75,
@@ -33,17 +11,6 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-08-01T20:39:10.498783+00:00"
-    },
-    {
-      "tweet": "Joe Root says he's in a 'very different place' regarding the England captaincy. We've all had to walk back into a job we thought we were done with.",
-      "original_url": "https://www.bbc.co.uk/sport/cricket/articles/cy0j806xryyo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Root in 'very different place' over Test captaincy",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-01T20:39:10.500454+00:00"
     },
     {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
@@ -88,6 +55,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Joe Root says he's in a 'very different place' regarding the England captaincy. We've all had to walk back into a job we thought we were done with.",
+      "original_url": "https://www.bbc.co.uk/sport/cricket/articles/cy0j806xryyo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Root in 'very different place' over Test captaincy",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-01T20:39:10.500454+00:00"
     },
     {
       "tweet": "Monday.com is officially blaming AI for their layoffs. That makes 20 companies this year using that same excuse.",
@@ -849,17 +827,6 @@
       "added_at": "2026-07-23T18:00:42.945557+00:00"
     },
     {
-      "tweet": "So apparently Michigan got hit by another cyberattack. Are we just gonna have to deal with our infrastructure getting hacked every other week now?",
-      "original_url": "https://www.aljazeera.com/news/2026/8/1/michigan-joins-minnesota-in-reporting-cyber-attacks-with-fbi-investigating?traffic_source=rss",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Michigan joins Minnesota in reporting cyberattacks, with FBI investigating",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-01T23:37:56.434463+00:00"
-    },
-    {
       "tweet": "Did you hear Google fixed more bugs in Chrome this month than in two years? Kinda funny how they finally found the motivation once they let AI do the heavy lifting.",
       "original_url": "https://blog.google/security/chrome-stronger-with-every-update/",
       "buzz_score": 85,
@@ -970,6 +937,28 @@
       "added_at": "2026-07-29T22:37:10.708806+00:00"
     },
     {
+      "tweet": "So apparently Michigan got hit by another cyberattack. Are we just gonna have to deal with our infrastructure getting hacked every other week now?",
+      "original_url": "https://www.aljazeera.com/news/2026/8/1/michigan-joins-minnesota-in-reporting-cyber-attacks-with-fbi-investigating?traffic_source=rss",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Michigan joins Minnesota in reporting cyberattacks, with FBI investigating",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-01T23:37:56.434463+00:00"
+    },
+    {
+      "tweet": "Bro, this boxer from Tuvalu just won a medal at the Commonwealth Games without winning a single fight. Failing upward.",
+      "original_url": "https://www.theguardian.com/sport/2026/aug/01/boxer-tarona-taafaki-secures-tuvalu-first-commonwealth-games-medal-without-winning",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Boxer secures Tuvalu’s first Commonwealth Games medal without winning a bout",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-01T11:54:48.905270+00:00"
+    },
+    {
       "tweet": "Did you hear about that bomb in a Moscow restaurant? You can’t even grab dinner anymore without it becoming a war zone. Insane.",
       "original_url": "https://www.nytimes.com/2026/08/01/world/europe/deadly-bombing-moscow-restaurant.html",
       "buzz_score": 80,
@@ -990,17 +979,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-08-01T20:39:10.499926+00:00"
-    },
-    {
-      "tweet": "Bro, this boxer from Tuvalu just won a medal at the Commonwealth Games without winning a single fight. Failing upward.",
-      "original_url": "https://www.theguardian.com/sport/2026/aug/01/boxer-tarona-taafaki-secures-tuvalu-first-commonwealth-games-medal-without-winning",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Boxer secures Tuvalu’s first Commonwealth Games medal without winning a bout",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-01T11:54:48.905270+00:00"
     },
     {
       "tweet": "Seeing 1986 on the list for best sci-fi movies just reminded me that everything coming out today feels like a remake. We’re just running on fumes at this point.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2642,
+    "total_posted": 2644,
     "total_collected": 12540
   },
-  "last_posted_at": "2026-08-01T23:45:45.712205+00:00"
+  "last_posted_at": "2026-08-02T01:21:15.293980+00:00"
 }
