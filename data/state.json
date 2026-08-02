@@ -2,28 +2,6 @@
   "last_collected": "2026-08-02T16:35:22.296062+00:00",
   "queue": [
     {
-      "tweet": "Man, Microsoft just hiked Xbox prices in the EU and UK by like 200 euros. We're out here paying more for the exact same console we bought two years ago.",
-      "original_url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Xbox prices are increasing by up to €200 or £170",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-08-02T16:35:22.294572+00:00"
-    },
-    {
-      "tweet": "Dude, did you see those two firefighting helicopters in Greece just straight up collide in mid-air on the news? One hit the other and they just exploded. Absolute nightmare.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Helicopters fighting Greece wildfires collide in mid-air",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-02T16:35:22.294377+00:00"
-    },
-    {
       "tweet": "They're saying a record number of First Nations people died in NSW prisons last year. It feels like the system is just failing everyone at once.",
       "original_url": "https://www.theguardian.com/australia-news/2026/aug/03/rising-indigenous-deaths-custody-nsw-ntwnfb",
       "buzz_score": 82,
@@ -66,6 +44,50 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-02T11:52:36.497698+00:00"
+    },
+    {
+      "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
+      "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "'Maybe he's a racist' - Trump critical of James",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-25T08:36:27.986292+00:00"
+    },
+    {
+      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
+      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-02T15:05:13.740925+00:00"
+    },
+    {
+      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
+      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US court limits mail-order access to abortion pill mifepristone",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
+      "buzz_score": 92,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-24T11:28:23.259709+00:00"
     },
     {
       "tweet": "Found this deep dive on Jean DeWolff from the old Spider-Man comics. We all have that one character arc we’re way too invested in.",
@@ -112,39 +134,6 @@
       "added_at": "2026-08-02T09:21:55.160521+00:00"
     },
     {
-      "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
-      "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'Maybe he's a racist' - Trump critical of James",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-25T08:36:27.986292+00:00"
-    },
-    {
-      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
-      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-02T15:05:13.740925+00:00"
-    },
-    {
-      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
-      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US court limits mail-order access to abortion pill mifepristone",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
       "tweet": "Hold on, three teenagers had to get rescued by a helicopter after trying to hike with Google Maps. At this point we're just allergic to paper trails.",
       "original_url": "https://www.nytimes.com/2026/08/01/world/canada/canada-hiking-rescue-google-maps.html",
       "buzz_score": 90,
@@ -154,50 +143,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-08-02T07:15:41.330383+00:00"
-    },
-    {
-      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
-      "buzz_score": 92,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "England wants to build more homes but they don't have enough water. You can't just magic up water, man.",
-      "original_url": "https://www.theguardian.com/environment/2026/aug/02/we-cannot-magic-up-more-water-the-supply-problems-putting-housing-targets-in-england-at-risk",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘We cannot magic up more water’: the supply problems putting housing targets in England at risk",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-02T09:21:55.160813+00:00"
-    },
-    {
-      "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
-      "original_url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-02T07:15:41.331116+00:00"
-    },
-    {
-      "tweet": "So apparently the EU is forcing labels on AI content now so people actually know what's fake. It's wild that we even need a sticker for reality.",
-      "original_url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-08-02T07:15:41.330386+00:00"
     },
     {
       "tweet": "Monday.com is officially blaming AI for their layoffs. That makes 20 companies this year using that same excuse.",
@@ -717,17 +662,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "So there's video of Israeli settlers shooting a nine-year-old kid in the back during a farm raid. It's just a nine-year-old, man.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israeli settlers shoot Palestinian child during farm raid",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-02T16:35:22.295118+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -737,6 +671,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
+    },
+    {
+      "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
+      "original_url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-02T07:15:41.331116+00:00"
+    },
+    {
+      "tweet": "So apparently the EU is forcing labels on AI content now so people actually know what's fake. It's wild that we even need a sticker for reality.",
+      "original_url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+      "buzz_score": 88,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-08-02T07:15:41.330386+00:00"
     },
     {
       "tweet": "So apparently Trump wants to start controlling AI now after that OpenAI hack. Irony is dead.",
@@ -904,6 +860,17 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
+      "tweet": "England wants to build more homes but they don't have enough water. You can't just magic up water, man.",
+      "original_url": "https://www.theguardian.com/environment/2026/aug/02/we-cannot-magic-up-more-water-the-supply-problems-putting-housing-targets-in-england-at-risk",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "‘We cannot magic up more water’: the supply problems putting housing targets in England at risk",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-02T09:21:55.160813+00:00"
+    },
+    {
       "tweet": "Students in Gaza are finishing their exams while everything is falling apart around them. That's a different kind of strength.",
       "original_url": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss",
       "buzz_score": 85,
@@ -937,26 +904,15 @@
       "added_at": "2026-08-02T07:15:41.330377+00:00"
     },
     {
-      "tweet": "Alan Jones is finally facing that trial for those assault charges in Sydney. Eighty-five years old and he's still in the middle of this mess.",
-      "original_url": "https://www.theguardian.com/media/2026/aug/03/trial-alan-jones-begins-sydney-ntwnfb",
-      "buzz_score": 80,
+      "tweet": "So there's video of Israeli settlers shooting a nine-year-old kid in the back during a farm raid. It's just a nine-year-old, man.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Alan Jones trial on indecent assault and sexual touching charges begins in Sydney",
-      "source": "The Guardian",
+      "original_title": "Israeli settlers shoot Palestinian child during farm raid",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-08-02T16:35:22.295515+00:00"
-    },
-    {
-      "tweet": "Bro, BTS is back at MetLife Stadium doing a two-and-a-half-hour set like nothing happened. Honestly, seeing how hard they go just makes me feel like I need a nap.",
-      "original_url": "https://www.billboard.com/lists/bts-arirang-tour-new-york-metlife-stadium-best-moments/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "BTS Return to MetLife Stadium With a Full ARIRANG World Tour Show: 15 Best Moments",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-02T16:35:22.294384+00:00"
+      "added_at": "2026-08-02T16:35:22.295118+00:00"
     },
     {
       "tweet": "Bro, Nicole Kidman and Sandra Bullock just walked into a Practical Magic screening in LA. Total glitch in the matrix.",
@@ -992,17 +948,6 @@
       "added_at": "2026-08-02T07:15:41.330982+00:00"
     },
     {
-      "tweet": "So apparently Israel is back to bombarding Gaza, just days after Trump announced that deal. Diplomacy is having a really rough week.",
-      "original_url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-02T11:52:36.497387+00:00"
-    },
-    {
       "tweet": "Hasbro is putting Spider-Man on every board game now because that movie is crushing Endgame numbers. It's not like we needed a new Monopoly.",
       "original_url": "https://variety.com/2026/shopping/news/best-spider-man-board-games-hasbro-monopoly-buy-online-1236825826/",
       "buzz_score": 80,
@@ -1023,6 +968,39 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-02T04:36:05.047422+00:00"
+    },
+    {
+      "tweet": "Alan Jones is finally facing that trial for those assault charges in Sydney. Eighty-five years old and he's still in the middle of this mess.",
+      "original_url": "https://www.theguardian.com/media/2026/aug/03/trial-alan-jones-begins-sydney-ntwnfb",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Alan Jones trial on indecent assault and sexual touching charges begins in Sydney",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-02T16:35:22.295515+00:00"
+    },
+    {
+      "tweet": "Bro, BTS is back at MetLife Stadium doing a two-and-a-half-hour set like nothing happened. Honestly, seeing how hard they go just makes me feel like I need a nap.",
+      "original_url": "https://www.billboard.com/lists/bts-arirang-tour-new-york-metlife-stadium-best-moments/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "BTS Return to MetLife Stadium With a Full ARIRANG World Tour Show: 15 Best Moments",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-08-02T16:35:22.294384+00:00"
+    },
+    {
+      "tweet": "So apparently Israel is back to bombarding Gaza, just days after Trump announced that deal. Diplomacy is having a really rough week.",
+      "original_url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-02T11:52:36.497387+00:00"
     },
     {
       "tweet": "Did you see that Spider-Man: Brand New Day just almost beat the all-time opening record? Like, are we ever gonna get tired of watching the same hero stories over and over?",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2660,
+    "total_posted": 2662,
     "total_collected": 12618
   },
-  "last_posted_at": "2026-08-02T16:44:33.775060+00:00"
+  "last_posted_at": "2026-08-02T17:51:07.678951+00:00"
 }
