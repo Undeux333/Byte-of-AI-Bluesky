@@ -915,28 +915,6 @@
       "added_at": "2026-08-02T07:15:41.330551+00:00"
     },
     {
-      "tweet": "So apparently Trump canceled those Iran strikes again. We’re really just playing chicken with the whole Middle East at this point.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-02T20:41:46.661493+00:00"
-    },
-    {
-      "tweet": "Ariana Grande is stepping away from public life after this tour. Honestly, I get it, sometimes you just need to disappear for a while.",
-      "original_url": "https://www.rollingstone.com/music/music-news/ariana-grande-step-back-tour-ends-rep-1235602318/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Ariana Grande Taking a ‘Step Back’ From Public Life After Tour",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-08-02T20:41:46.661320+00:00"
-    },
-    {
       "tweet": "Wired did a whole test on password managers for 2026. Everyone’s still just using their dog's name anyway.",
       "original_url": "https://www.wired.com/story/best-password-managers/",
       "buzz_score": 80,
@@ -1012,6 +990,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-02T04:36:05.047422+00:00"
+    },
+    {
+      "tweet": "So apparently Trump canceled those Iran strikes again. We’re really just playing chicken with the whole Middle East at this point.",
+      "original_url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-02T20:41:46.661493+00:00"
+    },
+    {
+      "tweet": "Ariana Grande is stepping away from public life after this tour. Honestly, I get it, sometimes you just need to disappear for a while.",
+      "original_url": "https://www.rollingstone.com/music/music-news/ariana-grande-step-back-tour-ends-rep-1235602318/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Ariana Grande Taking a ‘Step Back’ From Public Life After Tour",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-08-02T20:41:46.661320+00:00"
     },
     {
       "tweet": "Marvel just pulled the plug on that Wonder Man show before it even started filming. The showrunner is just as confused as we are",
