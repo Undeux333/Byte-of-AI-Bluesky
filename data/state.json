@@ -2,6 +2,39 @@
   "last_collected": "2026-08-02T23:38:23.121573+00:00",
   "queue": [
     {
+      "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
+      "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "'Maybe he's a racist' - Trump critical of James",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-07-25T08:36:27.986292+00:00"
+    },
+    {
+      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
+      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-05-02T15:05:13.740925+00:00"
+    },
+    {
+      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
+      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 95,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US court limits mail-order access to abortion pill mifepristone",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
       "tweet": "Spider-Man is still forcing an AI sidekick into the movie, nine years later. We really can't let that trope die",
       "original_url": "https://www.polygon.com/spider-man-brand-new-day-ai-assistant-ev-karen-edith/",
       "buzz_score": 80,
@@ -44,72 +77,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-02T18:40:14.305876+00:00"
-    },
-    {
-      "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
-      "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'Maybe he's a racist' - Trump critical of James",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-07-25T08:36:27.986292+00:00"
-    },
-    {
-      "tweet": "Dude, Flock literally used security cameras from a kids' gymnastics place for a sales demo. Like, just watching little kids work out to sell software. Gross man.",
-      "original_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-05-02T15:05:13.740925+00:00"
-    },
-    {
-      "tweet": "So apparently the court just blocked the mailing of mifepristone. Are we just going backwards now?",
-      "original_url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US court limits mail-order access to abortion pill mifepristone",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Did you see Uganda actually built a statue for Yonatan Netanyahu? I mean, talk about a random historical shoutout, that's just wild",
-      "original_url": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-02T18:40:14.305866+00:00"
-    },
-    {
-      "tweet": "They're saying a record number of First Nations people died in NSW prisons last year. It feels like the system is just failing everyone at once.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/03/rising-indigenous-deaths-custody-nsw-ntwnfb",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "A record number of First Nations people died in NSW prison custody last year. Advocates fear this year will be worse",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-02T16:35:22.295662+00:00"
-    },
-    {
-      "tweet": "Hold on, Gen Con got hit by such a bad storm that the ceiling started leaking on all the tabletop players. It's like the world decided to start a campaign for them.",
-      "original_url": "https://kotaku.com/major-tabletop-convention-gen-con-hit-by-severe-storm-as-ceiling-leaks-and-attendees-take-shelter-2000721049",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Major Tabletop Convention Gen Con Hit By Severe Storm As Ceiling Leaks And Attendees Take Shelter",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-02T16:35:22.294389+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -662,6 +629,17 @@
       "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
+      "tweet": "Did you see Uganda actually built a statue for Yonatan Netanyahu? I mean, talk about a random historical shoutout, that's just wild",
+      "original_url": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-02T18:40:14.305866+00:00"
+    },
+    {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
       "original_url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
       "buzz_score": 88,
@@ -849,6 +827,28 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
+      "tweet": "They're saying a record number of First Nations people died in NSW prisons last year. It feels like the system is just failing everyone at once.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/03/rising-indigenous-deaths-custody-nsw-ntwnfb",
+      "buzz_score": 82,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "A record number of First Nations people died in NSW prison custody last year. Advocates fear this year will be worse",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-02T16:35:22.295662+00:00"
+    },
+    {
+      "tweet": "Hold on, Gen Con got hit by such a bad storm that the ceiling started leaking on all the tabletop players. It's like the world decided to start a campaign for them.",
+      "original_url": "https://kotaku.com/major-tabletop-convention-gen-con-hit-by-severe-storm-as-ceiling-leaks-and-attendees-take-shelter-2000721049",
+      "buzz_score": 82,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Major Tabletop Convention Gen Con Hit By Severe Storm As Ceiling Leaks And Attendees Take Shelter",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-02T16:35:22.294389+00:00"
+    },
+    {
       "tweet": "Some 15-year-old on HackerNews just built a functional cycloidal gearbox from scratch. Makes me realize I haven't done anything productive all year.",
       "original_url": "https://github.com/tom-ilan/cycloidal_gearbox",
       "buzz_score": 85,
@@ -902,28 +902,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-02T07:15:41.330377+00:00"
-    },
-    {
-      "tweet": "Just saw a map of where you're most likely to live near a serial killer. Why did I click that.",
-      "original_url": "https://www.mentalfloss.com/geography/states/states-with-most-serial-killers-ranked?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The States Where You’re Most Likely to Live Near a Serial Killer, Ranked",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-02T23:38:23.120811+00:00"
-    },
-    {
-      "tweet": "YouTube is nuking ASMR channels for 'explicit content' while the rest of the site is basically the wild west. Make it make sense.",
-      "original_url": "https://kotaku.com/multiple-major-asmr-accounts-suddenly-removed-from-youtube-over-explicit-content-2000721076",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Multiple Major ASMR Accounts Suddenly Removed From YouTube Over ‘Explicit Content’",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-02T23:38:23.119861+00:00"
     },
     {
       "tweet": "Bro, Nicole Kidman and Sandra Bullock just walked into a Practical Magic screening in LA. Total glitch in the matrix.",
@@ -1012,6 +990,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-02T04:36:05.047422+00:00"
+    },
+    {
+      "tweet": "Just saw a map of where you're most likely to live near a serial killer. Why did I click that.",
+      "original_url": "https://www.mentalfloss.com/geography/states/states-with-most-serial-killers-ranked?utm_source=RSS",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The States Where You’re Most Likely to Live Near a Serial Killer, Ranked",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-08-02T23:38:23.120811+00:00"
+    },
+    {
+      "tweet": "YouTube is nuking ASMR channels for 'explicit content' while the rest of the site is basically the wild west. Make it make sense.",
+      "original_url": "https://kotaku.com/multiple-major-asmr-accounts-suddenly-removed-from-youtube-over-explicit-content-2000721076",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Multiple Major ASMR Accounts Suddenly Removed From YouTube Over ‘Explicit Content’",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-02T23:38:23.119861+00:00"
     },
     {
       "tweet": "Kuwait just downed some drones and the whole region is bracing for what's next. Classic.",
