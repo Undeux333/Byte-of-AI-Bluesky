@@ -2,17 +2,6 @@
   "last_collected": "2026-08-04T22:02:42.159510+00:00",
   "queue": [
     {
-      "tweet": "Dude, apparently Louis Armstrong spent his whole life correcting people on how to say his name. Imagine being a legend and everyone just refuses to listen to you. Rough.",
-      "original_url": "https://www.mentalfloss.com/entertainment/music/how-louis-armstrong-pronounced-his-name?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Surprising Way Louis Armstrong Pronounced His Own Name",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-04T22:02:42.157893+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -46,17 +35,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "South Korea is desperate to get their birthrate up but they literally don't have enough NICU doctors to handle it. Like, how are they supposed to make that work.",
-      "original_url": "https://www.nytimes.com/2026/08/04/world/asia/south-korea-birth-rate-nicu-crisis.html",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "South Korea Wants to Raise Its Birthrate but Doesn’t Have Enough NICU Doctors",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-04T22:02:42.157907+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -66,17 +44,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Oil prices are dropping because Rubio and Bessent think they can open the Strait of Hormuz. Big if true.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-04T16:00:53.392288+00:00"
     },
     {
       "tweet": "Hold on, three teenagers had to get rescued by a helicopter after trying to hike with Google Maps. At this point we're just allergic to paper trails.",
@@ -805,26 +772,26 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Did you hear about that Icac bombshell for Damien Tudehope? Is anyone actually surprised?",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/05/did-you-send-that-report-the-icac-bombshell-that-came-late-for-damien-tudehope",
-      "buzz_score": 70,
-      "buzz_score2": 95,
+      "tweet": "South Korea is desperate to get their birthrate up but they literally don't have enough NICU doctors to handle it. Like, how are they supposed to make that work.",
+      "original_url": "https://www.nytimes.com/2026/08/04/world/asia/south-korea-birth-rate-nicu-crisis.html",
+      "buzz_score": 88,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "‘Did you send that report?’ The Icac bombshell that came late for Damien Tudehope",
-      "source": "The Guardian",
+      "original_title": "South Korea Wants to Raise Its Birthrate but Doesn’t Have Enough NICU Doctors",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-08-04T16:00:53.391892+00:00"
+      "added_at": "2026-08-04T22:02:42.157907+00:00"
     },
     {
-      "tweet": "Szoboszlai is downplaying that whole argument at Liverpool. Dudes get heated, it happens.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c62e98j4g8vo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
+      "tweet": "Oil prices are dropping because Rubio and Bessent think they can open the Strait of Hormuz. Big if true.",
+      "original_url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "'We are cool' - Szoboszlai plays down Liverpool row",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-04T16:00:53.391456+00:00"
+      "original_title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-04T16:00:53.392288+00:00"
     },
     {
       "tweet": "Did you see people are suggesting we manually retype all that code LLMs spit out just to avoid cognitive debt. At this point we're basically just glorified proofreaders.",
@@ -981,6 +948,39 @@
       "added_at": "2026-08-02T07:15:41.330377+00:00"
     },
     {
+      "tweet": "Did you hear about that Icac bombshell for Damien Tudehope? Is anyone actually surprised?",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/05/did-you-send-that-report-the-icac-bombshell-that-came-late-for-damien-tudehope",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "‘Did you send that report?’ The Icac bombshell that came late for Damien Tudehope",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-04T16:00:53.391892+00:00"
+    },
+    {
+      "tweet": "Szoboszlai is downplaying that whole argument at Liverpool. Dudes get heated, it happens.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/c62e98j4g8vo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "'We are cool' - Szoboszlai plays down Liverpool row",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-04T16:00:53.391456+00:00"
+    },
+    {
+      "tweet": "Hungary was within millimeters of shutting down their nuclear plant because of the heat. Like, how are we supposed to plan for that?",
+      "original_url": "https://www.theguardian.com/world/live/2026/aug/04/europe-drought-extreme-heat-wildfires-climate-crisis-hungary-romania-ceuta-spain-migration-eu-latest-news-updates",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Hungary comes ‘within millimetres’ of shutting down nuclear power plant amid drought crisis – Europe live",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-04T09:48:38.027491+00:00"
+    },
+    {
       "tweet": "Final Fantasy 14 is finally on Switch 2 and they're still pushing that free trial meme. We've been trapped in that bit for years now.",
       "original_url": "https://kotaku.com/final-fantasy-14-free-trial-nintendo-switch-2-2000721658",
       "buzz_score": 80,
@@ -1023,17 +1023,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-08-04T19:17:30.894724+00:00"
-    },
-    {
-      "tweet": "Hungary was within millimeters of shutting down their nuclear plant because of the heat. Like, how are we supposed to plan for that?",
-      "original_url": "https://www.theguardian.com/world/live/2026/aug/04/europe-drought-extreme-heat-wildfires-climate-crisis-hungary-romania-ceuta-spain-migration-eu-latest-news-updates",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Hungary comes ‘within millimetres’ of shutting down nuclear power plant amid drought crisis – Europe live",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-04T09:48:38.027491+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2711,
+    "total_posted": 2712,
     "total_collected": 12888
   },
-  "last_posted_at": "2026-08-04T22:08:54.761838+00:00"
+  "last_posted_at": "2026-08-04T23:16:57.360981+00:00"
 }
