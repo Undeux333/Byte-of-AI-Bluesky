@@ -2,28 +2,6 @@
   "last_collected": "2026-08-04T16:00:53.393090+00:00",
   "queue": [
     {
-      "tweet": "I see an AI-generated image on a blog and I'm out immediately. It just feels like nobody was actually there to write it.",
-      "original_url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "AI-Generated Images Discourage Me from Reading Your Blog",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-04T16:00:53.391442+00:00"
-    },
-    {
-      "tweet": "Fans are losing it over the Spider-Man ending and the writers don't even know what it means. Classic.",
-      "original_url": "https://kotaku.com/spider-man-brand-new-day-ned-remembers-peter-handshake-2000721545",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Spider-Man: Brand New Day’s Ending Has Split Fans On What It Means",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-04T16:00:53.392156+00:00"
-    },
-    {
       "tweet": "Oil prices are dropping because Rubio and Bessent think they can open the Strait of Hormuz. Big if true.",
       "original_url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -88,28 +66,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Hungary was within millimeters of shutting down their nuclear plant because of the heat. Like, how are we supposed to plan for that?",
-      "original_url": "https://www.theguardian.com/world/live/2026/aug/04/europe-drought-extreme-heat-wildfires-climate-crisis-hungary-romania-ceuta-spain-migration-eu-latest-news-updates",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Hungary comes ‘within millimetres’ of shutting down nuclear power plant amid drought crisis – Europe live",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-04T09:48:38.027491+00:00"
-    },
-    {
-      "tweet": "Bro, the new EU border system is already causing absolute mayhem at airports. They say it’ll get better, but sure.",
-      "original_url": "https://www.nytimes.com/2026/08/04/world/europe/eu-passport-control-chaos.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Airport chaos, delays as E.U. debuts biometric border system",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-04T09:48:38.027124+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -662,17 +618,6 @@
       "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
-      "tweet": "Did you see people are suggesting we manually retype all that code LLMs spit out just to avoid cognitive debt. At this point we're basically just glorified proofreaders.",
-      "original_url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-04T07:09:33.933938+00:00"
-    },
-    {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
       "original_url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
       "buzz_score": 88,
@@ -860,6 +805,39 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
+      "tweet": "Hungary was within millimeters of shutting down their nuclear plant because of the heat. Like, how are we supposed to plan for that?",
+      "original_url": "https://www.theguardian.com/world/live/2026/aug/04/europe-drought-extreme-heat-wildfires-climate-crisis-hungary-romania-ceuta-spain-migration-eu-latest-news-updates",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Hungary comes ‘within millimetres’ of shutting down nuclear power plant amid drought crisis – Europe live",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-04T09:48:38.027491+00:00"
+    },
+    {
+      "tweet": "Bro, the new EU border system is already causing absolute mayhem at airports. They say it’ll get better, but sure.",
+      "original_url": "https://www.nytimes.com/2026/08/04/world/europe/eu-passport-control-chaos.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Airport chaos, delays as E.U. debuts biometric border system",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-04T09:48:38.027124+00:00"
+    },
+    {
+      "tweet": "Did you see people are suggesting we manually retype all that code LLMs spit out just to avoid cognitive debt. At this point we're basically just glorified proofreaders.",
+      "original_url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-08-04T07:09:33.933938+00:00"
+    },
+    {
       "tweet": "Sportsbet and Tabcorp are denying they used drugs and workers to bait VIPs into betting more. Business as usual.",
       "original_url": "https://www.theguardian.com/australia-news/2026/aug/04/sportsbet-tabcorp-gambling-parliamentary-inquiry-ntwnfb",
       "buzz_score": 85,
@@ -1003,6 +981,17 @@
       "added_at": "2026-08-02T07:15:41.330377+00:00"
     },
     {
+      "tweet": "They're saying a record number of First Nations people died in NSW prisons last year. It feels like the system is just failing everyone at once.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/03/rising-indigenous-deaths-custody-nsw-ntwnfb",
+      "buzz_score": 82,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "A record number of First Nations people died in NSW prison custody last year. Advocates fear this year will be worse",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-02T16:35:22.295662+00:00"
+    },
+    {
       "tweet": "Did you see they upgraded Itauma v Hrgovic to a world title fight? That’s massive.",
       "original_url": "https://www.bbc.co.uk/sport/boxing/articles/clyxvg8j36go?at_medium=RSS&at_campaign=rss",
       "buzz_score": 70,
@@ -1023,17 +1012,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-08-04T16:00:53.391450+00:00"
-    },
-    {
-      "tweet": "They're saying a record number of First Nations people died in NSW prisons last year. It feels like the system is just failing everyone at once.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/03/rising-indigenous-deaths-custody-nsw-ntwnfb",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "A record number of First Nations people died in NSW prison custody last year. Advocates fear this year will be worse",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-02T16:35:22.295662+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2703,
+    "total_posted": 2705,
     "total_collected": 12856
   },
-  "last_posted_at": "2026-08-04T16:10:25.701403+00:00"
+  "last_posted_at": "2026-08-04T17:56:37.879072+00:00"
 }
