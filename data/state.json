@@ -2,28 +2,6 @@
   "last_collected": "2026-08-04T11:54:00.443763+00:00",
   "queue": [
     {
-      "tweet": "Hold on, people are wearing \"digital camouflage\" just to break AI cameras now. We’re officially living in the future.",
-      "original_url": "https://hypebeast.com/2026/8/simon-weckert-digital-camouflage-disrupts-ai-surveillance",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "How Simon Weckert’s \"Digital Camouflage\" Garments Use Adversarial Attacks to Fool AI Cameras",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-08-04T09:48:38.027709+00:00"
-    },
-    {
-      "tweet": "Did you see they’re just gonna let that SpaceX rocket smash into the moon? Apparently it’s a useful accident. Total chaos.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "What will happen when a SpaceX rocket collides with the Moon?",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-04T09:48:38.027117+00:00"
-    },
-    {
       "tweet": "Hungary was within millimeters of shutting down their nuclear plant because of the heat. Like, how are we supposed to plan for that?",
       "original_url": "https://www.theguardian.com/world/live/2026/aug/04/europe-drought-extreme-heat-wildfires-climate-crisis-hungary-romania-ceuta-spain-migration-eu-latest-news-updates",
       "buzz_score": 80,
@@ -55,28 +33,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-08-04T07:09:33.933938+00:00"
-    },
-    {
-      "tweet": "Did you see they upgraded Itauma v Hrgovic to a world title fight? That’s massive.",
-      "original_url": "https://www.bbc.co.uk/sport/boxing/articles/clyxvg8j36go?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Itauma v Hrgovic upgraded to IBF world-title bout",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-04T09:48:38.028268+00:00"
-    },
-    {
-      "tweet": "Reddit is trying to figure out how to stop AI SEO spam from taking over every sub. At this point, are we just reading bots talking to other bots?",
-      "original_url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
-      "buzz_score": 78,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Can Reddit fend off a new wave of AI SEO spam?",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-08-04T11:54:00.442238+00:00"
     },
     {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
@@ -112,48 +68,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Sportsbet and Tabcorp are denying they used drugs and workers to bait VIPs into betting more. Business as usual.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/04/sportsbet-tabcorp-gambling-parliamentary-inquiry-ntwnfb",
-      "buzz_score": 85,
+      "tweet": "Did you see they upgraded Itauma v Hrgovic to a world title fight? That’s massive.",
+      "original_url": "https://www.bbc.co.uk/sport/boxing/articles/clyxvg8j36go?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Sportsbet and Tabcorp deny allegations they sourced drugs and sex workers to encourage VIP clients to bet more",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-04T04:28:08.779266+00:00"
-    },
-    {
-      "tweet": "Olive oil prices are about to go up again because of the heat in Europe. Liquid gold at this point.",
-      "original_url": "https://www.theguardian.com/business/2026/aug/04/price-olive-oil-expected-rise-again-european-crops-heat-drought-wildfires",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Price of olive oil expected to rise again as European crops feel the heat",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-04T04:28:08.778999+00:00"
-    },
-    {
-      "tweet": "Ariana Grande basically told everyone she's stepping back from everything. Guess we're all just trying to set boundaries these days, huh.",
-      "original_url": "https://deadline.com/2026/08/ariana-grande-upcoming-break-boundaries-1237016875/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Ariana Grande Says Upcoming Break Was “Not A Reactive Or Impulsive Thing” & Something Planned Although “Boundaries, They Need To Be Set”",
-      "source": "Deadline",
-      "category": "entertainment",
-      "added_at": "2026-08-04T04:28:08.778691+00:00"
-    },
-    {
-      "tweet": "Cardi B is out here begging fans to stream her music so she can buy more Chipotle. Honestly, I get it.",
-      "original_url": "https://www.rollingstone.com/product-recommendations/lifestyle/cardi-b-chipotle-order-favorite-burrito-bowl-hot-sauce-1235603158/",
-      "buzz_score": 72,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Cardi B Reveals Go-To Chipotle Order and Favorite Hot Sauce That Is “A Must”",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-08-04T07:09:33.934631+00:00"
+      "original_title": "Itauma v Hrgovic upgraded to IBF world-title bout",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-04T09:48:38.028268+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -695,6 +618,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Reddit is trying to figure out how to stop AI SEO spam from taking over every sub. At this point, are we just reading bots talking to other bots?",
+      "original_url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+      "buzz_score": 78,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Can Reddit fend off a new wave of AI SEO spam?",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-08-04T11:54:00.442238+00:00"
+    },
+    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -893,6 +827,50 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
+      "tweet": "Sportsbet and Tabcorp are denying they used drugs and workers to bait VIPs into betting more. Business as usual.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/04/sportsbet-tabcorp-gambling-parliamentary-inquiry-ntwnfb",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Sportsbet and Tabcorp deny allegations they sourced drugs and sex workers to encourage VIP clients to bet more",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-04T04:28:08.779266+00:00"
+    },
+    {
+      "tweet": "Olive oil prices are about to go up again because of the heat in Europe. Liquid gold at this point.",
+      "original_url": "https://www.theguardian.com/business/2026/aug/04/price-olive-oil-expected-rise-again-european-crops-heat-drought-wildfires",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Price of olive oil expected to rise again as European crops feel the heat",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-04T04:28:08.778999+00:00"
+    },
+    {
+      "tweet": "Ariana Grande basically told everyone she's stepping back from everything. Guess we're all just trying to set boundaries these days, huh.",
+      "original_url": "https://deadline.com/2026/08/ariana-grande-upcoming-break-boundaries-1237016875/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Ariana Grande Says Upcoming Break Was “Not A Reactive Or Impulsive Thing” & Something Planned Although “Boundaries, They Need To Be Set”",
+      "source": "Deadline",
+      "category": "entertainment",
+      "added_at": "2026-08-04T04:28:08.778691+00:00"
+    },
+    {
+      "tweet": "Cardi B is out here begging fans to stream her music so she can buy more Chipotle. Honestly, I get it.",
+      "original_url": "https://www.rollingstone.com/product-recommendations/lifestyle/cardi-b-chipotle-order-favorite-burrito-bowl-hot-sauce-1235603158/",
+      "buzz_score": 72,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Cardi B Reveals Go-To Chipotle Order and Favorite Hot Sauce That Is “A Must”",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-08-04T07:09:33.934631+00:00"
+    },
+    {
       "tweet": "Twenty-five states are suing the Trump administration over those new tariffs. Seems like nobody agrees on anything anymore.",
       "original_url": "https://www.aljazeera.com/news/2026/8/4/trump-administration-sued-by-25-states-over-new-tariffs-on-trading-partners?traffic_source=rss",
       "buzz_score": 85,
@@ -1003,17 +981,6 @@
       "added_at": "2026-08-02T07:15:41.330377+00:00"
     },
     {
-      "tweet": "So Colombia just swore in an anti-corruption activist who spent the whole campaign dressed as a giant white elephant. That's a vibe.",
-      "original_url": "https://www.theguardian.com/world/2026/aug/04/white-elephant-colombia-anti-corruption-activist-senator-luis-carlos-rua",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "White elephant in the room: Colombia swears in costumed anti-corruption activist as senator",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-04T11:54:00.441925+00:00"
-    },
-    {
       "tweet": "They're saying a record number of First Nations people died in NSW prisons last year. It feels like the system is just failing everyone at once.",
       "original_url": "https://www.theguardian.com/australia-news/2026/aug/03/rising-indigenous-deaths-custody-nsw-ntwnfb",
       "buzz_score": 82,
@@ -1034,6 +1001,17 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-08-04T01:06:48.499932+00:00"
+    },
+    {
+      "tweet": "So Colombia just swore in an anti-corruption activist who spent the whole campaign dressed as a giant white elephant. That's a vibe.",
+      "original_url": "https://www.theguardian.com/world/2026/aug/04/white-elephant-colombia-anti-corruption-activist-senator-luis-carlos-rua",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "White elephant in the room: Colombia swears in costumed anti-corruption activist as senator",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-04T11:54:00.441925+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2699,
+    "total_posted": 2701,
     "total_collected": 12840
   },
-  "last_posted_at": "2026-08-04T12:01:46.674375+00:00"
+  "last_posted_at": "2026-08-04T13:52:31.402959+00:00"
 }
