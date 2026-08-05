@@ -167,17 +167,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Did you hear that Mexican influencer got shot while streaming outside a KFC. People will record anything",
-      "original_url": "https://www.nytimes.com/2026/08/05/world/americas/mexican-influencer-shot-dead-kfc.html",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Mexican Influencer César Gastélum Shot Dead During Livestream from Sinaloa",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-05T21:31:14.383905+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -187,6 +176,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Did you hear that Mexican influencer got shot while streaming outside a KFC. People will record anything",
+      "original_url": "https://www.nytimes.com/2026/08/05/world/americas/mexican-influencer-shot-dead-kfc.html",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Mexican Influencer César Gastélum Shot Dead During Livestream from Sinaloa",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-05T21:31:14.383905+00:00"
     },
     {
       "tweet": "Hold on, three teenagers had to get rescued by a helicopter after trying to hike with Google Maps. At this point we're just allergic to paper trails.",
