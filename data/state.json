@@ -2,28 +2,6 @@
   "last_collected": "2026-08-05T11:30:31.363434+00:00",
   "queue": [
     {
-      "tweet": "J. Cole is doing this massive career retrospective tour and it feels like we're finally seeing the end of an era. Just feels like it's time.",
-      "original_url": "https://www.billboard.com/lists/j-cole-the-fall-off-tour-review-best-moments-new-york-city/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "J. Cole Returns to His (Second) Home With ‘Electric Fall-Off World Tour’ at Madison Square Garden: 6 Best Moments",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-05T09:16:22.862335+00:00"
-    },
-    {
-      "tweet": "So apparently police just raided Starbucks Korea over that whole 'Tank Day' fiasco. It's wild that a coffee chain even found a way to mess up that badly.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-05T09:16:22.861862+00:00"
-    },
-    {
       "tweet": "Japan just tested a US-Tomahawk missile off a warship. They're basically walking away from that whole post-WWII status thing now.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/japan-tests-us-tomahawk-missile-as-it-moves-away-from-post-wwii-status?traffic_source=rss",
       "buzz_score": 80,
@@ -44,17 +22,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-08-05T09:16:22.862064+00:00"
-    },
-    {
-      "tweet": "China's got this wave of young people just refusing to deal with secondhand smoke anymore, calling people out in public. Honestly, feels like a long time coming.",
-      "original_url": "https://www.nytimes.com/2026/08/05/world/asia/china-cigarette-smoking.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "China’s Nonsmokers Try to Clear the Air, One Confrontation at a Time",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-05T06:18:04.979055+00:00"
     },
     {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
@@ -99,6 +66,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "China's got this wave of young people just refusing to deal with secondhand smoke anymore, calling people out in public. Honestly, feels like a long time coming.",
+      "original_url": "https://www.nytimes.com/2026/08/05/world/asia/china-cigarette-smoking.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "China’s Nonsmokers Try to Clear the Air, One Confrontation at a Time",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-05T06:18:04.979055+00:00"
     },
     {
       "tweet": "Hold on, three teenagers had to get rescued by a helicopter after trying to hike with Google Maps. At this point we're just allergic to paper trails.",
@@ -629,17 +607,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Did you see that university in Mexico? They’re making 58,000 kids retake their entrance exams because of cheating. Absolute nightmare.",
-      "original_url": "https://www.theguardian.com/world/2026/aug/05/mexico-top-university-unam-resit-entrance-exam-cheating-scandal",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Mexico’s top university orders 58,000 students to resit entrance exam after suspected cheating",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-05T11:30:31.361583+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -990,6 +957,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-02T07:15:41.330377+00:00"
+    },
+    {
+      "tweet": "Did you see that university in Mexico? They’re making 58,000 kids retake their entrance exams because of cheating. Absolute nightmare.",
+      "original_url": "https://www.theguardian.com/world/2026/aug/05/mexico-top-university-unam-resit-entrance-exam-cheating-scandal",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Mexico’s top university orders 58,000 students to resit entrance exam after suspected cheating",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-05T11:30:31.361583+00:00"
     },
     {
       "tweet": "Hungary was within millimeters of shutting down their nuclear plant because of the heat. Like, how are we supposed to plan for that?",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2722,
+    "total_posted": 2724,
     "total_collected": 12962
   },
-  "last_posted_at": "2026-08-05T11:38:49.512503+00:00"
+  "last_posted_at": "2026-08-05T13:18:54.978462+00:00"
 }
