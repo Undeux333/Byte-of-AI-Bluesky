@@ -35,39 +35,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Japan just tested a US-Tomahawk missile off a warship. They're basically walking away from that whole post-WWII status thing now.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/japan-tests-us-tomahawk-missile-as-it-moves-away-from-post-wwii-status?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Japan tests US-Tomahawk missile as it moves away from Post-WWII status",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-05T09:16:22.862865+00:00"
-    },
-    {
-      "tweet": "Black lung rates in Appalachia are the worst they've been in 50 years. Thousands of miners are actually dying and we're just letting the protections stall.",
-      "original_url": "https://www.npr.org/2026/08/05/nx-s1-5894884/appalachia-black-lung-coal-miners-silica-dust",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Appalachia's black lung rates highest in nearly 50 years as miners' protections stall",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-05T09:16:22.862064+00:00"
-    },
-    {
-      "tweet": "Hold on, someone left an explosive drone at a German airport near cargo planes. We're one bad day away from everything being a no-fly zone.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Drone carrying explosives found at German airport, police say",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-05T15:25:11.414329+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -607,15 +574,26 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Jetstar is charging for overhead lockers now just to squeeze more cash out of people. It's not a service, it's a shakedown.",
-      "original_url": "https://www.theguardian.com/business/2026/aug/06/why-is-jetstar-charging-customers-for-carry-on-luggage",
-      "buzz_score": 85,
-      "buzz_score2": 90,
+      "tweet": "Japan just tested a US-Tomahawk missile off a warship. They're basically walking away from that whole post-WWII status thing now.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/japan-tests-us-tomahawk-missile-as-it-moves-away-from-post-wwii-status?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "‘Just an easy cash grab’: why Jetstar is charging customers for carry-on luggage",
-      "source": "The Guardian",
+      "original_title": "Japan tests US-Tomahawk missile as it moves away from Post-WWII status",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-08-05T15:25:11.414327+00:00"
+      "added_at": "2026-08-05T09:16:22.862865+00:00"
+    },
+    {
+      "tweet": "Black lung rates in Appalachia are the worst they've been in 50 years. Thousands of miners are actually dying and we're just letting the protections stall.",
+      "original_url": "https://www.npr.org/2026/08/05/nx-s1-5894884/appalachia-black-lung-coal-miners-silica-dust",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Appalachia's black lung rates highest in nearly 50 years as miners' protections stall",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-05T09:16:22.862064+00:00"
     },
     {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
@@ -816,6 +794,17 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
+      "tweet": "Hold on, someone left an explosive drone at a German airport near cargo planes. We're one bad day away from everything being a no-fly zone.",
+      "original_url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Drone carrying explosives found at German airport, police say",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-05T15:25:11.414329+00:00"
+    },
+    {
       "tweet": "Did you see people are suggesting we manually retype all that code LLMs spit out just to avoid cognitive debt. At this point we're basically just glorified proofreaders.",
       "original_url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
       "buzz_score": 85,
@@ -968,6 +957,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-02T07:15:41.330377+00:00"
+    },
+    {
+      "tweet": "Jetstar is charging for overhead lockers now just to squeeze more cash out of people. It's not a service, it's a shakedown.",
+      "original_url": "https://www.theguardian.com/business/2026/aug/06/why-is-jetstar-charging-customers-for-carry-on-luggage",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘Just an easy cash grab’: why Jetstar is charging customers for carry-on luggage",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-05T15:25:11.414327+00:00"
     },
     {
       "tweet": "China's got this wave of young people just refusing to deal with secondhand smoke anymore, calling people out in public. Honestly, feels like a long time coming.",
