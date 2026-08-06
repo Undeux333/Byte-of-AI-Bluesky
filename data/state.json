@@ -2,28 +2,6 @@
   "last_collected": "2026-08-05T23:36:00.400692+00:00",
   "queue": [
     {
-      "tweet": "News Corp is calling AI companies 'crass kleptomaniacs' while their subs tank. Someone's definitely feeling the heat.",
-      "original_url": "https://www.theguardian.com/media/2026/aug/06/news-corp-subscriptions-fall-in-australia-as-company-takes-aim-at-slimy-ai-slop",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "News Corp subscriptions fall in Australia as company takes aim at ‘slimy’ AI slop",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-05T23:36:00.400085+00:00"
-    },
-    {
-      "tweet": "Man, that story about the activist in Manhattan is heavy. Just pure insanity.",
-      "original_url": "https://www.nytimes.com/2026/08/05/world/asia/lobga-rangzen-united-nations-tibet-china.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Lobga Rangzen, the Tibetan Activist Who Set Himself on Fire in Manhattan",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-05T23:36:00.399367+00:00"
-    },
-    {
       "tweet": "Did you see these guys are beating GPT-5.6 with open models? Imagine paying top dollar just to get outperformed by some random GitHub project. Brutal.",
       "original_url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
       "buzz_score": 85,
@@ -970,17 +948,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Did you hear that Mexican influencer got shot while streaming outside a KFC. People will record anything",
-      "original_url": "https://www.nytimes.com/2026/08/05/world/americas/mexican-influencer-shot-dead-kfc.html",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Mexican Influencer César Gastélum Shot Dead During Livestream from Sinaloa",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-05T21:31:14.383905+00:00"
-    },
-    {
       "tweet": "Did you see people are suggesting we manually retype all that code LLMs spit out just to avoid cognitive debt. At this point we're basically just glorified proofreaders.",
       "original_url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
       "buzz_score": 85,
@@ -1034,6 +1001,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-08-04T01:06:48.499557+00:00"
+    },
+    {
+      "tweet": "Did you hear that Mexican influencer got shot while streaming outside a KFC. People will record anything",
+      "original_url": "https://www.nytimes.com/2026/08/05/world/americas/mexican-influencer-shot-dead-kfc.html",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Mexican Influencer César Gastélum Shot Dead During Livestream from Sinaloa",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-05T21:31:14.383905+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2731,
+    "total_posted": 2733,
     "total_collected": 13026
   },
-  "last_posted_at": "2026-08-05T23:44:16.856296+00:00"
+  "last_posted_at": "2026-08-06T01:09:37.751131+00:00"
 }
