@@ -2,28 +2,6 @@
   "last_collected": "2026-08-06T11:57:58.071815+00:00",
   "queue": [
     {
-      "tweet": "Speed is finally on Netflix. Just makes you realize how every modern action movie is just a boring CGI mess by comparison.",
-      "original_url": "https://www.polygon.com/netflix-action-movies-streaming-august-2026-keanue-reeves/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Keanu Reeves's 115-Minute 10/10 Action-Thriller Epic Is Finally Streaming on Netflix",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-06T11:57:58.071297+00:00"
-    },
-    {
-      "tweet": "Nintendo just had a massive profit spike thanks to those US tariff refunds. Guess we know where that money went.",
-      "original_url": "https://www.theguardian.com/games/2026/aug/06/trump-tariffs-refund-fuels-profit-spike-nintendo",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘Mamma mia!’: Trump tariffs refund ignites 53% profit spike at Nintendo",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-06T11:57:58.071046+00:00"
-    },
-    {
       "tweet": "Dude, Nashville is literally using eminent domain to block a data center 'cause they're worried about the noise near the zoo. Wild that we're prioritizing animals over the cloud now.",
       "original_url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
       "buzz_score": 85,
@@ -33,28 +11,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-08-06T07:13:07.312880+00:00"
-    },
-    {
-      "tweet": "South Korea is canceling baseball games because of this heat wave. When it's too hot to even play, that's it.",
-      "original_url": "https://www.nytimes.com/2026/08/05/world/asia/south-korea-baseball-heat-wave.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Record-Breaking Heat Wave in South Korea Leads to Canceled Baseball Games",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-06T07:13:07.313578+00:00"
-    },
-    {
-      "tweet": "This Australian politician got caught texting that his job is boring during a hearing. We've all been there.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/06/australian-politician-mark-parton-admits-to-sending-text-saying-my-job-is-boring-during-a-hearing-ntwnfb",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australian politician admits to sending text saying ‘my job is boring’ during a hearing",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-06T07:13:07.313045+00:00"
     },
     {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
@@ -88,6 +44,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "South Korea is canceling baseball games because of this heat wave. When it's too hot to even play, that's it.",
+      "original_url": "https://www.nytimes.com/2026/08/05/world/asia/south-korea-baseball-heat-wave.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Record-Breaking Heat Wave in South Korea Leads to Canceled Baseball Games",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-06T07:13:07.313578+00:00"
+    },
+    {
+      "tweet": "This Australian politician got caught texting that his job is boring during a hearing. We've all been there.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/06/australian-politician-mark-parton-admits-to-sending-text-saying-my-job-is-boring-during-a-hearing-ntwnfb",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australian politician admits to sending text saying ‘my job is boring’ during a hearing",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-06T07:13:07.313045+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -904,28 +882,6 @@
       "added_at": "2026-08-04T01:06:48.499557+00:00"
     },
     {
-      "tweet": "PlayStation is out here putting labels on consoles warning us that physical discs are basically dead. Guess we’re all just renting our games now.",
-      "original_url": "https://www.polygon.com/ps5-will-feature-disc-discontinuation-warning-label-rumor-says/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "PlayStation 5 consoles now warn players of physical disc termination, rumor says",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-06T09:50:28.640824+00:00"
-    },
-    {
-      "tweet": "Did you see TMZ is basically covering Congress like a reality show now. Honestly, it’s about time someone treated the whole thing like the joke it is.",
-      "original_url": "https://www.npr.org/2026/08/06/nx-s1-5922731/tmz-congress",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Celebrity culture is one thing. For TMZ, Congress is the new 'reality show'",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-06T09:50:28.640393+00:00"
-    },
-    {
       "tweet": "Wait, Christopher Nolan cast Tom Holland in some new movie? That’s wild.",
       "original_url": "https://www.polygon.com/the-odyssey-christopher-nolan-book-casting-interviews/",
       "buzz_score": 80,
@@ -957,6 +913,61 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-05T21:31:14.383500+00:00"
+    },
+    {
+      "tweet": "FIFA is back at it, trying to defend Infantino after that whole rights plan fell apart. Just total chaos.",
+      "original_url": "https://www.aljazeera.com/news/2026/8/5/fifa-pledges-to-defend-infantino-after-world-cup-rights-plan-collapses?traffic_source=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "FIFA pledges to defend Infantino after World Cup rights plan collapses",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-05T23:36:00.399726+00:00"
+    },
+    {
+      "tweet": "Thomas Massie is out here making noise about some crisis in Ceuta. Just political theatre man",
+      "original_url": "https://www.aljazeera.com/news/2026/8/5/whats-behind-us-representative-massies-claims-over-crisis-at-ceuta?traffic_source=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "What’s behind US Representative Massie’s claims over crisis at Ceuta?",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-05T21:31:14.385062+00:00"
+    },
+    {
+      "tweet": "Man in Australia just got charged for threatening some female MP online. People are losing it",
+      "original_url": "https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-andrews-royal-commission-antisemitism-labor-tax-albanese-ntwnfb",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australia news live: NSW man charged over alleged threats of violence against female MP",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-05T21:31:14.384681+00:00"
+    },
+    {
+      "tweet": "PlayStation is out here putting labels on consoles warning us that physical discs are basically dead. Guess we’re all just renting our games now.",
+      "original_url": "https://www.polygon.com/ps5-will-feature-disc-discontinuation-warning-label-rumor-says/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "PlayStation 5 consoles now warn players of physical disc termination, rumor says",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-06T09:50:28.640824+00:00"
+    },
+    {
+      "tweet": "Did you see TMZ is basically covering Congress like a reality show now. Honestly, it’s about time someone treated the whole thing like the joke it is.",
+      "original_url": "https://www.npr.org/2026/08/06/nx-s1-5922731/tmz-congress",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Celebrity culture is one thing. For TMZ, Congress is the new 'reality show'",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-06T09:50:28.640393+00:00"
     },
     {
       "tweet": "Samsung dropped a 6K monitor even though our PCs can't even handle it yet. Typical tech flex.",
@@ -1001,39 +1012,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-08-06T11:57:58.070773+00:00"
-    },
-    {
-      "tweet": "FIFA is back at it, trying to defend Infantino after that whole rights plan fell apart. Just total chaos.",
-      "original_url": "https://www.aljazeera.com/news/2026/8/5/fifa-pledges-to-defend-infantino-after-world-cup-rights-plan-collapses?traffic_source=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "FIFA pledges to defend Infantino after World Cup rights plan collapses",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-05T23:36:00.399726+00:00"
-    },
-    {
-      "tweet": "Thomas Massie is out here making noise about some crisis in Ceuta. Just political theatre man",
-      "original_url": "https://www.aljazeera.com/news/2026/8/5/whats-behind-us-representative-massies-claims-over-crisis-at-ceuta?traffic_source=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "What’s behind US Representative Massie’s claims over crisis at Ceuta?",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-05T21:31:14.385062+00:00"
-    },
-    {
-      "tweet": "Man in Australia just got charged for threatening some female MP online. People are losing it",
-      "original_url": "https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-andrews-royal-commission-antisemitism-labor-tax-albanese-ntwnfb",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australia news live: NSW man charged over alleged threats of violence against female MP",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-05T21:31:14.384681+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2741,
+    "total_posted": 2743,
     "total_collected": 13078
   },
-  "last_posted_at": "2026-08-06T12:03:22.039213+00:00"
+  "last_posted_at": "2026-08-06T13:43:31.123894+00:00"
 }
