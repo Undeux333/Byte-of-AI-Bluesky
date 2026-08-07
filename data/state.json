@@ -2,28 +2,6 @@
   "last_collected": "2026-08-07T08:46:32.528503+00:00",
   "queue": [
     {
-      "tweet": "Africa just voted unanimously to back Gianni Infantino again for FIFA president. Man, that organization never changes.",
-      "original_url": "https://www.aljazeera.com/sports/2026/8/7/africa-backs-infantino-as-caf-unanimously-votes-if-fifa-presidents-favour?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Africa backs Infantino as CAF unanimously votes in FIFA president’s favour",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-07T08:46:32.527455+00:00"
-    },
-    {
-      "tweet": "Netflix just dropped this sci-fi flick that feels exactly like an old Spielberg movie. Sometimes you just need something that actually makes sense.",
-      "original_url": "https://www.polygon.com/the-last-house-review-steven-spielberg-movie/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Netflix Just Quietly Released the Best Steven Spielberg Sci-Fi Thriller That Spielberg Never Made",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-07T08:46:32.527944+00:00"
-    },
-    {
       "tweet": "Brandon Flowers is putting out a new record soon. The guy just knows how to write an anthem.",
       "original_url": "https://www.rollingstone.com/music/music-news/brandon-flowers-tigers-blood-single-1235604980/",
       "buzz_score": 70,
@@ -90,6 +68,17 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
+      "buzz_score": 92,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
       "tweet": "Nigerian forces just rescued over 300 people who were abducted. That's a lot of people to lose track of",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/exclusive-report-with-the-308-people-rescued-by-nigerian-forces?traffic_source=rss",
       "buzz_score": 80,
@@ -121,17 +110,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-08-07T03:37:21.433588+00:00"
-    },
-    {
-      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
-      "buzz_score": 92,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-24T11:28:23.259709+00:00"
     },
     {
       "tweet": "Hold on, three teenagers had to get rescued by a helicopter after trying to hike with Google Maps. At this point we're just allergic to paper trails.",
@@ -662,28 +640,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Liverpool just said they're not even looking at Djed Spence this summer. Are they gonna sign anyone at all",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cqlxkxken3po?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Liverpool not pursuing Spence move - Friday's gossip",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-07T03:37:21.435064+00:00"
-    },
-    {
-      "tweet": "Joan Jett had to cancel her shows for surgery on a fractured vertebra. Honestly, that sounds so painful",
-      "original_url": "https://www.rollingstone.com/music/music-news/joan-jett-cancels-september-shows-surgery-1235604864/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Joan Jett Cancels Upcoming Shows After Surgery From a Fractured Vertebra",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-08-07T03:37:21.434544+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -882,6 +838,28 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
+      "tweet": "Liverpool just said they're not even looking at Djed Spence this summer. Are they gonna sign anyone at all",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cqlxkxken3po?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Liverpool not pursuing Spence move - Friday's gossip",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-07T03:37:21.435064+00:00"
+    },
+    {
+      "tweet": "Joan Jett had to cancel her shows for surgery on a fractured vertebra. Honestly, that sounds so painful",
+      "original_url": "https://www.rollingstone.com/music/music-news/joan-jett-cancels-september-shows-surgery-1235604864/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Joan Jett Cancels Upcoming Shows After Surgery From a Fractured Vertebra",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-08-07T03:37:21.434544+00:00"
+    },
+    {
       "tweet": "Dude, some guy just spent nine hundred bucks and hooked up ninety GPUs just to save that old mobile Final Fantasy game. We're actually unhinged.",
       "original_url": "https://kotaku.com/final-fantasy-7-dirge-of-cerberus-mobile-game-restored-2000722267",
       "buzz_score": 85,
@@ -981,17 +959,6 @@
       "added_at": "2026-08-04T01:06:48.499557+00:00"
     },
     {
-      "tweet": "Taiwan's president just did an emergency drill in the middle of the night for a potential invasion. That's a level of stress I can't even imagine.",
-      "original_url": "https://www.bbc.co.uk/news/videos/cly83vm923go?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Why was Taiwan’s president evacuated in the middle of the night?",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-07T08:46:32.527323+00:00"
-    },
-    {
       "tweet": "South Korea is canceling baseball games because of this heat wave. When it's too hot to even play, that's it.",
       "original_url": "https://www.nytimes.com/2026/08/05/world/asia/south-korea-baseball-heat-wave.html",
       "buzz_score": 80,
@@ -1012,6 +979,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-06T07:13:07.313045+00:00"
+    },
+    {
+      "tweet": "Taiwan's president just did an emergency drill in the middle of the night for a potential invasion. That's a level of stress I can't even imagine.",
+      "original_url": "https://www.bbc.co.uk/news/videos/cly83vm923go?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Why was Taiwan’s president evacuated in the middle of the night?",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-07T08:46:32.527323+00:00"
     }
   ],
   "seen_urls": [
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2757,
+    "total_posted": 2759,
     "total_collected": 13134
   },
-  "last_posted_at": "2026-08-07T09:55:47.945918+00:00"
+  "last_posted_at": "2026-08-07T10:49:32.015471+00:00"
 }
