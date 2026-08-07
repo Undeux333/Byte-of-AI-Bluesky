@@ -2,17 +2,6 @@
   "last_collected": "2026-08-07T19:13:21.794639+00:00",
   "queue": [
     {
-      "tweet": "Man, that Marine Robert Gilman is in a dissociative stupor in a Russian prison. Just leave people alone.",
-      "original_url": "https://www.nytimes.com/2026/08/07/us/robert-gilman-russia-torture.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Family of Former U.S. Marine Detained in Russia Says He Is in Serious Condition",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-07T19:13:21.793090+00:00"
-    },
-    {
       "tweet": "Spanish police just busted a smuggling network using the same route for drugs, weapons, and migrants. Multi-tasking.",
       "original_url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -794,17 +783,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Still ten things we don't know about GTA 6? I just want to know if it's gonna melt my console.",
-      "original_url": "https://kotaku.com/10-things-we-still-dont-know-about-gta-6-that-could-be-revealed-in-netflixs-extended-look-2000722519",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "10 Things We Still Don’t Know About GTA 6 That Could Be Revealed In Netflix’s Extended Look",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-07T19:13:21.793476+00:00"
-    },
-    {
       "tweet": "Did you see the shakeup over at Google DeepMind? Demis Hassabis is moving to chair and Jeff Dean is out. At this point the whole building is just changing hands every week",
       "original_url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "buzz_score": 85,
@@ -915,15 +893,15 @@
       "added_at": "2026-08-04T01:06:48.499557+00:00"
     },
     {
-      "tweet": "Judge just approved the end of South Sudan TPS protections. What is even the point of that status?",
-      "original_url": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
-      "buzz_score": 80,
+      "tweet": "Still ten things we don't know about GTA 6? I just want to know if it's gonna melt my console.",
+      "original_url": "https://kotaku.com/10-things-we-still-dont-know-about-gta-6-that-could-be-revealed-in-netflixs-extended-look-2000722519",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Judge approves Trump effort to end South Sudan TPS protections",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-07T19:13:21.794084+00:00"
+      "original_title": "10 Things We Still Don’t Know About GTA 6 That Could Be Revealed In Netflix’s Extended Look",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-07T19:13:21.793476+00:00"
     },
     {
       "tweet": "Nigerian forces just rescued over 300 people who were abducted. That's a lot of people to lose track of",
@@ -979,6 +957,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-06T07:13:07.313045+00:00"
+    },
+    {
+      "tweet": "Judge just approved the end of South Sudan TPS protections. What is even the point of that status?",
+      "original_url": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Judge approves Trump effort to end South Sudan TPS protections",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-07T19:13:21.794084+00:00"
     },
     {
       "tweet": "AMD is buying Taalas to etch AI models directly into the silicon. We're getting closer to just downloading our brains.",
@@ -2018,8 +2007,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2770,
+    "total_posted": 2771,
     "total_collected": 13198
   },
-  "last_posted_at": "2026-08-07T20:05:09.070097+00:00"
+  "last_posted_at": "2026-08-07T20:36:06.925452+00:00"
 }
