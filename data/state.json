@@ -2,28 +2,6 @@
   "last_collected": "2026-08-07T19:13:21.794639+00:00",
   "queue": [
     {
-      "tweet": "Saw this map on where young people can actually afford houses. Pretty sure I'm just gonna be renting until I'm eighty.",
-      "original_url": "https://www.mentalfloss.com/geography/states/states-where-young-people-most-likely-own-homes?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The States Where Young People Have the Best Shot at Owning Homes, Mapped",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-07T19:13:21.792921+00:00"
-    },
-    {
-      "tweet": "Apparently a businessman was prepping champagne to celebrate that Caruana Galizia murder. Humans are gross.",
-      "original_url": "https://www.theguardian.com/world/2026/aug/07/yorgen-fenech-champagne-celebrate-daphne-caruana-galizia-murder",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Businessman was ‘preparing champagne’ to celebrate Caruana Galizia murder, court hears",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-07T19:13:21.793340+00:00"
-    },
-    {
       "tweet": "Man, that Marine Robert Gilman is in a dissociative stupor in a Russian prison. Just leave people alone.",
       "original_url": "https://www.nytimes.com/2026/08/07/us/robert-gilman-russia-torture.html",
       "buzz_score": 80,
@@ -618,17 +596,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Still ten things we don't know about GTA 6? I just want to know if it's gonna melt my console.",
-      "original_url": "https://kotaku.com/10-things-we-still-dont-know-about-gta-6-that-could-be-revealed-in-netflixs-extended-look-2000722519",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "10 Things We Still Don’t Know About GTA 6 That Could Be Revealed In Netflix’s Extended Look",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-07T19:13:21.793476+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -825,6 +792,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "Still ten things we don't know about GTA 6? I just want to know if it's gonna melt my console.",
+      "original_url": "https://kotaku.com/10-things-we-still-dont-know-about-gta-6-that-could-be-revealed-in-netflixs-extended-look-2000722519",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "10 Things We Still Don’t Know About GTA 6 That Could Be Revealed In Netflix’s Extended Look",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-07T19:13:21.793476+00:00"
     },
     {
       "tweet": "Did you see the shakeup over at Google DeepMind? Demis Hassabis is moving to chair and Jeff Dean is out. At this point the whole building is just changing hands every week",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2768,
+    "total_posted": 2770,
     "total_collected": 13198
   },
-  "last_posted_at": "2026-08-07T19:18:52.157514+00:00"
+  "last_posted_at": "2026-08-07T20:05:09.070097+00:00"
 }
