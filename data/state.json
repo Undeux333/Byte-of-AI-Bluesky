@@ -2,28 +2,6 @@
   "last_collected": "2026-08-07T06:39:54.762134+00:00",
   "queue": [
     {
-      "tweet": "Madonna and Kylie Minogue finally put out that track together. About time.",
-      "original_url": "https://www.rollingstone.com/music/music-news/madonna-kylie-minogue-love-sensation-afterhours-mix-1235604947/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Hear Madonna and Kylie Minogue Team Up for ‘Love Sensation (Afterhours Mix)’",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-08-07T06:39:54.762006+00:00"
-    },
-    {
-      "tweet": "This K-pop band is actually telling fans to put their phones down during shows. We’ve forgotten how to just watch something.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c39ep3p0ld1o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'Put your phone down': K-pop band weighs in on concert etiquette",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-07T06:39:54.761882+00:00"
-    },
-    {
       "tweet": "Did you see the shakeup over at Google DeepMind? Demis Hassabis is moving to chair and Jeff Dean is out. At this point the whole building is just changing hands every week",
       "original_url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "buzz_score": 85,
@@ -970,17 +948,6 @@
       "added_at": "2026-08-04T01:06:48.499557+00:00"
     },
     {
-      "tweet": "Did you see Chelsea trying to trim their roster? They’ve got 41 people on the senior squad right now. A whole classroom.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c0jle24ln68o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Who will leave Chelsea? How Blues could cut 41-man squad",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-07T06:39:54.761591+00:00"
-    },
-    {
       "tweet": "South Korea is canceling baseball games because of this heat wave. When it's too hot to even play, that's it.",
       "original_url": "https://www.nytimes.com/2026/08/05/world/asia/south-korea-baseball-heat-wave.html",
       "buzz_score": 80,
@@ -1023,6 +990,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-05T23:36:00.399964+00:00"
+    },
+    {
+      "tweet": "Did you see Chelsea trying to trim their roster? They’ve got 41 people on the senior squad right now. A whole classroom.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/c0jle24ln68o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Who will leave Chelsea? How Blues could cut 41-man squad",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-07T06:39:54.761591+00:00"
     },
     {
       "tweet": "Poland is shutting down power plants because of the heat. It’s 42 degrees in Slovakia. Everything's melting.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2751,
+    "total_posted": 2753,
     "total_collected": 13118
   },
-  "last_posted_at": "2026-08-07T06:45:33.086190+00:00"
+  "last_posted_at": "2026-08-07T08:04:11.704190+00:00"
 }
