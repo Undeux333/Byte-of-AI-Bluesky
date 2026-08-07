@@ -2,17 +2,6 @@
   "last_collected": "2026-08-07T16:31:35.681527+00:00",
   "queue": [
     {
-      "tweet": "Robert Pattinson's new thriller is hitting number one on streaming. We really just watch anything that looks stressful, huh.",
-      "original_url": "https://www.polygon.com/the-drama-popular-on-hbo-max-robert-pattinson/",
-      "buzz_score": 85,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Robert Pattinson's Nerve-Wracking 105-Minute Psychological Thriller Officially Crowned a #1 Streaming Hit",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-07T16:31:35.680631+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -783,17 +772,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Russia-linked accounts are apparently pushing the narrative on the Ceuta crisis now. It's always the same script with these guys.",
-      "original_url": "https://www.theguardian.com/media/2026/aug/07/far-right-narrative-russia-online-accounts-ceuta-migration-crisis-analysis",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Russia-linked accounts spread far-right narrative online during Ceuta migration crisis, analysis finds",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-07T16:31:35.680238+00:00"
-    },
-    {
       "tweet": "Did you see the shakeup over at Google DeepMind? Demis Hassabis is moving to chair and Jeff Dean is out. At this point the whole building is just changing hands every week",
       "original_url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "buzz_score": 85,
@@ -904,6 +882,17 @@
       "added_at": "2026-08-04T01:06:48.499557+00:00"
     },
     {
+      "tweet": "Russia-linked accounts are apparently pushing the narrative on the Ceuta crisis now. It's always the same script with these guys.",
+      "original_url": "https://www.theguardian.com/media/2026/aug/07/far-right-narrative-russia-online-accounts-ceuta-migration-crisis-analysis",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Russia-linked accounts spread far-right narrative online during Ceuta migration crisis, analysis finds",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-07T16:31:35.680238+00:00"
+    },
+    {
       "tweet": "Saw this list of 90s road trip noises and it’s just the sound of a tape deck clicking. We all lived the same life, man.",
       "original_url": "https://www.mentalfloss.com/nostalgia/90s/hilariously-relatable-sounds-defined-every-1990s-road-trip?utm_source=RSS",
       "buzz_score": 80,
@@ -992,6 +981,17 @@
       "added_at": "2026-08-07T13:34:59.886421+00:00"
     },
     {
+      "tweet": "Nike just dropped a preview of an unseen Kobe silhouette at that Mamba Invitational. They look clean.",
+      "original_url": "https://hypebeast.com/2026/8/nike-previews-unseen-kobe-silhouette-at-mamba-invitational-teaser",
+      "buzz_score": 72,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Nike Previews Unseen Kobe Silhouette at the Mamba Invitational",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-08-07T06:39:54.761598+00:00"
+    },
+    {
       "tweet": "Marvel Tōkon just dropped on Steam and it's sitting at 44 percent. Looks like they should have waited a bit before shipping that mess.",
       "original_url": "https://kotaku.com/marvel-tokon-fighting-souls-pc-steam-performance-reviews-2000722437",
       "buzz_score": 80,
@@ -1012,17 +1012,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-08-07T13:34:59.886425+00:00"
-    },
-    {
-      "tweet": "Nike just dropped a preview of an unseen Kobe silhouette at that Mamba Invitational. They look clean.",
-      "original_url": "https://hypebeast.com/2026/8/nike-previews-unseen-kobe-silhouette-at-mamba-invitational-teaser",
-      "buzz_score": 72,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Nike Previews Unseen Kobe Silhouette at the Mamba Invitational",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-08-07T06:39:54.761598+00:00"
     },
     {
       "tweet": "The economy just dropped 23,000 jobs out of nowhere. Guess that's that.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2765,
+    "total_posted": 2766,
     "total_collected": 13182
   },
-  "last_posted_at": "2026-08-07T16:38:29.382940+00:00"
+  "last_posted_at": "2026-08-07T17:30:13.448668+00:00"
 }
