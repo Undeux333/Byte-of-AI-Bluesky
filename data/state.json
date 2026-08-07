@@ -618,28 +618,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Did you see that Texas cop got caught at the border for killing three people in Mexico? That’s some movie-level insanity.",
-      "original_url": "https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US police officer accused of killing three people in Mexico arrested at border",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-07T21:21:08.833874+00:00"
-    },
-    {
-      "tweet": "Trump's back at it trying to fire Lisa Cook again. It’s like they just can't handle anyone sitting in that chair for more than five minutes.",
-      "original_url": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump renews push to fire Fed Governor Lisa Cook",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-07T21:21:08.833707+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -838,6 +816,28 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
+      "tweet": "Did you see that Texas cop got caught at the border for killing three people in Mexico? That’s some movie-level insanity.",
+      "original_url": "https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US police officer accused of killing three people in Mexico arrested at border",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-07T21:21:08.833874+00:00"
+    },
+    {
+      "tweet": "Trump's back at it trying to fire Lisa Cook again. It’s like they just can't handle anyone sitting in that chair for more than five minutes.",
+      "original_url": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump renews push to fire Fed Governor Lisa Cook",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-07T21:21:08.833707+00:00"
+    },
+    {
       "tweet": "Did you see the shakeup over at Google DeepMind? Demis Hassabis is moving to chair and Jeff Dean is out. At this point the whole building is just changing hands every week",
       "original_url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "buzz_score": 85,
@@ -948,17 +948,6 @@
       "added_at": "2026-08-04T01:06:48.499557+00:00"
     },
     {
-      "tweet": "Still ten things we don't know about GTA 6? I just want to know if it's gonna melt my console.",
-      "original_url": "https://kotaku.com/10-things-we-still-dont-know-about-gta-6-that-could-be-revealed-in-netflixs-extended-look-2000722519",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "10 Things We Still Don’t Know About GTA 6 That Could Be Revealed In Netflix’s Extended Look",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-07T19:13:21.793476+00:00"
-    },
-    {
       "tweet": "Nigerian forces just rescued over 300 people who were abducted. That's a lot of people to lose track of",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/exclusive-report-with-the-308-people-rescued-by-nigerian-forces?traffic_source=rss",
       "buzz_score": 80,
@@ -1012,6 +1001,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-06T07:13:07.313045+00:00"
+    },
+    {
+      "tweet": "Still ten things we don't know about GTA 6? I just want to know if it's gonna melt my console.",
+      "original_url": "https://kotaku.com/10-things-we-still-dont-know-about-gta-6-that-could-be-revealed-in-netflixs-extended-look-2000722519",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "10 Things We Still Don’t Know About GTA 6 That Could Be Revealed In Netflix’s Extended Look",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-07T19:13:21.793476+00:00"
     },
     {
       "tweet": "Judge just approved the end of South Sudan TPS protections. What is even the point of that status?",
