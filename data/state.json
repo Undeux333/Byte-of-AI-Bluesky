@@ -772,28 +772,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Lebanon says there's progress on border talks while Israel’s still hitting them with airstrikes. Who’s even keeping track at this point?",
-      "original_url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-07T21:21:08.833714+00:00"
-    },
-    {
-      "tweet": "Seoul is doing silent disco pool parties to deal with this heat. Absolute vibes.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "South Koreans beat the heat with ‘silent disco’ pool party",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-07T21:21:08.833712+00:00"
-    },
-    {
       "tweet": "Did you see the shakeup over at Google DeepMind? Demis Hassabis is moving to chair and Jeff Dean is out. At this point the whole building is just changing hands every week",
       "original_url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "buzz_score": 85,
@@ -904,26 +882,26 @@
       "added_at": "2026-08-04T01:06:48.499557+00:00"
     },
     {
-      "tweet": "Just read hot dog buns come in packs of eight while the dogs come in tens. We're literally paying for the extra buns just to throw them out.",
-      "original_url": "https://www.mentalfloss.com/food/why-hot-dog-buns-sold-different-numbers-hot-dogs?utm_source=RSS",
-      "buzz_score": 75,
+      "tweet": "Lebanon says there's progress on border talks while Israel’s still hitting them with airstrikes. Who’s even keeping track at this point?",
+      "original_url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Why Are Hot Dog Buns Sold in Different Numbers Than Hot Dogs?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-07T21:21:08.833697+00:00"
+      "original_title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-07T21:21:08.833714+00:00"
     },
     {
-      "tweet": "Apparently Italians and French people are way worse at hogging sunloungers than Germans. It's that kind of stuff that just makes you laugh.",
-      "original_url": "https://www.theguardian.com/world/2026/aug/08/sunlounger-hoggers-poll-germans-italians-french-british",
+      "tweet": "Seoul is doing silent disco pool parties to deal with this heat. Absolute vibes.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss",
       "buzz_score": 80,
-      "buzz_score2": 90,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Germans hogging the sunloungers? Poll finds Italians and French are worse",
-      "source": "The Guardian",
+      "original_title": "South Koreans beat the heat with ‘silent disco’ pool party",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-08-08T04:47:18.761937+00:00"
+      "added_at": "2026-08-07T21:21:08.833712+00:00"
     },
     {
       "tweet": "Nigerian forces just rescued over 300 people who were abducted. That's a lot of people to lose track of",
@@ -959,6 +937,39 @@
       "added_at": "2026-08-07T03:37:21.433588+00:00"
     },
     {
+      "tweet": "Just read hot dog buns come in packs of eight while the dogs come in tens. We're literally paying for the extra buns just to throw them out.",
+      "original_url": "https://www.mentalfloss.com/food/why-hot-dog-buns-sold-different-numbers-hot-dogs?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Why Are Hot Dog Buns Sold in Different Numbers Than Hot Dogs?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-08-07T21:21:08.833697+00:00"
+    },
+    {
+      "tweet": "Apparently Italians and French people are way worse at hogging sunloungers than Germans. It's that kind of stuff that just makes you laugh.",
+      "original_url": "https://www.theguardian.com/world/2026/aug/08/sunlounger-hoggers-poll-germans-italians-french-british",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Germans hogging the sunloungers? Poll finds Italians and French are worse",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-08T04:47:18.761937+00:00"
+    },
+    {
+      "tweet": "Spanish police just busted a smuggling network using the same route for drugs, weapons, and migrants. Multi-tasking.",
+      "original_url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-07T19:13:21.792924+00:00"
+    },
+    {
       "tweet": "So apparently Saudi Arabia, Turkey and Pakistan just signed a defense pact. Like that's gonna go well.",
       "original_url": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html",
       "buzz_score": 85,
@@ -979,17 +990,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-08-08T04:47:18.761943+00:00"
-    },
-    {
-      "tweet": "Spanish police just busted a smuggling network using the same route for drugs, weapons, and migrants. Multi-tasking.",
-      "original_url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-07T19:13:21.792924+00:00"
     },
     {
       "tweet": "Managers at that St Basil’s facility can't remember why 50 people died there. But I bet they remember their bonuses.",
