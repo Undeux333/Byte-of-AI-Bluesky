@@ -2,28 +2,6 @@
   "last_collected": "2026-08-08T14:03:30.649090+00:00",
   "queue": [
     {
-      "tweet": "Another heat wave hitting Europe right now. At this point we're just roasting.",
-      "original_url": "https://www.npr.org/2026/08/08/nx-s1-5916351/opinion-europes-summer-of-heat",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Opinion: Europe's summer of heat",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-08T14:03:30.647371+00:00"
-    },
-    {
-      "tweet": "Seeing all these hacks to declutter your home makes me realize how much junk I actually own. Too much.",
-      "original_url": "https://www.bustle.com/shopping/genius-hacks-to-declutter-your-home-fit-more-in-your-closets",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "65 Genius Hacks To Declutter Your Home & Fit More In Your Closets",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-08-08T14:03:30.648435+00:00"
-    },
-    {
       "tweet": "Google DeepMind is shifting Demis Hassabis into a different role, and people are saying the commercial side just took over. It's basically corporate now.",
       "original_url": "https://www.theguardian.com/technology/2026/aug/08/google-demis-hassabis-deepmind-shifts-role",
       "buzz_score": 85,
@@ -77,17 +55,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "So apparently K-pop is blowing up in Chile now. We're living in a weird world.",
-      "original_url": "https://www.npr.org/2026/08/08/nx-s1-5899791/k-pop-chile-bts",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "K-pop's global wave inspires Chile's next pop stars",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-08T14:03:30.647213+00:00"
     },
     {
       "tweet": "Hold on, three teenagers had to get rescued by a helicopter after trying to hike with Google Maps. At this point we're just allergic to paper trails.",
@@ -629,6 +596,17 @@
       "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
+      "tweet": "So apparently K-pop is blowing up in Chile now. We're living in a weird world.",
+      "original_url": "https://www.npr.org/2026/08/08/nx-s1-5899791/k-pop-chile-bts",
+      "buzz_score": 75,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "K-pop's global wave inspires Chile's next pop stars",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-08T14:03:30.647213+00:00"
+    },
+    {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
       "original_url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
       "buzz_score": 88,
@@ -816,39 +794,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Someone is selling a laptop for 450 dollars and it looks way too good to be true. Would you actually trust that thing?",
-      "original_url": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Is this $450 laptop from an unknown brand too good to be true?",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-08-08T14:03:30.648563+00:00"
-    },
-    {
-      "tweet": "My favorite show just came back and I'm already binging it. Nothing beats that feeling.",
-      "original_url": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
-      "buzz_score": 70,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "My favorite feel-good show is back",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-08-08T14:03:30.648692+00:00"
-    },
-    {
-      "tweet": "Deborah Ann Woll is doing a D&D thing that's basically Clue inside The Shining. That's a lot of work.",
-      "original_url": "https://www.polygon.com/deborah-ann-woll-tales-from-woodcreek-season-2-is-clue-at-the-overlook-hotel/",
-      "buzz_score": 70,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Deborah Ann Woll Says Tales from Woodcreek Season 2 Is 'Clue at the Overlook Hotel'",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-08T14:03:30.648180+00:00"
-    },
-    {
       "tweet": "Did you see the shakeup over at Google DeepMind? Demis Hassabis is moving to chair and Jeff Dean is out. At this point the whole building is just changing hands every week",
       "original_url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "buzz_score": 85,
@@ -957,6 +902,39 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-08-04T01:06:48.499557+00:00"
+    },
+    {
+      "tweet": "Someone is selling a laptop for 450 dollars and it looks way too good to be true. Would you actually trust that thing?",
+      "original_url": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Is this $450 laptop from an unknown brand too good to be true?",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-08-08T14:03:30.648563+00:00"
+    },
+    {
+      "tweet": "My favorite show just came back and I'm already binging it. Nothing beats that feeling.",
+      "original_url": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
+      "buzz_score": 70,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "My favorite feel-good show is back",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-08-08T14:03:30.648692+00:00"
+    },
+    {
+      "tweet": "Deborah Ann Woll is doing a D&D thing that's basically Clue inside The Shining. That's a lot of work.",
+      "original_url": "https://www.polygon.com/deborah-ann-woll-tales-from-woodcreek-season-2-is-clue-at-the-overlook-hotel/",
+      "buzz_score": 70,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Deborah Ann Woll Says Tales from Woodcreek Season 2 Is 'Clue at the Overlook Hotel'",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-08T14:03:30.648180+00:00"
     },
     {
       "tweet": "Lebanon says there's progress on border talks while Israel’s still hitting them with airstrikes. Who’s even keeping track at this point?",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2797,
+    "total_posted": 2799,
     "total_collected": 13303
   },
-  "last_posted_at": "2026-08-08T14:53:15.124308+00:00"
+  "last_posted_at": "2026-08-08T15:24:30.618411+00:00"
 }
