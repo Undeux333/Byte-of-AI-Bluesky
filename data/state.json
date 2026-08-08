@@ -772,28 +772,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "YouTube hit Kurzgesagt with a penalty for AI-generated slop, even though they're the ones always warning us about it. You can't make this up, right.",
-      "original_url": "https://kotaku.com/youtube-mistakenly-penalizes-popular-science-channel-kurzgesagt-for-ai-generated-slop-2000722702",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "YouTube Mistakenly Penalizes Popular Science Channel Kurzgesagt For AI-Generated Slop",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-08T18:20:52.816333+00:00"
-    },
-    {
-      "tweet": "So apparently some guy in Kosovo just started throwing eggs at their acting prime minister during a meeting. Absolute chaos.",
-      "original_url": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-08T18:20:52.816328+00:00"
-    },
-    {
       "tweet": "Did you see the shakeup over at Google DeepMind? Demis Hassabis is moving to chair and Jeff Dean is out. At this point the whole building is just changing hands every week",
       "original_url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "buzz_score": 85,
@@ -904,15 +882,26 @@
       "added_at": "2026-08-04T01:06:48.499557+00:00"
     },
     {
-      "tweet": "Man, I was just reading about Tsutomu Yamaguchi. Guy somehow survived both Hiroshima and Nagasaki. Some people just aren't meant to go.",
-      "original_url": "https://www.mentalfloss.com/history/man-who-survived-hiroshima-and-nagasaki?utm_source=RSS",
-      "buzz_score": 80,
+      "tweet": "YouTube hit Kurzgesagt with a penalty for AI-generated slop, even though they're the ones always warning us about it. You can't make this up, right.",
+      "original_url": "https://kotaku.com/youtube-mistakenly-penalizes-popular-science-channel-kurzgesagt-for-ai-generated-slop-2000722702",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "The Man Who Survived Both Hiroshima and Nagasaki",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-08T18:20:52.816336+00:00"
+      "original_title": "YouTube Mistakenly Penalizes Popular Science Channel Kurzgesagt For AI-Generated Slop",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-08T18:20:52.816333+00:00"
+    },
+    {
+      "tweet": "So apparently some guy in Kosovo just started throwing eggs at their acting prime minister during a meeting. Absolute chaos.",
+      "original_url": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-08T18:20:52.816328+00:00"
     },
     {
       "tweet": "Lebanon says there's progress on border talks while Israel’s still hitting them with airstrikes. Who’s even keeping track at this point?",
@@ -968,6 +957,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-08-07T03:37:21.433588+00:00"
+    },
+    {
+      "tweet": "Man, I was just reading about Tsutomu Yamaguchi. Guy somehow survived both Hiroshima and Nagasaki. Some people just aren't meant to go.",
+      "original_url": "https://www.mentalfloss.com/history/man-who-survived-hiroshima-and-nagasaki?utm_source=RSS",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Man Who Survived Both Hiroshima and Nagasaki",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-08-08T18:20:52.816336+00:00"
     },
     {
       "tweet": "Did you see who they actually cast in that Zelda movie? I’m still trying to wrap my head around it. Absolutely wild.",
