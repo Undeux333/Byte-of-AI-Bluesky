@@ -2,17 +2,6 @@
   "last_collected": "2026-08-08T20:32:26.285765+00:00",
   "queue": [
     {
-      "tweet": "Beats are down to sixty-nine bucks now. Took them long enough to realize nobody’s paying three bills for these anymore.",
-      "original_url": "https://www.billboard.com/culture/product-recommendations/best-beats-wireless-earbuds-deal-shop-sale-price-online-1236043439/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-08T20:32:26.283889+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -893,17 +882,6 @@
       "added_at": "2026-08-04T01:06:48.499557+00:00"
     },
     {
-      "tweet": "Israeli troops just crossed into that town in Lebanon and hit some soldiers. Absolute chaos.",
-      "original_url": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Lebanese soldiers injured while Israeli troops intrude on southern town",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-08T20:32:26.285378+00:00"
-    },
-    {
       "tweet": "Lebanon says there's progress on border talks while Israel’s still hitting them with airstrikes. Who’s even keeping track at this point?",
       "original_url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
       "buzz_score": 80,
@@ -957,6 +935,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-08-07T03:37:21.433588+00:00"
+    },
+    {
+      "tweet": "Israeli troops just crossed into that town in Lebanon and hit some soldiers. Absolute chaos.",
+      "original_url": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Lebanese soldiers injured while Israeli troops intrude on southern town",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-08T20:32:26.285378+00:00"
     },
     {
       "tweet": "YouTube hit Kurzgesagt with a penalty for AI-generated slop, even though they're the ones always warning us about it. You can't make this up, right.",
@@ -2018,8 +2007,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2810,
+    "total_posted": 2811,
     "total_collected": 13344
   },
-  "last_posted_at": "2026-08-08T21:10:08.693299+00:00"
+  "last_posted_at": "2026-08-08T21:43:07.983183+00:00"
 }
