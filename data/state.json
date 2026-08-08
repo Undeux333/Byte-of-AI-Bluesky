@@ -2,50 +2,6 @@
   "last_collected": "2026-08-08T02:35:41.176687+00:00",
   "queue": [
     {
-      "tweet": "Dude, Angélique Kidjo is actually getting a star on the Walk of Fame. About time.",
-      "original_url": "https://www.billboard.com/music/awards/angelique-kidjo-star-hollywood-walk-of-fame-history-making-1236312196/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Angélique Kidjo to Become First African Musician to Receive a Star on Hollywood Walk of Fame",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-08T02:35:41.174789+00:00"
-    },
-    {
-      "tweet": "Did you see Hell Is Us is finally on Game Pass? That game got buried, man.",
-      "original_url": "https://www.polygon.com/hell-is-us-game-pass-hit/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "2025's Best Soulslike You Missed Is Officially a Sleeper Hit on Xbox Game Pass",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-08T02:35:41.174952+00:00"
-    },
-    {
-      "tweet": "Lebanon says there's progress on border talks while Israel’s still hitting them with airstrikes. Who’s even keeping track at this point?",
-      "original_url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-07T21:21:08.833714+00:00"
-    },
-    {
-      "tweet": "Seoul is doing silent disco pool parties to deal with this heat. Absolute vibes.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "South Koreans beat the heat with ‘silent disco’ pool party",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-07T21:21:08.833712+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -79,15 +35,26 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Just read hot dog buns come in packs of eight while the dogs come in tens. We're literally paying for the extra buns just to throw them out.",
-      "original_url": "https://www.mentalfloss.com/food/why-hot-dog-buns-sold-different-numbers-hot-dogs?utm_source=RSS",
-      "buzz_score": 75,
+      "tweet": "Lebanon says there's progress on border talks while Israel’s still hitting them with airstrikes. Who’s even keeping track at this point?",
+      "original_url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Why Are Hot Dog Buns Sold in Different Numbers Than Hot Dogs?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-07T21:21:08.833697+00:00"
+      "original_title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-07T21:21:08.833714+00:00"
+    },
+    {
+      "tweet": "Seoul is doing silent disco pool parties to deal with this heat. Absolute vibes.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "South Koreans beat the heat with ‘silent disco’ pool party",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-07T21:21:08.833712+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -629,17 +596,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "So apparently Saudi Arabia, Turkey and Pakistan just signed a defense pact. Like that's gonna go well.",
-      "original_url": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-08T02:35:41.175076+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -649,6 +605,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
+    },
+    {
+      "tweet": "Just read hot dog buns come in packs of eight while the dogs come in tens. We're literally paying for the extra buns just to throw them out.",
+      "original_url": "https://www.mentalfloss.com/food/why-hot-dog-buns-sold-different-numbers-hot-dogs?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Why Are Hot Dog Buns Sold in Different Numbers Than Hot Dogs?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-08-07T21:21:08.833697+00:00"
     },
     {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
@@ -838,17 +805,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Spanish police just busted a smuggling network using the same route for drugs, weapons, and migrants. Multi-tasking.",
-      "original_url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-07T19:13:21.792924+00:00"
-    },
-    {
       "tweet": "Did you see the shakeup over at Google DeepMind? Demis Hassabis is moving to chair and Jeff Dean is out. At this point the whole building is just changing hands every week",
       "original_url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "buzz_score": 85,
@@ -959,6 +915,61 @@
       "added_at": "2026-08-04T01:06:48.499557+00:00"
     },
     {
+      "tweet": "So apparently Saudi Arabia, Turkey and Pakistan just signed a defense pact. Like that's gonna go well.",
+      "original_url": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-08T02:35:41.175076+00:00"
+    },
+    {
+      "tweet": "Nigerian forces just rescued over 300 people who were abducted. That's a lot of people to lose track of",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/exclusive-report-with-the-308-people-rescued-by-nigerian-forces?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Exclusive report with the 308 people rescued by Nigerian forces",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-07T03:37:21.435190+00:00"
+    },
+    {
+      "tweet": "Those Stuart Fails creators got the Big Bang cast to do a bit about residuals for eternal spells. Pretty on the nose",
+      "original_url": "https://deadline.com/2026/08/stuart-fails-melissa-rauch-wga-magic-episode-3-explained-1237014249/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "‘Stuart Fails’ Creators On ‘Big Bang’ OG Return For WGA Strike Roast In Magic-Themed Episode 3 Where Wizards Seek “Residuals For Eternal Spells”",
+      "source": "Deadline",
+      "category": "entertainment",
+      "added_at": "2026-08-07T03:37:21.434938+00:00"
+    },
+    {
+      "tweet": "That Australian crew just pulled off a rescue in Antarctica in total darkness at -43 degrees. Absolute legends",
+      "original_url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-07T03:37:21.433588+00:00"
+    },
+    {
+      "tweet": "Spanish police just busted a smuggling network using the same route for drugs, weapons, and migrants. Multi-tasking.",
+      "original_url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-07T19:13:21.792924+00:00"
+    },
+    {
       "tweet": "Managers at that St Basil’s facility can't remember why 50 people died there. But I bet they remember their bonuses.",
       "original_url": "https://www.theguardian.com/world/2026/aug/08/senior-managers-at-st-basils-aged-care-where-50-died-from-covid-cant-remember-it-all-grieving-loved-ones-cant-forget",
       "buzz_score": 80,
@@ -1001,39 +1012,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-08-07T23:23:57.828867+00:00"
-    },
-    {
-      "tweet": "Nigerian forces just rescued over 300 people who were abducted. That's a lot of people to lose track of",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/exclusive-report-with-the-308-people-rescued-by-nigerian-forces?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Exclusive report with the 308 people rescued by Nigerian forces",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-07T03:37:21.435190+00:00"
-    },
-    {
-      "tweet": "Those Stuart Fails creators got the Big Bang cast to do a bit about residuals for eternal spells. Pretty on the nose",
-      "original_url": "https://deadline.com/2026/08/stuart-fails-melissa-rauch-wga-magic-episode-3-explained-1237014249/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘Stuart Fails’ Creators On ‘Big Bang’ OG Return For WGA Strike Roast In Magic-Themed Episode 3 Where Wizards Seek “Residuals For Eternal Spells”",
-      "source": "Deadline",
-      "category": "entertainment",
-      "added_at": "2026-08-07T03:37:21.434938+00:00"
-    },
-    {
-      "tweet": "That Australian crew just pulled off a rescue in Antarctica in total darkness at -43 degrees. Absolute legends",
-      "original_url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-07T03:37:21.433588+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2775,
+    "total_posted": 2777,
     "total_collected": 13238
   },
-  "last_posted_at": "2026-08-08T02:43:10.068014+00:00"
+  "last_posted_at": "2026-08-08T04:04:36.705995+00:00"
 }
