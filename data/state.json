@@ -2,28 +2,6 @@
   "last_collected": "2026-08-08T20:32:26.285765+00:00",
   "queue": [
     {
-      "tweet": "Did you hear Denmark is making kids do oral exams for everything now? Apparently they’re that scared of ChatGPT. Wild.",
-      "original_url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-08T20:32:26.283879+00:00"
-    },
-    {
-      "tweet": "Hold on, the government's new e-waste policy might actually ban my vintage tech collection. This is actually ridiculous.",
-      "original_url": "https://kotaku.com/trumps-new-e-waste-policy-has-vintage-tech-collectors-anxious-theyll-be-caught-in-the-crossfire-2000722706",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump’s New E-Waste Policy Has Vintage Tech Collectors Anxious They’ll Be Caught In The Crossfire",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-08T20:32:26.284462+00:00"
-    },
-    {
       "tweet": "Beats are down to sixty-nine bucks now. Took them long enough to realize nobody’s paying three bills for these anymore.",
       "original_url": "https://www.billboard.com/culture/product-recommendations/best-beats-wireless-earbuds-deal-shop-sale-price-online-1236043439/",
       "buzz_score": 80,
@@ -926,28 +904,6 @@
       "added_at": "2026-08-08T20:32:26.285378+00:00"
     },
     {
-      "tweet": "YouTube hit Kurzgesagt with a penalty for AI-generated slop, even though they're the ones always warning us about it. You can't make this up, right.",
-      "original_url": "https://kotaku.com/youtube-mistakenly-penalizes-popular-science-channel-kurzgesagt-for-ai-generated-slop-2000722702",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "YouTube Mistakenly Penalizes Popular Science Channel Kurzgesagt For AI-Generated Slop",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-08T18:20:52.816333+00:00"
-    },
-    {
-      "tweet": "So apparently some guy in Kosovo just started throwing eggs at their acting prime minister during a meeting. Absolute chaos.",
-      "original_url": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-08T18:20:52.816328+00:00"
-    },
-    {
       "tweet": "Lebanon says there's progress on border talks while Israel’s still hitting them with airstrikes. Who’s even keeping track at this point?",
       "original_url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
       "buzz_score": 80,
@@ -1001,6 +957,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-08-07T03:37:21.433588+00:00"
+    },
+    {
+      "tweet": "YouTube hit Kurzgesagt with a penalty for AI-generated slop, even though they're the ones always warning us about it. You can't make this up, right.",
+      "original_url": "https://kotaku.com/youtube-mistakenly-penalizes-popular-science-channel-kurzgesagt-for-ai-generated-slop-2000722702",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "YouTube Mistakenly Penalizes Popular Science Channel Kurzgesagt For AI-Generated Slop",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-08T18:20:52.816333+00:00"
+    },
+    {
+      "tweet": "So apparently some guy in Kosovo just started throwing eggs at their acting prime minister during a meeting. Absolute chaos.",
+      "original_url": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-08T18:20:52.816328+00:00"
     },
     {
       "tweet": "There’s a massive wildfire by Lake Garda right now. Everything is just burning.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2808,
+    "total_posted": 2810,
     "total_collected": 13344
   },
-  "last_posted_at": "2026-08-08T20:38:49.328412+00:00"
+  "last_posted_at": "2026-08-08T21:10:08.693299+00:00"
 }
