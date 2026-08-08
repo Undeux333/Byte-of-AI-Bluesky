@@ -2,17 +2,6 @@
   "last_collected": "2026-08-08T22:44:16.454688+00:00",
   "queue": [
     {
-      "tweet": "Found this tool that just nukes the LinkedIn feed entirely. Finally I don't have to pretend to care about my coworker's personal branding updates.",
-      "original_url": "https://github.com/andrewpollack/linkedin-feed-blocker",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "LinkedIn Feed Blocker",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-08T22:44:16.453200+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -585,17 +574,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Looks like The Witcher season 5 is pushed to 2027 now. Netflix really just loves dragging it out.",
-      "original_url": "https://www.polygon.com/the-witcher-season-5-has-been-quietly-delayed/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The Witcher season 5 delayed on Netflix, new report says",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-08T22:44:16.453212+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -605,6 +583,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
+    },
+    {
+      "tweet": "Looks like The Witcher season 5 is pushed to 2027 now. Netflix really just loves dragging it out.",
+      "original_url": "https://www.polygon.com/the-witcher-season-5-has-been-quietly-delayed/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Witcher season 5 delayed on Netflix, new report says",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-08T22:44:16.453212+00:00"
     },
     {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2813,
+    "total_posted": 2814,
     "total_collected": 13360
   },
-  "last_posted_at": "2026-08-08T22:52:13.399849+00:00"
+  "last_posted_at": "2026-08-08T23:03:57.269047+00:00"
 }
