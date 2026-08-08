@@ -772,17 +772,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "So the Senate just confirmed Todd Blanche as AG. Literally just Trump’s personal lawyer running the whole Justice Department now. Wild.",
-      "original_url": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Senate votes to confirm Todd Blanche as attorney general",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-08T09:29:55.085811+00:00"
-    },
-    {
       "tweet": "Did you see the shakeup over at Google DeepMind? Demis Hassabis is moving to chair and Jeff Dean is out. At this point the whole building is just changing hands every week",
       "original_url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "buzz_score": 85,
@@ -893,6 +882,17 @@
       "added_at": "2026-08-04T01:06:48.499557+00:00"
     },
     {
+      "tweet": "So the Senate just confirmed Todd Blanche as AG. Literally just Trump’s personal lawyer running the whole Justice Department now. Wild.",
+      "original_url": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Senate votes to confirm Todd Blanche as attorney general",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-08T09:29:55.085811+00:00"
+    },
+    {
       "tweet": "The Danube is so low right now that actual Nazi shipwrecks are surfacing. Things are looking pretty grim.",
       "original_url": "https://www.theguardian.com/environment/2026/aug/08/nazi-shipwrecks-emerge-europe-danube-dries-up-record-heat",
       "buzz_score": 80,
@@ -913,17 +913,6 @@
       "source": "Ars Technica",
       "category": "tech",
       "added_at": "2026-08-08T11:51:08.838294+00:00"
-    },
-    {
-      "tweet": "WhatsApp finally added a tag-all feature for groups. Finally, a way to actually get everyone’s attention without checking fifty messages.",
-      "original_url": "https://www.wired.com/story/whatsapp-gets-a-handy-all-feature-for-group-chats/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "WhatsApp Gets a Handy @all Feature for Group Chats",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-08-08T09:29:55.086505+00:00"
     },
     {
       "tweet": "Lebanon says there's progress on border talks while Israel’s still hitting them with airstrikes. Who’s even keeping track at this point?",
@@ -979,6 +968,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-08-07T03:37:21.433588+00:00"
+    },
+    {
+      "tweet": "WhatsApp finally added a tag-all feature for groups. Finally, a way to actually get everyone’s attention without checking fifty messages.",
+      "original_url": "https://www.wired.com/story/whatsapp-gets-a-handy-all-feature-for-group-chats/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "WhatsApp Gets a Handy @all Feature for Group Chats",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-08-08T09:29:55.086505+00:00"
     },
     {
       "tweet": "Arsenal dropped 75 million on Guimaraes. They're not playing around this season.",
