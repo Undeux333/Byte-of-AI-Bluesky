@@ -2,28 +2,6 @@
   "last_collected": "2026-08-08T16:18:51.255455+00:00",
   "queue": [
     {
-      "tweet": "Did you see all those engineers losing their minds on HackerNews? It’s wild watching an entire industry just realize the dream is basically dead. Just clocking out.",
-      "original_url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "What happens if an entire class of workers loses faith in their careers",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-08T16:18:51.255257+00:00"
-    },
-    {
-      "tweet": "Bro, Chris Brown and Usher played at MetLife in the pouring rain last night and still did fifty songs. That's the kind of energy you can't fake.",
-      "original_url": "https://www.billboard.com/lists/chris-brown-usher-tour-metlife-stadium-show-recap/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Chris Brown & Usher’s Raymond & Brown Tour at MetLife Stadium: 7 Best Moments From Night 1",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-08T16:18:51.255264+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -926,17 +904,6 @@
       "added_at": "2026-08-08T14:03:30.647213+00:00"
     },
     {
-      "tweet": "Someone is selling a laptop for 450 dollars and it looks way too good to be true. Would you actually trust that thing?",
-      "original_url": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Is this $450 laptop from an unknown brand too good to be true?",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-08-08T14:03:30.648563+00:00"
-    },
-    {
       "tweet": "Lebanon says there's progress on border talks while Israel’s still hitting them with airstrikes. Who’s even keeping track at this point?",
       "original_url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
       "buzz_score": 80,
@@ -990,6 +957,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-08-07T03:37:21.433588+00:00"
+    },
+    {
+      "tweet": "Someone is selling a laptop for 450 dollars and it looks way too good to be true. Would you actually trust that thing?",
+      "original_url": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Is this $450 laptop from an unknown brand too good to be true?",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-08-08T14:03:30.648563+00:00"
     },
     {
       "tweet": "Finally read why hot dog buns and hot dogs come in different packs. Turns out it's just to ruin our lives. Typical.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2802,
+    "total_posted": 2804,
     "total_collected": 13312
   },
-  "last_posted_at": "2026-08-08T16:27:37.864359+00:00"
+  "last_posted_at": "2026-08-08T17:07:21.930338+00:00"
 }
