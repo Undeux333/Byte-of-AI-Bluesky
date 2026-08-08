@@ -585,17 +585,6 @@
       "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
-      "tweet": "Looks like The Witcher season 5 is pushed to 2027 now. Netflix really just loves dragging it out.",
-      "original_url": "https://www.polygon.com/the-witcher-season-5-has-been-quietly-delayed/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The Witcher season 5 delayed on Netflix, new report says",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-08T22:44:16.453212+00:00"
-    },
-    {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
       "original_url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
       "buzz_score": 88,
@@ -781,6 +770,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "Looks like The Witcher season 5 is pushed to 2027 now. Netflix really just loves dragging it out.",
+      "original_url": "https://www.polygon.com/the-witcher-season-5-has-been-quietly-delayed/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Witcher season 5 delayed on Netflix, new report says",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-08T22:44:16.453212+00:00"
     },
     {
       "tweet": "Did you see the shakeup over at Google DeepMind? Demis Hassabis is moving to chair and Jeff Dean is out. At this point the whole building is just changing hands every week",
