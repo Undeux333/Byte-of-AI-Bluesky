@@ -2,17 +2,6 @@
   "last_collected": "2026-08-08T14:03:30.649090+00:00",
   "queue": [
     {
-      "tweet": "Google DeepMind is shifting Demis Hassabis into a different role, and people are saying the commercial side just took over. It's basically corporate now.",
-      "original_url": "https://www.theguardian.com/technology/2026/aug/08/google-demis-hassabis-deepmind-shifts-role",
-      "buzz_score": 85,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Google DeepMind enters a new era as co-founder Demis Hassabis shifts AI role",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-08T14:03:30.647766+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -596,17 +585,6 @@
       "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
-      "tweet": "So apparently K-pop is blowing up in Chile now. We're living in a weird world.",
-      "original_url": "https://www.npr.org/2026/08/08/nx-s1-5899791/k-pop-chile-bts",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "K-pop's global wave inspires Chile's next pop stars",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-08T14:03:30.647213+00:00"
-    },
-    {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
       "original_url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
       "buzz_score": 88,
@@ -792,6 +770,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "So apparently K-pop is blowing up in Chile now. We're living in a weird world.",
+      "original_url": "https://www.npr.org/2026/08/08/nx-s1-5899791/k-pop-chile-bts",
+      "buzz_score": 75,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "K-pop's global wave inspires Chile's next pop stars",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-08T14:03:30.647213+00:00"
     },
     {
       "tweet": "Did you see the shakeup over at Google DeepMind? Demis Hassabis is moving to chair and Jeff Dean is out. At this point the whole building is just changing hands every week",
@@ -1996,8 +1985,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2799,
+    "total_posted": 2800,
     "total_collected": 13303
   },
-  "last_posted_at": "2026-08-08T15:24:30.618411+00:00"
+  "last_posted_at": "2026-08-08T15:52:25.167135+00:00"
 }
