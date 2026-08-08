@@ -2,28 +2,6 @@
   "last_collected": "2026-08-08T07:26:30.350238+00:00",
   "queue": [
     {
-      "tweet": "Bro, NASA just figured out how to keep Voyager 2 running for another year. The thing is literally in deep space and they're still remote-patching it. Absolute legend.",
-      "original_url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "NASA figured out how to keep its Voyager 2 probe running for another year",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-08T07:26:30.348372+00:00"
-    },
-    {
-      "tweet": "This tiny Spanish village is bracing for thousands of astrotourists just for a solar eclipse. We really will travel anywhere to stare at the sky for two minutes.",
-      "original_url": "https://www.theguardian.com/world/2026/aug/08/spanish-mountain-village-braces-for-astrotourists-lured-by-total-solar-eclipse",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Spanish mountain village braces for astrotourists lured by total solar eclipse",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-08T07:26:30.349059+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -794,17 +772,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Trump’s out here calling Canada nasty now. Man, our trade talks are just vibes at this point.",
-      "original_url": "https://www.nytimes.com/2026/08/06/world/canada/carney-trump-tariffs-trade.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "After Trump Calls Canadians ‘Nasty,’ Mark Carney Says the Word Fits Trade Talks",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-08T07:26:30.348383+00:00"
-    },
-    {
       "tweet": "Did you see the shakeup over at Google DeepMind? Demis Hassabis is moving to chair and Jeff Dean is out. At this point the whole building is just changing hands every week",
       "original_url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "buzz_score": 85,
@@ -915,15 +882,15 @@
       "added_at": "2026-08-04T01:06:48.499557+00:00"
     },
     {
-      "tweet": "So apparently Trump’s trying to mess with birthright citizenship again with more executive orders. Like, does he really think that’s gonna stick?",
-      "original_url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
+      "tweet": "Trump’s out here calling Canada nasty now. Man, our trade talks are just vibes at this point.",
+      "original_url": "https://www.nytimes.com/2026/08/06/world/canada/carney-trump-tariffs-trade.html",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Trump again tries to limit US birthright citizenship with new executive orders",
-      "source": "BBC World",
+      "original_title": "After Trump Calls Canadians ‘Nasty,’ Mark Carney Says the Word Fits Trade Talks",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-08-08T07:26:30.348542+00:00"
+      "added_at": "2026-08-08T07:26:30.348383+00:00"
     },
     {
       "tweet": "Lebanon says there's progress on border talks while Israel’s still hitting them with airstrikes. Who’s even keeping track at this point?",
@@ -979,6 +946,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-08-07T03:37:21.433588+00:00"
+    },
+    {
+      "tweet": "So apparently Trump’s trying to mess with birthright citizenship again with more executive orders. Like, does he really think that’s gonna stick?",
+      "original_url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump again tries to limit US birthright citizenship with new executive orders",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-08T07:26:30.348542+00:00"
     },
     {
       "tweet": "Saw this dev talking about fighting scrapers for a year on his site. We really spend all our time building stuff just for bots to steal it.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2783,
+    "total_posted": 2785,
     "total_collected": 13262
   },
-  "last_posted_at": "2026-08-08T08:10:27.211947+00:00"
+  "last_posted_at": "2026-08-08T09:02:35.144282+00:00"
 }
