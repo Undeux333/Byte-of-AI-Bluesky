@@ -882,39 +882,6 @@
       "added_at": "2026-08-04T01:06:48.499557+00:00"
     },
     {
-      "tweet": "So the Senate just confirmed Todd Blanche as AG. Literally just Trump’s personal lawyer running the whole Justice Department now. Wild.",
-      "original_url": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Senate votes to confirm Todd Blanche as attorney general",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-08T09:29:55.085811+00:00"
-    },
-    {
-      "tweet": "The Danube is so low right now that actual Nazi shipwrecks are surfacing. Things are looking pretty grim.",
-      "original_url": "https://www.theguardian.com/environment/2026/aug/08/nazi-shipwrecks-emerge-europe-danube-dries-up-record-heat",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Nazi shipwrecks emerge from the depths as Europe’s Danube dries up",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-08T11:51:08.838527+00:00"
-    },
-    {
-      "tweet": "Perseverance is driving itself around Mars 90 percent of the time now. Imagine having a better commute than us.",
-      "original_url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The first self-driving vehicle on Mars has proven to be a smashing success",
-      "source": "Ars Technica",
-      "category": "tech",
-      "added_at": "2026-08-08T11:51:08.838294+00:00"
-    },
-    {
       "tweet": "Lebanon says there's progress on border talks while Israel’s still hitting them with airstrikes. Who’s even keeping track at this point?",
       "original_url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
       "buzz_score": 80,
@@ -968,6 +935,39 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-08-07T03:37:21.433588+00:00"
+    },
+    {
+      "tweet": "So the Senate just confirmed Todd Blanche as AG. Literally just Trump’s personal lawyer running the whole Justice Department now. Wild.",
+      "original_url": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Senate votes to confirm Todd Blanche as attorney general",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-08T09:29:55.085811+00:00"
+    },
+    {
+      "tweet": "The Danube is so low right now that actual Nazi shipwrecks are surfacing. Things are looking pretty grim.",
+      "original_url": "https://www.theguardian.com/environment/2026/aug/08/nazi-shipwrecks-emerge-europe-danube-dries-up-record-heat",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Nazi shipwrecks emerge from the depths as Europe’s Danube dries up",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-08T11:51:08.838527+00:00"
+    },
+    {
+      "tweet": "Perseverance is driving itself around Mars 90 percent of the time now. Imagine having a better commute than us.",
+      "original_url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+      "source": "Ars Technica",
+      "category": "tech",
+      "added_at": "2026-08-08T11:51:08.838294+00:00"
     },
     {
       "tweet": "WhatsApp finally added a tag-all feature for groups. Finally, a way to actually get everyone’s attention without checking fifty messages.",
