@@ -574,28 +574,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Lebanon says there's progress on border talks while Israel’s still hitting them with airstrikes. Who’s even keeping track at this point?",
-      "original_url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-07T21:21:08.833714+00:00"
-    },
-    {
-      "tweet": "Seoul is doing silent disco pool parties to deal with this heat. Absolute vibes.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "South Koreans beat the heat with ‘silent disco’ pool party",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-07T21:21:08.833712+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -794,6 +772,28 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
+      "tweet": "Lebanon says there's progress on border talks while Israel’s still hitting them with airstrikes. Who’s even keeping track at this point?",
+      "original_url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-07T21:21:08.833714+00:00"
+    },
+    {
+      "tweet": "Seoul is doing silent disco pool parties to deal with this heat. Absolute vibes.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "South Koreans beat the heat with ‘silent disco’ pool party",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-07T21:21:08.833712+00:00"
+    },
+    {
       "tweet": "Did you see the shakeup over at Google DeepMind? Demis Hassabis is moving to chair and Jeff Dean is out. At this point the whole building is just changing hands every week",
       "original_url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "buzz_score": 85,
@@ -926,17 +926,6 @@
       "added_at": "2026-08-08T04:47:18.761937+00:00"
     },
     {
-      "tweet": "So apparently Saudi Arabia, Turkey and Pakistan just signed a defense pact. Like that's gonna go well.",
-      "original_url": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-08T02:35:41.175076+00:00"
-    },
-    {
       "tweet": "Nigerian forces just rescued over 300 people who were abducted. That's a lot of people to lose track of",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/exclusive-report-with-the-308-people-rescued-by-nigerian-forces?traffic_source=rss",
       "buzz_score": 80,
@@ -968,6 +957,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-08-07T03:37:21.433588+00:00"
+    },
+    {
+      "tweet": "So apparently Saudi Arabia, Turkey and Pakistan just signed a defense pact. Like that's gonna go well.",
+      "original_url": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-08T02:35:41.175076+00:00"
     },
     {
       "tweet": "Atletico Madrid is talking to Romero about leaving Tottenham. Another summer, another star just bailing.",
