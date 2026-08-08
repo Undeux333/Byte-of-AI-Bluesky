@@ -574,28 +574,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "YouTube hit Kurzgesagt with a penalty for AI-generated slop, even though they're the ones always warning us about it. You can't make this up, right.",
-      "original_url": "https://kotaku.com/youtube-mistakenly-penalizes-popular-science-channel-kurzgesagt-for-ai-generated-slop-2000722702",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "YouTube Mistakenly Penalizes Popular Science Channel Kurzgesagt For AI-Generated Slop",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-08T18:20:52.816333+00:00"
-    },
-    {
-      "tweet": "So apparently some guy in Kosovo just started throwing eggs at their acting prime minister during a meeting. Absolute chaos.",
-      "original_url": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-08T18:20:52.816328+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -792,6 +770,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "YouTube hit Kurzgesagt with a penalty for AI-generated slop, even though they're the ones always warning us about it. You can't make this up, right.",
+      "original_url": "https://kotaku.com/youtube-mistakenly-penalizes-popular-science-channel-kurzgesagt-for-ai-generated-slop-2000722702",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "YouTube Mistakenly Penalizes Popular Science Channel Kurzgesagt For AI-Generated Slop",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-08T18:20:52.816333+00:00"
+    },
+    {
+      "tweet": "So apparently some guy in Kosovo just started throwing eggs at their acting prime minister during a meeting. Absolute chaos.",
+      "original_url": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-08T18:20:52.816328+00:00"
     },
     {
       "tweet": "Did you see the shakeup over at Google DeepMind? Demis Hassabis is moving to chair and Jeff Dean is out. At this point the whole building is just changing hands every week",
