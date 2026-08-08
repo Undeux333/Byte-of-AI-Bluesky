@@ -2,28 +2,6 @@
   "last_collected": "2026-08-08T09:29:55.087034+00:00",
   "queue": [
     {
-      "tweet": "Saw this list of sounds from 90s road trips. Man, we really spent hours just listening to static and cassette tapes because we didn't have a choice.",
-      "original_url": "https://www.mentalfloss.com/nostalgia/90s/hilariously-relatable-sounds-defined-every-1990s-road-trip?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "7 Hilariously Relatable Sounds That Defined Every 1990s Road Trip",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-08T09:29:55.085822+00:00"
-    },
-    {
-      "tweet": "Nitecore made a power bank that’s super small. I’m so over these bulky chargers that take up half my bag.",
-      "original_url": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Nitecore’s latest power bank is the lightest and most compact yet",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-08-08T09:29:55.086249+00:00"
-    },
-    {
       "tweet": "Argentina’s FA chief is basically saying Messi is the only one who decides when he’s done. Like, who’s actually gonna tell him he has to stop?",
       "original_url": "https://www.aljazeera.com/sports/2026/8/8/argentina-fa-chief-says-messi-is-the-only-one-to-decide-when-he-retires?traffic_source=rss",
       "buzz_score": 75,
@@ -629,17 +607,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "WhatsApp finally added a tag-all feature for groups. Finally, a way to actually get everyone’s attention without checking fifty messages.",
-      "original_url": "https://www.wired.com/story/whatsapp-gets-a-handy-all-feature-for-group-chats/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "WhatsApp Gets a Handy @all Feature for Group Chats",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-08-08T09:29:55.086505+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -838,6 +805,17 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
+      "tweet": "WhatsApp finally added a tag-all feature for groups. Finally, a way to actually get everyone’s attention without checking fifty messages.",
+      "original_url": "https://www.wired.com/story/whatsapp-gets-a-handy-all-feature-for-group-chats/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "WhatsApp Gets a Handy @all Feature for Group Chats",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-08-08T09:29:55.086505+00:00"
+    },
+    {
       "tweet": "Did you see the shakeup over at Google DeepMind? Demis Hassabis is moving to chair and Jeff Dean is out. At this point the whole building is just changing hands every week",
       "original_url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "buzz_score": 85,
@@ -948,17 +926,6 @@
       "added_at": "2026-08-04T01:06:48.499557+00:00"
     },
     {
-      "tweet": "Trump’s out here calling Canada nasty now. Man, our trade talks are just vibes at this point.",
-      "original_url": "https://www.nytimes.com/2026/08/06/world/canada/carney-trump-tariffs-trade.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "After Trump Calls Canadians ‘Nasty,’ Mark Carney Says the Word Fits Trade Talks",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-08T07:26:30.348383+00:00"
-    },
-    {
       "tweet": "Lebanon says there's progress on border talks while Israel’s still hitting them with airstrikes. Who’s even keeping track at this point?",
       "original_url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
       "buzz_score": 80,
@@ -1012,6 +979,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-08-07T03:37:21.433588+00:00"
+    },
+    {
+      "tweet": "Trump’s out here calling Canada nasty now. Man, our trade talks are just vibes at this point.",
+      "original_url": "https://www.nytimes.com/2026/08/06/world/canada/carney-trump-tariffs-trade.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "After Trump Calls Canadians ‘Nasty,’ Mark Carney Says the Word Fits Trade Talks",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-08T07:26:30.348383+00:00"
     },
     {
       "tweet": "Apparently we use words from the Middle Ages every single day without knowing it. Sometimes you just repeat stuff you heard your whole life.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2787,
+    "total_posted": 2789,
     "total_collected": 13277
   },
-  "last_posted_at": "2026-08-08T09:38:38.793978+00:00"
+  "last_posted_at": "2026-08-08T10:10:06.191699+00:00"
 }
