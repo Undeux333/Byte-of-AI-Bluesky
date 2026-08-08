@@ -2,28 +2,6 @@
   "last_collected": "2026-08-08T07:26:30.350238+00:00",
   "queue": [
     {
-      "tweet": "Reading about life as a WAG during the transfer window. The amount of stress just to pack up and move to a new city on a day's notice is insane.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Life as a Wag in the transfer window",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-08T07:26:30.349464+00:00"
-    },
-    {
-      "tweet": "Seeing all these reports on the health burden of wildfire smoke. We're gonna be breathing trash air forever, aren't we.",
-      "original_url": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-08T07:26:30.349190+00:00"
-    },
-    {
       "tweet": "Bro, NASA just figured out how to keep Voyager 2 running for another year. The thing is literally in deep space and they're still remote-patching it. Absolute legend.",
       "original_url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
       "buzz_score": 75,
@@ -618,17 +596,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Trump’s out here calling Canada nasty now. Man, our trade talks are just vibes at this point.",
-      "original_url": "https://www.nytimes.com/2026/08/06/world/canada/carney-trump-tariffs-trade.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "After Trump Calls Canadians ‘Nasty,’ Mark Carney Says the Word Fits Trade Talks",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-08T07:26:30.348383+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -825,6 +792,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "Trump’s out here calling Canada nasty now. Man, our trade talks are just vibes at this point.",
+      "original_url": "https://www.nytimes.com/2026/08/06/world/canada/carney-trump-tariffs-trade.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "After Trump Calls Canadians ‘Nasty,’ Mark Carney Says the Word Fits Trade Talks",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-08T07:26:30.348383+00:00"
     },
     {
       "tweet": "Did you see the shakeup over at Google DeepMind? Demis Hassabis is moving to chair and Jeff Dean is out. At this point the whole building is just changing hands every week",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2781,
+    "total_posted": 2783,
     "total_collected": 13262
   },
-  "last_posted_at": "2026-08-08T07:35:49.262699+00:00"
+  "last_posted_at": "2026-08-08T08:10:27.211947+00:00"
 }
