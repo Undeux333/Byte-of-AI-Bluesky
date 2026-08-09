@@ -2,17 +2,6 @@
   "last_collected": "2026-08-09T18:58:38.540409+00:00",
   "queue": [
     {
-      "tweet": "That Brazilian club put a fan's name on their jerseys to help with his disease. It's cool seeing sports actually do something for once.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c1m1j8l11ego?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Brazilian top-flight club wear name of English fan with MND on shirts",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-09T16:20:50.711951+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -44,6 +33,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "That Brazilian club put a fan's name on their jerseys to help with his disease. It's cool seeing sports actually do something for once.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/c1m1j8l11ego?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Brazilian top-flight club wear name of English fan with MND on shirts",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-09T16:20:50.711951+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -816,17 +816,6 @@
       "added_at": "2026-08-09T11:52:40.328302+00:00"
     },
     {
-      "tweet": "Raul Fernandez crushed it at Silverstone today. Twelve different winners in a row, nobody has a clue who's winning next.",
-      "original_url": "https://www.aljazeera.com/sports/2026/8/9/british-motogp-raul-fernandez-dominates-at-silverstone-to-beat-martin?traffic_source=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "British MotoGP: Raul Fernandez dominates at Silverstone to beat Martin",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-09T14:05:24.052348+00:00"
-    },
-    {
       "tweet": "Did you see the shakeup over at Google DeepMind? Demis Hassabis is moving to chair and Jeff Dean is out. At this point the whole building is just changing hands every week",
       "original_url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "buzz_score": 85,
@@ -937,15 +926,15 @@
       "added_at": "2026-08-04T01:06:48.499557+00:00"
     },
     {
-      "tweet": "Jannik Sinner dropped out of Cincinnati with a knee injury. My knees feel like that just getting out of bed in the morning, honestly.",
-      "original_url": "https://www.aljazeera.com/sports/2026/8/9/jannik-sinner-withdraws-from-cincinnati-open-with-knee-injury?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
+      "tweet": "Raul Fernandez crushed it at Silverstone today. Twelve different winners in a row, nobody has a clue who's winning next.",
+      "original_url": "https://www.aljazeera.com/sports/2026/8/9/british-motogp-raul-fernandez-dominates-at-silverstone-to-beat-martin?traffic_source=rss",
+      "buzz_score": 70,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Jannik Sinner withdraws from Cincinnati Open with knee injury",
+      "original_title": "British MotoGP: Raul Fernandez dominates at Silverstone to beat Martin",
       "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-08-09T18:58:38.539629+00:00"
+      "added_at": "2026-08-09T14:05:24.052348+00:00"
     },
     {
       "tweet": "Lebanon says there's progress on border talks while Israel’s still hitting them with airstrikes. Who’s even keeping track at this point?",
@@ -979,6 +968,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-08-07T03:37:21.435190+00:00"
+    },
+    {
+      "tweet": "Jannik Sinner dropped out of Cincinnati with a knee injury. My knees feel like that just getting out of bed in the morning, honestly.",
+      "original_url": "https://www.aljazeera.com/sports/2026/8/9/jannik-sinner-withdraws-from-cincinnati-open-with-knee-injury?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Jannik Sinner withdraws from Cincinnati Open with knee injury",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-09T18:58:38.539629+00:00"
     },
     {
       "tweet": "Reading this article on how to make your place look expensive for 30 bucks. We really love pretending we aren't all just buying the same stuff on Amazon.",
