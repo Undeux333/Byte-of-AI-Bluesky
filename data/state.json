@@ -2,28 +2,6 @@
   "last_collected": "2026-08-09T04:56:07.174430+00:00",
   "queue": [
     {
-      "tweet": "The Women's Professional Baseball League just started playing. It’s about time they got a real league going.",
-      "original_url": "https://www.npr.org/sections/the-picture-show/2026/08/08/nx-s1-5923371/womens-professional-baseball-league-debut",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Women's Professional Baseball League makes its historic debut",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-09T04:56:07.173738+00:00"
-    },
-    {
-      "tweet": "Did you see that Fuerza Regida show at Citi Field? They brought out 50 Cent and J Balvin for the finale. That’s just showing off at this point.",
-      "original_url": "https://www.rollingstone.com/music/music-latin/fuerza-regida-final-show-this-is-our-dream-tour-1235605952/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fuerza Regida Ends Historic Stadium Tour With Star-Studded NYC Closer",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-08-09T02:26:25.885676+00:00"
-    },
-    {
       "tweet": "So apparently Taiwan is betting on a drone hellscape to stop an invasion. We’re really just playing real life Call of Duty now.",
       "original_url": "https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html",
       "buzz_score": 88,
@@ -33,17 +11,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-08-09T04:56:07.173348+00:00"
-    },
-    {
-      "tweet": "Did you know Switzerland has more nuclear bunkers than any country on earth. They’re really ready for the end.",
-      "original_url": "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers",
-      "buzz_score": 78,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-09T04:56:07.173648+00:00"
     },
     {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
@@ -77,6 +44,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Did you know Switzerland has more nuclear bunkers than any country on earth. They’re really ready for the end.",
+      "original_url": "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers",
+      "buzz_score": 78,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-09T04:56:07.173648+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -816,17 +794,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Saw a map on where young people can actually afford houses. Why is it that the only places we can buy are in the middle of nowhere.",
-      "original_url": "https://www.mentalfloss.com/geography/states/states-where-young-people-most-likely-own-homes?utm_source=RSS",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The States Where Young People Have the Best Shot at Owning Homes, Mapped",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-09T04:56:07.173560+00:00"
-    },
-    {
       "tweet": "Did you see the shakeup over at Google DeepMind? Demis Hassabis is moving to chair and Jeff Dean is out. At this point the whole building is just changing hands every week",
       "original_url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "buzz_score": 85,
@@ -935,6 +902,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-08-04T01:06:48.499557+00:00"
+    },
+    {
+      "tweet": "Saw a map on where young people can actually afford houses. Why is it that the only places we can buy are in the middle of nowhere.",
+      "original_url": "https://www.mentalfloss.com/geography/states/states-where-young-people-most-likely-own-homes?utm_source=RSS",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The States Where Young People Have the Best Shot at Owning Homes, Mapped",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-08-09T04:56:07.173560+00:00"
     },
     {
       "tweet": "Lebanon says there's progress on border talks while Israel’s still hitting them with airstrikes. Who’s even keeping track at this point?",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2820,
+    "total_posted": 2822,
     "total_collected": 13392
   },
-  "last_posted_at": "2026-08-09T05:04:52.829972+00:00"
+  "last_posted_at": "2026-08-09T05:46:17.912557+00:00"
 }
