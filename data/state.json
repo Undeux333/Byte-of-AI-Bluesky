@@ -2,28 +2,6 @@
   "last_collected": "2026-08-09T11:52:40.329478+00:00",
   "queue": [
     {
-      "tweet": "Apparently Americans ruminate on negative stuff way more than people in Japan. Yeah, that tracks.",
-      "original_url": "https://www.psypost.org/psychology-research-suggests-a-common-response-to-negative-emotions-is-worse-for-you-in-certain-countries/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Psychology research suggests a common response to negative emotions is worse for you in certain countries",
-      "source": "PsyPost",
-      "category": "psychology",
-      "added_at": "2026-08-09T11:52:40.329290+00:00"
-    },
-    {
-      "tweet": "Trump is hosting a kid's dodgeball tournament called the Patriot Games. I can't even make this stuff up.",
-      "original_url": "https://www.rollingstone.com/product-recommendations/streaming/where-to-watch-the-2026-patriot-games-online-for-free-donald-trump-1235605381/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Where to Watch the 2026 Patriot Games Online for Free Without Cable",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-08-09T11:52:40.329198+00:00"
-    },
-    {
       "tweet": "So DiJonai Carrington got ejected and immediately hopped on social media to post about white privilege. We're really doing this.",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/cd0x3dye57ko?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -651,17 +629,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Baldur's Gate 3 has like twelve new ways to play it now. I'm already deep in another run, I can't help it.",
-      "original_url": "https://www.polygon.com/12-new-bg3-replay-ideas/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Baldur's Gate 3 Feels Like a Brand-New Experience With These 12 Replay Ideas",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-09T11:52:40.328735+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -858,6 +825,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "Baldur's Gate 3 has like twelve new ways to play it now. I'm already deep in another run, I can't help it.",
+      "original_url": "https://www.polygon.com/12-new-bg3-replay-ideas/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Baldur's Gate 3 Feels Like a Brand-New Experience With These 12 Replay Ideas",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-09T11:52:40.328735+00:00"
     },
     {
       "tweet": "Did you see the shakeup over at Google DeepMind? Demis Hassabis is moving to chair and Jeff Dean is out. At this point the whole building is just changing hands every week",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2831,
+    "total_posted": 2833,
     "total_collected": 13434
   },
-  "last_posted_at": "2026-08-09T12:00:17.261279+00:00"
+  "last_posted_at": "2026-08-09T12:33:12.111793+00:00"
 }
