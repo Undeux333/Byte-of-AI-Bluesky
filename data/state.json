@@ -772,17 +772,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Looks like The Witcher season 5 is pushed to 2027 now. Netflix really just loves dragging it out.",
-      "original_url": "https://www.polygon.com/the-witcher-season-5-has-been-quietly-delayed/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The Witcher season 5 delayed on Netflix, new report says",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-08T22:44:16.453212+00:00"
-    },
-    {
       "tweet": "Did you see the shakeup over at Google DeepMind? Demis Hassabis is moving to chair and Jeff Dean is out. At this point the whole building is just changing hands every week",
       "original_url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "buzz_score": 85,
@@ -893,37 +882,15 @@
       "added_at": "2026-08-04T01:06:48.499557+00:00"
     },
     {
-      "tweet": "Big car bomb attack in Colombia right after the inauguration. That whole region is just volatile right now.",
-      "original_url": "https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss",
-      "buzz_score": 80,
+      "tweet": "Looks like The Witcher season 5 is pushed to 2027 now. Netflix really just loves dragging it out.",
+      "original_url": "https://www.polygon.com/the-witcher-season-5-has-been-quietly-delayed/",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Car bomb attack rattles Colombia after inauguration of hardline president",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-08T22:44:16.454165+00:00"
-    },
-    {
-      "tweet": "The Abbott Elementary cast is speaking up about the Paramount-Warner Bros. merger. At this point we're just waiting for every studio to become one giant mess.",
-      "original_url": "https://variety.com/2026/scene/news/abbott-elementary-sheryl-lee-ralph-janelle-james-paramount-1236830682/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
-      "source": "Variety",
+      "original_title": "The Witcher season 5 delayed on Netflix, new report says",
+      "source": "Polygon",
       "category": "entertainment",
-      "added_at": "2026-08-08T22:44:16.453372+00:00"
-    },
-    {
-      "tweet": "Iran is demanding the US correct its behavior before they reopen the Strait of Hormuz. Like, are we just doing whatever now?",
-      "original_url": "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran issues tough demands to reopen strait of Hormuz as deal still out of reach",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-08T22:44:16.453210+00:00"
+      "added_at": "2026-08-08T22:44:16.453212+00:00"
     },
     {
       "tweet": "Lebanon says there's progress on border talks while Israel’s still hitting them with airstrikes. Who’s even keeping track at this point?",
@@ -979,6 +946,39 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-08-07T03:37:21.433588+00:00"
+    },
+    {
+      "tweet": "Big car bomb attack in Colombia right after the inauguration. That whole region is just volatile right now.",
+      "original_url": "https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Car bomb attack rattles Colombia after inauguration of hardline president",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-08T22:44:16.454165+00:00"
+    },
+    {
+      "tweet": "The Abbott Elementary cast is speaking up about the Paramount-Warner Bros. merger. At this point we're just waiting for every studio to become one giant mess.",
+      "original_url": "https://variety.com/2026/scene/news/abbott-elementary-sheryl-lee-ralph-janelle-james-paramount-1236830682/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-08-08T22:44:16.453372+00:00"
+    },
+    {
+      "tweet": "Iran is demanding the US correct its behavior before they reopen the Strait of Hormuz. Like, are we just doing whatever now?",
+      "original_url": "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iran issues tough demands to reopen strait of Hormuz as deal still out of reach",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-08T22:44:16.453210+00:00"
     },
     {
       "tweet": "Came across some clothing hacks that are actually supposed to fix my wardrobe issues. Maybe I don't need a whole new closet after all.",
