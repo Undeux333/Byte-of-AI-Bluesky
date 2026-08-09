@@ -2,28 +2,6 @@
   "last_collected": "2026-08-09T14:05:24.053328+00:00",
   "queue": [
     {
-      "tweet": "They're calling it the 'Green Rafah' plan but everyone knows it's just a land grab. The PR spin is honestly embarrassing.",
-      "original_url": "https://www.aljazeera.com/news/2026/8/9/israels-green-rafah-plan-aims-to-fragment-gaza-experts-say?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Israel’s ‘Green Rafah’ plan aims to fragment Gaza, experts say",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-09T14:05:24.052953+00:00"
-    },
-    {
-      "tweet": "Just read about the dude who survived both Hiroshima and Nagasaki. Talk about the worst luck in human history.",
-      "original_url": "https://www.mentalfloss.com/history/man-who-survived-hiroshima-and-nagasaki?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Man Who Survived Both Hiroshima and Nagasaki",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-09T14:05:24.052663+00:00"
-    },
-    {
       "tweet": "Did you see what OpenAI accidentally did to Hugging Face? They basically tried to auto-patch a vulnerability and ended up attacking them instead. Tech is cooked.",
       "original_url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
       "buzz_score": 85,
@@ -992,17 +970,6 @@
       "added_at": "2026-08-04T01:06:48.499557+00:00"
     },
     {
-      "tweet": "Baldur's Gate 3 has like twelve new ways to play it now. I'm already deep in another run, I can't help it.",
-      "original_url": "https://www.polygon.com/12-new-bg3-replay-ideas/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Baldur's Gate 3 Feels Like a Brand-New Experience With These 12 Replay Ideas",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-09T11:52:40.328735+00:00"
-    },
-    {
       "tweet": "Lebanon says there's progress on border talks while Israel’s still hitting them with airstrikes. Who’s even keeping track at this point?",
       "original_url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
       "buzz_score": 80,
@@ -1034,6 +1001,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-08-07T03:37:21.435190+00:00"
+    },
+    {
+      "tweet": "Baldur's Gate 3 has like twelve new ways to play it now. I'm already deep in another run, I can't help it.",
+      "original_url": "https://www.polygon.com/12-new-bg3-replay-ideas/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Baldur's Gate 3 Feels Like a Brand-New Experience With These 12 Replay Ideas",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-09T11:52:40.328735+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2837,
+    "total_posted": 2839,
     "total_collected": 13450
   },
-  "last_posted_at": "2026-08-09T14:14:43.029138+00:00"
+  "last_posted_at": "2026-08-09T14:57:38.646667+00:00"
 }
