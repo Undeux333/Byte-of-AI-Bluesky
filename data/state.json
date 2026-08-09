@@ -2,28 +2,6 @@
   "last_collected": "2026-08-09T16:20:50.712157+00:00",
   "queue": [
     {
-      "tweet": "Dude, people on HackerNews are actually arguing that code isn't the hard part of software. Like, cool, I guess I'll just ship my thoughts to the server then.",
-      "original_url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "“Code was never the hard part” is an insult to all programmers",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-09T16:20:50.711286+00:00"
-    },
-    {
-      "tweet": "Some guy died in that Melbourne detention center and now China’s acting shocked. They hired a US prison giant to run it, what did they think would happen.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/10/woman-who-took-her-own-life-in-melbourne-detention-centre-was-known-suicide-risk-documents-reveal-ntwnfb",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "China expresses ‘grave concern’ as internal documents reveal suicide warning before death in Melbourne immigration detention",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-09T16:20:50.711298+00:00"
-    },
-    {
       "tweet": "They're finally charging people for that assassination in Ecuador. Took them long enough.",
       "original_url": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2845,
+    "total_posted": 2847,
     "total_collected": 13466
   },
-  "last_posted_at": "2026-08-09T16:26:22.522854+00:00"
+  "last_posted_at": "2026-08-09T17:09:43.308082+00:00"
 }
