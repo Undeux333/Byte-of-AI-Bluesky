@@ -2,28 +2,6 @@
   "last_collected": "2026-08-09T11:52:40.329478+00:00",
   "queue": [
     {
-      "tweet": "So DiJonai Carrington got ejected and immediately hopped on social media to post about white privilege. We're really doing this.",
-      "original_url": "https://www.bbc.co.uk/sport/basketball/articles/cd0x3dye57ko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Carrington makes 'white privilege' post after ejection",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-09T11:52:40.328300+00:00"
-    },
-    {
-      "tweet": "Did you see that DeepSeek V4 flash thing? It's literally just spitting out code now like it's nothing. Wild.",
-      "original_url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "DeepSeek V4 Flash 0731",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-09T11:52:40.328290+00:00"
-    },
-    {
       "tweet": "Trying to figure out who gets my digital passwords after I die is a nightmare. I guess I'm just leaving my browsing history as a final prank.",
       "original_url": "https://www.wired.com/story/digital-estate-planning-tips/",
       "buzz_score": 80,
@@ -827,17 +805,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Baldur's Gate 3 has like twelve new ways to play it now. I'm already deep in another run, I can't help it.",
-      "original_url": "https://www.polygon.com/12-new-bg3-replay-ideas/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Baldur's Gate 3 Feels Like a Brand-New Experience With These 12 Replay Ideas",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-09T11:52:40.328735+00:00"
-    },
-    {
       "tweet": "Did you see the shakeup over at Google DeepMind? Demis Hassabis is moving to chair and Jeff Dean is out. At this point the whole building is just changing hands every week",
       "original_url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "buzz_score": 85,
@@ -948,15 +915,15 @@
       "added_at": "2026-08-04T01:06:48.499557+00:00"
     },
     {
-      "tweet": "This Bald Range wildfire is just eating British Columbia right now. It literally doubled in size overnight. Rough.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
+      "tweet": "Baldur's Gate 3 has like twelve new ways to play it now. I'm already deep in another run, I can't help it.",
+      "original_url": "https://www.polygon.com/12-new-bg3-replay-ideas/",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-09T11:52:40.328298+00:00"
+      "original_title": "Baldur's Gate 3 Feels Like a Brand-New Experience With These 12 Replay Ideas",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-09T11:52:40.328735+00:00"
     },
     {
       "tweet": "Lebanon says there's progress on border talks while Israel’s still hitting them with airstrikes. Who’s even keeping track at this point?",
@@ -1012,6 +979,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-08-07T03:37:21.433588+00:00"
+    },
+    {
+      "tweet": "This Bald Range wildfire is just eating British Columbia right now. It literally doubled in size overnight. Rough.",
+      "original_url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-09T11:52:40.328298+00:00"
     }
   ],
   "seen_urls": [
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2833,
+    "total_posted": 2835,
     "total_collected": 13434
   },
-  "last_posted_at": "2026-08-09T12:33:12.111793+00:00"
+  "last_posted_at": "2026-08-09T13:37:03.366615+00:00"
 }
