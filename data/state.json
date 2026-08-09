@@ -871,17 +871,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "That Brazilian club put a fan's name on their jerseys to help with his disease. It's cool seeing sports actually do something for once.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c1m1j8l11ego?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Brazilian top-flight club wear name of English fan with MND on shirts",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-09T16:20:50.711951+00:00"
-    },
-    {
       "tweet": "Did you see the shakeup over at Google DeepMind? Demis Hassabis is moving to chair and Jeff Dean is out. At this point the whole building is just changing hands every week",
       "original_url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "buzz_score": 85,
@@ -990,6 +979,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-08-04T01:06:48.499557+00:00"
+    },
+    {
+      "tweet": "That Brazilian club put a fan's name on their jerseys to help with his disease. It's cool seeing sports actually do something for once.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/c1m1j8l11ego?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Brazilian top-flight club wear name of English fan with MND on shirts",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-09T16:20:50.711951+00:00"
     },
     {
       "tweet": "Trying to figure out who gets my digital passwords after I die is a nightmare. I guess I'm just leaving my browsing history as a final prank.",
