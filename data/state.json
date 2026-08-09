@@ -2,17 +2,6 @@
   "last_collected": "2026-08-09T04:56:07.174430+00:00",
   "queue": [
     {
-      "tweet": "So apparently Taiwan is betting on a drone hellscape to stop an invasion. We’re really just playing real life Call of Duty now.",
-      "original_url": "https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-09T04:56:07.173348+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -46,17 +35,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Did you know Switzerland has more nuclear bunkers than any country on earth. They’re really ready for the end.",
-      "original_url": "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers",
-      "buzz_score": 78,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-09T04:56:07.173648+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -66,6 +44,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Did you know Switzerland has more nuclear bunkers than any country on earth. They’re really ready for the end.",
+      "original_url": "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers",
+      "buzz_score": 78,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-09T04:56:07.173648+00:00"
     },
     {
       "tweet": "Hold on, three teenagers had to get rescued by a helicopter after trying to hike with Google Maps. At this point we're just allergic to paper trails.",
@@ -2018,8 +2007,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2822,
+    "total_posted": 2823,
     "total_collected": 13392
   },
-  "last_posted_at": "2026-08-09T05:46:17.912557+00:00"
+  "last_posted_at": "2026-08-09T06:26:34.417715+00:00"
 }
