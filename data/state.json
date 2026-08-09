@@ -2,28 +2,6 @@
   "last_collected": "2026-08-09T18:58:38.540409+00:00",
   "queue": [
     {
-      "tweet": "The Odyssey just hit a billion bucks and passed The Dark Knight Rises for Nolan. He’s never gonna stop making these movies now.",
-      "original_url": "https://www.polygon.com/the-odyssey-christopher-nolan-highest-grossing-film/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Odyssey passes The Dark Knight Rises to become Nolan’s highest-grossing film ever",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-09T18:58:38.539953+00:00"
-    },
-    {
-      "tweet": "You have to open the Epic Games Store just to make Marvel Tōkon run on PC? That’s not a fix, that’s a hostage situation.",
-      "original_url": "https://kotaku.com/no-one-can-agree-if-this-desperate-workaround-for-fixing-marvel-tokon-on-pc-actually-helps-2000722806",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "No One Can Agree If This Desperate Workaround For Fixing Marvel Tōkon On PC Actually Helps",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-09T18:58:38.539805+00:00"
-    },
-    {
       "tweet": "That Brazilian club put a fan's name on their jerseys to help with his disease. It's cool seeing sports actually do something for once.",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/c1m1j8l11ego?at_medium=RSS&at_campaign=rss",
       "buzz_score": 70,
@@ -618,39 +596,6 @@
       "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
-      "tweet": "Trying to figure out who gets my digital passwords after I die is a nightmare. I guess I'm just leaving my browsing history as a final prank.",
-      "original_url": "https://www.wired.com/story/digital-estate-planning-tips/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Complicated Case of Passing On Your Digital Estate",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-08-09T11:52:40.329013+00:00"
-    },
-    {
-      "tweet": "That Robert Downey Jr. thriller is back on free streaming. We’re gonna be busy all weekend.",
-      "original_url": "https://www.polygon.com/robert-downey-crime-thriller-free-streaming-tubi/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Robert Downey Jr.'s 157-Minute Crime-Thriller Masterpiece Is Officially Back on Free Streaming",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-09T11:52:40.328829+00:00"
-    },
-    {
-      "tweet": "Judd Trump just got knocked out in the first round of the China Open. That is not how that was supposed to go.",
-      "original_url": "https://www.bbc.co.uk/sport/snooker/articles/cly81lwjvd4o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump suffers first-round defeat at China Open",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-09T11:52:40.328302+00:00"
-    },
-    {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
       "original_url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
       "buzz_score": 88,
@@ -836,6 +781,39 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "Trying to figure out who gets my digital passwords after I die is a nightmare. I guess I'm just leaving my browsing history as a final prank.",
+      "original_url": "https://www.wired.com/story/digital-estate-planning-tips/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Complicated Case of Passing On Your Digital Estate",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-08-09T11:52:40.329013+00:00"
+    },
+    {
+      "tweet": "That Robert Downey Jr. thriller is back on free streaming. We’re gonna be busy all weekend.",
+      "original_url": "https://www.polygon.com/robert-downey-crime-thriller-free-streaming-tubi/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Robert Downey Jr.'s 157-Minute Crime-Thriller Masterpiece Is Officially Back on Free Streaming",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-09T11:52:40.328829+00:00"
+    },
+    {
+      "tweet": "Judd Trump just got knocked out in the first round of the China Open. That is not how that was supposed to go.",
+      "original_url": "https://www.bbc.co.uk/sport/snooker/articles/cly81lwjvd4o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Trump suffers first-round defeat at China Open",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-09T11:52:40.328302+00:00"
     },
     {
       "tweet": "Raul Fernandez crushed it at Silverstone today. Twelve different winners in a row, nobody has a clue who's winning next.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2853,
+    "total_posted": 2855,
     "total_collected": 13477
   },
-  "last_posted_at": "2026-08-09T19:38:55.674456+00:00"
+  "last_posted_at": "2026-08-09T20:04:54.470035+00:00"
 }
