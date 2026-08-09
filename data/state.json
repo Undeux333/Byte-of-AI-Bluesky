@@ -772,17 +772,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Dude, a gardener in Sydney got fined 200 grand just to clear some trees for a better view. That is one expensive window.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/09/trees-vandalism-lane-cove-council-sydney-gardener-fined-court-longueville-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sydney gardener fined almost $200,000 for removing 287 trees to improve harbourside mansion’s water views",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-09T07:30:21.300016+00:00"
-    },
-    {
       "tweet": "Did you see the shakeup over at Google DeepMind? Demis Hassabis is moving to chair and Jeff Dean is out. At this point the whole building is just changing hands every week",
       "original_url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "buzz_score": 85,
@@ -891,6 +880,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-08-04T01:06:48.499557+00:00"
+    },
+    {
+      "tweet": "Dude, a gardener in Sydney got fined 200 grand just to clear some trees for a better view. That is one expensive window.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/09/trees-vandalism-lane-cove-council-sydney-gardener-fined-court-longueville-ntwnfb",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sydney gardener fined almost $200,000 for removing 287 trees to improve harbourside mansion’s water views",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-09T07:30:21.300016+00:00"
     },
     {
       "tweet": "Did you know Switzerland has more nuclear bunkers than any country on earth. They’re really ready for the end.",
