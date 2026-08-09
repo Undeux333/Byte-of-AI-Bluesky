@@ -2,28 +2,6 @@
   "last_collected": "2026-08-09T02:26:25.886925+00:00",
   "queue": [
     {
-      "tweet": "Bro, a physicist actually rigged his hamster's wheel to upload data to Strava. Imagine checking your feed and seeing your pet is faster than you. Absolute menace.",
-      "original_url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "A physicist rigged his pet hamster’s wheel to upload to Strava",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-09T02:26:25.885668+00:00"
-    },
-    {
-      "tweet": "Saw this list of sounds that defined 90s road trips and I could literally hear the cassette tape clicking in my head. We’re officially old, man.",
-      "original_url": "https://www.mentalfloss.com/nostalgia/90s/hilariously-relatable-sounds-defined-every-1990s-road-trip?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "7 Hilariously Relatable Sounds That Defined Every 1990s Road Trip",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-09T02:26:25.885990+00:00"
-    },
-    {
       "tweet": "Did you see that Fuerza Regida show at Citi Field? They brought out 50 Cent and J Balvin for the finale. That’s just showing off at this point.",
       "original_url": "https://www.rollingstone.com/music/music-latin/fuerza-regida-final-show-this-is-our-dream-tour-1235605952/",
       "buzz_score": 80,
@@ -915,17 +893,6 @@
       "added_at": "2026-08-04T01:06:48.499557+00:00"
     },
     {
-      "tweet": "They're trying to fix the NDIS in Australia but people feel like the government is targeting the clients instead of the fraudsters. Classic.",
-      "original_url": "https://www.theguardian.com/australia-news/live/2026/aug/09/bird-flu-updates-politics-reactions-sarah-hanson-young-insiders-ntwnfb",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Australia news live: Tim Wilson says Labor’s NDIS reforms make disability clients ‘feel like they’re being targeted, not the fraudsters’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-09T02:26:25.886270+00:00"
-    },
-    {
       "tweet": "Lebanon says there's progress on border talks while Israel’s still hitting them with airstrikes. Who’s even keeping track at this point?",
       "original_url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
       "buzz_score": 80,
@@ -979,6 +946,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-08-07T03:37:21.433588+00:00"
+    },
+    {
+      "tweet": "They're trying to fix the NDIS in Australia but people feel like the government is targeting the clients instead of the fraudsters. Classic.",
+      "original_url": "https://www.theguardian.com/australia-news/live/2026/aug/09/bird-flu-updates-politics-reactions-sarah-hanson-young-insiders-ntwnfb",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Australia news live: Tim Wilson says Labor’s NDIS reforms make disability clients ‘feel like they’re being targeted, not the fraudsters’",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-09T02:26:25.886270+00:00"
     },
     {
       "tweet": "People are still arguing about those five anime endings from years ago. Why can't we just let a bad finale die in peace?",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2816,
+    "total_posted": 2818,
     "total_collected": 13376
   },
-  "last_posted_at": "2026-08-09T02:35:11.634835+00:00"
+  "last_posted_at": "2026-08-09T04:04:40.838768+00:00"
 }
