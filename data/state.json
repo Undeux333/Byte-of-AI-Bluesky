@@ -2,28 +2,6 @@
   "last_collected": "2026-08-09T09:37:33.083814+00:00",
   "queue": [
     {
-      "tweet": "These AI barons are talking about giving away their fortunes now. It’s like they know it’s blood money and they're trying to clear their conscience.",
-      "original_url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "These AI Barons Are Ready to Give Away Their Fortunes",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-08-09T09:37:33.083104+00:00"
-    },
-    {
-      "tweet": "Dude, beavers are actually moving into the Arctic now. They’re just out here colonizing the tundra like it's nothing. Nature's crazy, man.",
-      "original_url": "https://www.nytimes.com/2026/08/09/world/canada/arctic-beavers-canada-climate-umiujaq-quebec.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "As the Climate Warms, Beavers are Coming for Canada’s Arctic",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-09T09:37:33.082740+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -926,17 +904,6 @@
       "added_at": "2026-08-09T09:37:33.082749+00:00"
     },
     {
-      "tweet": "Dude, a gardener in Sydney got fined 200 grand just to clear some trees for a better view. That is one expensive window.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/09/trees-vandalism-lane-cove-council-sydney-gardener-fined-court-longueville-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sydney gardener fined almost $200,000 for removing 287 trees to improve harbourside mansion’s water views",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-09T07:30:21.300016+00:00"
-    },
-    {
       "tweet": "Lebanon says there's progress on border talks while Israel’s still hitting them with airstrikes. Who’s even keeping track at this point?",
       "original_url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
       "buzz_score": 80,
@@ -990,6 +957,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-08-07T03:37:21.433588+00:00"
+    },
+    {
+      "tweet": "Dude, a gardener in Sydney got fined 200 grand just to clear some trees for a better view. That is one expensive window.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/09/trees-vandalism-lane-cove-council-sydney-gardener-fined-court-longueville-ntwnfb",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sydney gardener fined almost $200,000 for removing 287 trees to improve harbourside mansion’s water views",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-09T07:30:21.300016+00:00"
     },
     {
       "tweet": "Man, Typhoon Dolphin just wrecked Okinawa. It hit with 44,000 power cuts and now it's heading for China. That's a rough week.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2827,
+    "total_posted": 2829,
     "total_collected": 13418
   },
-  "last_posted_at": "2026-08-09T09:46:24.672138+00:00"
+  "last_posted_at": "2026-08-09T10:15:25.618043+00:00"
 }
