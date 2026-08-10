@@ -2,50 +2,6 @@
   "last_collected": "2026-08-10T09:45:11.102185+00:00",
   "queue": [
     {
-      "tweet": "Dude, Claude Code just made auto mode the default. We're basically just watching the AI do the work now and hoping it doesn't break the whole codebase.",
-      "original_url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Auto mode is now the default in Claude Code",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-10T09:45:11.100679+00:00"
-    },
-    {
-      "tweet": "Man, watching people just stand there while their homes in Lebanon get demolished is rough. At this point, I don't even know.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/anguished-locals-watch-as-israel-demolishes-homes-in-southern-lebanon?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Anguished locals watch as Israel demolishes homes in southern Lebanon",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-10T09:45:11.101211+00:00"
-    },
-    {
-      "tweet": "Reading about these travel superstitions and realized I definitely do half of them without thinking. We're all just weirdly neurotic",
-      "original_url": "https://www.mentalfloss.com/culture/strange-travel-superstitions?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "8 Strange Travel Superstitions People Around the World Still Swear By",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-10T06:05:46.895694+00:00"
-    },
-    {
-      "tweet": "They're using old people's eye exam tech to keep astronauts from going blind in space. We're literally just hacking life now",
-      "original_url": "https://www.wired.com/story/space-agencies-trying-stop-astronauts-losing-sight/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Space Agencies Are Trying to Keep Astronauts From Losing Their Sight",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-08-10T06:05:46.895045+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -77,6 +33,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Reading about these travel superstitions and realized I definitely do half of them without thinking. We're all just weirdly neurotic",
+      "original_url": "https://www.mentalfloss.com/culture/strange-travel-superstitions?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "8 Strange Travel Superstitions People Around the World Still Swear By",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-08-10T06:05:46.895694+00:00"
+    },
+    {
+      "tweet": "They're using old people's eye exam tech to keep astronauts from going blind in space. We're literally just hacking life now",
+      "original_url": "https://www.wired.com/story/space-agencies-trying-stop-astronauts-losing-sight/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Space Agencies Are Trying to Keep Astronauts From Losing Their Sight",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-08-10T06:05:46.895045+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -816,17 +794,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "The Liberals are promising weekly bin collections because fortnightly is disgusting. We've all been saying that for years.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/10/victoria-weekly-red-bin-collection-rubbish-waste-liberal-party-promise",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Victorian Liberals promise weekly red bin garbage collections for all, calling fortnightly system ‘disgusting’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-10T09:45:11.101349+00:00"
-    },
-    {
       "tweet": "Bro, people are literally running entire servers off their old phones now. We're just living in the future, man.",
       "original_url": "https://seg6.space/posts/phone-server/",
       "buzz_score": 85,
@@ -946,6 +913,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-08-04T01:06:48.499557+00:00"
+    },
+    {
+      "tweet": "The Liberals are promising weekly bin collections because fortnightly is disgusting. We've all been saying that for years.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/10/victoria-weekly-red-bin-collection-rubbish-waste-liberal-party-promise",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Victorian Liberals promise weekly red bin garbage collections for all, calling fortnightly system ‘disgusting’",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-10T09:45:11.101349+00:00"
     },
     {
       "tweet": "Two workers got stood down after a near-miss at Sydney airport. Seriously, how do you almost crash planes at the gate?",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2876,
+    "total_posted": 2878,
     "total_collected": 13557
   },
-  "last_posted_at": "2026-08-10T10:56:27.306059+00:00"
+  "last_posted_at": "2026-08-10T11:46:53.011406+00:00"
 }
