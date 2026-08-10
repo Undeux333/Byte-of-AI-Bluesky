@@ -2,28 +2,6 @@
   "last_collected": "2026-08-10T20:20:52.769092+00:00",
   "queue": [
     {
-      "tweet": "Did you see that Crystal Palace fans made a banner of the Forest owner holding a gun, and now he’s suing them? Football is just something else.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/czjlwe90py7o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Forest owner Marinakis sues Palace over gun banner",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-10T20:20:52.767809+00:00"
-    },
-    {
-      "tweet": "Dude, they’re finally taking that guy to trial for the Tupac murder after thirty years. Wild that it took this long.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "30 years later, a former gang member will stand trial for Tupac's murder",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-10T20:20:52.767795+00:00"
-    },
-    {
       "tweet": "Russia just banned the only party that’s actually against the war in Ukraine from the vote. Can’t lose if you just clear the board.",
       "original_url": "https://www.aljazeera.com/news/2026/8/10/russia-bars-only-party-opposing-war-in-ukraine-from-parliamentary-vote?traffic_source=rss",
       "buzz_score": 80,
@@ -110,17 +88,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Ukraine just hit an oil refinery way inside Russia with a drone. Things are escalating, man.",
-      "original_url": "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
-      "buzz_score": 85,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-10T17:33:55.885652+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -662,15 +629,15 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "So apparently the Trump admin is just ignoring that Netanyahu rejected their Gaza plan. They're treating it like campaign noise. Just business as usual.",
-      "original_url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 82,
+      "tweet": "Ukraine just hit an oil refinery way inside Russia with a drone. Things are escalating, man.",
+      "original_url": "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
+      "buzz_score": 85,
       "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-      "source": "BBC World",
+      "original_title": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
+      "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-08-10T17:33:55.885400+00:00"
+      "added_at": "2026-08-10T17:33:55.885652+00:00"
     },
     {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
@@ -869,6 +836,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "So apparently the Trump admin is just ignoring that Netanyahu rejected their Gaza plan. They're treating it like campaign noise. Just business as usual.",
+      "original_url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 82,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-10T17:33:55.885400+00:00"
     },
     {
       "tweet": "Bro, people are literally running entire servers off their old phones now. We're just living in the future, man.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2885,
+    "total_posted": 2887,
     "total_collected": 13612
   },
-  "last_posted_at": "2026-08-10T20:29:11.451281+00:00"
+  "last_posted_at": "2026-08-10T21:17:08.311865+00:00"
 }
