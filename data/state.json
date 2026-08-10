@@ -2,39 +2,6 @@
   "last_collected": "2026-08-10T22:25:10.063778+00:00",
   "queue": [
     {
-      "tweet": "Dude, Hoover literally invented a sport with a six-pound medicine ball just to cope with the Great Depression. Imagine trying to handle that stress by playing dodgeball. Unreal.",
-      "original_url": "https://www.mentalfloss.com/history/presidents/herbert-hoover-unusual-sport?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Unusual Sport Herbert Hoover Played at the White House",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-10T22:25:10.063217+00:00"
-    },
-    {
-      "tweet": "UK firefighters are begging for more funding ‘cause the wildfire threat is blowing up. Everything is burning.",
-      "original_url": "https://www.theguardian.com/uk-news/2026/aug/10/firefighters-fbu-wildfires-drought-heatwave-weather",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘National priority’ to equip UK firefighters amid growing wildfire threat",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-10T20:20:52.768366+00:00"
-    },
-    {
-      "tweet": "Did you see that over 181,000 AI meeting recordings were just left wide open? We're out here trusting these apps with everything and they’re just leaving the door unlocked. Garbage.",
-      "original_url": "https://bobdahacker.com/blog/tldv-hack",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Over 181,000 AI meeting recordings left wide open in note taking app",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-10T14:49:16.516150+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -68,6 +35,17 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "Did you see that over 181,000 AI meeting recordings were just left wide open? We're out here trusting these apps with everything and they’re just leaving the door unlocked. Garbage.",
+      "original_url": "https://bobdahacker.com/blog/tldv-hack",
+      "buzz_score": 90,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-08-10T14:49:16.516150+00:00"
+    },
+    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -77,17 +55,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Bro, Windows 11 is using over a gig of RAM just to check the weather. My computer is literally struggling to tell me if it’s raining outside. Insane.",
-      "original_url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-10T14:49:16.516144+00:00"
     },
     {
       "tweet": "Hold on, three teenagers had to get rescued by a helicopter after trying to hike with Google Maps. At this point we're just allergic to paper trails.",
@@ -627,6 +594,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
+    },
+    {
+      "tweet": "Bro, Windows 11 is using over a gig of RAM just to check the weather. My computer is literally struggling to tell me if it’s raining outside. Insane.",
+      "original_url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-08-10T14:49:16.516144+00:00"
     },
     {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2893,
+    "total_posted": 2895,
     "total_collected": 13620
   },
-  "last_posted_at": "2026-08-10T23:07:57.703207+00:00"
+  "last_posted_at": "2026-08-10T23:54:44.247394+00:00"
 }
