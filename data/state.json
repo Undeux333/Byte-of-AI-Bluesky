@@ -2,28 +2,6 @@
   "last_collected": "2026-08-10T20:20:52.769092+00:00",
   "queue": [
     {
-      "tweet": "Russia just banned the only party that’s actually against the war in Ukraine from the vote. Can’t lose if you just clear the board.",
-      "original_url": "https://www.aljazeera.com/news/2026/8/10/russia-bars-only-party-opposing-war-in-ukraine-from-parliamentary-vote?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-10T20:20:52.768052+00:00"
-    },
-    {
-      "tweet": "Apparently the new Resident Evil show has zero to do with the actual game, but honestly, I’m fine with that.",
-      "original_url": "https://kotaku.com/resident-evil-2002-movie-review-warp-week-2000723020",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Resident Evil Is Entertaining Zombie, Girl-Power Action That Has Nothing To Do With The Game",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-10T20:20:52.768570+00:00"
-    },
-    {
       "tweet": "UK firefighters are begging for more funding ‘cause the wildfire threat is blowing up. Everything is burning.",
       "original_url": "https://www.theguardian.com/uk-news/2026/aug/10/firefighters-fbu-wildfires-drought-heatwave-weather",
       "buzz_score": 75,
@@ -629,17 +607,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Ukraine just hit an oil refinery way inside Russia with a drone. Things are escalating, man.",
-      "original_url": "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
-      "buzz_score": 85,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-10T17:33:55.885652+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -838,15 +805,15 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "So apparently the Trump admin is just ignoring that Netanyahu rejected their Gaza plan. They're treating it like campaign noise. Just business as usual.",
-      "original_url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 82,
+      "tweet": "Ukraine just hit an oil refinery way inside Russia with a drone. Things are escalating, man.",
+      "original_url": "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
+      "buzz_score": 85,
       "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-      "source": "BBC World",
+      "original_title": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
+      "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-08-10T17:33:55.885400+00:00"
+      "added_at": "2026-08-10T17:33:55.885652+00:00"
     },
     {
       "tweet": "Bro, people are literally running entire servers off their old phones now. We're just living in the future, man.",
@@ -968,6 +935,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-08-04T01:06:48.499557+00:00"
+    },
+    {
+      "tweet": "So apparently the Trump admin is just ignoring that Netanyahu rejected their Gaza plan. They're treating it like campaign noise. Just business as usual.",
+      "original_url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 82,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-10T17:33:55.885400+00:00"
     },
     {
       "tweet": "50 Cent is making a TV show out of Payday. I don’t know how you turn a bank heist game into a show, but here we are.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2887,
+    "total_posted": 2889,
     "total_collected": 13612
   },
-  "last_posted_at": "2026-08-10T21:17:08.311865+00:00"
+  "last_posted_at": "2026-08-10T22:04:14.280940+00:00"
 }
