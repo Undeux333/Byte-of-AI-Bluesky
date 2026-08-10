@@ -2,28 +2,6 @@
   "last_collected": "2026-08-10T17:33:55.886942+00:00",
   "queue": [
     {
-      "tweet": "Did you see that Mars Bar from 1991 that popped up? It’s literally 20 grams bigger than the ones they sell now. Shrinkflation is getting out of hand.",
-      "original_url": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mars Bar from 1991 found – and it's 20g bigger than today's",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-10T17:33:55.884842+00:00"
-    },
-    {
-      "tweet": "Canada is dealing with total incinerated destruction from those wildfires. Twelve thousand people just lost their homes, man.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-10T17:33:55.886300+00:00"
-    },
-    {
       "tweet": "Did you see that over 181,000 AI meeting recordings were just left wide open? We're out here trusting these apps with everything and they’re just leaving the door unlocked. Garbage.",
       "original_url": "https://bobdahacker.com/blog/tldv-hack",
       "buzz_score": 90,
@@ -101,28 +79,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Eddie Vedder was just busking on Grafton Street for that tribute. Pretty wild to see him just standing there.",
-      "original_url": "https://www.billboard.com/music/rock/eddie-vedder-tribute-glen-hansard-busk-street-dublin-1236312539/",
-      "buzz_score": 76,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Eddie Vedder Pays Tribute to Glen Hansard By Busking at Late Singer’s Old Grafton Street Spot in Dublin",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-10T17:33:55.886425+00:00"
-    },
-    {
-      "tweet": "Should Liverpool fans be stressing over those fitness comments from Iraola? Like, how bad is it actually?",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cy071ngvnzzo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 74,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Should Liverpool fans be worried about Iraola's fitness comments?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-10T17:33:55.886049+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -132,6 +88,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Eddie Vedder was just busking on Grafton Street for that tribute. Pretty wild to see him just standing there.",
+      "original_url": "https://www.billboard.com/music/rock/eddie-vedder-tribute-glen-hansard-busk-street-dublin-1236312539/",
+      "buzz_score": 76,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Eddie Vedder Pays Tribute to Glen Hansard By Busking at Late Singer’s Old Grafton Street Spot in Dublin",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-08-10T17:33:55.886425+00:00"
     },
     {
       "tweet": "Hold on, three teenagers had to get rescued by a helicopter after trying to hike with Google Maps. At this point we're just allergic to paper trails.",
@@ -662,17 +629,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Yo, that earthquake in Colombia was a 7.4. Dozens dead already, it sounds rough down there.",
-      "original_url": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Live Updates: Powerful 7.4 Earthquake Strikes Colombia, Killing Dozens",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-10T17:33:55.886174+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -682,6 +638,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
+    },
+    {
+      "tweet": "Should Liverpool fans be stressing over those fitness comments from Iraola? Like, how bad is it actually?",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cy071ngvnzzo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 74,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Should Liverpool fans be worried about Iraola's fitness comments?",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-10T17:33:55.886049+00:00"
     },
     {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
@@ -869,6 +836,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "Yo, that earthquake in Colombia was a 7.4. Dozens dead already, it sounds rough down there.",
+      "original_url": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Live Updates: Powerful 7.4 Earthquake Strikes Colombia, Killing Dozens",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-10T17:33:55.886174+00:00"
     },
     {
       "tweet": "Bro, people are literally running entire servers off their old phones now. We're just living in the future, man.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2881,
+    "total_posted": 2883,
     "total_collected": 13596
   },
-  "last_posted_at": "2026-08-10T17:42:04.952169+00:00"
+  "last_posted_at": "2026-08-10T18:37:45.710129+00:00"
 }
