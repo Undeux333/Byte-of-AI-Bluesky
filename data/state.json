@@ -2,28 +2,6 @@
   "last_collected": "2026-08-10T03:05:19.336193+00:00",
   "queue": [
     {
-      "tweet": "Nearly 30 years later, the trial for Tupac’s murder is finally starting. Crazy how long that took.",
-      "original_url": "https://www.npr.org/2026/08/09/nx-s1-5924034/nearly-30-years-after-tupacs-death-the-trial-over-his-murder-will-finally-begin",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Nearly 30 years after Tupac's death, the trial over his murder will finally begin",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-10T03:05:19.334883+00:00"
-    },
-    {
-      "tweet": "Bro, people are actually out here saying Usher got replaced by a clone at that show. I need some of whatever they’re smoking.",
-      "original_url": "https://www.billboard.com/music/music-news/usher-clone-tour-chris-brown-1236312389/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Usher Reacts to Clone Conspiracy Theory Brewing After New Jersey Show With Chris Brown",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-10T03:05:19.334580+00:00"
-    },
-    {
       "tweet": "Bro, people are literally running entire servers off their old phones now. We're just living in the future, man.",
       "original_url": "https://seg6.space/posts/phone-server/",
       "buzz_score": 85,
@@ -66,50 +44,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Took them forty-seven years to put Emma Frost's actual arc in a movie. Took long enough.",
-      "original_url": "https://www.polygon.com/emma-frost-marvel-historu-comics-villain-hero-x-men/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "47 Years Later, X-Men's Greatest Redemption Arc Is Finally Making the Leap From Comics to Movies",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-09T21:29:34.980731+00:00"
-    },
-    {
-      "tweet": "Just found out Shawshank Redemption is a Stephen King story. Had no idea, man.",
-      "original_url": "https://www.mentalfloss.com/entertainment/movies/movies-you-might-not-know-based-stephen-king-books?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "7 Movies You May Not Know Are Stephen King Adaptations",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-09T21:29:34.980479+00:00"
-    },
-    {
-      "tweet": "The Perseid meteor shower is happening this week. Might actually go outside for once.",
-      "original_url": "https://www.theguardian.com/science/2026/aug/09/perseid-meteor-shower",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Perseid meteor shower set to dazzle northern hemisphere this week",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-09T21:29:34.980225+00:00"
-    },
-    {
-      "tweet": "Another day, another hedge fund dropping four hundred million on AI chips. They’re just betting on the house at this point.",
-      "original_url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-08-09T21:29:34.979934+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -651,28 +585,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Messi missed the Inter Miami game after his father passed away. That’s rough.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/czrj0yd2p4ro?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Messi misses Miami defeat after death of father",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-10T03:05:19.335418+00:00"
-    },
-    {
-      "tweet": "Whitney Houston is a Barbie now. Not sure how to feel about that, honestly.",
-      "original_url": "https://www.billboard.com/music/pop/whitney-houston-barbie-signature-doll-mattel-1236312340/",
-      "buzz_score": 72,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Whitney Houston Joins Barbie Signature Family",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-09T21:29:34.980091+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -871,59 +783,48 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Netanyahu basically said there's no path to peace left. Are we just giving up on the whole thing?",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/palestinians-say-netanyahus-decision-leaves-no-clear-path-to-peace?traffic_source=rss",
-      "buzz_score": 70,
+      "tweet": "Took them forty-seven years to put Emma Frost's actual arc in a movie. Took long enough.",
+      "original_url": "https://www.polygon.com/emma-frost-marvel-historu-comics-villain-hero-x-men/",
+      "buzz_score": 75,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-09T21:29:34.981134+00:00"
+      "original_title": "47 Years Later, X-Men's Greatest Redemption Arc Is Finally Making the Leap From Comics to Movies",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-09T21:29:34.980731+00:00"
     },
     {
-      "tweet": "Germany’s talking about daily hybrid warfare now. We're living in a spy novel.",
-      "original_url": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss",
-      "buzz_score": 70,
+      "tweet": "Just found out Shawshank Redemption is a Stephen King story. Had no idea, man.",
+      "original_url": "https://www.mentalfloss.com/entertainment/movies/movies-you-might-not-know-based-stephen-king-books?utm_source=RSS",
+      "buzz_score": 75,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-09T21:29:34.981009+00:00"
-    },
-    {
-      "tweet": "Saw the list of top-grossing directors and honestly, it’s just the same five guys printing money.",
-      "original_url": "https://www.mentalfloss.com/entertainment/highest-grossing-directors-of-all-time-ranked?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The 20 Highest-Grossing Directors Of All Time, Ranked",
+      "original_title": "7 Movies You May Not Know Are Stephen King Adaptations",
       "source": "Mental Floss",
       "category": "trivia",
-      "added_at": "2026-08-09T21:29:34.980604+00:00"
+      "added_at": "2026-08-09T21:29:34.980479+00:00"
     },
     {
-      "tweet": "Saw this list of outfits that look nice but let you like, actually breathe and eat. Finally, some clothes that don't make you feel like a hostage.",
-      "original_url": "https://www.bustle.com/style/comfy-cheap-outfits-that-look-elevated-bougie",
-      "buzz_score": 70,
+      "tweet": "The Perseid meteor shower is happening this week. Might actually go outside for once.",
+      "original_url": "https://www.theguardian.com/science/2026/aug/09/perseid-meteor-shower",
+      "buzz_score": 75,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "55 Comfy, Cheap Outfits That Look Elevated & Bougie",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-08-09T21:29:34.979930+00:00"
-    },
-    {
-      "tweet": "World’s seas just hit their hottest temp on record for July. We're living in an oven.",
-      "original_url": "https://www.theguardian.com/environment/2026/aug/10/global-seas-hottest-temperature-july-scientists",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "World’s seas have hit hottest temperature on record for July, say scientists",
+      "original_title": "Perseid meteor shower set to dazzle northern hemisphere this week",
       "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-08-10T03:05:19.334595+00:00"
+      "added_at": "2026-08-09T21:29:34.980225+00:00"
+    },
+    {
+      "tweet": "Another day, another hedge fund dropping four hundred million on AI chips. They’re just betting on the house at this point.",
+      "original_url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-08-09T21:29:34.979934+00:00"
     },
     {
       "tweet": "Did you see the shakeup over at Google DeepMind? Demis Hassabis is moving to chair and Jeff Dean is out. At this point the whole building is just changing hands every week",
@@ -1034,6 +935,83 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-08-04T01:06:48.499557+00:00"
+    },
+    {
+      "tweet": "Messi missed the Inter Miami game after his father passed away. That’s rough.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/czrj0yd2p4ro?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Messi misses Miami defeat after death of father",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-10T03:05:19.335418+00:00"
+    },
+    {
+      "tweet": "Whitney Houston is a Barbie now. Not sure how to feel about that, honestly.",
+      "original_url": "https://www.billboard.com/music/pop/whitney-houston-barbie-signature-doll-mattel-1236312340/",
+      "buzz_score": 72,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Whitney Houston Joins Barbie Signature Family",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-08-09T21:29:34.980091+00:00"
+    },
+    {
+      "tweet": "Netanyahu basically said there's no path to peace left. Are we just giving up on the whole thing?",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/palestinians-say-netanyahus-decision-leaves-no-clear-path-to-peace?traffic_source=rss",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-09T21:29:34.981134+00:00"
+    },
+    {
+      "tweet": "Germany’s talking about daily hybrid warfare now. We're living in a spy novel.",
+      "original_url": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-09T21:29:34.981009+00:00"
+    },
+    {
+      "tweet": "Saw the list of top-grossing directors and honestly, it’s just the same five guys printing money.",
+      "original_url": "https://www.mentalfloss.com/entertainment/highest-grossing-directors-of-all-time-ranked?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The 20 Highest-Grossing Directors Of All Time, Ranked",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-08-09T21:29:34.980604+00:00"
+    },
+    {
+      "tweet": "Saw this list of outfits that look nice but let you like, actually breathe and eat. Finally, some clothes that don't make you feel like a hostage.",
+      "original_url": "https://www.bustle.com/style/comfy-cheap-outfits-that-look-elevated-bougie",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "55 Comfy, Cheap Outfits That Look Elevated & Bougie",
+      "source": "Bustle",
+      "category": "sex",
+      "added_at": "2026-08-09T21:29:34.979930+00:00"
+    },
+    {
+      "tweet": "World’s seas just hit their hottest temp on record for July. We're living in an oven.",
+      "original_url": "https://www.theguardian.com/environment/2026/aug/10/global-seas-hottest-temperature-july-scientists",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "World’s seas have hit hottest temperature on record for July, say scientists",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-10T03:05:19.334595+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2866,
+    "total_posted": 2868,
     "total_collected": 13525
   },
-  "last_posted_at": "2026-08-10T03:14:24.670425+00:00"
+  "last_posted_at": "2026-08-10T04:56:15.183611+00:00"
 }
