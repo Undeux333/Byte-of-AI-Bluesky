@@ -2,28 +2,6 @@
   "last_collected": "2026-08-10T09:45:11.102185+00:00",
   "queue": [
     {
-      "tweet": "Infantino is getting accused of breaking trust through deception by half the confederations. FIFA being crooked again, truly shocked.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c78gl599jn4o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Infantino broke trust 'through deception' - confederation presidents",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-10T09:45:11.100969+00:00"
-    },
-    {
-      "tweet": "China is evacuating a million people because of Typhoon Dolphin. A million. That's just insane.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "China evacuates one million from homes as massive storm arrives",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-10T09:45:11.100691+00:00"
-    },
-    {
       "tweet": "Dude, Claude Code just made auto mode the default. We're basically just watching the AI do the work now and hoping it doesn't break the whole codebase.",
       "original_url": "https://claude.com/blog/auto-mode-default-in-claude-code",
       "buzz_score": 85,
@@ -640,17 +618,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "The Liberals are promising weekly bin collections because fortnightly is disgusting. We've all been saying that for years.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/10/victoria-weekly-red-bin-collection-rubbish-waste-liberal-party-promise",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Victorian Liberals promise weekly red bin garbage collections for all, calling fortnightly system ‘disgusting’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-10T09:45:11.101349+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -847,6 +814,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "The Liberals are promising weekly bin collections because fortnightly is disgusting. We've all been saying that for years.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/10/victoria-weekly-red-bin-collection-rubbish-waste-liberal-party-promise",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Victorian Liberals promise weekly red bin garbage collections for all, calling fortnightly system ‘disgusting’",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-10T09:45:11.101349+00:00"
     },
     {
       "tweet": "Bro, people are literally running entire servers off their old phones now. We're just living in the future, man.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2874,
+    "total_posted": 2876,
     "total_collected": 13557
   },
-  "last_posted_at": "2026-08-10T09:50:46.852839+00:00"
+  "last_posted_at": "2026-08-10T10:56:27.306059+00:00"
 }
