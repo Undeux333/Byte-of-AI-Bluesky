@@ -35,17 +35,6 @@
       "added_at": "2026-08-10T17:33:55.885652+00:00"
     },
     {
-      "tweet": "So apparently the Trump admin is just ignoring that Netanyahu rejected their Gaza plan. They're treating it like campaign noise. Just business as usual.",
-      "original_url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-10T17:33:55.885400+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -79,6 +68,17 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "So apparently the Trump admin is just ignoring that Netanyahu rejected their Gaza plan. They're treating it like campaign noise. Just business as usual.",
+      "original_url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 82,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-10T17:33:55.885400+00:00"
+    },
+    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -88,17 +88,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Eddie Vedder was just busking on Grafton Street for that tribute. Pretty wild to see him just standing there.",
-      "original_url": "https://www.billboard.com/music/rock/eddie-vedder-tribute-glen-hansard-busk-street-dublin-1236312539/",
-      "buzz_score": 76,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Eddie Vedder Pays Tribute to Glen Hansard By Busking at Late Singer’s Old Grafton Street Spot in Dublin",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-10T17:33:55.886425+00:00"
     },
     {
       "tweet": "Hold on, three teenagers had to get rescued by a helicopter after trying to hike with Google Maps. At this point we're just allergic to paper trails.",
@@ -640,17 +629,6 @@
       "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
-      "tweet": "Should Liverpool fans be stressing over those fitness comments from Iraola? Like, how bad is it actually?",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cy071ngvnzzo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 74,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Should Liverpool fans be worried about Iraola's fitness comments?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-10T17:33:55.886049+00:00"
-    },
-    {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
       "original_url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
       "buzz_score": 88,
@@ -838,15 +816,26 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Yo, that earthquake in Colombia was a 7.4. Dozens dead already, it sounds rough down there.",
-      "original_url": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
-      "buzz_score": 85,
-      "buzz_score2": 90,
+      "tweet": "Eddie Vedder was just busking on Grafton Street for that tribute. Pretty wild to see him just standing there.",
+      "original_url": "https://www.billboard.com/music/rock/eddie-vedder-tribute-glen-hansard-busk-street-dublin-1236312539/",
+      "buzz_score": 76,
+      "buzz_score2": 92,
       "rewrite_count": 0,
-      "original_title": "Live Updates: Powerful 7.4 Earthquake Strikes Colombia, Killing Dozens",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-10T17:33:55.886174+00:00"
+      "original_title": "Eddie Vedder Pays Tribute to Glen Hansard By Busking at Late Singer’s Old Grafton Street Spot in Dublin",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-08-10T17:33:55.886425+00:00"
+    },
+    {
+      "tweet": "Should Liverpool fans be stressing over those fitness comments from Iraola? Like, how bad is it actually?",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cy071ngvnzzo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 74,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Should Liverpool fans be worried about Iraola's fitness comments?",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-10T17:33:55.886049+00:00"
     },
     {
       "tweet": "Bro, people are literally running entire servers off their old phones now. We're just living in the future, man.",
@@ -968,6 +957,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-08-04T01:06:48.499557+00:00"
+    },
+    {
+      "tweet": "Yo, that earthquake in Colombia was a 7.4. Dozens dead already, it sounds rough down there.",
+      "original_url": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Live Updates: Powerful 7.4 Earthquake Strikes Colombia, Killing Dozens",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-10T17:33:55.886174+00:00"
     },
     {
       "tweet": "Someone just found a new secret in the original Star Wars Battlefront 2 after twenty years. Makes me feel like I need to reinstall that game immediately.",
