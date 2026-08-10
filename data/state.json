@@ -2,28 +2,6 @@
   "last_collected": "2026-08-09T23:55:03.457402+00:00",
   "queue": [
     {
-      "tweet": "Joe Jonas said he had to do therapy after his solo album flopped. I guess nobody's ego is safe, even him.",
-      "original_url": "https://www.billboard.com/music/music-news/joe-jonas-therapy-solo-album-1236312330/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Joe Jonas Says He Sought Therapy After His Solo Album Underperformed",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-09T23:55:03.457032+00:00"
-    },
-    {
-      "tweet": "The government is finally trying to ban fake discounts and make it easy to cancel subscriptions. About time, honestly.",
-      "original_url": "https://www.theguardian.com/business/2026/aug/09/burnham-vows-crackdown-on-rip-off-business-practices-to-ease-cost-of-living",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Burnham vows crackdown on ‘rip-off’ business practices to ease cost of living",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-09T23:55:03.456138+00:00"
-    },
-    {
       "tweet": "Bro, people are literally running entire servers off their old phones now. We're just living in the future, man.",
       "original_url": "https://seg6.space/posts/phone-server/",
       "buzz_score": 85,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2862,
+    "total_posted": 2864,
     "total_collected": 13509
   },
-  "last_posted_at": "2026-08-10T00:04:48.481529+00:00"
+  "last_posted_at": "2026-08-10T00:56:26.352859+00:00"
 }
