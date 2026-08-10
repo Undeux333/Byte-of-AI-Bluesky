@@ -2,28 +2,6 @@
   "last_collected": "2026-08-10T06:05:46.896196+00:00",
   "queue": [
     {
-      "tweet": "Did you see what's happening with the wildfires in Canada? Thousands of people are getting evacuated from their homes again. Feels like we're just living in smoke now",
-      "original_url": "https://www.nytimes.com/article/canada-wildfires-2026.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-10T06:05:46.894622+00:00"
-    },
-    {
-      "tweet": "John Oliver going after his own company's movies on TV is hilarious. Glad someone finally said it",
-      "original_url": "https://variety.com/2026/tv/news/john-oliver-takes-shots-dc-superhero-movies-supergirl-last-week-tonight-1236831053/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "John Oliver Takes Shots at Own Company’s DC Superhero Movies on ‘Last Week Tonight’",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-08-10T06:05:46.895302+00:00"
-    },
-    {
       "tweet": "Reading about these travel superstitions and realized I definitely do half of them without thinking. We're all just weirdly neurotic",
       "original_url": "https://www.mentalfloss.com/culture/strange-travel-superstitions?utm_source=RSS",
       "buzz_score": 75,
@@ -44,17 +22,6 @@
       "source": "Wired",
       "category": "tech",
       "added_at": "2026-08-10T06:05:46.895045+00:00"
-    },
-    {
-      "tweet": "Bro, people are literally running entire servers off their old phones now. We're just living in the future, man.",
-      "original_url": "https://seg6.space/posts/phone-server/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "My server is a phone now",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-09T23:55:03.455970+00:00"
     },
     {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
@@ -88,6 +55,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Bro, people are literally running entire servers off their old phones now. We're just living in the future, man.",
+      "original_url": "https://seg6.space/posts/phone-server/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "My server is a phone now",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-08-09T23:55:03.455970+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -629,17 +607,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "So Israel just rejected that whole Trump plan for Gaza. Why do we keep pretending any of these plans are gonna actually work",
-      "original_url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-10T06:05:46.894919+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -946,6 +913,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-08-04T01:06:48.499557+00:00"
+    },
+    {
+      "tweet": "So Israel just rejected that whole Trump plan for Gaza. Why do we keep pretending any of these plans are gonna actually work",
+      "original_url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-10T06:05:46.894919+00:00"
     },
     {
       "tweet": "Spider-Man is still crushing it at the box office in China. People just really don't get tired of that guy",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2870,
+    "total_posted": 2872,
     "total_collected": 13541
   },
-  "last_posted_at": "2026-08-10T06:12:15.698762+00:00"
+  "last_posted_at": "2026-08-10T08:07:54.403928+00:00"
 }
