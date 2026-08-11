@@ -2,28 +2,6 @@
   "last_collected": "2026-08-11T13:39:03.955670+00:00",
   "queue": [
     {
-      "tweet": "Did you see Mark Zuckerberg taking shots at closed AI? Pretty wild for a guy running one of the biggest closed gardens in the game. Real glass houses vibes",
-      "original_url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-11T13:39:03.954429+00:00"
-    },
-    {
-      "tweet": "Saw this thing about someone finding peace at a sex party after growing up with all that religious guilt. It's crazy how long we carry that stuff around",
-      "original_url": "https://sex.cosmopolitan.com/pleasure/a73368697/reclaiming-sex-after-religious-trauma/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "At a Sex Party, I Finally Stopped Waiting for God to Punish Me",
-      "source": "Cosmo Sex & Love",
-      "category": "sex",
-      "added_at": "2026-08-11T13:39:03.954948+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -57,17 +35,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
-      "original_url": "https://bobdahacker.com/blog/tldv-hack",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tl;dv: Over 180k meetings left wide open",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-11T05:32:48.158615+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -77,6 +44,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
+      "original_url": "https://bobdahacker.com/blog/tldv-hack",
+      "buzz_score": 90,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Tl;dv: Over 180k meetings left wide open",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-08-11T05:32:48.158615+00:00"
     },
     {
       "tweet": "Did you see that over 181,000 AI meeting recordings were just left wide open? We're out here trusting these apps with everything and they’re just leaving the door unlocked. Garbage.",
@@ -827,28 +805,6 @@
       "added_at": "2026-08-11T05:32:48.158621+00:00"
     },
     {
-      "tweet": "That new Gundam director is saying the whole show is just a metaphor for being scared of AI. Like, are we just gonna let the machines write our sci-fi until they replace us?",
-      "original_url": "https://variety.com/2026/tv/news/mobile-suit-gundam-rg-xarx-zero-director-ai-metaphor-1236831178/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘Mobile Suit Gundam RG XARX-ZERO’ Director Kamiyama Kenji Built His New Series Around a Metaphor for AI Fears: ‘Will We End Up Being Used by It?’",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-08-11T07:51:30.139850+00:00"
-    },
-    {
-      "tweet": "Albanese is actually refusing to apologize for that whole melon gaffe with the Japanese PM. Dude really just told a whole country he’s not saying sorry for the fruit.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/11/australia-pm-anthony-albanese-refuses-to-apologise-japan-sanae-takaichi-melon-gaffe",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australia’s prime minister refuses to apologise to Japanese counterpart over melon gaffe",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-11T07:51:30.139062+00:00"
-    },
-    {
       "tweet": "Bro, Windows 11 is using over a gig of RAM just to check the weather. My computer is literally struggling to tell me if it’s raining outside. Insane.",
       "original_url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
       "buzz_score": 85,
@@ -968,6 +924,28 @@
       "source": "Deadline",
       "category": "entertainment",
       "added_at": "2026-08-04T04:28:08.778691+00:00"
+    },
+    {
+      "tweet": "That new Gundam director is saying the whole show is just a metaphor for being scared of AI. Like, are we just gonna let the machines write our sci-fi until they replace us?",
+      "original_url": "https://variety.com/2026/tv/news/mobile-suit-gundam-rg-xarx-zero-director-ai-metaphor-1236831178/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "‘Mobile Suit Gundam RG XARX-ZERO’ Director Kamiyama Kenji Built His New Series Around a Metaphor for AI Fears: ‘Will We End Up Being Used by It?’",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-08-11T07:51:30.139850+00:00"
+    },
+    {
+      "tweet": "Albanese is actually refusing to apologize for that whole melon gaffe with the Japanese PM. Dude really just told a whole country he’s not saying sorry for the fruit.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/11/australia-pm-anthony-albanese-refuses-to-apologise-japan-sanae-takaichi-melon-gaffe",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australia’s prime minister refuses to apologise to Japanese counterpart over melon gaffe",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-11T07:51:30.139062+00:00"
     },
     {
       "tweet": "Meta has promo codes for Quest stuff this month. We’re all definitely just waiting for the games to go on sale anyway.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2911,
+    "total_posted": 2913,
     "total_collected": 13706
   },
-  "last_posted_at": "2026-08-11T14:51:01.420942+00:00"
+  "last_posted_at": "2026-08-11T15:41:29.164758+00:00"
 }
