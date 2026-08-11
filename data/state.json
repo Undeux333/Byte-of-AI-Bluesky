@@ -57,28 +57,6 @@
       "added_at": "2026-08-11T07:51:30.139340+00:00"
     },
     {
-      "tweet": "People in the Okanagan are out here dealing with constant evacuations. We’re just living in a constant state of fire drills now.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-11T05:32:48.159326+00:00"
-    },
-    {
-      "tweet": "Adam Driver and Miles Teller are doing a 1980s crime drama called Paper Tiger. I don't even need to know the plot, I'm already in.",
-      "original_url": "https://hypebeast.com/2026/8/neon-adam-driver-miles-teller-scarlett-johansson-james-gray-crime-drama-paper-tiger-teaser-trailer",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Adam Driver and Miles Teller Face off in James Gray's 1980s Crime Drama 'Paper Tiger'",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-08-11T05:32:48.158858+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -110,6 +88,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "People in the Okanagan are out here dealing with constant evacuations. We’re just living in a constant state of fire drills now.",
+      "original_url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-11T05:32:48.159326+00:00"
+    },
+    {
+      "tweet": "Adam Driver and Miles Teller are doing a 1980s crime drama called Paper Tiger. I don't even need to know the plot, I'm already in.",
+      "original_url": "https://hypebeast.com/2026/8/neon-adam-driver-miles-teller-scarlett-johansson-james-gray-crime-drama-paper-tiger-teaser-trailer",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Adam Driver and Miles Teller Face off in James Gray's 1980s Crime Drama 'Paper Tiger'",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-08-11T05:32:48.158858+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -662,17 +662,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Zelensky just said Russia is using North Korean missiles to hit Ukraine now. It's just a proxy war playground at this point",
-      "original_url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-11T10:31:08.320250+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -871,15 +860,15 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "They're growing mini human brains in labs now called organoids. We're just waiting for Skynet at this point",
-      "original_url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
-      "buzz_score": 85,
+      "tweet": "Zelensky just said Russia is using North Korean missiles to hit Ukraine now. It's just a proxy war playground at this point",
+      "original_url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "AI Is Dead. Organoids Are Alive",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-08-11T10:31:08.321201+00:00"
+      "original_title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-11T10:31:08.320250+00:00"
     },
     {
       "tweet": "Bro, Windows 11 is using over a gig of RAM just to check the weather. My computer is literally struggling to tell me if it’s raining outside. Insane.",
@@ -1003,15 +992,15 @@
       "added_at": "2026-08-04T04:28:08.778691+00:00"
     },
     {
-      "tweet": "Australia is mandating 31 dollars an hour for delivery drivers now. Why are we still waiting on this here",
-      "original_url": "https://www.theguardian.com/business/2026/aug/11/delivery-drivers-to-be-paid-minimum-3130-an-hour-across-australia-in-world-leading-decision",
-      "buzz_score": 80,
+      "tweet": "They're growing mini human brains in labs now called organoids. We're just waiting for Skynet at this point",
+      "original_url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Delivery drivers to be paid minimum $31.30 an hour across Australia in ‘world-leading’ decision",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-11T10:31:08.320794+00:00"
+      "original_title": "AI Is Dead. Organoids Are Alive",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-08-11T10:31:08.321201+00:00"
     },
     {
       "tweet": "Meta is out here pitching another reboot of its AI strategy. Zuck really trying to make fetch happen.",
@@ -1034,6 +1023,17 @@
       "source": "TechCrunch",
       "category": "tech",
       "added_at": "2026-08-11T00:51:16.681482+00:00"
+    },
+    {
+      "tweet": "Australia is mandating 31 dollars an hour for delivery drivers now. Why are we still waiting on this here",
+      "original_url": "https://www.theguardian.com/business/2026/aug/11/delivery-drivers-to-be-paid-minimum-3130-an-hour-across-australia-in-world-leading-decision",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Delivery drivers to be paid minimum $31.30 an hour across Australia in ‘world-leading’ decision",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-11T10:31:08.320794+00:00"
     }
   ],
   "seen_urls": [
