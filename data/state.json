@@ -2,17 +2,6 @@
   "last_collected": "2026-08-11T19:43:16.289716+00:00",
   "queue": [
     {
-      "tweet": "Dude, people used to pay guys just to wake them up by tapping on their windows with a stick. Imagine your job being to annoy people for a living.",
-      "original_url": "https://www.mentalfloss.com/history/surprising-job-waking-people-up-before-alarm-clocks?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Surprising Historical Job Of Waking People Up Before Alarm Clocks Existed",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-11T19:43:16.288987+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -805,17 +794,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Playing this old PS2 game and I've died to poison fifty times already. It's that kind of game that reminds you why you hate yourself sometimes.",
-      "original_url": "https://kotaku.com/kings-field-4-kill-you-like-it-2000722569",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "I Played This Brutal PS2 Action RPG For Ten Hours And Only Died To Poison Like 50 Times",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-11T19:43:16.289455+00:00"
-    },
-    {
       "tweet": "So apparently it’s so hot in Rome right now they just put a curling rink right next to the Colosseum. I don’t know who decided that was the move, but it’s just wild.",
       "original_url": "https://www.nytimes.com/2026/08/11/world/europe/italy-curling-rome.html",
       "buzz_score": 85,
@@ -948,6 +926,17 @@
       "added_at": "2026-08-04T04:28:08.778691+00:00"
     },
     {
+      "tweet": "Playing this old PS2 game and I've died to poison fifty times already. It's that kind of game that reminds you why you hate yourself sometimes.",
+      "original_url": "https://kotaku.com/kings-field-4-kill-you-like-it-2000722569",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "I Played This Brutal PS2 Action RPG For Ten Hours And Only Died To Poison Like 50 Times",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-11T19:43:16.289455+00:00"
+    },
+    {
       "tweet": "So apparently people are out here stealing reasoning traces from AI models now. We're literally trying to reverse engineer how a robot thinks.",
       "original_url": "https://stolen-thoughts.com/",
       "buzz_score": 80,
@@ -981,17 +970,6 @@
       "added_at": "2026-08-11T05:32:48.158858+00:00"
     },
     {
-      "tweet": "Hungary just elected a guy Orban fired back into the top spot. Talk about an awkward office party.",
-      "original_url": "https://www.aljazeera.com/news/2026/8/11/hungary-elects-supreme-court-judge-ousted-by-orban-as-new-president?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hungary elects supreme court judge ousted by Orban as new president",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-11T16:31:47.133487+00:00"
-    },
-    {
       "tweet": "That new Gundam director is saying the whole show is just a metaphor for being scared of AI. Like, are we just gonna let the machines write our sci-fi until they replace us?",
       "original_url": "https://variety.com/2026/tv/news/mobile-suit-gundam-rg-xarx-zero-director-ai-metaphor-1236831178/",
       "buzz_score": 75,
@@ -1012,6 +990,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-11T07:51:30.139062+00:00"
+    },
+    {
+      "tweet": "Hungary just elected a guy Orban fired back into the top spot. Talk about an awkward office party.",
+      "original_url": "https://www.aljazeera.com/news/2026/8/11/hungary-elects-supreme-court-judge-ousted-by-orban-as-new-president?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hungary elects supreme court judge ousted by Orban as new president",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-11T16:31:47.133487+00:00"
     },
     {
       "tweet": "Hollywood is actually making a Jeff The Killer movie now. Just scraping the bottom of the barrel at this point.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2920,
+    "total_posted": 2921,
     "total_collected": 13728
   },
-  "last_posted_at": "2026-08-11T19:48:43.904666+00:00"
+  "last_posted_at": "2026-08-11T20:22:54.854266+00:00"
 }
