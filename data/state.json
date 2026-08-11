@@ -2,28 +2,6 @@
   "last_collected": "2026-08-11T13:39:03.955670+00:00",
   "queue": [
     {
-      "tweet": "So Syria just sentenced al-Assad to death while he's hiding out in Russia. Like that's actually gonna change anything for him",
-      "original_url": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html",
-      "buzz_score": 95,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-11T13:39:03.954663+00:00"
-    },
-    {
-      "tweet": "Speedrunners are 0.1 seconds from a perfect Mario run. We all have that one thing we’re way too obsessed with",
-      "original_url": "https://kotaku.com/super-mario-bros-speedrunners-lekukie-kosmic-perfect-run-2000723375",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Super Mario Bros. Speedrunners Are 0.1 Seconds Away From Perfection",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-11T13:39:03.955480+00:00"
-    },
-    {
       "tweet": "Did you see Mark Zuckerberg taking shots at closed AI? Pretty wild for a guy running one of the biggest closed gardens in the game. Real glass houses vibes",
       "original_url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
       "buzz_score": 85,
@@ -44,17 +22,6 @@
       "source": "Cosmo Sex & Love",
       "category": "sex",
       "added_at": "2026-08-11T13:39:03.954948+00:00"
-    },
-    {
-      "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
-      "original_url": "https://bobdahacker.com/blog/tldv-hack",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tl;dv: Over 180k meetings left wide open",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-11T05:32:48.158615+00:00"
     },
     {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
@@ -90,15 +57,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "So apparently it’s so hot in Rome right now they just put a curling rink right next to the Colosseum. I don’t know who decided that was the move, but it’s just wild.",
-      "original_url": "https://www.nytimes.com/2026/08/11/world/europe/italy-curling-rome.html",
-      "buzz_score": 85,
+      "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
+      "original_url": "https://bobdahacker.com/blog/tldv-hack",
+      "buzz_score": 90,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "In a Sweltering Summer, These Italians Want Romans to Curl",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-11T05:32:48.158621+00:00"
+      "original_title": "Tl;dv: Over 180k meetings left wide open",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-08-11T05:32:48.158615+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -110,28 +77,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "That new Gundam director is saying the whole show is just a metaphor for being scared of AI. Like, are we just gonna let the machines write our sci-fi until they replace us?",
-      "original_url": "https://variety.com/2026/tv/news/mobile-suit-gundam-rg-xarx-zero-director-ai-metaphor-1236831178/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘Mobile Suit Gundam RG XARX-ZERO’ Director Kamiyama Kenji Built His New Series Around a Metaphor for AI Fears: ‘Will We End Up Being Used by It?’",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-08-11T07:51:30.139850+00:00"
-    },
-    {
-      "tweet": "Albanese is actually refusing to apologize for that whole melon gaffe with the Japanese PM. Dude really just told a whole country he’s not saying sorry for the fruit.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/11/australia-pm-anthony-albanese-refuses-to-apologise-japan-sanae-takaichi-melon-gaffe",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australia’s prime minister refuses to apologise to Japanese counterpart over melon gaffe",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-11T07:51:30.139062+00:00"
     },
     {
       "tweet": "Did you see that over 181,000 AI meeting recordings were just left wide open? We're out here trusting these apps with everything and they’re just leaving the door unlocked. Garbage.",
@@ -684,17 +629,6 @@
       "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
-      "tweet": "Meta has promo codes for Quest stuff this month. We’re all definitely just waiting for the games to go on sale anyway.",
-      "original_url": "https://www.wired.com/story/meta-quest-promo-code/",
-      "buzz_score": 72,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Meta Quest Promo Codes and Coupons for August 2026",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-08-11T07:51:30.139340+00:00"
-    },
-    {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
       "original_url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
       "buzz_score": 88,
@@ -882,26 +816,37 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "People in the Okanagan are out here dealing with constant evacuations. We’re just living in a constant state of fire drills now.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
+      "tweet": "So apparently it’s so hot in Rome right now they just put a curling rink right next to the Colosseum. I don’t know who decided that was the move, but it’s just wild.",
+      "original_url": "https://www.nytimes.com/2026/08/11/world/europe/italy-curling-rome.html",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-      "source": "BBC World",
+      "original_title": "In a Sweltering Summer, These Italians Want Romans to Curl",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-08-11T05:32:48.159326+00:00"
+      "added_at": "2026-08-11T05:32:48.158621+00:00"
     },
     {
-      "tweet": "Adam Driver and Miles Teller are doing a 1980s crime drama called Paper Tiger. I don't even need to know the plot, I'm already in.",
-      "original_url": "https://hypebeast.com/2026/8/neon-adam-driver-miles-teller-scarlett-johansson-james-gray-crime-drama-paper-tiger-teaser-trailer",
-      "buzz_score": 80,
+      "tweet": "That new Gundam director is saying the whole show is just a metaphor for being scared of AI. Like, are we just gonna let the machines write our sci-fi until they replace us?",
+      "original_url": "https://variety.com/2026/tv/news/mobile-suit-gundam-rg-xarx-zero-director-ai-metaphor-1236831178/",
+      "buzz_score": 75,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Adam Driver and Miles Teller Face off in James Gray's 1980s Crime Drama 'Paper Tiger'",
-      "source": "Hypebeast",
+      "original_title": "‘Mobile Suit Gundam RG XARX-ZERO’ Director Kamiyama Kenji Built His New Series Around a Metaphor for AI Fears: ‘Will We End Up Being Used by It?’",
+      "source": "Variety",
       "category": "entertainment",
-      "added_at": "2026-08-11T05:32:48.158858+00:00"
+      "added_at": "2026-08-11T07:51:30.139850+00:00"
+    },
+    {
+      "tweet": "Albanese is actually refusing to apologize for that whole melon gaffe with the Japanese PM. Dude really just told a whole country he’s not saying sorry for the fruit.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/11/australia-pm-anthony-albanese-refuses-to-apologise-japan-sanae-takaichi-melon-gaffe",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australia’s prime minister refuses to apologise to Japanese counterpart over melon gaffe",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-11T07:51:30.139062+00:00"
     },
     {
       "tweet": "Bro, Windows 11 is using over a gig of RAM just to check the weather. My computer is literally struggling to tell me if it’s raining outside. Insane.",
@@ -1023,6 +968,39 @@
       "source": "Deadline",
       "category": "entertainment",
       "added_at": "2026-08-04T04:28:08.778691+00:00"
+    },
+    {
+      "tweet": "Meta has promo codes for Quest stuff this month. We’re all definitely just waiting for the games to go on sale anyway.",
+      "original_url": "https://www.wired.com/story/meta-quest-promo-code/",
+      "buzz_score": 72,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Meta Quest Promo Codes and Coupons for August 2026",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-08-11T07:51:30.139340+00:00"
+    },
+    {
+      "tweet": "People in the Okanagan are out here dealing with constant evacuations. We’re just living in a constant state of fire drills now.",
+      "original_url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-11T05:32:48.159326+00:00"
+    },
+    {
+      "tweet": "Adam Driver and Miles Teller are doing a 1980s crime drama called Paper Tiger. I don't even need to know the plot, I'm already in.",
+      "original_url": "https://hypebeast.com/2026/8/neon-adam-driver-miles-teller-scarlett-johansson-james-gray-crime-drama-paper-tiger-teaser-trailer",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Adam Driver and Miles Teller Face off in James Gray's 1980s Crime Drama 'Paper Tiger'",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-08-11T05:32:48.158858+00:00"
     },
     {
       "tweet": "Omar Artan got denied at the border for that World Cup and now he’s ref-ing the Super Cup. Love to see the redemption arc tho",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2909,
+    "total_posted": 2911,
     "total_collected": 13706
   },
-  "last_posted_at": "2026-08-11T13:47:10.081936+00:00"
+  "last_posted_at": "2026-08-11T14:51:01.420942+00:00"
 }
