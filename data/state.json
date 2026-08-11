@@ -2,28 +2,6 @@
   "last_collected": "2026-08-11T22:01:53.510881+00:00",
   "queue": [
     {
-      "tweet": "A judge just blocked more of that Trump mail-in voting order. We're back to fighting over the post office again.",
-      "original_url": "https://www.npr.org/2026/08/11/nx-s1-5928383/trump-mail-in-voting-executive-order-usps",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "A judge expands a block on U.S. Postal Service work on Trump's mail-in voting order",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-11T22:01:53.509140+00:00"
-    },
-    {
-      "tweet": "The Backstreet Boys invited Snoop Dogg to their Vegas residency. I'm honestly so here for this.",
-      "original_url": "https://www.billboard.com/music/music-news/backstreet-boys-snoop-dogg-vegas-sphere-residency-1236314176/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Backstreet Boys Invite Snoop Dogg to Their Las Vegas Sphere Residency",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-11T22:01:53.509556+00:00"
-    },
-    {
       "tweet": "Did you see this? The UK is bringing that whole war on anonymity thing over to the US now. At this point privacy is just a suggestion.",
       "original_url": "https://www.effort.news/uk-lobby",
       "buzz_score": 85,
@@ -849,17 +827,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "CBA made an 11 billion profit while Australia is slashing housing codes. It's the classic bank move.",
-      "original_url": "https://www.theguardian.com/australia-news/live/2026/aug/12/australia-politics-live-question-time-anthony-albanese-angus-taylor-coalition-andrew-bragg-housing-construction-immigration-one-nation-pauline-hanson-gambling-melon-gift-japan-ndis-ntwnfb",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Australia politics live: Coalition to heavily cut net migration and shred 96% of house construction code; CBA posts bumper $11bn profit",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-11T22:01:53.509976+00:00"
-    },
-    {
       "tweet": "So apparently it’s so hot in Rome right now they just put a curling rink right next to the Colosseum. I don’t know who decided that was the move, but it’s just wild.",
       "original_url": "https://www.nytimes.com/2026/08/11/world/europe/italy-curling-rome.html",
       "buzz_score": 85,
@@ -990,6 +957,17 @@
       "source": "Deadline",
       "category": "entertainment",
       "added_at": "2026-08-04T04:28:08.778691+00:00"
+    },
+    {
+      "tweet": "CBA made an 11 billion profit while Australia is slashing housing codes. It's the classic bank move.",
+      "original_url": "https://www.theguardian.com/australia-news/live/2026/aug/12/australia-politics-live-question-time-anthony-albanese-angus-taylor-coalition-andrew-bragg-housing-construction-immigration-one-nation-pauline-hanson-gambling-melon-gift-japan-ndis-ntwnfb",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Australia politics live: Coalition to heavily cut net migration and shred 96% of house construction code; CBA posts bumper $11bn profit",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-11T22:01:53.509976+00:00"
     },
     {
       "tweet": "So they used real journalists as decoys on Air Force One. We're just NPCs in a game at this point.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2923,
+    "total_posted": 2925,
     "total_collected": 13744
   },
-  "last_posted_at": "2026-08-11T22:10:50.946317+00:00"
+  "last_posted_at": "2026-08-11T23:04:09.389206+00:00"
 }
