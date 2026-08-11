@@ -2,28 +2,6 @@
   "last_collected": "2026-08-11T02:58:49.849442+00:00",
   "queue": [
     {
-      "tweet": "Reading about financial guilt and man, it’s like they’re stalking my bank account. We all hate looking at the app",
-      "original_url": "https://www.npr.org/2026/08/10/nx-s1-5860936/does-spending-money-make-you-feel-bad-read-this-comic",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Does spending money make you feel bad? Read this comic",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-11T02:58:49.848563+00:00"
-    },
-    {
-      "tweet": "Hold on, the UK is actually trying to ban anonymity online and it’s headed for the US. Just when you thought the internet couldn’t get any more dystopian",
-      "original_url": "https://www.effort.news/uk-lobby",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The UK's War on Anonymity Has Come to America",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-11T02:58:49.847621+00:00"
-    },
-    {
       "tweet": "Meta is out here pitching another reboot of its AI strategy. Zuck really trying to make fetch happen.",
       "original_url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
       "buzz_score": 80,
@@ -99,17 +77,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Bro, Nvidia just dropped half a billion on AI infrastructure. Like they’re just building the matrix now, huh",
-      "original_url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-11T02:58:49.847628+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -860,15 +827,15 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Biggie’s manager just beat his widow in court for his music catalog. The industry is straight up ruthless",
-      "original_url": "https://www.rollingstone.com/music/music-news/biggie-manager-voletta-wallace-faith-evans-catalog-1235606554/",
-      "buzz_score": 82,
+      "tweet": "Bro, Nvidia just dropped half a billion on AI infrastructure. Like they’re just building the matrix now, huh",
+      "original_url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Biggie’s Manager Wins Battle Against Widow Faith Evans, Gains Partial Control Over Rapper’s Catalog",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-08-11T02:58:49.848295+00:00"
+      "original_title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-11T02:58:49.847628+00:00"
     },
     {
       "tweet": "Bro, Windows 11 is using over a gig of RAM just to check the weather. My computer is literally struggling to tell me if it’s raining outside. Insane.",
@@ -1001,6 +968,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-08-04T01:06:48.499557+00:00"
+    },
+    {
+      "tweet": "Biggie’s manager just beat his widow in court for his music catalog. The industry is straight up ruthless",
+      "original_url": "https://www.rollingstone.com/music/music-news/biggie-manager-voletta-wallace-faith-evans-catalog-1235606554/",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Biggie’s Manager Wins Battle Against Widow Faith Evans, Gains Partial Control Over Rapper’s Catalog",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-08-11T02:58:49.848295+00:00"
     },
     {
       "tweet": "Did you see that earthquake in Colombia? Over a hundred dead. That’s terrifying",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2899,
+    "total_posted": 2901,
     "total_collected": 13650
   },
-  "last_posted_at": "2026-08-11T03:07:50.471419+00:00"
+  "last_posted_at": "2026-08-11T04:22:30.568594+00:00"
 }
