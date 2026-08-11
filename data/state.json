@@ -937,17 +937,6 @@
       "added_at": "2026-08-11T19:43:16.289455+00:00"
     },
     {
-      "tweet": "So apparently people are out here stealing reasoning traces from AI models now. We're literally trying to reverse engineer how a robot thinks.",
-      "original_url": "https://stolen-thoughts.com/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-11T19:43:16.288994+00:00"
-    },
-    {
       "tweet": "People in the Okanagan are out here dealing with constant evacuations. We’re just living in a constant state of fire drills now.",
       "original_url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -968,6 +957,17 @@
       "source": "Hypebeast",
       "category": "entertainment",
       "added_at": "2026-08-11T05:32:48.158858+00:00"
+    },
+    {
+      "tweet": "So apparently people are out here stealing reasoning traces from AI models now. We're literally trying to reverse engineer how a robot thinks.",
+      "original_url": "https://stolen-thoughts.com/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-08-11T19:43:16.288994+00:00"
     },
     {
       "tweet": "That new Gundam director is saying the whole show is just a metaphor for being scared of AI. Like, are we just gonna let the machines write our sci-fi until they replace us?",
