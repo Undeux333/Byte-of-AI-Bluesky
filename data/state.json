@@ -2,17 +2,6 @@
   "last_collected": "2026-08-11T16:31:47.134277+00:00",
   "queue": [
     {
-      "tweet": "PSG is throwing a fit because they didn't like their dressing room at Red Bull Arena. Spoiled.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cre41pqy0r7o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Unhappy PSG given extra Super Cup dressing room",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-11T16:31:47.133485+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -805,17 +794,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Hungary just elected a guy Orban fired back into the top spot. Talk about an awkward office party.",
-      "original_url": "https://www.aljazeera.com/news/2026/8/11/hungary-elects-supreme-court-judge-ousted-by-orban-as-new-president?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hungary elects supreme court judge ousted by Orban as new president",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-11T16:31:47.133487+00:00"
-    },
-    {
       "tweet": "So apparently it’s so hot in Rome right now they just put a curling rink right next to the Colosseum. I don’t know who decided that was the move, but it’s just wild.",
       "original_url": "https://www.nytimes.com/2026/08/11/world/europe/italy-curling-rome.html",
       "buzz_score": 85,
@@ -948,26 +926,15 @@
       "added_at": "2026-08-04T04:28:08.778691+00:00"
     },
     {
-      "tweet": "Hollywood is actually making a Jeff The Killer movie now. Just scraping the bottom of the barrel at this point.",
-      "original_url": "https://kotaku.com/jeff-the-killer-movie-in-the-works-as-hollywood-chases-the-next-backrooms-hit-2000723415",
-      "buzz_score": 80,
+      "tweet": "Hungary just elected a guy Orban fired back into the top spot. Talk about an awkward office party.",
+      "original_url": "https://www.aljazeera.com/news/2026/8/11/hungary-elects-supreme-court-judge-ousted-by-orban-as-new-president?traffic_source=rss",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Jeff The Killer Movie In The Works As Hollywood Chases The Next Backrooms Hit",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-11T16:31:47.133776+00:00"
-    },
-    {
-      "tweet": "So Russia finally let that Marine go after holding him for kicking a cop while drunk. Guess they ran out of uses for him.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Russia releases former US Marine reported in poor health",
-      "source": "BBC World",
+      "original_title": "Hungary elects supreme court judge ousted by Orban as new president",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-08-11T16:31:47.133477+00:00"
+      "added_at": "2026-08-11T16:31:47.133487+00:00"
     },
     {
       "tweet": "People in the Okanagan are out here dealing with constant evacuations. We’re just living in a constant state of fire drills now.",
@@ -990,6 +957,28 @@
       "source": "Hypebeast",
       "category": "entertainment",
       "added_at": "2026-08-11T05:32:48.158858+00:00"
+    },
+    {
+      "tweet": "Hollywood is actually making a Jeff The Killer movie now. Just scraping the bottom of the barrel at this point.",
+      "original_url": "https://kotaku.com/jeff-the-killer-movie-in-the-works-as-hollywood-chases-the-next-backrooms-hit-2000723415",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Jeff The Killer Movie In The Works As Hollywood Chases The Next Backrooms Hit",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-11T16:31:47.133776+00:00"
+    },
+    {
+      "tweet": "So Russia finally let that Marine go after holding him for kicking a cop while drunk. Guess they ran out of uses for him.",
+      "original_url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Russia releases former US Marine reported in poor health",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-11T16:31:47.133477+00:00"
     },
     {
       "tweet": "That new Gundam director is saying the whole show is just a metaphor for being scared of AI. Like, are we just gonna let the machines write our sci-fi until they replace us?",
@@ -2018,8 +2007,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2917,
+    "total_posted": 2918,
     "total_collected": 13718
   },
-  "last_posted_at": "2026-08-11T17:45:37.227529+00:00"
+  "last_posted_at": "2026-08-11T18:31:29.124299+00:00"
 }
