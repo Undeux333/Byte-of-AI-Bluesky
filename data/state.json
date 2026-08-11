@@ -2,28 +2,6 @@
   "last_collected": "2026-08-11T16:31:47.134277+00:00",
   "queue": [
     {
-      "tweet": "The RBA is acting like a parent making threats they won't follow through on regarding rates. We've all seen that one before.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/12/reserve-bank-australia-rba-interest-rates-hike-warning-threat",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The RBA likely believes it won’t need to hike rates again – but the worst thing it could do is say that out loud",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-11T16:31:47.133645+00:00"
-    },
-    {
-      "tweet": "Man, deaths are actually outpacing births in 17 states now. Kinda makes you wonder how we're even gonna keep the lights on in a few years.",
-      "original_url": "https://www.mentalfloss.com/geography/maps/states-where-deaths-outnumber-births-map?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "See the 17 States Where Deaths Outnumber Births, Mapped",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-11T16:31:47.133469+00:00"
-    },
-    {
       "tweet": "PSG is throwing a fit because they didn't like their dressing room at Red Bull Arena. Spoiled.",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/cre41pqy0r7o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 82,
@@ -629,17 +607,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Hungary just elected a guy Orban fired back into the top spot. Talk about an awkward office party.",
-      "original_url": "https://www.aljazeera.com/news/2026/8/11/hungary-elects-supreme-court-judge-ousted-by-orban-as-new-president?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hungary elects supreme court judge ousted by Orban as new president",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-11T16:31:47.133487+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -836,6 +803,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "Hungary just elected a guy Orban fired back into the top spot. Talk about an awkward office party.",
+      "original_url": "https://www.aljazeera.com/news/2026/8/11/hungary-elects-supreme-court-judge-ousted-by-orban-as-new-president?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hungary elects supreme court judge ousted by Orban as new president",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-11T16:31:47.133487+00:00"
     },
     {
       "tweet": "So apparently it’s so hot in Rome right now they just put a curling rink right next to the Colosseum. I don’t know who decided that was the move, but it’s just wild.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2915,
+    "total_posted": 2917,
     "total_collected": 13718
   },
-  "last_posted_at": "2026-08-11T16:36:51.292118+00:00"
+  "last_posted_at": "2026-08-11T17:45:37.227529+00:00"
 }
