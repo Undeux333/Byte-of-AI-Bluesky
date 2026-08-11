@@ -79,17 +79,6 @@
       "added_at": "2026-08-11T00:51:16.680654+00:00"
     },
     {
-      "tweet": "Did you see that list of best cities to work from a cafe? It basically just ranks places based on how quickly you can get bored and switch to a new tab.",
-      "original_url": "https://www.mentalfloss.com/geography/cities/best-us-cities-cafe-workers?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Best U.S. Cities for Cafe Workers, Ranked (And Why NYC Didn't Make the Cut)",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-11T00:51:16.680641+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -121,6 +110,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Did you see that list of best cities to work from a cafe? It basically just ranks places based on how quickly you can get bored and switch to a new tab.",
+      "original_url": "https://www.mentalfloss.com/geography/cities/best-us-cities-cafe-workers?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Best U.S. Cities for Cafe Workers, Ranked (And Why NYC Didn't Make the Cut)",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-08-11T00:51:16.680641+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -673,28 +673,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "The trial for that Tupac murder suspect finally kicked off. Feels like we’ve been hearing about that whole thing for a hundred years.",
-      "original_url": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-11T05:32:48.159234+00:00"
-    },
-    {
-      "tweet": "Hold on, this lobbying firm actually invented a fake assistant named Jessica just to bypass rules. At this point we’re just watching them write their own scripts.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/11/christian-reformers-firm-fake-assistant-jessica-icac-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Lobbying firm linked to Reformers created fake administrative assistant named ‘Jessica’, Icac hears",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-11T05:32:48.158627+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -891,6 +869,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "The trial for that Tupac murder suspect finally kicked off. Feels like we’ve been hearing about that whole thing for a hundred years.",
+      "original_url": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-11T05:32:48.159234+00:00"
+    },
+    {
+      "tweet": "Hold on, this lobbying firm actually invented a fake assistant named Jessica just to bypass rules. At this point we’re just watching them write their own scripts.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/11/christian-reformers-firm-fake-assistant-jessica-icac-ntwnfb",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Lobbying firm linked to Reformers created fake administrative assistant named ‘Jessica’, Icac hears",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-11T05:32:48.158627+00:00"
     },
     {
       "tweet": "Bro, Windows 11 is using over a gig of RAM just to check the weather. My computer is literally struggling to tell me if it’s raining outside. Insane.",
