@@ -112,17 +112,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Zelensky just said Russia is using North Korean missiles to hit Ukraine now. It's just a proxy war playground at this point",
-      "original_url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-11T10:31:08.320250+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -673,15 +662,15 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "They're growing mini human brains in labs now called organoids. We're just waiting for Skynet at this point",
-      "original_url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
-      "buzz_score": 85,
+      "tweet": "Zelensky just said Russia is using North Korean missiles to hit Ukraine now. It's just a proxy war playground at this point",
+      "original_url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "AI Is Dead. Organoids Are Alive",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-08-11T10:31:08.321201+00:00"
+      "original_title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-11T10:31:08.320250+00:00"
     },
     {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
@@ -880,6 +869,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "They're growing mini human brains in labs now called organoids. We're just waiting for Skynet at this point",
+      "original_url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "AI Is Dead. Organoids Are Alive",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-08-11T10:31:08.321201+00:00"
     },
     {
       "tweet": "Bro, Windows 11 is using over a gig of RAM just to check the weather. My computer is literally struggling to tell me if it’s raining outside. Insane.",
