@@ -123,39 +123,6 @@
       "added_at": "2026-06-24T11:28:23.259709+00:00"
     },
     {
-      "tweet": "Meta is out here pitching another reboot of its AI strategy. Zuck really trying to make fetch happen.",
-      "original_url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
-      "source": "Ars Technica",
-      "category": "tech",
-      "added_at": "2026-08-11T00:51:16.681773+00:00"
-    },
-    {
-      "tweet": "OpenAI is launching a new cyber-trained model to stop AI-led attacks. It’s like being the arsonist and the firefighter at the same time.",
-      "original_url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-08-11T00:51:16.681482+00:00"
-    },
-    {
-      "tweet": "DiJonai Carrington told people to do their own research after that whole thing. Nobody ever actually does the research, they just want to be mad.",
-      "original_url": "https://www.bbc.co.uk/sport/basketball/articles/clyqxln3rrpo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Carrington tells critics to do 'research' over 'white privilege' post",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-11T00:51:16.680654+00:00"
-    },
-    {
       "tweet": "Did you see that over 181,000 AI meeting recordings were just left wide open? We're out here trusting these apps with everything and they’re just leaving the door unlocked. Garbage.",
       "original_url": "https://bobdahacker.com/blog/tldv-hack",
       "buzz_score": 90,
@@ -695,17 +662,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Hold on, they’re actually doing Camp Rock 3? I’m pretty sure nobody was asking for that, but here we are.",
-      "original_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/demi-lovato-camp-rock-3-reprise-role-jonas-brothers-1235606635/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Demi Lovato to Reprise Role in ‘Camp Rock 3’: ‘Y’all Miss Me?’",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-08-11T07:51:30.139710+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -715,6 +671,39 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
+    },
+    {
+      "tweet": "Meta is out here pitching another reboot of its AI strategy. Zuck really trying to make fetch happen.",
+      "original_url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+      "source": "Ars Technica",
+      "category": "tech",
+      "added_at": "2026-08-11T00:51:16.681773+00:00"
+    },
+    {
+      "tweet": "OpenAI is launching a new cyber-trained model to stop AI-led attacks. It’s like being the arsonist and the firefighter at the same time.",
+      "original_url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-08-11T00:51:16.681482+00:00"
+    },
+    {
+      "tweet": "DiJonai Carrington told people to do their own research after that whole thing. Nobody ever actually does the research, they just want to be mad.",
+      "original_url": "https://www.bbc.co.uk/sport/basketball/articles/clyqxln3rrpo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Carrington tells critics to do 'research' over 'white privilege' post",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-11T00:51:16.680654+00:00"
     },
     {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
@@ -904,15 +893,15 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Did you see that list of best cities to work from a cafe? It basically just ranks places based on how quickly you can get bored and switch to a new tab.",
-      "original_url": "https://www.mentalfloss.com/geography/cities/best-us-cities-cafe-workers?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
+      "tweet": "Hold on, they’re actually doing Camp Rock 3? I’m pretty sure nobody was asking for that, but here we are.",
+      "original_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/demi-lovato-camp-rock-3-reprise-role-jonas-brothers-1235606635/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "The Best U.S. Cities for Cafe Workers, Ranked (And Why NYC Didn't Make the Cut)",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-11T00:51:16.680641+00:00"
+      "original_title": "Demi Lovato to Reprise Role in ‘Camp Rock 3’: ‘Y’all Miss Me?’",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-08-11T07:51:30.139710+00:00"
     },
     {
       "tweet": "Bro, Windows 11 is using over a gig of RAM just to check the weather. My computer is literally struggling to tell me if it’s raining outside. Insane.",
@@ -1034,6 +1023,17 @@
       "source": "Deadline",
       "category": "entertainment",
       "added_at": "2026-08-04T04:28:08.778691+00:00"
+    },
+    {
+      "tweet": "Did you see that list of best cities to work from a cafe? It basically just ranks places based on how quickly you can get bored and switch to a new tab.",
+      "original_url": "https://www.mentalfloss.com/geography/cities/best-us-cities-cafe-workers?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Best U.S. Cities for Cafe Workers, Ranked (And Why NYC Didn't Make the Cut)",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-08-11T00:51:16.680641+00:00"
     }
   ],
   "seen_urls": [
