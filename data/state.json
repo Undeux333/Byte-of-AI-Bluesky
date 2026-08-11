@@ -2,28 +2,6 @@
   "last_collected": "2026-08-11T22:01:53.510881+00:00",
   "queue": [
     {
-      "tweet": "Did you see this? The UK is bringing that whole war on anonymity thing over to the US now. At this point privacy is just a suggestion.",
-      "original_url": "https://www.effort.news/uk-lobby",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The UK's war on anonymity has come to America",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-11T22:01:53.509128+00:00"
-    },
-    {
-      "tweet": "Some fans built a 2D Metroid Prime demake for the anniversary. It's that kind of passion that keeps games alive.",
-      "original_url": "https://kotaku.com/metroid-prime-origins-2d-demake-remake-fans-2000723548",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fans Created A 2D Demake Of Metroid Prime In Celebration of Metroid Turning 40",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-11T22:01:53.510234+00:00"
-    },
-    {
       "tweet": "The Secret Service is literally playing shell games to hide the President. It's that vibe when you're trying to sneak out of the house without being seen.",
       "original_url": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -970,28 +948,6 @@
       "added_at": "2026-08-11T22:01:53.509976+00:00"
     },
     {
-      "tweet": "So they used real journalists as decoys on Air Force One. We're just NPCs in a game at this point.",
-      "original_url": "https://www.theguardian.com/us-news/2026/aug/11/trump-air-force-one-deception-democrats",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump’s Air Force One deception faces scrutiny over ‘decoy’ passengers",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-11T22:01:53.510107+00:00"
-    },
-    {
-      "tweet": "So apparently the US just fired missiles at a cargo ship in the Gulf of Oman. Imagine being the captain of that boat just trying to do your job.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-11T22:01:53.509134+00:00"
-    },
-    {
       "tweet": "People in the Okanagan are out here dealing with constant evacuations. We’re just living in a constant state of fire drills now.",
       "original_url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -1012,6 +968,28 @@
       "source": "Hypebeast",
       "category": "entertainment",
       "added_at": "2026-08-11T05:32:48.158858+00:00"
+    },
+    {
+      "tweet": "So they used real journalists as decoys on Air Force One. We're just NPCs in a game at this point.",
+      "original_url": "https://www.theguardian.com/us-news/2026/aug/11/trump-air-force-one-deception-democrats",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump’s Air Force One deception faces scrutiny over ‘decoy’ passengers",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-11T22:01:53.510107+00:00"
+    },
+    {
+      "tweet": "So apparently the US just fired missiles at a cargo ship in the Gulf of Oman. Imagine being the captain of that boat just trying to do your job.",
+      "original_url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-11T22:01:53.509134+00:00"
     }
   ],
   "seen_urls": [
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2925,
+    "total_posted": 2927,
     "total_collected": 13744
   },
-  "last_posted_at": "2026-08-11T23:04:09.389206+00:00"
+  "last_posted_at": "2026-08-11T23:43:46.608987+00:00"
 }
