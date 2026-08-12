@@ -596,39 +596,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Some guy just maxed his fishing in RuneScape using only the starter net. We really will do anything to avoid actually working.",
-      "original_url": "https://kotaku.com/old-school-runescape-fishing-starter-net-shrimp-nothing-matters-2000723831",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Someone Just Maxed Out Their Fishing In Old School RuneScape Using Only The Starter Net: ‘Nothing Matters’",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-12T19:17:07.810752+00:00"
-    },
-    {
-      "tweet": "Eurovision is banning countries in armed conflict now. Like, who even thinks they're solving anything with that.",
-      "original_url": "https://www.theguardian.com/tv-and-radio/2026/aug/12/broadcasters-to-be-barred-from-eurovision-song-contest-if-state-involved-in-armed-conflict",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Countries in ‘armed conflict’ barred from hosting Eurovision",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-12T19:17:07.810623+00:00"
-    },
-    {
-      "tweet": "So apparently Mourinho is back at Real Madrid. At this point we're just recycling the same five managers forever.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cddjpz6q3d6o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Can Mourinho restore Real Madrid to former glory?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-12T19:17:07.810365+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -827,6 +794,39 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
+      "tweet": "Some guy just maxed his fishing in RuneScape using only the starter net. We really will do anything to avoid actually working.",
+      "original_url": "https://kotaku.com/old-school-runescape-fishing-starter-net-shrimp-nothing-matters-2000723831",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Someone Just Maxed Out Their Fishing In Old School RuneScape Using Only The Starter Net: ‘Nothing Matters’",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-12T19:17:07.810752+00:00"
+    },
+    {
+      "tweet": "Eurovision is banning countries in armed conflict now. Like, who even thinks they're solving anything with that.",
+      "original_url": "https://www.theguardian.com/tv-and-radio/2026/aug/12/broadcasters-to-be-barred-from-eurovision-song-contest-if-state-involved-in-armed-conflict",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Countries in ‘armed conflict’ barred from hosting Eurovision",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-12T19:17:07.810623+00:00"
+    },
+    {
+      "tweet": "So apparently Mourinho is back at Real Madrid. At this point we're just recycling the same five managers forever.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cddjpz6q3d6o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Can Mourinho restore Real Madrid to former glory?",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-12T19:17:07.810365+00:00"
+    },
+    {
       "tweet": "So apparently it’s so hot in Rome right now they just put a curling rink right next to the Colosseum. I don’t know who decided that was the move, but it’s just wild.",
       "original_url": "https://www.nytimes.com/2026/08/11/world/europe/italy-curling-rome.html",
       "buzz_score": 85,
@@ -981,17 +981,6 @@
       "added_at": "2026-08-12T19:17:07.810212+00:00"
     },
     {
-      "tweet": "Sydney airport is a total disaster right now. How are they expecting people to run a major hub when the staff is just exhausted?",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/13/whats-behind-sydney-airports-heavy-delays-and-near-miss-incident",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "What’s behind Sydney airport’s heavy delays and near-miss incident?",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-12T16:07:58.321938+00:00"
-    },
-    {
       "tweet": "Memphis Depay is calling out Corinthians for unacceptable behavior after they dropped him. That's tough.",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/cwym29gnkzdo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -1001,6 +990,17 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-08-12T08:59:06.246664+00:00"
+    },
+    {
+      "tweet": "Sydney airport is a total disaster right now. How are they expecting people to run a major hub when the staff is just exhausted?",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/13/whats-behind-sydney-airports-heavy-delays-and-near-miss-incident",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "What’s behind Sydney airport’s heavy delays and near-miss incident?",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-12T16:07:58.321938+00:00"
     },
     {
       "tweet": "People are already arguing about GOTY 2026 predictions. We're literally just living for the next GTA release.",
