@@ -2,28 +2,6 @@
   "last_collected": "2026-08-12T11:09:23.994102+00:00",
   "queue": [
     {
-      "tweet": "Rod Stewart’s canceling his farewell tour after a heart procedure. Can you even have a farewell tour at eighty-one",
-      "original_url": "https://www.billboard.com/music/music-news/rod-stewart-cancels-north-american-tour-heart-procedure-1236314669/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Rod Stewart Cancels North American Farewell Tour After Heart Procedure: ‘Deeply Disappointed to Miss These Shows’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-12T11:09:23.992532+00:00"
-    },
-    {
-      "tweet": "The Japanese ambassador is downplaying that whole melon gaffe with Albanese. What a weird thing to deal with.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/12/anthony-albanese-japanese-prime-minister-melon-gate-coalition",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Japanese ambassador to Australia downplays Albanese melon gaffe as Taylor claims PM has ‘stuffed up’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-12T08:59:06.247090+00:00"
-    },
-    {
       "tweet": "50 Cent said his old nickname used to be Boo Boo. That's cold.",
       "original_url": "https://www.billboard.com/music/rb-hip-hop/curtis-50-cent-jackson-nicknamed-boo-boo-1236314642/",
       "buzz_score": 80,
@@ -88,17 +66,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "BMG just signed a deal with Suno for AI music. So they spent years suing them just to let them keep the tech anyway.",
-      "original_url": "https://www.billboard.com/pro/suno-bmg-licensing-deal-ai-music-use/",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "BMG and Suno Reach Licensing Deal for AI Music Model",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-12T11:09:23.992535+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -660,6 +627,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "BMG just signed a deal with Suno for AI music. So they spent years suing them just to let them keep the tech anyway.",
+      "original_url": "https://www.billboard.com/pro/suno-bmg-licensing-deal-ai-music-use/",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "BMG and Suno Reach Licensing Deal for AI Music Model",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-08-12T11:09:23.992535+00:00"
     },
     {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2942,
+    "total_posted": 2944,
     "total_collected": 13824
   },
-  "last_posted_at": "2026-08-12T11:15:38.738266+00:00"
+  "last_posted_at": "2026-08-12T12:01:36.828275+00:00"
 }
