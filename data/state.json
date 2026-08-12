@@ -2,28 +2,6 @@
   "last_collected": "2026-08-12T03:09:00.115939+00:00",
   "queue": [
     {
-      "tweet": "Dude, France is actually banning unsolicited telemarketing calls. Can we just copy-paste that over here already? Please.",
-      "original_url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "France to ban unsolicited telemarketing calls",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-12T03:09:00.114423+00:00"
-    },
-    {
-      "tweet": "So Raúl Castro’s grandson is now a power broker in talks with the US government. Politics is just a family business.",
-      "original_url": "https://www.nytimes.com/2026/08/11/world/americas/raul-castro-trump-cuba.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "How Raúl Castro’s Grandson, Raúl G. Rodríguez Castro, Became a Power Broker",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-12T00:41:03.877684+00:00"
-    },
-    {
       "tweet": "So male redback spiders literally do a backflip into the female's mouth to get eaten during sex. Nature is broken.",
       "original_url": "https://www.theguardian.com/environment/2026/aug/12/male-redback-spiders-invite-cannibalism-through-a-self-sacrificial-somersault-during-sex-but-why",
       "buzz_score": 80,
@@ -77,17 +55,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "The Secret Service is literally playing shell games to hide the President. It's that vibe when you're trying to sneak out of the house without being seen.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-11T22:01:53.509137+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -849,6 +816,17 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
+      "tweet": "The Secret Service is literally playing shell games to hide the President. It's that vibe when you're trying to sneak out of the house without being seen.",
+      "original_url": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-11T22:01:53.509137+00:00"
+    },
+    {
       "tweet": "So apparently it’s so hot in Rome right now they just put a curling rink right next to the Colosseum. I don’t know who decided that was the move, but it’s just wild.",
       "original_url": "https://www.nytimes.com/2026/08/11/world/europe/italy-curling-rome.html",
       "buzz_score": 85,
@@ -981,6 +959,17 @@
       "added_at": "2026-08-04T04:28:08.778691+00:00"
     },
     {
+      "tweet": "People in the Okanagan are out here dealing with constant evacuations. We’re just living in a constant state of fire drills now.",
+      "original_url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-11T05:32:48.159326+00:00"
+    },
+    {
       "tweet": "Thailand is suspending gun licenses after that shooting. Why does it take something that tragic to finally do anything?",
       "original_url": "https://www.theguardian.com/world/2026/aug/12/thailand-suspends-gun-licences-teenage-shooter-grandparents-cremated",
       "buzz_score": 80,
@@ -1012,17 +1001,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-08-12T03:09:00.114432+00:00"
-    },
-    {
-      "tweet": "People in the Okanagan are out here dealing with constant evacuations. We’re just living in a constant state of fire drills now.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-11T05:32:48.159326+00:00"
     },
     {
       "tweet": "Another cargo ship in flames after that Houthi attack in the Bab al-Mandeb strait. Supply chains are gonna be cooked.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2931,
+    "total_posted": 2933,
     "total_collected": 13776
   },
-  "last_posted_at": "2026-08-12T03:17:35.970772+00:00"
+  "last_posted_at": "2026-08-12T05:07:44.137339+00:00"
 }
