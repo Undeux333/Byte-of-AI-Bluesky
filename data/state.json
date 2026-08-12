@@ -2,17 +2,6 @@
   "last_collected": "2026-08-12T14:06:14.119969+00:00",
   "queue": [
     {
-      "tweet": "Saber Interactive is out here saying they didn't replace their writers with AI, but they definitely used AI for the game. Sure, man.",
-      "original_url": "https://kotaku.com/saber-interactive-rideshare-stimulator-gen-ai-2000723770",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Saber Interactive Denies Former Writer’s Claims She Was Replaced By GenAI On Their New Rideshare Game",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-12T14:06:14.118707+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -44,17 +33,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Memphis Depay is calling out Corinthians for unacceptable behavior after they dropped him. That's tough.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cwym29gnkzdo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Depay says Corinthians 'unacceptable' as contract ends",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-12T08:59:06.246664+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -618,6 +596,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Memphis Depay is calling out Corinthians for unacceptable behavior after they dropped him. That's tough.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cwym29gnkzdo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Depay says Corinthians 'unacceptable' as contract ends",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-12T08:59:06.246664+00:00"
+    },
+    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -816,17 +805,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "They just pulled a woman out of that Colombia earthquake rubble after 36 hours. Absolute miracle.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Woman pulled alive from rubble 36 hours after Colombia quake",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-12T14:06:14.118878+00:00"
-    },
-    {
       "tweet": "So apparently it’s so hot in Rome right now they just put a curling rink right next to the Colosseum. I don’t know who decided that was the move, but it’s just wild.",
       "original_url": "https://www.nytimes.com/2026/08/11/world/europe/italy-curling-rome.html",
       "buzz_score": 85,
@@ -957,6 +935,17 @@
       "source": "Deadline",
       "category": "entertainment",
       "added_at": "2026-08-04T04:28:08.778691+00:00"
+    },
+    {
+      "tweet": "They just pulled a woman out of that Colombia earthquake rubble after 36 hours. Absolute miracle.",
+      "original_url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Woman pulled alive from rubble 36 hours after Colombia quake",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-12T14:06:14.118878+00:00"
     },
     {
       "tweet": "Seeing Jason Sudeikis on stage singing the Ted Lasso theme is the wholesome energy we all need right now.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2948,
+    "total_posted": 2949,
     "total_collected": 13840
   },
-  "last_posted_at": "2026-08-12T14:11:27.268467+00:00"
+  "last_posted_at": "2026-08-12T15:11:37.181593+00:00"
 }
