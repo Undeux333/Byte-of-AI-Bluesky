@@ -2,39 +2,6 @@
   "last_collected": "2026-08-12T06:10:01.235036+00:00",
   "queue": [
     {
-      "tweet": "Did you see Mark Zuckerberg talking about open models? It's crazy how he's playing the good guy now that he's got everything he wants. Corporate pivot.",
-      "original_url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-12T06:10:01.233426+00:00"
-    },
-    {
-      "tweet": "So male redback spiders literally do a backflip into the female's mouth to get eaten during sex. Nature is broken.",
-      "original_url": "https://www.theguardian.com/environment/2026/aug/12/male-redback-spiders-invite-cannibalism-through-a-self-sacrificial-somersault-during-sex-but-why",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Male redback spiders invite cannibalism through a ‘self-sacrificial somersault’ during sex – but why?",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-12T00:41:03.877384+00:00"
-    },
-    {
-      "tweet": "Dude, they literally turned that whole luxury Forest City ghost town in Malaysia into a massive scam center. Peak capitalism.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "These seaside apartments were a ghost city - then police say scammers moved in",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-12T00:41:03.877035+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -77,6 +44,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "So male redback spiders literally do a backflip into the female's mouth to get eaten during sex. Nature is broken.",
+      "original_url": "https://www.theguardian.com/environment/2026/aug/12/male-redback-spiders-invite-cannibalism-through-a-self-sacrificial-somersault-during-sex-but-why",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Male redback spiders invite cannibalism through a ‘self-sacrificial somersault’ during sex – but why?",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-12T00:41:03.877384+00:00"
+    },
+    {
+      "tweet": "Dude, they literally turned that whole luxury Forest City ghost town in Malaysia into a massive scam center. Peak capitalism.",
+      "original_url": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "These seaside apartments were a ghost city - then police say scammers moved in",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-12T00:41:03.877035+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
@@ -629,17 +618,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Hold on, Beijing is literally getting a third of their annual rain in one day. That's not rain, that's a baptism.",
-      "original_url": "https://www.theguardian.com/world/2026/aug/12/tyhpoon-dolphin-beijing-thousands-evacuated-flooding-rainfall",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Mass evacuations in Beijing as Typhoon Dolphin brings more torrential rain to China",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-12T06:10:01.233731+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -968,6 +946,17 @@
       "source": "Deadline",
       "category": "entertainment",
       "added_at": "2026-08-04T04:28:08.778691+00:00"
+    },
+    {
+      "tweet": "Hold on, Beijing is literally getting a third of their annual rain in one day. That's not rain, that's a baptism.",
+      "original_url": "https://www.theguardian.com/world/2026/aug/12/tyhpoon-dolphin-beijing-thousands-evacuated-flooding-rainfall",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Mass evacuations in Beijing as Typhoon Dolphin brings more torrential rain to China",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-12T06:10:01.233731+00:00"
     },
     {
       "tweet": "Zelenskyy says they've sent plans to the US to end the war, but we all know how that goes. It's just a cycle.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2935,
+    "total_posted": 2936,
     "total_collected": 13792
   },
-  "last_posted_at": "2026-08-12T06:18:32.053005+00:00"
+  "last_posted_at": "2026-08-12T07:48:03.258268+00:00"
 }
