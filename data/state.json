@@ -2,28 +2,6 @@
   "last_collected": "2026-08-12T11:09:23.994102+00:00",
   "queue": [
     {
-      "tweet": "50 Cent said his old nickname used to be Boo Boo. That's cold.",
-      "original_url": "https://www.billboard.com/music/rb-hip-hop/curtis-50-cent-jackson-nicknamed-boo-boo-1236314642/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Curtis ‘50 Cent’ Jackson Was Once Nicknamed Boo Boo",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-12T08:59:06.246501+00:00"
-    },
-    {
-      "tweet": "Rybakina just pulled a massive comeback against Osaka. Gauff better watch out.",
-      "original_url": "https://www.aljazeera.com/sports/2026/8/12/rybakina-defeats-osaka-advances-to-canadian-open-semifinals-to-play-gauff?traffic_source=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Rybakina defeats Osaka, advances to Canadian Open semifinals to play Gauff",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-12T08:59:06.246800+00:00"
-    },
-    {
       "tweet": "Memphis Depay is calling out Corinthians for unacceptable behavior after they dropped him. That's tough.",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/cwym29gnkzdo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -629,17 +607,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "BMG just signed a deal with Suno for AI music. So they spent years suing them just to let them keep the tech anyway.",
-      "original_url": "https://www.billboard.com/pro/suno-bmg-licensing-deal-ai-music-use/",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "BMG and Suno Reach Licensing Deal for AI Music Model",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-12T11:09:23.992535+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -836,6 +803,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "BMG just signed a deal with Suno for AI music. So they spent years suing them just to let them keep the tech anyway.",
+      "original_url": "https://www.billboard.com/pro/suno-bmg-licensing-deal-ai-music-use/",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "BMG and Suno Reach Licensing Deal for AI Music Model",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-08-12T11:09:23.992535+00:00"
     },
     {
       "tweet": "So apparently it’s so hot in Rome right now they just put a curling rink right next to the Colosseum. I don’t know who decided that was the move, but it’s just wild.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2944,
+    "total_posted": 2946,
     "total_collected": 13824
   },
-  "last_posted_at": "2026-08-12T12:01:36.828275+00:00"
+  "last_posted_at": "2026-08-12T12:53:19.850100+00:00"
 }
