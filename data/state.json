@@ -2,28 +2,6 @@
   "last_collected": "2026-08-12T08:59:06.248290+00:00",
   "queue": [
     {
-      "tweet": "Dude, Singapore and South Korea are actually banning Trader Joe's bagel seasoning 'cause of the poppy seeds. That's literally just spice.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-12T08:59:06.246492+00:00"
-    },
-    {
-      "tweet": "There’s a massive leak for the new Pokémon game and people are actually excited for a change. We're all just tired of the same old stuff.",
-      "original_url": "https://www.polygon.com/pokemon-winds-waves-new-directors-tani-ichiraku-ohmori/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Pokémon Winds and Waves Massive Leak May Finally Make Series Haters Happy",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-12T08:59:06.247621+00:00"
-    },
-    {
       "tweet": "The Japanese ambassador is downplaying that whole melon gaffe with Albanese. What a weird thing to deal with.",
       "original_url": "https://www.theguardian.com/australia-news/2026/aug/12/anthony-albanese-japanese-prime-minister-melon-gate-coalition",
       "buzz_score": 80,
@@ -860,28 +838,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "So male redback spiders literally do a backflip into the female's mouth to get eaten during sex. Nature is broken.",
-      "original_url": "https://www.theguardian.com/environment/2026/aug/12/male-redback-spiders-invite-cannibalism-through-a-self-sacrificial-somersault-during-sex-but-why",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Male redback spiders invite cannibalism through a ‘self-sacrificial somersault’ during sex – but why?",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-12T00:41:03.877384+00:00"
-    },
-    {
-      "tweet": "Dude, they literally turned that whole luxury Forest City ghost town in Malaysia into a massive scam center. Peak capitalism.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "These seaside apartments were a ghost city - then police say scammers moved in",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-12T00:41:03.877035+00:00"
-    },
-    {
       "tweet": "So apparently it’s so hot in Rome right now they just put a curling rink right next to the Colosseum. I don’t know who decided that was the move, but it’s just wild.",
       "original_url": "https://www.nytimes.com/2026/08/11/world/europe/italy-curling-rome.html",
       "buzz_score": 85,
@@ -1012,6 +968,28 @@
       "source": "Deadline",
       "category": "entertainment",
       "added_at": "2026-08-04T04:28:08.778691+00:00"
+    },
+    {
+      "tweet": "So male redback spiders literally do a backflip into the female's mouth to get eaten during sex. Nature is broken.",
+      "original_url": "https://www.theguardian.com/environment/2026/aug/12/male-redback-spiders-invite-cannibalism-through-a-self-sacrificial-somersault-during-sex-but-why",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Male redback spiders invite cannibalism through a ‘self-sacrificial somersault’ during sex – but why?",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-12T00:41:03.877384+00:00"
+    },
+    {
+      "tweet": "Dude, they literally turned that whole luxury Forest City ghost town in Malaysia into a massive scam center. Peak capitalism.",
+      "original_url": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "These seaside apartments were a ghost city - then police say scammers moved in",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-12T00:41:03.877035+00:00"
     },
     {
       "tweet": "That X-Men '97 post-credits scene just teased a whole new villain team-up. Man, I need to catch up.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2938,
+    "total_posted": 2940,
     "total_collected": 13808
   },
-  "last_posted_at": "2026-08-12T09:07:29.195020+00:00"
+  "last_posted_at": "2026-08-12T10:07:27.714260+00:00"
 }
