@@ -2,28 +2,6 @@
   "last_collected": "2026-08-12T23:55:49.501466+00:00",
   "queue": [
     {
-      "tweet": "So the army just left those families trapped by settlers. Absolute joke.",
-      "original_url": "https://www.nytimes.com/2026/08/12/world/middleeast/west-bank-palestinians-israeli-settlers.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Palestinians Trapped by Settlers for Days as Israeli Army Shows Up, and Then Leaves",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-12T23:55:49.500826+00:00"
-    },
-    {
-      "tweet": "Claude users are losing it 'cause Anthropic is watermarking AI outputs to catch people using it at work. They're literally snitching on themselves.",
-      "original_url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-08-12T23:55:49.500193+00:00"
-    },
-    {
       "tweet": "Bro, people in Japan are actually buying these wearable human fridges to stay cool. We’re living in a cartoon now.",
       "original_url": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -838,17 +816,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "That group Our Rescue just landed a massive contract for immigrant kids. Wait, aren't they just that old Operation Underground Railroad group?",
-      "original_url": "https://www.npr.org/2026/08/12/nx-s1-5929456/migrant-children-our-rescue",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Controversial group wins $158M-contract to represent unaccompanied immigrant children",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-12T21:43:21.143317+00:00"
-    },
-    {
       "tweet": "So apparently it’s so hot in Rome right now they just put a curling rink right next to the Colosseum. I don’t know who decided that was the move, but it’s just wild.",
       "original_url": "https://www.nytimes.com/2026/08/11/world/europe/italy-curling-rome.html",
       "buzz_score": 85,
@@ -979,6 +946,17 @@
       "source": "Deadline",
       "category": "entertainment",
       "added_at": "2026-08-04T04:28:08.778691+00:00"
+    },
+    {
+      "tweet": "That group Our Rescue just landed a massive contract for immigrant kids. Wait, aren't they just that old Operation Underground Railroad group?",
+      "original_url": "https://www.npr.org/2026/08/12/nx-s1-5929456/migrant-children-our-rescue",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Controversial group wins $158M-contract to represent unaccompanied immigrant children",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-12T21:43:21.143317+00:00"
     },
     {
       "tweet": "So apparently someone is suing Trump Media because they’re selling faster access to Truth Social posts. Imagine paying extra for a faster feed of that.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2957,
+    "total_posted": 2959,
     "total_collected": 13900
   },
-  "last_posted_at": "2026-08-13T00:03:14.031455+00:00"
+  "last_posted_at": "2026-08-13T01:05:29.116571+00:00"
 }
