@@ -2,28 +2,6 @@
   "last_collected": "2026-08-13T11:26:05.647390+00:00",
   "queue": [
     {
-      "tweet": "Anthony Taylor’s finally retiring from refereeing because the toxic abuse got to be too much. Man, we all have that job we just need to walk away from.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/czxq25zejj4o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Critical former referees add to culture of fear, says retiring Taylor",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-13T11:26:05.645764+00:00"
-    },
-    {
-      "tweet": "Hold on, so license plate readers are tracking us everywhere but you still need a warrant for everything else? Like, why are we even pretending there's privacy?",
-      "original_url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "License plate reader searches should require a warrant",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-13T11:26:05.645757+00:00"
-    },
-    {
       "tweet": "Henry Cavill’s got this random action movie that’s basically a 007 audition and it’s free to stream now. Sometimes you just need to watch a guy be Bond.",
       "original_url": "https://www.polygon.com/henry-cavill-movies-free-streaming-august-2026/",
       "buzz_score": 80,
@@ -88,17 +66,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Did you see those eclipse photos from Europe? The sky looked like it was from a different planet. Unreal.",
-      "original_url": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Photos: See the best photos from the solar eclipse",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-13T03:26:50.677482+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -662,15 +629,15 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Read that people with schizophrenia are way more at risk during heat waves than anyone else. It's wild what gets ignored on a hotter planet.",
-      "original_url": "https://www.wired.com/story/heat-wave-schizophrenia/",
+      "tweet": "Did you see those eclipse photos from Europe? The sky looked like it was from a different planet. Unreal.",
+      "original_url": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse",
       "buzz_score": 85,
-      "buzz_score2": 90,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "In a Heat Wave, Schizophrenia Is So Much Deadlier Than Any Other Medical Condition",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-08-13T11:26:05.646730+00:00"
+      "original_title": "Photos: See the best photos from the solar eclipse",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-13T03:26:50.677482+00:00"
     },
     {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
@@ -871,26 +838,15 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "LEGO and Nike dropped a space-themed Air Force 1 building set. We’re definitely not adults.",
-      "original_url": "https://hypebeast.com/2026/8/lego-air-force-1-low-space-themed-building-set-release-info",
-      "buzz_score": 80,
-      "buzz_score2": 95,
+      "tweet": "Read that people with schizophrenia are way more at risk during heat waves than anyone else. It's wild what gets ignored on a hotter planet.",
+      "original_url": "https://www.wired.com/story/heat-wave-schizophrenia/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "LEGO and Nike Unveil the Air Force 1 Space-Themed Building Set",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-08-13T03:26:50.677953+00:00"
-    },
-    {
-      "tweet": "Europe’s on its fifth heat wave of the summer and it’s hitting over 100 degrees. Pretty sure summer’s officially broken.",
-      "original_url": "https://www.nytimes.com/2026/08/12/world/europe/europe-fifth-heat-wave.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Europeans, Braced for 5th Heat Wave of 2026, Have Had Enough",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-13T03:26:50.677489+00:00"
+      "original_title": "In a Heat Wave, Schizophrenia Is So Much Deadlier Than Any Other Medical Condition",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-08-13T11:26:05.646730+00:00"
     },
     {
       "tweet": "Bro, people in Japan are actually buying these wearable human fridges to stay cool. We’re living in a cartoon now.",
@@ -1034,6 +990,28 @@
       "source": "Deadline",
       "category": "entertainment",
       "added_at": "2026-08-04T04:28:08.778691+00:00"
+    },
+    {
+      "tweet": "LEGO and Nike dropped a space-themed Air Force 1 building set. We’re definitely not adults.",
+      "original_url": "https://hypebeast.com/2026/8/lego-air-force-1-low-space-themed-building-set-release-info",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "LEGO and Nike Unveil the Air Force 1 Space-Themed Building Set",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-08-13T03:26:50.677953+00:00"
+    },
+    {
+      "tweet": "Europe’s on its fifth heat wave of the summer and it’s hitting over 100 degrees. Pretty sure summer’s officially broken.",
+      "original_url": "https://www.nytimes.com/2026/08/12/world/europe/europe-fifth-heat-wave.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Europeans, Braced for 5th Heat Wave of 2026, Have Had Enough",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-13T03:26:50.677489+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2973,
+    "total_posted": 2975,
     "total_collected": 13958
   },
-  "last_posted_at": "2026-08-13T11:32:27.434644+00:00"
+  "last_posted_at": "2026-08-13T12:13:31.546665+00:00"
 }
