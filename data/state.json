@@ -2,28 +2,6 @@
   "last_collected": "2026-08-13T18:34:10.726616+00:00",
   "queue": [
     {
-      "tweet": "Tielemans had to apologize to the Aston Villa fans after saying United was a bigger club. Bro really thought he could just say that out loud.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cm2gpr52drzo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tielemans apologises to Villa fans for Man Utd remarks",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-13T16:32:08.924323+00:00"
-    },
-    {
-      "tweet": "Found out they're shutting down Pokémon Bank and now I have to go save my old save files before they're gone forever. We really get attached to these pixels.",
-      "original_url": "https://kotaku.com/pokemon-bank-shut-down-pokemon-home-transfer-2000724123",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "How To Get All The Pokémon You Forgot About Out Of Pokémon Bank Before The Service Shuts Down",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-13T16:32:08.924317+00:00"
-    },
-    {
       "tweet": "Brian May wrote that Queen song about his cat because it was basically his sibling. You realize how much a pet actually means when you lose them.",
       "original_url": "https://www.mentalfloss.com/entertainment/music/queen-song-brian-may-wrote-about-losing-childhood-cat?utm_source=RSS",
       "buzz_score": 72,
@@ -44,17 +22,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-08-13T16:32:08.924619+00:00"
-    },
-    {
-      "tweet": "Ebola just spread to a sixth province in the DRC. That is actually terrifying.",
-      "original_url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-13T16:32:08.925003+00:00"
     },
     {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
@@ -88,6 +55,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Ebola just spread to a sixth province in the DRC. That is actually terrifying.",
+      "original_url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-13T16:32:08.925003+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -849,28 +827,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Henry Cavill’s got this random action movie that’s basically a 007 audition and it’s free to stream now. Sometimes you just need to watch a guy be Bond.",
-      "original_url": "https://www.polygon.com/henry-cavill-movies-free-streaming-august-2026/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Henry Cavill's 2-Hour Action-Movie Masterpiece With a Secret 007 Connection Is Officially Free to Stream",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-13T11:26:05.646338+00:00"
-    },
-    {
-      "tweet": "So Putin just decided to visit those islands he took from Japan, knowing full well it’d set them off. Just looking for a fight.",
-      "original_url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Putin Visits Islands Seized from Japan in World War II, Angering Tokyo",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-13T11:26:05.645762+00:00"
-    },
-    {
       "tweet": "Did you see those eclipse photos from Europe? The sky looked like it was from a different planet. Unreal.",
       "original_url": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse",
       "buzz_score": 85,
@@ -1001,6 +957,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-04T04:28:08.779266+00:00"
+    },
+    {
+      "tweet": "Henry Cavill’s got this random action movie that’s basically a 007 audition and it’s free to stream now. Sometimes you just need to watch a guy be Bond.",
+      "original_url": "https://www.polygon.com/henry-cavill-movies-free-streaming-august-2026/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Henry Cavill's 2-Hour Action-Movie Masterpiece With a Secret 007 Connection Is Officially Free to Stream",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-13T11:26:05.646338+00:00"
+    },
+    {
+      "tweet": "So Putin just decided to visit those islands he took from Japan, knowing full well it’d set them off. Just looking for a fight.",
+      "original_url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Putin Visits Islands Seized from Japan in World War II, Angering Tokyo",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-13T11:26:05.645762+00:00"
     },
     {
       "tweet": "That Google Pixelsnap charger is half off right now. You know how it is, you wait three months and everything's suddenly way cheaper.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2989,
+    "total_posted": 2991,
     "total_collected": 14000
   },
-  "last_posted_at": "2026-08-13T19:49:19.809095+00:00"
+  "last_posted_at": "2026-08-13T20:26:40.350340+00:00"
 }
