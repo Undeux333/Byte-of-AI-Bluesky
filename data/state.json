@@ -2,28 +2,6 @@
   "last_collected": "2026-08-13T06:52:59.298964+00:00",
   "queue": [
     {
-      "tweet": "Watching Alan Jones' lawyers try to play victim during that assault trial is honestly pathetic.",
-      "original_url": "https://www.theguardian.com/media/2026/aug/13/alan-jones-lawyers-accused-in-court-of-intimidating-witness-in-indecent-assault-case-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Alan Jones’ lawyers accused by prosecution of ‘intimidating’ witness in indecent assault case",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-13T06:52:59.298548+00:00"
-    },
-    {
-      "tweet": "Did you see what Muratov said about Putin? That he can destroy Ukraine but he's already lost the war. Brutal reality check.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-13T06:52:59.298104+00:00"
-    },
-    {
       "tweet": "Eddie Jones is making the Japan rugby team watch videos of geese flying to get motivated. Whatever works tho.",
       "original_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cgq5pk5gpyyo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -79,17 +57,6 @@
       "added_at": "2026-08-13T03:26:50.677489+00:00"
     },
     {
-      "tweet": "Bro, people in Japan are actually buying these wearable human fridges to stay cool. We’re living in a cartoon now.",
-      "original_url": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why are 'human fridges' being sold in Japan?",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-12T23:55:49.499875+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -134,15 +101,15 @@
       "added_at": "2026-06-24T11:28:23.259709+00:00"
     },
     {
-      "tweet": "So apparently you're gonna be able to pay with a face scan in Australia soon. Might as well just let the scanner take my wallet at this point.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/13/pay-with-a-glance-at-a-screen-as-biometric-technology-company-begins-push-into-australian-retail",
-      "buzz_score": 80,
+      "tweet": "Bro, people in Japan are actually buying these wearable human fridges to stay cool. We’re living in a cartoon now.",
+      "original_url": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Pay with a glance at a screen as biometric technology company begins push into Australian retail",
-      "source": "The Guardian",
+      "original_title": "Why are 'human fridges' being sold in Japan?",
+      "source": "BBC World",
       "category": "world",
-      "added_at": "2026-08-12T23:55:49.499890+00:00"
+      "added_at": "2026-08-12T23:55:49.499875+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
@@ -891,6 +858,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "So apparently you're gonna be able to pay with a face scan in Australia soon. Might as well just let the scanner take my wallet at this point.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/13/pay-with-a-glance-at-a-screen-as-biometric-technology-company-begins-push-into-australian-retail",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Pay with a glance at a screen as biometric technology company begins push into Australian retail",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-12T23:55:49.499890+00:00"
     },
     {
       "tweet": "So apparently it’s so hot in Rome right now they just put a curling rink right next to the Colosseum. I don’t know who decided that was the move, but it’s just wild.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2965,
+    "total_posted": 2967,
     "total_collected": 13926
   },
-  "last_posted_at": "2026-08-13T07:01:12.917756+00:00"
+  "last_posted_at": "2026-08-13T08:15:00.591060+00:00"
 }
