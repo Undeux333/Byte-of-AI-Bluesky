@@ -2,28 +2,6 @@
   "last_collected": "2026-08-13T18:34:10.726616+00:00",
   "queue": [
     {
-      "tweet": "Seeing people argue about Battlefield 1942 versus Medal Of Honor again. Man, we're all just chasing that same high.",
-      "original_url": "https://kotaku.com/battlefield-1942-vs-medal-of-honor-allied-assault-which-is-the-better-ww2-shooter-2000724128",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Battlefield 1942 Vs. Medal Of Honor: Allied Assault: Which Is The Better WW2 Shooter?",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-13T18:34:10.725459+00:00"
-    },
-    {
-      "tweet": "Did you see what's going on with the USS Abraham Lincoln? They've been out at sea for over 250 days with broken plumbing and no food. Talk about a raw deal.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-13T18:34:10.725005+00:00"
-    },
-    {
       "tweet": "Tielemans had to apologize to the Aston Villa fans after saying United was a bigger club. Bro really thought he could just say that out loud.",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/cm2gpr52drzo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -121,28 +99,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Henry Cavill’s got this random action movie that’s basically a 007 audition and it’s free to stream now. Sometimes you just need to watch a guy be Bond.",
-      "original_url": "https://www.polygon.com/henry-cavill-movies-free-streaming-august-2026/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Henry Cavill's 2-Hour Action-Movie Masterpiece With a Secret 007 Connection Is Officially Free to Stream",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-13T11:26:05.646338+00:00"
-    },
-    {
-      "tweet": "So Putin just decided to visit those islands he took from Japan, knowing full well it’d set them off. Just looking for a fight.",
-      "original_url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Putin Visits Islands Seized from Japan in World War II, Angering Tokyo",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-13T11:26:05.645762+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
@@ -893,15 +849,26 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "That Google Pixelsnap charger is half off right now. You know how it is, you wait three months and everything's suddenly way cheaper.",
-      "original_url": "https://www.wired.com/story/google-pixelsnap-charger-and-stand-50-percent-off/",
-      "buzz_score": 75,
+      "tweet": "Henry Cavill’s got this random action movie that’s basically a 007 audition and it’s free to stream now. Sometimes you just need to watch a guy be Bond.",
+      "original_url": "https://www.polygon.com/henry-cavill-movies-free-streaming-august-2026/",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "The Google Pixelsnap Charger With Stand Is 50 Percent Off Right Now",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-08-13T11:26:05.646600+00:00"
+      "original_title": "Henry Cavill's 2-Hour Action-Movie Masterpiece With a Secret 007 Connection Is Officially Free to Stream",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-13T11:26:05.646338+00:00"
+    },
+    {
+      "tweet": "So Putin just decided to visit those islands he took from Japan, knowing full well it’d set them off. Just looking for a fight.",
+      "original_url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Putin Visits Islands Seized from Japan in World War II, Angering Tokyo",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-13T11:26:05.645762+00:00"
     },
     {
       "tweet": "Did you see those eclipse photos from Europe? The sky looked like it was from a different planet. Unreal.",
@@ -1034,6 +1001,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-04T04:28:08.779266+00:00"
+    },
+    {
+      "tweet": "That Google Pixelsnap charger is half off right now. You know how it is, you wait three months and everything's suddenly way cheaper.",
+      "original_url": "https://www.wired.com/story/google-pixelsnap-charger-and-stand-50-percent-off/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Google Pixelsnap Charger With Stand Is 50 Percent Off Right Now",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-08-13T11:26:05.646600+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 2987,
+    "total_posted": 2989,
     "total_collected": 14000
   },
-  "last_posted_at": "2026-08-13T18:43:55.692685+00:00"
+  "last_posted_at": "2026-08-13T19:49:19.809095+00:00"
 }
