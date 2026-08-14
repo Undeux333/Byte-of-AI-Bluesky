@@ -2,17 +2,6 @@
   "last_collected": "2026-08-14T05:53:07.301893+00:00",
   "queue": [
     {
-      "tweet": "Did you see that post about understanding being the new bottleneck? We’re literally drowning in info but can't make sense of any of it. Classic.",
-      "original_url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Understanding is the new bottleneck",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-14T02:42:19.007094+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -607,17 +596,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Hold on, Troye Sivan got Nicole Kidman to star in his new music video? I don't know what I expected, but that wasn't it.",
-      "original_url": "https://www.rollingstone.com/music/music-news/troye-sivan-shes-the-best-charli-xcx-nicole-kidman-1235608285/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Troye Sivan Drops ‘She’s The Best,’ Featuring Secret Charli XCX Cameo",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-08-14T05:53:07.301753+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -948,6 +926,28 @@
       "added_at": "2026-08-04T04:28:08.779266+00:00"
     },
     {
+      "tweet": "Hold on, Troye Sivan got Nicole Kidman to star in his new music video? I don't know what I expected, but that wasn't it.",
+      "original_url": "https://www.rollingstone.com/music/music-news/troye-sivan-shes-the-best-charli-xcx-nicole-kidman-1235608285/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Troye Sivan Drops ‘She’s The Best,’ Featuring Secret Charli XCX Cameo",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-08-14T05:53:07.301753+00:00"
+    },
+    {
+      "tweet": "Henry Cavill’s got this random action movie that’s basically a 007 audition and it’s free to stream now. Sometimes you just need to watch a guy be Bond.",
+      "original_url": "https://www.polygon.com/henry-cavill-movies-free-streaming-august-2026/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Henry Cavill's 2-Hour Action-Movie Masterpiece With a Secret 007 Connection Is Officially Free to Stream",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-13T11:26:05.646338+00:00"
+    },
+    {
       "tweet": "Those wildfires in Indonesia are literally reaching the orangutan rescue center now. Can’t catch a break, man.",
       "original_url": "https://www.theguardian.com/world/2026/aug/14/indonesia-wildfires-threaten-orangutans-rescued-from-animal-traffickers",
       "buzz_score": 80,
@@ -968,17 +968,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-08-14T05:53:07.301282+00:00"
-    },
-    {
-      "tweet": "Henry Cavill’s got this random action movie that’s basically a 007 audition and it’s free to stream now. Sometimes you just need to watch a guy be Bond.",
-      "original_url": "https://www.polygon.com/henry-cavill-movies-free-streaming-august-2026/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Henry Cavill's 2-Hour Action-Movie Masterpiece With a Secret 007 Connection Is Officially Free to Stream",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-13T11:26:05.646338+00:00"
     },
     {
       "tweet": "Did you hear about those floods in Japan? 400,000 people under evacuation orders at an airport. Just wild.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3002,
+    "total_posted": 3003,
     "total_collected": 14057
   },
-  "last_posted_at": "2026-08-14T06:01:27.362146+00:00"
+  "last_posted_at": "2026-08-14T07:05:10.793472+00:00"
 }
