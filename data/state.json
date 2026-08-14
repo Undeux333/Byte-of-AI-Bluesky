@@ -2,17 +2,6 @@
   "last_collected": "2026-08-14T16:13:56.124043+00:00",
   "queue": [
     {
-      "tweet": "Bro, Jeff Bezos just bought a third of Liverpool. The Premier League is basically a hobby for billionaires now.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cx2vj4l9wxyo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Bezos-backed consortium buys a third of Liverpool",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-14T16:13:56.122994+00:00"
-    },
-    {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
       "original_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "buzz_score": 85,
@@ -629,28 +618,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "I just read some wild story about someone bringing a strap-on to a sex party. People are really out here living their best lives.",
-      "original_url": "https://sex.cosmopolitan.com/pleasure/confessions/a73396248/lesbian-strap-on-first-person/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "I Wore a Strap-On to a Sex Party and a Woman Asked Me to Use It on Her",
-      "source": "Cosmo Sex & Love",
-      "category": "sex",
-      "added_at": "2026-08-14T16:13:56.123452+00:00"
-    },
-    {
-      "tweet": "Some guy lost everything on a crypto app and it turns out they're using tech to automate the scams now. We’re all just targets.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/15/australia-crypto-money-investment-scam-ai-fraud-crime",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "A Queensland man enjoyed soaring profits from a crypto trading app. Then his money started disappearing",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-14T16:13:56.122999+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -847,6 +814,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "I just read some wild story about someone bringing a strap-on to a sex party. People are really out here living their best lives.",
+      "original_url": "https://sex.cosmopolitan.com/pleasure/confessions/a73396248/lesbian-strap-on-first-person/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "I Wore a Strap-On to a Sex Party and a Woman Asked Me to Use It on Her",
+      "source": "Cosmo Sex & Love",
+      "category": "sex",
+      "added_at": "2026-08-14T16:13:56.123452+00:00"
+    },
+    {
+      "tweet": "Some guy lost everything on a crypto app and it turns out they're using tech to automate the scams now. We’re all just targets.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/15/australia-crypto-money-investment-scam-ai-fraud-crime",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "A Queensland man enjoyed soaring profits from a crypto trading app. Then his money started disappearing",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-14T16:13:56.122999+00:00"
     },
     {
       "tweet": "Did you see those eclipse photos from Europe? The sky looked like it was from a different planet. Unreal.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3020,
+    "total_posted": 3021,
     "total_collected": 14121
   },
-  "last_posted_at": "2026-08-14T16:21:51.652998+00:00"
+  "last_posted_at": "2026-08-14T17:10:03.757675+00:00"
 }
