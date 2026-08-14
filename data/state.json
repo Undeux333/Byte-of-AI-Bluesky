@@ -2,28 +2,6 @@
   "last_collected": "2026-08-14T21:14:43.826304+00:00",
   "queue": [
     {
-      "tweet": "Did you see Google is finally putting homomorphic encryption into their AI. We're actually getting to the point where they can read our data without knowing it's us. Weird.",
-      "original_url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Google is making private AI practical with homomorphic encryption",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-14T21:14:43.825365+00:00"
-    },
-    {
-      "tweet": "They're porting old Zelda games to the 3DS with better performance. It's that feeling of playing your childhood favorites on a screen that actually works.",
-      "original_url": "https://www.polygon.com/legend-of-zelda-3ds-minish-cap-link-to-the-past-mario-kart-fan-port-pc/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Beloved Legend of Zelda Games Get New Enhanced 3DS Ports",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-14T21:14:43.826024+00:00"
-    },
-    {
       "tweet": "Mount Etna just blew up and they shut down the whole airport in Sicily. Guess we're all just stuck in Italy now.",
       "original_url": "https://www.aljazeera.com/news/2026/8/14/mount-etna-eruption-and-volcanic-ash-shut-sicilys-busiest-airport?traffic_source=rss",
       "buzz_score": 75,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3023,
+    "total_posted": 3025,
     "total_collected": 14131
   },
-  "last_posted_at": "2026-08-14T21:21:32.675934+00:00"
+  "last_posted_at": "2026-08-14T21:46:34.795837+00:00"
 }
