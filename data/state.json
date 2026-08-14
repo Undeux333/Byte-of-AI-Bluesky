@@ -2,28 +2,6 @@
   "last_collected": "2026-08-14T10:38:00.184629+00:00",
   "queue": [
     {
-      "tweet": "Russia is out here hitting Ukrainian railways while Kyiv is hitting stuff right near Moscow. Are we just waiting for this to escalate forever?",
-      "original_url": "https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Russia says hit Ukrainian railway and port facilities in new strikes",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-14T10:38:00.183992+00:00"
-    },
-    {
-      "tweet": "Prichard Colon finally passed away after all those years. That is so rough man.",
-      "original_url": "https://www.bbc.co.uk/sport/boxing/articles/cg7m45ze27mo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Colon dies 11 years after brain injury in fight",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-14T10:38:00.184489+00:00"
-    },
-    {
       "tweet": "Good news man, that missionary who was held in Niger finally got out. That's a massive relief.",
       "original_url": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -838,17 +816,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Dude, did you hear about that 18-year-old golfer Jessica Bang? She died of a brain hemorrhage just before her tournament. Just eighteen, man. Rough.",
-      "original_url": "https://www.bbc.co.uk/sport/golf/articles/cp8elkd2353o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Rising golf star, 18, dies after brain haemorrhage",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-14T08:35:40.643411+00:00"
-    },
-    {
       "tweet": "Did you see those eclipse photos from Europe? The sky looked like it was from a different planet. Unreal.",
       "original_url": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse",
       "buzz_score": 85,
@@ -981,6 +948,28 @@
       "added_at": "2026-08-04T04:28:08.779266+00:00"
     },
     {
+      "tweet": "Dude, did you hear about that 18-year-old golfer Jessica Bang? She died of a brain hemorrhage just before her tournament. Just eighteen, man. Rough.",
+      "original_url": "https://www.bbc.co.uk/sport/golf/articles/cp8elkd2353o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Rising golf star, 18, dies after brain haemorrhage",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-14T08:35:40.643411+00:00"
+    },
+    {
+      "tweet": "Henry Cavill’s got this random action movie that’s basically a 007 audition and it’s free to stream now. Sometimes you just need to watch a guy be Bond.",
+      "original_url": "https://www.polygon.com/henry-cavill-movies-free-streaming-august-2026/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Henry Cavill's 2-Hour Action-Movie Masterpiece With a Secret 007 Connection Is Officially Free to Stream",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-13T11:26:05.646338+00:00"
+    },
+    {
       "tweet": "Dude, some guy spent two months wearing an electric shock suit just to skip the gym. We'll do literally anything to avoid actually working out.",
       "original_url": "https://www.wired.com/story/i-wore-a-pepper-electrical-muscle-stimulation-body-suit-to-zap-myself-into-fitness/",
       "buzz_score": 80,
@@ -1001,17 +990,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-08-14T10:38:00.182923+00:00"
-    },
-    {
-      "tweet": "Henry Cavill’s got this random action movie that’s basically a 007 audition and it’s free to stream now. Sometimes you just need to watch a guy be Bond.",
-      "original_url": "https://www.polygon.com/henry-cavill-movies-free-streaming-august-2026/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Henry Cavill's 2-Hour Action-Movie Masterpiece With a Secret 007 Connection Is Officially Free to Stream",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-13T11:26:05.646338+00:00"
     }
   ],
   "seen_urls": [
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3010,
+    "total_posted": 3012,
     "total_collected": 14089
   },
-  "last_posted_at": "2026-08-14T11:31:49.376972+00:00"
+  "last_posted_at": "2026-08-14T12:08:58.626480+00:00"
 }
