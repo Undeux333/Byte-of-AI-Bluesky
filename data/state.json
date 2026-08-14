@@ -2,28 +2,6 @@
   "last_collected": "2026-08-14T13:37:39.414120+00:00",
   "queue": [
     {
-      "tweet": "Almost five hundred people got arrested for starting wildfires in France this summer. What is wrong with people?",
-      "original_url": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Almost 500 arrested on suspicion of starting wildfires in France this summer",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-14T13:37:39.413126+00:00"
-    },
-    {
-      "tweet": "So apparently the feds are looking into these 'mention markets' where you bet on what people say. Like, can we just have a normal society for five minutes?",
-      "original_url": "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Feds probe 'mention markets.' And, lawmakers call for investigation into USS Lincoln",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-14T13:37:39.413118+00:00"
-    },
-    {
       "tweet": "Good news man, that missionary who was held in Niger finally got out. That's a massive relief.",
       "original_url": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -640,17 +618,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "McConaughey said he turned down the Joel role in that Last of Us show 'cause it wasn't for him. We all know that feeling of just not being into a job.",
-      "original_url": "https://kotaku.com/matthew-mcconaughey-joel-last-of-us-craig-mazin-interview-2000724454",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Matthew McConaughey On Why He Turned Down The Role Of Joel From The Last Of Us Show: ‘It Wasn’t For Me At The Time’",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-14T13:37:39.413253+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -847,6 +814,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "McConaughey said he turned down the Joel role in that Last of Us show 'cause it wasn't for him. We all know that feeling of just not being into a job.",
+      "original_url": "https://kotaku.com/matthew-mcconaughey-joel-last-of-us-craig-mazin-interview-2000724454",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Matthew McConaughey On Why He Turned Down The Role Of Joel From The Last Of Us Show: ‘It Wasn’t For Me At The Time’",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-14T13:37:39.413253+00:00"
     },
     {
       "tweet": "Did you see those eclipse photos from Europe? The sky looked like it was from a different planet. Unreal.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3014,
+    "total_posted": 3016,
     "total_collected": 14105
   },
-  "last_posted_at": "2026-08-14T13:46:37.409242+00:00"
+  "last_posted_at": "2026-08-14T14:43:12.046775+00:00"
 }
