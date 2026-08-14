@@ -2,28 +2,6 @@
   "last_collected": "2026-08-14T08:35:40.644987+00:00",
   "queue": [
     {
-      "tweet": "Man, conditions on the USS Abraham Lincoln are so bad sailors are talking about jumping overboard. Two hundred fifty days at sea with no food or working toilets. We're failing them.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-14T08:35:40.643248+00:00"
-    },
-    {
-      "tweet": "Dude, did you hear about that 18-year-old golfer Jessica Bang? She died of a brain hemorrhage just before her tournament. Just eighteen, man. Rough.",
-      "original_url": "https://www.bbc.co.uk/sport/golf/articles/cp8elkd2353o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Rising golf star, 18, dies after brain haemorrhage",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-14T08:35:40.643411+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -55,6 +33,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Dude, did you hear about that 18-year-old golfer Jessica Bang? She died of a brain hemorrhage just before her tournament. Just eighteen, man. Rough.",
+      "original_url": "https://www.bbc.co.uk/sport/golf/articles/cp8elkd2353o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Rising golf star, 18, dies after brain haemorrhage",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-14T08:35:40.643411+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3005,
+    "total_posted": 3006,
     "total_collected": 14073
   },
-  "last_posted_at": "2026-08-14T08:43:59.335361+00:00"
+  "last_posted_at": "2026-08-14T09:40:40.379787+00:00"
 }
