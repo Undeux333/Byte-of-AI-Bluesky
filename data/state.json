@@ -2,28 +2,6 @@
   "last_collected": "2026-08-14T10:38:00.184629+00:00",
   "queue": [
     {
-      "tweet": "Apple really just teamed up with Alibaba to train their AI for China. Guess privacy is only a selling point when it's convenient for them",
-      "original_url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Apple trained its own AI model for China with help from Alibaba",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-08-14T10:38:00.183084+00:00"
-    },
-    {
-      "tweet": "Did you see that some guy in Brazil just got busted with a whole stash of original Matisses? Imagine just having millions in fine art sitting in your living room.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Stolen Matisse artworks recovered by police in Brazil",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-14T10:38:00.182917+00:00"
-    },
-    {
       "tweet": "Russia is out here hitting Ukrainian railways while Kyiv is hitting stuff right near Moscow. Are we just waiting for this to escalate forever?",
       "original_url": "https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss",
       "buzz_score": 80,
@@ -110,17 +88,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Dude, did you hear about that 18-year-old golfer Jessica Bang? She died of a brain hemorrhage just before her tournament. Just eighteen, man. Rough.",
-      "original_url": "https://www.bbc.co.uk/sport/golf/articles/cp8elkd2353o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Rising golf star, 18, dies after brain haemorrhage",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-14T08:35:40.643411+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
@@ -869,6 +836,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "Dude, did you hear about that 18-year-old golfer Jessica Bang? She died of a brain hemorrhage just before her tournament. Just eighteen, man. Rough.",
+      "original_url": "https://www.bbc.co.uk/sport/golf/articles/cp8elkd2353o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Rising golf star, 18, dies after brain haemorrhage",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-14T08:35:40.643411+00:00"
     },
     {
       "tweet": "Did you see those eclipse photos from Europe? The sky looked like it was from a different planet. Unreal.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3008,
+    "total_posted": 3010,
     "total_collected": 14089
   },
-  "last_posted_at": "2026-08-14T10:46:06.159246+00:00"
+  "last_posted_at": "2026-08-14T11:31:49.376972+00:00"
 }
