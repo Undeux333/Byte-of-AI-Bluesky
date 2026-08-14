@@ -596,28 +596,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Twitch streamers are losing it because Twitch made AI training opt-out by default. They know we don't want it, they just don't care.",
-      "original_url": "https://kotaku.com/twitch-gen-ai-opt-out-streamer-backlash-2000724227",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Streamers Are Telling Twitch How Much They Hate That Generative AI Training Is Opt-Out By Default",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-13T23:22:58.363091+00:00"
-    },
-    {
-      "tweet": "Did you see Putin just rolled up to those islands Japan claims? It's like he's going out of his way to be a troll at this point.",
-      "original_url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-13T23:22:58.362544+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -816,6 +794,28 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
+      "tweet": "Twitch streamers are losing it because Twitch made AI training opt-out by default. They know we don't want it, they just don't care.",
+      "original_url": "https://kotaku.com/twitch-gen-ai-opt-out-streamer-backlash-2000724227",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Streamers Are Telling Twitch How Much They Hate That Generative AI Training Is Opt-Out By Default",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-13T23:22:58.363091+00:00"
+    },
+    {
+      "tweet": "Did you see Putin just rolled up to those islands Japan claims? It's like he's going out of his way to be a troll at this point.",
+      "original_url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-13T23:22:58.362544+00:00"
+    },
+    {
       "tweet": "Did you see those eclipse photos from Europe? The sky looked like it was from a different planet. Unreal.",
       "original_url": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse",
       "buzz_score": 85,
@@ -981,6 +981,17 @@
       "added_at": "2026-08-13T16:32:08.924619+00:00"
     },
     {
+      "tweet": "Henry Cavill’s got this random action movie that’s basically a 007 audition and it’s free to stream now. Sometimes you just need to watch a guy be Bond.",
+      "original_url": "https://www.polygon.com/henry-cavill-movies-free-streaming-august-2026/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Henry Cavill's 2-Hour Action-Movie Masterpiece With a Secret 007 Connection Is Officially Free to Stream",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-13T11:26:05.646338+00:00"
+    },
+    {
       "tweet": "Ebola just spread to a sixth province in the DRC. That is actually terrifying.",
       "original_url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
       "buzz_score": 70,
@@ -1012,17 +1023,6 @@
       "source": "Kotaku",
       "category": "entertainment",
       "added_at": "2026-08-13T21:10:30.542607+00:00"
-    },
-    {
-      "tweet": "Henry Cavill’s got this random action movie that’s basically a 007 audition and it’s free to stream now. Sometimes you just need to watch a guy be Bond.",
-      "original_url": "https://www.polygon.com/henry-cavill-movies-free-streaming-august-2026/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Henry Cavill's 2-Hour Action-Movie Masterpiece With a Secret 007 Connection Is Officially Free to Stream",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-13T11:26:05.646338+00:00"
     },
     {
       "tweet": "Judge just threw out that lawsuit over someone getting stabbed after playing Mortal Kombat. Free speech win, I guess.",
