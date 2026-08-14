@@ -2,28 +2,6 @@
   "last_collected": "2026-08-14T21:14:43.826304+00:00",
   "queue": [
     {
-      "tweet": "Mount Etna just blew up and they shut down the whole airport in Sicily. Guess we're all just stuck in Italy now.",
-      "original_url": "https://www.aljazeera.com/news/2026/8/14/mount-etna-eruption-and-volcanic-ash-shut-sicilys-busiest-airport?traffic_source=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mount Etna eruption and volcanic ash shut Sicily’s busiest airport",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-14T21:14:43.825532+00:00"
-    },
-    {
-      "tweet": "Bro, they literally made a KPop Demon Hunters sword with fifty different features. At this point we're just buying plastic toys for five hundred bucks.",
-      "original_url": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-rumi-sword-buy-shop-online-1236316757/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "This ‘KPop Demon Hunters’ Sword Is the Closest Thing to a Lightsaber for Rumi Fans: Buy Online",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-14T21:14:43.825378+00:00"
-    },
-    {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
       "original_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "buzz_score": 85,
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3025,
+    "total_posted": 3027,
     "total_collected": 14131
   },
-  "last_posted_at": "2026-08-14T21:46:34.795837+00:00"
+  "last_posted_at": "2026-08-14T22:05:51.703374+00:00"
 }
