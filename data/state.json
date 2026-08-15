@@ -2,17 +2,6 @@
   "last_collected": "2026-08-15T04:18:59.239783+00:00",
   "queue": [
     {
-      "tweet": "Netflix actually just put up new episodes of that WIRED autocomplete series. It's so weird watching celebs answer random stuff about themselves.",
-      "original_url": "https://usa.newonnetflix.info/info/83046553",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "14th Aug: WIRED Autocomplete Interview (2026), 3 Seasons [TV-MA] - New Episodes (6/10)",
-      "source": "New on Netflix",
-      "category": "entertainment",
-      "added_at": "2026-08-15T04:18:59.239176+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -1996,8 +1985,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3042,
+    "total_posted": 3043,
     "total_collected": 14172
   },
-  "last_posted_at": "2026-08-15T05:24:17.449539+00:00"
+  "last_posted_at": "2026-08-15T05:41:38.137323+00:00"
 }
