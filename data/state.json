@@ -2,28 +2,6 @@
   "last_collected": "2026-08-15T10:55:58.135487+00:00",
   "queue": [
     {
-      "tweet": "Did you see Bangladesh is actually about to beat Australia in a Test match? They just took Steve Smith out. Historic.",
-      "original_url": "https://www.bbc.co.uk/sport/cricket/articles/c39eygmrlnjo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Bangladesh move closer to historic win in Australia",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-15T10:55:58.134551+00:00"
-    },
-    {
-      "tweet": "This director is making a movie based on influencers faking tragic stories for clout. We're actually at the point where that's a plot line.",
-      "original_url": "https://variety.com/2026/film/global/ursa-menart-everything-thats-wrong-with-you-influencers-1236833609/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Urša Menart Recalls Finding Inspiration on Influencers’ Fake Tragic Life Stories for Intimate Dramedy ‘Everything That’s Wrong With You’",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-08-15T10:55:58.135236+00:00"
-    },
-    {
       "tweet": "Heathrow is telling people to just take the train because a pipe burst and flooded the road. Pretty insane that one pipe shuts down a major airport.",
       "original_url": "https://www.theguardian.com/uk-news/2026/aug/15/heathrow-passengers-face-disruption-after-flood-restricts-access",
       "buzz_score": 75,
@@ -860,39 +838,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Herbert Hoover literally invented a sport called Hoover-ball while the economy was collapsing. Man was just trying to do cardio through the depression.",
-      "original_url": "https://www.mentalfloss.com/history/presidents/herbert-hoover-unusual-sport?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "The Unusual Sport Herbert Hoover Played at the White House",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-15T08:51:59.066124+00:00"
-    },
-    {
-      "tweet": "England's having one of the hottest summers on record and people are saying it just isn't the same anymore. We're all gonna have to get used to this.",
-      "original_url": "https://www.nytimes.com/2026/08/13/world/europe/uk-heat-climate-change.html",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "‘An English Summer Is Not the Same Anymore’",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-15T08:51:59.065874+00:00"
-    },
-    {
-      "tweet": "Courtney Love is stepping back from social media for a few weeks to avoid that whole thing. Honestly, probably a solid move for everyone.",
-      "original_url": "https://www.billboard.com/music/music-news/courtney-love-almost-died-2019-1236317025/",
-      "buzz_score": 75,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Courtney Love Says She ‘Almost Died’ in 2019",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-15T08:51:59.065436+00:00"
-    },
-    {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
       "original_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "buzz_score": 85,
@@ -1034,6 +979,39 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-04T04:28:08.779266+00:00"
+    },
+    {
+      "tweet": "Herbert Hoover literally invented a sport called Hoover-ball while the economy was collapsing. Man was just trying to do cardio through the depression.",
+      "original_url": "https://www.mentalfloss.com/history/presidents/herbert-hoover-unusual-sport?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "The Unusual Sport Herbert Hoover Played at the White House",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-08-15T08:51:59.066124+00:00"
+    },
+    {
+      "tweet": "England's having one of the hottest summers on record and people are saying it just isn't the same anymore. We're all gonna have to get used to this.",
+      "original_url": "https://www.nytimes.com/2026/08/13/world/europe/uk-heat-climate-change.html",
+      "buzz_score": 75,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "‘An English Summer Is Not the Same Anymore’",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-15T08:51:59.065874+00:00"
+    },
+    {
+      "tweet": "Courtney Love is stepping back from social media for a few weeks to avoid that whole thing. Honestly, probably a solid move for everyone.",
+      "original_url": "https://www.billboard.com/music/music-news/courtney-love-almost-died-2019-1236317025/",
+      "buzz_score": 75,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Courtney Love Says She ‘Almost Died’ in 2019",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-08-15T08:51:59.065436+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3054,
+    "total_posted": 3056,
     "total_collected": 14209
   },
-  "last_posted_at": "2026-08-15T11:04:23.998599+00:00"
+  "last_posted_at": "2026-08-15T11:19:59.826829+00:00"
 }
