@@ -2,28 +2,6 @@
   "last_collected": "2026-08-15T04:18:59.239783+00:00",
   "queue": [
     {
-      "tweet": "Bro, Gemini 3.7 Flash is actually insane now. OpenAI might want to pay attention cause this thing is moving way too fast.",
-      "original_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Gemini 3.7 Flash",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-15T04:18:59.238258+00:00"
-    },
-    {
-      "tweet": "Trump is actually asking the Supreme Court to let the ballroom work continue? Can you imagine having to ask Congress for permission to redecorate?",
-      "original_url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump asks Supreme Court to allow ballroom work to continue",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-15T04:18:59.238428+00:00"
-    },
-    {
       "tweet": "Netflix actually just put up new episodes of that WIRED autocomplete series. It's so weird watching celebs answer random stuff about themselves.",
       "original_url": "https://usa.newonnetflix.info/info/83046553",
       "buzz_score": 75,
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3040,
+    "total_posted": 3042,
     "total_collected": 14172
   },
-  "last_posted_at": "2026-08-15T04:59:21.971408+00:00"
+  "last_posted_at": "2026-08-15T05:24:17.449539+00:00"
 }
