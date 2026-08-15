@@ -2,17 +2,6 @@
   "last_collected": "2026-08-15T12:58:48.454932+00:00",
   "queue": [
     {
-      "tweet": "Found a list of bathroom upgrades under twenty bucks. You know you're officially an adult when you're actually reading that stuff.",
-      "original_url": "https://www.bustle.com/shopping/the-bougiest-most-useful-upgrades-for-your-bathroom-under-20",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The 55 Bougiest, Most Useful Upgrades For Your Bathroom Under $20",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-08-15T12:58:48.453852+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -607,17 +596,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Wait, did you hear about Jason Arday at Cambridge? Accused of plagiarism and then found dead. That whole thing is just insane.",
-      "original_url": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-15T12:58:48.454275+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -814,6 +792,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "Wait, did you hear about Jason Arday at Cambridge? Accused of plagiarism and then found dead. That whole thing is just insane.",
+      "original_url": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-15T12:58:48.454275+00:00"
     },
     {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3062,
+    "total_posted": 3063,
     "total_collected": 14225
   },
-  "last_posted_at": "2026-08-15T13:08:25.024519+00:00"
+  "last_posted_at": "2026-08-15T13:27:00.933966+00:00"
 }
