@@ -2,17 +2,6 @@
   "last_collected": "2026-08-15T21:34:29.665188+00:00",
   "queue": [
     {
-      "tweet": "Dude, why does Opus 5 feel so much worse to work with? Like, we're just hitting a wall where everything feels slightly more clunky than before.",
-      "original_url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why does Opus 5 feel worse to work with?",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-15T21:34:29.664668+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3078,
+    "total_posted": 3079,
     "total_collected": 14277
   },
-  "last_posted_at": "2026-08-15T21:39:44.558797+00:00"
+  "last_posted_at": "2026-08-15T21:54:37.694433+00:00"
 }
