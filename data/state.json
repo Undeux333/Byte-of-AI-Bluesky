@@ -2,28 +2,6 @@
   "last_collected": "2026-08-15T10:55:58.135487+00:00",
   "queue": [
     {
-      "tweet": "Heathrow is telling people to just take the train because a pipe burst and flooded the road. Pretty insane that one pipe shuts down a major airport.",
-      "original_url": "https://www.theguardian.com/uk-news/2026/aug/15/heathrow-passengers-face-disruption-after-flood-restricts-access",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Heathrow passengers face disruption after flood restricts access",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-15T10:55:58.134557+00:00"
-    },
-    {
-      "tweet": "Bangladesh is somehow rocking Australia right now in that Test match. Seeing Australia struggle like this is wild.",
-      "original_url": "https://www.aljazeera.com/sports/2026/8/15/bangladesh-rock-australia-as-historic-test-win-in-sight?traffic_source=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Bangladesh rock Australia as historic Test win in sight",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-15T10:55:58.134554+00:00"
-    },
-    {
       "tweet": "Instapaper got a massive update and I guess we're all dusting off those accounts now. Feels like 2012 again.",
       "original_url": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
       "buzz_score": 70,
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3056,
+    "total_posted": 3058,
     "total_collected": 14209
   },
-  "last_posted_at": "2026-08-15T11:19:59.826829+00:00"
+  "last_posted_at": "2026-08-15T11:40:33.798293+00:00"
 }
