@@ -794,17 +794,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Wait, did you hear about Jason Arday at Cambridge? Accused of plagiarism and then found dead. That whole thing is just insane.",
-      "original_url": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-15T12:58:48.454275+00:00"
-    },
-    {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
       "original_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "buzz_score": 85,
@@ -946,6 +935,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-04T04:28:08.779266+00:00"
+    },
+    {
+      "tweet": "Wait, did you hear about Jason Arday at Cambridge? Accused of plagiarism and then found dead. That whole thing is just insane.",
+      "original_url": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-15T12:58:48.454275+00:00"
     },
     {
       "tweet": "Did you see that kid in Greece who got electrocuted in the shower? Apparently it was just a completely setup death trap. That's nightmare fuel.",
