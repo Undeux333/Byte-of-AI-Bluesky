@@ -794,28 +794,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Instagram accounts are literally out here running paid ads for crossing that Morocco-Ceuta border. The internet is insane.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-15T02:07:21.839640+00:00"
-    },
-    {
-      "tweet": "So Mangione just pleaded guilty for that whole UnitedHealthcare thing. Guess that's that.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/mangione-pleads-guilty-as-polarising-ceo-killing-reaches-new-phase?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Mangione pleads guilty as polarising CEO killing reaches new phase",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-15T02:07:21.839087+00:00"
-    },
-    {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
       "original_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "buzz_score": 85,
@@ -959,26 +937,26 @@
       "added_at": "2026-08-04T04:28:08.779266+00:00"
     },
     {
-      "tweet": "Europe is getting hammered by heat again and the infrastructure is just failing. We're really not ready for this.",
-      "original_url": "https://www.nytimes.com/2026/08/14/world/europe/europe-heat-wave-photos.html",
-      "buzz_score": 80,
+      "tweet": "Instagram accounts are literally out here running paid ads for crossing that Morocco-Ceuta border. The internet is insane.",
+      "original_url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Heat Is Hammering Europe, Again. Here’s What That Looks Like.",
-      "source": "NYT World",
+      "original_title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+      "source": "BBC World",
       "category": "world",
-      "added_at": "2026-08-15T02:07:21.839093+00:00"
+      "added_at": "2026-08-15T02:07:21.839640+00:00"
     },
     {
-      "tweet": "Disney is really just out here announcing Frozen 3 and ten other sequels for 2026. My bank account is already crying.",
-      "original_url": "https://www.polygon.com/d23-2026-marvel-trailers-star-wars-frozen-pixar-kingdom-hearts/",
-      "buzz_score": 80,
+      "tweet": "So Mangione just pleaded guilty for that whole UnitedHealthcare thing. Guess that's that.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/mangione-pleads-guilty-as-polarising-ceo-killing-reaches-new-phase?traffic_source=rss",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Disney's D23 2026: All the trailers, news, and reveals in one place",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-15T02:07:21.839091+00:00"
+      "original_title": "Mangione pleads guilty as polarising CEO killing reaches new phase",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-15T02:07:21.839087+00:00"
     },
     {
       "tweet": "Every website is just trying to force their push notifications on you now. We’re all just being harassed for clicks.",
@@ -1001,6 +979,28 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-08-13T11:26:05.646338+00:00"
+    },
+    {
+      "tweet": "Europe is getting hammered by heat again and the infrastructure is just failing. We're really not ready for this.",
+      "original_url": "https://www.nytimes.com/2026/08/14/world/europe/europe-heat-wave-photos.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Heat Is Hammering Europe, Again. Here’s What That Looks Like.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-15T02:07:21.839093+00:00"
+    },
+    {
+      "tweet": "Disney is really just out here announcing Frozen 3 and ten other sequels for 2026. My bank account is already crying.",
+      "original_url": "https://www.polygon.com/d23-2026-marvel-trailers-star-wars-frozen-pixar-kingdom-hearts/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Disney's D23 2026: All the trailers, news, and reveals in one place",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-15T02:07:21.839091+00:00"
     },
     {
       "tweet": "Indonesia just got hit with a 7.7 earthquake. Nothing you can really do when the ground just starts moving.",
