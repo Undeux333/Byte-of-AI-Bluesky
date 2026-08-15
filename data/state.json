@@ -2,28 +2,6 @@
   "last_collected": "2026-08-15T10:55:58.135487+00:00",
   "queue": [
     {
-      "tweet": "Instapaper got a massive update and I guess we're all dusting off those accounts now. Feels like 2012 again.",
-      "original_url": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-08-15T10:55:58.134864+00:00"
-    },
-    {
-      "tweet": "They mapped out the most popular pasta in every state and it's basically just spaghetti everywhere. We really aren't that creative with dinner.",
-      "original_url": "https://www.mentalfloss.com/geography/maps/most-popular-pasta-shape-by-state-map?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Most Popular Pasta Shape in Every State, Mapped",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-15T10:55:58.134561+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -1996,8 +1974,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3058,
+    "total_posted": 3060,
     "total_collected": 14209
   },
-  "last_posted_at": "2026-08-15T11:40:33.798293+00:00"
+  "last_posted_at": "2026-08-15T11:59:17.531679+00:00"
 }
