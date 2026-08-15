@@ -2,28 +2,6 @@
   "last_collected": "2026-08-15T02:07:21.840248+00:00",
   "queue": [
     {
-      "tweet": "Dude, turns out the girl in that famous V-J Day kiss photo didn't even know the guy. Just some random person grabbing her in the street. Wild how we just turned that into a symbol.",
-      "original_url": "https://www.mentalfloss.com/history/world-war-ii/woman-behind-famous-v-j-day-kiss-photo-wasn-t-who-many-thought?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Woman Behind the Famous V-J Day Kiss Photo Wasn't Who Many Thought",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-15T02:07:21.839078+00:00"
-    },
-    {
-      "tweet": "Apparently women care way more about being a 'good person' than men do. Everyone kinda knew that tho.",
-      "original_url": "https://www.psypost.org/how-culture-and-age-shape-the-way-people-view-their-own-morality/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Women globally place higher importance on moral identity than men",
-      "source": "PsyPost",
-      "category": "psychology",
-      "added_at": "2026-08-15T02:07:21.839539+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -618,28 +596,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Instagram accounts are literally out here running paid ads for crossing that Morocco-Ceuta border. The internet is insane.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-15T02:07:21.839640+00:00"
-    },
-    {
-      "tweet": "So Mangione just pleaded guilty for that whole UnitedHealthcare thing. Guess that's that.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/mangione-pleads-guilty-as-polarising-ceo-killing-reaches-new-phase?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Mangione pleads guilty as polarising CEO killing reaches new phase",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-15T02:07:21.839087+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -836,6 +792,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "Instagram accounts are literally out here running paid ads for crossing that Morocco-Ceuta border. The internet is insane.",
+      "original_url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-15T02:07:21.839640+00:00"
+    },
+    {
+      "tweet": "So Mangione just pleaded guilty for that whole UnitedHealthcare thing. Guess that's that.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/mangione-pleads-guilty-as-polarising-ceo-killing-reaches-new-phase?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Mangione pleads guilty as polarising CEO killing reaches new phase",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-15T02:07:21.839087+00:00"
     },
     {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3034,
+    "total_posted": 3036,
     "total_collected": 14156
   },
-  "last_posted_at": "2026-08-15T02:15:39.564554+00:00"
+  "last_posted_at": "2026-08-15T03:08:34.191729+00:00"
 }
