@@ -2,28 +2,6 @@
   "last_collected": "2026-08-15T04:18:59.239783+00:00",
   "queue": [
     {
-      "tweet": "Hold on, Kingdom Hearts IV is really gonna take until 2027 to drop? We're gonna be ancient by the time we actually get to play that.",
-      "original_url": "https://kotaku.com/kingdom-hearts-the-series-disney-d23-announcement-plus-2000724564",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Kingdom Hearts IV Gets 2027 Release Window And That’s Not All",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-15T04:18:59.238268+00:00"
-    },
-    {
-      "tweet": "Christopher Abbott is playing Professor X? I don't know man, that feels like a trip.",
-      "original_url": "https://deadline.com/2026/08/x-men-christopher-abbott-adam-driver-1237012957/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘X-Men’: Christopher Abbott To Play Professor X, Adam Driver Also Joining Upcoming Marvel Studios Pic Set for May 2028",
-      "source": "Deadline",
-      "category": "entertainment",
-      "added_at": "2026-08-15T04:18:59.238814+00:00"
-    },
-    {
       "tweet": "Bro, Gemini 3.7 Flash is actually insane now. OpenAI might want to pay attention cause this thing is moving way too fast.",
       "original_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "buzz_score": 85,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3038,
+    "total_posted": 3040,
     "total_collected": 14172
   },
-  "last_posted_at": "2026-08-15T04:25:01.088384+00:00"
+  "last_posted_at": "2026-08-15T04:59:21.971408+00:00"
 }
