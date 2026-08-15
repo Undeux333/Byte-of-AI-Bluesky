@@ -2,17 +2,6 @@
   "last_collected": "2026-08-14T23:35:57.892876+00:00",
   "queue": [
     {
-      "tweet": "Found this list of cheap stuff to make your apartment look actually decent. We're all just buying the same three things from Amazon to feel like adults.",
-      "original_url": "https://www.bustle.com/life/im-super-bougie-im-loving-these-cheap-things-that-make-my-home-way-nicer",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "I'm Super Bougie & I'm Loving These Cheap Things That Make My Home Way Nicer",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-08-14T23:35:57.892459+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -44,17 +33,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
-      "original_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -618,6 +596,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
+      "original_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-08-14T16:13:56.122982+00:00"
+    },
+    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -627,17 +616,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
-    },
-    {
-      "tweet": "Every website is just trying to force their push notifications on you now. We’re all just being harassed for clicks.",
-      "original_url": "https://lxe.github.io/everywebsite/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Every Fucking Website (2020)",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-14T16:13:56.123844+00:00"
     },
     {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
@@ -959,15 +937,15 @@
       "added_at": "2026-08-04T04:28:08.779266+00:00"
     },
     {
-      "tweet": "Stripe is trying to buy PayPal. It's funny watching these giants just eat each other while the app still feels like it was built in 2005.",
-      "original_url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+      "tweet": "Every website is just trying to force their push notifications on you now. We’re all just being harassed for clicks.",
+      "original_url": "https://lxe.github.io/everywebsite/",
       "buzz_score": 80,
-      "buzz_score2": 90,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Talks to sell PayPal to Stripe and Advent are heating up",
-      "source": "TechCrunch",
+      "original_title": "Every Fucking Website (2020)",
+      "source": "HackerNews",
       "category": "tech",
-      "added_at": "2026-08-14T23:35:57.892615+00:00"
+      "added_at": "2026-08-14T16:13:56.123844+00:00"
     },
     {
       "tweet": "Henry Cavill’s got this random action movie that’s basically a 007 audition and it’s free to stream now. Sometimes you just need to watch a guy be Bond.",
@@ -979,6 +957,17 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-08-13T11:26:05.646338+00:00"
+    },
+    {
+      "tweet": "Stripe is trying to buy PayPal. It's funny watching these giants just eat each other while the app still feels like it was built in 2005.",
+      "original_url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Talks to sell PayPal to Stripe and Advent are heating up",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-08-14T23:35:57.892615+00:00"
     },
     {
       "tweet": "They're saying that new Transport Fever 3 is gonna blow Cities: Skylines out of the water. Honestly just looking for any reason to lose my whole weekend to a sim game again.",
@@ -2018,8 +2007,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3031,
+    "total_posted": 3032,
     "total_collected": 14140
   },
-  "last_posted_at": "2026-08-15T00:03:43.984042+00:00"
+  "last_posted_at": "2026-08-15T00:53:10.728400+00:00"
 }
