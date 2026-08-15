@@ -2,28 +2,6 @@
   "last_collected": "2026-08-15T08:51:59.067133+00:00",
   "queue": [
     {
-      "tweet": "Nigel Farage is basically doing the exact same playbook Trump used during his investigations. At this point the playbook is just free for everyone to take.",
-      "original_url": "https://www.nytimes.com/2026/08/14/world/europe/farage-britain-trump-playbook-analysis.html",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Britain’s Farage Takes a Page From Trump’s Playbook Amid Investigations",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-15T08:51:59.065747+00:00"
-    },
-    {
-      "tweet": "So NHS hospitals in England are hitting over 28 degrees and it's considered unsafe. We've reached the point where the hospital is making you sicker.",
-      "original_url": "https://www.theguardian.com/society/2026/aug/15/dangerously-hostile-heatwaves-leave-hospital-wards-unsafe-data-reveals",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘Dangerously hostile’: heatwaves leave hospital wards unsafe, data reveals",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-15T08:51:59.065439+00:00"
-    },
-    {
       "tweet": "People are actually out here saying Kingdom Hearts is going to change the world. Did we all just forget that it's Donald Duck fighting gods",
       "original_url": "https://kotaku.com/i-think-kingdom-hearts-is-going-to-change-the-world-2000724470",
       "buzz_score": 80,
@@ -79,6 +57,17 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
+      "buzz_score": 92,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
       "tweet": "Herbert Hoover literally invented a sport called Hoover-ball while the economy was collapsing. Man was just trying to do cardio through the depression.",
       "original_url": "https://www.mentalfloss.com/history/presidents/herbert-hoover-unusual-sport?utm_source=RSS",
       "buzz_score": 75,
@@ -110,17 +99,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-15T08:51:59.065436+00:00"
-    },
-    {
-      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
-      "buzz_score": 92,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-24T11:28:23.259709+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3048,
+    "total_posted": 3050,
     "total_collected": 14196
   },
-  "last_posted_at": "2026-08-15T08:59:03.606990+00:00"
+  "last_posted_at": "2026-08-15T09:22:16.613563+00:00"
 }
