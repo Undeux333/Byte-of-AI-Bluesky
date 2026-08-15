@@ -2,28 +2,6 @@
   "last_collected": "2026-08-14T23:35:57.892876+00:00",
   "queue": [
     {
-      "tweet": "Did you see Firefox is the only one left that still lets you run uBlock Origin. Guess they finally decided to be the only browser that isn't actively trying to show me ads.",
-      "original_url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Firefox is now the last major browser that still supports uBlock Origin",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-14T23:35:57.892439+00:00"
-    },
-    {
-      "tweet": "So apparently the USS Lincoln is having such bad plumbing and food shortages that sailors are thinking about jumping ship. We really can't figure out basic housing for the military.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-14T23:35:57.892445+00:00"
-    },
-    {
       "tweet": "Found this list of cheap stuff to make your apartment look actually decent. We're all just buying the same three things from Amazon to feel like adults.",
       "original_url": "https://www.bustle.com/life/im-super-bougie-im-loving-these-cheap-things-that-make-my-home-way-nicer",
       "buzz_score": 70,
@@ -640,17 +618,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Every website is just trying to force their push notifications on you now. We’re all just being harassed for clicks.",
-      "original_url": "https://lxe.github.io/everywebsite/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Every Fucking Website (2020)",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-14T16:13:56.123844+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -660,6 +627,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
+    },
+    {
+      "tweet": "Every website is just trying to force their push notifications on you now. We’re all just being harassed for clicks.",
+      "original_url": "https://lxe.github.io/everywebsite/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Every Fucking Website (2020)",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-08-14T16:13:56.123844+00:00"
     },
     {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3029,
+    "total_posted": 3031,
     "total_collected": 14140
   },
-  "last_posted_at": "2026-08-14T23:45:03.264252+00:00"
+  "last_posted_at": "2026-08-15T00:03:43.984042+00:00"
 }
