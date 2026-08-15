@@ -2,17 +2,6 @@
   "last_collected": "2026-08-15T06:34:28.042315+00:00",
   "queue": [
     {
-      "tweet": "They're actually making Zootopia 3. At this point, I'm pretty sure Disney just hates original ideas.",
-      "original_url": "https://deadline.com/2026/08/zootopia-3-d23-1237041333/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘Zootopia 3’ In Works At Disney; Ke Huy Quan & Ginnifer Goodwin Reprising Roles – D23",
-      "source": "Deadline",
-      "category": "entertainment",
-      "added_at": "2026-08-15T06:34:28.042154+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -607,17 +596,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "So apparently Frozen 3 is happening and Olaf is getting a girlfriend. We're never escaping the sequel machine.",
-      "original_url": "https://variety.com/2026/film/news/frozen-3-first-details-anna-kristoff-married-olaf-love-1236822955/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘Frozen 3’ First Details: Anna and Kristoff Get Married, Olaf Gets a Girlfriend and a New Villain Emerges",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-08-15T06:34:28.042152+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -814,6 +792,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "So apparently Frozen 3 is happening and Olaf is getting a girlfriend. We're never escaping the sequel machine.",
+      "original_url": "https://variety.com/2026/film/news/frozen-3-first-details-anna-kristoff-married-olaf-love-1236822955/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘Frozen 3’ First Details: Anna and Kristoff Get Married, Olaf Gets a Girlfriend and a New Villain Emerges",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-08-15T06:34:28.042152+00:00"
     },
     {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3045,
+    "total_posted": 3046,
     "total_collected": 14180
   },
-  "last_posted_at": "2026-08-15T06:44:12.622235+00:00"
+  "last_posted_at": "2026-08-15T07:14:21.730113+00:00"
 }
