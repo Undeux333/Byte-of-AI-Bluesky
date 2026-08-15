@@ -35,17 +35,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Hold on, SpaceX just officially bought Cursor. Just what we needed, more AI coding tools under Elon’s thumb.",
-      "original_url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "SpaceX officially closes its Cursor acquisition",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-08-15T17:15:01.555588+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -55,6 +44,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Hold on, SpaceX just officially bought Cursor. Just what we needed, more AI coding tools under Elon’s thumb.",
+      "original_url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "SpaceX officially closes its Cursor acquisition",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-08-15T17:15:01.555588+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
