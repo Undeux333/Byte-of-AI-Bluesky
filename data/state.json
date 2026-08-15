@@ -2,17 +2,6 @@
   "last_collected": "2026-08-15T19:32:48.919052+00:00",
   "queue": [
     {
-      "tweet": "Bro, turns out AI isn't even outthinking mathematicians, it's just out-remembering them. It's basically a glorified search bar with a better memory.",
-      "original_url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-15T19:32:48.917167+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3075,
+    "total_posted": 3076,
     "total_collected": 14267
   },
-  "last_posted_at": "2026-08-15T19:39:49.567447+00:00"
+  "last_posted_at": "2026-08-15T19:52:34.408103+00:00"
 }
