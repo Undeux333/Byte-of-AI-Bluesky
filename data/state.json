@@ -2,28 +2,6 @@
   "last_collected": "2026-08-16T17:53:55.423660+00:00",
   "queue": [
     {
-      "tweet": "Did you see Ronaldo said this is probably his last year playing? Dude is finally hanging it up.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c3300lxjz7lo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'Probably my last year' - Ronaldo hints at retirement",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-16T17:53:55.422002+00:00"
-    },
-    {
-      "tweet": "They're putting Persona 5 and Sonic in the next Fortnite season. That's a fever dream.",
-      "original_url": "https://www.polygon.com/fortnite-override-season-trailer/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'Persona 5' And More Iconic Games Will Dominate The Next Season Of Fortnite",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-16T17:53:55.422014+00:00"
-    },
-    {
       "tweet": "Man, talk about bad luck. Italy's art police just recovered three paintings on Friday, and then thieves hit Sicily on Saturday. Total revolving door.",
       "original_url": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma",
       "buzz_score": 75,
@@ -99,28 +77,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Israel is still hitting Lebanon despite that ceasefire brokered by the US. Why do we even pretend that word means anything.",
-      "original_url": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-16T11:32:52.661373+00:00"
-    },
-    {
-      "tweet": "That Stephen King movie The Dead Zone is back on streaming. Honestly, I always forget he did sci-fi better than most people doing horror.",
-      "original_url": "https://www.polygon.com/stephen-king-dead-zone-streaming-free-august-2026/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Stephen King's 103-Minute Sci-Fi Movie Masterpiece Has Officially Returned to Free Streaming",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-16T11:32:52.660831+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
@@ -673,6 +629,28 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Israel is still hitting Lebanon despite that ceasefire brokered by the US. Why do we even pretend that word means anything.",
+      "original_url": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-16T11:32:52.661373+00:00"
+    },
+    {
+      "tweet": "That Stephen King movie The Dead Zone is back on streaming. Honestly, I always forget he did sci-fi better than most people doing horror.",
+      "original_url": "https://www.polygon.com/stephen-king-dead-zone-streaming-free-august-2026/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Stephen King's 103-Minute Sci-Fi Movie Masterpiece Has Officially Returned to Free Streaming",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-16T11:32:52.660831+00:00"
+    },
+    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -871,17 +849,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Qusra residents have been under siege for eight days without water. That’s just bleak man.",
-      "original_url": "https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘Water and salt’: Qusra residents trapped in Israeli settler siege",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-16T17:53:55.423284+00:00"
-    },
-    {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
       "original_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "buzz_score": 85,
@@ -1023,6 +990,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-04T04:28:08.779266+00:00"
+    },
+    {
+      "tweet": "Qusra residents have been under siege for eight days without water. That’s just bleak man.",
+      "original_url": "https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘Water and salt’: Qusra residents trapped in Israeli settler siege",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-16T17:53:55.423284+00:00"
     },
     {
       "tweet": "Wait, this is actually insane. They literally found a lost masterpiece hanging in the background of Stuart Little. Movie magic man.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3111,
+    "total_posted": 3113,
     "total_collected": 14408
   },
-  "last_posted_at": "2026-08-16T18:52:52.414127+00:00"
+  "last_posted_at": "2026-08-16T19:12:48.598338+00:00"
 }
