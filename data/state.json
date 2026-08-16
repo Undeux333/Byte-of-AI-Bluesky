@@ -2,28 +2,6 @@
   "last_collected": "2026-08-15T23:54:23.959872+00:00",
   "queue": [
     {
-      "tweet": "That Disney D23 event just dropped a ton of trailers. They're never gonna stop making these, are they.",
-      "original_url": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "VisionQuest trailer kicks off Disney's D23 fan event",
-      "source": "Ars Technica",
-      "category": "tech",
-      "added_at": "2026-08-15T23:54:23.959068+00:00"
-    },
-    {
-      "tweet": "Dude, an art historian just realized a long-lost painting was hanging in the background of that Stuart Little movie. The movie. Just sitting there.",
-      "original_url": "https://www.mentalfloss.com/entertainment/movies/long-lost-painting-found-stuart-little?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Time a Long-Lost Painting Was Found in ‘Stuart Little’",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-15T23:54:23.958503+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3081,
+    "total_posted": 3083,
     "total_collected": 14293
   },
-  "last_posted_at": "2026-08-16T00:03:19.668449+00:00"
+  "last_posted_at": "2026-08-16T00:43:36.428747+00:00"
 }
