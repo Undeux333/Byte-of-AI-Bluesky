@@ -2,28 +2,6 @@
   "last_collected": "2026-08-16T20:08:56.576039+00:00",
   "queue": [
     {
-      "tweet": "So apparently 190,000 Canadians signed a petition to kick out Pete Hoekstra. Being the U.S. Ambassador really isn't what it used to be.",
-      "original_url": "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-16T20:08:56.574676+00:00"
-    },
-    {
-      "tweet": "Now there’s an entire resale economy for AI credits. We’re literally just trading imaginary math tokens at this point.",
-      "original_url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "buzz_score": 85,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "The AI Credit Resale Economy",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-16T20:08:56.574998+00:00"
-    },
-    {
       "tweet": "Insomniac is out here blaming social media for the Wolverine hate. We’re all just tired of being fed trailers that don’t look real until they're actually real.",
       "original_url": "https://kotaku.com/insomniac-staff-blame-social-media-feedback-loops-for-overnight-wolverine-hate-2000724780",
       "buzz_score": 82,
@@ -640,17 +618,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Barcelona dropping sixty-five million on Rodri is wild. Man City is gonna feel that one.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Barcelona agree £65m deal to sign Rodri from Man City",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-16T20:08:56.574680+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -849,26 +816,15 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Israel is still hitting Lebanon despite that ceasefire brokered by the US. Why do we even pretend that word means anything.",
-      "original_url": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
+      "tweet": "Barcelona dropping sixty-five million on Rodri is wild. Man City is gonna feel that one.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-16T11:32:52.661373+00:00"
-    },
-    {
-      "tweet": "That Stephen King movie The Dead Zone is back on streaming. Honestly, I always forget he did sci-fi better than most people doing horror.",
-      "original_url": "https://www.polygon.com/stephen-king-dead-zone-streaming-free-august-2026/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Stephen King's 103-Minute Sci-Fi Movie Masterpiece Has Officially Returned to Free Streaming",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-16T11:32:52.660831+00:00"
+      "original_title": "Barcelona agree £65m deal to sign Rodri from Man City",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-16T20:08:56.574680+00:00"
     },
     {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
@@ -1012,6 +968,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-04T04:28:08.779266+00:00"
+    },
+    {
+      "tweet": "Israel is still hitting Lebanon despite that ceasefire brokered by the US. Why do we even pretend that word means anything.",
+      "original_url": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-16T11:32:52.661373+00:00"
+    },
+    {
+      "tweet": "That Stephen King movie The Dead Zone is back on streaming. Honestly, I always forget he did sci-fi better than most people doing horror.",
+      "original_url": "https://www.polygon.com/stephen-king-dead-zone-streaming-free-august-2026/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Stephen King's 103-Minute Sci-Fi Movie Masterpiece Has Officially Returned to Free Streaming",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-16T11:32:52.660831+00:00"
     },
     {
       "tweet": "Did you see Karol G brought out Bruno Mars at that L.A. show? My feed is absolute chaos right now.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3117,
+    "total_posted": 3119,
     "total_collected": 14424
   },
-  "last_posted_at": "2026-08-16T20:15:30.250717+00:00"
+  "last_posted_at": "2026-08-16T20:40:55.285903+00:00"
 }
