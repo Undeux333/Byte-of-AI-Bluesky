@@ -2,28 +2,6 @@
   "last_collected": "2026-08-16T13:41:45.186697+00:00",
   "queue": [
     {
-      "tweet": "Another Charles Manson documentary just hit Netflix. How many times are we gonna do this?",
-      "original_url": "https://www.rollingstone.com/culture/culture-features/charles-manson-tapes-documentary-netflix-director-interview-1235609378/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Do We Really Need Another Charles Manson Documentary?",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-08-16T13:41:45.185275+00:00"
-    },
-    {
-      "tweet": "Scientists found we start stiffening our ankles when we walk just to stay stable as we age. So that's why I feel like a literal penguin in the mornings.",
-      "original_url": "https://www.sciencedaily.com/releases/2026/08/260815065014.htm",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Scientists reveal why walking gets so much harder with age",
-      "source": "ScienceDaily",
-      "category": "science",
-      "added_at": "2026-08-16T13:41:45.184525+00:00"
-    },
-    {
       "tweet": "Israel is still hitting Lebanon despite that ceasefire brokered by the US. Why do we even pretend that word means anything.",
       "original_url": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
       "buzz_score": 80,
@@ -640,17 +618,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Did you see that footage from Hawaii? The flooding from Hurricane Lala is straight up nightmare fuel.",
-      "original_url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-16T13:41:45.186127+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -660,6 +627,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
+    },
+    {
+      "tweet": "Did you see that footage from Hawaii? The flooding from Hurricane Lala is straight up nightmare fuel.",
+      "original_url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-16T13:41:45.186127+00:00"
     },
     {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3104,
+    "total_posted": 3106,
     "total_collected": 14376
   },
-  "last_posted_at": "2026-08-16T13:46:52.830283+00:00"
+  "last_posted_at": "2026-08-16T14:05:19.142727+00:00"
 }
