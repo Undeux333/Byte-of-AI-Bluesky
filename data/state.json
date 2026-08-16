@@ -2,28 +2,6 @@
   "last_collected": "2026-08-16T22:09:27.556128+00:00",
   "queue": [
     {
-      "tweet": "Did you see that models are getting dumber on purpose now? Like we pay these companies to make the tech worse. Wild.",
-      "original_url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Models Are Getting Dumber on Purpose",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-16T22:09:27.554759+00:00"
-    },
-    {
-      "tweet": "So Mahershala Ali's Blade is officially dead. Back to the archives.",
-      "original_url": "https://www.polygon.com/4400-mahershala-ali-free-streaming-tubi/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mahershala Ali’s 'Blade' Is Dead, But His Forgotten 4-Part Sci-Fi Masterpiece Is Free on Streaming",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-16T22:09:27.555475+00:00"
-    },
-    {
       "tweet": "Australian politicians are quoting The Castle to argue about gun laws. That is top tier chaos.",
       "original_url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
       "buzz_score": 80,
@@ -640,17 +618,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Man, did you see that crash in Ireland? Some guy driving the wrong way on the M9. Terrifying.",
-      "original_url": "https://www.theguardian.com/world/2026/aug/16/five-teenagers-killed-and-four-other-people-injured-in-ireland-car-crash",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Five teenagers killed and four other people injured in Ireland car crash",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-16T22:09:27.555218+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -849,6 +816,17 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
+      "tweet": "Man, did you see that crash in Ireland? Some guy driving the wrong way on the M9. Terrifying.",
+      "original_url": "https://www.theguardian.com/world/2026/aug/16/five-teenagers-killed-and-four-other-people-injured-in-ireland-car-crash",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Five teenagers killed and four other people injured in Ireland car crash",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-16T22:09:27.555218+00:00"
+    },
+    {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
       "original_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "buzz_score": 85,
@@ -1003,17 +981,6 @@
       "added_at": "2026-08-16T22:09:27.554772+00:00"
     },
     {
-      "tweet": "Barcelona dropping sixty-five million on Rodri is wild. Man City is gonna feel that one.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Barcelona agree £65m deal to sign Rodri from Man City",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-16T20:08:56.574680+00:00"
-    },
-    {
       "tweet": "Israel is still hitting Lebanon despite that ceasefire brokered by the US. Why do we even pretend that word means anything.",
       "original_url": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
       "buzz_score": 80,
@@ -1034,6 +1001,17 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-08-16T11:32:52.660831+00:00"
+    },
+    {
+      "tweet": "Barcelona dropping sixty-five million on Rodri is wild. Man City is gonna feel that one.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Barcelona agree £65m deal to sign Rodri from Man City",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-16T20:08:56.574680+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3123,
+    "total_posted": 3125,
     "total_collected": 14440
   },
-  "last_posted_at": "2026-08-16T22:18:36.450240+00:00"
+  "last_posted_at": "2026-08-16T22:42:05.628939+00:00"
 }
