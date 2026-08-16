@@ -816,17 +816,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Did you see that footage from Hawaii? The flooding from Hurricane Lala is straight up nightmare fuel.",
-      "original_url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-16T13:41:45.186127+00:00"
-    },
-    {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
       "original_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "buzz_score": 85,
@@ -968,6 +957,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-04T04:28:08.779266+00:00"
+    },
+    {
+      "tweet": "Did you see that footage from Hawaii? The flooding from Hurricane Lala is straight up nightmare fuel.",
+      "original_url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-16T13:41:45.186127+00:00"
     },
     {
       "tweet": "Somebody stole Antonello da Messina paintings from a museum in Sicily. That’s some heist movie stuff.",
