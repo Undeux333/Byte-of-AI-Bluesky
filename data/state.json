@@ -794,17 +794,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Man, did you see that crash in Ireland? Some guy driving the wrong way on the M9. Terrifying.",
-      "original_url": "https://www.theguardian.com/world/2026/aug/16/five-teenagers-killed-and-four-other-people-injured-in-ireland-car-crash",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Five teenagers killed and four other people injured in Ireland car crash",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-16T22:09:27.555218+00:00"
-    },
-    {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
       "original_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "buzz_score": 85,
@@ -948,15 +937,15 @@
       "added_at": "2026-08-04T04:28:08.779266+00:00"
     },
     {
-      "tweet": "So the U.S. is just building these random overseas detention sites to hold people indefinitely. That's just where we're at now.",
-      "original_url": "https://www.nytimes.com/2026/08/16/world/deportations-eswatini-italy-heist.html",
-      "buzz_score": 80,
+      "tweet": "Man, did you see that crash in Ireland? Some guy driving the wrong way on the M9. Terrifying.",
+      "original_url": "https://www.theguardian.com/world/2026/aug/16/five-teenagers-killed-and-four-other-people-injured-in-ireland-car-crash",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "No Way Out",
-      "source": "NYT World",
+      "original_title": "Five teenagers killed and four other people injured in Ireland car crash",
+      "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-08-16T22:09:27.554772+00:00"
+      "added_at": "2026-08-16T22:09:27.555218+00:00"
     },
     {
       "tweet": "Israel is still hitting Lebanon despite that ceasefire brokered by the US. Why do we even pretend that word means anything.",
@@ -979,6 +968,17 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-08-16T11:32:52.660831+00:00"
+    },
+    {
+      "tweet": "So the U.S. is just building these random overseas detention sites to hold people indefinitely. That's just where we're at now.",
+      "original_url": "https://www.nytimes.com/2026/08/16/world/deportations-eswatini-italy-heist.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "No Way Out",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-16T22:09:27.554772+00:00"
     },
     {
       "tweet": "Barcelona dropping sixty-five million on Rodri is wild. Man City is gonna feel that one.",
