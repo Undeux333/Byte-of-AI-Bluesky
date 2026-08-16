@@ -2,28 +2,6 @@
   "last_collected": "2026-08-16T09:16:07.557059+00:00",
   "queue": [
     {
-      "tweet": "So I’m scrolling Netflix and see that new Mourinho doc. Three episodes of just him being an absolute menace to everyone. Finally some good TV.",
-      "original_url": "https://usa.newonnetflix.info/info/81762073",
-      "buzz_score": 80,
-      "buzz_score2": 100,
-      "rewrite_count": 0,
-      "original_title": "11th Aug: MOURINHO (2026), 3 Episodes [TV-MA] (6/10)",
-      "source": "New on Netflix",
-      "category": "entertainment",
-      "added_at": "2026-08-16T09:16:07.555278+00:00"
-    },
-    {
-      "tweet": "The US and Iran are basically ignoring their own nuclear deal deadline again. Are we actually surprised at this point.",
-      "original_url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-16T09:16:07.555826+00:00"
-    },
-    {
       "tweet": "Makhachev just cleared out the UFC win record against Machado Garry. At this point the guy isn't even fighting people, he's just collecting checks.",
       "original_url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c8dnn7d01p5o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3096,
+    "total_posted": 3098,
     "total_collected": 14344
   },
-  "last_posted_at": "2026-08-16T09:21:13.773595+00:00"
+  "last_posted_at": "2026-08-16T09:53:22.006194+00:00"
 }
