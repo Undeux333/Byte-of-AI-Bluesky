@@ -2,28 +2,6 @@
   "last_collected": "2026-08-16T02:09:28.537825+00:00",
   "queue": [
     {
-      "tweet": "South Korea is actually pushing to end that war with the North for real. Like, is this really the year we stop pretending it's 1953?",
-      "original_url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "South Korea proposes talks to officially end war with North",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-16T02:09:28.537147+00:00"
-    },
-    {
-      "tweet": "Bro, turns out BMI is basically useless compared to just looking at your gut for heart risk. So we've been stressing over a number that doesn't even tell us the truth.",
-      "original_url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Abdominal fat predicts heart disease risk better than BMI",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-16T02:09:28.537131+00:00"
-    },
-    {
       "tweet": "ICE locked up a pro soccer player, and now his case is just sitting in that massive backlog. The system is just broken.",
       "original_url": "https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis",
       "buzz_score": 80,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3085,
+    "total_posted": 3087,
     "total_collected": 14302
   },
-  "last_posted_at": "2026-08-16T02:16:09.492383+00:00"
+  "last_posted_at": "2026-08-16T03:16:49.748169+00:00"
 }
