@@ -2,28 +2,6 @@
   "last_collected": "2026-08-16T15:42:41.836168+00:00",
   "queue": [
     {
-      "tweet": "Did you see that OpenAI is literally logging every single click and keystroke now with that new ChatGPT feature. Feels like we're just training the thing to replace us at this point.",
-      "original_url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-      "buzz_score": 95,
-      "buzz_score2": 100,
-      "rewrite_count": 0,
-      "original_title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-08-16T15:42:41.834581+00:00"
-    },
-    {
-      "tweet": "Man, people are out here buying diamonds on TikTok Shop now. We've officially lost the plot.",
-      "original_url": "https://www.rollingstone.com/culture/culture-features/tiktok-shop-diamonds-gems-trend-1235607866/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "People Can’t Stop Buying Diamonds on TikTok: ‘I Feel Like Thanos’",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-08-16T15:42:41.834588+00:00"
-    },
-    {
       "tweet": "Apparently you can still buy Nazi memorabilia online in Australia because of some legal loophole. They’re just calling it collectibles now.",
       "original_url": "https://www.theguardian.com/australia-news/2026/aug/17/nazi-artefacts-prohibited-symbols-still-being-sold-online-australia-ntwnfb",
       "buzz_score": 75,
@@ -2062,8 +2040,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3106,
+    "total_posted": 3108,
     "total_collected": 14392
   },
-  "last_posted_at": "2026-08-16T14:05:19.142727+00:00"
+  "last_posted_at": "2026-08-16T16:20:27.137162+00:00"
 }
