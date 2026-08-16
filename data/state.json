@@ -794,17 +794,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Barcelona dropping sixty-five million on Rodri is wild. Man City is gonna feel that one.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Barcelona agree £65m deal to sign Rodri from Man City",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-16T20:08:56.574680+00:00"
-    },
-    {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
       "original_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "buzz_score": 85,
@@ -946,6 +935,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-04T04:28:08.779266+00:00"
+    },
+    {
+      "tweet": "Barcelona dropping sixty-five million on Rodri is wild. Man City is gonna feel that one.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Barcelona agree £65m deal to sign Rodri from Man City",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-16T20:08:56.574680+00:00"
     },
     {
       "tweet": "Israel is still hitting Lebanon despite that ceasefire brokered by the US. Why do we even pretend that word means anything.",
