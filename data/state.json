@@ -2,28 +2,6 @@
   "last_collected": "2026-08-17T20:49:33.397420+00:00",
   "queue": [
     {
-      "tweet": "Did you see AI;DR is a thing now? We're literally paying computers to stop reading for us.",
-      "original_url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "AI;DR (AI; Didn't Read)",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-17T20:49:33.396092+00:00"
-    },
-    {
-      "tweet": "That Khmer Rouge survivor just passed away at 85. What a hell of a life.",
-      "original_url": "https://www.nytimes.com/2026/08/15/world/asia/bou-meng-dead.html",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Bou Meng, Rare Survivor of Khmer Rouge Torture House, Dies at 85",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-17T20:49:33.397292+00:00"
-    },
-    {
       "tweet": "A boat just left Bristol to try and break that whole siege thing. Good luck with that.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss",
       "buzz_score": 75,
@@ -1952,8 +1930,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3182,
+    "total_posted": 3184,
     "total_collected": 14558
   },
-  "last_posted_at": "2026-08-17T22:25:12.695783+00:00"
+  "last_posted_at": "2026-08-17T22:51:04.567183+00:00"
 }
