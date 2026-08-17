@@ -2,28 +2,6 @@
   "last_collected": "2026-08-17T20:49:33.397420+00:00",
   "queue": [
     {
-      "tweet": "So apparently Trump just scaled back those war games because he likes Kim Jong Un now. Is this real life?",
-      "original_url": "https://www.aljazeera.com/video/inside-story/2026/8/17/why-did-trump-scale-back-war-games-with-south-korea?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why did Trump scale back war games with South Korea?",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-17T20:49:33.396258+00:00"
-    },
-    {
-      "tweet": "LIV Golf just canceled their final event to focus on their next chapter. Guess they ran out of cash.",
-      "original_url": "https://www.bbc.co.uk/sport/golf/articles/c7vg4rn7v6ro?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "LIV cancels final event to focus on 'next chapter'",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-17T20:49:33.396103+00:00"
-    },
-    {
       "tweet": "Bro, Qwen 3.8 is actually insane but it keeps overthinking everything. It's that kind of friend who needs a three-hour monologue just to decide on a pizza place.",
       "original_url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
       "buzz_score": 85,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3174,
+    "total_posted": 3176,
     "total_collected": 14558
   },
-  "last_posted_at": "2026-08-17T20:55:54.206346+00:00"
+  "last_posted_at": "2026-08-17T21:21:37.747328+00:00"
 }
