@@ -596,17 +596,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Man, the Houthis are back at it hitting a Saudi ship in the Red Sea. Just another Tuesday, I guess.",
-      "original_url": "https://www.nytimes.com/2026/08/17/world/middleeast/houthis-saudi-strike.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Houthis Claim Strike on Saudi Vessel as Red Sea Violence Escalates",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-17T16:18:52.193447+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -803,6 +792,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "Man, the Houthis are back at it hitting a Saudi ship in the Red Sea. Just another Tuesday, I guess.",
+      "original_url": "https://www.nytimes.com/2026/08/17/world/middleeast/houthis-saudi-strike.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Houthis Claim Strike on Saudi Vessel as Red Sea Violence Escalates",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-17T16:18:52.193447+00:00"
     },
     {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
