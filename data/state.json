@@ -2,28 +2,6 @@
   "last_collected": "2026-08-17T23:12:10.910259+00:00",
   "queue": [
     {
-      "tweet": "System of a Down is doing a one-off show in Rio with Faith No More. That's a random lineup.",
-      "original_url": "https://www.billboard.com/music/rock/system-of-a-down-concert-one-night-rio-de-janeiro-brazil-1236318220/",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "System of a Down to Headline Massive ‘One Night Only’ Concert in Rio de Janeiro",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-17T23:12:10.909826+00:00"
-    },
-    {
-      "tweet": "Saw a list of the twelve biggest game flops ever. Makes you realize how much money just vanishes into thin air.",
-      "original_url": "https://www.polygon.com/12-biggest-gaming-flops-ever/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The 12 Biggest Video Game Flops of All Time",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-17T23:12:10.909840+00:00"
-    },
-    {
       "tweet": "Found out \"You talkin' to me?\" wasn't even in the Taxi Driver script. De Niro just started doing it in the mirror. Sometimes you just gotta commit to the bit.",
       "original_url": "https://www.mentalfloss.com/entertainment/movies/robert-de-niro-improvised-taxi-driver-line?utm_source=RSS",
       "buzz_score": 85,
@@ -123,17 +101,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Wait, the Star Trek game developers had to change the plot because they actually had a shuttle fly into a building before 9/11 happened. That’s wild.",
-      "original_url": "https://kotaku.com/fan-favorite-star-trek-fps-had-to-change-its-plot-after-9-11-we-actually-had-a-shuttle-fly-into-a-building-2000725110",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fan-Favorite Star Trek FPS Had To Change Its Plot After 9/11: ‘We Actually Had A Shuttle Fly Into a Building’",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-17T23:12:10.909830+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -143,6 +110,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Wait, the Star Trek game developers had to change the plot because they actually had a shuttle fly into a building before 9/11 happened. That’s wild.",
+      "original_url": "https://kotaku.com/fan-favorite-star-trek-fps-had-to-change-its-plot-after-9-11-we-actually-had-a-shuttle-fly-into-a-building-2000725110",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Fan-Favorite Star Trek FPS Had To Change Its Plot After 9/11: ‘We Actually Had A Shuttle Fly Into a Building’",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-17T23:12:10.909830+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
@@ -695,17 +673,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Kushner is in Israel trying to break the Gaza stalemate. At this point, we're just watching the same loop.",
-      "original_url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-17T23:12:10.909971+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -904,15 +871,15 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Sarah J. Maas is dropping two more ACOTAR books. My girl’s reading list just doubled.",
-      "original_url": "https://www.polygon.com/acotar-6-and-7-covers-book-titles-sarah-j-maas/",
-      "buzz_score": 82,
+      "tweet": "Kushner is in Israel trying to break the Gaza stalemate. At this point, we're just watching the same loop.",
+      "original_url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Sarah J. Maas Reveals New ‘ACOTAR’ Books, Titles and Release Dates",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-17T23:12:10.909832+00:00"
+      "original_title": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-17T23:12:10.909971+00:00"
     },
     {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
@@ -1023,6 +990,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-08-05T23:36:00.398929+00:00"
+    },
+    {
+      "tweet": "Sarah J. Maas is dropping two more ACOTAR books. My girl’s reading list just doubled.",
+      "original_url": "https://www.polygon.com/acotar-6-and-7-covers-book-titles-sarah-j-maas/",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sarah J. Maas Reveals New ‘ACOTAR’ Books, Titles and Release Dates",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-17T23:12:10.909832+00:00"
     },
     {
       "tweet": "Federal prosecutor is suing the DOJ claiming they got fired for political reasons. Who's actually surprised by that.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3186,
+    "total_posted": 3188,
     "total_collected": 14574
   },
-  "last_posted_at": "2026-08-17T23:20:45.062612+00:00"
+  "last_posted_at": "2026-08-17T23:43:59.931752+00:00"
 }
