@@ -2,28 +2,6 @@
   "last_collected": "2026-08-17T13:58:27.002663+00:00",
   "queue": [
     {
-      "tweet": "Bro, the UK Prime Minister was literally texting some random dude pretending to be Trump's guy. We're running the world with zero security, man.",
-      "original_url": "https://www.nytimes.com/2026/08/17/world/europe/andy-burnham-prime-minister-uk-fake-texts-trump.html",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Andy Burnham, UK Prime Minister, Exchanged Texts With Someone Posing as Trump’s Chief of Staff",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-17T13:58:27.002087+00:00"
-    },
-    {
-      "tweet": "Sony just deleted fourteen indie games from existence because they nuked a dev's contract. They really don't care at all.",
-      "original_url": "https://kotaku.com/stonks-9800-playstation-store-sony-ternox-games-shovelware-2000724952",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Sony Terminates Stonks-9800 Dev’s Publisher Agreement Without Warning, 14 Titles Set To Disappear In Under A Week",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-17T13:58:27.002100+00:00"
-    },
-    {
       "tweet": "Yo, did you hear Stripe is trying to drop seven billion on OpenRouter? That's insane, man.",
       "original_url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
       "buzz_score": 85,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3160,
+    "total_posted": 3162,
     "total_collected": 14518
   },
-  "last_posted_at": "2026-08-17T14:04:28.309905+00:00"
+  "last_posted_at": "2026-08-17T14:28:44.445084+00:00"
 }
