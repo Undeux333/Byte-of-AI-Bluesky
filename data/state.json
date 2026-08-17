@@ -794,17 +794,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Marvel put out their Avengers watchlist and left a movie off that literally everyone expected. They're definitely trolling.",
-      "original_url": "https://www.polygon.com/avengers-doomsday-watchlist/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Marvel Reveals Official Watchlist for Avengers: Doomsday — With One Surprising Absence",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-17T09:54:28.552453+00:00"
-    },
-    {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
       "original_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "buzz_score": 85,
@@ -924,6 +913,17 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-08-05T21:31:14.383212+00:00"
+    },
+    {
+      "tweet": "Marvel put out their Avengers watchlist and left a movie off that literally everyone expected. They're definitely trolling.",
+      "original_url": "https://www.polygon.com/avengers-doomsday-watchlist/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Marvel Reveals Official Watchlist for Avengers: Doomsday — With One Surprising Absence",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-17T09:54:28.552453+00:00"
     },
     {
       "tweet": "Looks like King of the Hill is finally gonna have Hank and Buck go at it. That's the only drama I care about.",
