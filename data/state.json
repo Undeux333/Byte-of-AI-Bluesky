@@ -2,28 +2,6 @@
   "last_collected": "2026-08-17T05:19:47.847375+00:00",
   "queue": [
     {
-      "tweet": "Did you see this guy Posh George is still chilling in Nigel Farage's inner circle? You really can't make this stuff up.",
-      "original_url": "https://www.nytimes.com/2026/08/17/world/europe/posh-george-nigel-farage-reform.html",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘Posh George,’ the Convicted Fraudster in Nigel Farage’s Inner Circle",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-17T05:19:47.846936+00:00"
-    },
-    {
-      "tweet": "Dude, this Qwen 3.8 AI model is actually good but it lowkey just won't stop overthinking every single prompt. Sounds exactly like me when I've had way too much coffee.",
-      "original_url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-17T05:19:47.846927+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -816,17 +794,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "That Tom Cruise thriller just popped up on streaming again. We all have that one movie we’ll stop and watch every time it’s on.",
-      "original_url": "https://www.polygon.com/tubi-movies-august-2026-jack-reacher/",
-      "buzz_score": 75,
-      "buzz_score2": 94,
-      "rewrite_count": 0,
-      "original_title": "After 10 Years, Tom Cruise's Forgotten 118-Minute Mystery-Thriller Is Back on Free Streaming",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-17T00:34:15.977001+00:00"
-    },
-    {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
       "original_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "buzz_score": 85,
@@ -946,6 +913,17 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-08-05T21:31:14.383212+00:00"
+    },
+    {
+      "tweet": "That Tom Cruise thriller just popped up on streaming again. We all have that one movie we’ll stop and watch every time it’s on.",
+      "original_url": "https://www.polygon.com/tubi-movies-august-2026-jack-reacher/",
+      "buzz_score": 75,
+      "buzz_score2": 94,
+      "rewrite_count": 0,
+      "original_title": "After 10 Years, Tom Cruise's Forgotten 118-Minute Mystery-Thriller Is Back on Free Streaming",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-17T00:34:15.977001+00:00"
     },
     {
       "tweet": "Hold on, so the government is just straight-up killing research funding now based on some random keyword list? Absolute circus.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3139,
+    "total_posted": 3141,
     "total_collected": 14467
   },
-  "last_posted_at": "2026-08-17T06:03:29.263480+00:00"
+  "last_posted_at": "2026-08-17T06:44:01.087155+00:00"
 }
