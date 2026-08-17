@@ -2,28 +2,6 @@
   "last_collected": "2026-08-17T05:19:47.847375+00:00",
   "queue": [
     {
-      "tweet": "John Oliver going off on Trump for that airplane-swap thing is exactly what we needed this week. The guy really doesn't miss.",
-      "original_url": "https://variety.com/2026/tv/news/john-oliver-mocks-trump-sacrificing-staff-airplane-swap-incident-iran-1236836013/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "John Oliver Brutally Mocks Trump for Sacrificing Staff in Airplane-Swap Incident",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-08-17T05:19:47.847243+00:00"
-    },
-    {
-      "tweet": "Man, Hayden Panettiere passing at 36 is just brutal. We all grew up watching her in everything.",
-      "original_url": "https://kotaku.com/hayden-panettiere-death-until-dawn-kingdom-hearts-2000724820",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Until Dawn And Kingdom Hearts Star Hayden Panettiere Has Died At 36",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-17T05:19:47.846948+00:00"
-    },
-    {
       "tweet": "Did you see this guy Posh George is still chilling in Nigel Farage's inner circle? You really can't make this stuff up.",
       "original_url": "https://www.nytimes.com/2026/08/17/world/europe/posh-george-nigel-farage-reform.html",
       "buzz_score": 75,
@@ -651,17 +629,6 @@
       "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
-      "tweet": "That Tom Cruise thriller just popped up on streaming again. We all have that one movie we’ll stop and watch every time it’s on.",
-      "original_url": "https://www.polygon.com/tubi-movies-august-2026-jack-reacher/",
-      "buzz_score": 75,
-      "buzz_score2": 94,
-      "rewrite_count": 0,
-      "original_title": "After 10 Years, Tom Cruise's Forgotten 118-Minute Mystery-Thriller Is Back on Free Streaming",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-17T00:34:15.977001+00:00"
-    },
-    {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
       "original_url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
       "buzz_score": 88,
@@ -847,6 +814,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "That Tom Cruise thriller just popped up on streaming again. We all have that one movie we’ll stop and watch every time it’s on.",
+      "original_url": "https://www.polygon.com/tubi-movies-august-2026-jack-reacher/",
+      "buzz_score": 75,
+      "buzz_score2": 94,
+      "rewrite_count": 0,
+      "original_title": "After 10 Years, Tom Cruise's Forgotten 118-Minute Mystery-Thriller Is Back on Free Streaming",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-17T00:34:15.977001+00:00"
     },
     {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3137,
+    "total_posted": 3139,
     "total_collected": 14467
   },
-  "last_posted_at": "2026-08-17T05:27:26.303571+00:00"
+  "last_posted_at": "2026-08-17T06:03:29.263480+00:00"
 }
