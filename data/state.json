@@ -2,39 +2,6 @@
   "last_collected": "2026-08-17T03:10:38.971788+00:00",
   "queue": [
     {
-      "tweet": "They’re out here pushing 85 cheap outfits that make you look good. We all have that one shirt we bought on sale that's somehow the best thing we own.",
-      "original_url": "https://www.bustle.com/style/bougie-outfits-that-make-you-look-sexy-as-hell-theyre-so-cheap",
-      "buzz_score": 80,
-      "buzz_score2": 94,
-      "rewrite_count": 0,
-      "original_title": "85 Bougie Outfits That Make You Look Sexy As Hell — & They're So Cheap",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-08-17T00:34:15.976547+00:00"
-    },
-    {
-      "tweet": "Seeing a list of 100 weird products that are supposedly life-changing. We’ve all got that one dumb gadget in a drawer we swore would fix our entire life.",
-      "original_url": "https://www.bustle.com/life/weird-slightly-embarrassing-things-that-are-actually-life-changing",
-      "buzz_score": 85,
-      "buzz_score2": 93,
-      "rewrite_count": 0,
-      "original_title": "100 Weird & Slightly Embarrassing Things That Are Actually Life-Changing",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-08-17T00:34:15.976549+00:00"
-    },
-    {
-      "tweet": "That Tom Cruise thriller just popped up on streaming again. We all have that one movie we’ll stop and watch every time it’s on.",
-      "original_url": "https://www.polygon.com/tubi-movies-august-2026-jack-reacher/",
-      "buzz_score": 75,
-      "buzz_score2": 94,
-      "rewrite_count": 0,
-      "original_title": "After 10 Years, Tom Cruise's Forgotten 118-Minute Mystery-Thriller Is Back on Free Streaming",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-17T00:34:15.977001+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -66,6 +33,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "That Tom Cruise thriller just popped up on streaming again. We all have that one movie we’ll stop and watch every time it’s on.",
+      "original_url": "https://www.polygon.com/tubi-movies-august-2026-jack-reacher/",
+      "buzz_score": 75,
+      "buzz_score2": 94,
+      "rewrite_count": 0,
+      "original_title": "After 10 Years, Tom Cruise's Forgotten 118-Minute Mystery-Thriller Is Back on Free Streaming",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-17T00:34:15.977001+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -827,28 +805,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Thailand’s got 10 million guns just floating around out there. How do you even manage that?",
-      "original_url": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Thailand has a gun problem - 10 million of them",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-17T00:34:15.977146+00:00"
-    },
-    {
-      "tweet": "US and Iran are about to blow past their own deadline for that peace deal. It's just a tradition at this point.",
-      "original_url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
-      "buzz_score": 85,
-      "buzz_score2": 91,
-      "rewrite_count": 0,
-      "original_title": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-17T00:34:15.977400+00:00"
-    },
-    {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
       "original_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "buzz_score": 85,
@@ -968,6 +924,28 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-08-05T21:31:14.383212+00:00"
+    },
+    {
+      "tweet": "Thailand’s got 10 million guns just floating around out there. How do you even manage that?",
+      "original_url": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Thailand has a gun problem - 10 million of them",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-17T00:34:15.977146+00:00"
+    },
+    {
+      "tweet": "US and Iran are about to blow past their own deadline for that peace deal. It's just a tradition at this point.",
+      "original_url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
+      "buzz_score": 85,
+      "buzz_score2": 91,
+      "rewrite_count": 0,
+      "original_title": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-17T00:34:15.977400+00:00"
     },
     {
       "tweet": "Some guy named Jack Whaley just won the US Amateur, first time an Englishman’s done that since 1911. Wild.",
@@ -1996,8 +1974,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3133,
+    "total_posted": 3135,
     "total_collected": 14456
   },
-  "last_posted_at": "2026-08-17T03:19:22.830027+00:00"
+  "last_posted_at": "2026-08-17T04:08:12.434240+00:00"
 }
