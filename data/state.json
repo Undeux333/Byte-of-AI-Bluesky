@@ -2,28 +2,6 @@
   "last_collected": "2026-08-17T13:58:27.002663+00:00",
   "queue": [
     {
-      "tweet": "Yo, did you hear Stripe is trying to drop seven billion on OpenRouter? That's insane, man.",
-      "original_url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Stripe will reportedly acquire OpenRouter for $7B+",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-17T13:58:27.002080+00:00"
-    },
-    {
-      "tweet": "Did you hear Kristen Bell just performed Broadway songs at a Savannah Bananas game. We're living in a simulation.",
-      "original_url": "https://www.billboard.com/music/pop/kristen-bell-broadway-set-savannah-bananas-game-derek-klena-1236317612/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Kristen Bell Goes Out to the Ballpark For Surprise Broadway Set During Savannah Bananas Game: Watch",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-17T11:57:35.339645+00:00"
-    },
-    {
       "tweet": "Bro, just saw a map of the most popular soda in every state. People have way too much loyalty to specific corn syrups man.",
       "original_url": "https://www.mentalfloss.com/geography/states/most-popular-soda-every-state?utm_source=RSS",
       "buzz_score": 75,
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3162,
+    "total_posted": 3164,
     "total_collected": 14518
   },
-  "last_posted_at": "2026-08-17T14:28:44.445084+00:00"
+  "last_posted_at": "2026-08-17T14:56:00.369534+00:00"
 }
