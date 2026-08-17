@@ -794,17 +794,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Man, the Houthis are back at it hitting a Saudi ship in the Red Sea. Just another Tuesday, I guess.",
-      "original_url": "https://www.nytimes.com/2026/08/17/world/middleeast/houthis-saudi-strike.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Houthis Claim Strike on Saudi Vessel as Red Sea Violence Escalates",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-17T16:18:52.193447+00:00"
-    },
-    {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
       "original_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "buzz_score": 85,
@@ -924,6 +913,17 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-08-05T21:31:14.383212+00:00"
+    },
+    {
+      "tweet": "Man, the Houthis are back at it hitting a Saudi ship in the Red Sea. Just another Tuesday, I guess.",
+      "original_url": "https://www.nytimes.com/2026/08/17/world/middleeast/houthis-saudi-strike.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Houthis Claim Strike on Saudi Vessel as Red Sea Violence Escalates",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-17T16:18:52.193447+00:00"
     },
     {
       "tweet": "Hold on, Kingdom Hearts fans were hyped about seeing Sora and Riku on stage and now the actual voice of Kairi died. Man, that's rough.",
