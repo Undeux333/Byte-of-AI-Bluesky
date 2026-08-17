@@ -2,28 +2,6 @@
   "last_collected": "2026-08-17T20:49:33.397420+00:00",
   "queue": [
     {
-      "tweet": "Australia is trying to fix gambling ads with an opt-out system. They clearly have no idea how the internet works.",
-      "original_url": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australia politics live: Greens say Labor and Coalition deal on gambling ad laws a ‘smokescreen’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-17T20:49:33.396517+00:00"
-    },
-    {
-      "tweet": "Fifa fired a guy for talking trash about Infantino. You can't even have an opinion over there.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Top Fifa official sacked after Infantino plan criticism",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-17T20:49:33.396105+00:00"
-    },
-    {
       "tweet": "Did you see AI;DR is a thing now? We're literally paying computers to stop reading for us.",
       "original_url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
       "buzz_score": 80,
@@ -1974,8 +1952,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3180,
+    "total_posted": 3182,
     "total_collected": 14558
   },
-  "last_posted_at": "2026-08-17T22:06:17.747148+00:00"
+  "last_posted_at": "2026-08-17T22:25:12.695783+00:00"
 }
