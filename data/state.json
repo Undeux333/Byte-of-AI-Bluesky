@@ -2,28 +2,6 @@
   "last_collected": "2026-08-17T07:37:17.915784+00:00",
   "queue": [
     {
-      "tweet": "Teachers in Australia are getting a 30% raise after they basically just revolted against the union. That's how you get stuff done",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/17/australia-victoria-teachers-union-vote-pay-deal",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Victorian teachers are to be the best paid in Australia. A union rebellion helped seal the deal",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-17T07:37:17.914715+00:00"
-    },
-    {
-      "tweet": "So apparently Rodri is actually leaving Man City for Barcelona. The transfer market is just a massive carousel at this point",
-      "original_url": "https://www.aljazeera.com/sports/2026/8/17/rodri-headed-to-barcelona-after-man-city-accepts-transfer-bid?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Rodri headed to Barcelona after Man City accepts transfer bid",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-17T07:37:17.914710+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3145,
+    "total_posted": 3147,
     "total_collected": 14481
   },
-  "last_posted_at": "2026-08-17T08:31:25.284864+00:00"
+  "last_posted_at": "2026-08-17T09:15:24.413280+00:00"
 }
