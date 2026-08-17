@@ -2,28 +2,6 @@
   "last_collected": "2026-08-17T20:49:33.397420+00:00",
   "queue": [
     {
-      "tweet": "Bro, Qwen 3.8 is actually insane but it keeps overthinking everything. It's that kind of friend who needs a three-hour monologue just to decide on a pizza place.",
-      "original_url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-17T20:49:33.396086+00:00"
-    },
-    {
-      "tweet": "Robin Williams thought one of his own movies felt weird to watch. Even legends have bad days.",
-      "original_url": "https://www.mentalfloss.com/entertainment/movies/robin-williams-favorite-least-favorite-robin-williams-films?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Robin Williams' Favorite (And Least Favorite) Robin Williams Films",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-17T20:49:33.397167+00:00"
-    },
-    {
       "tweet": "They made the new Fire Emblem a Switch 2 exclusive. Guess we're all buying that console now.",
       "original_url": "https://www.polygon.com/fire-emblem-fortunes-weave-switch-2-exclusive/",
       "buzz_score": 80,
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3176,
+    "total_posted": 3178,
     "total_collected": 14558
   },
-  "last_posted_at": "2026-08-17T21:21:37.747328+00:00"
+  "last_posted_at": "2026-08-17T21:46:57.179176+00:00"
 }
