@@ -2,28 +2,6 @@
   "last_collected": "2026-08-17T11:57:35.340687+00:00",
   "queue": [
     {
-      "tweet": "So apparently Kushner is over in Israel trying to break that Gaza logjam. Like that's gonna fix anything.",
-      "original_url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Kushner Meets Netanyahu in Effort to Break Logjam Over Gaza",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-17T11:57:35.339641+00:00"
-    },
-    {
-      "tweet": "That Ryan Gosling thriller is free on streaming right now. We all need to rewatch that one.",
-      "original_url": "https://www.polygon.com/movies-free-streaming-august-2026-drive/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Ryan Gosling's 100-Minute 10/10 Crime-Thriller Cult Classic Is Officially Free on Streaming",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-17T11:57:35.340318+00:00"
-    },
-    {
       "tweet": "Gordon Murray just dropped a six-speed manual supercar to keep it analog. Sometimes you just gotta go back to basics.",
       "original_url": "https://hypebeast.com/2026/8/gordon-murray-s1-manual-v-12-supercar-debuts-at-monterey",
       "buzz_score": 80,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3154,
+    "total_posted": 3156,
     "total_collected": 14508
   },
-  "last_posted_at": "2026-08-17T12:06:36.103960+00:00"
+  "last_posted_at": "2026-08-17T12:35:32.002977+00:00"
 }
