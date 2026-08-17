@@ -2,28 +2,6 @@
   "last_collected": "2026-08-17T18:20:41.369956+00:00",
   "queue": [
     {
-      "tweet": "Did you hear the Pokemon doughnuts are already sold out. Like, how is that even possible.",
-      "original_url": "https://kotaku.com/pokemon-krispy-kreme-doughnuts-sold-out-2000725054",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Great, Of Course The Pokémon Doughnuts Launching Tomorrow Are Somehow Already Sold Out",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-17T18:20:41.368585+00:00"
-    },
-    {
-      "tweet": "Netanyahu and Kushner couldn't reach a deal on Gaza. Shocker.",
-      "original_url": "https://www.theguardian.com/world/2026/aug/17/netanyahu-kushner-talks-gaza-israel-us-board-of-peace",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-17T18:20:41.369064+00:00"
-    },
-    {
       "tweet": "Rangers and Celtic are playing at Ibrox again after that whole thing. Are they trying to start a riot.",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/c1k1x4pgnlmo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3168,
+    "total_posted": 3170,
     "total_collected": 14542
   },
-  "last_posted_at": "2026-08-17T18:30:20.168978+00:00"
+  "last_posted_at": "2026-08-17T19:10:15.054878+00:00"
 }
