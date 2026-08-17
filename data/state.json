@@ -2,28 +2,6 @@
   "last_collected": "2026-08-17T09:54:28.552722+00:00",
   "queue": [
     {
-      "tweet": "Watching how Ukraine is using satellite tech to run their war drones is wild. It's basically real-time gaming.",
-      "original_url": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "How Ukraine’s Satellites Help Drive Its War Drones",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-17T09:54:28.551668+00:00"
-    },
-    {
-      "tweet": "Dude, Firefox finally added a native adblocker to iOS. Honestly took them long enough.",
-      "original_url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Firefox for iOS now has a native adblocker",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-17T09:54:28.551655+00:00"
-    },
-    {
       "tweet": "Strict-G is doing a Gundam sleeping bag collection with Nanga. I lowkey need that.",
       "original_url": "https://hypebeast.com/2026/8/strict-g-nanga-mobile-suit-gundam-sleeping-bag-apparel-collection-pre-order-open",
       "buzz_score": 80,
@@ -629,17 +607,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Marvel put out their Avengers watchlist and left a movie off that literally everyone expected. They're definitely trolling.",
-      "original_url": "https://www.polygon.com/avengers-doomsday-watchlist/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Marvel Reveals Official Watchlist for Avengers: Doomsday — With One Surprising Absence",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-17T09:54:28.552453+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -836,6 +803,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "Marvel put out their Avengers watchlist and left a movie off that literally everyone expected. They're definitely trolling.",
+      "original_url": "https://www.polygon.com/avengers-doomsday-watchlist/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Marvel Reveals Official Watchlist for Avengers: Doomsday — With One Surprising Absence",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-17T09:54:28.552453+00:00"
     },
     {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3149,
+    "total_posted": 3151,
     "total_collected": 14495
   },
-  "last_posted_at": "2026-08-17T10:03:50.143749+00:00"
+  "last_posted_at": "2026-08-17T10:24:39.208792+00:00"
 }
