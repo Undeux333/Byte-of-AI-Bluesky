@@ -794,17 +794,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "So apparently we're still litigating the Tupac killing after all these years. One dude's the only one talking. Man.",
-      "original_url": "https://www.npr.org/2026/08/18/g-s1-139061/tupac-shakur-killing-trial",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "A dispute about fact vs. fiction at the trial over Tupac Shakur's 1996 killing",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-18T07:12:04.527872+00:00"
-    },
-    {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
       "original_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "buzz_score": 85,
@@ -913,6 +902,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-08-05T23:36:00.398929+00:00"
+    },
+    {
+      "tweet": "So apparently we're still litigating the Tupac killing after all these years. One dude's the only one talking. Man.",
+      "original_url": "https://www.npr.org/2026/08/18/g-s1-139061/tupac-shakur-killing-trial",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "A dispute about fact vs. fiction at the trial over Tupac Shakur's 1996 killing",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-18T07:12:04.527872+00:00"
     },
     {
       "tweet": "Russia just said over 600 drones hit Moscow. Like, how are you even tracking that many at once? At this point are we just in a drone war.",
