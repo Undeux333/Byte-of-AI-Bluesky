@@ -2,28 +2,6 @@
   "last_collected": "2026-08-18T11:36:54.509875+00:00",
   "queue": [
     {
-      "tweet": "So apparently Anthropic is just messing with text output now to leave a watermark. They're literally ruining the writing just to track their own bot. Super lame.",
-      "original_url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-18T11:36:54.508344+00:00"
-    },
-    {
-      "tweet": "Some guy got a goat for graduation and now it’s famous because it eats fried rice. I love the internet.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c3w03y2wgxeo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "How a goat given as a graduation gift went viral",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-18T11:36:54.509011+00:00"
-    },
-    {
       "tweet": "The Premier League is finally gonna start publishing actual VAR verdicts. Like, did they really think we wouldn't notice before?",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/c98v0mrerz2o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -640,17 +618,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "The Sydney Swans are finally looking at sanctions for that whole thing. The fact that it even reached this point is just rough.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/18/afl-chief-breaks-silence-over-deeply-concerning-sydney-swans-sexual-assault-allegations-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sydney Swans will sanction players for ‘serious breach’ over sexual assault allegations",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-18T11:36:54.508518+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -660,6 +627,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
+    },
+    {
+      "tweet": "The Sydney Swans are finally looking at sanctions for that whole thing. The fact that it even reached this point is just rough.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/18/afl-chief-breaks-silence-over-deeply-concerning-sydney-swans-sexual-assault-allegations-ntwnfb",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sydney Swans will sanction players for ‘serious breach’ over sexual assault allegations",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-18T11:36:54.508518+00:00"
     },
     {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3207,
+    "total_posted": 3209,
     "total_collected": 14648
   },
-  "last_posted_at": "2026-08-18T11:43:03.483627+00:00"
+  "last_posted_at": "2026-08-18T12:04:59.655991+00:00"
 }
