@@ -2,28 +2,6 @@
   "last_collected": "2026-08-18T02:04:28.929852+00:00",
   "queue": [
     {
-      "tweet": "Did you see Reddit is turning posts into AI podcasts now? As if we needed more noise while we're trying to read.",
-      "original_url": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Reddit’s AI is turning posts into podcasts and short videos",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-08-18T02:04:28.928818+00:00"
-    },
-    {
-      "tweet": "Russia is mad at the UK for sending drones to Ukraine. The UK just said they're standing shoulder to shoulder. Here we go.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Russia warns UK over supplying drones to Ukraine",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-18T02:04:28.928831+00:00"
-    },
-    {
       "tweet": "Anthropic is at sixty-five billion in revenue now. That's eighteen billion added in two months. We're living in a simulation, man.",
       "original_url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
       "buzz_score": 80,
@@ -66,28 +44,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "A boat just left Bristol to try and break that whole siege thing. Good luck with that.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Gaza flotilla sets sail from the UK in bid to break Israeli siege",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-17T20:49:33.396389+00:00"
-    },
-    {
-      "tweet": "Urban Outfitters finally letting us pick our own Monchhichi instead of those blind boxes. We finally won.",
-      "original_url": "https://www.billboard.com/culture/product-recommendations/monchhichi-sanrio-character-bag-charm-keychain-buy-online-1236317873/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "This Urban Outfitters Bag Charm Collab Lets You Pick the Monchhichi You Want – No Blind Box Required",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-17T20:49:33.396101+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -649,6 +605,28 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "A boat just left Bristol to try and break that whole siege thing. Good luck with that.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Gaza flotilla sets sail from the UK in bid to break Israeli siege",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-17T20:49:33.396389+00:00"
+    },
+    {
+      "tweet": "Urban Outfitters finally letting us pick our own Monchhichi instead of those blind boxes. We finally won.",
+      "original_url": "https://www.billboard.com/culture/product-recommendations/monchhichi-sanrio-character-bag-charm-keychain-buy-online-1236317873/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "This Urban Outfitters Bag Charm Collab Lets You Pick the Monchhichi You Want – No Blind Box Required",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-08-17T20:49:33.396101+00:00"
     },
     {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3194,
+    "total_posted": 3196,
     "total_collected": 14590
   },
-  "last_posted_at": "2026-08-18T02:13:11.546535+00:00"
+  "last_posted_at": "2026-08-18T03:15:47.987939+00:00"
 }
