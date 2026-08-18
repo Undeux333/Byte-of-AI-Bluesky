@@ -2,28 +2,6 @@
   "last_collected": "2026-08-18T22:41:44.424392+00:00",
   "queue": [
     {
-      "tweet": "Ukraine's former defense minister is calling for elections now. Like, is that even possible right now",
-      "original_url": "https://www.theguardian.com/world/2026/aug/18/ukraines-dismissed-defence-minister-calls-for-wartime-presidential-election",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Ukraine’s dismissed defence minister calls for wartime presidential election",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-18T22:41:44.423258+00:00"
-    },
-    {
-      "tweet": "Al Hilal is trying to sign Harry Kane now. Guess the checkbook is open for business again",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c70gdd61kk4o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Al Hilal target England's Kane - Wednesday's gossip",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-18T22:41:44.422977+00:00"
-    },
-    {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
       "original_url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
       "buzz_score": 85,
@@ -794,17 +772,6 @@
       "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
-      "tweet": "The government is trying to lift protections on forest land to help with wildfire risks. Sure, sounds like a plan",
-      "original_url": "https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump administration moves to end rule protecting swaths of forest land",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-18T22:41:44.423133+00:00"
-    },
-    {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
       "original_url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
       "buzz_score": 88,
@@ -990,6 +957,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "The government is trying to lift protections on forest land to help with wildfire risks. Sure, sounds like a plan",
+      "original_url": "https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump administration moves to end rule protecting swaths of forest land",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-18T22:41:44.423133+00:00"
     },
     {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3231,
+    "total_posted": 3233,
     "total_collected": 14728
   },
-  "last_posted_at": "2026-08-18T23:07:08.138559+00:00"
+  "last_posted_at": "2026-08-18T23:23:14.463072+00:00"
 }
