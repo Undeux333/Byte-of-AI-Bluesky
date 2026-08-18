@@ -2,17 +2,6 @@
   "last_collected": "2026-08-18T02:04:28.929852+00:00",
   "queue": [
     {
-      "tweet": "Anthropic is at sixty-five billion in revenue now. That's eighteen billion added in two months. We're living in a simulation, man.",
-      "original_url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Anthropic’s annualized revenue surges to $65B",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-08-18T02:04:28.928821+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -607,28 +596,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "A boat just left Bristol to try and break that whole siege thing. Good luck with that.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Gaza flotilla sets sail from the UK in bid to break Israeli siege",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-17T20:49:33.396389+00:00"
-    },
-    {
-      "tweet": "Urban Outfitters finally letting us pick our own Monchhichi instead of those blind boxes. We finally won.",
-      "original_url": "https://www.billboard.com/culture/product-recommendations/monchhichi-sanrio-character-bag-charm-keychain-buy-online-1236317873/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "This Urban Outfitters Bag Charm Collab Lets You Pick the Monchhichi You Want – No Blind Box Required",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-17T20:49:33.396101+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -825,6 +792,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "A boat just left Bristol to try and break that whole siege thing. Good luck with that.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Gaza flotilla sets sail from the UK in bid to break Israeli siege",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-17T20:49:33.396389+00:00"
+    },
+    {
+      "tweet": "Urban Outfitters finally letting us pick our own Monchhichi instead of those blind boxes. We finally won.",
+      "original_url": "https://www.billboard.com/culture/product-recommendations/monchhichi-sanrio-character-bag-charm-keychain-buy-online-1236317873/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "This Urban Outfitters Bag Charm Collab Lets You Pick the Monchhichi You Want – No Blind Box Required",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-08-17T20:49:33.396101+00:00"
     },
     {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
@@ -2018,8 +2007,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3196,
+    "total_posted": 3197,
     "total_collected": 14590
   },
-  "last_posted_at": "2026-08-18T03:15:47.987939+00:00"
+  "last_posted_at": "2026-08-18T03:54:44.592267+00:00"
 }
