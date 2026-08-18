@@ -2,28 +2,6 @@
   "last_collected": "2026-08-17T23:12:10.910259+00:00",
   "queue": [
     {
-      "tweet": "Found out \"You talkin' to me?\" wasn't even in the Taxi Driver script. De Niro just started doing it in the mirror. Sometimes you just gotta commit to the bit.",
-      "original_url": "https://www.mentalfloss.com/entertainment/movies/robert-de-niro-improvised-taxi-driver-line?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "One of Robert De Niro's Most Famous Movie Lines Was Improvised",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-17T23:12:10.909822+00:00"
-    },
-    {
-      "tweet": "Colombia is starting recovery after that earthquake a week ago. Still tough to look at the photos.",
-      "original_url": "https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss",
-      "buzz_score": 78,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "As rubble clears, Colombia begins focusing on recovery after the earthquake",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-17T23:12:10.910067+00:00"
-    },
-    {
       "tweet": "KPop Demon Hunter figurines that turn into backpack charms. People will buy literally anything.",
       "original_url": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-backpack-charm-blind-bag-shop-online-1236317955/",
       "buzz_score": 75,
@@ -110,17 +88,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Wait, the Star Trek game developers had to change the plot because they actually had a shuttle fly into a building before 9/11 happened. That’s wild.",
-      "original_url": "https://kotaku.com/fan-favorite-star-trek-fps-had-to-change-its-plot-after-9-11-we-actually-had-a-shuttle-fly-into-a-building-2000725110",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fan-Favorite Star Trek FPS Had To Change Its Plot After 9/11: ‘We Actually Had A Shuttle Fly Into a Building’",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-17T23:12:10.909830+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
@@ -671,6 +638,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "Wait, the Star Trek game developers had to change the plot because they actually had a shuttle fly into a building before 9/11 happened. That’s wild.",
+      "original_url": "https://kotaku.com/fan-favorite-star-trek-fps-had-to-change-its-plot-after-9-11-we-actually-had-a-shuttle-fly-into-a-building-2000725110",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Fan-Favorite Star Trek FPS Had To Change Its Plot After 9/11: ‘We Actually Had A Shuttle Fly Into a Building’",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-17T23:12:10.909830+00:00"
     },
     {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3188,
+    "total_posted": 3190,
     "total_collected": 14574
   },
-  "last_posted_at": "2026-08-17T23:43:59.931752+00:00"
+  "last_posted_at": "2026-08-18T00:02:59.682540+00:00"
 }
