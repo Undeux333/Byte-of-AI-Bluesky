@@ -794,17 +794,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "The Sydney Swans are finally looking at sanctions for that whole thing. The fact that it even reached this point is just rough.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/18/afl-chief-breaks-silence-over-deeply-concerning-sydney-swans-sexual-assault-allegations-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sydney Swans will sanction players for ‘serious breach’ over sexual assault allegations",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-18T11:36:54.508518+00:00"
-    },
-    {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
       "original_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "buzz_score": 85,
@@ -913,6 +902,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-08-05T23:36:00.398929+00:00"
+    },
+    {
+      "tweet": "The Sydney Swans are finally looking at sanctions for that whole thing. The fact that it even reached this point is just rough.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/18/afl-chief-breaks-silence-over-deeply-concerning-sydney-swans-sexual-assault-allegations-ntwnfb",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sydney Swans will sanction players for ‘serious breach’ over sexual assault allegations",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-18T11:36:54.508518+00:00"
     },
     {
       "tweet": "They finally explained the true story behind that BioShock Infinite bread boy meme. We really do just obsess over the weirdest stuff.",
