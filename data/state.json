@@ -607,17 +607,6 @@
       "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
-      "tweet": "The Witcher 3 is leaving Game Pass in two weeks. I've had that installed for like three years and still haven't touched it.",
-      "original_url": "https://www.polygon.com/xbox-game-pass-august-2026-wave-2-witcher-3-leaving/",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The Witcher 3 Leaves Xbox Game Pass in Just 2 Weeks",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-18T14:05:10.039182+00:00"
-    },
-    {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
       "original_url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
       "buzz_score": 88,
@@ -803,6 +792,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "The Witcher 3 is leaving Game Pass in two weeks. I've had that installed for like three years and still haven't touched it.",
+      "original_url": "https://www.polygon.com/xbox-game-pass-august-2026-wave-2-witcher-3-leaving/",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Witcher 3 Leaves Xbox Game Pass in Just 2 Weeks",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-18T14:05:10.039182+00:00"
     },
     {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
