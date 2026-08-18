@@ -2,28 +2,6 @@
   "last_collected": "2026-08-17T23:12:10.910259+00:00",
   "queue": [
     {
-      "tweet": "KPop Demon Hunter figurines that turn into backpack charms. People will buy literally anything.",
-      "original_url": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-backpack-charm-blind-bag-shop-online-1236317955/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "These ‘KPop Demon Hunters’ Blind Bag Collectible Figurines Double as Backpack Charms",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-17T23:12:10.910161+00:00"
-    },
-    {
-      "tweet": "New Steins;Gate is out and apparently they're just ignoring punctuation entirely. Kinda annoying.",
-      "original_url": "https://kotaku.com/the-week-in-games-a-co-op-rpg-inspired-by-morrowind-2000725112",
-      "buzz_score": 72,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Week In Games: A Co-Op RPG Inspired By Morrowind",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-17T23:12:10.909846+00:00"
-    },
-    {
       "tweet": "A boat just left Bristol to try and break that whole siege thing. Good luck with that.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss",
       "buzz_score": 75,
@@ -640,17 +618,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Wait, the Star Trek game developers had to change the plot because they actually had a shuttle fly into a building before 9/11 happened. That’s wild.",
-      "original_url": "https://kotaku.com/fan-favorite-star-trek-fps-had-to-change-its-plot-after-9-11-we-actually-had-a-shuttle-fly-into-a-building-2000725110",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fan-Favorite Star Trek FPS Had To Change Its Plot After 9/11: ‘We Actually Had A Shuttle Fly Into a Building’",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-17T23:12:10.909830+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -849,15 +816,15 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Kushner is in Israel trying to break the Gaza stalemate. At this point, we're just watching the same loop.",
-      "original_url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
-      "buzz_score": 85,
+      "tweet": "Wait, the Star Trek game developers had to change the plot because they actually had a shuttle fly into a building before 9/11 happened. That’s wild.",
+      "original_url": "https://kotaku.com/fan-favorite-star-trek-fps-had-to-change-its-plot-after-9-11-we-actually-had-a-shuttle-fly-into-a-building-2000725110",
+      "buzz_score": 88,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-17T23:12:10.909971+00:00"
+      "original_title": "Fan-Favorite Star Trek FPS Had To Change Its Plot After 9/11: ‘We Actually Had A Shuttle Fly Into a Building’",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-17T23:12:10.909830+00:00"
     },
     {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
@@ -968,6 +935,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-08-05T23:36:00.398929+00:00"
+    },
+    {
+      "tweet": "Kushner is in Israel trying to break the Gaza stalemate. At this point, we're just watching the same loop.",
+      "original_url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-17T23:12:10.909971+00:00"
     },
     {
       "tweet": "Sarah J. Maas is dropping two more ACOTAR books. My girl’s reading list just doubled.",
@@ -1996,8 +1974,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3190,
+    "total_posted": 3192,
     "total_collected": 14574
   },
-  "last_posted_at": "2026-08-18T00:02:59.682540+00:00"
+  "last_posted_at": "2026-08-18T00:45:10.330597+00:00"
 }
