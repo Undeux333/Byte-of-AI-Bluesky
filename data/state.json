@@ -2,28 +2,6 @@
   "last_collected": "2026-08-18T11:36:54.509875+00:00",
   "queue": [
     {
-      "tweet": "The Premier League is finally gonna start publishing actual VAR verdicts. Like, did they really think we wouldn't notice before?",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c98v0mrerz2o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Premier League to publish verdicts on referee and VAR decisions",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-18T11:36:54.508359+00:00"
-    },
-    {
-      "tweet": "Awake NY and Jordan are doing a collab that literally flips bootleg culture. Meta.",
-      "original_url": "https://hypebeast.com/2026/8/awake-ny-air-jordan-6-capsule-collection-release-info",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Awake NY and Jordan Brand Flip Bootleg Culture for AJ6 Collaboration",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-08-18T11:36:54.508768+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -629,17 +607,6 @@
       "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
-      "tweet": "The Sydney Swans are finally looking at sanctions for that whole thing. The fact that it even reached this point is just rough.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/18/afl-chief-breaks-silence-over-deeply-concerning-sydney-swans-sexual-assault-allegations-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Sydney Swans will sanction players for ‘serious breach’ over sexual assault allegations",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-18T11:36:54.508518+00:00"
-    },
-    {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
       "original_url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
       "buzz_score": 88,
@@ -825,6 +792,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "The Sydney Swans are finally looking at sanctions for that whole thing. The fact that it even reached this point is just rough.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/18/afl-chief-breaks-silence-over-deeply-concerning-sydney-swans-sexual-assault-allegations-ntwnfb",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Sydney Swans will sanction players for ‘serious breach’ over sexual assault allegations",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-18T11:36:54.508518+00:00"
     },
     {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3209,
+    "total_posted": 3211,
     "total_collected": 14648
   },
-  "last_posted_at": "2026-08-18T12:04:59.655991+00:00"
+  "last_posted_at": "2026-08-18T12:47:53.754028+00:00"
 }
