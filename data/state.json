@@ -2,17 +2,6 @@
   "last_collected": "2026-08-18T14:05:10.039911+00:00",
   "queue": [
     {
-      "tweet": "Did you see Jeanie Buss is fighting her own siblings to keep the Lakers in the family? Billionaire family drama is wild, man.",
-      "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c5yvdz79w11o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Buss trying to block her siblings' sale of family stake in Lakers",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-18T14:05:10.039180+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -44,17 +33,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "The Witcher 3 is leaving Game Pass in two weeks. I've had that installed for like three years and still haven't touched it.",
-      "original_url": "https://www.polygon.com/xbox-game-pass-august-2026-wave-2-witcher-3-leaving/",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The Witcher 3 Leaves Xbox Game Pass in Just 2 Weeks",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-18T14:05:10.039182+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -616,6 +594,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "The Witcher 3 is leaving Game Pass in two weeks. I've had that installed for like three years and still haven't touched it.",
+      "original_url": "https://www.polygon.com/xbox-game-pass-august-2026-wave-2-witcher-3-leaving/",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Witcher 3 Leaves Xbox Game Pass in Just 2 Weeks",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-18T14:05:10.039182+00:00"
     },
     {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3213,
+    "total_posted": 3214,
     "total_collected": 14664
   },
-  "last_posted_at": "2026-08-18T14:11:23.463598+00:00"
+  "last_posted_at": "2026-08-18T14:48:50.233436+00:00"
 }
