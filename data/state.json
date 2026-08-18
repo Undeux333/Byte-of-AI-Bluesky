@@ -959,17 +959,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "The government is trying to lift protections on forest land to help with wildfire risks. Sure, sounds like a plan",
-      "original_url": "https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump administration moves to end rule protecting swaths of forest land",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-18T22:41:44.423133+00:00"
-    },
-    {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
       "original_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "buzz_score": 85,
@@ -990,6 +979,17 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-08-13T03:26:50.677482+00:00"
+    },
+    {
+      "tweet": "The government is trying to lift protections on forest land to help with wildfire risks. Sure, sounds like a plan",
+      "original_url": "https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump administration moves to end rule protecting swaths of forest land",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-18T22:41:44.423133+00:00"
     }
   ],
   "seen_urls": [
