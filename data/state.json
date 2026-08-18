@@ -794,39 +794,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Saw that story about the mom trying to get her kid out of Ukraine. Three years of that. We take way too much for granted.",
-      "original_url": "https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-18T09:33:49.314751+00:00"
-    },
-    {
-      "tweet": "Hold on, did you see Trump losing it on that CNN reporter over a Korea question? Why are we still doing this.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump lashes out at CNN reporter over South Korea question",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-18T09:33:49.313618+00:00"
-    },
-    {
-      "tweet": "Yo, the soap box derby in Portland just looks like pure chaos. People literally building subway cars to roll down a hill. Total vibe.",
-      "original_url": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-18T09:33:49.313365+00:00"
-    },
-    {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
       "original_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "buzz_score": 85,
@@ -937,6 +904,39 @@
       "added_at": "2026-08-05T23:36:00.398929+00:00"
     },
     {
+      "tweet": "Saw that story about the mom trying to get her kid out of Ukraine. Three years of that. We take way too much for granted.",
+      "original_url": "https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-18T09:33:49.314751+00:00"
+    },
+    {
+      "tweet": "Hold on, did you see Trump losing it on that CNN reporter over a Korea question? Why are we still doing this.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump lashes out at CNN reporter over South Korea question",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-18T09:33:49.313618+00:00"
+    },
+    {
+      "tweet": "Yo, the soap box derby in Portland just looks like pure chaos. People literally building subway cars to roll down a hill. Total vibe.",
+      "original_url": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-18T09:33:49.313365+00:00"
+    },
+    {
       "tweet": "So China is censoring public mourning for their former premier now. Apparently being sad about the past is a threat to the current guy.",
       "original_url": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -946,6 +946,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-08-18T09:33:49.313493+00:00"
+    },
+    {
+      "tweet": "A boat just left Bristol to try and break that whole siege thing. Good luck with that.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Gaza flotilla sets sail from the UK in bid to break Israeli siege",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-17T20:49:33.396389+00:00"
     },
     {
       "tweet": "So apparently we're still litigating the Tupac killing after all these years. One dude's the only one talking. Man.",
@@ -990,17 +1001,6 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-08-18T09:33:49.314005+00:00"
-    },
-    {
-      "tweet": "A boat just left Bristol to try and break that whole siege thing. Good luck with that.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Gaza flotilla sets sail from the UK in bid to break Israeli siege",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-17T20:49:33.396389+00:00"
     },
     {
       "tweet": "Russia just said over 600 drones hit Moscow. Like, how are you even tracking that many at once? At this point are we just in a drone war.",
