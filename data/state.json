@@ -2,17 +2,6 @@
   "last_collected": "2026-08-18T18:19:55.587463+00:00",
   "queue": [
     {
-      "tweet": "So that trial against Meta over child safety just kicked off. Like, did they really think they could just hide how their algorithms work forever",
-      "original_url": "https://www.npr.org/2026/08/18/nx-s1-5935458/meta-child-safety-social-media-addiction-trial-opening",
-      "buzz_score": 90,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "'Profits won.' The child safety trial against Meta kicks off in federal court",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-18T18:19:55.586378+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -44,17 +33,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Canada is scrambling again to dodge those new tariffs by Tuesday night. It's just constant stress.",
-      "original_url": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "It’s Crunchtime Again for Canada to Avoid Trump’s New Tariffs",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-18T18:19:55.586381+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -616,6 +594,17 @@
       "source": "ESPN",
       "category": "sports",
       "added_at": "2026-04-09T07:14:41.251481+00:00"
+    },
+    {
+      "tweet": "Canada is scrambling again to dodge those new tariffs by Tuesday night. It's just constant stress.",
+      "original_url": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "It’s Crunchtime Again for Canada to Avoid Trump’s New Tariffs",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-18T18:19:55.586381+00:00"
     },
     {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3221,
+    "total_posted": 3222,
     "total_collected": 14696
   },
-  "last_posted_at": "2026-08-18T18:28:03.237403+00:00"
+  "last_posted_at": "2026-08-18T19:04:01.359846+00:00"
 }
