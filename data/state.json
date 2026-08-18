@@ -2,28 +2,6 @@
   "last_collected": "2026-08-18T09:33:49.315145+00:00",
   "queue": [
     {
-      "tweet": "Newcastle really paid thirty million for Dedic. That's a lot of cash for a defender.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/czekzxd09zlo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Newcastle complete £30m move for Benfica's Dedic",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-18T09:33:49.314258+00:00"
-    },
-    {
-      "tweet": "Fontaines D.C. have a new track out. Finally.",
-      "original_url": "https://www.billboard.com/music/rock/fontaines-dc-new-album-dopamine-chamber-release-date-1236315620/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fontaines D.C. Share Pounding Comeback Single & Announce New Album: Here’s When It Arrives",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-18T09:33:49.314132+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -618,39 +596,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Saw that story about the mom trying to get her kid out of Ukraine. Three years of that. We take way too much for granted.",
-      "original_url": "https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-18T09:33:49.314751+00:00"
-    },
-    {
-      "tweet": "Hold on, did you see Trump losing it on that CNN reporter over a Korea question? Why are we still doing this.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump lashes out at CNN reporter over South Korea question",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-18T09:33:49.313618+00:00"
-    },
-    {
-      "tweet": "Yo, the soap box derby in Portland just looks like pure chaos. People literally building subway cars to roll down a hill. Total vibe.",
-      "original_url": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-18T09:33:49.313365+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -849,6 +794,39 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
+      "tweet": "Saw that story about the mom trying to get her kid out of Ukraine. Three years of that. We take way too much for granted.",
+      "original_url": "https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-18T09:33:49.314751+00:00"
+    },
+    {
+      "tweet": "Hold on, did you see Trump losing it on that CNN reporter over a Korea question? Why are we still doing this.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump lashes out at CNN reporter over South Korea question",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-18T09:33:49.313618+00:00"
+    },
+    {
+      "tweet": "Yo, the soap box derby in Portland just looks like pure chaos. People literally building subway cars to roll down a hill. Total vibe.",
+      "original_url": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-18T09:33:49.313365+00:00"
+    },
+    {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
       "original_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "buzz_score": 85,
@@ -1014,17 +992,6 @@
       "added_at": "2026-08-18T09:33:49.314005+00:00"
     },
     {
-      "tweet": "Russia just said over 600 drones hit Moscow. Like, how are you even tracking that many at once? At this point are we just in a drone war.",
-      "original_url": "https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Russia says more than 600 drones targeted Moscow region",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-18T07:12:04.527875+00:00"
-    },
-    {
       "tweet": "A boat just left Bristol to try and break that whole siege thing. Good luck with that.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss",
       "buzz_score": 75,
@@ -1034,6 +1001,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-08-17T20:49:33.396389+00:00"
+    },
+    {
+      "tweet": "Russia just said over 600 drones hit Moscow. Like, how are you even tracking that many at once? At this point are we just in a drone war.",
+      "original_url": "https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Russia says more than 600 drones targeted Moscow region",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-18T07:12:04.527875+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3203,
+    "total_posted": 3205,
     "total_collected": 14632
   },
-  "last_posted_at": "2026-08-18T09:40:03.060436+00:00"
+  "last_posted_at": "2026-08-18T10:07:13.937312+00:00"
 }
