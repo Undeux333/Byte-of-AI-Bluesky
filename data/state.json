@@ -2,17 +2,6 @@
   "last_collected": "2026-08-19T23:12:48.485408+00:00",
   "queue": [
     {
-      "tweet": "Dude, Google is officially using Google Drive to host their source code instead of Git tags now. I don't even know what to say.",
-      "original_url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-19T23:12:48.484543+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -607,6 +596,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
+      "buzz_score": 75,
+      "buzz_score2": 97,
+      "rewrite_count": 0,
+      "original_title": "Pauline Hanson blames ‘fake news’ media for her bad press. But serious leaders have to own their actions",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-23T18:00:42.945990+00:00"
+    },
+    {
       "tweet": "Apparently this new Mew card might have a 1 in 20,000 pull rate for the Pokemon 30th anniversary. Why do we even do this to ourselves.",
       "original_url": "https://kotaku.com/pokemons-30th-anniversary-set-might-be-making-a-mysterious-new-mew-card-the-rarest-ever-2000725936",
       "buzz_score": 85,
@@ -638,17 +638,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-08-19T23:12:48.484554+00:00"
-    },
-    {
-      "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
-      "buzz_score": 75,
-      "buzz_score2": 97,
-      "rewrite_count": 0,
-      "original_title": "Pauline Hanson blames ‘fake news’ media for her bad press. But serious leaders have to own their actions",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
@@ -926,17 +915,6 @@
       "added_at": "2026-08-19T23:12:48.484548+00:00"
     },
     {
-      "tweet": "Hold on, one of Fauci's top guys just pleaded guilty to hiding emails about the COVID origins. Like, why are we still doing this.",
-      "original_url": "https://www.npr.org/2026/08/19/nx-s1-5936636/covid-research-fauci-morens-foia-guilty",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-19T21:03:24.932278+00:00"
-    },
-    {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
       "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
       "buzz_score": 80,
@@ -959,6 +937,17 @@
       "added_at": "2026-08-18T20:37:36.628177+00:00"
     },
     {
+      "tweet": "Hold on, one of Fauci's top guys just pleaded guilty to hiding emails about the COVID origins. Like, why are we still doing this.",
+      "original_url": "https://www.npr.org/2026/08/19/nx-s1-5936636/covid-research-fauci-morens-foia-guilty",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-19T21:03:24.932278+00:00"
+    },
+    {
       "tweet": "Camilo Duran just carried Celtic to a massive win against LASK. Man is on one.",
       "original_url": "https://www.bbc.co.uk/sport/football/videos/c0m73y34nglo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -979,6 +968,17 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-08-19T23:12:48.484794+00:00"
+    },
+    {
+      "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
+      "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-18T22:41:44.423537+00:00"
     },
     {
       "tweet": "Magic just leaked a deck that comes with an overpowered sixty dollar card. They're not even trying to hide the cash grab anymore.",
@@ -1012,17 +1012,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-08-19T21:03:24.932280+00:00"
-    },
-    {
-      "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
-      "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-18T22:41:44.423537+00:00"
     },
     {
       "tweet": "Marcus Rashford is out here asking to play football without his name in the news every day. Honestly, that's just the dream.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3287,
+    "total_posted": 3288,
     "total_collected": 14853
   },
-  "last_posted_at": "2026-08-19T23:18:59.398911+00:00"
+  "last_posted_at": "2026-08-19T23:34:32.907209+00:00"
 }
