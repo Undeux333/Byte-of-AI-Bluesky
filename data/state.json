@@ -46,6 +46,17 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
+      "buzz_score": 92,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
       "original_url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
       "buzz_score": 85,
@@ -77,39 +88,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-08-18T20:37:36.627343+00:00"
-    },
-    {
-      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
-      "buzz_score": 92,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
-      "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-18T22:41:44.423537+00:00"
-    },
-    {
-      "tweet": "Reading about how kids today will never know the struggle of a Blockbuster run or landline chains. We really just lived through the peak.",
-      "original_url": "https://www.mentalfloss.com/nostalgia/summer-traditions-kids-today-wont-experience?utm_source=RSS",
-      "buzz_score": 78,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "7 Summer Traditions Kids Today Will Never Experience",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-19T03:09:20.561478+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
@@ -662,6 +640,28 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
+      "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-18T22:41:44.423537+00:00"
+    },
+    {
+      "tweet": "Reading about how kids today will never know the struggle of a Blockbuster run or landline chains. We really just lived through the peak.",
+      "original_url": "https://www.mentalfloss.com/nostalgia/summer-traditions-kids-today-wont-experience?utm_source=RSS",
+      "buzz_score": 78,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "7 Summer Traditions Kids Today Will Never Experience",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-08-19T03:09:20.561478+00:00"
+    },
+    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -671,28 +671,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
-    },
-    {
-      "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
-      "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Embattled Florida Republican Rep. Cory Mills fights to keep his House seat",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-18T20:37:36.628322+00:00"
-    },
-    {
-      "tweet": "Man, Frank Beard from ZZ Top passed away. An absolute legend, seventy-seven is a hell of a run tho",
-      "original_url": "https://www.billboard.com/music/rock/frank-beard-dead-zz-top-drummer-1236319162/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Frank Beard, ZZ Top Drummer, Dies at 77",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-18T20:37:36.628177+00:00"
     },
     {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
@@ -882,6 +860,28 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
+      "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
+      "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Embattled Florida Republican Rep. Cory Mills fights to keep his House seat",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-18T20:37:36.628322+00:00"
+    },
+    {
+      "tweet": "Man, Frank Beard from ZZ Top passed away. An absolute legend, seventy-seven is a hell of a run tho",
+      "original_url": "https://www.billboard.com/music/rock/frank-beard-dead-zz-top-drummer-1236319162/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Frank Beard, ZZ Top Drummer, Dies at 77",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
       "tweet": "Wait, the US just told South Korea to end their military drills early? Seems like we're just winging it now.",
       "original_url": "https://www.theguardian.com/world/2026/aug/19/us-south-korea-army-drills-cut-trump-push-kim-jong-un-talks",
       "buzz_score": 88,
@@ -891,6 +891,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-19T03:09:20.561608+00:00"
+    },
+    {
+      "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
+      "original_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
       "tweet": "Bolivia just arrested a political adviser to right-wingers. Things are heating up down there",
@@ -924,17 +935,6 @@
       "source": "Bustle",
       "category": "sex",
       "added_at": "2026-08-18T22:41:44.423659+00:00"
-    },
-    {
-      "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
-      "original_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
       "tweet": "Sweden is deporting people who have lived there for decades because of Brexit? Like, what are we actually doing",
