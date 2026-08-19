@@ -2,28 +2,6 @@
   "last_collected": "2026-08-19T03:09:20.562895+00:00",
   "queue": [
     {
-      "tweet": "Trump delayed those Canada tariffs for three days, literally 90 minutes before they started. Guess he just likes the drama.",
-      "original_url": "https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tariffs on Hold as Trump Claims Deal With Canada Is Near",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-19T03:09:20.561319+00:00"
-    },
-    {
-      "tweet": "Man, this new report says 37% of us actually saw our wages go down since 2021. Just another day in paradise.",
-      "original_url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-19T03:09:20.561314+00:00"
-    },
-    {
       "tweet": "Every single Tuesday I panic that my internet is dead only to realize Steam is just doing maintenance. We've all been there.",
       "original_url": "https://kotaku.com/steam-down-tuesday-maintenance-2000725528",
       "buzz_score": 75,
@@ -90,28 +68,6 @@
       "added_at": "2026-08-18T20:37:36.627343+00:00"
     },
     {
-      "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
-      "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-18T22:41:44.423537+00:00"
-    },
-    {
-      "tweet": "Reading about how kids today will never know the struggle of a Blockbuster run or landline chains. We really just lived through the peak.",
-      "original_url": "https://www.mentalfloss.com/nostalgia/summer-traditions-kids-today-wont-experience?utm_source=RSS",
-      "buzz_score": 78,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "7 Summer Traditions Kids Today Will Never Experience",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-19T03:09:20.561478+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -145,6 +101,39 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
+      "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-18T22:41:44.423537+00:00"
+    },
+    {
+      "tweet": "Reading about how kids today will never know the struggle of a Blockbuster run or landline chains. We really just lived through the peak.",
+      "original_url": "https://www.mentalfloss.com/nostalgia/summer-traditions-kids-today-wont-experience?utm_source=RSS",
+      "buzz_score": 78,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "7 Summer Traditions Kids Today Will Never Experience",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-08-19T03:09:20.561478+00:00"
+    },
+    {
+      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
+      "buzz_score": 92,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
       "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
       "buzz_score": 80,
@@ -165,61 +154,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
-    },
-    {
-      "tweet": "Wait, the US just told South Korea to end their military drills early? Seems like we're just winging it now.",
-      "original_url": "https://www.theguardian.com/world/2026/aug/19/us-south-korea-army-drills-cut-trump-push-kim-jong-un-talks",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US-led drills to end six days early, South Korea says, amid Trump push for Kim Jong-un talks",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-19T03:09:20.561608+00:00"
-    },
-    {
-      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
-      "buzz_score": 92,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Bolivia just arrested a political adviser to right-wingers. Things are heating up down there",
-      "original_url": "https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Bolivia arrests political adviser to Latin American right-wingers",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-18T22:41:44.424032+00:00"
-    },
-    {
-      "tweet": "Angélique Kidjo is the first African musician to get a star on the Walk of Fame. About time",
-      "original_url": "https://www.billboard.com/music/awards/angelique-kidjo-hollywood-walk-of-fame-star-ceremony-1236319346/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Angélique Kidjo Becomes First African Musician With a Star on the Hollywood Walk of Fame: ‘Without Us, There’s No Music Possible’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-18T22:41:44.423791+00:00"
-    },
-    {
-      "tweet": "People are really out here buying a specific liner just to recreate 90s lips. I swear we just recycle trends until they stop making sense",
-      "original_url": "https://www.bustle.com/beauty/maed-duet-lip-liner-review",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "MAED's Duet Lip Liner Is My New Shortcut To A ’90s Lip",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-08-18T22:41:44.423659+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
@@ -772,6 +706,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Wait, the US just told South Korea to end their military drills early? Seems like we're just winging it now.",
+      "original_url": "https://www.theguardian.com/world/2026/aug/19/us-south-korea-army-drills-cut-trump-push-kim-jong-un-talks",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US-led drills to end six days early, South Korea says, amid Trump push for Kim Jong-un talks",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-19T03:09:20.561608+00:00"
+    },
+    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -783,26 +728,37 @@
       "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
-      "tweet": "Sweden is deporting people who have lived there for decades because of Brexit? Like, what are we actually doing",
-      "original_url": "https://www.theguardian.com/politics/2026/aug/18/swedish-mp-intervenes-brexit-row-elderly-britons-ordered-leave",
-      "buzz_score": 75,
+      "tweet": "Bolivia just arrested a political adviser to right-wingers. Things are heating up down there",
+      "original_url": "https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss",
+      "buzz_score": 70,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Swedish MP intervenes in ‘damaging’ Brexit row over elderly Britons ordered to leave",
-      "source": "The Guardian",
+      "original_title": "Bolivia arrests political adviser to Latin American right-wingers",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-08-18T20:37:36.628453+00:00"
+      "added_at": "2026-08-18T22:41:44.424032+00:00"
     },
     {
-      "tweet": "Wetherspoons is banning loud phone calls and music in their pubs. Honestly, that sounds like a dream. Finally some peace",
-      "original_url": "https://www.theguardian.com/business/2026/aug/18/wetherspoons-customers-welcome-ban-music-phone-calls-speaker",
-      "buzz_score": 75,
+      "tweet": "Angélique Kidjo is the first African musician to get a star on the Walk of Fame. About time",
+      "original_url": "https://www.billboard.com/music/awards/angelique-kidjo-hollywood-walk-of-fame-star-ceremony-1236319346/",
+      "buzz_score": 70,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "‘Can’t enjoy your pint’: Wetherspoons customers welcome ban on loud phones",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-18T20:37:36.627784+00:00"
+      "original_title": "Angélique Kidjo Becomes First African Musician With a Star on the Hollywood Walk of Fame: ‘Without Us, There’s No Music Possible’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-08-18T22:41:44.423791+00:00"
+    },
+    {
+      "tweet": "People are really out here buying a specific liner just to recreate 90s lips. I swear we just recycle trends until they stop making sense",
+      "original_url": "https://www.bustle.com/beauty/maed-duet-lip-liner-review",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "MAED's Duet Lip Liner Is My New Shortcut To A ’90s Lip",
+      "source": "Bustle",
+      "category": "sex",
+      "added_at": "2026-08-18T22:41:44.423659+00:00"
     },
     {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
@@ -990,6 +946,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "Sweden is deporting people who have lived there for decades because of Brexit? Like, what are we actually doing",
+      "original_url": "https://www.theguardian.com/politics/2026/aug/18/swedish-mp-intervenes-brexit-row-elderly-britons-ordered-leave",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Swedish MP intervenes in ‘damaging’ Brexit row over elderly Britons ordered to leave",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-18T20:37:36.628453+00:00"
+    },
+    {
+      "tweet": "Wetherspoons is banning loud phone calls and music in their pubs. Honestly, that sounds like a dream. Finally some peace",
+      "original_url": "https://www.theguardian.com/business/2026/aug/18/wetherspoons-customers-welcome-ban-music-phone-calls-speaker",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "‘Can’t enjoy your pint’: Wetherspoons customers welcome ban on loud phones",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-18T20:37:36.627784+00:00"
     },
     {
       "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3239,
+    "total_posted": 3241,
     "total_collected": 14760
   },
-  "last_posted_at": "2026-08-19T03:17:23.545254+00:00"
+  "last_posted_at": "2026-08-19T04:02:41.130856+00:00"
 }
