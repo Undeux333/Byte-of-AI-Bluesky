@@ -607,39 +607,6 @@
       "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
-      "tweet": "Apparently this new Mew card might have a 1 in 20,000 pull rate for the Pokemon 30th anniversary. Why do we even do this to ourselves.",
-      "original_url": "https://kotaku.com/pokemons-30th-anniversary-set-might-be-making-a-mysterious-new-mew-card-the-rarest-ever-2000725936",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Pokémon’s 30th Anniversary Set Might Be Making A Mysterious New Mew Card The Rarest Ever",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-19T23:12:48.485295+00:00"
-    },
-    {
-      "tweet": "That whistleblower in the Meta trial is saying they prioritized user numbers over actual kid safety. Like anyone is surprised.",
-      "original_url": "https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Whistleblower Arturo Béjar leads testimony in landmark trial against Meta",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-19T23:12:48.484556+00:00"
-    },
-    {
-      "tweet": "Hold on, Trump is out here using a weird Census Bureau report to push noncitizen voting claims again. We're really doing this again.",
-      "original_url": "https://www.npr.org/2026/08/19/nx-s1-5938799/trump-census-bureau-noncitizen-voting",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Experts raise alarms over Census Bureau report Trump is touting on noncitizen voting",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-19T23:12:48.484554+00:00"
-    },
-    {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
       "original_url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
       "buzz_score": 88,
@@ -825,6 +792,39 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "Apparently this new Mew card might have a 1 in 20,000 pull rate for the Pokemon 30th anniversary. Why do we even do this to ourselves.",
+      "original_url": "https://kotaku.com/pokemons-30th-anniversary-set-might-be-making-a-mysterious-new-mew-card-the-rarest-ever-2000725936",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Pokémon’s 30th Anniversary Set Might Be Making A Mysterious New Mew Card The Rarest Ever",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-19T23:12:48.485295+00:00"
+    },
+    {
+      "tweet": "That whistleblower in the Meta trial is saying they prioritized user numbers over actual kid safety. Like anyone is surprised.",
+      "original_url": "https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Whistleblower Arturo Béjar leads testimony in landmark trial against Meta",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-19T23:12:48.484556+00:00"
+    },
+    {
+      "tweet": "Hold on, Trump is out here using a weird Census Bureau report to push noncitizen voting claims again. We're really doing this again.",
+      "original_url": "https://www.npr.org/2026/08/19/nx-s1-5938799/trump-census-bureau-noncitizen-voting",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Experts raise alarms over Census Bureau report Trump is touting on noncitizen voting",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-19T23:12:48.484554+00:00"
     },
     {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
