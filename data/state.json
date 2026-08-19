@@ -2,28 +2,6 @@
   "last_collected": "2026-08-19T12:37:58.668652+00:00",
   "queue": [
     {
-      "tweet": "Charley Crockett is out here beefing with Jack White over some satanic band's vibe. It’s a rockstar meltdown about nothing.",
-      "original_url": "https://www.billboard.com/music/rock/charley-crockett-talks-twin-temple-tour-boot-slams-jack-white-1236319760/",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Charley Crockett Weighs In On Twin Temple Satanic Panic By Dinging Jack White and Claiming Satan-Loving Band’s ‘Vibe Just Wasn’t Right’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-19T12:37:58.667833+00:00"
-    },
-    {
-      "tweet": "David Tennant is back as the Doctor for a new series, but it's audio only. It’s like they know we’d pay for anything.",
-      "original_url": "https://www.polygon.com/david-tennant-returns-doctor-who-audio-drama-rani/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "David Tennant Returns to 'Doctor Who' for a New Adventure - but There's a Catch",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-19T12:37:58.668523+00:00"
-    },
-    {
       "tweet": "This schools chief just did a factory reset on his phone after his bank warned him about security. We’re supposed to believe that’s just a coincidence?",
       "original_url": "https://www.theguardian.com/australia-news/2026/aug/19/catholic-schools-nsw-chief-wiped-phone-icac-evidence-ntwnfb",
       "buzz_score": 85,
@@ -838,17 +816,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "The Arsenal chief is basically begging for clarity on those 100 Man City charges. At this point, we're just waiting for the heat death of the universe.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c1416keng1po?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "'Everyone wants clarity' over Man City charges, says Arsenal chief",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-19T12:37:58.667836+00:00"
-    },
-    {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
       "original_url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
       "buzz_score": 85,
@@ -893,6 +860,17 @@
       "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
+      "tweet": "The Arsenal chief is basically begging for clarity on those 100 Man City charges. At this point, we're just waiting for the heat death of the universe.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/c1416keng1po?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "'Everyone wants clarity' over Man City charges, says Arsenal chief",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-19T12:37:58.667836+00:00"
+    },
+    {
       "tweet": "That new Wildwood trailer looks like Coraline but somehow weirder. I’m definitely watching that.",
       "original_url": "https://www.polygon.com/wildwood-trailer-laika-movie-coraline/",
       "buzz_score": 80,
@@ -926,28 +904,6 @@
       "added_at": "2026-08-19T12:37:58.667825+00:00"
     },
     {
-      "tweet": "The Pakistan government is fighting to keep Imran Khan in a public hospital instead of a private one. God forbid the guy gets decent treatment.",
-      "original_url": "https://www.aljazeera.com/news/2026/8/19/pakistan-challenges-top-court-order-to-move-imran-khan-to-private-hospital?traffic_source=rss",
-      "buzz_score": 78,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Pakistan challenges top court order to move Imran Khan to private hospital",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-19T12:37:58.667840+00:00"
-    },
-    {
-      "tweet": "Hold on, Kyrgios actually got suspended for testing positive for cocaine. Dude just couldn't help himself.",
-      "original_url": "https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Kyrgios suspended after positive cocaine test",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-19T10:17:15.933694+00:00"
-    },
-    {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
       "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
       "buzz_score": 80,
@@ -968,6 +924,28 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
+      "tweet": "The Pakistan government is fighting to keep Imran Khan in a public hospital instead of a private one. God forbid the guy gets decent treatment.",
+      "original_url": "https://www.aljazeera.com/news/2026/8/19/pakistan-challenges-top-court-order-to-move-imran-khan-to-private-hospital?traffic_source=rss",
+      "buzz_score": 78,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Pakistan challenges top court order to move Imran Khan to private hospital",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-19T12:37:58.667840+00:00"
+    },
+    {
+      "tweet": "Hold on, Kyrgios actually got suspended for testing positive for cocaine. Dude just couldn't help himself.",
+      "original_url": "https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Kyrgios suspended after positive cocaine test",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-19T10:17:15.933694+00:00"
     },
     {
       "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3262,
+    "total_posted": 3264,
     "total_collected": 14805
   },
-  "last_posted_at": "2026-08-19T12:47:15.369839+00:00"
+  "last_posted_at": "2026-08-19T13:38:43.318397+00:00"
 }
