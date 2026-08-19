@@ -2,17 +2,6 @@
   "last_collected": "2026-08-19T21:03:24.932580+00:00",
   "queue": [
     {
-      "tweet": "So apparently the U.S. national debt just hit 40 trillion. 40 with a T. We're just printing money into oblivion at this point.",
-      "original_url": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T.",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-19T21:03:24.932274+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -2018,8 +2007,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3284,
+    "total_posted": 3285,
     "total_collected": 14840
   },
-  "last_posted_at": "2026-08-19T21:42:43.589140+00:00"
+  "last_posted_at": "2026-08-19T21:57:43.199404+00:00"
 }
