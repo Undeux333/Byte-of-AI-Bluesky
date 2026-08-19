@@ -2,28 +2,6 @@
   "last_collected": "2026-08-19T07:53:38.184295+00:00",
   "queue": [
     {
-      "tweet": "Searching for Hotels.com coupon codes for a trip just makes me feel like a budget traveler. Kinda sad honestly",
-      "original_url": "https://www.wired.com/story/hotels-com-coupon/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Hotels.com Coupon Codes for August 2026",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-08-19T05:29:24.547283+00:00"
-    },
-    {
-      "tweet": "I'm digging through these Uber Eats promo codes for August just to save a few bucks on lunch. Man, the grind is real",
-      "original_url": "https://www.wired.com/story/uber-eats-promo-code/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Uber Eats Promo Codes: $15 Off│August 2026",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-08-19T05:29:24.547158+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -860,17 +838,6 @@
       "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
-      "tweet": "That First Nations MP in the NT just quit because the government laws are totally dehumanizing. Rough stuff.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/19/first-nations-mp-yingiya-guyula-resigns-nt-parliament-slow-genocide-indigenous-people-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "First Nations MP resigns from NT parliament, accusing government of passing laws which are ‘dehumanising, oppressing and destroying” Indigenous people",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-19T03:09:20.561865+00:00"
-    },
-    {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
       "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
       "buzz_score": 80,
@@ -891,6 +858,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
+      "tweet": "That First Nations MP in the NT just quit because the government laws are totally dehumanizing. Rough stuff.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/19/first-nations-mp-yingiya-guyula-resigns-nt-parliament-slow-genocide-indigenous-people-ntwnfb",
+      "buzz_score": 85,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "First Nations MP resigns from NT parliament, accusing government of passing laws which are ‘dehumanising, oppressing and destroying” Indigenous people",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-19T03:09:20.561865+00:00"
     },
     {
       "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
@@ -937,17 +915,6 @@
       "added_at": "2026-08-19T05:29:24.546205+00:00"
     },
     {
-      "tweet": "Wait, the US just told South Korea to end their military drills early? Seems like we're just winging it now.",
-      "original_url": "https://www.theguardian.com/world/2026/aug/19/us-south-korea-army-drills-cut-trump-push-kim-jong-un-talks",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US-led drills to end six days early, South Korea says, amid Trump push for Kim Jong-un talks",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-19T03:09:20.561608+00:00"
-    },
-    {
       "tweet": "Bolivia just arrested a political adviser to right-wingers. Things are heating up down there",
       "original_url": "https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss",
       "buzz_score": 70,
@@ -968,6 +935,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T22:41:44.423791+00:00"
+    },
+    {
+      "tweet": "Wait, the US just told South Korea to end their military drills early? Seems like we're just winging it now.",
+      "original_url": "https://www.theguardian.com/world/2026/aug/19/us-south-korea-army-drills-cut-trump-push-kim-jong-un-talks",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US-led drills to end six days early, South Korea says, amid Trump push for Kim Jong-un talks",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-19T03:09:20.561608+00:00"
     }
   ],
   "seen_urls": [
@@ -1974,8 +1952,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3251,
+    "total_posted": 3253,
     "total_collected": 14776
   },
-  "last_posted_at": "2026-08-19T08:28:24.612828+00:00"
+  "last_posted_at": "2026-08-19T09:10:03.259746+00:00"
 }
