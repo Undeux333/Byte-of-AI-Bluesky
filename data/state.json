@@ -2,28 +2,6 @@
   "last_collected": "2026-08-19T10:17:15.934506+00:00",
   "queue": [
     {
-      "tweet": "Trump is back at it with the sanctions on Iran. They've survived decades of this, it's just theater at this point.",
-      "original_url": "https://www.nytimes.com/2026/08/19/world/europe/iran-trump-economic-sanctions-leverage.html",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Iran war: Trump tries economic pressure — again",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-19T10:17:15.933710+00:00"
-    },
-    {
-      "tweet": "The Sims is dropping Mean Girls and Clueless kits. Guess they know exactly who their audience is.",
-      "original_url": "https://www.polygon.com/the-sims-4-mean-girls-clueless-capsule-kits/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'The Sims 4' Is Getting Two Classic Teen Movies-Inspired Kits",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-19T10:17:15.933699+00:00"
-    },
-    {
       "tweet": "India tried to scrub that film about police abuse and it just made everyone want to watch it more. Streisand effect at it again.",
       "original_url": "https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired",
       "buzz_score": 70,
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3257,
+    "total_posted": 3259,
     "total_collected": 14792
   },
-  "last_posted_at": "2026-08-19T11:00:03.289533+00:00"
+  "last_posted_at": "2026-08-19T11:23:03.655867+00:00"
 }
