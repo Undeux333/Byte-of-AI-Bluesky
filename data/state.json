@@ -2,17 +2,6 @@
   "last_collected": "2026-08-19T10:17:15.934506+00:00",
   "queue": [
     {
-      "tweet": "India tried to scrub that film about police abuse and it just made everyone want to watch it more. Streisand effect at it again.",
-      "original_url": "https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "How India's blocking of a film exposing real-life police abuses backfired",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-19T10:17:15.933690+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -805,17 +794,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Hold on, Kyrgios actually got suspended for testing positive for cocaine. Dude just couldn't help himself.",
-      "original_url": "https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Kyrgios suspended after positive cocaine test",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-19T10:17:15.933694+00:00"
-    },
-    {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
       "original_url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
       "buzz_score": 85,
@@ -860,6 +838,17 @@
       "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
+      "tweet": "Hold on, Kyrgios actually got suspended for testing positive for cocaine. Dude just couldn't help himself.",
+      "original_url": "https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Kyrgios suspended after positive cocaine test",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-19T10:17:15.933694+00:00"
+    },
+    {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
       "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
       "buzz_score": 80,
@@ -880,6 +869,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
+      "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
+      "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-18T22:41:44.423537+00:00"
     },
     {
       "tweet": "Yo, Russia just downed 453 drones overnight. We're living in a different world.",
@@ -913,17 +913,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-08-19T10:17:15.933687+00:00"
-    },
-    {
-      "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
-      "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-18T22:41:44.423537+00:00"
     },
     {
       "tweet": "That First Nations MP in the NT just quit because the government laws are totally dehumanizing. Rough stuff.",
@@ -1996,8 +1985,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3259,
+    "total_posted": 3260,
     "total_collected": 14792
   },
-  "last_posted_at": "2026-08-19T11:23:03.655867+00:00"
+  "last_posted_at": "2026-08-19T11:39:40.280093+00:00"
 }
