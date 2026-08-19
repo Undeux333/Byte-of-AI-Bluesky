@@ -2,28 +2,6 @@
   "last_collected": "2026-08-19T18:59:30.849355+00:00",
   "queue": [
     {
-      "tweet": "Did you see that Amazon is just hiking prices on everything now? It’s funny how they call it a fee while we’re just paying for their warehouse lights.",
-      "original_url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Amazon tax",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-19T18:59:30.848390+00:00"
-    },
-    {
-      "tweet": "Lorena Wiebes is saying parents shouldn’t be scared of their kids racing bikes after that death. Man, that is grim.",
-      "original_url": "https://www.bbc.co.uk/sport/cycling/articles/c5y3n8e1e6eo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'Parents shouldn’t fear their children not coming home from a race'",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-19T18:59:30.848564+00:00"
-    },
-    {
       "tweet": "So apparently Trump just cut the military drills with South Korea because him and Kim Jong-un are cool now. Are we just taking his word for it?",
       "original_url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3276,
+    "total_posted": 3278,
     "total_collected": 14830
   },
-  "last_posted_at": "2026-08-19T19:30:51.824753+00:00"
+  "last_posted_at": "2026-08-19T19:54:39.774096+00:00"
 }
