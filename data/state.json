@@ -2,28 +2,6 @@
   "last_collected": "2026-08-19T05:29:24.547553+00:00",
   "queue": [
     {
-      "tweet": "The trial against Meta for hurting kids just started and the opening argument is literally just that profits won. We all knew it",
-      "original_url": "https://www.npr.org/2026/08/18/nx-s1-5935458/meta-child-safety-social-media-addiction-trial-opening",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'Profits won.' The child safety trial against Meta kicks off in federal court",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-19T05:29:24.546216+00:00"
-    },
-    {
-      "tweet": "Taylor Sheridan just nuked that whole 6666 spinoff idea for Yellowstone. Guess he finally hit his limit",
-      "original_url": "https://deadline.com/2026/08/yellowstone-taylor-sheridan-6666-spinoff-update-1237044957/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘Yellowstone’s Taylor Sheridan Shuts Door On Previously Announced ‘6666’ Spinoff: “I Would Never Do That”",
-      "source": "Deadline",
-      "category": "entertainment",
-      "added_at": "2026-08-19T05:29:24.546398+00:00"
-    },
-    {
       "tweet": "Dude, Trump just got South Korea to scale back our own war games because he thinks him and Kim Jong Un are boys now. That's just wild",
       "original_url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -145,17 +123,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "That First Nations MP in the NT just quit because the government laws are totally dehumanizing. Rough stuff.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/19/first-nations-mp-yingiya-guyula-resigns-nt-parliament-slow-genocide-indigenous-people-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "First Nations MP resigns from NT parliament, accusing government of passing laws which are ‘dehumanising, oppressing and destroying” Indigenous people",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-19T03:09:20.561865+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -165,6 +132,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "That First Nations MP in the NT just quit because the government laws are totally dehumanizing. Rough stuff.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/19/first-nations-mp-yingiya-guyula-resigns-nt-parliament-slow-genocide-indigenous-people-ntwnfb",
+      "buzz_score": 85,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "First Nations MP resigns from NT parliament, accusing government of passing laws which are ‘dehumanising, oppressing and destroying” Indigenous people",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-19T03:09:20.561865+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
@@ -948,6 +926,17 @@
       "added_at": "2026-08-18T20:37:36.627343+00:00"
     },
     {
+      "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
+      "original_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-08-14T16:13:56.122982+00:00"
+    },
+    {
       "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
       "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -968,17 +957,6 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-08-19T03:09:20.561478+00:00"
-    },
-    {
-      "tweet": "Did you see they’re already pushing for GPT-5.6? We haven't even figured out what to do with the current ones yet.",
-      "original_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
       "tweet": "Ariana Madix is out here promising unseen footage from the Love Island reunion to clear the air. We really just can't look away from this stuff",
@@ -2062,8 +2040,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3243,
+    "total_posted": 3245,
     "total_collected": 14776
   },
-  "last_posted_at": "2026-08-19T04:32:15.310465+00:00"
+  "last_posted_at": "2026-08-19T06:28:40.684275+00:00"
 }
