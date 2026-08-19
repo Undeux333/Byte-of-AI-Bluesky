@@ -2,28 +2,6 @@
   "last_collected": "2026-08-19T18:59:30.849355+00:00",
   "queue": [
     {
-      "tweet": "So apparently Trump just cut the military drills with South Korea because him and Kim Jong-un are cool now. Are we just taking his word for it?",
-      "original_url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "South Korea shortens war games with US, citing Washington request",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-19T18:59:30.848399+00:00"
-    },
-    {
-      "tweet": "Hold on, Cruz Beckham has a band now? Guess that’s one way to keep the family business going.",
-      "original_url": "https://www.billboard.com/video/cruz-beckham-takes-billboard-behind-the-scenes-la-show/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Cruz Beckham Introduces His Bandmates & Takes Billboard Behind the Scenes of His L.A. Show | All Access",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-19T18:59:30.848407+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -860,17 +838,6 @@
       "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
-      "tweet": "Canada is calling Israel’s move an unlawful invasion while pledging 50 million in aid. We’re just throwing money at the fire now.",
-      "original_url": "https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-19T18:59:30.848827+00:00"
-    },
-    {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
       "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
       "buzz_score": 80,
@@ -891,6 +858,28 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
+      "tweet": "Canada is calling Israel’s move an unlawful invasion while pledging 50 million in aid. We’re just throwing money at the fire now.",
+      "original_url": "https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-19T18:59:30.848827+00:00"
+    },
+    {
+      "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
+      "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-18T22:41:44.423537+00:00"
     },
     {
       "tweet": "Mattel is releasing a brick version of the original Xbox for like 300 bucks. We really pay anything just to remember the 2000s.",
@@ -924,17 +913,6 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-08-19T18:59:30.848396+00:00"
-    },
-    {
-      "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
-      "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-18T22:41:44.423537+00:00"
     },
     {
       "tweet": "Train is touring with Barenaked Ladies and bringing their kids on stage. We’re officially at the age where we’re watching our childhood bands turn into dads.",
@@ -1996,8 +1974,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3278,
+    "total_posted": 3280,
     "total_collected": 14830
   },
-  "last_posted_at": "2026-08-19T19:54:39.774096+00:00"
+  "last_posted_at": "2026-08-19T20:22:47.530505+00:00"
 }
