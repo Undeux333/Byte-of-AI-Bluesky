@@ -2,28 +2,6 @@
   "last_collected": "2026-08-19T14:51:01.166283+00:00",
   "queue": [
     {
-      "tweet": "Did you see that a guy got arrested for the Nord Stream pipeline thing? Talk about a long delay.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-19T14:51:01.165681+00:00"
-    },
-    {
-      "tweet": "Bro, just read that management consultants are basically just expensive people hired to tell you what you already know. That’s just professional gaslighting.",
-      "original_url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Beware Management Consultants",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-19T14:51:01.165676+00:00"
-    },
-    {
       "tweet": "Netflix is getting sued by a band called Demon Hunter because they used the name for their own movie. Irony is dead.",
       "original_url": "https://www.billboard.com/pro/netflix-sued-kpop-demon-hunters-christian-band-demon-hunter/",
       "buzz_score": 80,
@@ -640,39 +618,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Stop Killing Games is calling out the GTA 6 leakers for pushing a meme coin. At this point, everything is a grift.",
-      "original_url": "https://kotaku.com/gta-6-leaks-stop-killing-games-skg-cyberleek-meme-coin-2000725806",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Stop Killing Games Condemns ‘Destructive’ GTA 6 Leakers: ‘Do Not Send These People Your Money’",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-19T14:51:01.166180+00:00"
-    },
-    {
-      "tweet": "Spain just did a total 180 and is letting those 500 kids move to the mainland. Glad they finally chose human decency over their little policy.",
-      "original_url": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-19T14:51:01.165909+00:00"
-    },
-    {
-      "tweet": "So apparently the military police in Israel are investigating themselves for those Gaza killings. Like, we all know how that’s gonna end.",
-      "original_url": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-19T14:51:01.165684+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -871,6 +816,39 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
+      "tweet": "Stop Killing Games is calling out the GTA 6 leakers for pushing a meme coin. At this point, everything is a grift.",
+      "original_url": "https://kotaku.com/gta-6-leaks-stop-killing-games-skg-cyberleek-meme-coin-2000725806",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Stop Killing Games Condemns ‘Destructive’ GTA 6 Leakers: ‘Do Not Send These People Your Money’",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-19T14:51:01.166180+00:00"
+    },
+    {
+      "tweet": "Spain just did a total 180 and is letting those 500 kids move to the mainland. Glad they finally chose human decency over their little policy.",
+      "original_url": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-19T14:51:01.165909+00:00"
+    },
+    {
+      "tweet": "So apparently the military police in Israel are investigating themselves for those Gaza killings. Like, we all know how that’s gonna end.",
+      "original_url": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-19T14:51:01.165684+00:00"
+    },
+    {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
       "original_url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
       "buzz_score": 85,
@@ -981,6 +959,17 @@
       "added_at": "2026-08-19T12:37:58.667836+00:00"
     },
     {
+      "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
+      "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-18T22:41:44.423537+00:00"
+    },
+    {
       "tweet": "That new Wildwood trailer looks like Coraline but somehow weirder. I’m definitely watching that.",
       "original_url": "https://www.polygon.com/wildwood-trailer-laika-movie-coraline/",
       "buzz_score": 80,
@@ -1012,17 +1001,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-08-19T12:37:58.667825+00:00"
-    },
-    {
-      "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
-      "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-18T22:41:44.423537+00:00"
     },
     {
       "tweet": "The Pakistan government is fighting to keep Imran Khan in a public hospital instead of a private one. God forbid the guy gets decent treatment.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3268,
+    "total_posted": 3270,
     "total_collected": 14817
   },
-  "last_posted_at": "2026-08-19T14:58:41.621905+00:00"
+  "last_posted_at": "2026-08-19T15:27:46.260572+00:00"
 }
