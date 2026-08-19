@@ -2,28 +2,6 @@
   "last_collected": "2026-08-19T07:53:38.184295+00:00",
   "queue": [
     {
-      "tweet": "Everyone's talking about this Amazon tax thing and honestly it feels like they just find new ways to squeeze us every week. It never stops",
-      "original_url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Amazon tax",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-19T05:29:24.546659+00:00"
-    },
-    {
-      "tweet": "The guy from Tears For Fears is trying to buy a random English soccer team called Bath City FC. Imagine Shouting at the Rain while your squad loses",
-      "original_url": "https://www.billboard.com/music/rock/tears-for-fears-curt-smith-bath-fc-1236319616/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tears For Fears’ Curt Smith Puts Hand Up For English Soccer Club",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-19T05:29:24.546208+00:00"
-    },
-    {
       "tweet": "Searching for Hotels.com coupon codes for a trip just makes me feel like a budget traveler. Kinda sad honestly",
       "original_url": "https://www.wired.com/story/hotels-com-coupon/",
       "buzz_score": 70,
@@ -1996,8 +1974,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3249,
+    "total_posted": 3251,
     "total_collected": 14776
   },
-  "last_posted_at": "2026-08-19T08:03:03.603137+00:00"
+  "last_posted_at": "2026-08-19T08:28:24.612828+00:00"
 }
