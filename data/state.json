@@ -717,39 +717,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
-      "original_url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US Justice Department denies whistleblower claims on anti-Semitism probes",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-18T20:37:36.627652+00:00"
-    },
-    {
-      "tweet": "Man, did you see that with Jamal Musiala? He collapsed during the match again. That's actually terrifying",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c330kg5xm8no?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Musiala collapses during match for second time in four-day period",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-18T20:37:36.627356+00:00"
-    },
-    {
-      "tweet": "Did you see that in Phoenix? Data centers are actually raising the temp outside by four degrees. We're literally cooking the planet just to train more AI",
-      "original_url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-18T20:37:36.627343+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -946,6 +913,39 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
+      "original_url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "US Justice Department denies whistleblower claims on anti-Semitism probes",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-18T20:37:36.627652+00:00"
+    },
+    {
+      "tweet": "Man, did you see that with Jamal Musiala? He collapsed during the match again. That's actually terrifying",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/c330kg5xm8no?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Musiala collapses during match for second time in four-day period",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-18T20:37:36.627356+00:00"
+    },
+    {
+      "tweet": "Did you see that in Phoenix? Data centers are actually raising the temp outside by four degrees. We're literally cooking the planet just to train more AI",
+      "original_url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-08-18T20:37:36.627343+00:00"
     },
     {
       "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
