@@ -2,28 +2,6 @@
   "last_collected": "2026-08-19T14:51:01.166283+00:00",
   "queue": [
     {
-      "tweet": "Netflix is getting sued by a band called Demon Hunter because they used the name for their own movie. Irony is dead.",
-      "original_url": "https://www.billboard.com/pro/netflix-sued-kpop-demon-hunters-christian-band-demon-hunter/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Netflix Sued Over ‘Kpop Demon Hunters’ By Christian Metal Band Called Demon Hunter",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-19T14:51:01.165688+00:00"
-    },
-    {
-      "tweet": "Inter Milan is about to drop 30 million on Curtis Jones. That’s a lot of money for a guy who barely plays for Liverpool.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/clye43vge5jo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Inter close in on £30m deal for Liverpool's Jones",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-19T14:51:01.165690+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -948,17 +926,6 @@
       "added_at": "2026-08-18T20:37:36.628177+00:00"
     },
     {
-      "tweet": "The Arsenal chief is basically begging for clarity on those 100 Man City charges. At this point, we're just waiting for the heat death of the universe.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c1416keng1po?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "'Everyone wants clarity' over Man City charges, says Arsenal chief",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-19T12:37:58.667836+00:00"
-    },
-    {
       "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
       "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -968,6 +935,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-08-18T22:41:44.423537+00:00"
+    },
+    {
+      "tweet": "The Arsenal chief is basically begging for clarity on those 100 Man City charges. At this point, we're just waiting for the heat death of the universe.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/c1416keng1po?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "'Everyone wants clarity' over Man City charges, says Arsenal chief",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-19T12:37:58.667836+00:00"
     },
     {
       "tweet": "That new Wildwood trailer looks like Coraline but somehow weirder. I’m definitely watching that.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3270,
+    "total_posted": 3272,
     "total_collected": 14817
   },
-  "last_posted_at": "2026-08-19T15:27:46.260572+00:00"
+  "last_posted_at": "2026-08-19T16:00:05.669861+00:00"
 }
