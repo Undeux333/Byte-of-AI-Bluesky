@@ -2,28 +2,6 @@
   "last_collected": "2026-08-20T04:26:46.187870+00:00",
   "queue": [
     {
-      "tweet": "Chinese moviegoers are obsessed with this low-budget film 'The Bull is Coming' that has total trash graphics. In the age of AI, authenticity is just pixelated.",
-      "original_url": "https://www.nytimes.com/2026/08/20/world/asia/niu-lai-chinese-movie-box-office.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Bad Plot, Worse Graphics: Chinese Moviegoers Flock to a Low-Budget Hit",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-20T04:26:46.186891+00:00"
-    },
-    {
-      "tweet": "Dude, whales are moving into Greenland waters 'cause the ice is gone. They're just hitting up a feeding frenzy in places that used to be frozen solid. Wild.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Giant whales move into Greenland waters as ice disappears",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-20T04:26:46.186883+00:00"
-    },
-    {
       "tweet": "Her dad is calling out those paparazzi with the 300 millimeter lenses for hunting her down. It's like they're just vultures with cameras.",
       "original_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/hayden-panettiere-heroes-dad-criticizes-paparazzi-media-1235611894/",
       "buzz_score": 80,
@@ -651,17 +629,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "The DEA is joining the investigation into what happened with Hayden Panettiere. That whole situation is just depressing.",
-      "original_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/hayden-panettiere-death-investigation-dea-1235611899/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hayden Panettiere’s Death Investigation Joined by DEA: Report",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-08-20T04:26:46.187115+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -858,6 +825,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "The DEA is joining the investigation into what happened with Hayden Panettiere. That whole situation is just depressing.",
+      "original_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/hayden-panettiere-death-investigation-dea-1235611899/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Hayden Panettiere’s Death Investigation Joined by DEA: Report",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-08-20T04:26:46.187115+00:00"
     },
     {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3296,
+    "total_posted": 3298,
     "total_collected": 14885
   },
-  "last_posted_at": "2026-08-20T04:36:02.965620+00:00"
+  "last_posted_at": "2026-08-20T05:08:34.251029+00:00"
 }
