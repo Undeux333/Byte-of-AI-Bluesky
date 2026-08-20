@@ -2,28 +2,6 @@
   "last_collected": "2026-08-20T04:26:46.187870+00:00",
   "queue": [
     {
-      "tweet": "Her dad is calling out those paparazzi with the 300 millimeter lenses for hunting her down. It's like they're just vultures with cameras.",
-      "original_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/hayden-panettiere-heroes-dad-criticizes-paparazzi-media-1235611894/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Hayden Panettiere’s ‘Heroes’ Dad Mourns Star and Criticizes Paparazzi That ‘Hunted’ Her",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-08-20T04:26:46.187205+00:00"
-    },
-    {
-      "tweet": "So this 89-year-old dude in Germany is a massive TikTok star for hating matcha and partying on yachts. Honestly, he's figured it out.",
-      "original_url": "https://www.nytimes.com/2026/08/20/world/europe/elder-opa-influencer-tiktok-star-matcha.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Hating Matcha, Yet Loving Life, Made Him a TikTok Star at 89",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-20T04:26:46.186889+00:00"
-    },
-    {
       "tweet": "They pulled an 84-year-old woman out of the rubble three days after that Indonesian quake. Straight up miracle.",
       "original_url": "https://www.theguardian.com/world/2026/aug/20/indonesia-earthquake-flores-miracle-rescue-elderly-woman-found-alive-in-rubble",
       "buzz_score": 75,
@@ -827,17 +805,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "The DEA is joining the investigation into what happened with Hayden Panettiere. That whole situation is just depressing.",
-      "original_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/hayden-panettiere-death-investigation-dea-1235611899/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Hayden Panettiere’s Death Investigation Joined by DEA: Report",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-08-20T04:26:46.187115+00:00"
-    },
-    {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
       "original_url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
       "buzz_score": 85,
@@ -882,15 +849,15 @@
       "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
-      "tweet": "Jacqui Lambie is tearing into the government over that 5,000 dollar cap for veterans' health services. It's just a total lack of respect.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/20/jacqui-lambie-prolapse-emotional-speech-female-veterans-cap",
-      "buzz_score": 80,
+      "tweet": "The DEA is joining the investigation into what happened with Hayden Panettiere. That whole situation is just depressing.",
+      "original_url": "https://www.rollingstone.com/tv-movies/tv-movie-news/hayden-panettiere-death-investigation-dea-1235611899/",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Impassioned Jacqui Lambie reveals health struggle as she condemns Labor’s ‘callous disregard for veterans’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-20T04:26:46.186899+00:00"
+      "original_title": "Hayden Panettiere’s Death Investigation Joined by DEA: Report",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-08-20T04:26:46.187115+00:00"
     },
     {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
@@ -913,6 +880,28 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
+      "tweet": "Jacqui Lambie is tearing into the government over that 5,000 dollar cap for veterans' health services. It's just a total lack of respect.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/20/jacqui-lambie-prolapse-emotional-speech-female-veterans-cap",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Impassioned Jacqui Lambie reveals health struggle as she condemns Labor’s ‘callous disregard for veterans’",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-20T04:26:46.186899+00:00"
+    },
+    {
+      "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
+      "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-18T22:41:44.423537+00:00"
     },
     {
       "tweet": "Russian strikes hit Kyiv again today while Zelenskyy is catching heat from his own people. Constant pressure.",
@@ -968,17 +957,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-20T04:26:46.186894+00:00"
-    },
-    {
-      "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
-      "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-18T22:41:44.423537+00:00"
     },
     {
       "tweet": "Trump is out here threatening 'tremendous economic consequences' for anyone helping Iran. Man, that's a lot of words.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3298,
+    "total_posted": 3300,
     "total_collected": 14885
   },
-  "last_posted_at": "2026-08-20T05:08:34.251029+00:00"
+  "last_posted_at": "2026-08-20T05:49:43.768287+00:00"
 }
