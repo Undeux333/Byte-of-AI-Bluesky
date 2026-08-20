@@ -2,17 +2,6 @@
   "last_collected": "2026-08-20T16:20:27.882457+00:00",
   "queue": [
     {
-      "tweet": "Sydney air traffic controllers have grave concerns about the new airspace. They literally said they have minimal confidence in their ability to handle it. That's not good.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/21/air-traffic-controllers-safety-risk-fears-sydney-airport",
-      "buzz_score": 78,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Sydney air traffic controllers have ‘grave concerns’ about collision risk after airspace redesign",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-20T16:20:27.881195+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -44,6 +33,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Sydney air traffic controllers have grave concerns about the new airspace. They literally said they have minimal confidence in their ability to handle it. That's not good.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/21/air-traffic-controllers-safety-risk-fears-sydney-airport",
+      "buzz_score": 78,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Sydney air traffic controllers have ‘grave concerns’ about collision risk after airspace redesign",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-20T16:20:27.881195+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -904,17 +904,6 @@
       "added_at": "2026-08-20T16:20:27.880908+00:00"
     },
     {
-      "tweet": "Trump tried to be nice with the drills and North Korea fired ten missiles the next day. Who saw that coming?",
-      "original_url": "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-20T11:49:29.793806+00:00"
-    },
-    {
       "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
       "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -924,6 +913,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-08-18T22:41:44.423537+00:00"
+    },
+    {
+      "tweet": "Trump tried to be nice with the drills and North Korea fired ten missiles the next day. Who saw that coming?",
+      "original_url": "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-20T11:49:29.793806+00:00"
     },
     {
       "tweet": "Tech billionaires are already teaming up to fight the new wealth tax in California. Can’t make this stuff up.",
