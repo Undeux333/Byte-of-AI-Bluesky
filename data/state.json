@@ -2,28 +2,6 @@
   "last_collected": "2026-08-20T22:51:10.842869+00:00",
   "queue": [
     {
-      "tweet": "Did you see Kyiv? Sixteen dead after that bombing at the hospital today. Man, this is just brutal.",
-      "original_url": "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "More than 16 killed as Kyiv comes under intense Russian bombardment",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-20T22:51:10.842187+00:00"
-    },
-    {
-      "tweet": "Bro, those two guys in Mexico actually survived five days adrift in a literal cool box. That's just wild.",
-      "original_url": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Watch: Fishermen rescued after five days adrift in cool box",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-20T22:51:10.841784+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -618,17 +596,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "That new GTA 6 leak with the flying footage looks actually insane. We've been waiting forever for this.",
-      "original_url": "https://kotaku.com/jason-flying-a-plane-in-the-new-gta-6-leak-has-me-more-excited-than-any-previous-trailer-2000726316",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Jason Flying A Plane In The New GTA 6 Leak Has Me More Excited Than Any Previous Trailer",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-20T22:51:10.842359+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -827,6 +794,17 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
+      "tweet": "That new GTA 6 leak with the flying footage looks actually insane. We've been waiting forever for this.",
+      "original_url": "https://kotaku.com/jason-flying-a-plane-in-the-new-gta-6-leak-has-me-more-excited-than-any-previous-trailer-2000726316",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Jason Flying A Plane In The New GTA 6 Leak Has Me More Excited Than Any Previous Trailer",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-20T22:51:10.842359+00:00"
+    },
+    {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
       "original_url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
       "buzz_score": 85,
@@ -915,17 +893,6 @@
       "added_at": "2026-08-20T22:51:10.842273+00:00"
     },
     {
-      "tweet": "China just gave the Evergrande guy life in prison for that whole real estate collapse. Guess that's how they handle things when the company goes belly up.",
-      "original_url": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "China Sentences Evergrande Founder to Life in Prison",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-20T20:43:24.799924+00:00"
-    },
-    {
       "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
       "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -935,6 +902,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-08-18T22:41:44.423537+00:00"
+    },
+    {
+      "tweet": "China just gave the Evergrande guy life in prison for that whole real estate collapse. Guess that's how they handle things when the company goes belly up.",
+      "original_url": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "China Sentences Evergrande Founder to Life in Prison",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-20T20:43:24.799924+00:00"
     },
     {
       "tweet": "Fortnite is changing everything with these match overrides now. It's just a different game at this point.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3321,
+    "total_posted": 3323,
     "total_collected": 14975
   },
-  "last_posted_at": "2026-08-20T22:57:25.352253+00:00"
+  "last_posted_at": "2026-08-20T23:21:35.554095+00:00"
 }
