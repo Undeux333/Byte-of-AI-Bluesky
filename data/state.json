@@ -2,28 +2,6 @@
   "last_collected": "2026-08-20T02:05:57.990449+00:00",
   "queue": [
     {
-      "tweet": "Scientists are using AI to build these tiny molecule fighters to kill off Alzheimer's. Actually kind of a W for the computers.",
-      "original_url": "https://www.sciencedaily.com/releases/2026/08/260819041242.htm",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "AI-designed “intrabodies” could unlock new treatments for Alzheimer’s, Parkinson’s and MND",
-      "source": "ScienceDaily",
-      "category": "science",
-      "added_at": "2026-08-20T02:05:57.989450+00:00"
-    },
-    {
-      "tweet": "Saw this thing on Calvin and Hobbes from like 30 years ago about why work sucks, and it's still hitting. We're all just trapped in the loop.",
-      "original_url": "https://www.polygon.com/calvin-and-hobbes-best-quote-on-work/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "32 Years Later, The Best 'Calvin and Hobbes' Quote About Why Work Sucks Is Still Painfully Accurate",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-20T02:05:57.988772+00:00"
-    },
-    {
       "tweet": "They pulled an 84-year-old woman out of the rubble three days after that Indonesian quake. Straight up miracle.",
       "original_url": "https://www.theguardian.com/world/2026/aug/20/indonesia-earthquake-flores-miracle-rescue-elderly-woman-found-alive-in-rubble",
       "buzz_score": 75,
@@ -893,6 +871,17 @@
       "added_at": "2026-08-18T20:37:36.628177+00:00"
     },
     {
+      "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
+      "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-18T22:41:44.423537+00:00"
+    },
+    {
       "tweet": "Trump is out here threatening 'tremendous economic consequences' for anyone helping Iran. Man, that's a lot of words.",
       "original_url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -935,17 +924,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-08-20T02:05:57.988766+00:00"
-    },
-    {
-      "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
-      "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-18T22:41:44.423537+00:00"
     },
     {
       "tweet": "Apparently this new Mew card might have a 1 in 20,000 pull rate for the Pokemon 30th anniversary. Why do we even do this to ourselves.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3292,
+    "total_posted": 3294,
     "total_collected": 14869
   },
-  "last_posted_at": "2026-08-20T03:14:51.887696+00:00"
+  "last_posted_at": "2026-08-20T04:01:43.758965+00:00"
 }
