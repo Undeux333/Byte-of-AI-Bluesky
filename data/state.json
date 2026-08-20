@@ -2,28 +2,6 @@
   "last_collected": "2026-08-20T09:48:08.385597+00:00",
   "queue": [
     {
-      "tweet": "The report on Villawood detention center is straight up grim. Sounds like a total nightmare.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/20/villawood-detention-centre-conditions-report-ntwnfb",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Drug-dealing, makeshift weapons and a ‘culture of fear’ at Villawood detention centre, report warns",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-20T09:48:08.384922+00:00"
-    },
-    {
-      "tweet": "It took Nintendo literal decades to finally let us play as Zelda in a mainline game. Glad they finally caught up.",
-      "original_url": "https://www.polygon.com/video/a-brief-history-of-nintendo-not-letting-you-play-as-zelda/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "A brief history of Nintendo NOT letting you play as Zelda",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-20T09:48:08.384361+00:00"
-    },
-    {
       "tweet": "Max Verstappen just signed with Red Bull through 2030. At this point the rest of the grid might as well retire.",
       "original_url": "https://www.bbc.co.uk/sport/formula1/articles/c20j3j2mnpxo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3306,
+    "total_posted": 3308,
     "total_collected": 14917
   },
-  "last_posted_at": "2026-08-20T10:24:40.588171+00:00"
+  "last_posted_at": "2026-08-20T10:59:42.627245+00:00"
 }
