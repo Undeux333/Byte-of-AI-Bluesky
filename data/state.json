@@ -2,17 +2,6 @@
   "last_collected": "2026-08-20T09:48:08.385597+00:00",
   "queue": [
     {
-      "tweet": "Max Verstappen just signed with Red Bull through 2030. At this point the rest of the grid might as well retire.",
-      "original_url": "https://www.bbc.co.uk/sport/formula1/articles/c20j3j2mnpxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Verstappen extends Red Bull deal to 2030",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-20T09:48:08.383658+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -805,17 +794,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Israel just rejected a criminal investigation into that Zomi Frankcom killing. That's an insult.",
-      "original_url": "https://www.theguardian.com/world/2026/aug/20/zomi-frankcom-deserved-more-slain-aid-workers-family-says-after-israel-rejects-criminal-investigation-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘An insult’: Zomi Frankcom’s family issues strongly-worded statement as Israel rejects criminal investigation into her killing",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-20T09:48:08.385057+00:00"
-    },
-    {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
       "original_url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
       "buzz_score": 85,
@@ -860,15 +838,15 @@
       "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
-      "tweet": "Prosecutors want that mushroom killer kept behind bars for life. Pretty sure nobody's disagreeing with that.",
-      "original_url": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
+      "tweet": "Israel just rejected a criminal investigation into that Zomi Frankcom killing. That's an insult.",
+      "original_url": "https://www.theguardian.com/world/2026/aug/20/zomi-frankcom-deserved-more-slain-aid-workers-family-says-after-israel-rejects-criminal-investigation-ntwnfb",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
-      "source": "BBC World",
+      "original_title": "‘An insult’: Zomi Frankcom’s family issues strongly-worded statement as Israel rejects criminal investigation into her killing",
+      "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-08-20T09:48:08.384788+00:00"
+      "added_at": "2026-08-20T09:48:08.385057+00:00"
     },
     {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
@@ -893,6 +871,28 @@
       "added_at": "2026-08-18T20:37:36.628177+00:00"
     },
     {
+      "tweet": "Prosecutors want that mushroom killer kept behind bars for life. Pretty sure nobody's disagreeing with that.",
+      "original_url": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-20T09:48:08.384788+00:00"
+    },
+    {
+      "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
+      "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-18T22:41:44.423537+00:00"
+    },
+    {
       "tweet": "McDonald's is dropping caramel apple pie coffee for fall. We're gonna drink it anyway.",
       "original_url": "https://hypebeast.com/2026/8/mcdonalds-caramel-apple-pie-coffee-arrives-for-fall",
       "buzz_score": 75,
@@ -913,17 +913,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-20T09:48:08.383488+00:00"
-    },
-    {
-      "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
-      "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-18T22:41:44.423537+00:00"
     },
     {
       "tweet": "Russia is targeting grocery warehouses in Ukraine now. They're just trying to starve people out.",
@@ -1996,8 +1985,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3308,
+    "total_posted": 3309,
     "total_collected": 14917
   },
-  "last_posted_at": "2026-08-20T10:59:42.627245+00:00"
+  "last_posted_at": "2026-08-20T11:15:49.800177+00:00"
 }
