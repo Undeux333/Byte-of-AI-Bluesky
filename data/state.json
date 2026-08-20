@@ -2,28 +2,6 @@
   "last_collected": "2026-08-20T02:05:57.990449+00:00",
   "queue": [
     {
-      "tweet": "Kraven the Hunter is finally coming to Disney Plus. That movie was so bad it literally nuked the entire Sony Spider-Man universe. Big yikes.",
-      "original_url": "https://www.polygon.com/kraven-the-hunter-streaming-date-disney-plus-september-2026/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Marvel Movie That Killed Sony's Spider-Man Universe Is Coming to Disney Plus",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-20T02:05:57.988927+00:00"
-    },
-    {
-      "tweet": "Did you know Charles Manson basically ruined a Beatles song for everyone? Convinced it was some secret code for chaos and man, that's wild.",
-      "original_url": "https://www.mentalfloss.com/history/charles-manson-changed-legacy-beatles-song?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "How Charles Manson Permanently Changed the Legacy of a Beatles Song",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-20T02:05:57.988760+00:00"
-    },
-    {
       "tweet": "Scientists are using AI to build these tiny molecule fighters to kill off Alzheimer's. Actually kind of a W for the computers.",
       "original_url": "https://www.sciencedaily.com/releases/2026/08/260819041242.htm",
       "buzz_score": 80,
@@ -959,6 +937,17 @@
       "added_at": "2026-08-20T02:05:57.988766+00:00"
     },
     {
+      "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
+      "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-18T22:41:44.423537+00:00"
+    },
+    {
       "tweet": "Apparently this new Mew card might have a 1 in 20,000 pull rate for the Pokemon 30th anniversary. Why do we even do this to ourselves.",
       "original_url": "https://kotaku.com/pokemons-30th-anniversary-set-might-be-making-a-mysterious-new-mew-card-the-rarest-ever-2000725936",
       "buzz_score": 85,
@@ -990,17 +979,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-08-19T23:12:48.484554+00:00"
-    },
-    {
-      "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
-      "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-18T22:41:44.423537+00:00"
     },
     {
       "tweet": "Over 100 people dead in that goldmine collapse in Central African Republic. Just a tragedy.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3290,
+    "total_posted": 3292,
     "total_collected": 14869
   },
-  "last_posted_at": "2026-08-20T02:13:30.457391+00:00"
+  "last_posted_at": "2026-08-20T03:14:51.887696+00:00"
 }
