@@ -2,28 +2,6 @@
   "last_collected": "2026-08-20T11:49:29.794235+00:00",
   "queue": [
     {
-      "tweet": "Evergrande founder got life in prison for that fraud. Sometimes the system actually works.",
-      "original_url": "https://www.theguardian.com/business/2026/aug/20/evergrande-founder-jailed-life-fraud-hui-ka-yan",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Founder of China’s Evergrande jailed for life after pleading guilty to fraud",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-20T11:49:29.793804+00:00"
-    },
-    {
-      "tweet": "Did you see this Amazon tax thing? It’s wild that we’re basically just subsidizing their whole operation now. Just standard.",
-      "original_url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Amazon tax",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-20T11:49:29.793785+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -893,17 +871,6 @@
       "added_at": "2026-08-20T11:49:29.793791+00:00"
     },
     {
-      "tweet": "Israel just rejected a criminal investigation into that Zomi Frankcom killing. That's an insult.",
-      "original_url": "https://www.theguardian.com/world/2026/aug/20/zomi-frankcom-deserved-more-slain-aid-workers-family-says-after-israel-rejects-criminal-investigation-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘An insult’: Zomi Frankcom’s family issues strongly-worded statement as Israel rejects criminal investigation into her killing",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-20T09:48:08.385057+00:00"
-    },
-    {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
       "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
       "buzz_score": 80,
@@ -926,6 +893,17 @@
       "added_at": "2026-08-18T20:37:36.628177+00:00"
     },
     {
+      "tweet": "Israel just rejected a criminal investigation into that Zomi Frankcom killing. That's an insult.",
+      "original_url": "https://www.theguardian.com/world/2026/aug/20/zomi-frankcom-deserved-more-slain-aid-workers-family-says-after-israel-rejects-criminal-investigation-ntwnfb",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘An insult’: Zomi Frankcom’s family issues strongly-worded statement as Israel rejects criminal investigation into her killing",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-20T09:48:08.385057+00:00"
+    },
+    {
       "tweet": "Found out the mare in nightmare isn't a horse. We just keep saying that word forever.",
       "original_url": "https://www.mentalfloss.com/language/words/history-behind-word-nightmare?utm_source=RSS",
       "buzz_score": 75,
@@ -937,17 +915,6 @@
       "added_at": "2026-08-20T11:49:29.794108+00:00"
     },
     {
-      "tweet": "Prosecutors want that mushroom killer kept behind bars for life. Pretty sure nobody's disagreeing with that.",
-      "original_url": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-20T09:48:08.384788+00:00"
-    },
-    {
       "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
       "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -957,6 +924,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-08-18T22:41:44.423537+00:00"
+    },
+    {
+      "tweet": "Prosecutors want that mushroom killer kept behind bars for life. Pretty sure nobody's disagreeing with that.",
+      "original_url": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-20T09:48:08.384788+00:00"
     },
     {
       "tweet": "McDonald's is dropping caramel apple pie coffee for fall. We're gonna drink it anyway.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3311,
+    "total_posted": 3313,
     "total_collected": 14927
   },
-  "last_posted_at": "2026-08-20T11:57:35.905963+00:00"
+  "last_posted_at": "2026-08-20T12:31:36.644942+00:00"
 }
