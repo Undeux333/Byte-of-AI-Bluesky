@@ -2,28 +2,6 @@
   "last_collected": "2026-08-20T09:48:08.385597+00:00",
   "queue": [
     {
-      "tweet": "Russian missiles are hitting Kyiv again while Ukraine's air defenses run empty. That's brutal.",
-      "original_url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Russian Missiles Kill at Least 13 in Kyiv as Air Defenses Falter",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-20T09:48:08.384634+00:00"
-    },
-    {
-      "tweet": "Toyota is fixing those massive engine recalls by hitting them with a plastic hammer. That's some high-tech engineering right there.",
-      "original_url": "https://hypebeast.com/2026/8/toyota-v35a-hammer-test-diagnoses-tundra-engine-recall",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Toyota Uses Acoustic “Plastic Hammer” Diagnostic Tool To Solve Massive V6 Engine Recall",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-08-20T09:48:08.383953+00:00"
-    },
-    {
       "tweet": "The report on Villawood detention center is straight up grim. Sounds like a total nightmare.",
       "original_url": "https://www.theguardian.com/australia-news/2026/aug/20/villawood-detention-centre-conditions-report-ntwnfb",
       "buzz_score": 75,
@@ -651,17 +629,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Israel just rejected a criminal investigation into that Zomi Frankcom killing. That's an insult.",
-      "original_url": "https://www.theguardian.com/world/2026/aug/20/zomi-frankcom-deserved-more-slain-aid-workers-family-says-after-israel-rejects-criminal-investigation-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘An insult’: Zomi Frankcom’s family issues strongly-worded statement as Israel rejects criminal investigation into her killing",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-20T09:48:08.385057+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -858,6 +825,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "Israel just rejected a criminal investigation into that Zomi Frankcom killing. That's an insult.",
+      "original_url": "https://www.theguardian.com/world/2026/aug/20/zomi-frankcom-deserved-more-slain-aid-workers-family-says-after-israel-rejects-criminal-investigation-ntwnfb",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘An insult’: Zomi Frankcom’s family issues strongly-worded statement as Israel rejects criminal investigation into her killing",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-20T09:48:08.385057+00:00"
     },
     {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3304,
+    "total_posted": 3306,
     "total_collected": 14917
   },
-  "last_posted_at": "2026-08-20T09:55:57.686999+00:00"
+  "last_posted_at": "2026-08-20T10:24:40.588171+00:00"
 }
