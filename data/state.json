@@ -2,28 +2,6 @@
   "last_collected": "2026-08-21T19:55:03.557648+00:00",
   "queue": [
     {
-      "tweet": "Bro, 50 Cent and G-Unit actually showed up for that Verzuz with Joe. My middle school self is absolutely losing it right now.",
-      "original_url": "https://www.billboard.com/music/rb-hip-hop/50-cent-g-unit-join-joe-verzuz-battle-1236322099/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "50 Cent & G-Unit Join Joe for Verzuz Battle Performance of ‘Wanna Get to Know You’ & ‘Big Rich Town’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-21T19:55:03.556181+00:00"
-    },
-    {
-      "tweet": "Dude, did you see that Felony Bench thing on HN? Apparently someone built an entire project just for tracking court cases and it's actually getting traction. Wild.",
-      "original_url": "https://www.felonybench.com/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Felony Bench",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-21T19:55:03.556163+00:00"
-    },
-    {
       "tweet": "So apparently the Supreme Court is letting that ballroom construction at Trump's place keep going. Guess historic preservation just hits different when it's your own house.",
       "original_url": "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
       "buzz_score": 80,
@@ -68,17 +46,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Did you hear about those guys who got flown back to Equatorial Guinea after they wouldn't leave the plane? Like, how are we still paying for that kind of logistical mess?",
-      "original_url": "https://www.nytimes.com/2026/08/21/world/africa/us-deportees-liberia-equatorial-guinea.html",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "5 Deportees Are Flown by US to Equatorial Guinea After they Resist Deplaning in Liberia",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-21T19:55:03.556176+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -88,6 +55,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Did you hear about those guys who got flown back to Equatorial Guinea after they wouldn't leave the plane? Like, how are we still paying for that kind of logistical mess?",
+      "original_url": "https://www.nytimes.com/2026/08/21/world/africa/us-deportees-liberia-equatorial-guinea.html",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "5 Deportees Are Flown by US to Equatorial Guinea After they Resist Deplaning in Liberia",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-21T19:55:03.556176+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3352,
+    "total_posted": 3354,
     "total_collected": 15100
   },
-  "last_posted_at": "2026-08-21T20:01:25.906943+00:00"
+  "last_posted_at": "2026-08-21T20:18:49.280489+00:00"
 }
