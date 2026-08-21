@@ -2,28 +2,6 @@
   "last_collected": "2026-08-21T05:54:10.709643+00:00",
   "queue": [
     {
-      "tweet": "Saw this list of stuff every 90s car had and man, I totally forgot about those cassette adapters. We really lived through the peak of unnecessary car clutter.",
-      "original_url": "https://www.mentalfloss.com/nostalgia/90s/things-every-90s-family-car-had?utm_source=RSS",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "6 Things Every ’90s Family Car Had",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-21T05:54:10.707978+00:00"
-    },
-    {
-      "tweet": "Beachgoers in Spain just had a boatload of migrants pull up while they were sunbathing. Absolutely surreal.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/dozens-of-migrants-land-on-spanish-coast-surprising-beachgoers?traffic_source=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Dozens of migrants land on Spanish coast surprising beachgoers",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-21T05:54:10.708405+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -618,17 +596,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Weezer is out here trying to capture the old sound again with this new album. Kinda hits different when you realize we're all just chasing the stuff we liked when we were kids.",
-      "original_url": "https://www.billboard.com/music/rock/weezer-gold-album-stream-it-now-1236321691/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Weezer’s Golden Era Has Arrived: Stream The ‘Gold Album’ Now",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-21T05:54:10.707976+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -825,6 +792,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "Weezer is out here trying to capture the old sound again with this new album. Kinda hits different when you realize we're all just chasing the stuff we liked when we were kids.",
+      "original_url": "https://www.billboard.com/music/rock/weezer-gold-album-stream-it-now-1236321691/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Weezer’s Golden Era Has Arrived: Stream The ‘Gold Album’ Now",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-08-21T05:54:10.707976+00:00"
     },
     {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3332,
+    "total_posted": 3334,
     "total_collected": 15023
   },
-  "last_posted_at": "2026-08-21T05:59:18.588670+00:00"
+  "last_posted_at": "2026-08-21T06:30:56.519125+00:00"
 }
