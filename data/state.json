@@ -2,28 +2,6 @@
   "last_collected": "2026-08-21T00:54:34.947102+00:00",
   "queue": [
     {
-      "tweet": "So Aisha Wahab just won that special election to replace Swalwell. Politics is just musical chairs man.",
-      "original_url": "https://www.theguardian.com/us-news/2026/aug/20/california-special-election-results-eric-swalwell",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Progressive Aisha Wahab wins California special election to fill Eric Swalwell seat",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-21T00:54:34.945582+00:00"
-    },
-    {
-      "tweet": "Did you see that Consumer Rights Wiki? Finally a place that actually lists how to get your money back from these companies. We really needed that.",
-      "original_url": "https://consumerrights.wiki/w/Main_Page",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Consumer Rights Wiki",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-21T00:54:34.945565+00:00"
-    },
-    {
       "tweet": "Blue Eye Samurai is actually getting a third season on Netflix. Finally, something good to watch.",
       "original_url": "https://www.polygon.com/blue-eye-samurai-season-3-announced/",
       "buzz_score": 80,
@@ -629,50 +607,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "The US is just dumping thousands of people in Guatemala now? The logistics on that are just insane.",
-      "original_url": "https://www.aljazeera.com/news/2026/8/21/us-deports-nearly-2300-mexicans-to-guatemala-over-mexicos-objections?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US deports nearly 2,300 Mexicans to Guatemala over Mexico’s objections",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-21T00:54:34.946735+00:00"
-    },
-    {
-      "tweet": "Trump is trying to buddy up with Kim while South Korea is literally left hanging. That's cold.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Trump wants to be friends with Kim - but South Korea could pay the price",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-21T00:54:34.946614+00:00"
-    },
-    {
-      "tweet": "That robot company had to start making their own stuff in the US just to bypass the China ban. Wild.",
-      "original_url": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US distributor of China’s most popular humanoid robots pivots after US ban",
-      "source": "Ars Technica",
-      "category": "tech",
-      "added_at": "2026-08-21T00:54:34.946115+00:00"
-    },
-    {
-      "tweet": "Micro1 is hitting a 500 million run rate just for selling AI training data. The data gold rush is real.",
-      "original_url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-08-21T00:54:34.945990+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -871,17 +805,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Someone finally got Ocarina of Time working in real 3D on the N64. We've been waiting for that since we were kids.",
-      "original_url": "https://www.polygon.com/zelda-ocarina-of-time-mod-nintendo-64-replaces-games-fake-3d/",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Zelda: Ocarina of Time Mod Remakes the N64 Classic in True 3D",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-21T00:54:34.945585+00:00"
-    },
-    {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
       "original_url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
       "buzz_score": 85,
@@ -926,26 +849,59 @@
       "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
-      "tweet": "Bro, Vernon from SEVENTEEN is literally going to the military now. Man, the grind never stops.",
-      "original_url": "https://www.billboard.com/music/music-news/seventeen-vernon-new-song-ill-be-back-enlists-military-1236321509/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "SEVENTEEN’s Vernon Says ‘I’ll Be Back’ With New Single as He Enlists in South Korean Military",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-21T00:54:34.945577+00:00"
-    },
-    {
-      "tweet": "That new GTA 6 leak with the flying footage looks actually insane. We've been waiting forever for this.",
-      "original_url": "https://kotaku.com/jason-flying-a-plane-in-the-new-gta-6-leak-has-me-more-excited-than-any-previous-trailer-2000726316",
+      "tweet": "The US is just dumping thousands of people in Guatemala now? The logistics on that are just insane.",
+      "original_url": "https://www.aljazeera.com/news/2026/8/21/us-deports-nearly-2300-mexicans-to-guatemala-over-mexicos-objections?traffic_source=rss",
       "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Jason Flying A Plane In The New GTA 6 Leak Has Me More Excited Than Any Previous Trailer",
-      "source": "Kotaku",
+      "original_title": "US deports nearly 2,300 Mexicans to Guatemala over Mexico’s objections",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-21T00:54:34.946735+00:00"
+    },
+    {
+      "tweet": "Trump is trying to buddy up with Kim while South Korea is literally left hanging. That's cold.",
+      "original_url": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Trump wants to be friends with Kim - but South Korea could pay the price",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-21T00:54:34.946614+00:00"
+    },
+    {
+      "tweet": "That robot company had to start making their own stuff in the US just to bypass the China ban. Wild.",
+      "original_url": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US distributor of China’s most popular humanoid robots pivots after US ban",
+      "source": "Ars Technica",
+      "category": "tech",
+      "added_at": "2026-08-21T00:54:34.946115+00:00"
+    },
+    {
+      "tweet": "Micro1 is hitting a 500 million run rate just for selling AI training data. The data gold rush is real.",
+      "original_url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-08-21T00:54:34.945990+00:00"
+    },
+    {
+      "tweet": "Someone finally got Ocarina of Time working in real 3D on the N64. We've been waiting for that since we were kids.",
+      "original_url": "https://www.polygon.com/zelda-ocarina-of-time-mod-nintendo-64-replaces-games-fake-3d/",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Zelda: Ocarina of Time Mod Remakes the N64 Classic in True 3D",
+      "source": "Polygon",
       "category": "entertainment",
-      "added_at": "2026-08-20T22:51:10.842359+00:00"
+      "added_at": "2026-08-21T00:54:34.945585+00:00"
     },
     {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
@@ -968,6 +924,39 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
+      "tweet": "Bro, Vernon from SEVENTEEN is literally going to the military now. Man, the grind never stops.",
+      "original_url": "https://www.billboard.com/music/music-news/seventeen-vernon-new-song-ill-be-back-enlists-military-1236321509/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "SEVENTEEN’s Vernon Says ‘I’ll Be Back’ With New Single as He Enlists in South Korean Military",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-08-21T00:54:34.945577+00:00"
+    },
+    {
+      "tweet": "That new GTA 6 leak with the flying footage looks actually insane. We've been waiting forever for this.",
+      "original_url": "https://kotaku.com/jason-flying-a-plane-in-the-new-gta-6-leak-has-me-more-excited-than-any-previous-trailer-2000726316",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Jason Flying A Plane In The New GTA 6 Leak Has Me More Excited Than Any Previous Trailer",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-20T22:51:10.842359+00:00"
+    },
+    {
+      "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
+      "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-18T22:41:44.423537+00:00"
     },
     {
       "tweet": "Europe just canceled the upgrades for the Ariane 6 rocket. Budget cuts in space, classic.",
@@ -1012,17 +1001,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-08-20T22:51:10.841787+00:00"
-    },
-    {
-      "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
-      "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-18T22:41:44.423537+00:00"
     },
     {
       "tweet": "Already trying to find Austin City Limits tickets and the good ones are basically gone. We're always late to the party.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3325,
+    "total_posted": 3327,
     "total_collected": 14991
   },
-  "last_posted_at": "2026-08-21T01:02:59.716807+00:00"
+  "last_posted_at": "2026-08-21T02:25:04.676057+00:00"
 }
