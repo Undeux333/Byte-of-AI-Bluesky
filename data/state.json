@@ -2,28 +2,6 @@
   "last_collected": "2026-08-21T17:52:54.426745+00:00",
   "queue": [
     {
-      "tweet": "Mark Kelly is calling out the Navy for even thinking about naming a carrier after Trump instead of Doris Miller. Who actually thought that was a good pitch",
-      "original_url": "https://www.theguardian.com/us-news/live/2026/aug/21/democrats-progressive-election-politics-live",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘Shouldn’t be renamed at all’: senator attacks Navy’s reported consideration of honoring Trump instead of Black war hero – live",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-21T17:52:54.426214+00:00"
-    },
-    {
-      "tweet": "Bro, some guy literally logged hundreds of thousands of phone calls to military bases by accident. Just sitting on that much classified data like it's nothing. Absolutely wild",
-      "original_url": "https://lina.sh/blog/hijacking-e164-arpa",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "I accidentally logged hundreds of thousands of phone calls to military bases",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-21T17:52:54.425132+00:00"
-    },
-    {
       "tweet": "That new Sam Fender song spent 22 weeks at number one in the UK and didn't even crack our top 40. Guess the charts aren't exactly talking to each other",
       "original_url": "https://www.billboard.com/lists/songs-that-were-big-uk-hits-but-not-in-the-u-s/",
       "buzz_score": 75,
@@ -893,17 +871,6 @@
       "added_at": "2026-08-21T17:52:54.425425+00:00"
     },
     {
-      "tweet": "This GTA 6 leaker is still going. They're dropping new footage of the streets just to watch Take-Two lose their minds. Pure chaos.",
-      "original_url": "https://kotaku.com/gta-6-leaker-continues-taunting-with-fresh-footage-of-hyper-realistic-streets-2000726645",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "GTA 6 Leaker Continues Taunting With Fresh Footage Of Hyper-Realistic Streets",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-21T15:32:53.880846+00:00"
-    },
-    {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
       "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
       "buzz_score": 80,
@@ -924,6 +891,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
+      "tweet": "This GTA 6 leaker is still going. They're dropping new footage of the streets just to watch Take-Two lose their minds. Pure chaos.",
+      "original_url": "https://kotaku.com/gta-6-leaker-continues-taunting-with-fresh-footage-of-hyper-realistic-streets-2000726645",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "GTA 6 Leaker Continues Taunting With Fresh Footage Of Hyper-Realistic Streets",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-21T15:32:53.880846+00:00"
     },
     {
       "tweet": "Marvel fighting games are basically carrying the whole year's reputation now. It's weird how we pin all our hopes on one comeback arc",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3347,
+    "total_posted": 3349,
     "total_collected": 15084
   },
-  "last_posted_at": "2026-08-21T18:02:44.573129+00:00"
+  "last_posted_at": "2026-08-21T18:29:06.090121+00:00"
 }
