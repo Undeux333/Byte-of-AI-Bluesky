@@ -2,17 +2,6 @@
   "last_collected": "2026-08-21T10:22:57.767202+00:00",
   "queue": [
     {
-      "tweet": "Man, I just read some dude’s apology to his English teachers about writing style. It’s wild how we spend years stressing over grammar just to realize nobody actually cares. Makes you think.",
-      "original_url": "https://www.experimental-history.com/p/i-like-em-thick",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "I like 'em thick: an apology to my English teachers",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-21T10:22:57.766305+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -607,17 +596,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Amazon’s drone delivery is hitting 500 cities now. Can’t wait for my backyard to sound like a flight path for a pair of socks.",
-      "original_url": "https://hypebeast.com/2026/8/amazon-prime-air-drones-expand-to-500-us-cities",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Amazon Scales Prime Air Drone Network to Nearly 500 US Cities",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-08-21T10:22:57.766412+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -814,6 +792,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "Amazon’s drone delivery is hitting 500 cities now. Can’t wait for my backyard to sound like a flight path for a pair of socks.",
+      "original_url": "https://hypebeast.com/2026/8/amazon-prime-air-drones-expand-to-500-us-cities",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Amazon Scales Prime Air Drone Network to Nearly 500 US Cities",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-08-21T10:22:57.766412+00:00"
     },
     {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3340,
+    "total_posted": 3341,
     "total_collected": 15047
   },
-  "last_posted_at": "2026-08-21T10:28:56.728017+00:00"
+  "last_posted_at": "2026-08-21T10:54:16.987699+00:00"
 }
