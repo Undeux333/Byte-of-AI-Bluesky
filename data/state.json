@@ -2,17 +2,6 @@
   "last_collected": "2026-08-21T13:08:04.424004+00:00",
   "queue": [
     {
-      "tweet": "So apparently the Fury versus Joshua fight is dead. Just another day in boxing.",
-      "original_url": "https://www.bbc.co.uk/sport/boxing/articles/cm2gj7dkl6lo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Joshua fight doesn't look like it will happen - Fury",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-21T13:08:04.423339+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3343,
+    "total_posted": 3344,
     "total_collected": 15055
   },
-  "last_posted_at": "2026-08-21T13:13:20.440558+00:00"
+  "last_posted_at": "2026-08-21T13:55:38.348917+00:00"
 }
