@@ -2,17 +2,6 @@
   "last_collected": "2026-08-21T03:27:17.285475+00:00",
   "queue": [
     {
-      "tweet": "Blue Eye Samurai is actually getting a third season on Netflix. Finally, something good to watch.",
-      "original_url": "https://www.polygon.com/blue-eye-samurai-season-3-announced/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Netflix’s Near-Perfect Revenge Thriller Blue Eye Samurai Is Getting a Third Season",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-21T00:54:34.945739+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -948,17 +937,6 @@
       "added_at": "2026-08-21T00:54:34.945990+00:00"
     },
     {
-      "tweet": "Someone finally got Ocarina of Time working in real 3D on the N64. We've been waiting for that since we were kids.",
-      "original_url": "https://www.polygon.com/zelda-ocarina-of-time-mod-nintendo-64-replaces-games-fake-3d/",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Zelda: Ocarina of Time Mod Remakes the N64 Classic in True 3D",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-21T00:54:34.945585+00:00"
-    },
-    {
       "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
       "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -968,6 +946,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-08-18T22:41:44.423537+00:00"
+    },
+    {
+      "tweet": "Someone finally got Ocarina of Time working in real 3D on the N64. We've been waiting for that since we were kids.",
+      "original_url": "https://www.polygon.com/zelda-ocarina-of-time-mod-nintendo-64-replaces-games-fake-3d/",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Zelda: Ocarina of Time Mod Remakes the N64 Classic in True 3D",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-21T00:54:34.945585+00:00"
     },
     {
       "tweet": "Bro, Vernon from SEVENTEEN is literally going to the military now. Man, the grind never stops.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3329,
+    "total_posted": 3330,
     "total_collected": 15007
   },
-  "last_posted_at": "2026-08-21T03:36:05.744719+00:00"
+  "last_posted_at": "2026-08-21T04:07:25.943892+00:00"
 }
