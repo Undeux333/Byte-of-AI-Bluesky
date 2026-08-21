@@ -2,28 +2,6 @@
   "last_collected": "2026-08-21T07:57:21.703346+00:00",
   "queue": [
     {
-      "tweet": "Bro, people in Indiana have been without power for over a week now. Can you imagine just sitting in the dark for nine days straight. Man.",
-      "original_url": "https://www.npr.org/2026/08/21/g-s1-139527/indiana-storm-outages",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'Survival mode': Indiana residents endure a ninth day without power",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-21T07:57:21.702792+00:00"
-    },
-    {
-      "tweet": "Everyone’s out here getting their mental health advice from TikTok now. Pretty sure a fifteen second video isn't fixing my brain, man.",
-      "original_url": "https://www.aljazeera.com/features/2026/8/21/dr-tiktok-mental-health-moves-from-consulting-rooms-to-social-media?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Dr TikTok: Mental health moves from consulting rooms to social media",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-21T07:57:21.702802+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -618,17 +596,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Hold on, so some guy in Australia was actually trying to leak military intel to Russian agents. Talk about main character energy.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/21/vladimir-teslov-australian-charged-sharing-ukraine-intel-russian-agents-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Australian police charge man accused of attempting to share Ukrainian military intel with Russian agents",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-21T07:57:21.702805+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -827,6 +794,17 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
+      "tweet": "Hold on, so some guy in Australia was actually trying to leak military intel to Russian agents. Talk about main character energy.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/21/vladimir-teslov-australian-charged-sharing-ukraine-intel-russian-agents-ntwnfb",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Australian police charge man accused of attempting to share Ukrainian military intel with Russian agents",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-21T07:57:21.702805+00:00"
+    },
+    {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
       "original_url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
       "buzz_score": 85,
@@ -882,17 +860,6 @@
       "added_at": "2026-08-21T07:57:21.702961+00:00"
     },
     {
-      "tweet": "Weezer is out here trying to capture the old sound again with this new album. Kinda hits different when you realize we're all just chasing the stuff we liked when we were kids.",
-      "original_url": "https://www.billboard.com/music/rock/weezer-gold-album-stream-it-now-1236321691/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Weezer’s Golden Era Has Arrived: Stream The ‘Gold Album’ Now",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-21T05:54:10.707976+00:00"
-    },
-    {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
       "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
       "buzz_score": 80,
@@ -913,6 +880,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
+      "tweet": "Weezer is out here trying to capture the old sound again with this new album. Kinda hits different when you realize we're all just chasing the stuff we liked when we were kids.",
+      "original_url": "https://www.billboard.com/music/rock/weezer-gold-album-stream-it-now-1236321691/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Weezer’s Golden Era Has Arrived: Stream The ‘Gold Album’ Now",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-08-21T05:54:10.707976+00:00"
     },
     {
       "tweet": "The Jonas Brothers are out here debuting songs literally called Listen When Sad. We're just being targeted now.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3336,
+    "total_posted": 3338,
     "total_collected": 15031
   },
-  "last_posted_at": "2026-08-21T08:02:43.995483+00:00"
+  "last_posted_at": "2026-08-21T08:41:05.880009+00:00"
 }
