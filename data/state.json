@@ -2,17 +2,6 @@
   "last_collected": "2026-08-22T20:36:49.243671+00:00",
   "queue": [
     {
-      "tweet": "Dude, did you see Hull just walked into Old Trafford and put two past Man Utd? They’ve been back in the Premier League for like five minutes. Absolute scenes.",
-      "original_url": "https://www.bbc.co.uk/sport/football/videos/clyl5ejxj2wo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Hull shock Man Utd with dream Premier League return",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-22T20:36:49.242258+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -805,17 +794,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Some new AI from DeepMind alumni just beat Anthropic and OpenAI at research. We’re moving way too fast, man.",
-      "original_url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-08-22T20:36:49.242444+00:00"
-    },
-    {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
       "original_url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
       "buzz_score": 85,
@@ -858,6 +836,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-08-14T16:13:56.122982+00:00"
+    },
+    {
+      "tweet": "Some new AI from DeepMind alumni just beat Anthropic and OpenAI at research. We’re moving way too fast, man.",
+      "original_url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-08-22T20:36:49.242444+00:00"
     },
     {
       "tweet": "Israel just opened bids for more settlements in the West Bank. How are we still doing this?",
@@ -937,6 +926,28 @@
       "added_at": "2026-08-22T20:36:49.242272+00:00"
     },
     {
+      "tweet": "The FCC just banned the HoverAir drone. Can't have anything cool.",
+      "original_url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "HoverAir’s transforming modular drone has already been halted in the US",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-08-22T00:51:13.050956+00:00"
+    },
+    {
+      "tweet": "Did you see Fivio Foreign is doing Christian rap now? He said he doesn't want to put it in a category. Just rapping.",
+      "original_url": "https://www.billboard.com/music/rb-hip-hop/fivio-foreign-christian-rap-gospel-1236322293/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Fivio Foreign Pivots to Christian Rap, But Don’t Call Him a Gospel Artist: ‘I Don’t Want to Put It in a Category’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-08-22T00:51:13.049633+00:00"
+    },
+    {
       "tweet": "Japan is having a full-blown gold rush just to see which city gets to be the backup capital. Seems slightly desperate.",
       "original_url": "https://www.nytimes.com/2026/08/22/world/asia/japan-capital-osaka.html",
       "buzz_score": 72,
@@ -968,28 +979,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-08-22T18:14:46.061387+00:00"
-    },
-    {
-      "tweet": "The FCC just banned the HoverAir drone. Can't have anything cool.",
-      "original_url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "HoverAir’s transforming modular drone has already been halted in the US",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-08-22T00:51:13.050956+00:00"
-    },
-    {
-      "tweet": "Did you see Fivio Foreign is doing Christian rap now? He said he doesn't want to put it in a category. Just rapping.",
-      "original_url": "https://www.billboard.com/music/rb-hip-hop/fivio-foreign-christian-rap-gospel-1236322293/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fivio Foreign Pivots to Christian Rap, But Don’t Call Him a Gospel Artist: ‘I Don’t Want to Put It in a Category’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-22T00:51:13.049633+00:00"
     },
     {
       "tweet": "Josh Tarling took third in the Vuelta like a week after his brother died. Man is built different.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3396,
+    "total_posted": 3397,
     "total_collected": 15250
   },
-  "last_posted_at": "2026-08-22T20:41:58.618859+00:00"
+  "last_posted_at": "2026-08-22T20:57:03.709969+00:00"
 }
