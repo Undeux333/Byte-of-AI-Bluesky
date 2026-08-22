@@ -2,28 +2,6 @@
   "last_collected": "2026-08-22T07:42:46.718742+00:00",
   "queue": [
     {
-      "tweet": "Bro, James Maddison has five kids under four and two sets of twins. Man, talk about a real-life distraction.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/c20j3vx6ne4o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Second set of twins a good distraction from injury - Maddison",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-22T07:42:46.717850+00:00"
-    },
-    {
-      "tweet": "Germany found a whole weapons cache but they’re not saying who it belongs to. Nothing to see here, I guess.",
-      "original_url": "https://www.nytimes.com/2026/08/21/world/europe/germany-foreign-plot-hidden-guns.html",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Germany Identifies a Plot After Finding a Weapons Cache, but Names No Culprit",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-22T07:42:46.717861+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -57,17 +35,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Beatty is actually fighting to keep Trump's name off the Kennedy Center. Does that building have anything better to do",
-      "original_url": "https://www.npr.org/2026/08/21/nx-s1-5940799/kennedy-center-president-trump-filing",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-22T07:42:46.717860+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -77,6 +44,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Beatty is actually fighting to keep Trump's name off the Kennedy Center. Does that building have anything better to do",
+      "original_url": "https://www.npr.org/2026/08/21/nx-s1-5940799/kennedy-center-president-trump-filing",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-22T07:42:46.717860+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
@@ -937,17 +915,6 @@
       "added_at": "2026-08-22T00:51:13.051218+00:00"
     },
     {
-      "tweet": "Olivia Rodrigo just dropped a song inspired by Handmaid's Tale on a tiny run of CDs. Very on brand.",
-      "original_url": "https://variety.com/2026/music/news/olivia-rodrigo-serena-joy-cd-single-handmaids-tale-1236840709/",
-      "buzz_score": 76,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Olivia Rodrigo Releases ‘Handmaid’s Tale’-Inspired Song, ‘Serena Joy,’ in a Tiny Run of CDs, With Digital Drop to Follow",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-08-22T07:42:46.718320+00:00"
-    },
-    {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
       "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
       "buzz_score": 80,
@@ -968,6 +935,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
+      "tweet": "Olivia Rodrigo just dropped a song inspired by Handmaid's Tale on a tiny run of CDs. Very on brand.",
+      "original_url": "https://variety.com/2026/music/news/olivia-rodrigo-serena-joy-cd-single-handmaids-tale-1236840709/",
+      "buzz_score": 76,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Olivia Rodrigo Releases ‘Handmaid’s Tale’-Inspired Song, ‘Serena Joy,’ in a Tiny Run of CDs, With Digital Drop to Follow",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-08-22T07:42:46.718320+00:00"
     },
     {
       "tweet": "Dolly Parton is still working and healing through that museum project. She's honestly the only person who doesn't seem to age.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3375,
+    "total_posted": 3377,
     "total_collected": 15170
   },
-  "last_posted_at": "2026-08-22T07:49:28.131293+00:00"
+  "last_posted_at": "2026-08-22T08:07:25.666220+00:00"
 }
