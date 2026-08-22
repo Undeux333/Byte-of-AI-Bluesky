@@ -805,28 +805,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "The FCC just banned the HoverAir drone. Can't have anything cool.",
-      "original_url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "HoverAir’s transforming modular drone has already been halted in the US",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-08-22T00:51:13.050956+00:00"
-    },
-    {
-      "tweet": "Did you see Fivio Foreign is doing Christian rap now? He said he doesn't want to put it in a category. Just rapping.",
-      "original_url": "https://www.billboard.com/music/rb-hip-hop/fivio-foreign-christian-rap-gospel-1236322293/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fivio Foreign Pivots to Christian Rap, But Don’t Call Him a Gospel Artist: ‘I Don’t Want to Put It in a Category’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-22T00:51:13.049633+00:00"
-    },
-    {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
       "original_url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
       "buzz_score": 85,
@@ -871,6 +849,28 @@
       "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
+      "tweet": "The FCC just banned the HoverAir drone. Can't have anything cool.",
+      "original_url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "HoverAir’s transforming modular drone has already been halted in the US",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-08-22T00:51:13.050956+00:00"
+    },
+    {
+      "tweet": "Did you see Fivio Foreign is doing Christian rap now? He said he doesn't want to put it in a category. Just rapping.",
+      "original_url": "https://www.billboard.com/music/rb-hip-hop/fivio-foreign-christian-rap-gospel-1236322293/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Fivio Foreign Pivots to Christian Rap, But Don’t Call Him a Gospel Artist: ‘I Don’t Want to Put It in a Category’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-08-22T00:51:13.049633+00:00"
+    },
+    {
       "tweet": "So apparently Canada is gonna match those tariffs dollar for dollar now. Just a complete mess.",
       "original_url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
       "buzz_score": 90,
@@ -904,17 +904,6 @@
       "added_at": "2026-08-22T07:42:46.718101+00:00"
     },
     {
-      "tweet": "Inner Mongolia is becoming the center of China’s AI boom. We're just feeding servers now.",
-      "original_url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Unlikely Place at the Center of China’s AI Boom",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-08-22T00:51:13.051218+00:00"
-    },
-    {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
       "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
       "buzz_score": 80,
@@ -935,6 +924,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
+      "tweet": "Inner Mongolia is becoming the center of China’s AI boom. We're just feeding servers now.",
+      "original_url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Unlikely Place at the Center of China’s AI Boom",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-08-22T00:51:13.051218+00:00"
     },
     {
       "tweet": "Olivia Rodrigo just dropped a song inspired by Handmaid's Tale on a tiny run of CDs. Very on brand.",
