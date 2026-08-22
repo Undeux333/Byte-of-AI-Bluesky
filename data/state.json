@@ -2,28 +2,6 @@
   "last_collected": "2026-08-22T22:56:13.480891+00:00",
   "queue": [
     {
-      "tweet": "Bro, people are saying there is literally no reason for software to be slow anymore. Like we have all the power in the world and it's still taking ten seconds to open a notes app. Clunky.",
-      "original_url": "https://danluu.com/perf-opt/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "There's no reason for software to be slow anymore",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-22T22:56:13.479850+00:00"
-    },
-    {
-      "tweet": "Saw this list of 80 little tweaks to look hotter. If I’m at the point where I’m counting 80 different things to change, I’m probably just overthinking it.",
-      "original_url": "https://www.bustle.com/shopping/easy-little-tweaks-that-instantly-make-you-look-hotter",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "80 Easy Little Tweaks That Instantly Make You Look Hotter",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-08-22T22:56:13.480267+00:00"
-    },
-    {
       "tweet": "Did you see that judge ruled the Trump administration's 75-country visa ban was illegal? Just wild that we spent that much time enforcing something that didn't have a leg to stand on. Wasted.",
       "original_url": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
       "buzz_score": 80,
@@ -970,28 +948,6 @@
       "added_at": "2026-08-22T20:36:49.242444+00:00"
     },
     {
-      "tweet": "Israel just opened bids for more settlements in the West Bank. How are we still doing this?",
-      "original_url": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Why is Israel building new illegal settlements?",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-22T20:36:49.243293+00:00"
-    },
-    {
-      "tweet": "Watching Tottenham get dismantled by Brentford on day one is honestly a masterclass. Roberto De Zerbi has some work to do. Rough.",
-      "original_url": "https://www.bbc.co.uk/sport/football/videos/cqx75yq28rwo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Brentford beat lacklustre Spurs in comfortable opening day win",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-22T20:36:49.242263+00:00"
-    },
-    {
       "tweet": "The FCC just banned the HoverAir drone. Can't have anything cool.",
       "original_url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
       "buzz_score": 75,
@@ -1012,6 +968,28 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-22T00:51:13.049633+00:00"
+    },
+    {
+      "tweet": "Israel just opened bids for more settlements in the West Bank. How are we still doing this?",
+      "original_url": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Why is Israel building new illegal settlements?",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-22T20:36:49.243293+00:00"
+    },
+    {
+      "tweet": "Watching Tottenham get dismantled by Brentford on day one is honestly a masterclass. Roberto De Zerbi has some work to do. Rough.",
+      "original_url": "https://www.bbc.co.uk/sport/football/videos/cqx75yq28rwo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Brentford beat lacklustre Spurs in comfortable opening day win",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-22T20:36:49.242263+00:00"
     },
     {
       "tweet": "Olivia Rodrigo is dropping Handmaid’s Tale themed CDs at random indie shops now. The marketing is getting kind of intense.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3399,
+    "total_posted": 3401,
     "total_collected": 15261
   },
-  "last_posted_at": "2026-08-22T23:03:40.333641+00:00"
+  "last_posted_at": "2026-08-22T23:16:37.110271+00:00"
 }
