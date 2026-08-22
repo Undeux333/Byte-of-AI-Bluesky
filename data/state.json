@@ -2,28 +2,6 @@
   "last_collected": "2026-08-22T00:51:13.051466+00:00",
   "queue": [
     {
-      "tweet": "TikTok is paying 400 million to settle that child privacy lawsuit. That's a lot of money.",
-      "original_url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-08-22T00:51:13.051094+00:00"
-    },
-    {
-      "tweet": "Man, that double-tap strike on the mall in Ukraine. Like, how is that even real?",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-22T00:51:13.049642+00:00"
-    },
-    {
       "tweet": "Saw that 77-year-old lady walked nine miles on foot to get out of Lyman. That’s insane.",
       "original_url": "https://www.nytimes.com/2026/08/21/world/europe/ukraine-lyman-donetsk-donbas-russia.html",
       "buzz_score": 85,
@@ -948,17 +926,6 @@
       "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
-      "tweet": "Arsenal is basically saying they’d rather lose 4-3 than actually play defense. That’s pure chaos.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cpw94evj1q7o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Swaggering Arsenal want title attack, not defence",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-22T00:51:13.049639+00:00"
-    },
-    {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
       "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
       "buzz_score": 80,
@@ -981,6 +948,28 @@
       "added_at": "2026-08-18T20:37:36.628177+00:00"
     },
     {
+      "tweet": "Arsenal is basically saying they’d rather lose 4-3 than actually play defense. That’s pure chaos.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cpw94evj1q7o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Swaggering Arsenal want title attack, not defence",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-22T00:51:13.049639+00:00"
+    },
+    {
+      "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
+      "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-18T22:41:44.423537+00:00"
+    },
+    {
       "tweet": "The Game is swearing he didn't diss Kendrick on his new album after all that stuff happened. Sure.",
       "original_url": "https://www.billboard.com/music/rb-hip-hop/the-game-kendrick-lamar-drake-diss-allegations-response-1236322291/",
       "buzz_score": 75,
@@ -1001,17 +990,6 @@
       "source": "Kotaku",
       "category": "entertainment",
       "added_at": "2026-08-21T22:00:20.294190+00:00"
-    },
-    {
-      "tweet": "They're tracking the USS Lincoln on one of the longest deployments ever. Those guys have been at sea for ages",
-      "original_url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-18T22:41:44.423537+00:00"
     },
     {
       "tweet": "Nvidia is just out here funding every data center on the planet so they can keep printing money. It's a loop.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3359,
+    "total_posted": 3361,
     "total_collected": 15124
   },
-  "last_posted_at": "2026-08-22T00:57:15.344789+00:00"
+  "last_posted_at": "2026-08-22T02:14:36.653527+00:00"
 }
