@@ -2,28 +2,6 @@
   "last_collected": "2026-08-22T22:56:13.480891+00:00",
   "queue": [
     {
-      "tweet": "Did you see that judge ruled the Trump administration's 75-country visa ban was illegal? Just wild that we spent that much time enforcing something that didn't have a leg to stand on. Wasted.",
-      "original_url": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Trump administration's 75-country visa ban was illegal, judge rules",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-22T22:56:13.479856+00:00"
-    },
-    {
-      "tweet": "Dude, HBO Max is doing a week free on Prime Video because they’re desperate for subs. Guess they realized nobody wants to pay those new prices. Hilarious.",
-      "original_url": "https://variety.com/2026/shopping/news/best-hbo-max-deal-offer-1235439129/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "HBO Max Is Free Right Now For 7 Days With This Prime Video Promo",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-08-22T22:56:13.480648+00:00"
-    },
-    {
       "tweet": "A novelist just called the Italian family a little totalitarian system and everyone in Italy is pressed. Feels like that's just how every family is if you look close enough. Yeah.",
       "original_url": "https://www.nytimes.com/2026/08/22/world/europe/italian-families-novel-anniversary-bajani.html",
       "buzz_score": 75,
@@ -937,17 +915,6 @@
       "added_at": "2026-08-18T20:37:36.628177+00:00"
     },
     {
-      "tweet": "Some new AI from DeepMind alumni just beat Anthropic and OpenAI at research. We’re moving way too fast, man.",
-      "original_url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-08-22T20:36:49.242444+00:00"
-    },
-    {
       "tweet": "The FCC just banned the HoverAir drone. Can't have anything cool.",
       "original_url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
       "buzz_score": 75,
@@ -968,6 +935,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-22T00:51:13.049633+00:00"
+    },
+    {
+      "tweet": "Some new AI from DeepMind alumni just beat Anthropic and OpenAI at research. We’re moving way too fast, man.",
+      "original_url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-08-22T20:36:49.242444+00:00"
     },
     {
       "tweet": "Israel just opened bids for more settlements in the West Bank. How are we still doing this?",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3401,
+    "total_posted": 3403,
     "total_collected": 15261
   },
-  "last_posted_at": "2026-08-22T23:16:37.110271+00:00"
+  "last_posted_at": "2026-08-22T23:41:17.350343+00:00"
 }
