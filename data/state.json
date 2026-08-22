@@ -2,50 +2,6 @@
   "last_collected": "2026-08-22T05:17:55.107065+00:00",
   "queue": [
     {
-      "tweet": "Trump is calling his sanctions an economic D-Day now. Everything is a movie to him.",
-      "original_url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-22T00:51:13.050583+00:00"
-    },
-    {
-      "tweet": "People are actually building tools just to stop Claude from talking like a BuzzFeed article. It’s about time.",
-      "original_url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Claudette: Make Claude stop talking like a BuzzFeed article",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-22T00:51:13.050202+00:00"
-    },
-    {
-      "tweet": "The FCC just banned the HoverAir drone. Can't have anything cool.",
-      "original_url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "HoverAir’s transforming modular drone has already been halted in the US",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-08-22T00:51:13.050956+00:00"
-    },
-    {
-      "tweet": "Did you see Fivio Foreign is doing Christian rap now? He said he doesn't want to put it in a category. Just rapping.",
-      "original_url": "https://www.billboard.com/music/rb-hip-hop/fivio-foreign-christian-rap-gospel-1236322293/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fivio Foreign Pivots to Christian Rap, But Don’t Call Him a Gospel Artist: ‘I Don’t Want to Put It in a Category’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-22T00:51:13.049633+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -79,6 +35,28 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "The FCC just banned the HoverAir drone. Can't have anything cool.",
+      "original_url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "HoverAir’s transforming modular drone has already been halted in the US",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-08-22T00:51:13.050956+00:00"
+    },
+    {
+      "tweet": "Did you see Fivio Foreign is doing Christian rap now? He said he doesn't want to put it in a category. Just rapping.",
+      "original_url": "https://www.billboard.com/music/rb-hip-hop/fivio-foreign-christian-rap-gospel-1236322293/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Fivio Foreign Pivots to Christian Rap, But Don’t Call Him a Gospel Artist: ‘I Don’t Want to Put It in a Category’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-08-22T00:51:13.049633+00:00"
+    },
+    {
       "tweet": "So apparently Canada is gonna match those tariffs dollar for dollar now. Just a complete mess.",
       "original_url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
       "buzz_score": 90,
@@ -99,17 +77,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Inner Mongolia is becoming the center of China’s AI boom. We're just feeding servers now.",
-      "original_url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Unlikely Place at the Center of China’s AI Boom",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-08-22T00:51:13.051218+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
@@ -662,15 +629,15 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Dolly Parton is still working and healing through that museum project. She's honestly the only person who doesn't seem to age.",
-      "original_url": "https://www.rollingstone.com/music/music-country/dolly-parton-health-update-museum-1235613307/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
+      "tweet": "Inner Mongolia is becoming the center of China’s AI boom. We're just feeding servers now.",
+      "original_url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Dolly Parton Shares Health Update With Fans: ‘I’m Still Healin,’ I’m Still Workin”",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-08-22T05:17:55.106524+00:00"
+      "original_title": "The Unlikely Place at the Center of China’s AI Boom",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-08-22T00:51:13.051218+00:00"
     },
     {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
@@ -871,6 +838,17 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
+      "tweet": "Dolly Parton is still working and healing through that museum project. She's honestly the only person who doesn't seem to age.",
+      "original_url": "https://www.rollingstone.com/music/music-country/dolly-parton-health-update-museum-1235613307/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Dolly Parton Shares Health Update With Fans: ‘I’m Still Healin,’ I’m Still Workin”",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-08-22T05:17:55.106524+00:00"
+    },
+    {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
       "original_url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
       "buzz_score": 85,
@@ -959,17 +937,6 @@
       "added_at": "2026-08-22T05:17:55.106302+00:00"
     },
     {
-      "tweet": "So apparently TikTok's paying 400 million to settle that child privacy thing. At this point it's just the cost of doing business to them.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-22T03:05:23.250993+00:00"
-    },
-    {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
       "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
       "buzz_score": 80,
@@ -990,6 +957,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
+      "tweet": "So apparently TikTok's paying 400 million to settle that child privacy thing. At this point it's just the cost of doing business to them.",
+      "original_url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-22T03:05:23.250993+00:00"
     },
     {
       "tweet": "Paredes just got hit with a 10-game ban for that World Cup final chaos. That is a massive suspension.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3371,
+    "total_posted": 3373,
     "total_collected": 15154
   },
-  "last_posted_at": "2026-08-22T05:27:51.667141+00:00"
+  "last_posted_at": "2026-08-22T05:54:41.681729+00:00"
 }
