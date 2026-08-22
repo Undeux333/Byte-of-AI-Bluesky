@@ -2,28 +2,6 @@
   "last_collected": "2026-08-22T03:05:23.252181+00:00",
   "queue": [
     {
-      "tweet": "Saw that 77-year-old lady walked nine miles on foot to get out of Lyman. That’s insane.",
-      "original_url": "https://www.nytimes.com/2026/08/21/world/europe/ukraine-lyman-donetsk-donbas-russia.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "At 77, She Walked 9 Miles Under Drone-Filled Skies to Escape From ‘Hell’",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-22T00:51:13.050458+00:00"
-    },
-    {
-      "tweet": "Russians are waiting in hours of fuel queues while Moscow gets ready for Flag Day. What even is the point.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-22T00:51:13.050332+00:00"
-    },
-    {
       "tweet": "So apparently there's a new game where you pet the dog and it hits you back with a sword. Finally.",
       "original_url": "https://kotaku.com/dog-souls-stray-dog-nobody-cares-annoucement-pc-game-steam-2000726752",
       "buzz_score": 85,
@@ -893,17 +871,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "So apparently TikTok's paying 400 million to settle that child privacy thing. At this point it's just the cost of doing business to them.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-22T03:05:23.250993+00:00"
-    },
-    {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
       "original_url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
       "buzz_score": 85,
@@ -948,26 +915,15 @@
       "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
-      "tweet": "Buckcherry's tour bus got caught in a wreck that ended in a fatality. That is just brutal, man.",
-      "original_url": "https://www.rollingstone.com/music/music-news/buckcherry-car-crash-south-carolina-1235613285/",
-      "buzz_score": 80,
+      "tweet": "So apparently TikTok's paying 400 million to settle that child privacy thing. At this point it's just the cost of doing business to them.",
+      "original_url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Buckcherry Members ‘Unharmed’ After Tour Bus Involved in Tragic ‘Multi-Vehicle Accident’",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "added_at": "2026-08-22T03:05:23.251832+00:00"
-    },
-    {
-      "tweet": "People are still debating Harry and Meghan's return like it actually changes anything. Do we really care this much?",
-      "original_url": "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-royal-return-public-opinion.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘They’re Always Going to Be Polarizing’: Britons Split on Harry and Meghan’s Return",
-      "source": "NYT World",
+      "original_title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "source": "BBC World",
       "category": "world",
-      "added_at": "2026-08-22T03:05:23.251370+00:00"
+      "added_at": "2026-08-22T03:05:23.250993+00:00"
     },
     {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
@@ -990,6 +946,28 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
+      "tweet": "Buckcherry's tour bus got caught in a wreck that ended in a fatality. That is just brutal, man.",
+      "original_url": "https://www.rollingstone.com/music/music-news/buckcherry-car-crash-south-carolina-1235613285/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Buckcherry Members ‘Unharmed’ After Tour Bus Involved in Tragic ‘Multi-Vehicle Accident’",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "added_at": "2026-08-22T03:05:23.251832+00:00"
+    },
+    {
+      "tweet": "People are still debating Harry and Meghan's return like it actually changes anything. Do we really care this much?",
+      "original_url": "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-royal-return-public-opinion.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘They’re Always Going to Be Polarizing’: Britons Split on Harry and Meghan’s Return",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-22T03:05:23.251370+00:00"
     },
     {
       "tweet": "So the new space policy is just about building more launch sites on federal land. We're really just paving the wilderness for spaceports now.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3365,
+    "total_posted": 3367,
     "total_collected": 15138
   },
-  "last_posted_at": "2026-08-22T04:02:38.534133+00:00"
+  "last_posted_at": "2026-08-22T04:29:55.959247+00:00"
 }
