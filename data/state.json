@@ -607,17 +607,6 @@
       "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
-      "tweet": "Beatty is actually fighting to keep Trump's name off the Kennedy Center. Does that building have anything better to do",
-      "original_url": "https://www.npr.org/2026/08/21/nx-s1-5940799/kennedy-center-president-trump-filing",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-22T07:42:46.717860+00:00"
-    },
-    {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
       "original_url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
       "buzz_score": 88,
@@ -805,6 +794,17 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
+      "tweet": "Beatty is actually fighting to keep Trump's name off the Kennedy Center. Does that building have anything better to do",
+      "original_url": "https://www.npr.org/2026/08/21/nx-s1-5940799/kennedy-center-president-trump-filing",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-22T07:42:46.717860+00:00"
+    },
+    {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
       "original_url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
       "buzz_score": 85,
@@ -871,28 +871,6 @@
       "added_at": "2026-08-22T00:51:13.049633+00:00"
     },
     {
-      "tweet": "So apparently Canada is gonna match those tariffs dollar for dollar now. Just a complete mess.",
-      "original_url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Canada vows to match Trump’s 50% tariffs after trade deal talks fail",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-22T05:17:55.106306+00:00"
-    },
-    {
-      "tweet": "So people in India are out here literally strapping cameras to their bodies to train AI. Turns out the future is just us doing all the work.",
-      "original_url": "https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The A.I.-Robotics Job Only a Human Can Do",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-22T07:42:46.717858+00:00"
-    },
-    {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
       "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
       "buzz_score": 80,
@@ -913,6 +891,28 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
+      "tweet": "So apparently Canada is gonna match those tariffs dollar for dollar now. Just a complete mess.",
+      "original_url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Canada vows to match Trump’s 50% tariffs after trade deal talks fail",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-22T05:17:55.106306+00:00"
+    },
+    {
+      "tweet": "So people in India are out here literally strapping cameras to their bodies to train AI. Turns out the future is just us doing all the work.",
+      "original_url": "https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The A.I.-Robotics Job Only a Human Can Do",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-22T07:42:46.717858+00:00"
     },
     {
       "tweet": "Everyone's pinning their hopes on that Marvel Tōkon game after the year's been a disaster for fighters. Man, that's a lot of pressure.",
