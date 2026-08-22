@@ -2,28 +2,6 @@
   "last_collected": "2026-08-22T03:05:23.252181+00:00",
   "queue": [
     {
-      "tweet": "So apparently there's a new game where you pet the dog and it hits you back with a sword. Finally.",
-      "original_url": "https://kotaku.com/dog-souls-stray-dog-nobody-cares-annoucement-pc-game-steam-2000726752",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "In This Soulslike, The Dog Will Pet You Back…With A Sword",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-22T00:51:13.049932+00:00"
-    },
-    {
-      "tweet": "Dude, did you know there's a library that actually sits right on the U.S.-Canada border. You can walk through the front door in Vermont and end up in Quebec. Total glitch.",
-      "original_url": "https://www.mentalfloss.com/geography/complicated-places-us-canada-border?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "6 Strange Places Where the U.S.-Canada Border Gets Complicated",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-22T03:05:23.250986+00:00"
-    },
-    {
       "tweet": "Trump is calling his sanctions an economic D-Day now. Everything is a movie to him.",
       "original_url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
       "buzz_score": 80,
@@ -68,17 +46,6 @@
       "added_at": "2026-08-22T00:51:13.049633+00:00"
     },
     {
-      "tweet": "Inner Mongolia is becoming the center of China’s AI boom. We're just feeding servers now.",
-      "original_url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Unlikely Place at the Center of China’s AI Boom",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-08-22T00:51:13.051218+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -110,6 +77,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Inner Mongolia is becoming the center of China’s AI boom. We're just feeding servers now.",
+      "original_url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Unlikely Place at the Center of China’s AI Boom",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-08-22T00:51:13.051218+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -1996,8 +1974,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3367,
+    "total_posted": 3369,
     "total_collected": 15138
   },
-  "last_posted_at": "2026-08-22T04:29:55.959247+00:00"
+  "last_posted_at": "2026-08-22T05:01:50.436060+00:00"
 }
