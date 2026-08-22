@@ -2,28 +2,6 @@
   "last_collected": "2026-08-22T18:14:46.062729+00:00",
   "queue": [
     {
-      "tweet": "Marvel Snap finally dropping Draft mode on Monday. We've been asking for this for years.",
-      "original_url": "https://www.polygon.com/marvel-snap-draft-mode/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Marvel's Best Mobile Game Is About To Get Its Most Requested Feature",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-22T18:14:46.061537+00:00"
-    },
-    {
-      "tweet": "BigXthaPlug getting hit with charges again exactly a year later. Man just cannot stay out of his own way.",
-      "original_url": "https://www.billboard.com/music/music-news/bigxthaplug-arrested-texas-drug-gun-charges-1236322443/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "BigXthaPlug Faces Drug and Gun Charges One Year After Last Arrest",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-22T18:14:46.061382+00:00"
-    },
-    {
       "tweet": "Did you see people are out here writing a literal Kantian critique of a Justin Bieber song? We're honestly just bored as hell.",
       "original_url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
       "buzz_score": 75,
@@ -970,28 +948,6 @@
       "added_at": "2026-08-22T18:14:46.061389+00:00"
     },
     {
-      "tweet": "Carney calling Trump's tariffs a total miscalculation now. Tough spot to be in",
-      "original_url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-22T16:10:37.369541+00:00"
-    },
-    {
-      "tweet": "Dude, Japan is rolling out walk-in human fridges to deal with heatwaves. Honestly, I'd pay for that",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/walk-in-human-fridges-are-japans-newest-heatwave-weapon?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Walk-In “Human Fridges” are Japan’s newest heatwave weapon",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-22T16:10:37.368643+00:00"
-    },
-    {
       "tweet": "The FCC just banned the HoverAir drone. Can't have anything cool.",
       "original_url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
       "buzz_score": 75,
@@ -1012,6 +968,28 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-22T00:51:13.049633+00:00"
+    },
+    {
+      "tweet": "Carney calling Trump's tariffs a total miscalculation now. Tough spot to be in",
+      "original_url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-22T16:10:37.369541+00:00"
+    },
+    {
+      "tweet": "Dude, Japan is rolling out walk-in human fridges to deal with heatwaves. Honestly, I'd pay for that",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/walk-in-human-fridges-are-japans-newest-heatwave-weapon?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Walk-In “Human Fridges” are Japan’s newest heatwave weapon",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-22T16:10:37.368643+00:00"
     },
     {
       "tweet": "Saw a map of everyone's favorite coffee drink by state. We’re all just caffeinated.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3391,
+    "total_posted": 3393,
     "total_collected": 15234
   },
-  "last_posted_at": "2026-08-22T18:20:37.739552+00:00"
+  "last_posted_at": "2026-08-22T18:55:21.338351+00:00"
 }
