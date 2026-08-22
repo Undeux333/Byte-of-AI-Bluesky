@@ -860,28 +860,6 @@
       "added_at": "2026-08-18T20:37:36.628177+00:00"
     },
     {
-      "tweet": "Caught the news about that double-tap strike on the mall in Ukraine. It's crazy that this is just the reality for them now.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-22T09:48:21.120023+00:00"
-    },
-    {
-      "tweet": "Riot Games just pulled the plug on 2XKO and everyone’s losing it. Of course they killed the one thing people actually wanted to play.",
-      "original_url": "https://www.polygon.com/riot-games-2xko-cancellation-reactions/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "League of Legends Spinoff Cancellation Leaves Players Fuming",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-22T09:48:21.119591+00:00"
-    },
-    {
       "tweet": "The FCC just banned the HoverAir drone. Can't have anything cool.",
       "original_url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
       "buzz_score": 75,
@@ -902,6 +880,28 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-22T00:51:13.049633+00:00"
+    },
+    {
+      "tweet": "Caught the news about that double-tap strike on the mall in Ukraine. It's crazy that this is just the reality for them now.",
+      "original_url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-22T09:48:21.120023+00:00"
+    },
+    {
+      "tweet": "Riot Games just pulled the plug on 2XKO and everyone’s losing it. Of course they killed the one thing people actually wanted to play.",
+      "original_url": "https://www.polygon.com/riot-games-2xko-cancellation-reactions/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "League of Legends Spinoff Cancellation Leaves Players Fuming",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-22T09:48:21.119591+00:00"
     },
     {
       "tweet": "Beatty is actually fighting to keep Trump's name off the Kennedy Center. Does that building have anything better to do",
