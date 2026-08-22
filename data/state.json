@@ -2,17 +2,6 @@
   "last_collected": "2026-08-22T18:14:46.062729+00:00",
   "queue": [
     {
-      "tweet": "Did you see people are out here writing a literal Kantian critique of a Justin Bieber song? We're honestly just bored as hell.",
-      "original_url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-22T18:14:46.061374+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -2018,8 +2007,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3393,
+    "total_posted": 3394,
     "total_collected": 15234
   },
-  "last_posted_at": "2026-08-22T18:55:21.338351+00:00"
+  "last_posted_at": "2026-08-22T19:14:11.197909+00:00"
 }
