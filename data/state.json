@@ -915,6 +915,17 @@
       "added_at": "2026-08-22T00:51:13.049633+00:00"
     },
     {
+      "tweet": "Inner Mongolia is becoming the center of China’s AI boom. We're just feeding servers now.",
+      "original_url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Unlikely Place at the Center of China’s AI Boom",
+      "source": "Wired",
+      "category": "tech",
+      "added_at": "2026-08-22T00:51:13.051218+00:00"
+    },
+    {
       "tweet": "So apparently Canada is gonna match those tariffs dollar for dollar now. Just a complete mess.",
       "original_url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
       "buzz_score": 90,
@@ -935,17 +946,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-08-22T07:42:46.717858+00:00"
-    },
-    {
-      "tweet": "Inner Mongolia is becoming the center of China’s AI boom. We're just feeding servers now.",
-      "original_url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Unlikely Place at the Center of China’s AI Boom",
-      "source": "Wired",
-      "category": "tech",
-      "added_at": "2026-08-22T00:51:13.051218+00:00"
     },
     {
       "tweet": "Someone built a Rust LSP that uses 100x less RAM. Finally, my laptop might actually stop sounding like a jet engine.",
