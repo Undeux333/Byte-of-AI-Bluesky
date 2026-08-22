@@ -2,28 +2,6 @@
   "last_collected": "2026-08-22T03:05:23.252181+00:00",
   "queue": [
     {
-      "tweet": "Kaja Kallas is calling that shopping centre strike in Ukraine terror by design. Watching global powers just trade threats while cities get leveled is something else.",
-      "original_url": "https://www.theguardian.com/world/2026/aug/22/ukraine-shopping-centre-attack-deaths-russia-terror-by-design-kaja-kallas-kryvyi-rih",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-22T03:05:23.251000+00:00"
-    },
-    {
-      "tweet": "Watching that Tupac trial unfold is surreal. It’s been nearly 30 years and we’re still digging up police tapes for this.",
-      "original_url": "https://www.billboard.com/pro/tupac-murder-trial-week-1-recap/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Tupac Murder Trial Week 1 Recap: An ‘Act of Revenge,’ Heated Testimony & Police Tapes",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-22T03:05:23.250996+00:00"
-    },
-    {
       "tweet": "Saw that 77-year-old lady walked nine miles on foot to get out of Lyman. That’s insane.",
       "original_url": "https://www.nytimes.com/2026/08/21/world/europe/ukraine-lyman-donetsk-donbas-russia.html",
       "buzz_score": 85,
@@ -717,17 +695,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "So apparently TikTok's paying 400 million to settle that child privacy thing. At this point it's just the cost of doing business to them.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-22T03:05:23.250993+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -924,6 +891,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "So apparently TikTok's paying 400 million to settle that child privacy thing. At this point it's just the cost of doing business to them.",
+      "original_url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-22T03:05:23.250993+00:00"
     },
     {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3363,
+    "total_posted": 3365,
     "total_collected": 15138
   },
-  "last_posted_at": "2026-08-22T03:10:43.009515+00:00"
+  "last_posted_at": "2026-08-22T04:02:38.534133+00:00"
 }
