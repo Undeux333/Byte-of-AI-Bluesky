@@ -2,28 +2,6 @@
   "last_collected": "2026-08-22T16:10:37.370280+00:00",
   "queue": [
     {
-      "tweet": "Did you see AI companies are just straight up destroying physical books now? They're scanning them to train models and then tossing the originals. That's just wild",
-      "original_url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-22T16:10:37.368637+00:00"
-    },
-    {
-      "tweet": "Destiny 2 is basically dead and people are losing their actual third space. We really just live in our games now",
-      "original_url": "https://www.polygon.com/destiny-2-live-service-end-mactics-interview/",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Destiny 2's Slow, Painful Death Removes a Critical Third Space for Gamers",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-22T16:10:37.368931+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -893,28 +871,6 @@
       "added_at": "2026-08-22T16:10:37.368805+00:00"
     },
     {
-      "tweet": "These guys are actually coercing women into OnlyFans content now. Domestic abuse is just getting more digital.",
-      "original_url": "https://www.theguardian.com/society/2026/aug/22/two-uk-men-convicted-explicit-content-onlyfans-without-consent",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Abusers coercing or duping women to post explicit OnlyFans content, UK court cases reveal",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-22T13:57:25.826240+00:00"
-    },
-    {
-      "tweet": "So apparently China is building literal robot horses now. We’re just living in a shitty sci-fi movie at this point.",
-      "original_url": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Robot horse and rider steal the spotlight at Chinese conference",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-22T13:57:25.826234+00:00"
-    },
-    {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
       "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
       "buzz_score": 80,
@@ -937,6 +893,28 @@
       "added_at": "2026-08-18T20:37:36.628177+00:00"
     },
     {
+      "tweet": "These guys are actually coercing women into OnlyFans content now. Domestic abuse is just getting more digital.",
+      "original_url": "https://www.theguardian.com/society/2026/aug/22/two-uk-men-convicted-explicit-content-onlyfans-without-consent",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Abusers coercing or duping women to post explicit OnlyFans content, UK court cases reveal",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-22T13:57:25.826240+00:00"
+    },
+    {
+      "tweet": "So apparently China is building literal robot horses now. We’re just living in a shitty sci-fi movie at this point.",
+      "original_url": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Robot horse and rider steal the spotlight at Chinese conference",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-22T13:57:25.826234+00:00"
+    },
+    {
       "tweet": "Norris just grabbed pole at Zandvoort right before the rain started. Man, that was close",
       "original_url": "https://www.bbc.co.uk/sport/formula1/articles/cgr7rwqyn0xo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -946,6 +924,28 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-08-22T16:10:37.369676+00:00"
+    },
+    {
+      "tweet": "The FCC just banned the HoverAir drone. Can't have anything cool.",
+      "original_url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "HoverAir’s transforming modular drone has already been halted in the US",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-08-22T00:51:13.050956+00:00"
+    },
+    {
+      "tweet": "Did you see Fivio Foreign is doing Christian rap now? He said he doesn't want to put it in a category. Just rapping.",
+      "original_url": "https://www.billboard.com/music/rb-hip-hop/fivio-foreign-christian-rap-gospel-1236322293/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Fivio Foreign Pivots to Christian Rap, But Don’t Call Him a Gospel Artist: ‘I Don’t Want to Put It in a Category’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-08-22T00:51:13.049633+00:00"
     },
     {
       "tweet": "Karol G and Maluma are actually pulling together for that Colombia earthquake relief. Good for them",
@@ -990,28 +990,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-22T13:57:25.826238+00:00"
-    },
-    {
-      "tweet": "The FCC just banned the HoverAir drone. Can't have anything cool.",
-      "original_url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "HoverAir’s transforming modular drone has already been halted in the US",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-08-22T00:51:13.050956+00:00"
-    },
-    {
-      "tweet": "Did you see Fivio Foreign is doing Christian rap now? He said he doesn't want to put it in a category. Just rapping.",
-      "original_url": "https://www.billboard.com/music/rb-hip-hop/fivio-foreign-christian-rap-gospel-1236322293/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fivio Foreign Pivots to Christian Rap, But Don’t Call Him a Gospel Artist: ‘I Don’t Want to Put It in a Category’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-22T00:51:13.049633+00:00"
     },
     {
       "tweet": "That MLB catcher Jake Rogers has been traded like four times this month. My guy has no neighborhood.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3387,
+    "total_posted": 3389,
     "total_collected": 15218
   },
-  "last_posted_at": "2026-08-22T16:20:19.466028+00:00"
+  "last_posted_at": "2026-08-22T16:44:22.602813+00:00"
 }
