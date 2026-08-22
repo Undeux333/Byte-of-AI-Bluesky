@@ -794,28 +794,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "These guys are actually coercing women into OnlyFans content now. Domestic abuse is just getting more digital.",
-      "original_url": "https://www.theguardian.com/society/2026/aug/22/two-uk-men-convicted-explicit-content-onlyfans-without-consent",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Abusers coercing or duping women to post explicit OnlyFans content, UK court cases reveal",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-22T13:57:25.826240+00:00"
-    },
-    {
-      "tweet": "So apparently China is building literal robot horses now. We’re just living in a shitty sci-fi movie at this point.",
-      "original_url": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Robot horse and rider steal the spotlight at Chinese conference",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-22T13:57:25.826234+00:00"
-    },
-    {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
       "original_url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
       "buzz_score": 85,
@@ -860,6 +838,50 @@
       "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
+      "tweet": "These guys are actually coercing women into OnlyFans content now. Domestic abuse is just getting more digital.",
+      "original_url": "https://www.theguardian.com/society/2026/aug/22/two-uk-men-convicted-explicit-content-onlyfans-without-consent",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Abusers coercing or duping women to post explicit OnlyFans content, UK court cases reveal",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-22T13:57:25.826240+00:00"
+    },
+    {
+      "tweet": "So apparently China is building literal robot horses now. We’re just living in a shitty sci-fi movie at this point.",
+      "original_url": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Robot horse and rider steal the spotlight at Chinese conference",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-22T13:57:25.826234+00:00"
+    },
+    {
+      "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
+      "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Embattled Florida Republican Rep. Cory Mills fights to keep his House seat",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-18T20:37:36.628322+00:00"
+    },
+    {
+      "tweet": "Man, Frank Beard from ZZ Top passed away. An absolute legend, seventy-seven is a hell of a run tho",
+      "original_url": "https://www.billboard.com/music/rock/frank-beard-dead-zz-top-drummer-1236319162/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Frank Beard, ZZ Top Drummer, Dies at 77",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
       "tweet": "Amazon just bumped prices on Kindles and Echos by like 60 percent. They’re really just testing how much we’ll put up with.",
       "original_url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
       "buzz_score": 80,
@@ -893,26 +915,26 @@
       "added_at": "2026-08-22T13:57:25.826238+00:00"
     },
     {
-      "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
-      "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
-      "buzz_score": 80,
+      "tweet": "The FCC just banned the HoverAir drone. Can't have anything cool.",
+      "original_url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+      "buzz_score": 75,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Embattled Florida Republican Rep. Cory Mills fights to keep his House seat",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-18T20:37:36.628322+00:00"
+      "original_title": "HoverAir’s transforming modular drone has already been halted in the US",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-08-22T00:51:13.050956+00:00"
     },
     {
-      "tweet": "Man, Frank Beard from ZZ Top passed away. An absolute legend, seventy-seven is a hell of a run tho",
-      "original_url": "https://www.billboard.com/music/rock/frank-beard-dead-zz-top-drummer-1236319162/",
-      "buzz_score": 80,
+      "tweet": "Did you see Fivio Foreign is doing Christian rap now? He said he doesn't want to put it in a category. Just rapping.",
+      "original_url": "https://www.billboard.com/music/rb-hip-hop/fivio-foreign-christian-rap-gospel-1236322293/",
+      "buzz_score": 75,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Frank Beard, ZZ Top Drummer, Dies at 77",
+      "original_title": "Fivio Foreign Pivots to Christian Rap, But Don’t Call Him a Gospel Artist: ‘I Don’t Want to Put It in a Category’",
       "source": "Billboard",
       "category": "entertainment",
-      "added_at": "2026-08-18T20:37:36.628177+00:00"
+      "added_at": "2026-08-22T00:51:13.049633+00:00"
     },
     {
       "tweet": "That MLB catcher Jake Rogers has been traded like four times this month. My guy has no neighborhood.",
@@ -935,28 +957,6 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-08-22T13:57:25.826684+00:00"
-    },
-    {
-      "tweet": "The FCC just banned the HoverAir drone. Can't have anything cool.",
-      "original_url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "HoverAir’s transforming modular drone has already been halted in the US",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-08-22T00:51:13.050956+00:00"
-    },
-    {
-      "tweet": "Did you see Fivio Foreign is doing Christian rap now? He said he doesn't want to put it in a category. Just rapping.",
-      "original_url": "https://www.billboard.com/music/rb-hip-hop/fivio-foreign-christian-rap-gospel-1236322293/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fivio Foreign Pivots to Christian Rap, But Don’t Call Him a Gospel Artist: ‘I Don’t Want to Put It in a Category’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-22T00:51:13.049633+00:00"
     },
     {
       "tweet": "Inner Mongolia is becoming the center of China’s AI boom. We're just feeding servers now.",
