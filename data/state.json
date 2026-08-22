@@ -838,28 +838,6 @@
       "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
-      "tweet": "Carney calling Trump's tariffs a total miscalculation now. Tough spot to be in",
-      "original_url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-22T16:10:37.369541+00:00"
-    },
-    {
-      "tweet": "Dude, Japan is rolling out walk-in human fridges to deal with heatwaves. Honestly, I'd pay for that",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/walk-in-human-fridges-are-japans-newest-heatwave-weapon?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Walk-In “Human Fridges” are Japan’s newest heatwave weapon",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-22T16:10:37.368643+00:00"
-    },
-    {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
       "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
       "buzz_score": 80,
@@ -880,6 +858,28 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
+      "tweet": "Carney calling Trump's tariffs a total miscalculation now. Tough spot to be in",
+      "original_url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-22T16:10:37.369541+00:00"
+    },
+    {
+      "tweet": "Dude, Japan is rolling out walk-in human fridges to deal with heatwaves. Honestly, I'd pay for that",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/walk-in-human-fridges-are-japans-newest-heatwave-weapon?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Walk-In “Human Fridges” are Japan’s newest heatwave weapon",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-22T16:10:37.368643+00:00"
     },
     {
       "tweet": "So apparently there's an agent now that lets you run an office full of your own clones. That's pure nightmare fuel",
@@ -915,17 +915,6 @@
       "added_at": "2026-08-22T13:57:25.826234+00:00"
     },
     {
-      "tweet": "Norris just grabbed pole at Zandvoort right before the rain started. Man, that was close",
-      "original_url": "https://www.bbc.co.uk/sport/formula1/articles/cgr7rwqyn0xo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Norris beats Russell to pole position at Zandvoort",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-22T16:10:37.369676+00:00"
-    },
-    {
       "tweet": "The FCC just banned the HoverAir drone. Can't have anything cool.",
       "original_url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
       "buzz_score": 75,
@@ -946,6 +935,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-22T00:51:13.049633+00:00"
+    },
+    {
+      "tweet": "Norris just grabbed pole at Zandvoort right before the rain started. Man, that was close",
+      "original_url": "https://www.bbc.co.uk/sport/formula1/articles/cgr7rwqyn0xo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Norris beats Russell to pole position at Zandvoort",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-22T16:10:37.369676+00:00"
     },
     {
       "tweet": "Karol G and Maluma are actually pulling together for that Colombia earthquake relief. Good for them",
