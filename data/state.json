@@ -849,28 +849,6 @@
       "added_at": "2026-08-22T20:36:49.242444+00:00"
     },
     {
-      "tweet": "Israel just opened bids for more settlements in the West Bank. How are we still doing this?",
-      "original_url": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Why is Israel building new illegal settlements?",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-22T20:36:49.243293+00:00"
-    },
-    {
-      "tweet": "Watching Tottenham get dismantled by Brentford on day one is honestly a masterclass. Roberto De Zerbi has some work to do. Rough.",
-      "original_url": "https://www.bbc.co.uk/sport/football/videos/cqx75yq28rwo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Brentford beat lacklustre Spurs in comfortable opening day win",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-22T20:36:49.242263+00:00"
-    },
-    {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
       "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
       "buzz_score": 80,
@@ -893,6 +871,28 @@
       "added_at": "2026-08-18T20:37:36.628177+00:00"
     },
     {
+      "tweet": "Israel just opened bids for more settlements in the West Bank. How are we still doing this?",
+      "original_url": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Why is Israel building new illegal settlements?",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-22T20:36:49.243293+00:00"
+    },
+    {
+      "tweet": "Watching Tottenham get dismantled by Brentford on day one is honestly a masterclass. Roberto De Zerbi has some work to do. Rough.",
+      "original_url": "https://www.bbc.co.uk/sport/football/videos/cqx75yq28rwo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Brentford beat lacklustre Spurs in comfortable opening day win",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-22T20:36:49.242263+00:00"
+    },
+    {
       "tweet": "Olivia Rodrigo is dropping Handmaid’s Tale themed CDs at random indie shops now. The marketing is getting kind of intense.",
       "original_url": "https://www.billboard.com/music/music-news/olivia-rodrigo-serena-joy-cd-single-indie-record-store-1236322505/",
       "buzz_score": 78,
@@ -902,28 +902,6 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-22T20:36:49.242935+00:00"
-    },
-    {
-      "tweet": "Iran finally gave Iraq the green light to move some tankers through Hormuz. At least one thing isn't catching fire today.",
-      "original_url": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-22T20:36:49.243174+00:00"
-    },
-    {
-      "tweet": "Saw the new Golden Axe show and it just looks exactly like every other generic animated series. Where is the soul?",
-      "original_url": "https://kotaku.com/fans-dismayed-golden-axe-animated-streaming-series-resembles-every-animated-streaming-series-2000727055",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Fans Dismayed Golden Axe Animated Streaming Series Resembles Every Animated Streaming Series",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-22T20:36:49.242272+00:00"
     },
     {
       "tweet": "The FCC just banned the HoverAir drone. Can't have anything cool.",
@@ -946,6 +924,28 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-22T00:51:13.049633+00:00"
+    },
+    {
+      "tweet": "Iran finally gave Iraq the green light to move some tankers through Hormuz. At least one thing isn't catching fire today.",
+      "original_url": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-22T20:36:49.243174+00:00"
+    },
+    {
+      "tweet": "Saw the new Golden Axe show and it just looks exactly like every other generic animated series. Where is the soul?",
+      "original_url": "https://kotaku.com/fans-dismayed-golden-axe-animated-streaming-series-resembles-every-animated-streaming-series-2000727055",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Fans Dismayed Golden Axe Animated Streaming Series Resembles Every Animated Streaming Series",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-22T20:36:49.242272+00:00"
     },
     {
       "tweet": "Japan is having a full-blown gold rush just to see which city gets to be the backup capital. Seems slightly desperate.",
