@@ -2,17 +2,6 @@
   "last_collected": "2026-08-23T15:55:46.364307+00:00",
   "queue": [
     {
-      "tweet": "Scientists found a way to burn fat without losing muscle in mice. We’re finally living in the future.",
-      "original_url": "https://www.sciencedaily.com/releases/2026/08/260823014953.htm",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Experimental compound helps burn fat without muscle loss",
-      "source": "ScienceDaily",
-      "category": "science",
-      "added_at": "2026-08-23T15:55:46.364180+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -2018,8 +2007,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3432,
+    "total_posted": 3433,
     "total_collected": 15369
   },
-  "last_posted_at": "2026-08-23T16:19:49.369078+00:00"
+  "last_posted_at": "2026-08-23T16:40:34.052275+00:00"
 }
