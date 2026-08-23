@@ -2,17 +2,6 @@
   "last_collected": "2026-08-23T02:12:44.647599+00:00",
   "queue": [
     {
-      "tweet": "Dale Morris died, man. He was the guy behind Alabama and Kenny Chesney. Absolute legend of that Nashville scene. Gone.",
-      "original_url": "https://variety.com/2026/music/obituaries-people-news/dale-morris-dead-manager-kenny-chesney-alabama-1236840866/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-08-22T22:56:13.480768+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -44,6 +33,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Dale Morris died, man. He was the guy behind Alabama and Kenny Chesney. Absolute legend of that Nashville scene. Gone.",
+      "original_url": "https://variety.com/2026/music/obituaries-people-news/dale-morris-dead-manager-kenny-chesney-alabama-1236840866/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-08-22T22:56:13.480768+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -607,28 +607,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Tehran is out here threatening any neighbor that joins the US. How is this still real life.",
-      "original_url": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran war live: Tehran warns neighbours against joining US economic war",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-23T02:12:44.646732+00:00"
-    },
-    {
-      "tweet": "Carney is really trying to stand up to Trump in this trade war. That's a bold strategy.",
-      "original_url": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Carney Stands Up to Trump in U.S.-Canada Trade War",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-23T02:12:44.646727+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -825,6 +803,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "Tehran is out here threatening any neighbor that joins the US. How is this still real life.",
+      "original_url": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iran war live: Tehran warns neighbours against joining US economic war",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-23T02:12:44.646732+00:00"
+    },
+    {
+      "tweet": "Carney is really trying to stand up to Trump in this trade war. That's a bold strategy.",
+      "original_url": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Carney Stands Up to Trump in U.S.-Canada Trade War",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-23T02:12:44.646727+00:00"
     },
     {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
