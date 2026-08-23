@@ -2,28 +2,6 @@
   "last_collected": "2026-08-23T04:36:44.301125+00:00",
   "queue": [
     {
-      "tweet": "Did you see the Sydney Marathon is handing out medals with a German stadium on them? Like, thousands of people finished the race just to get a souvenir for the wrong country. Rough.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-23T04:36:44.299332+00:00"
-    },
-    {
-      "tweet": "That sci-fi movie everyone talks about is finally free to stream. You know we're definitely gonna waste our whole Sunday watching that instead of being productive.",
-      "original_url": "https://www.polygon.com/best-cosmic-sci-fi-thriller-free-streaming/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "29 Years Later, the Best Cosmic Sci-Fi Thriller of All Time Is Officially Free To Stream",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-23T04:36:44.299625+00:00"
-    },
-    {
       "tweet": "Rob Reiner says a specific scene from Stand by Me hit way too close to home. Sometimes the art just knows what you're dealing with.",
       "original_url": "https://www.mentalfloss.com/entertainment/movies/stand-by-me-scene-rob-reiner-said-hit-close-to-home?utm_source=RSS",
       "buzz_score": 75,
@@ -838,17 +816,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Dale Morris died, man. He was the guy behind Alabama and Kenny Chesney. Absolute legend of that Nashville scene. Gone.",
-      "original_url": "https://variety.com/2026/music/obituaries-people-news/dale-morris-dead-manager-kenny-chesney-alabama-1236840866/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-08-22T22:56:13.480768+00:00"
-    },
-    {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
       "original_url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
       "buzz_score": 85,
@@ -891,6 +858,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-08-14T16:13:56.122982+00:00"
+    },
+    {
+      "tweet": "Dale Morris died, man. He was the guy behind Alabama and Kenny Chesney. Absolute legend of that Nashville scene. Gone.",
+      "original_url": "https://variety.com/2026/music/obituaries-people-news/dale-morris-dead-manager-kenny-chesney-alabama-1236840866/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-08-22T22:56:13.480768+00:00"
     },
     {
       "tweet": "Simon Wiesenthal Center is calling out Mark Ruffalo for all that stuff he said. Guess we're doing this again.",
@@ -981,6 +959,17 @@
       "added_at": "2026-08-23T04:36:44.299341+00:00"
     },
     {
+      "tweet": "The FCC just banned the HoverAir drone. Can't have anything cool.",
+      "original_url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "HoverAir’s transforming modular drone has already been halted in the US",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-08-22T00:51:13.050956+00:00"
+    },
+    {
       "tweet": "So Harry and Meghan are moving back and the kids might go to school in England. Like, could they just leave these people alone?",
       "original_url": "https://www.nytimes.com/2026/08/22/world/europe/harry-meghan-children-schools.html",
       "buzz_score": 72,
@@ -1001,17 +990,6 @@
       "source": "TechCrunch",
       "category": "tech",
       "added_at": "2026-08-23T04:36:44.299749+00:00"
-    },
-    {
-      "tweet": "The FCC just banned the HoverAir drone. Can't have anything cool.",
-      "original_url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "HoverAir’s transforming modular drone has already been halted in the US",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-08-22T00:51:13.050956+00:00"
     },
     {
       "tweet": "Everyone's talking about why their local LLM feels dumber lately. We're all just over-prompting at this point.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3411,
+    "total_posted": 3413,
     "total_collected": 15293
   },
-  "last_posted_at": "2026-08-23T04:42:48.227061+00:00"
+  "last_posted_at": "2026-08-23T05:12:45.783169+00:00"
 }
