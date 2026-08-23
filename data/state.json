@@ -35,17 +35,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Dale Morris died, man. He was the guy behind Alabama and Kenny Chesney. Absolute legend of that Nashville scene. Gone.",
-      "original_url": "https://variety.com/2026/music/obituaries-people-news/dale-morris-dead-manager-kenny-chesney-alabama-1236840866/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-08-22T22:56:13.480768+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -607,6 +596,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Dale Morris died, man. He was the guy behind Alabama and Kenny Chesney. Absolute legend of that Nashville scene. Gone.",
+      "original_url": "https://variety.com/2026/music/obituaries-people-news/dale-morris-dead-manager-kenny-chesney-alabama-1236840866/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-08-22T22:56:13.480768+00:00"
+    },
+    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -805,28 +805,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Tehran is out here threatening any neighbor that joins the US. How is this still real life.",
-      "original_url": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran war live: Tehran warns neighbours against joining US economic war",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-23T02:12:44.646732+00:00"
-    },
-    {
-      "tweet": "Carney is really trying to stand up to Trump in this trade war. That's a bold strategy.",
-      "original_url": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Carney Stands Up to Trump in U.S.-Canada Trade War",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-23T02:12:44.646727+00:00"
-    },
-    {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
       "original_url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
       "buzz_score": 85,
@@ -871,26 +849,26 @@
       "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
-      "tweet": "Everyone's talking about why their local LLM feels dumber lately. We're all just over-prompting at this point.",
-      "original_url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "buzz_score": 80,
+      "tweet": "Tehran is out here threatening any neighbor that joins the US. How is this still real life.",
+      "original_url": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Why your local LLM feels dumber than it is",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-23T02:12:44.646720+00:00"
+      "original_title": "Iran war live: Tehran warns neighbours against joining US economic war",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-23T02:12:44.646732+00:00"
     },
     {
-      "tweet": "Shearer calling out Man Utd for not looking fit at all. They're literally professional athletes.",
-      "original_url": "https://www.bbc.co.uk/sport/football/videos/clyqylwkl2no?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
+      "tweet": "Carney is really trying to stand up to Trump in this trade war. That's a bold strategy.",
+      "original_url": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "'They just didn't look fit at all' - Shearer on Man Utd",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-23T02:12:44.646708+00:00"
+      "original_title": "Carney Stands Up to Trump in U.S.-Canada Trade War",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-23T02:12:44.646727+00:00"
     },
     {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
@@ -913,6 +891,28 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
+      "tweet": "Everyone's talking about why their local LLM feels dumber lately. We're all just over-prompting at this point.",
+      "original_url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Why your local LLM feels dumber than it is",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-08-23T02:12:44.646720+00:00"
+    },
+    {
+      "tweet": "Shearer calling out Man Utd for not looking fit at all. They're literally professional athletes.",
+      "original_url": "https://www.bbc.co.uk/sport/football/videos/clyqylwkl2no?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "'They just didn't look fit at all' - Shearer on Man Utd",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-23T02:12:44.646708+00:00"
     },
     {
       "tweet": "The FCC just banned the HoverAir drone. Can't have anything cool.",
