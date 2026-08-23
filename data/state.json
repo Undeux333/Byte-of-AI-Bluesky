@@ -2,28 +2,6 @@
   "last_collected": "2026-08-23T09:16:47.960392+00:00",
   "queue": [
     {
-      "tweet": "They made a list of 80s sounds that define Saturday mornings and it's hitting way too hard. Man I'm getting old",
-      "original_url": "https://www.mentalfloss.com/nostalgia/80s/sounds-defined-saturday-mornings-1980s?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "8 Sounds That Defined Saturday Mornings in the 1980s",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-23T09:16:47.959667+00:00"
-    },
-    {
-      "tweet": "Netflix just added the worst vampire show of the year. Why do they keep funding this stuff",
-      "original_url": "https://www.polygon.com/talamasca-secret-order-netflix/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Netflix Just Quietly Added the Worst Vampire Series of 2025",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-23T09:16:47.959543+00:00"
-    },
-    {
       "tweet": "Did you hear Dolly Parton is doing avatar performances now? I guess we're never gonna see her age at all",
       "original_url": "https://www.billboard.com/music/country/dolly-parton-health-update-1236322526/",
       "buzz_score": 80,
@@ -629,17 +607,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "So apparently all these Latin American leaders are just copy-pasting the Trump playbook to win their own elections. Are they even trying to hide it",
-      "original_url": "https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Echoing Trump, Latin America’s Leaders Boost Allies Across Borders",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-23T09:16:47.958639+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -838,15 +805,15 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "GTA 6 is just leaking strip club footage now and Netflix is out here trying to act normal. They're just letting it happen.",
-      "original_url": "https://kotaku.com/gta-6-leaker-takes-fans-to-a-strip-club-in-seventh-gameplay-dump-2000727032",
-      "buzz_score": 90,
+      "tweet": "So apparently all these Latin American leaders are just copy-pasting the Trump playbook to win their own elections. Are they even trying to hide it",
+      "original_url": "https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "GTA 6 Leaker Takes Fans To A Strip Club In Latest Gameplay Dump As Netflix Tries To Act Normal About The Whole Thing [Update]",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-23T06:58:12.535980+00:00"
+      "original_title": "Echoing Trump, Latin America’s Leaders Boost Allies Across Borders",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-23T09:16:47.958639+00:00"
     },
     {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
@@ -891,6 +858,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-08-14T16:13:56.122982+00:00"
+    },
+    {
+      "tweet": "GTA 6 is just leaking strip club footage now and Netflix is out here trying to act normal. They're just letting it happen.",
+      "original_url": "https://kotaku.com/gta-6-leaker-takes-fans-to-a-strip-club-in-seventh-gameplay-dump-2000727032",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "GTA 6 Leaker Takes Fans To A Strip Club In Latest Gameplay Dump As Netflix Tries To Act Normal About The Whole Thing [Update]",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-23T06:58:12.535980+00:00"
     },
     {
       "tweet": "Hold on, they’re actually running an IndyCar race on the National Mall? Are they trying to destroy D.C. or something?",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3419,
+    "total_posted": 3421,
     "total_collected": 15325
   },
-  "last_posted_at": "2026-08-23T09:24:43.141939+00:00"
+  "last_posted_at": "2026-08-23T09:56:51.120493+00:00"
 }
