@@ -2,28 +2,6 @@
   "last_collected": "2026-08-23T22:56:04.722377+00:00",
   "queue": [
     {
-      "tweet": "Some guy found a gold nugget in Kenya and now everyone is out there digging holes. Literal gold fever.",
-      "original_url": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-23T22:56:04.722276+00:00"
-    },
-    {
-      "tweet": "There’s a new documentary about how the sequel to The Exorcist was a total train wreck. Delusional.",
-      "original_url": "https://variety.com/2026/film/reviews/boorman-and-the-devil-review-exorcist-ii-the-heretic-1236841140/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘Boorman and the Devil’ Review: The Making of John Boorman’s 1977 Disaster ‘Exorcist II: The Heretic’ Becomes a Documentary So Unbelievable It’s Funny",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-08-23T22:56:04.722067+00:00"
-    },
-    {
       "tweet": "So apparently Barcelona just dropped five goals on Elche like it was nothing. Absolute slaughter.",
       "original_url": "https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss",
       "buzz_score": 80,
@@ -640,6 +618,17 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
+      "buzz_score": 75,
+      "buzz_score2": 97,
+      "rewrite_count": 0,
+      "original_title": "Pauline Hanson blames ‘fake news’ media for her bad press. But serious leaders have to own their actions",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-07-23T18:00:42.945990+00:00"
+    },
+    {
       "tweet": "Man, Shelley Fabares passed away. Another one from the rotation just gone.",
       "original_url": "https://variety.com/2026/tv/news/shelley-fabares-dead-coach-the-donna-reed-show-1236841162/",
       "buzz_score": 85,
@@ -671,17 +660,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-08-23T22:56:04.721827+00:00"
-    },
-    {
-      "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
-      "buzz_score": 75,
-      "buzz_score2": 97,
-      "rewrite_count": 0,
-      "original_title": "Pauline Hanson blames ‘fake news’ media for her bad press. But serious leaders have to own their actions",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
@@ -926,17 +904,6 @@
       "added_at": "2026-08-23T22:56:04.721830+00:00"
     },
     {
-      "tweet": "So this whole Disney 'Peter Pan stalker' thing is blowing up, but like, when did we decide that analyzing every single move strangers make is a normal hobby?",
-      "original_url": "https://kotaku.com/alleged-peter-pan-stalker-latest-stress-test-on-content-creation-and-boundaries-2000727266",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Alleged ‘Peter Pan Stalker’ Latest Stress Test On Content Creation And Boundaries",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-23T20:36:36.509905+00:00"
-    },
-    {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
       "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
       "buzz_score": 80,
@@ -957,6 +924,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
+      "tweet": "So this whole Disney 'Peter Pan stalker' thing is blowing up, but like, when did we decide that analyzing every single move strangers make is a normal hobby?",
+      "original_url": "https://kotaku.com/alleged-peter-pan-stalker-latest-stress-test-on-content-creation-and-boundaries-2000727266",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Alleged ‘Peter Pan Stalker’ Latest Stress Test On Content Creation And Boundaries",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-23T20:36:36.509905+00:00"
     },
     {
       "tweet": "They're releasing a PC version of Dark Castle for its 40th anniversary. We're getting old, man.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3444,
+    "total_posted": 3446,
     "total_collected": 15413
   },
-  "last_posted_at": "2026-08-23T23:04:38.358568+00:00"
+  "last_posted_at": "2026-08-23T23:17:09.235393+00:00"
 }
