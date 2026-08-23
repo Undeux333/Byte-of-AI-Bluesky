@@ -2,17 +2,6 @@
   "last_collected": "2026-08-23T11:34:31.648613+00:00",
   "queue": [
     {
-      "tweet": "Did you see Trump is taxing Canadian tongue depressors now? Like, how does a trade war even end up hitting medical gear. Rough.",
-      "original_url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-23T11:34:31.647662+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -893,17 +882,6 @@
       "added_at": "2026-08-23T11:34:31.647664+00:00"
     },
     {
-      "tweet": "So apparently all these Latin American leaders are just copy-pasting the Trump playbook to win their own elections. Are they even trying to hide it",
-      "original_url": "https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Echoing Trump, Latin America’s Leaders Boost Allies Across Borders",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-23T09:16:47.958639+00:00"
-    },
-    {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
       "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
       "buzz_score": 80,
@@ -924,6 +902,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
+      "tweet": "So apparently all these Latin American leaders are just copy-pasting the Trump playbook to win their own elections. Are they even trying to hide it",
+      "original_url": "https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Echoing Trump, Latin America’s Leaders Boost Allies Across Borders",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-23T09:16:47.958639+00:00"
     },
     {
       "tweet": "So apparently robots are playing football and boxing in Beijing now. At this point we're just waiting for them to start arguing about the refs.",
@@ -948,17 +937,6 @@
       "added_at": "2026-08-23T11:34:31.647659+00:00"
     },
     {
-      "tweet": "GTA 6 is just leaking strip club footage now and Netflix is out here trying to act normal. They're just letting it happen.",
-      "original_url": "https://kotaku.com/gta-6-leaker-takes-fans-to-a-strip-club-in-seventh-gameplay-dump-2000727032",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "GTA 6 Leaker Takes Fans To A Strip Club In Latest Gameplay Dump As Netflix Tries To Act Normal About The Whole Thing [Update]",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-23T06:58:12.535980+00:00"
-    },
-    {
       "tweet": "The FCC just banned the HoverAir drone. Can't have anything cool.",
       "original_url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
       "buzz_score": 75,
@@ -968,6 +946,17 @@
       "source": "The Verge",
       "category": "tech",
       "added_at": "2026-08-22T00:51:13.050956+00:00"
+    },
+    {
+      "tweet": "GTA 6 is just leaking strip club footage now and Netflix is out here trying to act normal. They're just letting it happen.",
+      "original_url": "https://kotaku.com/gta-6-leaker-takes-fans-to-a-strip-club-in-seventh-gameplay-dump-2000727032",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "GTA 6 Leaker Takes Fans To A Strip Club In Latest Gameplay Dump As Netflix Tries To Act Normal About The Whole Thing [Update]",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-23T06:58:12.535980+00:00"
     },
     {
       "tweet": "Hold on, they’re actually running an IndyCar race on the National Mall? Are they trying to destroy D.C. or something?",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3424,
+    "total_posted": 3425,
     "total_collected": 15337
   },
-  "last_posted_at": "2026-08-23T11:44:08.205390+00:00"
+  "last_posted_at": "2026-08-23T11:55:30.782907+00:00"
 }
