@@ -2,17 +2,6 @@
   "last_collected": "2026-08-23T09:16:47.960392+00:00",
   "queue": [
     {
-      "tweet": "Did you hear Dolly Parton is doing avatar performances now? I guess we're never gonna see her age at all",
-      "original_url": "https://www.billboard.com/music/country/dolly-parton-health-update-1236322526/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Dolly Parton Says She’s Exploring ‘Avatar Performances’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-23T09:16:47.958916+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -871,17 +860,6 @@
       "added_at": "2026-08-23T06:58:12.535980+00:00"
     },
     {
-      "tweet": "Hold on, they’re actually running an IndyCar race on the National Mall? Are they trying to destroy D.C. or something?",
-      "original_url": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
-      "buzz_score": 88,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "What to know about this weekend's IndyCar race on the National Mall",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-23T06:58:12.535984+00:00"
-    },
-    {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
       "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
       "buzz_score": 80,
@@ -902,6 +880,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
+      "tweet": "Hold on, they’re actually running an IndyCar race on the National Mall? Are they trying to destroy D.C. or something?",
+      "original_url": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
+      "buzz_score": 88,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "What to know about this weekend's IndyCar race on the National Mall",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-23T06:58:12.535984+00:00"
     },
     {
       "tweet": "They updated the SNES games on Switch and I'm honestly just gonna play Zelda all weekend. That's life",
@@ -2018,8 +2007,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3421,
+    "total_posted": 3422,
     "total_collected": 15325
   },
-  "last_posted_at": "2026-08-23T09:56:51.120493+00:00"
+  "last_posted_at": "2026-08-23T10:11:51.474159+00:00"
 }
