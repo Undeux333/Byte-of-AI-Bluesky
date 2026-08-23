@@ -2,28 +2,6 @@
   "last_collected": "2026-08-23T20:36:36.511055+00:00",
   "queue": [
     {
-      "tweet": "The wildfire in Reno is already hitting 13,000 acres. That place is just moving way too fast.",
-      "original_url": "https://www.theguardian.com/us-news/2026/aug/23/wildfire-reno-nevada-hawk-fire",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fast-moving wildfire in Reno, Nevada, forces thousands to evacuate homes",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-23T20:36:36.509783+00:00"
-    },
-    {
-      "tweet": "Lando Norris is straight up saying McLaren doesn't have the car to fight for the title, despite the win. Sounds like he's over the excuses.",
-      "original_url": "https://www.bbc.co.uk/sport/formula1/articles/c1e1e56q4w5o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Norris and McLaren 'don't have car' to fight for title despite Dutch GP win",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-23T20:36:36.509539+00:00"
-    },
-    {
       "tweet": "Looking at the top movie from the year I graduated and man, that is such a massive dose of nostalgia.",
       "original_url": "https://www.mentalfloss.com/entertainment/movies/-most-popular-movie-year-graduated-high-school?utm_source=RSS",
       "buzz_score": 75,
@@ -651,17 +629,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "So this whole Disney 'Peter Pan stalker' thing is blowing up, but like, when did we decide that analyzing every single move strangers make is a normal hobby?",
-      "original_url": "https://kotaku.com/alleged-peter-pan-stalker-latest-stress-test-on-content-creation-and-boundaries-2000727266",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Alleged ‘Peter Pan Stalker’ Latest Stress Test On Content Creation And Boundaries",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-23T20:36:36.509905+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -671,6 +638,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
+    },
+    {
+      "tweet": "So this whole Disney 'Peter Pan stalker' thing is blowing up, but like, when did we decide that analyzing every single move strangers make is a normal hobby?",
+      "original_url": "https://kotaku.com/alleged-peter-pan-stalker-latest-stress-test-on-content-creation-and-boundaries-2000727266",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Alleged ‘Peter Pan Stalker’ Latest Stress Test On Content Creation And Boundaries",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-23T20:36:36.509905+00:00"
     },
     {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3437,
+    "total_posted": 3439,
     "total_collected": 15401
   },
-  "last_posted_at": "2026-08-23T20:44:17.737132+00:00"
+  "last_posted_at": "2026-08-23T21:02:11.665476+00:00"
 }
