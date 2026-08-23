@@ -2,17 +2,6 @@
   "last_collected": "2026-08-23T13:43:23.567576+00:00",
   "queue": [
     {
-      "tweet": "Did you see Haaland just buzzed his whole head. Like zero guard. Man looks like a create-a-character now.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "'New season, new trim' - Haaland reveals buzzcut",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-23T13:43:23.565899+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -959,6 +948,17 @@
       "added_at": "2026-08-23T13:43:23.565911+00:00"
     },
     {
+      "tweet": "The FCC just banned the HoverAir drone. Can't have anything cool.",
+      "original_url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "HoverAir’s transforming modular drone has already been halted in the US",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-08-22T00:51:13.050956+00:00"
+    },
+    {
       "tweet": "Saw a list of cheap stuff that makes you feel bougie. It’s funny how a five dollar candle makes the whole apartment feel like a different life.",
       "original_url": "https://www.bustle.com/shopping/bougie-things-that-make-everything-way-nicer-are-dirt-cheap",
       "buzz_score": 80,
@@ -979,17 +979,6 @@
       "source": "Hypebeast",
       "category": "entertainment",
       "added_at": "2026-08-23T11:34:31.647664+00:00"
-    },
-    {
-      "tweet": "The FCC just banned the HoverAir drone. Can't have anything cool.",
-      "original_url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "HoverAir’s transforming modular drone has already been halted in the US",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-08-22T00:51:13.050956+00:00"
     },
     {
       "tweet": "So apparently all these Latin American leaders are just copy-pasting the Trump playbook to win their own elections. Are they even trying to hide it",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3427,
+    "total_posted": 3428,
     "total_collected": 15353
   },
-  "last_posted_at": "2026-08-23T13:50:22.897534+00:00"
+  "last_posted_at": "2026-08-23T13:59:03.353870+00:00"
 }
