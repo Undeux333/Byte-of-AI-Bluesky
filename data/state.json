@@ -2,28 +2,6 @@
   "last_collected": "2026-08-23T22:56:04.722377+00:00",
   "queue": [
     {
-      "tweet": "So apparently Barcelona just dropped five goals on Elche like it was nothing. Absolute slaughter.",
-      "original_url": "https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Raphinha and Lopez score braces as Barcelona trounce Elche 5-0",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-23T22:56:04.721825+00:00"
-    },
-    {
-      "tweet": "Apparently there's a bunch of cheap stuff on Amazon that looks expensive for your backyard. We're all just trying to fake having our lives together.",
-      "original_url": "https://www.bustle.com/shopping/cheap-things-for-your-backyard-on-amazon-that-are-actually-so-bougie",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "90 Cheap Things For Your Backyard On Amazon That Are Actually So Bougie",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-08-23T22:56:04.721836+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -629,39 +607,6 @@
       "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
-      "tweet": "Man, Shelley Fabares passed away. Another one from the rotation just gone.",
-      "original_url": "https://variety.com/2026/tv/news/shelley-fabares-dead-coach-the-donna-reed-show-1236841162/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Shelley Fabares, ‘Coach’ and ‘The Donna Reed Show’ Star, Dies at 82",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-08-23T22:56:04.722165+00:00"
-    },
-    {
-      "tweet": "That governor in Sinaloa left office, came back, and left again after everyone realized he was helping the cartel. The definition of a revolving door.",
-      "original_url": "https://www.nytimes.com/2026/08/23/world/americas/governor-ruben-rocha-moya-sinaloa-mexico.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Mexican Governor Accused by U.S. of Aiding Cartel Leaves Office, Again",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-23T22:56:04.721969+00:00"
-    },
-    {
-      "tweet": "Trump is talking about imposing these crushing measures on Iran again. How many times are we gonna do this dance?",
-      "original_url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Will Donald Trump’s new sanctions against Iran work?",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-23T22:56:04.721827+00:00"
-    },
-    {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
       "original_url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
       "buzz_score": 88,
@@ -847,6 +792,39 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "Man, Shelley Fabares passed away. Another one from the rotation just gone.",
+      "original_url": "https://variety.com/2026/tv/news/shelley-fabares-dead-coach-the-donna-reed-show-1236841162/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Shelley Fabares, ‘Coach’ and ‘The Donna Reed Show’ Star, Dies at 82",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-08-23T22:56:04.722165+00:00"
+    },
+    {
+      "tweet": "That governor in Sinaloa left office, came back, and left again after everyone realized he was helping the cartel. The definition of a revolving door.",
+      "original_url": "https://www.nytimes.com/2026/08/23/world/americas/governor-ruben-rocha-moya-sinaloa-mexico.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Mexican Governor Accused by U.S. of Aiding Cartel Leaves Office, Again",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-23T22:56:04.721969+00:00"
+    },
+    {
+      "tweet": "Trump is talking about imposing these crushing measures on Iran again. How many times are we gonna do this dance?",
+      "original_url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Will Donald Trump’s new sanctions against Iran work?",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-23T22:56:04.721827+00:00"
     },
     {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3446,
+    "total_posted": 3448,
     "total_collected": 15413
   },
-  "last_posted_at": "2026-08-23T23:17:09.235393+00:00"
+  "last_posted_at": "2026-08-23T23:41:48.451034+00:00"
 }
