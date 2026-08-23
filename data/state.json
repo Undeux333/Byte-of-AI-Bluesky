@@ -2,28 +2,6 @@
   "last_collected": "2026-08-23T04:36:44.301125+00:00",
   "queue": [
     {
-      "tweet": "Rob Reiner says a specific scene from Stand by Me hit way too close to home. Sometimes the art just knows what you're dealing with.",
-      "original_url": "https://www.mentalfloss.com/entertainment/movies/stand-by-me-scene-rob-reiner-said-hit-close-to-home?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The 'Stand by Me' Scene Rob Reiner Said Hit Surprisingly Close to Home",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-23T04:36:44.300622+00:00"
-    },
-    {
-      "tweet": "Canadian premiers are losing it over these new tariffs from Trump. At this point, does anyone actually expect him to play nice with the neighbors?",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss",
-      "buzz_score": 82,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "‘You just can’t trust Trump’: Canadian premiers fire back in trade war",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-23T04:36:44.299498+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -882,17 +860,6 @@
       "added_at": "2026-08-23T04:36:44.300381+00:00"
     },
     {
-      "tweet": "Astronomers found stars that keep surviving after getting ripped apart by black holes. Like, just give up already.",
-      "original_url": "https://www.sciencedaily.com/releases/2026/08/260822015119.htm",
-      "buzz_score": 78,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Black holes keep tearing these stars apart, but they survive",
-      "source": "ScienceDaily",
-      "category": "science",
-      "added_at": "2026-08-23T04:36:44.300009+00:00"
-    },
-    {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
       "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
       "buzz_score": 80,
@@ -913,6 +880,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
+      "tweet": "Astronomers found stars that keep surviving after getting ripped apart by black holes. Like, just give up already.",
+      "original_url": "https://www.sciencedaily.com/releases/2026/08/260822015119.htm",
+      "buzz_score": 78,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Black holes keep tearing these stars apart, but they survive",
+      "source": "ScienceDaily",
+      "category": "science",
+      "added_at": "2026-08-23T04:36:44.300009+00:00"
     },
     {
       "tweet": "Tehran is out here threatening any neighbor that joins the US. How is this still real life.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3413,
+    "total_posted": 3415,
     "total_collected": 15293
   },
-  "last_posted_at": "2026-08-23T05:12:45.783169+00:00"
+  "last_posted_at": "2026-08-23T05:47:28.868712+00:00"
 }
