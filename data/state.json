@@ -2,17 +2,6 @@
   "last_collected": "2026-08-24T22:14:07.344042+00:00",
   "queue": [
     {
-      "tweet": "Anthropic's model is supposed to be the best, but nobody's using it because it's too expensive. Turns out people just want the cheap stuff.",
-      "original_url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-24T22:14:07.343188+00:00"
-    },
-    {
       "tweet": "Pokemon creators are finally ditching the turn-based style after thirty years. Turns out even they realized we're bored of the same thing.",
       "original_url": "https://www.polygon.com/pokemon-turn-based-gameplay-changes/",
       "buzz_score": 88,
@@ -629,17 +618,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "England just dropped Brydon Carse from the squad for that nightclub incident. Imagine ruining your career because you couldn't stay out of trouble for one weekend.",
-      "original_url": "https://www.bbc.co.uk/sport/cricket/articles/cn74lg8xzpvo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "England drop Carse after nightclub incident",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-24T15:06:51.482332+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -838,6 +816,17 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
+      "tweet": "England just dropped Brydon Carse from the squad for that nightclub incident. Imagine ruining your career because you couldn't stay out of trouble for one weekend.",
+      "original_url": "https://www.bbc.co.uk/sport/cricket/articles/cn74lg8xzpvo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "England drop Carse after nightclub incident",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-24T15:06:51.482332+00:00"
+    },
+    {
       "tweet": "The US just struck another vessel in the Pacific. Are we ever gonna go a week without something like this happening.",
       "original_url": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
       "buzz_score": 85,
@@ -926,17 +915,6 @@
       "added_at": "2026-08-24T22:14:07.343555+00:00"
     },
     {
-      "tweet": "Found this old Calvin and Hobbes quote from the mom. Hits different when you're older, man.",
-      "original_url": "https://www.polygon.com/best-quote-mom-calvin-hobbes/",
-      "buzz_score": 78,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "38 Years Later, The Best 'Calvin and Hobbes' Mom Quote Is Still Unmatched in Comic Strip History",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-24T22:14:07.342674+00:00"
-    },
-    {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
       "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
       "buzz_score": 80,
@@ -957,6 +935,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
+      "tweet": "Found this old Calvin and Hobbes quote from the mom. Hits different when you're older, man.",
+      "original_url": "https://www.polygon.com/best-quote-mom-calvin-hobbes/",
+      "buzz_score": 78,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "38 Years Later, The Best 'Calvin and Hobbes' Mom Quote Is Still Unmatched in Comic Strip History",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-24T22:14:07.342674+00:00"
     },
     {
       "tweet": "Aston Villa really didn't see Watkins leaving coming, but now he's potentially dipping for Saudi Arabia. Feels like everyone's just a mercenary at this point.",
@@ -2018,8 +2007,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3490,
+    "total_posted": 3491,
     "total_collected": 15544
   },
-  "last_posted_at": "2026-08-24T22:49:37.378259+00:00"
+  "last_posted_at": "2026-08-24T23:00:59.052917+00:00"
 }
