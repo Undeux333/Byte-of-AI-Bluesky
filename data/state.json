@@ -794,39 +794,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Man, Shelley Fabares passed away. Another one from the rotation just gone.",
-      "original_url": "https://variety.com/2026/tv/news/shelley-fabares-dead-coach-the-donna-reed-show-1236841162/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Shelley Fabares, ‘Coach’ and ‘The Donna Reed Show’ Star, Dies at 82",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-08-23T22:56:04.722165+00:00"
-    },
-    {
-      "tweet": "That governor in Sinaloa left office, came back, and left again after everyone realized he was helping the cartel. The definition of a revolving door.",
-      "original_url": "https://www.nytimes.com/2026/08/23/world/americas/governor-ruben-rocha-moya-sinaloa-mexico.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Mexican Governor Accused by U.S. of Aiding Cartel Leaves Office, Again",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-23T22:56:04.721969+00:00"
-    },
-    {
-      "tweet": "Trump is talking about imposing these crushing measures on Iran again. How many times are we gonna do this dance?",
-      "original_url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Will Donald Trump’s new sanctions against Iran work?",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-23T22:56:04.721827+00:00"
-    },
-    {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
       "original_url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
       "buzz_score": 85,
@@ -871,15 +838,37 @@
       "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
-      "tweet": "The government in Guinea promised to move that massive dump site, and then it literally collapsed and killed thirty people. Peak competence.",
-      "original_url": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
-      "buzz_score": 80,
+      "tweet": "Man, Shelley Fabares passed away. Another one from the rotation just gone.",
+      "original_url": "https://variety.com/2026/tv/news/shelley-fabares-dead-coach-the-donna-reed-show-1236841162/",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Landslide at waste mound in Guinea capital kills 30, government says",
-      "source": "The Guardian",
+      "original_title": "Shelley Fabares, ‘Coach’ and ‘The Donna Reed Show’ Star, Dies at 82",
+      "source": "Variety",
+      "category": "entertainment",
+      "added_at": "2026-08-23T22:56:04.722165+00:00"
+    },
+    {
+      "tweet": "That governor in Sinaloa left office, came back, and left again after everyone realized he was helping the cartel. The definition of a revolving door.",
+      "original_url": "https://www.nytimes.com/2026/08/23/world/americas/governor-ruben-rocha-moya-sinaloa-mexico.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Mexican Governor Accused by U.S. of Aiding Cartel Leaves Office, Again",
+      "source": "NYT World",
       "category": "world",
-      "added_at": "2026-08-23T22:56:04.721830+00:00"
+      "added_at": "2026-08-23T22:56:04.721969+00:00"
+    },
+    {
+      "tweet": "Trump is talking about imposing these crushing measures on Iran again. How many times are we gonna do this dance?",
+      "original_url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Will Donald Trump’s new sanctions against Iran work?",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-23T22:56:04.721827+00:00"
     },
     {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
@@ -902,6 +891,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
+      "tweet": "The government in Guinea promised to move that massive dump site, and then it literally collapsed and killed thirty people. Peak competence.",
+      "original_url": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Landslide at waste mound in Guinea capital kills 30, government says",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-23T22:56:04.721830+00:00"
     },
     {
       "tweet": "So this whole Disney 'Peter Pan stalker' thing is blowing up, but like, when did we decide that analyzing every single move strangers make is a normal hobby?",
