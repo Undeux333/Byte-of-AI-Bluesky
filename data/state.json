@@ -2,28 +2,6 @@
   "last_collected": "2026-08-24T19:51:00.715787+00:00",
   "queue": [
     {
-      "tweet": "I just saw a video of a humanoid robot catching on fire while doing Fortnite emotes. We are so far away from the future.",
-      "original_url": "https://kotaku.com/world-humanoid-robot-games-robots-catching-fire-fortnite-dance-emotes-2000727595",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Robot’s Ass Catches On Fire And Other Dispatches From The Humanoid Robot Games",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-24T19:51:00.714433+00:00"
-    },
-    {
-      "tweet": "Dude, did you know that the term spam for junk email literally comes from a Monty Python sketch about canned meat? My life is a lie.",
-      "original_url": "https://www.mentalfloss.com/language/words/why-we-call-unwanted-email-spam?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why We Call Unwanted Email “Spam”",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-24T19:51:00.714264+00:00"
-    },
-    {
       "tweet": "Pokemon creators are finally ditching the turn-based style after thirty years. Turns out even they realized we're bored of the same thing.",
       "original_url": "https://www.polygon.com/pokemon-turn-based-gameplay-changes/",
       "buzz_score": 88,
@@ -57,17 +35,6 @@
       "added_at": "2026-08-24T15:06:51.482332+00:00"
     },
     {
-      "tweet": "Albanese is trying to fix this massive energy spike from data centers while we're still pretending AI is just magic. Who actually thought this through?",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/25/albanese-seeks-to-quell-datacentre-disquiet-as-climate-expert-warns-weve-got-one-shot-to-get-the-rules-right",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Albanese seeks to quell datacentre disquiet as climate expert warns ‘we’ve got one shot to get the rules right’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-24T15:06:51.482337+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -99,6 +66,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Albanese is trying to fix this massive energy spike from data centers while we're still pretending AI is just magic. Who actually thought this through?",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/25/albanese-seeks-to-quell-datacentre-disquiet-as-climate-expert-warns-weve-got-one-shot-to-get-the-rules-right",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Albanese seeks to quell datacentre disquiet as climate expert warns ‘we’ve got one shot to get the rules right’",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-24T15:06:51.482337+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -662,39 +640,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Aston Villa really didn't see Watkins leaving coming, but now he's potentially dipping for Saudi Arabia. Feels like everyone's just a mercenary at this point.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cq63ry9q6jzo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Watkins' departure would cut deepest - and Villa did not see it coming",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-24T17:43:20.025828+00:00"
-    },
-    {
-      "tweet": "The West Bank is running out of fuel because of these new Israeli restrictions. Just another day of things getting worse.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israeli restrictions cause fuel shortage in occupied West Bank",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-24T19:51:00.715307+00:00"
-    },
-    {
-      "tweet": "Israel just hit a water desalination plant in Gaza. It’s wild that basic survival stuff is even a target.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Video: Israel attacks desalination plant and mosque in Gaza",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-24T19:51:00.715185+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -704,6 +649,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
+    },
+    {
+      "tweet": "Aston Villa really didn't see Watkins leaving coming, but now he's potentially dipping for Saudi Arabia. Feels like everyone's just a mercenary at this point.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cq63ry9q6jzo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Watkins' departure would cut deepest - and Villa did not see it coming",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-24T17:43:20.025828+00:00"
     },
     {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
@@ -891,6 +847,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "The West Bank is running out of fuel because of these new Israeli restrictions. Just another day of things getting worse.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Israeli restrictions cause fuel shortage in occupied West Bank",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-24T19:51:00.715307+00:00"
+    },
+    {
+      "tweet": "Israel just hit a water desalination plant in Gaza. It’s wild that basic survival stuff is even a target.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Video: Israel attacks desalination plant and mosque in Gaza",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-24T19:51:00.715185+00:00"
     },
     {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3484,
+    "total_posted": 3486,
     "total_collected": 15528
   },
-  "last_posted_at": "2026-08-24T20:00:04.882383+00:00"
+  "last_posted_at": "2026-08-24T20:23:12.044023+00:00"
 }
