@@ -46,17 +46,6 @@
       "added_at": "2026-08-24T15:06:51.482337+00:00"
     },
     {
-      "tweet": "Aston Villa really didn't see Watkins leaving coming, but now he's potentially dipping for Saudi Arabia. Feels like everyone's just a mercenary at this point.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cq63ry9q6jzo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Watkins' departure would cut deepest - and Villa did not see it coming",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-24T17:43:20.025828+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -88,6 +77,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Aston Villa really didn't see Watkins leaving coming, but now he's potentially dipping for Saudi Arabia. Feels like everyone's just a mercenary at this point.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cq63ry9q6jzo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Watkins' departure would cut deepest - and Villa did not see it coming",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-24T17:43:20.025828+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -849,28 +849,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "They’re checking ancient Roman teeth to see what people were eating when Vesuvius hit. We’re literally obsessing over ancient snacks right now.",
-      "original_url": "https://www.mentalfloss.com/history/what-people-eating-mount-vesuvius-erupted?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "What Were People Eating When Mount Vesuvius Erupted?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-24T17:43:20.026948+00:00"
-    },
-    {
-      "tweet": "Australia only has 12,000 sea lions left and now bird flu is hitting them. We’re really just watching them get wiped out in real time.",
-      "original_url": "https://www.theguardian.com/world/2026/aug/25/australia-has-just-12000-sea-lions-left-and-carnage-may-await-them-as-bird-flu-takes-hold-scientists-warn",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Australia has just 12,000 sea lions left – and ‘carnage’ may await them as bird flu takes hold, scientists warn",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-24T17:43:20.026194+00:00"
-    },
-    {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
       "original_url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
       "buzz_score": 85,
@@ -915,15 +893,26 @@
       "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
-      "tweet": "Prince Harry quit that wildlife board after all those human rights abuse stories came out. Wild that he even signed on for that in the first place.",
-      "original_url": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
-      "buzz_score": 78,
+      "tweet": "They’re checking ancient Roman teeth to see what people were eating when Vesuvius hit. We’re literally obsessing over ancient snacks right now.",
+      "original_url": "https://www.mentalfloss.com/history/what-people-eating-mount-vesuvius-erupted?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "What Were People Eating When Mount Vesuvius Erupted?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-08-24T17:43:20.026948+00:00"
+    },
+    {
+      "tweet": "Australia only has 12,000 sea lions left and now bird flu is hitting them. We’re really just watching them get wiped out in real time.",
+      "original_url": "https://www.theguardian.com/world/2026/aug/25/australia-has-just-12000-sea-lions-left-and-carnage-may-await-them-as-bird-flu-takes-hold-scientists-warn",
+      "buzz_score": 82,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Prince Harry quits board of wildlife charity after human rights abuses",
+      "original_title": "Australia has just 12,000 sea lions left – and ‘carnage’ may await them as bird flu takes hold, scientists warn",
       "source": "The Guardian",
       "category": "world",
-      "added_at": "2026-08-24T17:43:20.026073+00:00"
+      "added_at": "2026-08-24T17:43:20.026194+00:00"
     },
     {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
@@ -946,6 +935,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
+      "tweet": "Prince Harry quit that wildlife board after all those human rights abuse stories came out. Wild that he even signed on for that in the first place.",
+      "original_url": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
+      "buzz_score": 78,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Prince Harry quits board of wildlife charity after human rights abuses",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-24T17:43:20.026073+00:00"
     },
     {
       "tweet": "Mizuno is bringing back the Wave Prophecy 1 in all black. Those things look like they're from 2077.",
@@ -981,17 +981,6 @@
       "added_at": "2026-08-24T17:43:20.026702+00:00"
     },
     {
-      "tweet": "Netflix is now thinking about hosting other streamers inside their app. They're just becoming cable again.",
-      "original_url": "https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Netflix reportedly considers opening its app to other streamers",
-      "source": "The Verge Netflix",
-      "category": "entertainment",
-      "added_at": "2026-08-24T15:06:51.482515+00:00"
-    },
-    {
       "tweet": "Xbox and IKEA are making furniture together now. We're all just trying to turn our living rooms into permanent setups at this point.",
       "original_url": "https://hypebeast.com/2026/8/ikea-xbox-furniture-collaboration-collection-teaser-announcement",
       "buzz_score": 75,
@@ -1012,6 +1001,17 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-08-24T04:58:46.057291+00:00"
+    },
+    {
+      "tweet": "Netflix is now thinking about hosting other streamers inside their app. They're just becoming cable again.",
+      "original_url": "https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Netflix reportedly considers opening its app to other streamers",
+      "source": "The Verge Netflix",
+      "category": "entertainment",
+      "added_at": "2026-08-24T15:06:51.482515+00:00"
     }
   ],
   "seen_urls": [
