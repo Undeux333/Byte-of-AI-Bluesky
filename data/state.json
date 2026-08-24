@@ -2,28 +2,6 @@
   "last_collected": "2026-08-24T07:17:42.617536+00:00",
   "queue": [
     {
-      "tweet": "Did you see China is literally using formaldehyde to keep cabbages fresh. Like, we’re out here trying to eat healthy and the produce is literally embalmed. Gross man.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "China probes use of formaldehyde to keep cabbages fresh",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-24T07:17:42.616866+00:00"
-    },
-    {
-      "tweet": "So apparently Paramount and the AGs are having a meeting that’s basically just for show. It’s wild how they don't even try to hide that nothing is happening.",
-      "original_url": "https://deadline.com/2026/08/paramount-lawsuit-settlement-meeting-details-1237048499/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Paramount & AGs Settlement Meeting Monday More Show Than Substance As Cable Channel Sell-Offs & Curbing Ellison’s Power Put On The Table",
-      "source": "Deadline",
-      "category": "entertainment",
-      "added_at": "2026-08-24T07:17:42.617042+00:00"
-    },
-    {
       "tweet": "They’re out here vaccinating a thousand penguins against bird flu. Imagine being the guy whose job is just wrangling penguins all day. That’s a day.",
       "original_url": "https://www.theguardian.com/environment/2026/aug/24/little-penguins-bird-flu-vaccination-phillip-island-australia",
       "buzz_score": 80,
@@ -90,17 +68,6 @@
       "added_at": "2026-08-24T04:58:46.057291+00:00"
     },
     {
-      "tweet": "Saw this thing about living in a post-American world. Sounds like a fun time.",
-      "original_url": "https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Learning to live in a post-American world",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-24T04:58:46.057624+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -132,6 +99,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Saw this thing about living in a post-American world. Sounds like a fun time.",
+      "original_url": "https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Learning to live in a post-American world",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-24T04:58:46.057624+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -893,28 +871,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Ranking the strongest characters in Kaiju No. 8 again. Everyone has an opinion on this stuff.",
-      "original_url": "https://www.polygon.com/strongest-characters-kaiju-no-8-ranked/",
-      "buzz_score": 60,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "5 Strongest Characters In Kaiju No. 8",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-24T04:58:46.058198+00:00"
-    },
-    {
-      "tweet": "Valentino has a new campaign film with Dakota Fanning. It's just perfume, bro.",
-      "original_url": "https://hypebeast.com/2026/8/valentino-vendetta-fragrance-campaign-film-starring-dakota-johnson-alexander-skarsgard",
-      "buzz_score": 60,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Two Souls Bound by Impulse: The Cinematic Poetry of Valentino’s “Vendetta”",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-08-24T04:58:46.058102+00:00"
-    },
-    {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
       "original_url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
       "buzz_score": 85,
@@ -959,15 +915,26 @@
       "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
-      "tweet": "Hawaii’s getting hit by another storm right after the last one. At this point the islands are just holding on for dear life.",
-      "original_url": "https://www.npr.org/2026/08/23/nx-s1-5941769/tropical-storm-moke-hawaii",
-      "buzz_score": 80,
-      "buzz_score2": 90,
+      "tweet": "Ranking the strongest characters in Kaiju No. 8 again. Everyone has an opinion on this stuff.",
+      "original_url": "https://www.polygon.com/strongest-characters-kaiju-no-8-ranked/",
+      "buzz_score": 60,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-24T07:17:42.617290+00:00"
+      "original_title": "5 Strongest Characters In Kaiju No. 8",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-24T04:58:46.058198+00:00"
+    },
+    {
+      "tweet": "Valentino has a new campaign film with Dakota Fanning. It's just perfume, bro.",
+      "original_url": "https://hypebeast.com/2026/8/valentino-vendetta-fragrance-campaign-film-starring-dakota-johnson-alexander-skarsgard",
+      "buzz_score": 60,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Two Souls Bound by Impulse: The Cinematic Poetry of Valentino’s “Vendetta”",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-08-24T04:58:46.058102+00:00"
     },
     {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
@@ -990,6 +957,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
+      "tweet": "Hawaii’s getting hit by another storm right after the last one. At this point the islands are just holding on for dear life.",
+      "original_url": "https://www.npr.org/2026/08/23/nx-s1-5941769/tropical-storm-moke-hawaii",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-24T07:17:42.617290+00:00"
     },
     {
       "tweet": "Coco Gauff just took Cincinnati. Kinda wild watching her hit her stride right before the US Open like this. She’s just locked in.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3463,
+    "total_posted": 3465,
     "total_collected": 15456
   },
-  "last_posted_at": "2026-08-24T08:14:39.995565+00:00"
+  "last_posted_at": "2026-08-24T09:10:44.717107+00:00"
 }
