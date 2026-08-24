@@ -607,28 +607,6 @@
       "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
-      "tweet": "Xbox and IKEA are making furniture together now. We're all just trying to turn our living rooms into permanent setups at this point.",
-      "original_url": "https://hypebeast.com/2026/8/ikea-xbox-furniture-collaboration-collection-teaser-announcement",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Xbox and IKEA Tease Upcoming Gaming Furniture Collection",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-08-24T04:58:46.057526+00:00"
-    },
-    {
-      "tweet": "Wrexham's CEO is saying they're quiet in the transfer window 'cause they can't afford to compete with the big guys. Just normal sports stuff.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/ckgvgpgevxvo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Wrexham hunt quality to end tough transfer window",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-24T04:58:46.057291+00:00"
-    },
-    {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
       "original_url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
       "buzz_score": 88,
@@ -814,6 +792,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "Xbox and IKEA are making furniture together now. We're all just trying to turn our living rooms into permanent setups at this point.",
+      "original_url": "https://hypebeast.com/2026/8/ikea-xbox-furniture-collaboration-collection-teaser-announcement",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Xbox and IKEA Tease Upcoming Gaming Furniture Collection",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-08-24T04:58:46.057526+00:00"
+    },
+    {
+      "tweet": "Wrexham's CEO is saying they're quiet in the transfer window 'cause they can't afford to compete with the big guys. Just normal sports stuff.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/ckgvgpgevxvo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Wrexham hunt quality to end tough transfer window",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-24T04:58:46.057291+00:00"
     },
     {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
