@@ -2,28 +2,6 @@
   "last_collected": "2026-08-24T04:58:46.058403+00:00",
   "queue": [
     {
-      "tweet": "Dude, thousands of people in Reno are evacuating right now 'cause someone started a massive wildfire. Ninety thousand people displaced, man.",
-      "original_url": "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-24T04:58:46.057273+00:00"
-    },
-    {
-      "tweet": "John Oliver just tore into Sean Duffy over his old reality show and his current job. Politics is just a weird crossover episode now.",
-      "original_url": "https://variety.com/2026/tv/news/john-oliver-sean-duffy-trump-real-world-road-trip-youtube-1236841318/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "John Oliver Embarrasses Trump Transportation Secretary Sean Duffy Over ‘Godawful’ YouTube Reality Show and ‘Real World’ Past",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-08-24T04:58:46.057721+00:00"
-    },
-    {
       "tweet": "Berlin just scrapped a pool day meant for Black kids because people got mad about it. Can we just go swimming in peace?",
       "original_url": "https://www.theguardian.com/world/2026/aug/24/scrapping-of-berlin-swimming-day-for-black-children-becomes-latest-in-long-list-of-race-linked-pool-rows",
       "buzz_score": 85,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3455,
+    "total_posted": 3457,
     "total_collected": 15445
   },
-  "last_posted_at": "2026-08-24T05:06:56.451391+00:00"
+  "last_posted_at": "2026-08-24T05:41:58.069472+00:00"
 }
