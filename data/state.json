@@ -2,28 +2,6 @@
   "last_collected": "2026-08-24T10:00:29.483078+00:00",
   "queue": [
     {
-      "tweet": "They’re out here vaccinating a thousand penguins against bird flu. Imagine being the guy whose job is just wrangling penguins all day. That’s a day.",
-      "original_url": "https://www.theguardian.com/environment/2026/aug/24/little-penguins-bird-flu-vaccination-phillip-island-australia",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "How do you vaccinate 1,000 tiny penguins against bird flu in the wild? It’s ‘really tricky’ but there is a way",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-24T07:17:42.616881+00:00"
-    },
-    {
-      "tweet": "The Tormund guy from Game of Thrones is doing a romcom now. I don’t even know if I can picture him not covered in fake blood and yelling at people.",
-      "original_url": "https://variety.com/2026/film/global/kristofer-hivju-frida-hallgren-true-love-sf-studios-1236840991/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘Game of Thrones’ Star Kristofer Hivju Turns to Romcom with ‘True Love’ by ‘Little Did I Know’’s Martina Haag (EXCLUSIVE)",
-      "source": "Variety",
-      "category": "entertainment",
-      "added_at": "2026-08-24T07:17:42.616886+00:00"
-    },
-    {
       "tweet": "So apparently Shein is shooting for a twenty-seven billion dollar valuation. Guess environmental scandals don't hurt the bottom line much.",
       "original_url": "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
       "buzz_score": 80,
@@ -79,6 +57,17 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
+      "buzz_score": 92,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
       "tweet": "Xbox and IKEA are making furniture together now. We're all just trying to turn our living rooms into permanent setups at this point.",
       "original_url": "https://hypebeast.com/2026/8/ikea-xbox-furniture-collaboration-collection-teaser-announcement",
       "buzz_score": 75,
@@ -99,17 +88,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-08-24T04:58:46.057291+00:00"
-    },
-    {
-      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
-      "buzz_score": 92,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-24T11:28:23.259709+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
@@ -662,50 +640,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Ninety thousand people told to evacuate in Reno 'cause of the wildfire. That’s terrifying, man.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-24T10:00:29.482558+00:00"
-    },
-    {
-      "tweet": "Police just raided the CFMEU headquarters over corruption and guns. Things are getting wild over there.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/24/cfmeu-melbourne-headquarters-raided-five-arrested-alleged-corruption-ntwnfb",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Two men charged and drugs, guns and cars linked to CFMEU seized as police investigate alleged corruption",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-24T10:00:29.482047+00:00"
-    },
-    {
-      "tweet": "Serena Williams and Carlos Alcaraz are teaming up for the US Open. That’s just unfair.",
-      "original_url": "https://hypebeast.com/2026/8/serena-williams-x-carlos-alcaraz-join-2026-us-open-mixed-doubles",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Carlos Alcaraz and Serena Williams Are Teaming Up for 2026 US Open Mixed Doubles",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-08-24T10:00:29.481733+00:00"
-    },
-    {
-      "tweet": "Saw this thing about living in a post-American world. Sounds like a fun time.",
-      "original_url": "https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Learning to live in a post-American world",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-24T04:58:46.057624+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -902,6 +836,50 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "Ninety thousand people told to evacuate in Reno 'cause of the wildfire. That’s terrifying, man.",
+      "original_url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-24T10:00:29.482558+00:00"
+    },
+    {
+      "tweet": "Police just raided the CFMEU headquarters over corruption and guns. Things are getting wild over there.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/24/cfmeu-melbourne-headquarters-raided-five-arrested-alleged-corruption-ntwnfb",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Two men charged and drugs, guns and cars linked to CFMEU seized as police investigate alleged corruption",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-24T10:00:29.482047+00:00"
+    },
+    {
+      "tweet": "Serena Williams and Carlos Alcaraz are teaming up for the US Open. That’s just unfair.",
+      "original_url": "https://hypebeast.com/2026/8/serena-williams-x-carlos-alcaraz-join-2026-us-open-mixed-doubles",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Carlos Alcaraz and Serena Williams Are Teaming Up for 2026 US Open Mixed Doubles",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-08-24T10:00:29.481733+00:00"
+    },
+    {
+      "tweet": "Saw this thing about living in a post-American world. Sounds like a fun time.",
+      "original_url": "https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Learning to live in a post-American world",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-24T04:58:46.057624+00:00"
     },
     {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3467,
+    "total_posted": 3469,
     "total_collected": 15472
   },
-  "last_posted_at": "2026-08-24T10:05:47.178923+00:00"
+  "last_posted_at": "2026-08-24T10:44:46.356809+00:00"
 }
