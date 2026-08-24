@@ -2,28 +2,6 @@
   "last_collected": "2026-08-24T12:50:38.133367+00:00",
   "queue": [
     {
-      "tweet": "Did you see Ozon got hit in those strikes? Russia's second-biggest retailer just became a military target. Wild.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-24T12:50:38.132343+00:00"
-    },
-    {
-      "tweet": "Feyenoord fans throwing fireworks at an Eredivisie match and causing eye injuries. Sports fans are just something else.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cr50n2d4rj0o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fans suffer firework burns and eye injuries in Eredivisie",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-24T12:50:38.132356+00:00"
-    },
-    {
       "tweet": "People are saying if you're 17 you should build LLMs from scratch. Man, I'm just trying to remember my password.",
       "original_url": "https://twitter.com/paulg/status/2091544343589060625",
       "buzz_score": 75,
@@ -651,17 +629,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "South Korea cancelled their marine drills with the US because of all that Iran stuff. Guess we're just rearranging the schedule now.",
-      "original_url": "https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "South Korea says US cancelled upcoming joint marine exercises over Iran war",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-24T12:50:38.132485+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -860,6 +827,17 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
+      "tweet": "South Korea cancelled their marine drills with the US because of all that Iran stuff. Guess we're just rearranging the schedule now.",
+      "original_url": "https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "South Korea says US cancelled upcoming joint marine exercises over Iran war",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-24T12:50:38.132485+00:00"
+    },
+    {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
       "original_url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
       "buzz_score": 85,
@@ -915,28 +893,6 @@
       "added_at": "2026-08-24T12:50:38.132350+00:00"
     },
     {
-      "tweet": "Xbox and IKEA are making furniture together now. We're all just trying to turn our living rooms into permanent setups at this point.",
-      "original_url": "https://hypebeast.com/2026/8/ikea-xbox-furniture-collaboration-collection-teaser-announcement",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Xbox and IKEA Tease Upcoming Gaming Furniture Collection",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-08-24T04:58:46.057526+00:00"
-    },
-    {
-      "tweet": "Wrexham's CEO is saying they're quiet in the transfer window 'cause they can't afford to compete with the big guys. Just normal sports stuff.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/ckgvgpgevxvo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Wrexham hunt quality to end tough transfer window",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-24T04:58:46.057291+00:00"
-    },
-    {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
       "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
       "buzz_score": 80,
@@ -957,6 +913,28 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
+      "tweet": "Xbox and IKEA are making furniture together now. We're all just trying to turn our living rooms into permanent setups at this point.",
+      "original_url": "https://hypebeast.com/2026/8/ikea-xbox-furniture-collaboration-collection-teaser-announcement",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Xbox and IKEA Tease Upcoming Gaming Furniture Collection",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-08-24T04:58:46.057526+00:00"
+    },
+    {
+      "tweet": "Wrexham's CEO is saying they're quiet in the transfer window 'cause they can't afford to compete with the big guys. Just normal sports stuff.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/ckgvgpgevxvo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Wrexham hunt quality to end tough transfer window",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-24T04:58:46.057291+00:00"
     },
     {
       "tweet": "Activists occupied a Martin-Baker factory in the UK today. People are really out here fighting over aircraft parts.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3473,
+    "total_posted": 3475,
     "total_collected": 15488
   },
-  "last_posted_at": "2026-08-24T12:56:22.554244+00:00"
+  "last_posted_at": "2026-08-24T13:50:31.405801+00:00"
 }
