@@ -2,28 +2,6 @@
   "last_collected": "2026-08-24T17:43:20.027557+00:00",
   "queue": [
     {
-      "tweet": "Dude, MS Paint is now watermarking stuff you make locally. Like, I’m just trying to doodle something on my own laptop, and they're tracking it. That's a new level of creepy.",
-      "original_url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-24T17:43:20.025660+00:00"
-    },
-    {
-      "tweet": "Played that new Duskbloods game and realized I just suck at PvP. Sometimes you gotta admit the game isn't the problem, you are.",
-      "original_url": "https://kotaku.com/the-duskbloods-pvp-network-test-losing-2000727554",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "I’m An Elden Ring Sicko, But 10 Hours With The Duskbloods Has Me Worried FromSoftware’s Next Game Isn’t For Me",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-24T17:43:20.026454+00:00"
-    },
-    {
       "tweet": "Pokemon creators are finally ditching the turn-based style after thirty years. Turns out even they realized we're bored of the same thing.",
       "original_url": "https://www.polygon.com/pokemon-turn-based-gameplay-changes/",
       "buzz_score": 88,
@@ -684,17 +662,6 @@
       "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
-      "tweet": "They’re checking ancient Roman teeth to see what people were eating when Vesuvius hit. We’re literally obsessing over ancient snacks right now.",
-      "original_url": "https://www.mentalfloss.com/history/what-people-eating-mount-vesuvius-erupted?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "What Were People Eating When Mount Vesuvius Erupted?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-24T17:43:20.026948+00:00"
-    },
-    {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
       "original_url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
       "buzz_score": 88,
@@ -882,6 +849,17 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
+      "tweet": "They’re checking ancient Roman teeth to see what people were eating when Vesuvius hit. We’re literally obsessing over ancient snacks right now.",
+      "original_url": "https://www.mentalfloss.com/history/what-people-eating-mount-vesuvius-erupted?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "What Were People Eating When Mount Vesuvius Erupted?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-08-24T17:43:20.026948+00:00"
+    },
+    {
       "tweet": "Australia only has 12,000 sea lions left and now bird flu is hitting them. We’re really just watching them get wiped out in real time.",
       "original_url": "https://www.theguardian.com/world/2026/aug/25/australia-has-just-12000-sea-lions-left-and-carnage-may-await-them-as-bird-flu-takes-hold-scientists-warn",
       "buzz_score": 82,
@@ -948,17 +926,6 @@
       "added_at": "2026-08-24T17:43:20.026073+00:00"
     },
     {
-      "tweet": "Mizuno is bringing back the Wave Prophecy 1 in all black. Those things look like they're from 2077.",
-      "original_url": "https://hypebeast.com/2026/8/mizuno-wave-prophecy-1-black-d1ga265102-release-info",
-      "buzz_score": 60,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mizuno Revives the Flagship WAVE PROPHECY 1in a Stealthy “Black” Look",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-08-24T12:50:38.133078+00:00"
-    },
-    {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
       "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
       "buzz_score": 80,
@@ -979,6 +946,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
+      "tweet": "Mizuno is bringing back the Wave Prophecy 1 in all black. Those things look like they're from 2077.",
+      "original_url": "https://hypebeast.com/2026/8/mizuno-wave-prophecy-1-black-d1ga265102-release-info",
+      "buzz_score": 60,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Mizuno Revives the Flagship WAVE PROPHECY 1in a Stealthy “Black” Look",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-08-24T12:50:38.133078+00:00"
     },
     {
       "tweet": "Did you see that new Xiaomi chip? It’s actually outperforming Apple on multicore speeds. Finally some real competition.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3480,
+    "total_posted": 3482,
     "total_collected": 15512
   },
-  "last_posted_at": "2026-08-24T17:49:21.594857+00:00"
+  "last_posted_at": "2026-08-24T18:10:03.785639+00:00"
 }
