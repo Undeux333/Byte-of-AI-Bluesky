@@ -2,28 +2,6 @@
   "last_collected": "2026-08-24T04:58:46.058403+00:00",
   "queue": [
     {
-      "tweet": "Berlin just scrapped a pool day meant for Black kids because people got mad about it. Can we just go swimming in peace?",
-      "original_url": "https://www.theguardian.com/world/2026/aug/24/scrapping-of-berlin-swimming-day-for-black-children-becomes-latest-in-long-list-of-race-linked-pool-rows",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Scrapping of Berlin swimming day for Black children becomes latest in long list of race-linked pool rows",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-24T04:58:46.057428+00:00"
-    },
-    {
-      "tweet": "Did you hear Burnham is heading to Kyiv? Man, talk about starting the new job with a bang.",
-      "original_url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-24T04:58:46.057268+00:00"
-    },
-    {
       "tweet": "So apparently Shein is shooting for a twenty-seven billion dollar valuation. Guess environmental scandals don't hurt the bottom line much.",
       "original_url": "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
       "buzz_score": 80,
@@ -79,28 +57,6 @@
       "added_at": "2026-08-24T04:58:46.057624+00:00"
     },
     {
-      "tweet": "Ranking the strongest characters in Kaiju No. 8 again. Everyone has an opinion on this stuff.",
-      "original_url": "https://www.polygon.com/strongest-characters-kaiju-no-8-ranked/",
-      "buzz_score": 60,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "5 Strongest Characters In Kaiju No. 8",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-24T04:58:46.058198+00:00"
-    },
-    {
-      "tweet": "Valentino has a new campaign film with Dakota Fanning. It's just perfume, bro.",
-      "original_url": "https://hypebeast.com/2026/8/valentino-vendetta-fragrance-campaign-film-starring-dakota-johnson-alexander-skarsgard",
-      "buzz_score": 60,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Two Souls Bound by Impulse: The Cinematic Poetry of Valentino’s “Vendetta”",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-08-24T04:58:46.058102+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -132,6 +88,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Ranking the strongest characters in Kaiju No. 8 again. Everyone has an opinion on this stuff.",
+      "original_url": "https://www.polygon.com/strongest-characters-kaiju-no-8-ranked/",
+      "buzz_score": 60,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "5 Strongest Characters In Kaiju No. 8",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-24T04:58:46.058198+00:00"
+    },
+    {
+      "tweet": "Valentino has a new campaign film with Dakota Fanning. It's just perfume, bro.",
+      "original_url": "https://hypebeast.com/2026/8/valentino-vendetta-fragrance-campaign-film-starring-dakota-johnson-alexander-skarsgard",
+      "buzz_score": 60,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Two Souls Bound by Impulse: The Cinematic Poetry of Valentino’s “Vendetta”",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-08-24T04:58:46.058102+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3457,
+    "total_posted": 3459,
     "total_collected": 15445
   },
-  "last_posted_at": "2026-08-24T05:41:58.069472+00:00"
+  "last_posted_at": "2026-08-24T06:14:25.849443+00:00"
 }
