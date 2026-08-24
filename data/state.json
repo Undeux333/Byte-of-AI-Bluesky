@@ -2,28 +2,6 @@
   "last_collected": "2026-08-24T07:17:42.617536+00:00",
   "queue": [
     {
-      "tweet": "Dude, some guy just paid three million bucks for the ball from that Maradona goal. I mean, it’s a cool piece of history, but that’s a house in the suburbs for a ball.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Maradona's 'Hand of God' ball sells for £2.5m",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-24T07:17:42.616872+00:00"
-    },
-    {
-      "tweet": "Just saw that half the slang we use came from the twenties. We really haven't invented a new way to talk in a hundred years.",
-      "original_url": "https://www.mentalfloss.com/language/slang/roaring-twenties-phrases-use-everyday?utm_source=RSS",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "10 Roaring Twenties Phrases You Use Every Day",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-24T07:17:42.617167+00:00"
-    },
-    {
       "tweet": "Did you see China is literally using formaldehyde to keep cabbages fresh. Like, we’re out here trying to eat healthy and the produce is literally embalmed. Gross man.",
       "original_url": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -165,28 +143,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Ranking the strongest characters in Kaiju No. 8 again. Everyone has an opinion on this stuff.",
-      "original_url": "https://www.polygon.com/strongest-characters-kaiju-no-8-ranked/",
-      "buzz_score": 60,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "5 Strongest Characters In Kaiju No. 8",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-24T04:58:46.058198+00:00"
-    },
-    {
-      "tweet": "Valentino has a new campaign film with Dakota Fanning. It's just perfume, bro.",
-      "original_url": "https://hypebeast.com/2026/8/valentino-vendetta-fragrance-campaign-film-starring-dakota-johnson-alexander-skarsgard",
-      "buzz_score": 60,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Two Souls Bound by Impulse: The Cinematic Poetry of Valentino’s “Vendetta”",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-08-24T04:58:46.058102+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
@@ -935,6 +891,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "Ranking the strongest characters in Kaiju No. 8 again. Everyone has an opinion on this stuff.",
+      "original_url": "https://www.polygon.com/strongest-characters-kaiju-no-8-ranked/",
+      "buzz_score": 60,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "5 Strongest Characters In Kaiju No. 8",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-24T04:58:46.058198+00:00"
+    },
+    {
+      "tweet": "Valentino has a new campaign film with Dakota Fanning. It's just perfume, bro.",
+      "original_url": "https://hypebeast.com/2026/8/valentino-vendetta-fragrance-campaign-film-starring-dakota-johnson-alexander-skarsgard",
+      "buzz_score": 60,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Two Souls Bound by Impulse: The Cinematic Poetry of Valentino’s “Vendetta”",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-08-24T04:58:46.058102+00:00"
     },
     {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3461,
+    "total_posted": 3463,
     "total_collected": 15456
   },
-  "last_posted_at": "2026-08-24T07:27:06.018875+00:00"
+  "last_posted_at": "2026-08-24T08:14:39.995565+00:00"
 }
