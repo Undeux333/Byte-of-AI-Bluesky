@@ -2,17 +2,6 @@
   "last_collected": "2026-08-24T02:11:05.763088+00:00",
   "queue": [
     {
-      "tweet": "HBO is officially changing the whole Green Lantern canon just to make John Stewart a prodigy. Why can't they just leave it alone?",
-      "original_url": "https://www.polygon.com/hbo-lanterns-episode-2-john-stewart-green-lantern-special-powers/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "HBO Officially Changes a Fundamental Rule of DC Superhero Canon",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-24T02:11:05.761691+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -849,17 +838,6 @@
       "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
-      "tweet": "So the PM is heading to Ukraine to hand over classified Storm Shadow info. At this point we're just posting our entire war playbook on the internet.",
-      "original_url": "https://www.theguardian.com/politics/2026/aug/24/andy-burnham-ukraine-long-range-missile-technology-kyiv-visit",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Burnham to visit Ukraine with promise of boost for Kyiv’s long-range missiles",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-24T02:11:05.761685+00:00"
-    },
-    {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
       "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
       "buzz_score": 80,
@@ -880,6 +858,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
+      "tweet": "So the PM is heading to Ukraine to hand over classified Storm Shadow info. At this point we're just posting our entire war playbook on the internet.",
+      "original_url": "https://www.theguardian.com/politics/2026/aug/24/andy-burnham-ukraine-long-range-missile-technology-kyiv-visit",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Burnham to visit Ukraine with promise of boost for Kyiv’s long-range missiles",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-24T02:11:05.761685+00:00"
     },
     {
       "tweet": "Tokayev's party just 'won' 70 percent in Kazakhstan. Wow, shocker.",
@@ -2018,8 +2007,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3452,
+    "total_posted": 3453,
     "total_collected": 15429
   },
-  "last_posted_at": "2026-08-24T03:23:45.009309+00:00"
+  "last_posted_at": "2026-08-24T04:04:32.358490+00:00"
 }
