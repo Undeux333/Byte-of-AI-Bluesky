@@ -68,17 +68,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Albanese is trying to fix this massive energy spike from data centers while we're still pretending AI is just magic. Who actually thought this through?",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/25/albanese-seeks-to-quell-datacentre-disquiet-as-climate-expert-warns-weve-got-one-shot-to-get-the-rules-right",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Albanese seeks to quell datacentre disquiet as climate expert warns ‘we’ve got one shot to get the rules right’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-24T15:06:51.482337+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -88,6 +77,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Albanese is trying to fix this massive energy spike from data centers while we're still pretending AI is just magic. Who actually thought this through?",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/25/albanese-seeks-to-quell-datacentre-disquiet-as-climate-expert-warns-weve-got-one-shot-to-get-the-rules-right",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Albanese seeks to quell datacentre disquiet as climate expert warns ‘we’ve got one shot to get the rules right’",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-24T15:06:51.482337+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
@@ -651,17 +651,6 @@
       "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
-      "tweet": "Aston Villa really didn't see Watkins leaving coming, but now he's potentially dipping for Saudi Arabia. Feels like everyone's just a mercenary at this point.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cq63ry9q6jzo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Watkins' departure would cut deepest - and Villa did not see it coming",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-24T17:43:20.025828+00:00"
-    },
-    {
       "tweet": "The FDA is looking at a new mRNA flu shot while everyone's still arguing about it. Can we ever just have a normal doctor visit.",
       "original_url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
       "buzz_score": 88,
@@ -847,6 +836,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "Aston Villa really didn't see Watkins leaving coming, but now he's potentially dipping for Saudi Arabia. Feels like everyone's just a mercenary at this point.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cq63ry9q6jzo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Watkins' departure would cut deepest - and Villa did not see it coming",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-24T17:43:20.025828+00:00"
     },
     {
       "tweet": "The West Bank is running out of fuel because of these new Israeli restrictions. Just another day of things getting worse.",
