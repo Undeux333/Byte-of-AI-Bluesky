@@ -2,17 +2,6 @@
   "last_collected": "2026-08-24T22:14:07.344042+00:00",
   "queue": [
     {
-      "tweet": "Pokemon creators are finally ditching the turn-based style after thirty years. Turns out even they realized we're bored of the same thing.",
-      "original_url": "https://www.polygon.com/pokemon-turn-based-gameplay-changes/",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Pokemon’s Creators Are Ready to Officially Ditch a 30-Year-Old Series Tradition",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-24T15:06:51.482341+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -46,15 +35,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Dude, Israel is threatening a forceful response to literal kites coming from Gaza. Like, they're worried about kids' toys. Man.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
+      "tweet": "Pokemon creators are finally ditching the turn-based style after thirty years. Turns out even they realized we're bored of the same thing.",
+      "original_url": "https://www.polygon.com/pokemon-turn-based-gameplay-changes/",
+      "buzz_score": 88,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Israel warns of 'forceful' response to kites flown from Gaza",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-24T15:06:51.482323+00:00"
+      "original_title": "Pokemon’s Creators Are Ready to Officially Ditch a 30-Year-Old Series Tradition",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-24T15:06:51.482341+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -66,6 +55,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Dude, Israel is threatening a forceful response to literal kites coming from Gaza. Like, they're worried about kids' toys. Man.",
+      "original_url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Israel warns of 'forceful' response to kites flown from Gaza",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-24T15:06:51.482323+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
@@ -827,17 +827,6 @@
       "added_at": "2026-08-24T15:06:51.482332+00:00"
     },
     {
-      "tweet": "The US just struck another vessel in the Pacific. Are we ever gonna go a week without something like this happening.",
-      "original_url": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-24T22:14:07.343311+00:00"
-    },
-    {
       "tweet": "So the DOJ apparently pressured schools into settlements without even having evidence? We're just throwing legal threats around for fun now",
       "original_url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
       "buzz_score": 85,
@@ -882,6 +871,17 @@
       "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
+      "tweet": "The US just struck another vessel in the Pacific. Are we ever gonna go a week without something like this happening.",
+      "original_url": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-24T22:14:07.343311+00:00"
+    },
+    {
       "tweet": "Al-Hilal is trying to buy Martinelli for fifty million. It's just a money printer at this point.",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 82,
@@ -904,17 +904,6 @@
       "added_at": "2026-08-24T15:06:51.482337+00:00"
     },
     {
-      "tweet": "Supreme Court is pausing the rules on Trump's mail voting stuff again. Does this ever actually end.",
-      "original_url": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-24T22:14:07.343555+00:00"
-    },
-    {
       "tweet": "Cory Mills is fighting to keep his seat after all those allegations. It's just wild what people can get away with in DC",
       "original_url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
       "buzz_score": 80,
@@ -935,6 +924,17 @@
       "source": "Billboard",
       "category": "entertainment",
       "added_at": "2026-08-18T20:37:36.628177+00:00"
+    },
+    {
+      "tweet": "Supreme Court is pausing the rules on Trump's mail voting stuff again. Does this ever actually end.",
+      "original_url": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-24T22:14:07.343555+00:00"
     },
     {
       "tweet": "Found this old Calvin and Hobbes quote from the mom. Hits different when you're older, man.",
