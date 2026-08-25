@@ -2,28 +2,6 @@
   "last_collected": "2026-08-25T21:49:46.293173+00:00",
   "queue": [
     {
-      "tweet": "The U.S. is trying to squeeze Iran's economy again, but experts are saying they might just have nothing left to lose. It's like we're trying to start something.",
-      "original_url": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-economy-sanctions.html",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Iran May Have Little to Lose as U.S. Tries to Squeeze Its Economy",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-25T21:49:46.292105+00:00"
-    },
-    {
-      "tweet": "The FBI raided this James Cox guy's vacation rental and now they're trying to extradite him. Like, how messy does your life have to be for the feds to show up on your holiday?",
-      "original_url": "https://www.theguardian.com/us-news/2026/aug/25/fbi-raid-james-fergie-cox-vacation-rental",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "FBI raided Spanish vacation rental of wealthy leftwing funder James ‘Fergie’ Cox after his arrest",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-25T21:49:46.292536+00:00"
-    },
-    {
       "tweet": "Dude, they just busted 39 people in South Africa for running those massive romance scams. Glad someone's finally doing something about that whole thing.",
       "original_url": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -849,17 +827,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "The oceans just hit the highest temperature on record again. How are we still acting like this is fine.",
-      "original_url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Oceans hit highest temperature on record",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-25T15:01:52.267639+00:00"
-    },
-    {
       "tweet": "Dude, Israel is threatening a forceful response to literal kites coming from Gaza. Like, they're worried about kids' toys. Man.",
       "original_url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -915,6 +882,17 @@
       "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
+      "tweet": "The oceans just hit the highest temperature on record again. How are we still acting like this is fine.",
+      "original_url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Oceans hit highest temperature on record",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-08-25T15:01:52.267639+00:00"
+    },
+    {
       "tweet": "Saw video of Israeli forces raiding that UN center and just putting their flag up. Just blatant at this point.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/video-israeli-forces-raid-un-training-centre-and-raise-israeli-flag?traffic_source=rss",
       "buzz_score": 85,
@@ -959,17 +937,6 @@
       "added_at": "2026-08-25T21:49:46.292102+00:00"
     },
     {
-      "tweet": "Some guy just got hit with a 1.2 million dollar judgment for selling music he didn't own. You really can't just steal a whole catalog and think it'll go unnoticed.",
-      "original_url": "https://www.billboard.com/pro/indie-latin-labels-publishers-catalog-lawsuit/",
-      "buzz_score": 72,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Indie Latin Labels & Publishers Win $1.2 Million Court Judgment Over Illicit Catalog Distribution",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-25T21:49:46.292109+00:00"
-    },
-    {
       "tweet": "Did you see that Australian MP got charged for assault at a festival? Politics is a mess.",
       "original_url": "https://www.theguardian.com/australia-news/2026/aug/25/federal-mp-luke-gosling-charged-with-breaching-bail-after-alleged-assault-in-nt-ntwnfb",
       "buzz_score": 75,
@@ -979,6 +946,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-25T10:20:32.242357+00:00"
+    },
+    {
+      "tweet": "Some guy just got hit with a 1.2 million dollar judgment for selling music he didn't own. You really can't just steal a whole catalog and think it'll go unnoticed.",
+      "original_url": "https://www.billboard.com/pro/indie-latin-labels-publishers-catalog-lawsuit/",
+      "buzz_score": 72,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Indie Latin Labels & Publishers Win $1.2 Million Court Judgment Over Illicit Catalog Distribution",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-08-25T21:49:46.292109+00:00"
     },
     {
       "tweet": "Did you see that Israeli lawmaker smashing a monument with a sledgehammer while the soldiers just watched? Unreal.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3547,
+    "total_posted": 3549,
     "total_collected": 15695
   },
-  "last_posted_at": "2026-08-25T22:18:54.135589+00:00"
+  "last_posted_at": "2026-08-25T22:53:53.191421+00:00"
 }
