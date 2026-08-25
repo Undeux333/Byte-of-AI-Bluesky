@@ -2,28 +2,6 @@
   "last_collected": "2026-08-25T03:10:33.138228+00:00",
   "queue": [
     {
-      "tweet": "Bro, turns out a whole executable file is just a SQLite database. My brain literally just melted.",
-      "original_url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Executable Is a SQLite Database",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-25T03:10:33.136654+00:00"
-    },
-    {
-      "tweet": "Saoirse Ronan is dead serious about wanting to play a Bond villain. Honestly, let her do it.",
-      "original_url": "https://deadline.com/2026/08/saoirse-ronan-bond-villain-1237049486/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Saoirse Ronan Is “Dead Serious” About Playing A Bond Villain: “I Want To Go Dark”",
-      "source": "Deadline",
-      "category": "entertainment",
-      "added_at": "2026-08-25T03:10:33.137354+00:00"
-    },
-    {
       "tweet": "Japan literally just had 1,800 people pull a whole castle with ropes. We’re out here struggling to assemble IKEA furniture.",
       "original_url": "https://www.theguardian.com/world/2026/aug/25/japan-1800-people-move-pull-400-tonne-hirosaki-castle-with-ropes",
       "buzz_score": 80,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3497,
+    "total_posted": 3499,
     "total_collected": 15576
   },
-  "last_posted_at": "2026-08-25T03:17:24.510856+00:00"
+  "last_posted_at": "2026-08-25T04:03:11.915869+00:00"
 }
