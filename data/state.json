@@ -2,28 +2,6 @@
   "last_collected": "2026-08-25T17:03:15.382213+00:00",
   "queue": [
     {
-      "tweet": "So apparently Canada is slapping 50% tariffs on us now because of that whole trade fight. How's that working out for us?",
-      "original_url": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Canada announces retaliatory tariffs on the U.S. as the countries' trade fight deepens",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-25T17:03:15.380858+00:00"
-    },
-    {
-      "tweet": "Did you see Anthropic is losing users to the cheaper AI models? Everyone wants the smartest bot until the subscription price hits.",
-      "original_url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-25T17:03:15.380844+00:00"
-    },
-    {
       "tweet": "Terranigma is finally getting a modern port. Sometimes the gaming industry actually gets something right.",
       "original_url": "https://kotaku.com/one-of-the-best-snes-action-rpgs-is-getting-the-rebirth-it-deserves-2000727897",
       "buzz_score": 80,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3531,
+    "total_posted": 3533,
     "total_collected": 15672
   },
-  "last_posted_at": "2026-08-25T17:11:56.037701+00:00"
+  "last_posted_at": "2026-08-25T17:48:16.372289+00:00"
 }
