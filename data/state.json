@@ -805,39 +805,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Everyone's freaking out about that Penn State bust but honestly, college is just alcohol and bad decisions. Like we didn't already know",
-      "original_url": "https://www.npr.org/2026/08/24/nx-s1-5942987/cocaine-use-is-down-but-alcohol-is-still-being-abused-by-young-adults",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Penn State bust put focus on cocaine but on most campuses the big risk is alcohol",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-25T00:35:23.777805+00:00"
-    },
-    {
-      "tweet": "Players are finally uniting against FIFA and saying change is necessary. About time someone pushed back against that whole thing.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cy4zl2mz9rko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "'Change is necessary' - players unite against Fifa",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-25T07:55:44.346666+00:00"
-    },
-    {
-      "tweet": "That Sydney developer Bathla Group just went bust and now all those buyers are stuck in limbo. It’s wild how companies can just implode and leave everyone else holding the bag.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/25/bathla-group-sydney-property-developer-collapses",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Bathla Group: major Sydney property developer collapses after ‘perfect storm’, leaving buyers in limbo",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-25T07:55:44.345610+00:00"
-    },
-    {
       "tweet": "Dude, Israel is threatening a forceful response to literal kites coming from Gaza. Like, they're worried about kids' toys. Man.",
       "original_url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -891,6 +858,39 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-08-14T16:13:56.122982+00:00"
+    },
+    {
+      "tweet": "Everyone's freaking out about that Penn State bust but honestly, college is just alcohol and bad decisions. Like we didn't already know",
+      "original_url": "https://www.npr.org/2026/08/24/nx-s1-5942987/cocaine-use-is-down-but-alcohol-is-still-being-abused-by-young-adults",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Penn State bust put focus on cocaine but on most campuses the big risk is alcohol",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-25T00:35:23.777805+00:00"
+    },
+    {
+      "tweet": "Players are finally uniting against FIFA and saying change is necessary. About time someone pushed back against that whole thing.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cy4zl2mz9rko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "'Change is necessary' - players unite against Fifa",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-25T07:55:44.346666+00:00"
+    },
+    {
+      "tweet": "That Sydney developer Bathla Group just went bust and now all those buyers are stuck in limbo. It’s wild how companies can just implode and leave everyone else holding the bag.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/25/bathla-group-sydney-property-developer-collapses",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Bathla Group: major Sydney property developer collapses after ‘perfect storm’, leaving buyers in limbo",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-25T07:55:44.345610+00:00"
     },
     {
       "tweet": "Big Fish just dropped on streaming for free. It's that one movie that lowkey makes you cry every single time you watch it.",
