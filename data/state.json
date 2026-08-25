@@ -2,28 +2,6 @@
   "last_collected": "2026-08-25T17:03:15.382213+00:00",
   "queue": [
     {
-      "tweet": "Hold on, the CIA chief just flew to Moscow for secret talks? That's about as casual as it gets.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-25T17:03:15.380855+00:00"
-    },
-    {
-      "tweet": "Charli XCX is headlining Reading and Leeds? Yeah, that makes sense.",
-      "original_url": "https://www.billboard.com/lists/reading-leeds-artists-to-see-2026-lineup/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fontaines D.C., Charli XCX, RAYE & More: 10 Unmissable Reading & Leeds Festival Sets",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-25T17:03:15.381820+00:00"
-    },
-    {
       "tweet": "Magic just made their MSCHF collab set randomized booster packs. They really know how to squeeze the fanbase.",
       "original_url": "https://www.polygon.com/mtg-magic-secret-lair-booster-packs-mschf-zeta-set/",
       "buzz_score": 80,
@@ -99,17 +77,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Did you see that Israeli lawmaker smashing a monument with a sledgehammer while the soldiers just watched? Unreal.",
-      "original_url": "https://www.nytimes.com/2026/08/25/world/middleeast/israel-lawmaker-palestinian-monument.html",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israeli Lawmaker Smashes Palestinian Monument in West Bank",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-25T17:03:15.380860+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
@@ -869,6 +836,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "Did you see that Israeli lawmaker smashing a monument with a sledgehammer while the soldiers just watched? Unreal.",
+      "original_url": "https://www.nytimes.com/2026/08/25/world/middleeast/israel-lawmaker-palestinian-monument.html",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Israeli Lawmaker Smashes Palestinian Monument in West Bank",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-25T17:03:15.380860+00:00"
     },
     {
       "tweet": "Dude, Israel is threatening a forceful response to literal kites coming from Gaza. Like, they're worried about kids' toys. Man.",
@@ -1996,8 +1974,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3535,
+    "total_posted": 3537,
     "total_collected": 15672
   },
-  "last_posted_at": "2026-08-25T18:10:13.752007+00:00"
+  "last_posted_at": "2026-08-25T19:03:41.614365+00:00"
 }
