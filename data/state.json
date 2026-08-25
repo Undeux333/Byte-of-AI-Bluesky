@@ -2,28 +2,6 @@
   "last_collected": "2026-08-25T21:49:46.293173+00:00",
   "queue": [
     {
-      "tweet": "Dude, they just busted 39 people in South Africa for running those massive romance scams. Glad someone's finally doing something about that whole thing.",
-      "original_url": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Mass arrests in global crackdown on West African cyber-crime networks",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-25T21:49:46.292099+00:00"
-    },
-    {
-      "tweet": "Hold on, we're in a trade war with Canada now? Like, actual Canada? Just wild.",
-      "original_url": "https://www.nytimes.com/2026/08/25/world/us-canada-trade-war-dolly-parton.html",
-      "buzz_score": 78,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "USA vs. Canada",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-25T21:49:46.292107+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -893,6 +871,17 @@
       "added_at": "2026-08-25T15:01:52.267639+00:00"
     },
     {
+      "tweet": "Did you see that Australian MP got charged for assault at a festival? Politics is a mess.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/25/federal-mp-luke-gosling-charged-with-breaching-bail-after-alleged-assault-in-nt-ntwnfb",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Federal MP Luke Gosling charged with breaching bail after alleged assault in NT",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-25T10:20:32.242357+00:00"
+    },
+    {
       "tweet": "Saw video of Israeli forces raiding that UN center and just putting their flag up. Just blatant at this point.",
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/video-israeli-forces-raid-un-training-centre-and-raise-israeli-flag?traffic_source=rss",
       "buzz_score": 85,
@@ -935,17 +924,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-08-25T21:49:46.292102+00:00"
-    },
-    {
-      "tweet": "Did you see that Australian MP got charged for assault at a festival? Politics is a mess.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/25/federal-mp-luke-gosling-charged-with-breaching-bail-after-alleged-assault-in-nt-ntwnfb",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Federal MP Luke Gosling charged with breaching bail after alleged assault in NT",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-25T10:20:32.242357+00:00"
     },
     {
       "tweet": "Some guy just got hit with a 1.2 million dollar judgment for selling music he didn't own. You really can't just steal a whole catalog and think it'll go unnoticed.",
@@ -1996,8 +1974,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3549,
+    "total_posted": 3551,
     "total_collected": 15695
   },
-  "last_posted_at": "2026-08-25T22:53:53.191421+00:00"
+  "last_posted_at": "2026-08-25T23:08:47.125737+00:00"
 }
