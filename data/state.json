@@ -2,28 +2,6 @@
   "last_collected": "2026-08-25T05:45:20.382844+00:00",
   "queue": [
     {
-      "tweet": "Everyone's freaking out about that Penn State bust but honestly, college is just alcohol and bad decisions. Like we didn't already know",
-      "original_url": "https://www.npr.org/2026/08/24/nx-s1-5942987/cocaine-use-is-down-but-alcohol-is-still-being-abused-by-young-adults",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Penn State bust put focus on cocaine but on most campuses the big risk is alcohol",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-25T00:35:23.777805+00:00"
-    },
-    {
-      "tweet": "Big Fish just dropped on streaming for free. It's that one movie that lowkey makes you cry every single time you watch it.",
-      "original_url": "https://www.polygon.com/big-fish-tim-burton-movies-free-streaming-august-2026/",
-      "buzz_score": 78,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Tim Burton's Forgotten 10/10 Fantasy Masterpiece is Officially Free to Watch on Streaming",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-25T05:45:20.381764+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -57,26 +35,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "A new review says care leavers in England are dying way more 'cause of a drop-off in support. That's just rough",
-      "original_url": "https://www.theguardian.com/society/2026/aug/25/care-leaver-deaths-isolation-drop-off-support-review",
-      "buzz_score": 75,
+      "tweet": "Everyone's freaking out about that Penn State bust but honestly, college is just alcohol and bad decisions. Like we didn't already know",
+      "original_url": "https://www.npr.org/2026/08/24/nx-s1-5942987/cocaine-use-is-down-but-alcohol-is-still-being-abused-by-young-adults",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "‘Immense drop-off’ in support contributing to care leaver deaths in England, review says",
-      "source": "The Guardian",
+      "original_title": "Penn State bust put focus on cocaine but on most campuses the big risk is alcohol",
+      "source": "NPR News",
       "category": "world",
-      "added_at": "2026-08-25T00:35:23.778259+00:00"
-    },
-    {
-      "tweet": "Thousands of people in Argentina are literally just moving to Patagonia with tents hoping for a job. We're all just trying to survive out here",
-      "original_url": "https://www.nytimes.com/2026/08/24/world/americas/argentina-oil-patagonia-milei.html",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Can ‘Argentina’s Texas’ Save the Country’s Economy?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-25T00:35:23.777808+00:00"
+      "added_at": "2026-08-25T00:35:23.777805+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -88,6 +55,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Big Fish just dropped on streaming for free. It's that one movie that lowkey makes you cry every single time you watch it.",
+      "original_url": "https://www.polygon.com/big-fish-tim-burton-movies-free-streaming-august-2026/",
+      "buzz_score": 78,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Tim Burton's Forgotten 10/10 Fantasy Masterpiece is Officially Free to Watch on Streaming",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-25T05:45:20.381764+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
@@ -651,15 +629,26 @@
       "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
-      "tweet": "Wait, China just gave an artist three years for making Mao sculptures after a secret trial. That's wild.",
-      "original_url": "https://www.nytimes.com/2026/08/25/world/asia/china-artist-gao-zhen-jailed-mao-sculpture.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
+      "tweet": "A new review says care leavers in England are dying way more 'cause of a drop-off in support. That's just rough",
+      "original_url": "https://www.theguardian.com/society/2026/aug/25/care-leaver-deaths-isolation-drop-off-support-review",
+      "buzz_score": 75,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Chinese Artist Sentenced to Three Years in Prison for Mao Sculptures",
+      "original_title": "‘Immense drop-off’ in support contributing to care leaver deaths in England, review says",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-25T00:35:23.778259+00:00"
+    },
+    {
+      "tweet": "Thousands of people in Argentina are literally just moving to Patagonia with tents hoping for a job. We're all just trying to survive out here",
+      "original_url": "https://www.nytimes.com/2026/08/24/world/americas/argentina-oil-patagonia-milei.html",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Can ‘Argentina’s Texas’ Save the Country’s Economy?",
       "source": "NYT World",
       "category": "world",
-      "added_at": "2026-08-25T05:45:20.382213+00:00"
+      "added_at": "2026-08-25T00:35:23.777808+00:00"
     },
     {
       "tweet": "Pokemon creators are finally ditching the turn-based style after thirty years. Turns out even they realized we're bored of the same thing.",
@@ -860,61 +849,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "This new K-pop artist ALL'N named himself after 'all in' and violin. That's a reach",
-      "original_url": "https://www.billboard.com/photos/alln-k-pop-up-and-comer-month-august-photos-1236321284/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "ALL’N Is Billboard’s K-Pop Up & Comer of the Month for August: Exclusive Photos",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-25T00:35:23.779145+00:00"
-    },
-    {
-      "tweet": "Apple said they're keeping the Hide My Email addresses on icloud.com. They're just doing their thing",
-      "original_url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-25T00:35:23.779003+00:00"
-    },
-    {
-      "tweet": "Romans were traveling to the Pyramids and Greek islands like it was nothing. Humans have always just needed a vacation",
-      "original_url": "https://www.mentalfloss.com/history/ancient-roman-travel-destinations?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "8 Travel Destinations Ancient Romans Had on Their Bucket Lists",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-25T00:35:23.778756+00:00"
-    },
-    {
-      "tweet": "The UK is just gonna start handing over classified tech for missiles to Ukraine now. Things are escalating way too fast.",
-      "original_url": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The UK will help Ukraine make long-range missiles by sharing classified tech information",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-25T05:45:20.381772+00:00"
-    },
-    {
-      "tweet": "Man, eHarmony actually got caught using subscription traps to bleed people for hundreds of bucks. They're literally monetizing your loneliness.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/25/eharmony-dating-website-sued-australia-subscription-traps-customers-charged-hundreds",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "eHarmony deceived customers with ‘subscription traps’ that cost hundreds of dollars, court finds",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-25T05:45:20.381759+00:00"
-    },
-    {
       "tweet": "Dude, Israel is threatening a forceful response to literal kites coming from Gaza. Like, they're worried about kids' toys. Man.",
       "original_url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -968,6 +902,72 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-08-14T16:13:56.122982+00:00"
+    },
+    {
+      "tweet": "Wait, China just gave an artist three years for making Mao sculptures after a secret trial. That's wild.",
+      "original_url": "https://www.nytimes.com/2026/08/25/world/asia/china-artist-gao-zhen-jailed-mao-sculpture.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Chinese Artist Sentenced to Three Years in Prison for Mao Sculptures",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-25T05:45:20.382213+00:00"
+    },
+    {
+      "tweet": "This new K-pop artist ALL'N named himself after 'all in' and violin. That's a reach",
+      "original_url": "https://www.billboard.com/photos/alln-k-pop-up-and-comer-month-august-photos-1236321284/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "ALL’N Is Billboard’s K-Pop Up & Comer of the Month for August: Exclusive Photos",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-08-25T00:35:23.779145+00:00"
+    },
+    {
+      "tweet": "Apple said they're keeping the Hide My Email addresses on icloud.com. They're just doing their thing",
+      "original_url": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-08-25T00:35:23.779003+00:00"
+    },
+    {
+      "tweet": "Romans were traveling to the Pyramids and Greek islands like it was nothing. Humans have always just needed a vacation",
+      "original_url": "https://www.mentalfloss.com/history/ancient-roman-travel-destinations?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "8 Travel Destinations Ancient Romans Had on Their Bucket Lists",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-08-25T00:35:23.778756+00:00"
+    },
+    {
+      "tweet": "The UK is just gonna start handing over classified tech for missiles to Ukraine now. Things are escalating way too fast.",
+      "original_url": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The UK will help Ukraine make long-range missiles by sharing classified tech information",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-25T05:45:20.381772+00:00"
+    },
+    {
+      "tweet": "Man, eHarmony actually got caught using subscription traps to bleed people for hundreds of bucks. They're literally monetizing your loneliness.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/25/eharmony-dating-website-sued-australia-subscription-traps-customers-charged-hundreds",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "eHarmony deceived customers with ‘subscription traps’ that cost hundreds of dollars, court finds",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-25T05:45:20.381759+00:00"
     },
     {
       "tweet": "ARIA is forcing everyone to prove their music is human-made now to get on the charts. We're literally auditing art.",
