@@ -2,28 +2,6 @@
   "last_collected": "2026-08-25T21:49:46.293173+00:00",
   "queue": [
     {
-      "tweet": "Seven people killed in an Israeli strike that hit an aid warehouse in Gaza. It's like they're not even trying to hide it anymore.",
-      "original_url": "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-25T21:49:46.292275+00:00"
-    },
-    {
-      "tweet": "Did you see this OpenAI Jalapeño thing? They're already saying it beats Nvidia's Blackwell chips. We're gonna be running robots off our phones in like a week at this rate.",
-      "original_url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-25T21:49:46.292093+00:00"
-    },
-    {
       "tweet": "The U.S. is trying to squeeze Iran's economy again, but experts are saying they might just have nothing left to lose. It's like we're trying to start something.",
       "original_url": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-economy-sanctions.html",
       "buzz_score": 82,
@@ -992,17 +970,6 @@
       "added_at": "2026-08-25T21:49:46.292109+00:00"
     },
     {
-      "tweet": "Did you see that Israeli lawmaker smashing a monument with a sledgehammer while the soldiers just watched? Unreal.",
-      "original_url": "https://www.nytimes.com/2026/08/25/world/middleeast/israel-lawmaker-palestinian-monument.html",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israeli Lawmaker Smashes Palestinian Monument in West Bank",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-25T17:03:15.380860+00:00"
-    },
-    {
       "tweet": "Did you see that Australian MP got charged for assault at a festival? Politics is a mess.",
       "original_url": "https://www.theguardian.com/australia-news/2026/aug/25/federal-mp-luke-gosling-charged-with-breaching-bail-after-alleged-assault-in-nt-ntwnfb",
       "buzz_score": 75,
@@ -1012,6 +979,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-25T10:20:32.242357+00:00"
+    },
+    {
+      "tweet": "Did you see that Israeli lawmaker smashing a monument with a sledgehammer while the soldiers just watched? Unreal.",
+      "original_url": "https://www.nytimes.com/2026/08/25/world/middleeast/israel-lawmaker-palestinian-monument.html",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Israeli Lawmaker Smashes Palestinian Monument in West Bank",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-25T17:03:15.380860+00:00"
     },
     {
       "tweet": "Taiwan just charged guys from Nvidia and Super Micro for smuggling AI servers to China. I mean, who didn't see that coming.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3545,
+    "total_posted": 3547,
     "total_collected": 15695
   },
-  "last_posted_at": "2026-08-25T21:59:47.615716+00:00"
+  "last_posted_at": "2026-08-25T22:18:54.135589+00:00"
 }
