@@ -2,28 +2,6 @@
   "last_collected": "2026-08-25T10:20:32.242995+00:00",
   "queue": [
     {
-      "tweet": "Bro, Busta and Dilla just dropped a new project. My speakers aren't ready for this.",
-      "original_url": "https://www.billboard.com/music/rb-hip-hop/busta-rhymes-j-dilla-dillagence-2-1236323387/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Busta Rhymes Releases J Dilla-Produced ‘Dillagence II’ Project Featuring D’Angelo, Lil Wayne, Ludacris & Big Sean: Stream It Now",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-25T10:20:32.241174+00:00"
-    },
-    {
-      "tweet": "Did you see Xiaomi is putting out chips that beat Apple on multi-core? We're officially reaching the point where these brands aren't even trying to hide it anymore. Wild.",
-      "original_url": "https://twitter.com/lemire/status/2091894299289874926",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-25T10:20:32.241164+00:00"
-    },
-    {
       "tweet": "Tottenham really just shelled out 75 million for Savinho. They're going all in.",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/cy7z637nj8jo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3511,
+    "total_posted": 3513,
     "total_collected": 15624
   },
-  "last_posted_at": "2026-08-25T10:26:25.382038+00:00"
+  "last_posted_at": "2026-08-25T11:03:12.439226+00:00"
 }
