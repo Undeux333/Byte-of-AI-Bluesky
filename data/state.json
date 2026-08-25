@@ -2,28 +2,6 @@
   "last_collected": "2026-08-25T19:22:07.589429+00:00",
   "queue": [
     {
-      "tweet": "So apparently the government just admitted those numbers they were throwing around about noncitizens on voter rolls were totally inflated. Classic.",
-      "original_url": "https://www.npr.org/2026/08/25/nx-s1-5940807/noncitizen-voters-trump-nevada-call",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "DHS acknowledges the noncitizen numbers it touted on voter rolls were inflated",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-25T19:22:07.589258+00:00"
-    },
-    {
-      "tweet": "Luke Littler just lost in the quarter-finals. Like, does the kid ever just get a day off?",
-      "original_url": "https://www.bbc.co.uk/sport/darts/articles/c36ln69p1ldo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Littler's Players Championship hopes dented",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-25T19:22:07.589263+00:00"
-    },
-    {
       "tweet": "Magic just made their MSCHF collab set randomized booster packs. They really know how to squeeze the fanbase.",
       "original_url": "https://www.polygon.com/mtg-magic-secret-lair-booster-packs-mschf-zeta-set/",
       "buzz_score": 80,
@@ -651,17 +629,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Saw video of Israeli forces raiding that UN center and just putting their flag up. Just blatant at this point.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/video-israeli-forces-raid-un-training-centre-and-raise-israeli-flag?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Video: Israeli forces raid UN training centre and raise Israeli flag",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-25T19:22:07.589265+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -871,15 +838,15 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Did you see that Israeli lawmaker smashing a monument with a sledgehammer while the soldiers just watched? Unreal.",
-      "original_url": "https://www.nytimes.com/2026/08/25/world/middleeast/israel-lawmaker-palestinian-monument.html",
-      "buzz_score": 90,
+      "tweet": "Saw video of Israeli forces raiding that UN center and just putting their flag up. Just blatant at this point.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/video-israeli-forces-raid-un-training-centre-and-raise-israeli-flag?traffic_source=rss",
+      "buzz_score": 85,
       "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "Israeli Lawmaker Smashes Palestinian Monument in West Bank",
-      "source": "NYT World",
+      "original_title": "Video: Israeli forces raid UN training centre and raise Israeli flag",
+      "source": "Al Jazeera",
       "category": "world",
-      "added_at": "2026-08-25T17:03:15.380860+00:00"
+      "added_at": "2026-08-25T19:22:07.589265+00:00"
     },
     {
       "tweet": "Dude, Israel is threatening a forceful response to literal kites coming from Gaza. Like, they're worried about kids' toys. Man.",
@@ -935,6 +902,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-08-14T16:13:56.122982+00:00"
+    },
+    {
+      "tweet": "Did you see that Israeli lawmaker smashing a monument with a sledgehammer while the soldiers just watched? Unreal.",
+      "original_url": "https://www.nytimes.com/2026/08/25/world/middleeast/israel-lawmaker-palestinian-monument.html",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Israeli Lawmaker Smashes Palestinian Monument in West Bank",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-25T17:03:15.380860+00:00"
     },
     {
       "tweet": "Taiwan just charged guys from Nvidia and Super Micro for smuggling AI servers to China. I mean, who didn't see that coming.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3539,
+    "total_posted": 3541,
     "total_collected": 15681
   },
-  "last_posted_at": "2026-08-25T19:29:18.875419+00:00"
+  "last_posted_at": "2026-08-25T19:59:24.999099+00:00"
 }
