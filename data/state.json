@@ -2,39 +2,6 @@
   "last_collected": "2026-08-25T19:22:07.589429+00:00",
   "queue": [
     {
-      "tweet": "Magic just made their MSCHF collab set randomized booster packs. They really know how to squeeze the fanbase.",
-      "original_url": "https://www.polygon.com/mtg-magic-secret-lair-booster-packs-mschf-zeta-set/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Exclusive: Secret Lair Boss Reveals Why Magic’s Zeta Set Had To Come in Booster Packs",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-25T15:01:52.267387+00:00"
-    },
-    {
-      "tweet": "So Mette Frederiksen gets back from Ukraine and a plastic surgeon hits her up to fix her nose. The audacity of these people is something else.",
-      "original_url": "https://www.nytimes.com/2026/08/25/world/europe/denmark-frederiksen-nose-plastic-surgeon.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘I’m Fine With My Body’: Danish Leader Responds to Unsolicited Beauty Advice",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-25T15:01:52.266801+00:00"
-    },
-    {
-      "tweet": "The oceans just hit the highest temperature on record again. How are we still acting like this is fine.",
-      "original_url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Oceans hit highest temperature on record",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-25T15:01:52.267639+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -66,6 +33,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "The oceans just hit the highest temperature on record again. How are we still acting like this is fine.",
+      "original_url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Oceans hit highest temperature on record",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-08-25T15:01:52.267639+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3541,
+    "total_posted": 3543,
     "total_collected": 15681
   },
-  "last_posted_at": "2026-08-25T19:59:24.999099+00:00"
+  "last_posted_at": "2026-08-25T20:23:24.941250+00:00"
 }
