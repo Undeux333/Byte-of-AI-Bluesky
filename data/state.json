@@ -2,28 +2,6 @@
   "last_collected": "2026-08-25T03:10:33.138228+00:00",
   "queue": [
     {
-      "tweet": "UK Prime Minister Burnham is already in Ukraine for his first trip. The world is just on fire right now",
-      "original_url": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-25T00:35:23.777811+00:00"
-    },
-    {
-      "tweet": "Those Navy families in Bahrain have been in limbo for six months now. We're just living in total chaos, man",
-      "original_url": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Six months on, U.S. Navy families who evacuated Bahrain remain in limbo",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-25T00:35:23.777801+00:00"
-    },
-    {
       "tweet": "Vaughan wants a punishment for the England team that sends a shiver down their spine because of a drinking thing. At this point we're just policing hobbies",
       "original_url": "https://www.bbc.co.uk/sport/cricket/articles/cx2zn3exqj7o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -101,6 +79,17 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
+      "buzz_score": 92,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
       "tweet": "This new K-pop artist ALL'N named himself after 'all in' and violin. That's a reach",
       "original_url": "https://www.billboard.com/photos/alln-k-pop-up-and-comer-month-august-photos-1236321284/",
       "buzz_score": 70,
@@ -132,17 +121,6 @@
       "source": "Mental Floss",
       "category": "trivia",
       "added_at": "2026-08-25T00:35:23.778756+00:00"
-    },
-    {
-      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
-      "buzz_score": 92,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-24T11:28:23.259709+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
@@ -1996,8 +1974,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3501,
+    "total_posted": 3503,
     "total_collected": 15576
   },
-  "last_posted_at": "2026-08-25T04:39:39.330095+00:00"
+  "last_posted_at": "2026-08-25T05:13:29.957916+00:00"
 }
