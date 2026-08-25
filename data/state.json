@@ -2,28 +2,6 @@
   "last_collected": "2026-08-25T05:45:20.382844+00:00",
   "queue": [
     {
-      "tweet": "Did you hear about Australia banning AI songs from the charts? They had to do it after some DJ gamed the system with a fake Madonna track. Absolute madness.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Songs created by AI banned from Australia's music charts",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-25T05:45:20.381750+00:00"
-    },
-    {
-      "tweet": "Vaughan wants a punishment for the England team that sends a shiver down their spine because of a drinking thing. At this point we're just policing hobbies",
-      "original_url": "https://www.bbc.co.uk/sport/cricket/articles/cx2zn3exqj7o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Punishment that sends shiver down whole England team needed - Vaughan",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-25T00:35:23.777813+00:00"
-    },
-    {
       "tweet": "Everyone's freaking out about that Penn State bust but honestly, college is just alcohol and bad decisions. Like we didn't already know",
       "original_url": "https://www.npr.org/2026/08/24/nx-s1-5942987/cocaine-use-is-down-but-alcohol-is-still-being-abused-by-young-adults",
       "buzz_score": 80,
@@ -662,17 +640,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Wait, China just gave an artist three years for making Mao sculptures after a secret trial. That's wild.",
-      "original_url": "https://www.nytimes.com/2026/08/25/world/asia/china-artist-gao-zhen-jailed-mao-sculpture.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Chinese Artist Sentenced to Three Years in Prison for Mao Sculptures",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-25T05:45:20.382213+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -684,37 +651,15 @@
       "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
-      "tweet": "This new K-pop artist ALL'N named himself after 'all in' and violin. That's a reach",
-      "original_url": "https://www.billboard.com/photos/alln-k-pop-up-and-comer-month-august-photos-1236321284/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
+      "tweet": "Wait, China just gave an artist three years for making Mao sculptures after a secret trial. That's wild.",
+      "original_url": "https://www.nytimes.com/2026/08/25/world/asia/china-artist-gao-zhen-jailed-mao-sculpture.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
       "rewrite_count": 0,
-      "original_title": "ALL’N Is Billboard’s K-Pop Up & Comer of the Month for August: Exclusive Photos",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-25T00:35:23.779145+00:00"
-    },
-    {
-      "tweet": "Apple said they're keeping the Hide My Email addresses on icloud.com. They're just doing their thing",
-      "original_url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-25T00:35:23.779003+00:00"
-    },
-    {
-      "tweet": "Romans were traveling to the Pyramids and Greek islands like it was nothing. Humans have always just needed a vacation",
-      "original_url": "https://www.mentalfloss.com/history/ancient-roman-travel-destinations?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "8 Travel Destinations Ancient Romans Had on Their Bucket Lists",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-25T00:35:23.778756+00:00"
+      "original_title": "Chinese Artist Sentenced to Three Years in Prison for Mao Sculptures",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-25T05:45:20.382213+00:00"
     },
     {
       "tweet": "Pokemon creators are finally ditching the turn-based style after thirty years. Turns out even they realized we're bored of the same thing.",
@@ -913,6 +858,39 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "This new K-pop artist ALL'N named himself after 'all in' and violin. That's a reach",
+      "original_url": "https://www.billboard.com/photos/alln-k-pop-up-and-comer-month-august-photos-1236321284/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "ALL’N Is Billboard’s K-Pop Up & Comer of the Month for August: Exclusive Photos",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-08-25T00:35:23.779145+00:00"
+    },
+    {
+      "tweet": "Apple said they're keeping the Hide My Email addresses on icloud.com. They're just doing their thing",
+      "original_url": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-08-25T00:35:23.779003+00:00"
+    },
+    {
+      "tweet": "Romans were traveling to the Pyramids and Greek islands like it was nothing. Humans have always just needed a vacation",
+      "original_url": "https://www.mentalfloss.com/history/ancient-roman-travel-destinations?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "8 Travel Destinations Ancient Romans Had on Their Bucket Lists",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-08-25T00:35:23.778756+00:00"
     },
     {
       "tweet": "The UK is just gonna start handing over classified tech for missiles to Ukraine now. Things are escalating way too fast.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3505,
+    "total_posted": 3507,
     "total_collected": 15592
   },
-  "last_posted_at": "2026-08-25T05:50:27.545709+00:00"
+  "last_posted_at": "2026-08-25T06:09:03.020753+00:00"
 }
