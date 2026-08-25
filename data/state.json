@@ -2,28 +2,6 @@
   "last_collected": "2026-08-25T17:03:15.382213+00:00",
   "queue": [
     {
-      "tweet": "Terranigma is finally getting a modern port. Sometimes the gaming industry actually gets something right.",
-      "original_url": "https://kotaku.com/one-of-the-best-snes-action-rpgs-is-getting-the-rebirth-it-deserves-2000727897",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "One Of The Best SNES Action-RPGs Is Getting The Rebirth It Deserves",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-25T17:03:15.381442+00:00"
-    },
-    {
-      "tweet": "Manchester United spent 155 million on three midfielders and now they're still shopping? Must be nice.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/clykngy3gldo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Man Utd's midfield spending is done - now for a left-back?",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-25T17:03:15.380865+00:00"
-    },
-    {
       "tweet": "Hold on, the CIA chief just flew to Moscow for secret talks? That's about as casual as it gets.",
       "original_url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -112,17 +90,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Did you see that Israeli lawmaker smashing a monument with a sledgehammer while the soldiers just watched? Unreal.",
-      "original_url": "https://www.nytimes.com/2026/08/25/world/middleeast/israel-lawmaker-palestinian-monument.html",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Israeli Lawmaker Smashes Palestinian Monument in West Bank",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-25T17:03:15.380860+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -132,6 +99,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Did you see that Israeli lawmaker smashing a monument with a sledgehammer while the soldiers just watched? Unreal.",
+      "original_url": "https://www.nytimes.com/2026/08/25/world/middleeast/israel-lawmaker-palestinian-monument.html",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Israeli Lawmaker Smashes Palestinian Monument in West Bank",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-25T17:03:15.380860+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
@@ -893,39 +871,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Did you see that Australian MP got charged for assault at a festival? Politics is a mess.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/25/federal-mp-luke-gosling-charged-with-breaching-bail-after-alleged-assault-in-nt-ntwnfb",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Federal MP Luke Gosling charged with breaching bail after alleged assault in NT",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-25T10:20:32.242357+00:00"
-    },
-    {
-      "tweet": "Kentucky Wildcats just got Kobe PEs for Mamba Day. I need those so bad.",
-      "original_url": "https://hypebeast.com/2026/8/kentucky-wildcats-nike-kobe-em-protro-kobe-6-pe-revealed",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Kentucky Wildcats Reveal Nike Kobe 8 EM Protro and Kobe 6 Cleat PEs for Mamba Day",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-08-25T10:20:32.241857+00:00"
-    },
-    {
-      "tweet": "Twenty-seven years later and The Saga Begins is still better than the actual movie. We all know that, right.",
-      "original_url": "https://www.polygon.com/star-wars-weird-al-parody/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "27 Years Ago, The Last True Star Wars Masterpiece Arrived a Month After Phantom Menace",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-25T10:20:32.241331+00:00"
-    },
-    {
       "tweet": "Dude, Israel is threatening a forceful response to literal kites coming from Gaza. Like, they're worried about kids' toys. Man.",
       "original_url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -979,6 +924,39 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-08-14T16:13:56.122982+00:00"
+    },
+    {
+      "tweet": "Did you see that Australian MP got charged for assault at a festival? Politics is a mess.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/25/federal-mp-luke-gosling-charged-with-breaching-bail-after-alleged-assault-in-nt-ntwnfb",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Federal MP Luke Gosling charged with breaching bail after alleged assault in NT",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-25T10:20:32.242357+00:00"
+    },
+    {
+      "tweet": "Kentucky Wildcats just got Kobe PEs for Mamba Day. I need those so bad.",
+      "original_url": "https://hypebeast.com/2026/8/kentucky-wildcats-nike-kobe-em-protro-kobe-6-pe-revealed",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Kentucky Wildcats Reveal Nike Kobe 8 EM Protro and Kobe 6 Cleat PEs for Mamba Day",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-08-25T10:20:32.241857+00:00"
+    },
+    {
+      "tweet": "Twenty-seven years later and The Saga Begins is still better than the actual movie. We all know that, right.",
+      "original_url": "https://www.polygon.com/star-wars-weird-al-parody/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "27 Years Ago, The Last True Star Wars Masterpiece Arrived a Month After Phantom Menace",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-25T10:20:32.241331+00:00"
     },
     {
       "tweet": "Billy Boston passed away at 92. A total legend.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3533,
+    "total_posted": 3535,
     "total_collected": 15672
   },
-  "last_posted_at": "2026-08-25T17:48:16.372289+00:00"
+  "last_posted_at": "2026-08-25T18:10:13.752007+00:00"
 }
