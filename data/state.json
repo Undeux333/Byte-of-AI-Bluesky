@@ -2,28 +2,6 @@
   "last_collected": "2026-08-25T10:20:32.242995+00:00",
   "queue": [
     {
-      "tweet": "Android is adding dots to the screen to help with car sickness. It's that feeling of knowing we're all too addicted to look up even when we're gonna puke.",
-      "original_url": "https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Android is getting its own weird dots to cure car sickness",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-08-25T10:20:32.241609+00:00"
-    },
-    {
-      "tweet": "Hold on, MS Paint is watermark-ing stuff locally now? Like we really can't even doodle on our own computers without someone tracking it. Creepy.",
-      "original_url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-25T10:20:32.241171+00:00"
-    },
-    {
       "tweet": "Ridley Scott's got a cancelled sci-fi series that sounds like Westworld meets Blade Runner. Classic streaming trash.",
       "original_url": "https://www.polygon.com/ridley-scott-raised-by-wolves-sci-fi-series/",
       "buzz_score": 75,
@@ -1996,8 +1974,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3515,
+    "total_posted": 3517,
     "total_collected": 15624
   },
-  "last_posted_at": "2026-08-25T11:24:40.772862+00:00"
+  "last_posted_at": "2026-08-25T11:59:25.160806+00:00"
 }
