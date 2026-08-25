@@ -2,28 +2,6 @@
   "last_collected": "2026-08-25T03:10:33.138228+00:00",
   "queue": [
     {
-      "tweet": "Japan literally just had 1,800 people pull a whole castle with ropes. We’re out here struggling to assemble IKEA furniture.",
-      "original_url": "https://www.theguardian.com/world/2026/aug/25/japan-1800-people-move-pull-400-tonne-hirosaki-castle-with-ropes",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Japan enlists 1,800 people to drag a 360-tonne castle keep using ropes and rollers",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-25T03:10:33.136663+00:00"
-    },
-    {
-      "tweet": "US is hitting Iran with more sanctions and telling everyone else to pick a side. It's that power play again",
-      "original_url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-25T00:35:23.778127+00:00"
-    },
-    {
       "tweet": "UK Prime Minister Burnham is already in Ukraine for his first trip. The world is just on fire right now",
       "original_url": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html",
       "buzz_score": 85,
@@ -90,39 +68,6 @@
       "added_at": "2026-08-25T00:35:23.777808+00:00"
     },
     {
-      "tweet": "This new K-pop artist ALL'N named himself after 'all in' and violin. That's a reach",
-      "original_url": "https://www.billboard.com/photos/alln-k-pop-up-and-comer-month-august-photos-1236321284/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "ALL’N Is Billboard’s K-Pop Up & Comer of the Month for August: Exclusive Photos",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-25T00:35:23.779145+00:00"
-    },
-    {
-      "tweet": "Apple said they're keeping the Hide My Email addresses on icloud.com. They're just doing their thing",
-      "original_url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-25T00:35:23.779003+00:00"
-    },
-    {
-      "tweet": "Romans were traveling to the Pyramids and Greek islands like it was nothing. Humans have always just needed a vacation",
-      "original_url": "https://www.mentalfloss.com/history/ancient-roman-travel-destinations?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "8 Travel Destinations Ancient Romans Had on Their Bucket Lists",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-25T00:35:23.778756+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -154,6 +99,39 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "This new K-pop artist ALL'N named himself after 'all in' and violin. That's a reach",
+      "original_url": "https://www.billboard.com/photos/alln-k-pop-up-and-comer-month-august-photos-1236321284/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "ALL’N Is Billboard’s K-Pop Up & Comer of the Month for August: Exclusive Photos",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-08-25T00:35:23.779145+00:00"
+    },
+    {
+      "tweet": "Apple said they're keeping the Hide My Email addresses on icloud.com. They're just doing their thing",
+      "original_url": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-08-25T00:35:23.779003+00:00"
+    },
+    {
+      "tweet": "Romans were traveling to the Pyramids and Greek islands like it was nothing. Humans have always just needed a vacation",
+      "original_url": "https://www.mentalfloss.com/history/ancient-roman-travel-destinations?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "8 Travel Destinations Ancient Romans Had on Their Bucket Lists",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-08-25T00:35:23.778756+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -981,17 +959,6 @@
       "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
-      "tweet": "Akira is back in theaters for one day only. We’re gonna go, right? It’s just one of those movies you gotta see big.",
-      "original_url": "https://www.polygon.com/akira-movie-2026-theatrical-rerelease-imax-4k/",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Akira Officially Returns to Theaters in IMAX and 4K for One Day Only",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-25T03:10:33.136669+00:00"
-    },
-    {
       "tweet": "England just dropped Brydon Carse from the squad for that nightclub incident. Imagine ruining your career because you couldn't stay out of trouble for one weekend.",
       "original_url": "https://www.bbc.co.uk/sport/cricket/articles/cn74lg8xzpvo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -1012,6 +979,17 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-08-18T20:37:36.628322+00:00"
+    },
+    {
+      "tweet": "Akira is back in theaters for one day only. We’re gonna go, right? It’s just one of those movies you gotta see big.",
+      "original_url": "https://www.polygon.com/akira-movie-2026-theatrical-rerelease-imax-4k/",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Akira Officially Returns to Theaters in IMAX and 4K for One Day Only",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-25T03:10:33.136669+00:00"
     }
   ],
   "seen_urls": [
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3499,
+    "total_posted": 3501,
     "total_collected": 15576
   },
-  "last_posted_at": "2026-08-25T04:03:11.915869+00:00"
+  "last_posted_at": "2026-08-25T04:39:39.330095+00:00"
 }
