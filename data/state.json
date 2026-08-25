@@ -2,28 +2,6 @@
   "last_collected": "2026-08-25T15:01:52.268159+00:00",
   "queue": [
     {
-      "tweet": "Dude, Apple just dropped the M6 and M5 Ultra. Like we were all struggling to load a spreadsheet, but sure, let's add more AI compute. Just wild.",
-      "original_url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-25T15:01:52.266795+00:00"
-    },
-    {
-      "tweet": "Nick Faldo wants the LIV guys to 'eat humble pie' to get back on the DP World Tour. Power move.",
-      "original_url": "https://www.bbc.co.uk/sport/golf/articles/c3red51l4vxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 82,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "LIV returnees should 'eat humble pie' - Faldo",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-25T15:01:52.266808+00:00"
-    },
-    {
       "tweet": "Magic just made their MSCHF collab set randomized booster packs. They really know how to squeeze the fanbase.",
       "original_url": "https://www.polygon.com/mtg-magic-secret-lair-booster-packs-mschf-zeta-set/",
       "buzz_score": 80,
@@ -90,6 +68,17 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
+      "buzz_score": 92,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
       "tweet": "Did you see that Australian MP got charged for assault at a festival? Politics is a mess.",
       "original_url": "https://www.theguardian.com/australia-news/2026/aug/25/federal-mp-luke-gosling-charged-with-breaching-bail-after-alleged-assault-in-nt-ntwnfb",
       "buzz_score": 75,
@@ -121,17 +110,6 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-08-25T10:20:32.241331+00:00"
-    },
-    {
-      "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
-      "buzz_score": 92,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Australian citizen working as spy for Iran ‘orchestrated’ Bondi firebombing, Asio boss says",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-06-24T11:28:23.259709+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
@@ -926,17 +904,6 @@
       "added_at": "2026-08-25T10:20:32.242233+00:00"
     },
     {
-      "tweet": "Just read this thing about digital ownership and how we don't actually own anything we bought. It’s a rental world, man.",
-      "original_url": "https://schlarp.com/posts/everything-i-own-owned/",
-      "buzz_score": 75,
-      "buzz_score2": 93,
-      "rewrite_count": 0,
-      "original_title": "Everything I own, owned",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-25T12:23:42.964936+00:00"
-    },
-    {
       "tweet": "Dude, Israel is threatening a forceful response to literal kites coming from Gaza. Like, they're worried about kids' toys. Man.",
       "original_url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -990,6 +957,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-08-14T16:13:56.122982+00:00"
+    },
+    {
+      "tweet": "Just read this thing about digital ownership and how we don't actually own anything we bought. It’s a rental world, man.",
+      "original_url": "https://schlarp.com/posts/everything-i-own-owned/",
+      "buzz_score": 75,
+      "buzz_score2": 93,
+      "rewrite_count": 0,
+      "original_title": "Everything I own, owned",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-08-25T12:23:42.964936+00:00"
     },
     {
       "tweet": "Restaurants are actually starting to ban tips now. Turns out just paying people a real wage is way less complicated than this whole song and dance.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3527,
+    "total_posted": 3529,
     "total_collected": 15656
   },
-  "last_posted_at": "2026-08-25T16:02:04.107107+00:00"
+  "last_posted_at": "2026-08-25T16:33:08.807859+00:00"
 }
