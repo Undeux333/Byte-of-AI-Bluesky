@@ -2,28 +2,6 @@
   "last_collected": "2026-08-26T11:53:00.785257+00:00",
   "queue": [
     {
-      "tweet": "Did you see that X is sending cease and desists to Nitter? Can't even look at a feed without a login anymore. Just desperate",
-      "original_url": "https://github.com/zedeus/nitter/issues/1442",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Nitter and XCancel receive cease and desist notices",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-26T11:53:00.784057+00:00"
-    },
-    {
-      "tweet": "Rockstar finally called those GTA 6 leaks heartbreaking. You think they'd learn by now",
-      "original_url": "https://kotaku.com/rockstar-gta-6-leaks-grand-theft-auto-cyberleek-official-statement-2000728341",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Rockstar Finally Releases A Statement On The GTA 6 Leaks, Calls It ‘Heartbreaking’",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-26T11:53:00.784387+00:00"
-    },
-    {
       "tweet": "People are losing their minds over the Logan trailer history. We're just stuck in the past",
       "original_url": "https://www.polygon.com/video/what-s-up-with-the-logan-trailer-the-history-of-x-23/",
       "buzz_score": 75,
@@ -871,17 +849,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Tubi just dropped all 156 episodes of The Twilight Zone for free. My weekend is gone.",
-      "original_url": "https://www.polygon.com/cbs-sci-fi-shows-twilight-zone-free-streaming/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "CBS's Legendary 156-Episode Sci-Fi Anthology Series is Officially Free to Watch on Streaming",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-26T04:53:06.881638+00:00"
-    },
-    {
       "tweet": "Dude, Israel is threatening a forceful response to literal kites coming from Gaza. Like, they're worried about kids' toys. Man.",
       "original_url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -935,6 +902,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-08-14T16:13:56.122982+00:00"
+    },
+    {
+      "tweet": "Tubi just dropped all 156 episodes of The Twilight Zone for free. My weekend is gone.",
+      "original_url": "https://www.polygon.com/cbs-sci-fi-shows-twilight-zone-free-streaming/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "CBS's Legendary 156-Episode Sci-Fi Anthology Series is Officially Free to Watch on Streaming",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-26T04:53:06.881638+00:00"
     },
     {
       "tweet": "Canada is hitting the U.S. with dollar-for-dollar tariffs now. Are we really doing a trade war with our neighbors",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3571,
+    "total_posted": 3573,
     "total_collected": 15783
   },
-  "last_posted_at": "2026-08-26T12:00:25.954367+00:00"
+  "last_posted_at": "2026-08-26T12:33:10.655117+00:00"
 }
