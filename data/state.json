@@ -35,17 +35,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Tubi just dropped all 156 episodes of The Twilight Zone for free. My weekend is gone.",
-      "original_url": "https://www.polygon.com/cbs-sci-fi-shows-twilight-zone-free-streaming/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "CBS's Legendary 156-Episode Sci-Fi Anthology Series is Officially Free to Watch on Streaming",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-26T04:53:06.881638+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -55,6 +44,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Tubi just dropped all 156 episodes of The Twilight Zone for free. My weekend is gone.",
+      "original_url": "https://www.polygon.com/cbs-sci-fi-shows-twilight-zone-free-streaming/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "CBS's Legendary 156-Episode Sci-Fi Anthology Series is Officially Free to Watch on Streaming",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-26T04:53:06.881638+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
@@ -893,50 +893,6 @@
       "added_at": "2026-08-26T07:30:08.938458+00:00"
     },
     {
-      "tweet": "Did you see the new Witcher 3 demo? Geralt is looking lethal again.",
-      "original_url": "https://www.polygon.com/witcher-3-songs-past-preview-gameplay-gamescom/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The Witcher 3 Songs of the Past’s First Gameplay Demo Showcases Geralt’s New Weapon and Deadly Enemies",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-26T09:38:30.611919+00:00"
-    },
-    {
-      "tweet": "Started playing Persona 4 again and it still hits the same way it did back then. Some games just don't age.",
-      "original_url": "https://kotaku.com/persona-4-revival-preview-gamescom-atlus-p-studio-boss-2000727581",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "After Playing Persona 4 Revival, It’s Nice To Know Some Parts Of The RPG Classic Are Still Timeless",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-26T09:38:30.611539+00:00"
-    },
-    {
-      "tweet": "So Tottenham is dropping sixty million on Marmoush next summer. At this point, clubs are just throwing money at anything that moves.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cx2z5ewlrwko?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Tottenham agree loan for Man City's Marmoush",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-26T09:38:30.611285+00:00"
-    },
-    {
-      "tweet": "Did you see that whole thing with the Canada trade talks? The US is pushing tariffs and the Canadians are just refusing to budge. Good luck with that.",
-      "original_url": "https://www.nytimes.com/2026/08/26/world/canada/carney-canada-trump-tariffs-retaliate.html",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Canadians Stand Their Ground as Trump’s New Tariffs Endanger Jobs",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-26T09:38:30.610976+00:00"
-    },
-    {
       "tweet": "Tried that new Friendslop game and got wrecked by a crab in five seconds. Probably helps if you actually have friends.",
       "original_url": "https://kotaku.com/how-to-fish-spider-crab-murder-2000728082",
       "buzz_score": 75,
@@ -979,6 +935,50 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-25T10:20:32.242357+00:00"
+    },
+    {
+      "tweet": "Did you see the new Witcher 3 demo? Geralt is looking lethal again.",
+      "original_url": "https://www.polygon.com/witcher-3-songs-past-preview-gameplay-gamescom/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Witcher 3 Songs of the Past’s First Gameplay Demo Showcases Geralt’s New Weapon and Deadly Enemies",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-26T09:38:30.611919+00:00"
+    },
+    {
+      "tweet": "Started playing Persona 4 again and it still hits the same way it did back then. Some games just don't age.",
+      "original_url": "https://kotaku.com/persona-4-revival-preview-gamescom-atlus-p-studio-boss-2000727581",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "After Playing Persona 4 Revival, It’s Nice To Know Some Parts Of The RPG Classic Are Still Timeless",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-26T09:38:30.611539+00:00"
+    },
+    {
+      "tweet": "So Tottenham is dropping sixty million on Marmoush next summer. At this point, clubs are just throwing money at anything that moves.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cx2z5ewlrwko?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Tottenham agree loan for Man City's Marmoush",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-26T09:38:30.611285+00:00"
+    },
+    {
+      "tweet": "Did you see that whole thing with the Canada trade talks? The US is pushing tariffs and the Canadians are just refusing to budge. Good luck with that.",
+      "original_url": "https://www.nytimes.com/2026/08/26/world/canada/carney-canada-trump-tariffs-retaliate.html",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Canadians Stand Their Ground as Trump’s New Tariffs Endanger Jobs",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-08-26T09:38:30.610976+00:00"
     },
     {
       "tweet": "Celtic just got thumped by LASK? Rough.",
