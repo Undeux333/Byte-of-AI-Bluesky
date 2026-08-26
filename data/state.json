@@ -2,28 +2,6 @@
   "last_collected": "2026-08-26T02:17:58.461453+00:00",
   "queue": [
     {
-      "tweet": "That Danish leader just got a message from a plastic surgeon asking to fix her nose right after she visited Ukraine. The audacity is actually insane.",
-      "original_url": "https://www.nytimes.com/2026/08/25/world/europe/denmark-frederiksen-nose-plastic-surgeon.html",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "‘I’m Fine With My Body’: Danish Leader Responds to Unsolicited Beauty Advice",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-26T02:17:58.460421+00:00"
-    },
-    {
-      "tweet": "Did you see that the Victorian government was secretly hiking transit fares to fund that rail loop? They're literally taxing us to pay for their own project.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/26/victoria-suburban-rail-loop-srl-public-transport-fare-levy-increase",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Suburban Rail Loop: Victorian government secretly increased public transport fares to help pay for controversial SRL",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-26T02:17:58.459869+00:00"
-    },
-    {
       "tweet": "So apparently like six states are voting on voter ID stuff this year. They're definitely keeping it interesting.",
       "original_url": "https://www.npr.org/2026/08/25/nx-s1-5940004/voter-id-citizenship-ballot-measures",
       "buzz_score": 75,
@@ -79,17 +57,6 @@
       "added_at": "2026-08-25T23:57:35.684199+00:00"
     },
     {
-      "tweet": "Xiaomi’s new CPU is actually beating Apple’s cores in multi-threaded speed. Things are getting weird out here.",
-      "original_url": "https://twitter.com/lemire/status/2091894299289874926",
-      "buzz_score": 65,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-25T23:57:35.684497+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -134,15 +101,15 @@
       "added_at": "2026-06-24T11:28:23.259709+00:00"
     },
     {
-      "tweet": "Just read that Marco Polo was a real guy and not just a game we shouted in a pool as kids. We really just turn anything into a joke, don't we.",
-      "original_url": "https://www.mentalfloss.com/history/who-was-marco-polo-how-did-name-become-famous-pool-game?utm_source=RSS",
-      "buzz_score": 60,
+      "tweet": "Xiaomi’s new CPU is actually beating Apple’s cores in multi-threaded speed. Things are getting weird out here.",
+      "original_url": "https://twitter.com/lemire/status/2091894299289874926",
+      "buzz_score": 65,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Who Was Marco Polo and How Did His Name Become a Famous Pool Game?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-25T23:57:35.684630+00:00"
+      "original_title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-08-25T23:57:35.684497+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
@@ -695,17 +662,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Two people died of measles in Pennsylvania? How are we going backward on this.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Two unvaccinated people die of measles in Pennsylvania",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-08-26T02:17:58.460163+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -915,6 +871,17 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
+      "tweet": "Just read that Marco Polo was a real guy and not just a game we shouted in a pool as kids. We really just turn anything into a joke, don't we.",
+      "original_url": "https://www.mentalfloss.com/history/who-was-marco-polo-how-did-name-become-famous-pool-game?utm_source=RSS",
+      "buzz_score": 60,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Who Was Marco Polo and How Did His Name Become a Famous Pool Game?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-08-25T23:57:35.684630+00:00"
+    },
+    {
       "tweet": "Dude, Israel is threatening a forceful response to literal kites coming from Gaza. Like, they're worried about kids' toys. Man.",
       "original_url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -970,6 +937,17 @@
       "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
+      "tweet": "Two people died of measles in Pennsylvania? How are we going backward on this.",
+      "original_url": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Two unvaccinated people die of measles in Pennsylvania",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-08-26T02:17:58.460163+00:00"
+    },
+    {
       "tweet": "OpenAI just lost another top data center exec. Seems like everyone's jumping ship lately.",
       "original_url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
       "buzz_score": 80,
@@ -992,17 +970,6 @@
       "added_at": "2026-08-26T02:17:58.459875+00:00"
     },
     {
-      "tweet": "Generalist just hit a 3 billion valuation. Everything is just AI now, huh.",
-      "original_url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Robotics startup Generalist reaches $3B valuation, sources say",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-08-26T02:17:58.460549+00:00"
-    },
-    {
       "tweet": "The oceans just hit the highest temperature on record again. How are we still acting like this is fine.",
       "original_url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
       "buzz_score": 75,
@@ -1023,6 +990,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-25T10:20:32.242357+00:00"
+    },
+    {
+      "tweet": "Generalist just hit a 3 billion valuation. Everything is just AI now, huh.",
+      "original_url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-08-26T02:17:58.460549+00:00"
     },
     {
       "tweet": "Typhoon Narra is absolutely wrecking China right now. Nature's having a bad week.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3557,
+    "total_posted": 3559,
     "total_collected": 15727
   },
-  "last_posted_at": "2026-08-26T02:24:28.508200+00:00"
+  "last_posted_at": "2026-08-26T03:39:39.625040+00:00"
 }
