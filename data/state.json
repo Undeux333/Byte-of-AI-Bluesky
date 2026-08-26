@@ -2,28 +2,6 @@
   "last_collected": "2026-08-26T02:17:58.461453+00:00",
   "queue": [
     {
-      "tweet": "So apparently like six states are voting on voter ID stuff this year. They're definitely keeping it interesting.",
-      "original_url": "https://www.npr.org/2026/08/25/nx-s1-5940004/voter-id-citizenship-ballot-measures",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Several states will decide voter ID ballot measures this year",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-26T02:17:58.460291+00:00"
-    },
-    {
-      "tweet": "Hold on, Matthew McConaughey and Woody Harrelson are actually doing a show about if they're brothers. Pretty sure they're just trolling us at this point.",
-      "original_url": "https://hypebeast.com/2026/8/apple-tv-matthew-mcconaughey-woody-harrelson-brothers-address-sibling-rumors-official-trailer-release-info",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Matthew McConaughey and Woody Harrelson Address Sibling Rumors in Apple TV's 'Brothers' Trailer",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-08-26T02:17:58.459872+00:00"
-    },
-    {
       "tweet": "Tried that new Friendslop game and got wrecked by a crab in five seconds. Probably helps if you actually have friends.",
       "original_url": "https://kotaku.com/how-to-fish-spider-crab-murder-2000728082",
       "buzz_score": 75,
@@ -44,17 +22,6 @@
       "source": "Kotaku",
       "category": "entertainment",
       "added_at": "2026-08-25T23:57:35.684205+00:00"
-    },
-    {
-      "tweet": "Found this game on Steam that takes four hundred real days to beat. I honestly feel like that’s just how my current job works anyway.",
-      "original_url": "https://www.polygon.com/the-longing-steam/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Steam's Most Intriguing Slow-Burn Adventure Game Takes 400 Real-World Days to Finish",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-25T23:57:35.684199+00:00"
     },
     {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
@@ -90,6 +57,17 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "Found this game on Steam that takes four hundred real days to beat. I honestly feel like that’s just how my current job works anyway.",
+      "original_url": "https://www.polygon.com/the-longing-steam/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Steam's Most Intriguing Slow-Burn Adventure Game Takes 400 Real-World Days to Finish",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-25T23:57:35.684199+00:00"
+    },
+    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -99,17 +77,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Xiaomi’s new CPU is actually beating Apple’s cores in multi-threaded speed. Things are getting weird out here.",
-      "original_url": "https://twitter.com/lemire/status/2091894299289874926",
-      "buzz_score": 65,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-25T23:57:35.684497+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
@@ -871,15 +838,15 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Just read that Marco Polo was a real guy and not just a game we shouted in a pool as kids. We really just turn anything into a joke, don't we.",
-      "original_url": "https://www.mentalfloss.com/history/who-was-marco-polo-how-did-name-become-famous-pool-game?utm_source=RSS",
-      "buzz_score": 60,
+      "tweet": "Xiaomi’s new CPU is actually beating Apple’s cores in multi-threaded speed. Things are getting weird out here.",
+      "original_url": "https://twitter.com/lemire/status/2091894299289874926",
+      "buzz_score": 65,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Who Was Marco Polo and How Did His Name Become a Famous Pool Game?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-08-25T23:57:35.684630+00:00"
+      "original_title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-08-25T23:57:35.684497+00:00"
     },
     {
       "tweet": "Dude, Israel is threatening a forceful response to literal kites coming from Gaza. Like, they're worried about kids' toys. Man.",
@@ -935,6 +902,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-08-14T16:13:56.122982+00:00"
+    },
+    {
+      "tweet": "Just read that Marco Polo was a real guy and not just a game we shouted in a pool as kids. We really just turn anything into a joke, don't we.",
+      "original_url": "https://www.mentalfloss.com/history/who-was-marco-polo-how-did-name-become-famous-pool-game?utm_source=RSS",
+      "buzz_score": 60,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Who Was Marco Polo and How Did His Name Become a Famous Pool Game?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-08-25T23:57:35.684630+00:00"
     },
     {
       "tweet": "Two people died of measles in Pennsylvania? How are we going backward on this.",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3559,
+    "total_posted": 3561,
     "total_collected": 15727
   },
-  "last_posted_at": "2026-08-26T03:39:39.625040+00:00"
+  "last_posted_at": "2026-08-26T04:19:13.065487+00:00"
 }
