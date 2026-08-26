@@ -2,28 +2,6 @@
   "last_collected": "2026-08-26T11:53:00.785257+00:00",
   "queue": [
     {
-      "tweet": "People are losing their minds over the Logan trailer history. We're just stuck in the past",
-      "original_url": "https://www.polygon.com/video/what-s-up-with-the-logan-trailer-the-history-of-x-23/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "What's Up with the Logan Trailer? The History of X-23",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-26T11:53:00.784769+00:00"
-    },
-    {
-      "tweet": "Iran and Oman are clearing mines in the Strait of Hormuz to open a shipping lane. Oil prices are already dipping. Whatever works",
-      "original_url": "https://www.nytimes.com/2026/08/26/world/middleeast/iran-oman-strait-hormuz.html",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Iran and Oman Report Progress in Talks on Strait of Hormuz",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-26T11:53:00.784065+00:00"
-    },
-    {
       "tweet": "India is handing out missile secrets to their private sector now. Just ramping up",
       "original_url": "https://www.aljazeera.com/news/2026/8/26/why-india-is-sharing-missile-secrets-with-its-private-sector?traffic_source=rss",
       "buzz_score": 70,
@@ -926,28 +904,6 @@
       "added_at": "2026-08-26T11:53:00.784063+00:00"
     },
     {
-      "tweet": "Mpox is back and spreading to new countries. Are we doing this again",
-      "original_url": "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Mpox is back – and in new countries. How can this outbreak be contained?",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-26T11:53:00.784864+00:00"
-    },
-    {
-      "tweet": "Capcom is dropping Dual Override and it looks like exactly what we fear. We never learn with these remakes",
-      "original_url": "https://kotaku.com/mega-man-dual-override-preview-gamescom-capcom-boss-2000727940",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Mega Man: Dual Override Feels Like Everything You Hope And Fear It Will Be",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-26T11:53:00.784484+00:00"
-    },
-    {
       "tweet": "Tried that new Friendslop game and got wrecked by a crab in five seconds. Probably helps if you actually have friends.",
       "original_url": "https://kotaku.com/how-to-fish-spider-crab-murder-2000728082",
       "buzz_score": 75,
@@ -990,6 +946,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-25T10:20:32.242357+00:00"
+    },
+    {
+      "tweet": "Mpox is back and spreading to new countries. Are we doing this again",
+      "original_url": "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Mpox is back – and in new countries. How can this outbreak be contained?",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-26T11:53:00.784864+00:00"
+    },
+    {
+      "tweet": "Capcom is dropping Dual Override and it looks like exactly what we fear. We never learn with these remakes",
+      "original_url": "https://kotaku.com/mega-man-dual-override-preview-gamescom-capcom-boss-2000727940",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Mega Man: Dual Override Feels Like Everything You Hope And Fear It Will Be",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-26T11:53:00.784484+00:00"
     },
     {
       "tweet": "That Kurdish-led militia in Syria is disbanding. Big shift",
@@ -2018,8 +1996,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3573,
+    "total_posted": 3575,
     "total_collected": 15783
   },
-  "last_posted_at": "2026-08-26T12:33:10.655117+00:00"
+  "last_posted_at": "2026-08-26T13:36:20.508121+00:00"
 }
