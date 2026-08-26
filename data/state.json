@@ -2,39 +2,6 @@
   "last_collected": "2026-08-26T09:38:30.612939+00:00",
   "queue": [
     {
-      "tweet": "Nokia just dropped a phone that's basically just a massive battery to charge your actual phone. Finally, a phone that actually does its one job.",
-      "original_url": "https://hypebeast.com/2026/8/nokia-300-charge-packs-3700mah-battery-powerbank-mode",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Nokia 300 Charge Is a Feature Phone With a Massive Battery That Can Charge Your Smartphone",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-08-26T09:38:30.611665+00:00"
-    },
-    {
-      "tweet": "Yo, did you catch that girl on AGT covering Soundgarden? She absolutely crushed Black Hole Sun. Wild.",
-      "original_url": "https://www.billboard.com/culture/tv-film/nene-royal-golden-buzzer-cover-soundgarden-black-hole-sun-1236324786/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Nene Royal Rocks Into ‘AGT’ Final With Cover of Soundgarden’s ‘Black Hole Sun’: Watch",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-26T09:38:30.611153+00:00"
-    },
-    {
-      "tweet": "Tubi just dropped all 156 episodes of The Twilight Zone for free. My weekend is gone.",
-      "original_url": "https://www.polygon.com/cbs-sci-fi-shows-twilight-zone-free-streaming/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "CBS's Legendary 156-Episode Sci-Fi Anthology Series is Officially Free to Watch on Streaming",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-26T04:53:06.881638+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -66,6 +33,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Tubi just dropped all 156 episodes of The Twilight Zone for free. My weekend is gone.",
+      "original_url": "https://www.polygon.com/cbs-sci-fi-shows-twilight-zone-free-streaming/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "CBS's Legendary 156-Episode Sci-Fi Anthology Series is Officially Free to Watch on Streaming",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-26T04:53:06.881638+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3567,
+    "total_posted": 3569,
     "total_collected": 15767
   },
-  "last_posted_at": "2026-08-26T09:45:23.764780+00:00"
+  "last_posted_at": "2026-08-26T10:24:54.506723+00:00"
 }
