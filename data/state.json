@@ -57,28 +57,6 @@
       "added_at": "2026-06-24T11:28:23.259709+00:00"
     },
     {
-      "tweet": "Tried that new Friendslop game and got wrecked by a crab in five seconds. Probably helps if you actually have friends.",
-      "original_url": "https://kotaku.com/how-to-fish-spider-crab-murder-2000728082",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "I Tried To Play Steam’s Newest Hit Friendslop Game And Immediately Got Murdered By A Spider Crab",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-25T23:57:35.684207+00:00"
-    },
-    {
-      "tweet": "They’re finally catching that GTA 6 leaker. Dude probably messed up the easiest part.",
-      "original_url": "https://kotaku.com/the-hunt-for-the-gta-6-leaker-seems-to-be-getting-closer-to-its-target-2000728088",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Hunt For The GTA 6 Leaker Seems To Be Getting Closer To Its Target",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-25T23:57:35.684205+00:00"
-    },
-    {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
       "original_url": "https://bobdahacker.com/blog/tldv-hack",
       "buzz_score": 90,
@@ -640,6 +618,28 @@
       "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
+      "tweet": "Tried that new Friendslop game and got wrecked by a crab in five seconds. Probably helps if you actually have friends.",
+      "original_url": "https://kotaku.com/how-to-fish-spider-crab-murder-2000728082",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "I Tried To Play Steam’s Newest Hit Friendslop Game And Immediately Got Murdered By A Spider Crab",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-25T23:57:35.684207+00:00"
+    },
+    {
+      "tweet": "They’re finally catching that GTA 6 leaker. Dude probably messed up the easiest part.",
+      "original_url": "https://kotaku.com/the-hunt-for-the-gta-6-leaker-seems-to-be-getting-closer-to-its-target-2000728088",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Hunt For The GTA 6 Leaker Seems To Be Getting Closer To Its Target",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-25T23:57:35.684205+00:00"
+    },
+    {
       "tweet": "Pokemon creators are finally ditching the turn-based style after thirty years. Turns out even they realized we're bored of the same thing.",
       "original_url": "https://www.polygon.com/pokemon-turn-based-gameplay-changes/",
       "buzz_score": 88,
@@ -838,17 +838,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Found this game on Steam that takes four hundred real days to beat. I honestly feel like that’s just how my current job works anyway.",
-      "original_url": "https://www.polygon.com/the-longing-steam/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Steam's Most Intriguing Slow-Burn Adventure Game Takes 400 Real-World Days to Finish",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-25T23:57:35.684199+00:00"
-    },
-    {
       "tweet": "Dude, Israel is threatening a forceful response to literal kites coming from Gaza. Like, they're worried about kids' toys. Man.",
       "original_url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -904,6 +893,17 @@
       "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
+      "tweet": "Found this game on Steam that takes four hundred real days to beat. I honestly feel like that’s just how my current job works anyway.",
+      "original_url": "https://www.polygon.com/the-longing-steam/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Steam's Most Intriguing Slow-Burn Adventure Game Takes 400 Real-World Days to Finish",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-25T23:57:35.684199+00:00"
+    },
+    {
       "tweet": "Xiaomi’s new CPU is actually beating Apple’s cores in multi-threaded speed. Things are getting weird out here.",
       "original_url": "https://twitter.com/lemire/status/2091894299289874926",
       "buzz_score": 65,
@@ -924,6 +924,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-26T04:53:06.881632+00:00"
+    },
+    {
+      "tweet": "The oceans just hit the highest temperature on record again. How are we still acting like this is fine.",
+      "original_url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Oceans hit highest temperature on record",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-08-25T15:01:52.267639+00:00"
+    },
+    {
+      "tweet": "Did you see that Australian MP got charged for assault at a festival? Politics is a mess.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/25/federal-mp-luke-gosling-charged-with-breaching-bail-after-alleged-assault-in-nt-ntwnfb",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Federal MP Luke Gosling charged with breaching bail after alleged assault in NT",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-25T10:20:32.242357+00:00"
     },
     {
       "tweet": "Just read that Marco Polo was a real guy and not just a game we shouted in a pool as kids. We really just turn anything into a joke, don't we.",
@@ -968,28 +990,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-08-26T02:17:58.460163+00:00"
-    },
-    {
-      "tweet": "The oceans just hit the highest temperature on record again. How are we still acting like this is fine.",
-      "original_url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Oceans hit highest temperature on record",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-25T15:01:52.267639+00:00"
-    },
-    {
-      "tweet": "Did you see that Australian MP got charged for assault at a festival? Politics is a mess.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/25/federal-mp-luke-gosling-charged-with-breaching-bail-after-alleged-assault-in-nt-ntwnfb",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Federal MP Luke Gosling charged with breaching bail after alleged assault in NT",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-25T10:20:32.242357+00:00"
     },
     {
       "tweet": "Turns out your DNA might be the reason keto spikes your cholesterol. Sometimes you just can't win with health stuff.",
