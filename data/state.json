@@ -2,17 +2,6 @@
   "last_collected": "2026-08-26T04:53:06.881958+00:00",
   "queue": [
     {
-      "tweet": "Did you see Canada is hitting us with 50 percent tariffs on dishwashers and fish? Trade war with Canada just feels like yelling at your golden retriever. Man.",
-      "original_url": "https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-08-26T04:53:06.881625+00:00"
-    },
-    {
       "tweet": "Tubi just dropped all 156 episodes of The Twilight Zone for free. My weekend is gone.",
       "original_url": "https://www.polygon.com/cbs-sci-fi-shows-twilight-zone-free-streaming/",
       "buzz_score": 75,
@@ -640,17 +629,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Found this game on Steam that takes four hundred real days to beat. I honestly feel like that’s just how my current job works anyway.",
-      "original_url": "https://www.polygon.com/the-longing-steam/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Steam's Most Intriguing Slow-Burn Adventure Game Takes 400 Real-World Days to Finish",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-25T23:57:35.684199+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -858,6 +836,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "Found this game on Steam that takes four hundred real days to beat. I honestly feel like that’s just how my current job works anyway.",
+      "original_url": "https://www.polygon.com/the-longing-steam/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Steam's Most Intriguing Slow-Burn Adventure Game Takes 400 Real-World Days to Finish",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-25T23:57:35.684199+00:00"
     },
     {
       "tweet": "Dude, Israel is threatening a forceful response to literal kites coming from Gaza. Like, they're worried about kids' toys. Man.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3563,
+    "total_posted": 3564,
     "total_collected": 15735
   },
-  "last_posted_at": "2026-08-26T05:01:42.813366+00:00"
+  "last_posted_at": "2026-08-26T05:22:07.837379+00:00"
 }
