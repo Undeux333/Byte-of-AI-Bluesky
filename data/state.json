@@ -2,28 +2,6 @@
   "last_collected": "2026-08-26T14:23:39.779674+00:00",
   "queue": [
     {
-      "tweet": "India is handing out missile secrets to their private sector now. Just ramping up",
-      "original_url": "https://www.aljazeera.com/news/2026/8/26/why-india-is-sharing-missile-secrets-with-its-private-sector?traffic_source=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why India is sharing missile secrets with its private sector",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-26T11:53:00.785064+00:00"
-    },
-    {
-      "tweet": "Josh Tongue says the England squad finally listened to Joe Root’s lecture on behavior. A century late",
-      "original_url": "https://www.bbc.co.uk/sport/cricket/articles/cdj4e277vwxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Root's message has '100%' landed, says Tongue",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-26T11:53:00.784069+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -55,6 +33,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "India is handing out missile secrets to their private sector now. Just ramping up",
+      "original_url": "https://www.aljazeera.com/news/2026/8/26/why-india-is-sharing-missile-secrets-with-its-private-sector?traffic_source=rss",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Why India is sharing missile secrets with its private sector",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-26T11:53:00.785064+00:00"
+    },
+    {
+      "tweet": "Josh Tongue says the England squad finally listened to Joe Root’s lecture on behavior. A century late",
+      "original_url": "https://www.bbc.co.uk/sport/cricket/articles/cdj4e277vwxo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Root's message has '100%' landed, says Tongue",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-26T11:53:00.784069+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -618,28 +618,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Kids in Gaza are actually scared to fly kites because they're being treated like war threats. We've lost the plot.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/children-in-gaza-fear-flying-their-kites-after-israeli-threat?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Children in Gaza fear flying their kites after Israeli threat",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-26T14:23:39.778335+00:00"
-    },
-    {
-      "tweet": "People are playing Elden Ring on the Switch 2 now. Honestly, just being able to grind in a random cafe sounds like a dream.",
-      "original_url": "https://kotaku.com/elden-ring-tarnished-edition-nintendo-switch-2-review-2000727880",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "I Tested Elden Ring On Switch 2 In A Cozy Cafe And It Ran Just Fine, Which Is Great News For A Remarkable Game",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-26T14:23:39.778325+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -902,6 +880,28 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-08-14T16:13:56.122982+00:00"
+    },
+    {
+      "tweet": "Kids in Gaza are actually scared to fly kites because they're being treated like war threats. We've lost the plot.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/children-in-gaza-fear-flying-their-kites-after-israeli-threat?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Children in Gaza fear flying their kites after Israeli threat",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-26T14:23:39.778335+00:00"
+    },
+    {
+      "tweet": "People are playing Elden Ring on the Switch 2 now. Honestly, just being able to grind in a random cafe sounds like a dream.",
+      "original_url": "https://kotaku.com/elden-ring-tarnished-edition-nintendo-switch-2-review-2000727880",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "I Tested Elden Ring On Switch 2 In A Cozy Cafe And It Ran Just Fine, Which Is Great News For A Remarkable Game",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-26T14:23:39.778325+00:00"
     },
     {
       "tweet": "Tubi just dropped all 156 episodes of The Twilight Zone for free. My weekend is gone.",
