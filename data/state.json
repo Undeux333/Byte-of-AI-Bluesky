@@ -2,28 +2,6 @@
   "last_collected": "2026-08-25T23:57:35.685279+00:00",
   "queue": [
     {
-      "tweet": "Man, Dolly Parton really left us. That is a rough one.",
-      "original_url": "https://www.billboard.com/music/country/dolly-parton-tribute-death-rememberance-1236324563/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Fearless, Fabulous Dolly Parton and What We Can All Learn From Her: A Remembrance",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-08-25T23:57:35.684757+00:00"
-    },
-    {
-      "tweet": "They’re actually deporting the wives of active-duty soldiers now? Man, that is just straight up cold.",
-      "original_url": "https://www.theguardian.com/us-news/2026/aug/25/soldier-wife-deported-honduras",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Wife of US soldier deported after Trump rollback on military family protections",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-25T23:57:35.684197+00:00"
-    },
-    {
       "tweet": "Tried that new Friendslop game and got wrecked by a crab in five seconds. Probably helps if you actually have friends.",
       "original_url": "https://kotaku.com/how-to-fish-spider-crab-murder-2000728082",
       "buzz_score": 75,
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3553,
+    "total_posted": 3555,
     "total_collected": 15711
   },
-  "last_posted_at": "2026-08-26T00:03:20.723719+00:00"
+  "last_posted_at": "2026-08-26T01:01:48.315486+00:00"
 }
