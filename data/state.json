@@ -2,28 +2,6 @@
   "last_collected": "2026-08-26T16:42:31.761380+00:00",
   "queue": [
     {
-      "tweet": "Meta just dropped 16.68 billion to settle that whole thing about hurting kids on social media. They’re basically just paying a subscription fee for being toxic at this point.",
-      "original_url": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Meta reaches $16.68B settlement over social media harms to children",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-08-26T16:42:31.759588+00:00"
-    },
-    {
-      "tweet": "Did you see that video? Thieves just grabbed 1.2 million in watches from a Tokyo mall in like 10 seconds. Absolute pros.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/luxury-watches-worth-1-2-million-stolen-from-a-popular-mall-in-tokyo?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Luxury watches worth $1.2 million stolen from a popular mall in Tokyo",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-26T16:42:31.760008+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -57,17 +35,6 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Man, Tim Curry passed away at 80. Legend.",
-      "original_url": "https://www.polygon.com/tim-curry-death-movies-tv-shows-video-games/",
-      "buzz_score": 90,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Video Game Icon Tim Curry Dies at 80",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-26T16:42:31.760637+00:00"
-    },
-    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -77,28 +44,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "India is handing out missile secrets to their private sector now. Just ramping up",
-      "original_url": "https://www.aljazeera.com/news/2026/8/26/why-india-is-sharing-missile-secrets-with-its-private-sector?traffic_source=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why India is sharing missile secrets with its private sector",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-08-26T11:53:00.785064+00:00"
-    },
-    {
-      "tweet": "Josh Tongue says the England squad finally listened to Joe Root’s lecture on behavior. A century late",
-      "original_url": "https://www.bbc.co.uk/sport/cricket/articles/cdj4e277vwxo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Root's message has '100%' landed, says Tongue",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-08-26T11:53:00.784069+00:00"
     },
     {
       "tweet": "Dude, people are using tl;dv to record meetings and apparently 180,000 of them are just sitting there wide open for anyone to watch. We’re really out here leaking our own quarterly reviews.",
@@ -860,6 +805,17 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
+      "tweet": "Man, Tim Curry passed away at 80. Legend.",
+      "original_url": "https://www.polygon.com/tim-curry-death-movies-tv-shows-video-games/",
+      "buzz_score": 90,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Video Game Icon Tim Curry Dies at 80",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-26T16:42:31.760637+00:00"
+    },
+    {
       "tweet": "Dude, Israel is threatening a forceful response to literal kites coming from Gaza. Like, they're worried about kids' toys. Man.",
       "original_url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -915,6 +871,28 @@
       "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
+      "tweet": "India is handing out missile secrets to their private sector now. Just ramping up",
+      "original_url": "https://www.aljazeera.com/news/2026/8/26/why-india-is-sharing-missile-secrets-with-its-private-sector?traffic_source=rss",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Why India is sharing missile secrets with its private sector",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-08-26T11:53:00.785064+00:00"
+    },
+    {
+      "tweet": "Josh Tongue says the England squad finally listened to Joe Root’s lecture on behavior. A century late",
+      "original_url": "https://www.bbc.co.uk/sport/cricket/articles/cdj4e277vwxo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Root's message has '100%' landed, says Tongue",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-08-26T11:53:00.784069+00:00"
+    },
+    {
       "tweet": "Someone played the new Jackbox pack sober with strangers and said it wasn't fun. Like, yeah, that’s just how those games work.",
       "original_url": "https://kotaku.com/new-jackbox-party-pack-12-preview-2000727675",
       "buzz_score": 80,
@@ -935,6 +913,39 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-08-26T16:42:31.759595+00:00"
+    },
+    {
+      "tweet": "Tubi just dropped all 156 episodes of The Twilight Zone for free. My weekend is gone.",
+      "original_url": "https://www.polygon.com/cbs-sci-fi-shows-twilight-zone-free-streaming/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "CBS's Legendary 156-Episode Sci-Fi Anthology Series is Officially Free to Watch on Streaming",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-26T04:53:06.881638+00:00"
+    },
+    {
+      "tweet": "Tried that new Friendslop game and got wrecked by a crab in five seconds. Probably helps if you actually have friends.",
+      "original_url": "https://kotaku.com/how-to-fish-spider-crab-murder-2000728082",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "I Tried To Play Steam’s Newest Hit Friendslop Game And Immediately Got Murdered By A Spider Crab",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-25T23:57:35.684207+00:00"
+    },
+    {
+      "tweet": "They’re finally catching that GTA 6 leaker. Dude probably messed up the easiest part.",
+      "original_url": "https://kotaku.com/the-hunt-for-the-gta-6-leaker-seems-to-be-getting-closer-to-its-target-2000728088",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Hunt For The GTA 6 Leaker Seems To Be Getting Closer To Its Target",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-08-25T23:57:35.684205+00:00"
     },
     {
       "tweet": "Kids in Gaza are actually scared to fly kites because they're being treated like war threats. We've lost the plot.",
@@ -1001,39 +1012,6 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-08-26T16:42:31.759598+00:00"
-    },
-    {
-      "tweet": "Tubi just dropped all 156 episodes of The Twilight Zone for free. My weekend is gone.",
-      "original_url": "https://www.polygon.com/cbs-sci-fi-shows-twilight-zone-free-streaming/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "CBS's Legendary 156-Episode Sci-Fi Anthology Series is Officially Free to Watch on Streaming",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-26T04:53:06.881638+00:00"
-    },
-    {
-      "tweet": "Tried that new Friendslop game and got wrecked by a crab in five seconds. Probably helps if you actually have friends.",
-      "original_url": "https://kotaku.com/how-to-fish-spider-crab-murder-2000728082",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "I Tried To Play Steam’s Newest Hit Friendslop Game And Immediately Got Murdered By A Spider Crab",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-25T23:57:35.684207+00:00"
-    },
-    {
-      "tweet": "They’re finally catching that GTA 6 leaker. Dude probably messed up the easiest part.",
-      "original_url": "https://kotaku.com/the-hunt-for-the-gta-6-leaker-seems-to-be-getting-closer-to-its-target-2000728088",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Hunt For The GTA 6 Leaker Seems To Be Getting Closer To Its Target",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-08-25T23:57:35.684205+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3579,
+    "total_posted": 3581,
     "total_collected": 15815
   },
-  "last_posted_at": "2026-08-26T16:48:52.037770+00:00"
+  "last_posted_at": "2026-08-26T18:29:41.717229+00:00"
 }
