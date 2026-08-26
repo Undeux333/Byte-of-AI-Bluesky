@@ -816,28 +816,6 @@
       "added_at": "2026-06-10T10:43:47.318327+00:00"
     },
     {
-      "tweet": "Target pulled that Halloween costume because it was straight-up offensive. How did anyone think that was a good idea to put on a shelf?",
-      "original_url": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Target faces renewed backlash for Halloween costume with 'minstrel show features'",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-08-26T07:30:08.938464+00:00"
-    },
-    {
-      "tweet": "Raygun is out here saying her Olympics breakdancing wasn't as bad as she thought. We’ve all had that moment where we think we’re killing it but the video says otherwise.",
-      "original_url": "https://www.theguardian.com/australia-news/2026/aug/26/raygun-breakdance-routine-cnn-interview-reaction-australian-olympics",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Raygun opens up on her infamous Olympics breakdancing debut: ‘not as bad as I thought!’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-08-26T07:30:08.938458+00:00"
-    },
-    {
       "tweet": "Dude, Israel is threatening a forceful response to literal kites coming from Gaza. Like, they're worried about kids' toys. Man.",
       "original_url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -893,6 +871,28 @@
       "added_at": "2026-08-14T16:13:56.122982+00:00"
     },
     {
+      "tweet": "Target pulled that Halloween costume because it was straight-up offensive. How did anyone think that was a good idea to put on a shelf?",
+      "original_url": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Target faces renewed backlash for Halloween costume with 'minstrel show features'",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-08-26T07:30:08.938464+00:00"
+    },
+    {
+      "tweet": "Raygun is out here saying her Olympics breakdancing wasn't as bad as she thought. We’ve all had that moment where we think we’re killing it but the video says otherwise.",
+      "original_url": "https://www.theguardian.com/australia-news/2026/aug/26/raygun-breakdance-routine-cnn-interview-reaction-australian-olympics",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Raygun opens up on her infamous Olympics breakdancing debut: ‘not as bad as I thought!’",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-08-26T07:30:08.938458+00:00"
+    },
+    {
       "tweet": "Tried that new Friendslop game and got wrecked by a crab in five seconds. Probably helps if you actually have friends.",
       "original_url": "https://kotaku.com/how-to-fish-spider-crab-murder-2000728082",
       "buzz_score": 75,
@@ -915,17 +915,6 @@
       "added_at": "2026-08-25T23:57:35.684205+00:00"
     },
     {
-      "tweet": "Found this game on Steam that takes four hundred real days to beat. I honestly feel like that’s just how my current job works anyway.",
-      "original_url": "https://www.polygon.com/the-longing-steam/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Steam's Most Intriguing Slow-Burn Adventure Game Takes 400 Real-World Days to Finish",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-08-25T23:57:35.684199+00:00"
-    },
-    {
       "tweet": "The oceans just hit the highest temperature on record again. How are we still acting like this is fine.",
       "original_url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
       "buzz_score": 75,
@@ -946,6 +935,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-08-25T10:20:32.242357+00:00"
+    },
+    {
+      "tweet": "Found this game on Steam that takes four hundred real days to beat. I honestly feel like that’s just how my current job works anyway.",
+      "original_url": "https://www.polygon.com/the-longing-steam/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Steam's Most Intriguing Slow-Burn Adventure Game Takes 400 Real-World Days to Finish",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-08-25T23:57:35.684199+00:00"
     },
     {
       "tweet": "Xiaomi’s new CPU is actually beating Apple’s cores in multi-threaded speed. Things are getting weird out here.",
