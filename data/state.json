@@ -2,17 +2,6 @@
   "last_collected": "2026-09-01T22:00:27.846211+00:00",
   "queue": [
     {
-      "tweet": "Christopher Judge said he won't be in the God of War show 'cause he has no desire to live that way again. Man just wants to clock out and go home.",
-      "original_url": "https://kotaku.com/video-game-kratos-christopher-judge-explains-why-he-didnt-want-to-star-in-the-god-of-war-tv-show-i-just-have-no-desire-to-live-that-way-again-2000730345",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Video Game Kratos Christopher Judge Explains Why He Didn’t Want To Star In The God Of War TV Show: ‘I Just Have No Desire To Live That Way Again’",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-09-01T22:00:27.845831+00:00"
-    },
-    {
       "tweet": "Premier League clubs just blew 3.198 billion on transfers. We're out here worrying about rent while they're playing real-life FIFA with infinite money.",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/czxzk0znvzeo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -618,17 +607,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "They're adding that kid from A Quiet Place to the new Avengers and everyone’s already losing their minds with theories. Chill.",
-      "original_url": "https://www.polygon.com/avengers-secret-wars-casting-noah-jupe/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "New Avengers: Secret Wars Casting Announcement Sparks Wild Fan Theories",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-09-01T22:00:27.845958+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -968,6 +946,17 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-08-28T22:41:38.670831+00:00"
+    },
+    {
+      "tweet": "They're adding that kid from A Quiet Place to the new Avengers and everyone’s already losing their minds with theories. Chill.",
+      "original_url": "https://www.polygon.com/avengers-secret-wars-casting-noah-jupe/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "New Avengers: Secret Wars Casting Announcement Sparks Wild Fan Theories",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-09-01T22:00:27.845958+00:00"
     },
     {
       "tweet": "So apparently Carney told Trump officials to stop throwing shade over trade talks. Grown men running countries acting like they're in a middle school group chat.",
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3637,
+    "total_posted": 3638,
     "total_collected": 16207
   },
-  "last_posted_at": "2026-09-01T22:08:26.177433+00:00"
+  "last_posted_at": "2026-09-01T23:51:03.269347+00:00"
 }
