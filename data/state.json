@@ -2,28 +2,6 @@
   "last_collected": "2026-09-03T20:59:01.716399+00:00",
   "queue": [
     {
-      "tweet": "Israel killed three people in Gaza today, right as that minister is talking about removals. The ceasefire is a total joke",
-      "original_url": "https://www.aljazeera.com/news/2026/9/3/israel-kills-3-in-gaza-as-far-right-minister-plans-for-palestinian-removals?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Israel kills 3 in Gaza as far-right minister plans for Palestinian removals",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-09-03T20:59:01.715779+00:00"
-    },
-    {
-      "tweet": "Apparently there’s a whole guide on using safe words. It’s wild how much we overthink things that should just be common sense",
-      "original_url": "https://sex.cosmopolitan.com/pleasure/a73604426/what-is-a-safe-word/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "What Is a Safe Word? Everything You Need to Know Before Using One",
-      "source": "Cosmo Sex & Love",
-      "category": "sex",
-      "added_at": "2026-09-03T20:59:01.715536+00:00"
-    },
-    {
       "tweet": "Did you see that ICE agent got caught lying about shooting that guy in Minnesota. Of course he lied about it, they’re untouchable",
       "original_url": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -110,17 +88,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
-    },
-    {
-      "tweet": "Mike Dean said he used to just stand in the center circle for a laugh during games. I mean, it’s not like anyone was watching the ref.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cgjql4w604eo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "I used to play in-match games as a laugh - Dean",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-09-03T14:40:05.076304+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -902,6 +869,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "Mike Dean said he used to just stand in the center circle for a laugh during games. I mean, it’s not like anyone was watching the ref.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/cgjql4w604eo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "I used to play in-match games as a laugh - Dean",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-09-03T14:40:05.076304+00:00"
     },
     {
       "tweet": "Man, I just went down a rabbit hole on those Ed Zitron predictions. Turns out he’s been calling out the AI bubble since day one and it’s actually spooky. Spot on.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3662,
+    "total_posted": 3664,
     "total_collected": 16377
   },
-  "last_posted_at": "2026-09-03T21:08:13.318902+00:00"
+  "last_posted_at": "2026-09-03T23:03:14.556263+00:00"
 }
