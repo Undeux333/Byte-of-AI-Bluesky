@@ -2,28 +2,6 @@
   "last_collected": "2026-09-04T21:48:16.848845+00:00",
   "queue": [
     {
-      "tweet": "Netanyahu is out here posting AI fakes of politicians hanging out with Iran's leaders. We're living in a deepfake fever dream.",
-      "original_url": "https://www.nytimes.com/2026/09/04/world/middleeast/netanyahu-ai-video-mamdani.html",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Netanyahu Posts A.I. Video Pairing Mamdani With Iranian Ruler",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-09-04T21:48:16.847085+00:00"
-    },
-    {
-      "tweet": "Tesla launches driverless taxis and the feds immediately open a safety investigation. Classic.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/us-regulator-opens-safety-investigation-as-tesla-launches-driverless-taxis?traffic_source=rss",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "US regulator opens safety investigation as Tesla launches driverless taxis",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-09-04T21:48:16.847244+00:00"
-    },
-    {
       "tweet": "Two guys in Nepal just got pulled out alive after nine days in a tunnel. I can’t even imagine, man.",
       "original_url": "https://www.nytimes.com/2026/09/04/world/asia/nepal-flood-tunnel-rescue.html",
       "buzz_score": 85,
@@ -134,28 +112,6 @@
       "added_at": "2026-09-04T19:35:27.178757+00:00"
     },
     {
-      "tweet": "Apparently there’s an actual guide on how to orgasm together. Turns out it's way harder than movies make it look.",
-      "original_url": "https://sex.cosmopolitan.com/pleasure/a73592770/how-to-orgasm-together/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "How to Orgasm Together, According to Sex Experts",
-      "source": "Cosmo Sex & Love",
-      "category": "sex",
-      "added_at": "2026-09-04T17:14:18.846201+00:00"
-    },
-    {
-      "tweet": "Prince’s estate had to clarify no AI was used on that new track. We've really reached a point where we have to prove music is human.",
-      "original_url": "https://www.billboard.com/music/pop/prince-estate-responds-posthumous-tweak-timeless-calabama-ai-1236334429/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Prince Estate Responds to Claims of Posthumous Polishing of ‘Timeless’ Vault Album Track ‘Calabama’: ‘Of Course, No AI Was Used’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-09-04T17:14:18.845927+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -189,37 +145,26 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Vance saying things happen regarding that strike is exactly how the US has handled every mess for decades. It's the standard script.",
-      "original_url": "https://www.aljazeera.com/news/2026/9/4/things-happen-how-vances-comment-on-iran-wedding-strike-fits-us-pattern?traffic_source=rss",
-      "buzz_score": 85,
+      "tweet": "Apparently there’s an actual guide on how to orgasm together. Turns out it's way harder than movies make it look.",
+      "original_url": "https://sex.cosmopolitan.com/pleasure/a73592770/how-to-orgasm-together/",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "‘Things happen’: How Vance’s comment on Iran wedding strike fits US pattern",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-09-04T13:46:08.690301+00:00"
+      "original_title": "How to Orgasm Together, According to Sex Experts",
+      "source": "Cosmo Sex & Love",
+      "category": "sex",
+      "added_at": "2026-09-04T17:14:18.846201+00:00"
     },
     {
-      "tweet": "Celtic and Rangers games are gonna have zero away fans this year. They're just calling it now.",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/ce8x2j8kl3do?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 85,
+      "tweet": "Prince’s estate had to clarify no AI was used on that new track. We've really reached a point where we have to prove music is human.",
+      "original_url": "https://www.billboard.com/music/pop/prince-estate-responds-posthumous-tweak-timeless-calabama-ai-1236334429/",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "No away fans for Old Firm games this season after agreement reached",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-09-04T13:46:08.690057+00:00"
-    },
-    {
-      "tweet": "So apparently there's this secret message board where OpenAI agents just talk to each other now. We're literally watching them develop their own social lives. Weird.",
-      "original_url": "https://collusion.wiki/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Discovery of a new OpenAI agent message board",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-09-04T13:46:08.689389+00:00"
+      "original_title": "Prince Estate Responds to Claims of Posthumous Polishing of ‘Timeless’ Vault Album Track ‘Calabama’: ‘Of Course, No AI Was Used’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-09-04T17:14:18.845927+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -816,17 +761,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "So Trump is sending Jared Kushner to fix the war in Ukraine? What could possibly go wrong?",
-      "original_url": "https://www.aljazeera.com/news/2026/9/4/witkoff-and-kushner-will-travel-to-end-russias-war-in-ukraine-trump?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Witkoff and Kushner will travel to ‘end’ Russia’s war in Ukraine: Trump",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-09-04T21:48:16.847391+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -1034,6 +968,50 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-10T10:43:47.318327+00:00"
+    },
+    {
+      "tweet": "Vance saying things happen regarding that strike is exactly how the US has handled every mess for decades. It's the standard script.",
+      "original_url": "https://www.aljazeera.com/news/2026/9/4/things-happen-how-vances-comment-on-iran-wedding-strike-fits-us-pattern?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "‘Things happen’: How Vance’s comment on Iran wedding strike fits US pattern",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-09-04T13:46:08.690301+00:00"
+    },
+    {
+      "tweet": "Celtic and Rangers games are gonna have zero away fans this year. They're just calling it now.",
+      "original_url": "https://www.bbc.co.uk/sport/football/articles/ce8x2j8kl3do?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "No away fans for Old Firm games this season after agreement reached",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-09-04T13:46:08.690057+00:00"
+    },
+    {
+      "tweet": "So apparently there's this secret message board where OpenAI agents just talk to each other now. We're literally watching them develop their own social lives. Weird.",
+      "original_url": "https://collusion.wiki/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Discovery of a new OpenAI agent message board",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-09-04T13:46:08.689389+00:00"
+    },
+    {
+      "tweet": "So Trump is sending Jared Kushner to fix the war in Ukraine? What could possibly go wrong?",
+      "original_url": "https://www.aljazeera.com/news/2026/9/4/witkoff-and-kushner-will-travel-to-end-russias-war-in-ukraine-trump?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Witkoff and Kushner will travel to ‘end’ Russia’s war in Ukraine: Trump",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-09-04T21:48:16.847391+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3677,
+    "total_posted": 3679,
     "total_collected": 16477
   },
-  "last_posted_at": "2026-09-04T21:53:48.830118+00:00"
+  "last_posted_at": "2026-09-04T23:39:54.799982+00:00"
 }
