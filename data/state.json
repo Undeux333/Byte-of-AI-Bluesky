@@ -2,28 +2,6 @@
   "last_collected": "2026-09-05T20:20:06.963571+00:00",
   "queue": [
     {
-      "tweet": "So apparently koalas and wombats are moving into people's houses in Australia because there's nowhere left to go. Honestly, I get it.",
-      "original_url": "https://www.theguardian.com/environment/2026/sep/06/possums-in-the-roof-koalas-in-bed-study-shows-how-animals-resort-to-australian-homes-after-habitat-loss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Possums in the roof, koalas in bed: study shows how animals resort to Australian homes after habitat loss",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-09-05T20:20:06.961951+00:00"
-    },
-    {
-      "tweet": "Did you see that Egyptian TV host got sentenced to death for running a drug ring? That is one hell of a career pivot.",
-      "original_url": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-09-05T18:14:08.861455+00:00"
-    },
-    {
       "tweet": "So apparently GPT-6 is already in the mix. Are we just gonna keep doing this every six months until the servers hit a wall?",
       "original_url": "https://openai.com/index/gpt-6-astra/",
       "buzz_score": 85,
@@ -167,39 +145,6 @@
       "added_at": "2026-09-05T18:14:08.861703+00:00"
     },
     {
-      "tweet": "It took three years to recover those remains in Gaza. That is just brutal.",
-      "original_url": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-09-05T18:14:08.862833+00:00"
-    },
-    {
-      "tweet": "The Granblue guys are starting a new label to release smaller games faster. Just what the industry needs, more stuff.",
-      "original_url": "https://kotaku.com/granblue-fantasy-relink-company-announces-new-publishing-label-aimed-at-releasing-smaller-games-faster-2000731080",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Granblue Fantasy Relink Company Announces New Publishing Label Aimed At Releasing Smaller Games Faster",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-09-05T18:14:08.862710+00:00"
-    },
-    {
-      "tweet": "Bro, AI is handling all the incidents now. We’re literally just watching the screen to make sure it doesn’t break while we forget how the whole system even works. We're just the backup now.",
-      "original_url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "AI handles incidents, engineers lose touch with their systems",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-09-05T13:01:53.999564+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -231,6 +176,28 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "It took three years to recover those remains in Gaza. That is just brutal.",
+      "original_url": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-09-05T18:14:08.862833+00:00"
+    },
+    {
+      "tweet": "The Granblue guys are starting a new label to release smaller games faster. Just what the industry needs, more stuff.",
+      "original_url": "https://kotaku.com/granblue-fantasy-relink-company-announces-new-publishing-label-aimed-at-releasing-smaller-games-faster-2000731080",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Granblue Fantasy Relink Company Announces New Publishing Label Aimed At Releasing Smaller Games Faster",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-09-05T18:14:08.862710+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -838,39 +805,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Keffe D did an interview after that whole Tupac conviction thing. Just keep digging.",
-      "original_url": "https://www.billboard.com/business/legal/keffe-d-duane-davis-first-interview-tupac-shakur-murder-1236334996/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Duane ‘Keffe D’ Davis Gives First Interview After Tupac Shakur Murder Conviction",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-09-05T20:20:06.962587+00:00"
-    },
-    {
-      "tweet": "Have you seen these AI ads hitting social media in Victoria? Who is actually funding this trash?",
-      "original_url": "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Alarming AI ads are flooding social media in the lead-up to Victoria’s election. But who is behind them?",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-09-05T20:20:06.961794+00:00"
-    },
-    {
-      "tweet": "So apparently the US just hit three Iranian tankers after saying our warships were targeted. At this point we’re just waiting for the next one, man",
-      "original_url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "US hits three Iranian oil tankers after saying its warships were targeted",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-09-05T16:01:39.508223+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -880,6 +814,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
+    },
+    {
+      "tweet": "Bro, AI is handling all the incidents now. We’re literally just watching the screen to make sure it doesn’t break while we forget how the whole system even works. We're just the backup now.",
+      "original_url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "AI handles incidents, engineers lose touch with their systems",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-09-05T13:01:53.999564+00:00"
     },
     {
       "tweet": "Pokemon creators are finally ditching the turn-based style after thirty years. Turns out even they realized we're bored of the same thing.",
@@ -1034,6 +979,39 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-06-30T05:53:49.786311+00:00"
+    },
+    {
+      "tweet": "Keffe D did an interview after that whole Tupac conviction thing. Just keep digging.",
+      "original_url": "https://www.billboard.com/business/legal/keffe-d-duane-davis-first-interview-tupac-shakur-murder-1236334996/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Duane ‘Keffe D’ Davis Gives First Interview After Tupac Shakur Murder Conviction",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-09-05T20:20:06.962587+00:00"
+    },
+    {
+      "tweet": "Have you seen these AI ads hitting social media in Victoria? Who is actually funding this trash?",
+      "original_url": "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Alarming AI ads are flooding social media in the lead-up to Victoria’s election. But who is behind them?",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-09-05T20:20:06.961794+00:00"
+    },
+    {
+      "tweet": "So apparently the US just hit three Iranian tankers after saying our warships were targeted. At this point we’re just waiting for the next one, man",
+      "original_url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "US hits three Iranian oil tankers after saying its warships were targeted",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-09-05T16:01:39.508223+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3692,
+    "total_posted": 3694,
     "total_collected": 16579
   },
-  "last_posted_at": "2026-09-05T20:28:11.094530+00:00"
+  "last_posted_at": "2026-09-05T22:16:25.159572+00:00"
 }
