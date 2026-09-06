@@ -2,83 +2,6 @@
   "last_collected": "2026-09-05T23:52:31.773542+00:00",
   "queue": [
     {
-      "tweet": "Man Utd think they can keep up with the big spenders despite everything. Are they actually watching the same games we are",
-      "original_url": "https://www.bbc.co.uk/sport/football/articles/cg49v57rxvgo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "How Man Utd plan to compete at top with richer rivals",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-09-05T23:52:31.772849+00:00"
-    },
-    {
-      "tweet": "Found a list of clothes that don't cling to your body. Sometimes you just don't want to think about what you're wearing, man",
-      "original_url": "https://www.bustle.com/shopping/flattering-clothes-that-dont-cling-to-your-body-are-surprisingly-cheap-on-amazon",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Flattering Clothes That Don't Cling To Your Body & Are Surprisingly Cheap On Amazon",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-09-05T23:52:31.772435+00:00"
-    },
-    {
-      "tweet": "So apparently GPT-6 is already in the mix. Are we just gonna keep doing this every six months until the servers hit a wall?",
-      "original_url": "https://openai.com/index/gpt-6-astra/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "GPT-6 Astra",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-09-05T18:14:08.861020+00:00"
-    },
-    {
-      "tweet": "Nike's officially leaving the S&P 100 this month. Wild that a company that big can just fall off like that.",
-      "original_url": "https://hypebeast.com/2026/9/nike-sp-100-removal-september-2026",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Nike To Leave the S&P 100 on September 21",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-09-05T20:20:06.962095+00:00"
-    },
-    {
-      "tweet": "South Africa just crushed the All Blacks in the final quarter. Those guys are literally built different.",
-      "original_url": "https://www.bbc.co.uk/sport/rugby-union/articles/c7830m55lklo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "South Africa finish strongly to take 2-1 series lead against All Blacks",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-09-05T18:14:08.861579+00:00"
-    },
-    {
-      "tweet": "Another death at Burning Man this year. At this point, that festival is just a survival challenge with better music.",
-      "original_url": "https://www.billboard.com/music/music-news/burning-man-attendee-dies-medical-emergency-nevada-festival-1236334950/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Burning Man Attendee Dies After Suffering ‘Medical Emergency’ at Nevada Festival",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-09-05T18:14:08.861196+00:00"
-    },
-    {
-      "tweet": "Saw an article explaining 'angel numbers' and I swear people just make this stuff up so they have something to feel good about when they're stressed.",
-      "original_url": "https://www.mentalfloss.com/random-facts/meaning-of-all-angel-numbers?utm_source=RSS",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Meanings of All the Angel Numbers, From 1111 to 999",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-09-05T20:20:06.962464+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -112,6 +35,28 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "So apparently GPT-6 is already in the mix. Are we just gonna keep doing this every six months until the servers hit a wall?",
+      "original_url": "https://openai.com/index/gpt-6-astra/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "GPT-6 Astra",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-09-05T18:14:08.861020+00:00"
+    },
+    {
+      "tweet": "Nike's officially leaving the S&P 100 this month. Wild that a company that big can just fall off like that.",
+      "original_url": "https://hypebeast.com/2026/9/nike-sp-100-removal-september-2026",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Nike To Leave the S&P 100 on September 21",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-09-05T20:20:06.962095+00:00"
+    },
+    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -121,94 +66,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Turns out Gold Rush miners were eating eggs that cost a fortune. Back then, dinner was literally a luxury.",
-      "original_url": "https://www.mentalfloss.com/food/what-miners-ate-california-gold-rush?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "What Miners Really Ate During the California Gold Rush",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-09-05T18:14:08.862587+00:00"
-    },
-    {
-      "tweet": "Saw these random organizational hacks on Bustle. We’ll buy anything if it promises to fix our lives for cheap.",
-      "original_url": "https://www.bustle.com/life/weird-cheap-things-thatll-make-you-so-much-more-organized",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "90 Weird, Cheap Things That'll Make You So Much More Organized",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-09-05T18:14:08.862464+00:00"
-    },
-    {
-      "tweet": "Bustle has a list of bougie gifts under 25 bucks. We’re all just pretending to be fancy on a budget.",
-      "original_url": "https://www.bustle.com/shopping/hands-down-the-bougiest-most-useful-gifts-under-25",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Hands Down, The 125 Bougiest & Most Useful Gifts Under $25",
-      "source": "Bustle",
-      "category": "sex",
-      "added_at": "2026-09-05T18:14:08.862340+00:00"
-    },
-    {
-      "tweet": "Netflix dropped this Kevin Langue show today where he just reads people for a living. Kind of a weird flex.",
-      "original_url": "https://usa.newonnetflix.info/info/83155668",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "5th Sep: The Kevin Langue Show (2026), 2 Seasons [TV-MA] (6/10)",
-      "source": "New on Netflix",
-      "category": "entertainment",
-      "added_at": "2026-09-05T18:14:08.862216+00:00"
-    },
-    {
-      "tweet": "Polygon put out a list of the best games we still can't play in the US. It's that feeling of wanting exactly what you can't have.",
-      "original_url": "https://www.polygon.com/5-best-games-not-available-us/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The 5 Best Games That Still Aren't Officially Available in the US",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-09-05T18:14:08.862080+00:00"
-    },
-    {
-      "tweet": "Everyone is losing their minds over these Manhunter theories in Lanterns. We really have nothing better to do, huh.",
-      "original_url": "https://www.polygon.com/who-is-the-manhunter-in-lanterns-8-best-theories/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The 8 Biggest Manhunter Theories in 'Lanterns'",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-09-05T18:14:08.861955+00:00"
-    },
-    {
-      "tweet": "Stern is dropping a Fallout pinball machine now. Guess we're all just chasing that nostalgia hit until we're forty.",
-      "original_url": "https://kotaku.com/following-pokemon-stern-lets-fallout-pinball-machine-out-of-the-vault-2000731561",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Following Pokémon, Stern Lets Fallout Pinball Machine Out Of The Vault",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-09-05T18:14:08.861830+00:00"
-    },
-    {
-      "tweet": "Man City are back on top of the league after that win, but playing that bad against a team like Coventry is just rough.",
-      "original_url": "https://www.aljazeera.com/sports/2026/9/5/haaland-head-man-city-to-the-top-of-premier-league-with-win-over-coventry?traffic_source=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Haaland heads Man City to the top of Premier League with win over Coventry",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-09-05T18:14:08.861703+00:00"
     },
     {
       "tweet": "The whole world just voted to update the map to show Africa's real size and the US was the only one that voted no. Imagine being that petty about geography.",
@@ -805,6 +662,28 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
+      "tweet": "South Africa just crushed the All Blacks in the final quarter. Those guys are literally built different.",
+      "original_url": "https://www.bbc.co.uk/sport/rugby-union/articles/c7830m55lklo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "South Africa finish strongly to take 2-1 series lead against All Blacks",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-09-05T18:14:08.861579+00:00"
+    },
+    {
+      "tweet": "Another death at Burning Man this year. At this point, that festival is just a survival challenge with better music.",
+      "original_url": "https://www.billboard.com/music/music-news/burning-man-attendee-dies-medical-emergency-nevada-festival-1236334950/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Burning Man Attendee Dies After Suffering ‘Medical Emergency’ at Nevada Festival",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-09-05T18:14:08.861196+00:00"
+    },
+    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -814,6 +693,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
+    },
+    {
+      "tweet": "Saw an article explaining 'angel numbers' and I swear people just make this stuff up so they have something to feel good about when they're stressed.",
+      "original_url": "https://www.mentalfloss.com/random-facts/meaning-of-all-angel-numbers?utm_source=RSS",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Meanings of All the Angel Numbers, From 1111 to 999",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-09-05T20:20:06.962464+00:00"
     },
     {
       "tweet": "Pokemon creators are finally ditching the turn-based style after thirty years. Turns out even they realized we're bored of the same thing.",
@@ -970,6 +860,105 @@
       "added_at": "2026-06-30T05:53:49.786311+00:00"
     },
     {
+      "tweet": "Bro, AI is handling all the incidents now. We’re literally just watching the screen to make sure it doesn’t break while we forget how the whole system even works. We're just the backup now.",
+      "original_url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "AI handles incidents, engineers lose touch with their systems",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-09-05T13:01:53.999564+00:00"
+    },
+    {
+      "tweet": "Turns out Gold Rush miners were eating eggs that cost a fortune. Back then, dinner was literally a luxury.",
+      "original_url": "https://www.mentalfloss.com/food/what-miners-ate-california-gold-rush?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "What Miners Really Ate During the California Gold Rush",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-09-05T18:14:08.862587+00:00"
+    },
+    {
+      "tweet": "Saw these random organizational hacks on Bustle. We’ll buy anything if it promises to fix our lives for cheap.",
+      "original_url": "https://www.bustle.com/life/weird-cheap-things-thatll-make-you-so-much-more-organized",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "90 Weird, Cheap Things That'll Make You So Much More Organized",
+      "source": "Bustle",
+      "category": "sex",
+      "added_at": "2026-09-05T18:14:08.862464+00:00"
+    },
+    {
+      "tweet": "Bustle has a list of bougie gifts under 25 bucks. We’re all just pretending to be fancy on a budget.",
+      "original_url": "https://www.bustle.com/shopping/hands-down-the-bougiest-most-useful-gifts-under-25",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Hands Down, The 125 Bougiest & Most Useful Gifts Under $25",
+      "source": "Bustle",
+      "category": "sex",
+      "added_at": "2026-09-05T18:14:08.862340+00:00"
+    },
+    {
+      "tweet": "Netflix dropped this Kevin Langue show today where he just reads people for a living. Kind of a weird flex.",
+      "original_url": "https://usa.newonnetflix.info/info/83155668",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "5th Sep: The Kevin Langue Show (2026), 2 Seasons [TV-MA] (6/10)",
+      "source": "New on Netflix",
+      "category": "entertainment",
+      "added_at": "2026-09-05T18:14:08.862216+00:00"
+    },
+    {
+      "tweet": "Polygon put out a list of the best games we still can't play in the US. It's that feeling of wanting exactly what you can't have.",
+      "original_url": "https://www.polygon.com/5-best-games-not-available-us/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The 5 Best Games That Still Aren't Officially Available in the US",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-09-05T18:14:08.862080+00:00"
+    },
+    {
+      "tweet": "Everyone is losing their minds over these Manhunter theories in Lanterns. We really have nothing better to do, huh.",
+      "original_url": "https://www.polygon.com/who-is-the-manhunter-in-lanterns-8-best-theories/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The 8 Biggest Manhunter Theories in 'Lanterns'",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-09-05T18:14:08.861955+00:00"
+    },
+    {
+      "tweet": "Stern is dropping a Fallout pinball machine now. Guess we're all just chasing that nostalgia hit until we're forty.",
+      "original_url": "https://kotaku.com/following-pokemon-stern-lets-fallout-pinball-machine-out-of-the-vault-2000731561",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Following Pokémon, Stern Lets Fallout Pinball Machine Out Of The Vault",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-09-05T18:14:08.861830+00:00"
+    },
+    {
+      "tweet": "Man City are back on top of the league after that win, but playing that bad against a team like Coventry is just rough.",
+      "original_url": "https://www.aljazeera.com/sports/2026/9/5/haaland-head-man-city-to-the-top-of-premier-league-with-win-over-coventry?traffic_source=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Haaland heads Man City to the top of Premier League with win over Coventry",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-09-05T18:14:08.861703+00:00"
+    },
+    {
       "tweet": "It took three years to recover those remains in Gaza. That is just brutal.",
       "original_url": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss",
       "buzz_score": 70,
@@ -990,17 +979,6 @@
       "source": "Kotaku",
       "category": "entertainment",
       "added_at": "2026-09-05T18:14:08.862710+00:00"
-    },
-    {
-      "tweet": "Bro, AI is handling all the incidents now. We’re literally just watching the screen to make sure it doesn’t break while we forget how the whole system even works. We're just the backup now.",
-      "original_url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "AI handles incidents, engineers lose touch with their systems",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-09-05T13:01:53.999564+00:00"
     },
     {
       "tweet": "That far-right party in Germany is surging in the polls. Guess we’re just watching history repeat itself in real time",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3696,
+    "total_posted": 3698,
     "total_collected": 16595
   },
-  "last_posted_at": "2026-09-06T00:00:53.612843+00:00"
+  "last_posted_at": "2026-09-06T01:47:50.541595+00:00"
 }
