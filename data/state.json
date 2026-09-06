@@ -2,50 +2,6 @@
   "last_collected": "2026-09-06T16:59:51.242774+00:00",
   "queue": [
     {
-      "tweet": "Sony still thinks they can just stop making physical games and we'll just deal with it. They're definitely learning the hard way.",
-      "original_url": "https://www.polygon.com/patch-notes-sony-playstation-state-of-play-no-disc-no-buy/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Sony Can't Hide Forever",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-09-06T16:59:51.241228+00:00"
-    },
-    {
-      "tweet": "The AfD is polling at 41% in that German election. Are we just doing this again?",
-      "original_url": "https://www.theguardian.com/world/2026/sep/06/far-right-afd-saxony-anhalt-state-election-germany",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Far-right AfD predicted to win big in crucial German state election",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-09-06T11:14:56.480132+00:00"
-    },
-    {
-      "tweet": "Texas barbecue is getting a halal makeover right now. Honestly, if the brisket's good, who cares how it's prepped. It's just food.",
-      "original_url": "https://www.npr.org/2026/09/06/nx-s1-5927184/american-muslims-are-giving-texas-barbecue-a-halal-makeover",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "American Muslims are giving Texas barbecue a halal makeover",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-09-06T11:14:56.479464+00:00"
-    },
-    {
-      "tweet": "Saw the latest on that OpenAI termination stuff. Man, that place is pure chaos.",
-      "original_url": "https://neil.fraser.name/news/2026/09/03/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": ".name Termination",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-09-06T11:14:56.480646+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -79,6 +35,28 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "The AfD is polling at 41% in that German election. Are we just doing this again?",
+      "original_url": "https://www.theguardian.com/world/2026/sep/06/far-right-afd-saxony-anhalt-state-election-germany",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Far-right AfD predicted to win big in crucial German state election",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-09-06T11:14:56.480132+00:00"
+    },
+    {
+      "tweet": "Texas barbecue is getting a halal makeover right now. Honestly, if the brisket's good, who cares how it's prepped. It's just food.",
+      "original_url": "https://www.npr.org/2026/09/06/nx-s1-5927184/american-muslims-are-giving-texas-barbecue-a-halal-makeover",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "American Muslims are giving Texas barbecue a halal makeover",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-09-06T11:14:56.479464+00:00"
+    },
+    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -88,28 +66,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Nolan's 'The Odyssey' is staying in IMAX for way longer. Looks like we're spending another three hours in a theater.",
-      "original_url": "https://hypebeast.com/2026/9/christopher-nolan-the-odyssey-extends-historic-imax-70mm-run-news",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Christopher Nolan's 'The Odyssey' Extends Historic IMAX 70mm Run",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-09-06T11:14:56.480236+00:00"
-    },
-    {
-      "tweet": "Katie Taylor actually retired on top after that last fight. That's a rare exit.",
-      "original_url": "https://www.bbc.co.uk/sport/boxing/articles/c5yjr8pp0jwo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Taylor's place among greats set in stone after extraordinary swansong",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-09-06T11:14:56.479926+00:00"
     },
     {
       "tweet": "The whole world just voted to update the map to show Africa's real size and the US was the only one that voted no. Imagine being that petty about geography.",
@@ -706,17 +662,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Iran is saying they're done with proportionate retaliation after the US hit those tankers. Are we really doing this right now?",
-      "original_url": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Iran touts military response as US maintains blockade, hits tankers",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-09-06T16:59:51.241979+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -726,6 +671,17 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
+    },
+    {
+      "tweet": "Saw the latest on that OpenAI termination stuff. Man, that place is pure chaos.",
+      "original_url": "https://neil.fraser.name/news/2026/09/03/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": ".name Termination",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-09-06T11:14:56.480646+00:00"
     },
     {
       "tweet": "Pokemon creators are finally ditching the turn-based style after thirty years. Turns out even they realized we're bored of the same thing.",
@@ -882,6 +838,105 @@
       "added_at": "2026-06-30T05:53:49.786311+00:00"
     },
     {
+      "tweet": "Did you see that new OpenAI agent board? It’s literally just a bunch of bots talking to each other now. Pure noise.",
+      "original_url": "https://collusion.wiki/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Discovery of a new OpenAI agent message board",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-09-06T06:30:06.458398+00:00"
+    },
+    {
+      "tweet": "So apparently GPT-6 is already in the mix. Are we just gonna keep doing this every six months until the servers hit a wall?",
+      "original_url": "https://openai.com/index/gpt-6-astra/",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "GPT-6 Astra",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-09-05T18:14:08.861020+00:00"
+    },
+    {
+      "tweet": "Bro, AI is handling all the incidents now. We’re literally just watching the screen to make sure it doesn’t break while we forget how the whole system even works. We're just the backup now.",
+      "original_url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "AI handles incidents, engineers lose touch with their systems",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-09-05T13:01:53.999564+00:00"
+    },
+    {
+      "tweet": "Nolan's 'The Odyssey' is staying in IMAX for way longer. Looks like we're spending another three hours in a theater.",
+      "original_url": "https://hypebeast.com/2026/9/christopher-nolan-the-odyssey-extends-historic-imax-70mm-run-news",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Christopher Nolan's 'The Odyssey' Extends Historic IMAX 70mm Run",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-09-06T11:14:56.480236+00:00"
+    },
+    {
+      "tweet": "Katie Taylor actually retired on top after that last fight. That's a rare exit.",
+      "original_url": "https://www.bbc.co.uk/sport/boxing/articles/c5yjr8pp0jwo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Taylor's place among greats set in stone after extraordinary swansong",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-09-06T11:14:56.479926+00:00"
+    },
+    {
+      "tweet": "Iran is saying they're done with proportionate retaliation after the US hit those tankers. Are we really doing this right now?",
+      "original_url": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Iran touts military response as US maintains blockade, hits tankers",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-09-06T16:59:51.241979+00:00"
+    },
+    {
+      "tweet": "Bad Bunny just won an Emmy for the Super Bowl halftime show. Seven of them. What are we doing.",
+      "original_url": "https://www.billboard.com/music/awards/bad-bunny-wins-primetime-emmy-super-bowl-halftime-show-1236334994/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Bad Bunny Wins First Primetime Emmy for 2026 Super Bowl Halftime Show",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-09-06T06:30:06.458410+00:00"
+    },
+    {
+      "tweet": "South Africa just crushed the All Blacks in the final quarter. Those guys are literally built different.",
+      "original_url": "https://www.bbc.co.uk/sport/rugby-union/articles/c7830m55lklo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "South Africa finish strongly to take 2-1 series lead against All Blacks",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-09-05T18:14:08.861579+00:00"
+    },
+    {
+      "tweet": "Another death at Burning Man this year. At this point, that festival is just a survival challenge with better music.",
+      "original_url": "https://www.billboard.com/music/music-news/burning-man-attendee-dies-medical-emergency-nevada-festival-1236334950/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Burning Man Attendee Dies After Suffering ‘Medical Emergency’ at Nevada Festival",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-09-05T18:14:08.861196+00:00"
+    },
+    {
       "tweet": "Found some games where your choices actually matter for once. Finally.",
       "original_url": "https://www.polygon.com/best-games-where-choices-matter/",
       "buzz_score": 70,
@@ -937,39 +992,6 @@
       "added_at": "2026-09-06T11:14:56.480028+00:00"
     },
     {
-      "tweet": "Did you see that new OpenAI agent board? It’s literally just a bunch of bots talking to each other now. Pure noise.",
-      "original_url": "https://collusion.wiki/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Discovery of a new OpenAI agent message board",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-09-06T06:30:06.458398+00:00"
-    },
-    {
-      "tweet": "So apparently GPT-6 is already in the mix. Are we just gonna keep doing this every six months until the servers hit a wall?",
-      "original_url": "https://openai.com/index/gpt-6-astra/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "GPT-6 Astra",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-09-05T18:14:08.861020+00:00"
-    },
-    {
-      "tweet": "Bro, AI is handling all the incidents now. We’re literally just watching the screen to make sure it doesn’t break while we forget how the whole system even works. We're just the backup now.",
-      "original_url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "AI handles incidents, engineers lose touch with their systems",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-09-05T13:01:53.999564+00:00"
-    },
-    {
       "tweet": "The far-right in Germany just took a massive chunk of the vote. Seems like everyone's losing their minds.",
       "original_url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -1001,39 +1023,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-09-06T14:11:38.207024+00:00"
-    },
-    {
-      "tweet": "Bad Bunny just won an Emmy for the Super Bowl halftime show. Seven of them. What are we doing.",
-      "original_url": "https://www.billboard.com/music/awards/bad-bunny-wins-primetime-emmy-super-bowl-halftime-show-1236334994/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Bad Bunny Wins First Primetime Emmy for 2026 Super Bowl Halftime Show",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-09-06T06:30:06.458410+00:00"
-    },
-    {
-      "tweet": "South Africa just crushed the All Blacks in the final quarter. Those guys are literally built different.",
-      "original_url": "https://www.bbc.co.uk/sport/rugby-union/articles/c7830m55lklo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "South Africa finish strongly to take 2-1 series lead against All Blacks",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-09-05T18:14:08.861579+00:00"
-    },
-    {
-      "tweet": "Another death at Burning Man this year. At this point, that festival is just a survival challenge with better music.",
-      "original_url": "https://www.billboard.com/music/music-news/burning-man-attendee-dies-medical-emergency-nevada-festival-1236334950/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Burning Man Attendee Dies After Suffering ‘Medical Emergency’ at Nevada Festival",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-09-05T18:14:08.861196+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2029,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3706,
+    "total_posted": 3707,
     "total_collected": 16659
   },
-  "last_posted_at": "2026-09-06T17:09:48.643903+00:00"
+  "last_posted_at": "2026-09-06T18:51:54.654580+00:00"
 }
