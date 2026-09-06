@@ -2,28 +2,6 @@
   "last_collected": "2026-09-06T20:55:41.230386+00:00",
   "queue": [
     {
-      "tweet": "That new Capcom game hit number one on Steam overnight. It's that feeling of waiting 20 years for a sequel that actually hits",
-      "original_url": "https://www.polygon.com/steam-ominusha-way-of-the-sword-number-1-game/",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "New 85% on Metacritic Fantasy Action Game Just Shot Up to No. 1 on Steam Overnight",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-09-06T20:55:41.230237+00:00"
-    },
-    {
-      "tweet": "The US has access to over a hundred Australian bases now. At this point we're just setting up shop everywhere",
-      "original_url": "https://www.theguardian.com/australia-news/ng-interactive/2026/sep/07/us-military-bases-in-australia-map-list-spy-satellite-pine-gap",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The US now has access to more than half Australia’s military bases – could it drag the country unwillingly into war?",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-09-06T20:55:41.229721+00:00"
-    },
-    {
       "tweet": "That German far-right party is basically crushing it in the exit polls. I guess nobody knows what's gonna happen when they actually have to govern",
       "original_url": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right-exit",
       "buzz_score": 85,
@@ -981,28 +959,6 @@
       "added_at": "2026-09-05T18:14:08.861196+00:00"
     },
     {
-      "tweet": "Rauw Alejandro is already talking about his 2027 tour being completely Raúl. Man's really living in the future",
-      "original_url": "https://www.billboard.com/music/latin/rauw-alejandro-red-bull-chapters-forest-hills-stadium-interview-1236335190/",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Rauw Alejandro Turns His Past, Present & Future Into a Three-Act Spectacle at Forest Hills Stadium: ‘2027 Will Be Completely Raúl’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-09-06T20:55:41.229325+00:00"
-    },
-    {
-      "tweet": "Just saw a list of the best states for six-figure jobs. It’s funny how we spend all this time checking these rankings just to end up staying where we're already at",
-      "original_url": "https://www.mentalfloss.com/geography/states/best-worst-states-six-figure-jobs?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The Best—And Worst—States for Six-Figure Jobs",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-09-06T20:55:41.229138+00:00"
-    },
-    {
       "tweet": "Nolan's 'The Odyssey' is staying in IMAX for way longer. Looks like we're spending another three hours in a theater.",
       "original_url": "https://hypebeast.com/2026/9/christopher-nolan-the-odyssey-extends-historic-imax-70mm-run-news",
       "buzz_score": 75,
@@ -1023,6 +979,28 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-09-06T11:14:56.479926+00:00"
+    },
+    {
+      "tweet": "Rauw Alejandro is already talking about his 2027 tour being completely Raúl. Man's really living in the future",
+      "original_url": "https://www.billboard.com/music/latin/rauw-alejandro-red-bull-chapters-forest-hills-stadium-interview-1236335190/",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Rauw Alejandro Turns His Past, Present & Future Into a Three-Act Spectacle at Forest Hills Stadium: ‘2027 Will Be Completely Raúl’",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-09-06T20:55:41.229325+00:00"
+    },
+    {
+      "tweet": "Just saw a list of the best states for six-figure jobs. It’s funny how we spend all this time checking these rankings just to end up staying where we're already at",
+      "original_url": "https://www.mentalfloss.com/geography/states/best-worst-states-six-figure-jobs?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Best—And Worst—States for Six-Figure Jobs",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-09-06T20:55:41.229138+00:00"
     },
     {
       "tweet": "Iran is saying they're done with proportionate retaliation after the US hit those tankers. Are we really doing this right now?",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3709,
+    "total_posted": 3711,
     "total_collected": 16671
   },
-  "last_posted_at": "2026-09-06T21:03:22.742299+00:00"
+  "last_posted_at": "2026-09-06T22:38:37.742520+00:00"
 }
