@@ -2,28 +2,6 @@
   "last_collected": "2026-09-12T20:56:44.269414+00:00",
   "queue": [
     {
-      "tweet": "That Gaza documentary just won a prize at Venice. At this point the art is just documenting reality.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-naza-venice-clip-mp4?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Gaza genocide documentary ‘NAZA’ wins Special Jury Prize at Venice",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-09-12T20:56:44.268391+00:00"
-    },
-    {
-      "tweet": "Hold on, Israel is bombing Lebanon while the talks get postponed again. Business as usual.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/israel-bombs-southern-lebanon-as-talks-postponed?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Israel bombs southern Lebanon as talks postponed",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-09-12T20:56:44.268261+00:00"
-    },
-    {
       "tweet": "Spurs looking toothless again. That new era feeling really didn't last long, did it.",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/cvgydkv0yxdo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -145,17 +123,6 @@
       "added_at": "2026-09-12T16:16:32.140557+00:00"
     },
     {
-      "tweet": "Six guys just got busted for a six million dollar romance scam. Imagine getting played that hard for that long.",
-      "original_url": "https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Six Nigerians extradited to US over $6M online romance scam",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-09-12T16:16:32.140866+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -189,15 +156,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "So apparently Shopify is just ditching React Native and going back to Swift and Kotlin. At this point we're just paying companies to reinvent the wheel every two years.",
-      "original_url": "https://shopify.engineering/back-to-native",
-      "buzz_score": 85,
+      "tweet": "Six guys just got busted for a six million dollar romance scam. Imagine getting played that hard for that long.",
+      "original_url": "https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Shopify is moving from React Native back to Swift and Kotlin",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-09-12T13:08:04.947356+00:00"
+      "original_title": "Six Nigerians extradited to US over $6M online romance scam",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-09-12T16:16:32.140866+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -860,28 +827,6 @@
       "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
-      "tweet": "Xi Jinping got the full red carpet treatment at the BRICS summit today. Politics is just theater man.",
-      "original_url": "https://www.theguardian.com/world/2026/sep/12/xi-jinping-brics-summit-delhi-india-china-relations",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-09-12T13:08:04.948930+00:00"
-    },
-    {
-      "tweet": "Nike is putting suede on the Air Monarchs now. The ultimate dad shoe is finally getting a glow-up.",
-      "original_url": "https://hypebeast.com/2026/9/nike-air-monarch-suede-pack-ib2281-200-ib2281-001-official-images",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Nike Air Monarch Trades Leather for Suede in Two Gum-Soled Holiday Colorways",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-09-12T13:08:04.948176+00:00"
-    },
-    {
       "tweet": "So Britain is actually banning goods from Israeli settlements in the West Bank now. That's a massive move",
       "original_url": "https://www.npr.org/2026/09/08/nx-s1-5961044/uk-occcupied-west-bank-goods-israel",
       "buzz_score": 88,
@@ -981,6 +926,17 @@
       "added_at": "2026-07-25T06:34:55.804482+00:00"
     },
     {
+      "tweet": "So apparently Shopify is just ditching React Native and going back to Swift and Kotlin. At this point we're just paying companies to reinvent the wheel every two years.",
+      "original_url": "https://shopify.engineering/back-to-native",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-09-12T13:08:04.947356+00:00"
+    },
+    {
       "tweet": "Did you see Trump's in Dublin right now? Meeting the Irish leader one minute, then stepping away from golf the next. Priorities.",
       "original_url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -1034,6 +990,28 @@
       "source": "NPR News",
       "category": "world",
       "added_at": "2026-09-11T06:18:35.059697+00:00"
+    },
+    {
+      "tweet": "Xi Jinping got the full red carpet treatment at the BRICS summit today. Politics is just theater man.",
+      "original_url": "https://www.theguardian.com/world/2026/sep/12/xi-jinping-brics-summit-delhi-india-china-relations",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-09-12T13:08:04.948930+00:00"
+    },
+    {
+      "tweet": "Nike is putting suede on the Air Monarchs now. The ultimate dad shoe is finally getting a glow-up.",
+      "original_url": "https://hypebeast.com/2026/9/nike-air-monarch-suede-pack-ib2281-200-ib2281-001-official-images",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "The Nike Air Monarch Trades Leather for Suede in Two Gum-Soled Holiday Colorways",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-09-12T13:08:04.948176+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3787,
+    "total_posted": 3789,
     "total_collected": 17166
   },
-  "last_posted_at": "2026-09-12T21:02:00.282771+00:00"
+  "last_posted_at": "2026-09-12T22:52:31.211367+00:00"
 }
