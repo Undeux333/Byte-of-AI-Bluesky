@@ -2,28 +2,6 @@
   "last_collected": "2026-09-11T23:14:34.363571+00:00",
   "queue": [
     {
-      "tweet": "Saudi Arabia says that pipeline got hit by drones from Iraq. Things are just getting weird over there.",
-      "original_url": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Saudi Arabia says East-West pipeline hit by drones launched from Iraq",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-09-11T23:14:34.363016+00:00"
-    },
-    {
-      "tweet": "Bro, Wardogs is this massive 100-player shooter that's basically just a better Battlefield. I think I'm gonna lose my whole weekend.",
-      "original_url": "https://kotaku.com/steams-latest-super-hit-is-a-massive-100-player-warzone-simulator-fueled-by-cash-that-has-me-hooked-2000733568",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Steam’s Latest Super Hit Is A Massive 100-Player Warzone Simulator Fueled By Cash That Has Me Hooked",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-09-11T23:14:34.363351+00:00"
-    },
-    {
       "tweet": "Xabi Alonso is saying this Joao Pedro kid is as good as Haaland. It's that feeling when you realize you're getting old and don't even recognize the names on the pitch.",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/c1j4z1ry29jo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 75,
@@ -68,39 +46,6 @@
       "added_at": "2026-09-11T18:30:34.846266+00:00"
     },
     {
-      "tweet": "There’s this game about a raccoon on a BMX bike that’s making me miss being a kid. We’re all just chasing that specific vibe again.",
-      "original_url": "https://kotaku.com/tanuki-pons-summer-childhood-nostalgia-summer-2000733507",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "A Game About A Delivery Raccoon On A BMX Bike Is Making Me Nostalgic For My Childhood Summers",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-09-11T18:30:34.846821+00:00"
-    },
-    {
-      "tweet": "Did you see Rockstar Games is getting dragged for that whole watch list thing? Imagine making billions off chaos and then firing people for wanting a union.",
-      "original_url": "https://www.theguardian.com/money/2026/sep/11/man-sacked-grand-theft-auto-rockstar-games-watch-list",
-      "buzz_score": 88,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Man sacked by Grand Theft Auto maker believes employees were put on ‘watch list’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-09-11T21:10:27.344955+00:00"
-    },
-    {
-      "tweet": "Israel just blew up that massive Hezbollah base and it actually registered as a magnitude four earthquake. That’s not a blast, that’s a tectonic event.",
-      "original_url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Israel says it has destroyed major underground Hezbollah base",
-      "source": "BBC World",
-      "category": "world",
-      "added_at": "2026-09-11T15:11:41.391386+00:00"
-    },
-    {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
       "original_url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 95,
@@ -134,15 +79,15 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
-      "tweet": "Did you see Shopify is dumping React Native for Swift and Kotlin? They finally realized they’re just chasing trends instead of building something that actually works. Typical.",
-      "original_url": "https://shopify.engineering/back-to-native",
-      "buzz_score": 85,
+      "tweet": "There’s this game about a raccoon on a BMX bike that’s making me miss being a kid. We’re all just chasing that specific vibe again.",
+      "original_url": "https://kotaku.com/tanuki-pons-summer-childhood-nostalgia-summer-2000733507",
+      "buzz_score": 80,
       "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "Shopify is moving from React Native back to Swift and Kotlin",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-09-11T15:11:41.391356+00:00"
+      "original_title": "A Game About A Delivery Raccoon On A BMX Bike Is Making Me Nostalgic For My Childhood Summers",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-09-11T18:30:34.846821+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -154,6 +99,28 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
+    },
+    {
+      "tweet": "Did you see Rockstar Games is getting dragged for that whole watch list thing? Imagine making billions off chaos and then firing people for wanting a union.",
+      "original_url": "https://www.theguardian.com/money/2026/sep/11/man-sacked-grand-theft-auto-rockstar-games-watch-list",
+      "buzz_score": 88,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Man sacked by Grand Theft Auto maker believes employees were put on ‘watch list’",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-09-11T21:10:27.344955+00:00"
+    },
+    {
+      "tweet": "Israel just blew up that massive Hezbollah base and it actually registered as a magnitude four earthquake. That’s not a blast, that’s a tectonic event.",
+      "original_url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 90,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Israel says it has destroyed major underground Hezbollah base",
+      "source": "BBC World",
+      "category": "world",
+      "added_at": "2026-09-11T15:11:41.391386+00:00"
     },
     {
       "tweet": "Did you see Trump's promising everyone 5 grand if the GOP wins the midterms. Like, are we just doing bribes now",
@@ -794,17 +761,6 @@
       "added_at": "2026-07-23T18:00:42.945990+00:00"
     },
     {
-      "tweet": "Ciganda had to save the day for Europe at the Solheim Cup because the top pair just didn't show up. Brutal.",
-      "original_url": "https://www.bbc.co.uk/sport/golf/articles/cm2q83edzzlo?at_medium=RSS&at_campaign=rss",
-      "buzz_score": 78,
-      "buzz_score2": 92,
-      "rewrite_count": 0,
-      "original_title": "Ciganda's late sparkle lifts Europe on dramatic opening day of Solheim Cup",
-      "source": "BBC Sport",
-      "category": "sports",
-      "added_at": "2026-09-11T21:10:27.345516+00:00"
-    },
-    {
       "tweet": "So Britain is actually banning goods from Israeli settlements in the West Bank now. That's a massive move",
       "original_url": "https://www.npr.org/2026/09/08/nx-s1-5961044/uk-occcupied-west-bank-goods-israel",
       "buzz_score": 88,
@@ -904,6 +860,17 @@
       "added_at": "2026-07-25T06:34:55.804482+00:00"
     },
     {
+      "tweet": "Did you see Shopify is dumping React Native for Swift and Kotlin? They finally realized they’re just chasing trends instead of building something that actually works. Typical.",
+      "original_url": "https://shopify.engineering/back-to-native",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-09-11T15:11:41.391356+00:00"
+    },
+    {
       "tweet": "Hold on, the Houthis just took over that port in Yemen. That's a massive deal for shipping. Casual Monday chaos.",
       "original_url": "https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port",
       "buzz_score": 85,
@@ -981,28 +948,6 @@
       "added_at": "2026-09-11T01:27:31.814245+00:00"
     },
     {
-      "tweet": "Roblox games are starting to drop as standalone apps now. Feel like we're about to see some cursed stuff on the app store.",
-      "original_url": "https://kotaku.com/the-most-viral-roblox-games-are-about-to-break-containment-2000733606",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "The Most Viral Roblox Games Are About To Break Containment",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-09-11T23:14:34.363241+00:00"
-    },
-    {
-      "tweet": "So apparently Colombia is going back to spraying coca crops from the sky again. Just feels like we’re stuck in the 80s forever.",
-      "original_url": "https://www.nytimes.com/2026/09/11/world/americas/colombia-aerial-spraying-coca-crops.html",
-      "buzz_score": 80,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Colombia to Start Aerial Spraying of Coca Crops Despite Health Worries",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-09-11T23:14:34.362666+00:00"
-    },
-    {
       "tweet": "There’s like 13 horror movies dropping this October. I guess I know what I’m doing all month.",
       "original_url": "https://www.polygon.com/13-horror-movies-coming-out-this-october/",
       "buzz_score": 82,
@@ -1025,6 +970,17 @@
       "added_at": "2026-09-11T06:18:35.059794+00:00"
     },
     {
+      "tweet": "Ciganda had to save the day for Europe at the Solheim Cup because the top pair just didn't show up. Brutal.",
+      "original_url": "https://www.bbc.co.uk/sport/golf/articles/cm2q83edzzlo?at_medium=RSS&at_campaign=rss",
+      "buzz_score": 78,
+      "buzz_score2": 92,
+      "rewrite_count": 0,
+      "original_title": "Ciganda's late sparkle lifts Europe on dramatic opening day of Solheim Cup",
+      "source": "BBC Sport",
+      "category": "sports",
+      "added_at": "2026-09-11T21:10:27.345516+00:00"
+    },
+    {
       "tweet": "US Open guys are getting to bed at like 7 AM because these matches are going all night. That schedule is brutal.",
       "original_url": "https://www.bbc.co.uk/sport/tennis/articles/crk3jjp2l35o?at_medium=RSS&at_campaign=rss",
       "buzz_score": 80,
@@ -1034,6 +990,28 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-09-11T11:35:30.284029+00:00"
+    },
+    {
+      "tweet": "Roblox games are starting to drop as standalone apps now. Feel like we're about to see some cursed stuff on the app store.",
+      "original_url": "https://kotaku.com/the-most-viral-roblox-games-are-about-to-break-containment-2000733606",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "The Most Viral Roblox Games Are About To Break Containment",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-09-11T23:14:34.363241+00:00"
+    },
+    {
+      "tweet": "So apparently Colombia is going back to spraying coca crops from the sky again. Just feels like we’re stuck in the 80s forever.",
+      "original_url": "https://www.nytimes.com/2026/09/11/world/americas/colombia-aerial-spraying-coca-crops.html",
+      "buzz_score": 80,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Colombia to Start Aerial Spraying of Coca Crops Despite Health Worries",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-09-11T23:14:34.362666+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3774,
+    "total_posted": 3776,
     "total_collected": 17082
   },
-  "last_posted_at": "2026-09-11T23:23:11.828428+00:00"
+  "last_posted_at": "2026-09-12T01:12:50.270340+00:00"
 }
