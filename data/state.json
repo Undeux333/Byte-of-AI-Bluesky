@@ -2,28 +2,6 @@
   "last_collected": "2026-09-13T21:41:05.793478+00:00",
   "queue": [
     {
-      "tweet": "The Majora's Mask art director is actually surprised people are hating on him for using AI for his prototypes. Read the room, man.",
-      "original_url": "https://kotaku.com/the-legend-of-zelda-majoras-masks-art-director-gets-blow-back-for-using-ai-in-prototyping-test-2000734003",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "The Legend of Zelda: Majora’s Mask’s Art Director Gets Blow Back For Using AI In Prototyping Test",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-09-13T21:41:05.793072+00:00"
-    },
-    {
-      "tweet": "Apple might actually drop some iPhone controllers soon. We're all just waiting for mobile games to stop sucking.",
-      "original_url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Apple is reportedly working on iPhone game controllers",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-09-13T19:38:55.992823+00:00"
-    },
-    {
       "tweet": "Dude, some guy on HackerNews is claiming he's actually being cyberattacked by Tesla. Imagine your car literally trying to hack you. Wild.",
       "original_url": "https://dreamstation.systems/personal/tesla.html",
       "buzz_score": 85,
@@ -750,17 +728,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Larry Ellison just canceled his 7.5 billion dollar stock sale. Guess he decided he didn't need the pocket change this week.",
-      "original_url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-09-13T21:41:05.793346+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -869,17 +836,6 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-07-25T06:34:55.804482+00:00"
-    },
-    {
-      "tweet": "Another death from measles in the US? I thought we handled that, but here we are in 2024. Just straight up embarrassing.",
-      "original_url": "https://www.aljazeera.com/news/2026/9/13/a-third-person-has-died-of-measles-in-the-us-health-officials-say?traffic_source=rss",
-      "buzz_score": 82,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "A third person has died of measles in the US, health officials say",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-09-13T21:41:05.792945+00:00"
     },
     {
       "tweet": "This kid in Alaska survived two days just hanging onto a capsized boat in the Bering Sea. How is he even alive.",
@@ -1014,6 +970,17 @@
       "added_at": "2026-09-11T06:18:35.059697+00:00"
     },
     {
+      "tweet": "Larry Ellison just canceled his 7.5 billion dollar stock sale. Guess he decided he didn't need the pocket change this week.",
+      "original_url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+      "source": "TechCrunch",
+      "category": "tech",
+      "added_at": "2026-09-13T21:41:05.793346+00:00"
+    },
+    {
       "tweet": "Found a list of free action shows to stream. We really are just looking for anything to kill three hours on a Tuesday.",
       "original_url": "https://www.polygon.com/best-action-shows-free-online-streaming/",
       "buzz_score": 80,
@@ -1034,6 +1001,17 @@
       "source": "Polygon",
       "category": "entertainment",
       "added_at": "2026-09-13T05:02:35.098638+00:00"
+    },
+    {
+      "tweet": "Another death from measles in the US? I thought we handled that, but here we are in 2024. Just straight up embarrassing.",
+      "original_url": "https://www.aljazeera.com/news/2026/9/13/a-third-person-has-died-of-measles-in-the-us-health-officials-say?traffic_source=rss",
+      "buzz_score": 82,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "A third person has died of measles in the US, health officials say",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-09-13T21:41:05.792945+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3803,
+    "total_posted": 3805,
     "total_collected": 17262
   },
-  "last_posted_at": "2026-09-13T21:50:34.617383+00:00"
+  "last_posted_at": "2026-09-13T23:34:39.575681+00:00"
 }
