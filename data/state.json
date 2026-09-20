@@ -2,28 +2,6 @@
   "last_collected": "2026-09-20T21:40:56.509073+00:00",
   "queue": [
     {
-      "tweet": "Nicki Minaj is out here on Fox News talking about why she supports Trump. What a wild timeline.",
-      "original_url": "https://www.billboard.com/music/music-news/nicki-minaj-responds-criticism-trump-support-1236344201/",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Nicki Minaj Responds to Criticism Over Her Support for Trump Administration: ‘I Just Love Him’",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-09-20T19:25:36.073379+00:00"
-    },
-    {
-      "tweet": "Wait, they’re literally scrubbing the gay relationship out of Wolverine in the Middle East? Come on.",
-      "original_url": "https://kotaku.com/marvels-wolverine-seemingly-censored-in-some-places-cutting-references-to-mystiques-lesbian-relationship-2000735943",
-      "buzz_score": 88,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Marvel’s Wolverine Seemingly Censored In Some Places, Cutting References To Mystique’s Lesbian Relationship",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-09-20T17:05:12.492724+00:00"
-    },
-    {
       "tweet": "Man, another one in the West Bank right before the holiday. It’s never ending.",
       "original_url": "https://www.nytimes.com/2026/09/20/world/middleeast/israeli-killed-west-bank-attack.html",
       "buzz_score": 85,
@@ -33,17 +11,6 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-09-20T17:05:12.492376+00:00"
-    },
-    {
-      "tweet": "Those Baltic spy chiefs are saying Moscow is gonna make a move in months, not years. Pretty casual way to drop that info.",
-      "original_url": "https://www.theguardian.com/world/2026/sep/20/baltic-spy-chiefs-warn-moscow-is-preparing-for-more-decisive-action-in-europe",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Baltic spy chiefs warn Moscow is preparing for more decisive action in Europe",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-09-20T17:05:12.492516+00:00"
     },
     {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
@@ -77,6 +44,17 @@
       "source": "BBC World",
       "category": "world",
       "added_at": "2026-05-02T01:17:18.818540+00:00"
+    },
+    {
+      "tweet": "Those Baltic spy chiefs are saying Moscow is gonna make a move in months, not years. Pretty casual way to drop that info.",
+      "original_url": "https://www.theguardian.com/world/2026/sep/20/baltic-spy-chiefs-warn-moscow-is-preparing-for-more-decisive-action-in-europe",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Baltic spy chiefs warn Moscow is preparing for more decisive action in Europe",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-09-20T17:05:12.492516+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -761,17 +739,6 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "Dude, The Pokémon Company accidentally printed a bunch of cursed misprints and now people are losing their minds. It's literally a paper money printer.",
-      "original_url": "https://kotaku.com/cursed-blood-mew-misprinted-pokemon-cards-have-collectors-seeing-red-and-resellers-seeing-dollar-signs-2000735967",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Cursed ‘Blood Mew’ Misprinted Pokémon Cards Have Collectors Seeing Red And Resellers Seeing Dollar Signs",
-      "source": "Kotaku",
-      "category": "entertainment",
-      "added_at": "2026-09-20T21:40:56.507710+00:00"
-    },
-    {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "buzz_score": 75,
@@ -781,17 +748,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-07-23T18:00:42.945990+00:00"
-    },
-    {
-      "tweet": "Did you see that old Family Dollar in New Orleans is now a free store and a skate rink. Talk about a glow up.",
-      "original_url": "https://www.npr.org/2026/09/20/nx-s1-5940784/new-orleans-lower-ninth-ward-free-store",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "In New Orleans, an empty building becomes a free store — and roller skating rink",
-      "source": "NPR News",
-      "category": "world",
-      "added_at": "2026-09-20T13:47:28.025326+00:00"
     },
     {
       "tweet": "So Britain is actually banning goods from Israeli settlements in the West Bank now. That's a massive move",
@@ -893,17 +849,6 @@
       "added_at": "2026-07-25T06:34:55.804482+00:00"
     },
     {
-      "tweet": "Iran’s basketball team just won bronze and they're exempt from military service now. That's one hell of an incentive to play hard.",
-      "original_url": "https://www.aljazeera.com/sports/2026/9/20/iran-win-asian-games-basketball-bronze-amid-emotional-scenes?traffic_source=rss",
-      "buzz_score": 78,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Iran win Asian Games basketball bronze amid emotional scenes",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-09-20T13:47:28.025736+00:00"
-    },
-    {
       "tweet": "Bro, check this e-ink frame out. It listens to birds and draws them like it’s 1800. We’re really out here outsourcing nature to robots.",
       "original_url": "https://github.com/arnegiacomo/fugleramme",
       "buzz_score": 85,
@@ -990,6 +935,39 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-09-17T15:48:50.104535+00:00"
+    },
+    {
+      "tweet": "Dude, The Pokémon Company accidentally printed a bunch of cursed misprints and now people are losing their minds. It's literally a paper money printer.",
+      "original_url": "https://kotaku.com/cursed-blood-mew-misprinted-pokemon-cards-have-collectors-seeing-red-and-resellers-seeing-dollar-signs-2000735967",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Cursed ‘Blood Mew’ Misprinted Pokémon Cards Have Collectors Seeing Red And Resellers Seeing Dollar Signs",
+      "source": "Kotaku",
+      "category": "entertainment",
+      "added_at": "2026-09-20T21:40:56.507710+00:00"
+    },
+    {
+      "tweet": "Did you see that old Family Dollar in New Orleans is now a free store and a skate rink. Talk about a glow up.",
+      "original_url": "https://www.npr.org/2026/09/20/nx-s1-5940784/new-orleans-lower-ninth-ward-free-store",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "In New Orleans, an empty building becomes a free store — and roller skating rink",
+      "source": "NPR News",
+      "category": "world",
+      "added_at": "2026-09-20T13:47:28.025326+00:00"
+    },
+    {
+      "tweet": "Iran’s basketball team just won bronze and they're exempt from military service now. That's one hell of an incentive to play hard.",
+      "original_url": "https://www.aljazeera.com/sports/2026/9/20/iran-win-asian-games-basketball-bronze-amid-emotional-scenes?traffic_source=rss",
+      "buzz_score": 78,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Iran win Asian Games basketball bronze amid emotional scenes",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-09-20T13:47:28.025736+00:00"
     },
     {
       "tweet": "Ben Affleck said he almost cast Jennifer Garner in his new movie but realized they’d have way too much baggage. Honestly, fair point.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 3885,
+    "total_posted": 3887,
     "total_collected": 17792
   },
-  "last_posted_at": "2026-09-20T21:46:50.364659+00:00"
+  "last_posted_at": "2026-09-20T23:38:16.379556+00:00"
 }
