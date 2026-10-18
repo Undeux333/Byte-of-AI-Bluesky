@@ -2,28 +2,6 @@
   "last_collected": "2026-10-17T22:38:51.014031+00:00",
   "queue": [
     {
-      "tweet": "Dude, gold is literally the top U.S. export right now. We're out here acting like a literal pirate movie.",
-      "original_url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Gold is now the top U.S. export",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-10-17T22:38:51.012233+00:00"
-    },
-    {
-      "tweet": "Meta just pulled that weird language about scraping our data for AI. They think we're not watching, man.",
-      "original_url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Meta removes language that raised scraping and AI training concerns",
-      "source": "TechCrunch",
-      "category": "tech",
-      "added_at": "2026-10-17T22:38:51.013141+00:00"
-    },
-    {
       "tweet": "France is basically on fire because people can't afford to live anymore. Seems like they're finally losing it.",
       "original_url": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
       "buzz_score": 80,
@@ -44,6 +22,17 @@
       "source": "Kotaku",
       "category": "entertainment",
       "added_at": "2026-10-17T20:31:35.805166+00:00"
+    },
+    {
+      "tweet": "So apparently Microsoft is thinking about making Minecraft and Fallout exclusive to Xbox. I mean, do they even want people to play their games anymore?",
+      "original_url": "https://www.polygon.com/xbox-exclusive-minecraft-fallout-elder-scrolls/",
+      "buzz_score": 95,
+      "buzz_score2": 96,
+      "rewrite_count": 0,
+      "original_title": "Xbox Considers Making Fallout, Elder Scrolls, and Minecraft Exclusive",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-10-14T23:36:34.449699+00:00"
     },
     {
       "tweet": "Just read that Mary Shelley literally wrote Frankenstein 'cause it was too rainy to go outside on vacation. We really don't do enough with our downtime, man.",
@@ -88,28 +77,6 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-10-17T18:01:29.327090+00:00"
-    },
-    {
-      "tweet": "So apparently Microsoft is thinking about making Minecraft and Fallout exclusive to Xbox. I mean, do they even want people to play their games anymore?",
-      "original_url": "https://www.polygon.com/xbox-exclusive-minecraft-fallout-elder-scrolls/",
-      "buzz_score": 95,
-      "buzz_score2": 96,
-      "rewrite_count": 0,
-      "original_title": "Xbox Considers Making Fallout, Elder Scrolls, and Minecraft Exclusive",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-10-14T23:36:34.449699+00:00"
-    },
-    {
-      "tweet": "Iron Maiden is doing a 2027 tour. How are these guys still out here doing full stadium runs after fifty years.",
-      "original_url": "https://www.billboard.com/music/rock/iron-maiden-2027-north-american-tour-dates-1236362365/",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Iron Maiden Announce 2027 Run for Your Lives North American Tour: See the Dates",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-10-17T18:01:29.327217+00:00"
     },
     {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
@@ -970,26 +937,15 @@
       "added_at": "2026-04-09T07:14:41.251481+00:00"
     },
     {
-      "tweet": "17 people died in a stampede at an event in India. We really need to get better at handling crowds.",
-      "original_url": "https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html",
-      "buzz_score": 85,
-      "buzz_score2": 90,
+      "tweet": "Iron Maiden is doing a 2027 tour. How are these guys still out here doing full stadium runs after fifty years.",
+      "original_url": "https://www.billboard.com/music/rock/iron-maiden-2027-north-american-tour-dates-1236362365/",
+      "buzz_score": 75,
+      "buzz_score2": 95,
       "rewrite_count": 0,
-      "original_title": "17 Dead, Dozens Injured After Stampede at Indian Religious Event",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-10-17T22:38:51.013905+00:00"
-    },
-    {
-      "tweet": "So an ICE agent crashed into a guy while chasing a suspect who died years ago. You literally can't make this up.",
-      "original_url": "https://www.theguardian.com/us-news/2026/oct/17/ice-crash-houston",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "ICE agent who crashed into man in Texas was targeting suspect who died years ago, family says",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-10-17T22:38:51.012891+00:00"
+      "original_title": "Iron Maiden Announce 2027 Run for Your Lives North American Tour: See the Dates",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-10-17T18:01:29.327217+00:00"
     },
     {
       "tweet": "Pauline Hanson is blaming fake news for her own messes now. It’s like watching everyone just read from the exact same script.",
@@ -1034,6 +990,28 @@
       "source": "NYT World",
       "category": "world",
       "added_at": "2026-09-07T09:55:24.482279+00:00"
+    },
+    {
+      "tweet": "17 people died in a stampede at an event in India. We really need to get better at handling crowds.",
+      "original_url": "https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "17 Dead, Dozens Injured After Stampede at Indian Religious Event",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-10-17T22:38:51.013905+00:00"
+    },
+    {
+      "tweet": "So an ICE agent crashed into a guy while chasing a suspect who died years ago. You literally can't make this up.",
+      "original_url": "https://www.theguardian.com/us-news/2026/oct/17/ice-crash-houston",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "ICE agent who crashed into man in Texas was targeting suspect who died years ago, family says",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-10-17T22:38:51.012891+00:00"
     }
   ],
   "seen_urls": [
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 4129,
+    "total_posted": 4131,
     "total_collected": 19448
   },
-  "last_posted_at": "2026-10-17T22:47:03.803910+00:00"
+  "last_posted_at": "2026-10-18T00:24:54.966368+00:00"
 }
