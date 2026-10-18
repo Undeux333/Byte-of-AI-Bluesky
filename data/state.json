@@ -2,28 +2,6 @@
   "last_collected": "2026-10-18T21:09:14.909826+00:00",
   "queue": [
     {
-      "tweet": "Some lady in Philly just got arrested for blocking an Uber delivery robot. Why are we fighting the robots already",
-      "original_url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "A woman was arrested in Philly for blocking a delivery robot",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-10-18T18:54:42.933618+00:00"
-    },
-    {
-      "tweet": "Netanyahu is trying to cast doubt on that West Bank attack footage, but the reporter literally filmed them doing it. Not even trying to hide it",
-      "original_url": "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Guardian reporter filmed masked militants seconds before West Bank attack on French mayor",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-10-18T18:54:42.933396+00:00"
-    },
-    {
       "tweet": "Michael Carrick said he had his headphones on to avoid the noise around Man Utd. Imagine being that deep in denial",
       "original_url": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss",
       "buzz_score": 85,
@@ -79,6 +57,17 @@
       "added_at": "2026-10-18T18:54:42.933694+00:00"
     },
     {
+      "tweet": "So apparently Microsoft is thinking about making Minecraft and Fallout exclusive to Xbox. I mean, do they even want people to play their games anymore?",
+      "original_url": "https://www.polygon.com/xbox-exclusive-minecraft-fallout-elder-scrolls/",
+      "buzz_score": 95,
+      "buzz_score2": 96,
+      "rewrite_count": 0,
+      "original_title": "Xbox Considers Making Fallout, Elder Scrolls, and Minecraft Exclusive",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-10-14T23:36:34.449699+00:00"
+    },
+    {
       "tweet": "Ukraine launched over 1,000 drones at Russia in one go. That's a lot of metal in the air.",
       "original_url": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
       "buzz_score": 85,
@@ -99,72 +88,6 @@
       "source": "Kotaku",
       "category": "entertainment",
       "added_at": "2026-10-18T16:33:11.148991+00:00"
-    },
-    {
-      "tweet": "So apparently Microsoft is thinking about making Minecraft and Fallout exclusive to Xbox. I mean, do they even want people to play their games anymore?",
-      "original_url": "https://www.polygon.com/xbox-exclusive-minecraft-fallout-elder-scrolls/",
-      "buzz_score": 95,
-      "buzz_score2": 96,
-      "rewrite_count": 0,
-      "original_title": "Xbox Considers Making Fallout, Elder Scrolls, and Minecraft Exclusive",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-10-14T23:36:34.449699+00:00"
-    },
-    {
-      "tweet": "The Legion Go S is hundreds off right now. If you're gonna get a handheld, that's the one.",
-      "original_url": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-10-18T16:33:11.150109+00:00"
-    },
-    {
-      "tweet": "The Edgerunners lead basically told everyone not to get attached to season two. Sounds like a bloodbath coming.",
-      "original_url": "https://hypebeast.com/2026/10/cyberpunk-edgerunners-2-cd-projekt-red-bartosz-sztybor-showrunner-interview",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Bartosz Sztybor Warns Fans Not To Get Too Attached to ‘Cyberpunk: Edgerunners 2'",
-      "source": "Hypebeast",
-      "category": "entertainment",
-      "added_at": "2026-10-18T16:33:11.149328+00:00"
-    },
-    {
-      "tweet": "Sixth day of protests in Albania and it's getting physical with the police. Getting messy.",
-      "original_url": "https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Photos: Antigovernment protesters clash with police in Albania’s capital",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-10-18T16:33:11.150026+00:00"
-    },
-    {
-      "tweet": "Apparently we scream when we're scared just to cut through the noise, but people scream for no reason all the time. Everyone just wants attention.",
-      "original_url": "https://www.mentalfloss.com/random-facts/why-we-scream-when-scared?utm_source=RSS",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why Do We Scream When We’re Scared?",
-      "source": "Mental Floss",
-      "category": "trivia",
-      "added_at": "2026-10-18T16:33:11.149769+00:00"
-    },
-    {
-      "tweet": "France is calling their own situation a colossal failure of the state. When the government admits that, it's bad.",
-      "original_url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
-      "buzz_score": 75,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "French government in crisis talks after ‘colossal failure of the state’",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-10-18T16:33:11.149688+00:00"
     },
     {
       "tweet": "Man, Trump is out here calling LeBron a racist because he didn't like his take on basketball. Are we really doing this again?",
@@ -200,6 +123,28 @@
       "added_at": "2026-05-02T01:17:18.818540+00:00"
     },
     {
+      "tweet": "The Legion Go S is hundreds off right now. If you're gonna get a handheld, that's the one.",
+      "original_url": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-10-18T16:33:11.150109+00:00"
+    },
+    {
+      "tweet": "The Edgerunners lead basically told everyone not to get attached to season two. Sounds like a bloodbath coming.",
+      "original_url": "https://hypebeast.com/2026/10/cyberpunk-edgerunners-2-cd-projekt-red-bartosz-sztybor-showrunner-interview",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Bartosz Sztybor Warns Fans Not To Get Too Attached to ‘Cyberpunk: Edgerunners 2'",
+      "source": "Hypebeast",
+      "category": "entertainment",
+      "added_at": "2026-10-18T16:33:11.149328+00:00"
+    },
+    {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
       "original_url": "https://www.theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says",
       "buzz_score": 92,
@@ -209,17 +154,6 @@
       "source": "The Guardian",
       "category": "world",
       "added_at": "2026-06-24T11:28:23.259709+00:00"
-    },
-    {
-      "tweet": "Street Fighter flopped at the box office compared to Resident Evil. Nobody wants to see that.",
-      "original_url": "https://www.polygon.com/street-fighter-opening-weekend-box-office/",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Street Fighter Fails To Match Resident Evil's Opening Weekend Box Office Success",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-10-18T16:33:11.150190+00:00"
     },
     {
       "tweet": "So apparently a nursery owner in China fed kids paint just to make the meals look better. People will literally do anything for a aesthetic, man.",
@@ -1023,6 +957,50 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-04-23T20:01:51.951981+00:00"
+    },
+    {
+      "tweet": "Sixth day of protests in Albania and it's getting physical with the police. Getting messy.",
+      "original_url": "https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Photos: Antigovernment protesters clash with police in Albania’s capital",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-10-18T16:33:11.150026+00:00"
+    },
+    {
+      "tweet": "Apparently we scream when we're scared just to cut through the noise, but people scream for no reason all the time. Everyone just wants attention.",
+      "original_url": "https://www.mentalfloss.com/random-facts/why-we-scream-when-scared?utm_source=RSS",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Why Do We Scream When We’re Scared?",
+      "source": "Mental Floss",
+      "category": "trivia",
+      "added_at": "2026-10-18T16:33:11.149769+00:00"
+    },
+    {
+      "tweet": "France is calling their own situation a colossal failure of the state. When the government admits that, it's bad.",
+      "original_url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
+      "buzz_score": 75,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "French government in crisis talks after ‘colossal failure of the state’",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-10-18T16:33:11.149688+00:00"
+    },
+    {
+      "tweet": "Street Fighter flopped at the box office compared to Resident Evil. Nobody wants to see that.",
+      "original_url": "https://www.polygon.com/street-fighter-opening-weekend-box-office/",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Street Fighter Fails To Match Resident Evil's Opening Weekend Box Office Success",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-10-18T16:33:11.150190+00:00"
     },
     {
       "tweet": "Did you see that Jessica Rothe is finally doing a third Happy Death Day? About time.",
@@ -2040,8 +2018,8 @@
   ],
   "carryover_candidates": [],
   "stats": {
-    "total_posted": 4143,
+    "total_posted": 4145,
     "total_collected": 19519
   },
-  "last_posted_at": "2026-10-18T21:15:44.950406+00:00"
+  "last_posted_at": "2026-10-18T23:15:34.931922+00:00"
 }
