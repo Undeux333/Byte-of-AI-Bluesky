@@ -211,6 +211,17 @@
       "added_at": "2026-10-24T19:08:13.853741+00:00"
     },
     {
+      "tweet": "So apparently Microsoft is thinking about making Minecraft and Fallout exclusive to Xbox. I mean, do they even want people to play their games anymore?",
+      "original_url": "https://www.polygon.com/xbox-exclusive-minecraft-fallout-elder-scrolls/",
+      "buzz_score": 95,
+      "buzz_score2": 96,
+      "rewrite_count": 0,
+      "original_title": "Xbox Considers Making Fallout, Elder Scrolls, and Minecraft Exclusive",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-10-14T23:36:34.449699+00:00"
+    },
+    {
       "tweet": "There’s a whole graveyard for failed AI projects now. We're building stuff nobody asked for.",
       "original_url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "buzz_score": 85,
@@ -242,83 +253,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "added_at": "2026-10-24T19:08:13.853363+00:00"
-    },
-    {
-      "tweet": "So apparently Microsoft is thinking about making Minecraft and Fallout exclusive to Xbox. I mean, do they even want people to play their games anymore?",
-      "original_url": "https://www.polygon.com/xbox-exclusive-minecraft-fallout-elder-scrolls/",
-      "buzz_score": 95,
-      "buzz_score2": 96,
-      "rewrite_count": 0,
-      "original_title": "Xbox Considers Making Fallout, Elder Scrolls, and Minecraft Exclusive",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-10-14T23:36:34.449699+00:00"
-    },
-    {
-      "tweet": "Hold on, the U.S. is accusing Canada of election interference now? Are we seriously worried about getting meddled with by the country that invented maple syrup?",
-      "original_url": "https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html",
-      "buzz_score": 90,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Why Is the U.S. Accusing Canada of Election Interference?",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-10-24T16:47:18.575473+00:00"
-    },
-    {
-      "tweet": "Hundreds of thousands are marching across France right now. That is a lot of people.",
-      "original_url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Hundreds of thousands march across France in protests over schools and policing",
-      "source": "The Guardian",
-      "category": "world",
-      "added_at": "2026-10-24T19:08:13.855016+00:00"
-    },
-    {
-      "tweet": "Pennsylvania is forcing labels on AI ads now. About time.",
-      "original_url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Pennsylvania will require labels on AI-generated ads",
-      "source": "The Verge",
-      "category": "tech",
-      "added_at": "2026-10-24T19:08:13.854386+00:00"
-    },
-    {
-      "tweet": "Yo, High Plains Drifter is free on YouTube right now. Best way to kill two hours.",
-      "original_url": "https://www.polygon.com/high-plains-drifter-clint-eastwood-free-to-stream/",
-      "buzz_score": 80,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Clint Eastwood's Most Intense Western Is Officially Streaming for Free on YouTube",
-      "source": "Polygon",
-      "category": "entertainment",
-      "added_at": "2026-10-24T19:08:13.854010+00:00"
-    },
-    {
-      "tweet": "Bro, a train in Brazil just absolutely slammed into a crane that fell on the tracks. Just nightmare fuel.",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/train-slams-into-crane-that-collapsed-onto-railway-line-in-brazil?traffic_source=rss",
-      "buzz_score": 70,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Train slams into crane that collapsed onto railway line in Brazil",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-10-24T21:35:18.038235+00:00"
-    },
-    {
-      "tweet": "Dude, some hacker just got root access to a Samsung TV. Why is my dishwasher probably gonna need a firewall update next week too?",
-      "original_url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-      "buzz_score": 85,
-      "buzz_score2": 95,
-      "rewrite_count": 0,
-      "original_title": "Root shell on Samsung TV",
-      "source": "HackerNews",
-      "category": "tech",
-      "added_at": "2026-10-24T16:47:18.575058+00:00"
     },
     {
       "tweet": "FF14 players are literally watering each other's virtual plants while the game is broken. We really just need stuff to do, huh.",
@@ -396,6 +330,61 @@
       "source": "TechCrunch",
       "category": "tech",
       "added_at": "2026-10-23T00:56:14.553536+00:00"
+    },
+    {
+      "tweet": "Hold on, the U.S. is accusing Canada of election interference now? Are we seriously worried about getting meddled with by the country that invented maple syrup?",
+      "original_url": "https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html",
+      "buzz_score": 90,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Why Is the U.S. Accusing Canada of Election Interference?",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-10-24T16:47:18.575473+00:00"
+    },
+    {
+      "tweet": "Hundreds of thousands are marching across France right now. That is a lot of people.",
+      "original_url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Hundreds of thousands march across France in protests over schools and policing",
+      "source": "The Guardian",
+      "category": "world",
+      "added_at": "2026-10-24T19:08:13.855016+00:00"
+    },
+    {
+      "tweet": "Pennsylvania is forcing labels on AI ads now. About time.",
+      "original_url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Pennsylvania will require labels on AI-generated ads",
+      "source": "The Verge",
+      "category": "tech",
+      "added_at": "2026-10-24T19:08:13.854386+00:00"
+    },
+    {
+      "tweet": "Yo, High Plains Drifter is free on YouTube right now. Best way to kill two hours.",
+      "original_url": "https://www.polygon.com/high-plains-drifter-clint-eastwood-free-to-stream/",
+      "buzz_score": 80,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Clint Eastwood's Most Intense Western Is Officially Streaming for Free on YouTube",
+      "source": "Polygon",
+      "category": "entertainment",
+      "added_at": "2026-10-24T19:08:13.854010+00:00"
+    },
+    {
+      "tweet": "Bro, a train in Brazil just absolutely slammed into a crane that fell on the tracks. Just nightmare fuel.",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/train-slams-into-crane-that-collapsed-onto-railway-line-in-brazil?traffic_source=rss",
+      "buzz_score": 70,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Train slams into crane that collapsed onto railway line in Brazil",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-10-24T21:35:18.038235+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -1045,6 +1034,17 @@
       "source": "Al Jazeera",
       "category": "world",
       "added_at": "2026-06-11T11:06:30.923207+00:00"
+    },
+    {
+      "tweet": "Dude, some hacker just got root access to a Samsung TV. Why is my dishwasher probably gonna need a firewall update next week too?",
+      "original_url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+      "buzz_score": 85,
+      "buzz_score2": 95,
+      "rewrite_count": 0,
+      "original_title": "Root shell on Samsung TV",
+      "source": "HackerNews",
+      "category": "tech",
+      "added_at": "2026-10-24T16:47:18.575058+00:00"
     }
   ],
   "seen_urls": [
