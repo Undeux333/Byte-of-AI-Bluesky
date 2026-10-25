@@ -68,17 +68,6 @@
       "added_at": "2026-10-14T23:36:34.449699+00:00"
     },
     {
-      "tweet": "Everyone's tuning into Sunday Night Football just to see if Taylor Swift shows up. We're cooked.",
-      "original_url": "https://www.billboard.com/culture/product-recommendations/sunday-night-football-2026-2027-watch-nfl-live-online-free-1236343279/",
-      "buzz_score": 95,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "‘Sunday Night Football’: How to Watch Kansas City Chiefs vs. Seattle Seahawks Game Live Online Free",
-      "source": "Billboard",
-      "category": "entertainment",
-      "added_at": "2026-10-25T21:27:49.827924+00:00"
-    },
-    {
       "tweet": "FF14 players are literally watering each other's virtual plants while the game is broken. We really just need stuff to do, huh.",
       "original_url": "https://www.polygon.com/final-fantasy-14-php-issues-planet-watering-community-response/",
       "buzz_score": 95,
@@ -154,6 +143,17 @@
       "source": "TechCrunch",
       "category": "tech",
       "added_at": "2026-10-23T00:56:14.553536+00:00"
+    },
+    {
+      "tweet": "Everyone's tuning into Sunday Night Football just to see if Taylor Swift shows up. We're cooked.",
+      "original_url": "https://www.billboard.com/culture/product-recommendations/sunday-night-football-2026-2027-watch-nfl-live-online-free-1236343279/",
+      "buzz_score": 95,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "‘Sunday Night Football’: How to Watch Kansas City Chiefs vs. Seattle Seahawks Game Live Online Free",
+      "source": "Billboard",
+      "category": "entertainment",
+      "added_at": "2026-10-25T21:27:49.827924+00:00"
     },
     {
       "tweet": "Hold on, that Bondi firebombing was an Iranian spy? The world is getting way too weird lately.",
@@ -871,28 +871,6 @@
       "added_at": "2026-06-11T11:06:30.923207+00:00"
     },
     {
-      "tweet": "So they're cheering the coach but booing Bruno Fernandes at Old Trafford. What are they even doing over there?",
-      "original_url": "https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "Can Carrick survive Man United’s slump and Fernandes fallout?",
-      "source": "Al Jazeera",
-      "category": "world",
-      "added_at": "2026-10-25T21:27:49.828223+00:00"
-    },
-    {
-      "tweet": "That whole election run-up was basically just AI videos flooding the feed. Can't believe anything I see anymore.",
-      "original_url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/ai-videos-flooded-the-internet-in-the-run-up-to-the-election",
-      "buzz_score": 85,
-      "buzz_score2": 90,
-      "rewrite_count": 0,
-      "original_title": "A.I. videos flooded the internet in the run-up to the election.",
-      "source": "NYT World",
-      "category": "world",
-      "added_at": "2026-10-25T21:27:49.827824+00:00"
-    },
-    {
       "tweet": "The AFP boss is saying politicians’ own rhetoric is what’s fueling the threats against them. Turns out words actually have consequences.",
       "original_url": "https://www.theguardian.com/australia-news/2026/oct/25/afp-commissioner-krissy-barrett-threats-mps-political-debate-ntwnfb",
       "buzz_score": 88,
@@ -1012,6 +990,28 @@
       "source": "HackerNews",
       "category": "tech",
       "added_at": "2026-10-24T16:47:18.575058+00:00"
+    },
+    {
+      "tweet": "So they're cheering the coach but booing Bruno Fernandes at Old Trafford. What are they even doing over there?",
+      "original_url": "https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "Can Carrick survive Man United’s slump and Fernandes fallout?",
+      "source": "Al Jazeera",
+      "category": "world",
+      "added_at": "2026-10-25T21:27:49.828223+00:00"
+    },
+    {
+      "tweet": "That whole election run-up was basically just AI videos flooding the feed. Can't believe anything I see anymore.",
+      "original_url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/ai-videos-flooded-the-internet-in-the-run-up-to-the-election",
+      "buzz_score": 85,
+      "buzz_score2": 90,
+      "rewrite_count": 0,
+      "original_title": "A.I. videos flooded the internet in the run-up to the election.",
+      "source": "NYT World",
+      "category": "world",
+      "added_at": "2026-10-25T21:27:49.827824+00:00"
     },
     {
       "tweet": "A24 is dropping two hundred million on an Elden Ring movie. That is a massive swing for them.",
